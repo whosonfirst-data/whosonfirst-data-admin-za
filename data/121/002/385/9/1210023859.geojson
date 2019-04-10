@@ -1,0 +1,69 @@
+{
+  "id": 1210023859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73513,-29.41515,26.73513,-29.41515",
+    "geom:latitude":-29.41515,
+    "geom:longitude":26.73513,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Thalassa",
+    "gn:country_code":"ZA",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949662,
+    "gn:latitude":-29.41515,
+    "gn:longitude":26.73513,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Thalassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949662
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7af08cc893c9756013e8905dbe04f624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1210023859,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1210023859,
+    "wof:lastmodified":1536391630,
+    "wof:name":"Thalassa",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73513,
+    -29.41515,
+    26.73513,
+    -29.41515
+],
+  "geometry": {"coordinates":[26.73513,-29.41515],"type":"Point"}
+}

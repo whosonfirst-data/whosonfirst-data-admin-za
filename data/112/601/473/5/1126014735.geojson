@@ -1,0 +1,116 @@
+{
+  "id": 1126014735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89118,-32.81016,17.89118,-32.81016",
+    "geom:latitude":-32.81016,
+    "geom:longitude":17.89118,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.81016,
+    "lbl:longitude":17.89118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Paternoster"
+    ],
+    "name:dut_x_preferred":[
+        "Paternoster"
+    ],
+    "name:eng_x_preferred":[
+        "Paternoster"
+    ],
+    "name:fre_x_preferred":[
+        "Paternoster"
+    ],
+    "name:ger_x_preferred":[
+        "Paternoster"
+    ],
+    "name:nso_x_preferred":[
+        "Paternoster"
+    ],
+    "name:por_x_preferred":[
+        "Paternoster"
+    ],
+    "name:rum_x_preferred":[
+        "Paternoster"
+    ],
+    "name:swe_x_preferred":[
+        "Paternoster"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3363003,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Paternoster",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":365,
+    "qs_pg:photos_1k":74,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":365,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586439,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363003,
+        "gp:id":1586439,
+        "qs_pg:id":247359,
+        "wd:id":"Q1021700"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300482,
+    "wof:geomhash":"d581a8fa6db2d984ce348e4bc139444e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1126014735,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126014735,
+    "wof:lastmodified":1514504496,
+    "wof:name":"Paternoster",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89118,
+    -32.81016,
+    17.89118,
+    -32.81016
+],
+  "geometry": {"coordinates":[17.89118,-32.81016],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125963113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01656,-22.69223,31.01656,-22.69223",
+    "geom:latitude":-22.69223,
+    "geom:longitude":31.01656,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.69223,
+    "lbl:longitude":31.01656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Punda Milia"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":963874,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Punda Maria",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos":188,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1300482,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586670,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963874,
+        "gp:id":1586670,
+        "qs_pg:id":1300482
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297875,
+    "wof:geomhash":"d6f08899f537a114cead4756b39c89e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1125963113,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125963113,
+    "wof:lastmodified":1509403436,
+    "wof:name":"Punda Maria",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01656,
+    -22.69223,
+    31.01656,
+    -22.69223
+],
+  "geometry": {"coordinates":[31.01656,-22.69223],"type":"Point"}
+}

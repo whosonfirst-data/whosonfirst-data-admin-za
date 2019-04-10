@@ -1,0 +1,96 @@
+{
+  "id": 101925697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000658,
+    "geom:area_square_m":7313659.281477,
+    "geom:bbox":"25.8362693787,-26.0796356201,25.8727531433,-26.0532493591",
+    "geom:latitude":-26.067532,
+    "geom:longitude":25.852921,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.069716,
+    "lbl:longitude":25.853269,
+    "mps:latitude":-26.069716,
+    "mps:longitude":25.853269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Itsoseng"
+    ],
+    "name:dut_x_preferred":[
+        "Itsoseng"
+    ],
+    "name:eng_x_preferred":[
+        "Itsoseng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30c4\u30a9\u30bb\u30f3\u30b0"
+    ],
+    "name:nso_x_preferred":[
+        "Itsoseng"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Itsoseng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.083,
+    "wd:longitude":25.882,
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994432,
+        "gp:id":1582453,
+        "qs:id":383910,
+        "qs_pg:id":383910,
+        "wd:id":"Q6094912"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b15e4ae1f121652b30bf9b5abe5f5078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":101925697,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925697,
+    "wof:lastmodified":1527688523,
+    "wof:name":"Itsoseng",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83626937866211,
+    -26.07963562011719,
+    25.87275314331055,
+    -26.05324935913086
+],
+  "geometry": {"coordinates":[[[25.83632469177246,-26.06073760986328],[25.85626220703125,-26.05976295471191],[25.85507583618164,-26.05324935913086],[25.87275314331055,-26.05503082275391],[25.86077880859375,-26.07963562011719],[25.83626937866211,-26.07926750183105],[25.83632469177246,-26.06073760986328]]],"type":"Polygon"}
+}

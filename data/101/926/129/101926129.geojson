@@ -1,0 +1,73 @@
+{
+  "id": 101926129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":751367.356231,
+    "geom:bbox":"28.4899158478,-26.3633937836,28.4989738464,-26.3518199921",
+    "geom:latitude":-26.356479,
+    "geom:longitude":28.494332,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.355844,
+    "lbl:longitude":28.494699,
+    "mps:latitude":-26.355844,
+    "mps:longitude":28.494699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marievale",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978809,
+        "gp:id":1585889
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b94920214bb200ac7c455b0fba24eae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926129,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926129,
+    "wof:lastmodified":1500027687,
+    "wof:name":"Marievale",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48991584777832,
+    -26.36339378356934,
+    28.49897384643555,
+    -26.35181999206543
+],
+  "geometry": {"coordinates":[[[28.48991584777832,-26.35186004638672],[28.4957447052002,-26.35181999206543],[28.49701881408691,-26.3527889251709],[28.49897384643555,-26.35422897338867],[28.4985237121582,-26.35598754882812],[28.49616050720215,-26.36204719543457],[28.4940185546875,-26.36339378356934],[28.49258995056152,-26.36113166809082],[28.49211502075195,-26.35876083374023],[28.49141120910645,-26.35722923278809],[28.49016952514648,-26.35653495788574],[28.48991584777832,-26.35186004638672]]],"type":"Polygon"}
+}

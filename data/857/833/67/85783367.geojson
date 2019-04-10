@@ -1,0 +1,105 @@
+{
+  "id": 85783367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17046385.798553,
+    "geom:bbox":"27.452728,-26.899497,27.452728,-26.899497",
+    "geom:latitude":-26.899497,
+    "geom:longitude":27.452728,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.899497,
+    "lbl:longitude":27.452728,
+    "mps:latitude":-26.899543,
+    "mps:longitude":27.448126,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Parys Central"
+    ],
+    "name:unk_x_variant":[
+        "Parys Central"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":120,
+    "qs:local_sum":127,
+    "qs:localhoods":2,
+    "qs:name":"Parys Central",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Free State",
+    "qs:name_adm2":"Fezile Dabi",
+    "qs:name_lau":"Ngwathe",
+    "qs:name_local":"Parys",
+    "qs:photo_max":30,
+    "qs:photo_sum":120,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346980,
+    "qs:woe_adm2":56189420,
+    "qs:woe_lau":56189566,
+    "qs:woe_local":1586432,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926531,
+        1108730537,
+        85688915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879889,
+        "qs:id":215465,
+        "qs_pg:id":215465
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81d8cfa6e1f6d79328f1436195cb8d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926531,
+            "neighbourhood_id":85783367,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":85783367,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860492,
+    "wof:name":"Parys Central",
+    "wof:parent_id":101926531,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.452728,
+    -26.899497,
+    27.452728,
+    -26.899497
+],
+  "geometry": {"coordinates":[27.452728,-26.899497],"type":"Point"}
+}

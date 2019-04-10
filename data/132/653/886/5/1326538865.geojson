@@ -1,0 +1,69 @@
+{
+  "id": 1326538865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27975,-29.18604,30.27975,-29.18604",
+    "geom:latitude":-29.18604,
+    "geom:longitude":30.27975,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN223",
+    "gn:asciiname":"Rietvlei",
+    "gn:country_code":"ZA",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961328,
+    "gn:latitude":-29.18604,
+    "gn:longitude":30.27975,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rietvlei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961328
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"95fc00f421a1d41d8318bb16c73a4336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1326538865,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1326538865,
+    "wof:lastmodified":1536973953,
+    "wof:name":"Rietvlei",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27975,
+    -29.18604,
+    30.27975,
+    -29.18604
+],
+  "geometry": {"coordinates":[30.27975,-29.18604],"type":"Point"}
+}

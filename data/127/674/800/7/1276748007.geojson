@@ -1,0 +1,70 @@
+{
+  "id": 1276748007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61895,-23.95307,30.61895,-23.95307",
+    "geom:latitude":-23.95307,
+    "geom:longitude":30.61895,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM334",
+    "gn:asciiname":"Gravelotte",
+    "gn:country_code":"ZA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1000162,
+    "gn:latitude":-23.95307,
+    "gn:longitude":30.61895,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Gravelotte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000162,
+        "wk:page":"Gravelotte%2C_Limpopo"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"492b9e79a8e2f7d0c5ae69f632051651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1276748007,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276748007,
+    "wof:lastmodified":1537576366,
+    "wof:name":"Gravelotte",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61895,
+    -23.95307,
+    30.61895,
+    -23.95307
+],
+  "geometry": {"coordinates":[30.61895,-23.95307],"type":"Point"}
+}

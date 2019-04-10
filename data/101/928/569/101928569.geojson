@@ -1,0 +1,102 @@
+{
+  "id": 101928569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000207,
+    "geom:area_square_m":2187372.547731,
+    "geom:bbox":"28.8678226471,-31.4262962341,28.8850669861,-31.3926239014",
+    "geom:latitude":-31.406916,
+    "geom:longitude":28.879254,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.405936,
+    "lbl:longitude":28.88141,
+    "mps:latitude":-31.405936,
+    "mps:longitude":28.88141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Nyandeni Plaaslike Munisipaliteit"
+    ],
+    "name:dut_x_preferred":[
+        "Nyandeni"
+    ],
+    "name:eng_x_preferred":[
+        "Nyandeni Local Municipality"
+    ],
+    "name:fre_x_preferred":[
+        "Nyandeni"
+    ],
+    "name:ger_x_preferred":[
+        "Nyandeni"
+    ],
+    "name:ita_x_preferred":[
+        "Municipalit\u00e0 locale di Nyandeni"
+    ],
+    "name:nov_x_preferred":[
+        "Nyandeni Komunie"
+    ],
+    "name:nso_x_preferred":[
+        "Nyandeni Mmusogae"
+    ],
+    "name:pol_x_preferred":[
+        "Nyandeni"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nyandeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968739,
+        "gp:id":1588424,
+        "wd:id":"Q596849",
+        "wk:page":"Nyandeni Local Municipality"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2dd09f436b914b91e8b0f16330fae64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928569,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928569,
+    "wof:lastmodified":1514504474,
+    "wof:name":"Nyandeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86782264709473,
+    -31.42629623413086,
+    28.88506698608398,
+    -31.39262390136719
+],
+  "geometry": {"coordinates":[[[28.86851501464844,-31.39459419250488],[28.86782264709473,-31.39262390136719],[28.8726634979248,-31.3926944732666],[28.87587738037109,-31.39460563659668],[28.88221740722656,-31.39554214477539],[28.88278388977051,-31.40022087097168],[28.88506698608398,-31.40594291687012],[28.88348007202148,-31.4090461730957],[28.8831787109375,-31.41284370422363],[28.88347816467285,-31.41572380065918],[28.8837833404541,-31.42546081542969],[28.87875938415527,-31.42629623413086],[28.87836837768555,-31.4205322265625],[28.88037490844727,-31.41741752624512],[28.87812805175781,-31.41277885437012],[28.87760543823242,-31.40954208374023],[28.87839126586914,-31.4077205657959],[28.87784004211426,-31.4035816192627],[28.87566566467285,-31.40128707885742],[28.8732795715332,-31.39899635314941],[28.87065696716309,-31.39580726623535],[28.86851501464844,-31.39459419250488]]],"type":"Polygon"}
+}

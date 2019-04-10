@@ -1,0 +1,75 @@
+{
+  "id": 101927985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000189,
+    "geom:area_square_m":2018715.651319,
+    "geom:bbox":"30.8134441376,-30.0,30.8354606628,-29.9861068726",
+    "geom:latitude":-29.992723,
+    "geom:longitude":30.826312,
+    "geonames:id":"1000981,1006532",
+    "iso:country":"ZA",
+    "lbl:latitude":-29.992425,
+    "lbl:longitude":30.827204,
+    "mps:latitude":-29.992425,
+    "mps:longitude":30.827204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GOLOKODO",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"af7d11b18173df865a76978839a20a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101927985,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927985,
+    "wof:lastmodified":1534986005,
+    "wof:name":"Golokodo",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615627
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81344413757324,
+    -30.0,
+    30.8354606628418,
+    -29.98610687255859
+],
+  "geometry": {"coordinates":[[[30.82503318786621,-30.0],[30.82224082946777,-29.99625015258789],[30.81758308410645,-29.99331283569336],[30.81344413757324,-29.99129104614258],[30.81363868713379,-29.99126625061035],[30.81525611877441,-29.99060249328613],[30.82018280029297,-29.98767852783203],[30.82588577270508,-29.98610687255859],[30.83132553100586,-29.98611450195312],[30.83261489868164,-29.98972320556641],[30.8354606628418,-29.99220848083496],[30.83545684814453,-29.99446296691895],[30.83312225341797,-29.99626350402832],[30.83285713195801,-29.99964714050293],[30.83197402954102,-30.0],[30.82503318786621,-30.0]]],"type":"Polygon"}
+}

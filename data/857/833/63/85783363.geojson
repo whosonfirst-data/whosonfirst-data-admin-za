@@ -1,0 +1,106 @@
+{
+  "id": 85783363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7076456.211608,
+    "geom:bbox":"24.756591,-28.738742,24.756591,-28.738742",
+    "geom:latitude":-28.738742,
+    "geom:longitude":24.756591,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-28.738742,
+    "lbl:longitude":24.756591,
+    "mps:latitude":-28.738361,
+    "mps:longitude":24.759311,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Big Hole Area"
+    ],
+    "name:unk_x_variant":[
+        "Big Hole Area"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":990930,
+    "qs:local_max":211,
+    "qs:local_sum":237,
+    "qs:localhoods":2,
+    "qs:name":"Big Hole Area",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Northern Cape",
+    "qs:name_adm2":"Frances Baard",
+    "qs:name_lau":"Sol Plaatjie",
+    "qs:name_local":"Kimberley",
+    "qs:photo_max":119,
+    "qs:photo_sum":211,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346985,
+    "qs:woe_adm2":56189411,
+    "qs:woe_lau":56189503,
+    "qs:woe_local":1582804,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101924789,
+        1108730599,
+        85688899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879763,
+        "qs:id":1080200,
+        "qs_pg:id":1080200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e00a152323205c6b1d47e2433ed04abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":101924789,
+            "neighbourhood_id":85783363,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":85783363,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860491,
+    "wof:name":"Big Hole Area",
+    "wof:parent_id":101924789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.756591,
+    -28.738742,
+    24.756591,
+    -28.738742
+],
+  "geometry": {"coordinates":[24.756591,-28.738742],"type":"Point"}
+}

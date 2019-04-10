@@ -1,0 +1,92 @@
+{
+  "id": 101927179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:area_square_m":2195289.058689,
+    "geom:bbox":"30.7682266235,-25.1067276001,30.7822875977,-25.0883312225",
+    "geom:latitude":-25.097606,
+    "geom:longitude":30.77603,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.09779,
+    "lbl:longitude":30.776164,
+    "mps:latitude":-25.09779,
+    "mps:longitude":30.776164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sabie"
+    ],
+    "name:eng_x_variant":[
+        "Thaba Chweu"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sabie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.1,
+    "wd:longitude":30.783333,
+    "wd:wordcount":524,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14638c54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":958441,
+        "gp:id":1587102,
+        "qs:id":920205,
+        "qs_pg:id":920205,
+        "wd:id":"Q1013366",
+        "wk:page":"Sabie"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"132c0449b58be7d3c57415a76fc8ce1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927179,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927179,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715641,
+    "wof:name":"Sabie",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76822662353516,
+    -25.10672760009766,
+    30.78228759765625,
+    -25.08833122253418
+],
+  "geometry": {"coordinates":[[[30.77196502685547,-25.09089851379395],[30.77789688110352,-25.08833885192871],[30.78228759765625,-25.08833122253418],[30.78206253051758,-25.08867835998535],[30.78149032592773,-25.10059547424316],[30.78121948242188,-25.10622406005859],[30.7717342376709,-25.10672760009766],[30.7718448638916,-25.10652351379395],[30.77193832397461,-25.10596084594727],[30.77193260192871,-25.10539245605469],[30.7718334197998,-25.10482978820801],[30.77163887023926,-25.10428810119629],[30.77135276794434,-25.10378074645996],[30.77098655700684,-25.10331916809082],[30.77054595947266,-25.1029167175293],[30.77004241943359,-25.10257911682129],[30.76948738098145,-25.10231590270996],[30.76889419555664,-25.10213470458984],[30.76858901977539,-25.10208892822266],[30.77120780944824,-25.09650039672852],[30.76822662353516,-25.09543228149414],[30.7697925567627,-25.0921745300293],[30.77196502685547,-25.09089851379395]]],"type":"Polygon"}
+}

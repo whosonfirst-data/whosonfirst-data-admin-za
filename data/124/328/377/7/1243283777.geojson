@@ -1,0 +1,69 @@
+{
+  "id": 1243283777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05554,-29.01179,21.05554,-29.01179",
+    "geom:latitude":-29.01179,
+    "geom:longitude":21.05554,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Melkboom",
+    "gn:country_code":"ZA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977227,
+    "gn:latitude":-29.01179,
+    "gn:longitude":21.05554,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Melkboom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977227
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5e48b30e1d7dd3214436b0c0ea70c38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1243283777,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1243283777,
+    "wof:lastmodified":1537038450,
+    "wof:name":"Melkboom",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05554,
+    -29.01179,
+    21.05554,
+    -29.01179
+],
+  "geometry": {"coordinates":[21.05554,-29.01179],"type":"Point"}
+}

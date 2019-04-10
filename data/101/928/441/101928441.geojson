@@ -1,0 +1,77 @@
+{
+  "id": 101928441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000288,
+    "geom:area_square_m":3061434.0014,
+    "geom:bbox":"29.7361717224,-30.8667240143,29.7558860779,-30.8379573822",
+    "geom:latitude":-30.850423,
+    "geom:longitude":29.744989,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.849585,
+    "lbl:longitude":29.745661,
+    "mps:latitude":-30.849585,
+    "mps:longitude":29.745661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zizityaneni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936959,
+        "gp:id":1581156
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ae2574dc40a1b7926a553c3b47d19e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928441,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928441,
+    "wof:lastmodified":1534986009,
+    "wof:name":"Zizityaneni",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615707
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73617172241211,
+    -30.86672401428223,
+    29.75588607788086,
+    -30.83795738220215
+],
+  "geometry": {"coordinates":[[[29.75217056274414,-30.84853363037109],[29.75497817993164,-30.85140609741211],[29.75588607788086,-30.85318374633789],[29.75383949279785,-30.85432815551758],[29.74925804138184,-30.85482597351074],[29.74595832824707,-30.85600852966309],[29.74696922302246,-30.86030960083008],[29.75004005432129,-30.86382675170898],[29.7497386932373,-30.86672401428223],[29.74554443359375,-30.86648750305176],[29.74290657043457,-30.86331939697266],[29.7397632598877,-30.85799980163574],[29.74173736572266,-30.85505294799805],[29.7363452911377,-30.84582901000977],[29.73617172241211,-30.84150314331055],[29.73902320861816,-30.83961296081543],[29.74606895446777,-30.83795738220215],[29.74775314331055,-30.8382682800293],[29.7496280670166,-30.84326553344727],[29.75217056274414,-30.84853363037109]]],"type":"Polygon"}
+}

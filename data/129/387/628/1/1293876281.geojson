@@ -1,0 +1,75 @@
+{
+  "id": 1293876281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94476,-26.12955,27.94476,-26.12955",
+    "geom:latitude":-26.12955,
+    "geom:longitude":27.94476,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Fairland",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004599,
+    "gn:latitude":-26.12955,
+    "gn:longitude":27.94476,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Fairland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fairlands",
+        "Fairland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004599,
+        "wk:page":"Fairlands%2C_Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f5444b8da5eb16a8335fcb6176475ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1293876281,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1293876281,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Fairland",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94476,
+    -26.12955,
+    27.94476,
+    -26.12955
+],
+  "geometry": {"coordinates":[27.94476,-26.12955],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343867191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92863,-29.29722,30.92863,-29.29722",
+    "geom:latitude":-29.29722,
+    "geom:longitude":30.92863,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC29",
+    "gn:admin3_code":"KZN293",
+    "gn:asciiname":"KwaMagubane",
+    "gn:country_code":"ZA",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985707,
+    "gn:latitude":-29.29722,
+    "gn:longitude":30.92863,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaMagubane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985707
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4825c5b9fa6243c923144e5ada958d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":1343867191,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343867191,
+    "wof:lastmodified":1536656919,
+    "wof:name":"KwaMagubane",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92863,
+    -29.29722000000001,
+    30.92863,
+    -29.29722000000001
+],
+  "geometry": {"coordinates":[30.92863,-29.29722000000001],"type":"Point"}
+}

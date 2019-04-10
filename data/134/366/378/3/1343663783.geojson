@@ -1,0 +1,69 @@
+{
+  "id": 1343663783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0702,-29.66733,26.0702,-29.66733",
+    "geom:latitude":-29.66733,
+    "geom:longitude":26.0702,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Stillestroom",
+    "gn:country_code":"ZA",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":952160,
+    "gn:latitude":-29.66733,
+    "gn:longitude":26.0702,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Stillestroom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952160
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cb4a03ab21d8be2b8ea0b6939c753d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1343663783,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1343663783,
+    "wof:lastmodified":1536950512,
+    "wof:name":"Stillestroom",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0702,
+    -29.66733,
+    26.0702,
+    -29.66733
+],
+  "geometry": {"coordinates":[26.0702,-29.66733],"type":"Point"}
+}

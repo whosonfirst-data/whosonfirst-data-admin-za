@@ -1,0 +1,69 @@
+{
+  "id": 1293683757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36667,-26.78333,29.36667,-26.78333",
+    "geom:latitude":-26.78333,
+    "geom:longitude":29.36667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP305",
+    "gn:asciiname":"Padgesvlei",
+    "gn:country_code":"ZA",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":966608,
+    "gn:latitude":-26.78333,
+    "gn:longitude":29.36667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Padgesvlei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966608
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5a95f9ac395b812839e4dc569217da88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":1293683757,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1293683757,
+    "wof:lastmodified":1537000700,
+    "wof:name":"Padgesvlei",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36667000000001,
+    -26.78333,
+    29.36667000000001,
+    -26.78333
+],
+  "geometry": {"coordinates":[29.36667000000001,-26.78333],"type":"Point"}
+}

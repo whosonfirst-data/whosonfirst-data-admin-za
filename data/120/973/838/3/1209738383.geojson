@@ -1,0 +1,69 @@
+{
+  "id": 1209738383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11998,-32.72866,28.11998,-32.72866",
+    "geom:latitude":-32.72866,
+    "geom:longitude":28.11998,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Diphini",
+    "gn:country_code":"ZA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009809,
+    "gn:latitude":-32.72866,
+    "gn:longitude":28.11998,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Diphini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009809
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"719c1fc7154cadf3527ad660d9ad20a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1209738383,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1209738383,
+    "wof:lastmodified":1536371187,
+    "wof:name":"Diphini",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11998,
+    -32.72866,
+    28.11998,
+    -32.72866
+],
+  "geometry": {"coordinates":[28.11998,-32.72866],"type":"Point"}
+}

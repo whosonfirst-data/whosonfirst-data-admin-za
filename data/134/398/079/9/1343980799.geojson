@@ -1,0 +1,67 @@
+{
+  "id": 1343980799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94449,-30.39141,29.94449,-30.39141",
+    "geom:latitude":-30.39141,
+    "geom:longitude":29.94449,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Bossenfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016834,
+    "gn:latitude":-30.39141,
+    "gn:longitude":29.94449,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bossenfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016834
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b67de88c6bd68a8871c978cd56cb81ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1343980799,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343980799,
+    "wof:lastmodified":1536989835,
+    "wof:name":"Bossenfontein",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94449,
+    -30.39141,
+    29.94449,
+    -30.39141
+],
+  "geometry": {"coordinates":[29.94449,-30.39141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101928187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1714381.1367,
+    "geom:bbox":"28.7352313995,-30.309431076,28.7551765442,-30.2971229553",
+    "geom:latitude":-30.304207,
+    "geom:longitude":28.74384,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.304432,
+    "lbl:longitude":28.740848,
+    "mps:latitude":-30.304432,
+    "mps:longitude":28.740848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dengwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010961,
+        "gp:id":55880533
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"55b84b79cf7c02d013586a43f0681cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928187,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928187,
+    "wof:lastmodified":1500027821,
+    "wof:name":"Dengwane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73523139953613,
+    -30.3094310760498,
+    28.75517654418945,
+    -30.29712295532227
+],
+  "geometry": {"coordinates":[[[28.74511528015137,-30.30269813537598],[28.75031852722168,-30.30258369445801],[28.75378608703613,-30.30250549316406],[28.75517654418945,-30.30548667907715],[28.75266265869141,-30.30855369567871],[28.74704933166504,-30.3094310760498],[28.73966598510742,-30.30921745300293],[28.73523139953613,-30.30592727661133],[28.73550033569336,-30.3002758026123],[28.73760223388672,-30.29796981811523],[28.74191474914551,-30.29712295532227],[28.74499320983887,-30.29855918884277],[28.74511528015137,-30.30269813537598]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259496139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13485,-27.06253,32.13485,-27.06253",
+    "geom:latitude":-27.06253,
+    "geom:longitude":32.13485,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN272",
+    "gn:asciiname":"KwaNonjinjikazi",
+    "gn:country_code":"ZA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985386,
+    "gn:latitude":-27.06253,
+    "gn:longitude":32.13485,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"KwaNonjinjikazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nonjingigazi",
+        "Nonjinjakazi",
+        "KwaNonjinjikazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985386
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cca2f4f5d580a5dbb274dcffc055289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1259496139,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259496139,
+    "wof:lastmodified":1537716413,
+    "wof:name":"KwaNonjinjikazi",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13485,
+    -27.06253,
+    32.13485,
+    -27.06253
+],
+  "geometry": {"coordinates":[32.13485,-27.06253],"type":"Point"}
+}

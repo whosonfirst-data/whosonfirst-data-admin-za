@@ -1,0 +1,74 @@
+{
+  "id": 1259863845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41667,-23.1,30.41667,-23.1",
+    "geom:latitude":-23.1,
+    "geom:longitude":30.41667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Ka-Shigamane",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991730,
+    "gn:latitude":-23.1,
+    "gn:longitude":30.41667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ka-Shigamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levubye",
+        "Ka-Shigamane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991730
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3fe019f59b54147432ddf377fc37a01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1259863845,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1259863845,
+    "wof:lastmodified":1537716419,
+    "wof:name":"Ka-Shigamane",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41667,
+    -23.1,
+    30.41667,
+    -23.1
+],
+  "geometry": {"coordinates":[30.41667,-23.1],"type":"Point"}
+}

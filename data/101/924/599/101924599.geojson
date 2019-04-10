@@ -1,0 +1,90 @@
+{
+  "id": 101924599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000226,
+    "geom:area_square_m":2534338.51923,
+    "geom:bbox":"31.303937912,-24.8903598785,31.3194065094,-24.8706111908",
+    "geom:latitude":-24.880443,
+    "geom:longitude":31.311747,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.880289,
+    "lbl:longitude":31.311747,
+    "mps:latitude":-24.880289,
+    "mps:longitude":31.311747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Kildare"
+    ],
+    "name:dut_x_preferred":[
+        "Kildare"
+    ],
+    "name:eng_x_preferred":[
+        "Kildare"
+    ],
+    "name:nso_x_preferred":[
+        "Kildare"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KILDARE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990994,
+        "gp:id":55881096,
+        "wd:id":"Q6406706"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a7454b28e23a0961b804e7f4b7564d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924599,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924599,
+    "wof:lastmodified":1534986000,
+    "wof:name":"Kildare",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615509
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3039379119873,
+    -24.89035987854004,
+    31.31940650939941,
+    -24.8706111907959
+],
+  "geometry": {"coordinates":[[[31.31718254089355,-24.87102508544922],[31.31940650939941,-24.8706111907959],[31.31864738464355,-24.87719345092773],[31.31576156616211,-24.89023399353027],[31.30730247497559,-24.89035987854004],[31.30470275878906,-24.88467216491699],[31.30496978759766,-24.88430023193359],[31.30582427978516,-24.88225746154785],[31.30532836914062,-24.87942123413086],[31.3039379119873,-24.87374687194824],[31.31058120727539,-24.87240028381348],[31.31187629699707,-24.87201309204102],[31.31718254089355,-24.87102508544922]]],"type":"Polygon"}
+}

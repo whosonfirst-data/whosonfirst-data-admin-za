@@ -1,0 +1,69 @@
+{
+  "id": 1343683267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42912,-25.08175,30.42912,-25.08175",
+    "geom:latitude":-25.08175,
+    "geom:longitude":30.42912,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP321",
+    "gn:asciiname":"Kellysville",
+    "gn:country_code":"ZA",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9821928,
+    "gn:latitude":-25.08175,
+    "gn:longitude":30.42912,
+    "gn:modification_date":"2014-11-08",
+    "gn:name":"Kellysville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9821928
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e7fbc343dd862b1fb845fa1c097f691a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1343683267,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1343683267,
+    "wof:lastmodified":1536922876,
+    "wof:name":"Kellysville",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42912,
+    -25.08175,
+    30.42912,
+    -25.08175
+],
+  "geometry": {"coordinates":[30.42912,-25.08175],"type":"Point"}
+}

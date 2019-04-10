@@ -1,0 +1,92 @@
+{
+  "id": 1125382577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28747,-29.89175,30.28747,-29.89175",
+    "geom:latitude":-29.89175,
+    "geom:longitude":30.28747,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":56772,
+    "gn:population":56772,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.89175,
+    "lbl:longitude":30.28747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347569,
+    "qs_pg:gn_pop":56772,
+    "qs_pg:name":"Richmond",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":37,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":381644,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189518,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347569,
+        "gp:id":56189518,
+        "qs_pg:id":381644
+    },
+    "wof:concordances_alt":{
+        "gn:id":962330,
+        "qs_pg:id":79211
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048141,
+    "wof:geomhash":"1808003012cc0fe8ef2294bac5ae6d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "localadmin_id":1125382577,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125382577,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Richmond",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"localadmin",
+    "wof:population":56772,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125363187
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28747,
+    -29.89175,
+    30.28747,
+    -29.89175
+],
+  "geometry": {"coordinates":[30.28747,-29.89175],"type":"Point"}
+}

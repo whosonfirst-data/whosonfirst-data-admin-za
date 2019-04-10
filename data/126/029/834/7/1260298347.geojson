@@ -1,0 +1,69 @@
+{
+  "id": 1260298347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08652,-29.53334,31.08652,-29.53334",
+    "geom:latitude":-29.53334,
+    "geom:longitude":31.08652,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC29",
+    "gn:admin3_code":"KZN293",
+    "gn:asciiname":"eNgedleni",
+    "gn:country_code":"ZA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005466,
+    "gn:latitude":-29.53334,
+    "gn:longitude":31.08652,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"eNgedleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005466
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"750d411f923f8bc9a5b1be4f46a4ff4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":1260298347,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1260298347,
+    "wof:lastmodified":1536692101,
+    "wof:name":"eNgedleni",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08652,
+    -29.53334000000001,
+    31.08652,
+    -29.53334000000001
+],
+  "geometry": {"coordinates":[31.08652,-29.53334000000001],"type":"Point"}
+}

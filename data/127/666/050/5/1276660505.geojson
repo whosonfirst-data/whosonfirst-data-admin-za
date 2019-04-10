@@ -1,0 +1,74 @@
+{
+  "id": 1276660505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88333,-28.83333,30.88333,-28.83333",
+    "geom:latitude":-28.83333,
+    "geom:longitude":30.88333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC24",
+    "gn:admin3_code":"KZN245",
+    "gn:asciiname":"The Ranch",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949372,
+    "gn:latitude":-28.83333,
+    "gn:longitude":30.88333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"The Ranch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Randt",
+        "The Ranch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949372
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9f65acefab5b25bbbd2142a13cc1df61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":1276660505,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276660505,
+    "wof:lastmodified":1537716374,
+    "wof:name":"The Ranch",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88333,
+    -28.83333,
+    30.88333,
+    -28.83333
+],
+  "geometry": {"coordinates":[30.88333,-28.83333],"type":"Point"}
+}

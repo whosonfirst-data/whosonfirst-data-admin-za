@@ -1,0 +1,74 @@
+{
+  "id": 1243347937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61667,-22.83333,30.61667,-22.83333",
+    "geom:latitude":-22.83333,
+    "geom:longitude":30.61667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Masikhwa",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978427,
+    "gn:latitude":-22.83333,
+    "gn:longitude":30.61667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Masikhwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masikwa",
+        "Masikhwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978427
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"20a18a04e1992aaaf52a9d93b47cc48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1243347937,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243347937,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Masikhwa",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61667000000001,
+    -22.83333,
+    30.61667000000001,
+    -22.83333
+],
+  "geometry": {"coordinates":[30.61667000000001,-22.83333],"type":"Point"}
+}

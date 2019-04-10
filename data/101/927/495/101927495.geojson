@@ -1,0 +1,72 @@
+{
+  "id": 101927495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1693502.464697,
+    "geom:bbox":"30.1892185211,-27.7605419159,30.203130722,-27.7415657043",
+    "geom:latitude":-27.7503,
+    "geom:longitude":30.196628,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.750254,
+    "lbl:longitude":30.196734,
+    "mps:latitude":-27.750254,
+    "mps:longitude":30.196734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Witteklip",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7f800ebfcea6ca8a3c726e649c57b744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927495,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927495,
+    "wof:lastmodified":1500027488,
+    "wof:name":"Witteklip",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18921852111816,
+    -27.76054191589355,
+    30.2031307220459,
+    -27.7415657043457
+],
+  "geometry": {"coordinates":[[[30.18921852111816,-27.74604797363281],[30.19050216674805,-27.74402618408203],[30.19101715087891,-27.74290084838867],[30.19381713867188,-27.7415657043457],[30.19609642028809,-27.7418041229248],[30.1983699798584,-27.74294662475586],[30.19961166381836,-27.74633598327637],[30.2031307220459,-27.75041770935059],[30.20206642150879,-27.75695419311523],[30.19849014282227,-27.76054191589355],[30.19697189331055,-27.76008033752441],[30.18921852111816,-27.74604797363281]]],"type":"Polygon"}
+}

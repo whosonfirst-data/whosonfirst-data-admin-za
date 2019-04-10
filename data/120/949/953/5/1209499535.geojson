@@ -1,0 +1,63 @@
+{
+  "id": 1209499535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.56667,-24.48333,29.56667,-24.48333",
+    "geom:latitude":-24.48333,
+    "geom:longitude":29.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Sepitsi",
+    "gn:country_code":"ZA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956449,
+    "gn:latitude":-24.48333,
+    "gn:longitude":29.56667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sepitsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956449
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"76795d79a973e53bb47f1eeda8854478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209499535
+        }
+    ],
+    "wof:id":1209499535,
+    "wof:lastmodified":1536285227,
+    "wof:name":"Sepitsi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.56667,
+    -24.48333,
+    29.56667,
+    -24.48333
+],
+  "geometry": {"coordinates":[29.56667,-24.48333],"type":"Point"}
+}

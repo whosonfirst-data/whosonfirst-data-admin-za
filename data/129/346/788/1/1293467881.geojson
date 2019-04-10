@@ -1,0 +1,69 @@
+{
+  "id": 1293467881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36641,-33.48545,21.36641,-33.48545",
+    "geom:latitude":-33.48545,
+    "geom:longitude":21.36641,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC041",
+    "gn:asciiname":"Hoeko",
+    "gn:country_code":"ZA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996175,
+    "gn:latitude":-33.48545,
+    "gn:longitude":21.36641,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hoeko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996175
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fbbd8457130c912acc7b90a90e2aaf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1293467881,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293467881,
+    "wof:lastmodified":1536814708,
+    "wof:name":"Hoeko",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36641,
+    -33.48545,
+    21.36641,
+    -33.48545
+],
+  "geometry": {"coordinates":[21.36641,-33.48545],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 101926315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000793,
+    "geom:area_square_m":8772621.348923,
+    "geom:bbox":"27.4800434113,-26.5049819946,27.5056877136,-26.4643287659",
+    "geom:latitude":-26.486699,
+    "geom:longitude":27.493351,
+    "gn:population":62416,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.492833,
+    "lbl:longitude":27.495672,
+    "mps:latitude":-26.492833,
+    "mps:longitude":27.495672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Fochville"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u043e\u0447\u0432\u0438\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Fochville"
+    ],
+    "name:eng_x_preferred":[
+        "Fochville"
+    ],
+    "name:fra_x_preferred":[
+        "Fochville"
+    ],
+    "name:fre_x_preferred":[
+        "Fochville"
+    ],
+    "name:nld_x_preferred":[
+        "Fochville"
+    ],
+    "name:nso_x_preferred":[
+        "Fochville"
+    ],
+    "name:pol_x_preferred":[
+        "Fochville"
+    ],
+    "name:ron_x_preferred":[
+        "Fochville"
+    ],
+    "name:rum_x_preferred":[
+        "Fochville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0448\u0432\u0438\u043b\u043b"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fochville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-26.492778,
+    "wd:longitude":27.495,
+    "wd:wordcount":409,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004109,
+        "gp:id":1581290,
+        "qs:id":130248,
+        "qs_pg:id":130248,
+        "wd:id":"Q2370739",
+        "wk:page":"Fochville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e9f4bab9620d4b6ee8059233ae98f438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926315,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926315,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Fochville",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:population":62416,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48004341125488,
+    -26.50498199462891,
+    27.50568771362305,
+    -26.46432876586914
+],
+  "geometry": {"coordinates":[[[27.50540161132812,-26.50498199462891],[27.49817085266113,-26.50484848022461],[27.48234367370605,-26.5030574798584],[27.48106384277344,-26.49687957763672],[27.48004341125488,-26.48940849304199],[27.48773384094238,-26.48669242858887],[27.48016357421875,-26.46822738647461],[27.48386573791504,-26.46687126159668],[27.48642539978027,-26.46579360961914],[27.49284553527832,-26.46432876586914],[27.49953842163086,-26.47281646728516],[27.50270462036133,-26.47691535949707],[27.50550079345703,-26.48171424865723],[27.50568771362305,-26.49036407470703],[27.50540161132812,-26.50498199462891]]],"type":"Polygon"}
+}

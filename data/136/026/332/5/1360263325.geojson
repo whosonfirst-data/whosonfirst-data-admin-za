@@ -1,0 +1,69 @@
+{
+  "id": 1360263325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3973,-34.15835,18.3973,-34.15835",
+    "geom:latitude":-34.15835,
+    "geom:longitude":18.3973,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Oaklands",
+    "gn:country_code":"ZA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3363451,
+    "gn:latitude":-34.15835,
+    "gn:longitude":18.3973,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Oaklands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363451
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f6aee0a9947dbed09c12924b89192c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1360263325,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1360263325,
+    "wof:lastmodified":1536688672,
+    "wof:name":"Oaklands",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3973,
+    -34.15835,
+    18.3973,
+    -34.15835
+],
+  "geometry": {"coordinates":[18.3973,-34.15835],"type":"Point"}
+}

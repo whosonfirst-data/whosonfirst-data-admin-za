@@ -1,0 +1,107 @@
+{
+  "id": 1125976587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.917968,-31.34045,20.917968,-31.34045",
+    "geom:latitude":-31.34045,
+    "geom:longitude":20.917968,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.34045,
+    "lbl:longitude":20.917968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Williston"
+    ],
+    "name:chi_x_preferred":[
+        "\u5a01\u5229\u65af\u9813"
+    ],
+    "name:dut_x_preferred":[
+        "Williston"
+    ],
+    "name:eng_x_preferred":[
+        "Williston"
+    ],
+    "name:ger_x_preferred":[
+        "Williston"
+    ],
+    "name:ita_x_preferred":[
+        "Williston"
+    ],
+    "name:rum_x_preferred":[
+        "Williston"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043b\u043b\u0438\u0441\u0442\u043e\u043d"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Williston",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119002,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588909,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588909,
+        "qs_pg:id":1119002,
+        "wd:id":"Q3643589"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298373,
+    "wof:geomhash":"43667de046eaf121c3eeb3022e010946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125976587,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125976587,
+    "wof:lastmodified":1514505116,
+    "wof:name":"Williston",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.917968,
+    -31.34045,
+    20.917968,
+    -31.34045
+],
+  "geometry": {"coordinates":[20.917968,-31.34045],"type":"Point"}
+}

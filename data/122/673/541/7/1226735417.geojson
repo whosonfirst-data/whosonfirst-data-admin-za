@@ -1,0 +1,69 @@
+{
+  "id": 1226735417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08761,-30.92583,22.08761,-30.92583",
+    "geom:latitude":-30.92583,
+    "geom:longitude":22.08761,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC074",
+    "gn:asciiname":"Inkbos",
+    "gn:country_code":"ZA",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994710,
+    "gn:latitude":-30.92583,
+    "gn:longitude":22.08761,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Inkbos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994710
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81cf5f8459e1188fc0296925d463b3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1226735417,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1226735417,
+    "wof:lastmodified":1536730812,
+    "wof:name":"Inkbos",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08761,
+    -30.92583,
+    22.08761,
+    -30.92583
+],
+  "geometry": {"coordinates":[22.08761,-30.92583],"type":"Point"}
+}

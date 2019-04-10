@@ -1,0 +1,69 @@
+{
+  "id": 1242954195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50225,-34.09622,20.50225,-34.09622",
+    "geom:latitude":-34.09622,
+    "geom:longitude":20.50225,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC034",
+    "gn:asciiname":"Bakklysdrift",
+    "gn:country_code":"ZA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1021466,
+    "gn:latitude":-34.09622,
+    "gn:longitude":20.50225,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bakklysdrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021466
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64d938b859fc1d94c3fd2ce7f297e9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1242954195,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1242954195,
+    "wof:lastmodified":1537017591,
+    "wof:name":"Bakklysdrift",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50225,
+    -34.09622,
+    20.50225,
+    -34.09622
+],
+  "geometry": {"coordinates":[20.50225,-34.09622],"type":"Point"}
+}

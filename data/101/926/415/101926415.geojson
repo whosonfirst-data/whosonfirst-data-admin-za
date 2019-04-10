@@ -1,0 +1,70 @@
+{
+  "id": 101926415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":835302.488913,
+    "geom:bbox":"27.9056110382,-26.6868553162,27.9194831848,-26.6769485474",
+    "geom:latitude":-26.682276,
+    "geom:longitude":27.910793,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.682326,
+    "lbl:longitude":27.91032,
+    "mps:latitude":-26.682326,
+    "mps:longitude":27.91032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Powerville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"48d0de3af81cc09ace07d2601a34dd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926415,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926415,
+    "wof:lastmodified":1500027716,
+    "wof:name":"Powerville",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90561103820801,
+    -26.68685531616211,
+    27.91948318481445,
+    -26.67694854736328
+],
+  "geometry": {"coordinates":[[[27.91948318481445,-26.6823787689209],[27.91620635986328,-26.68374443054199],[27.91646575927734,-26.68467903137207],[27.91030311584473,-26.68607902526855],[27.9070930480957,-26.68685531616211],[27.90561103820801,-26.68334579467773],[27.90619659423828,-26.67694854736328],[27.90724182128906,-26.67733383178711],[27.91665840148926,-26.68113899230957],[27.91815185546875,-26.68174362182617],[27.91948318481445,-26.6823787689209]]],"type":"Polygon"}
+}

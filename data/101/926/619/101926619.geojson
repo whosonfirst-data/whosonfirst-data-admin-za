@@ -1,0 +1,120 @@
+{
+  "id": 101926619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1414682.428795,
+    "geom:bbox":"26.5944595337,-27.3924045563,26.6119861603,-27.3801288605",
+    "geom:latitude":-27.384668,
+    "geom:longitude":26.602785,
+    "gn:population":71934,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.384817,
+    "lbl:longitude":26.602619,
+    "mps:latitude":-27.384817,
+    "mps:longitude":26.602619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bothaville"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0442\u0445\u0430\u0432\u0438\u043b\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u5854\u7dad\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Bothaville"
+    ],
+    "name:eng_x_preferred":[
+        "Bothaville"
+    ],
+    "name:epo_x_preferred":[
+        "Bothaville"
+    ],
+    "name:ger_x_preferred":[
+        "Bothaville"
+    ],
+    "name:hak_x_preferred":[
+        "Bothaville"
+    ],
+    "name:ita_x_preferred":[
+        "Bothaville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30bf\u30d3\u30eb"
+    ],
+    "name:nso_x_preferred":[
+        "Bothaville"
+    ],
+    "name:rum_x_preferred":[
+        "Bothaville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0430\u0432\u0438\u043b\u043b\u044c"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bothaville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.383333,
+    "wd:longitude":26.616667,
+    "wd:wordcount":352,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016698,
+        "wd:id":"Q2795307",
+        "wk:page":"Bothaville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bafd892322e6ec89be13b96a509d6f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926619,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926619,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Bothaville",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:population":71934,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59445953369141,
+    -27.39240455627441,
+    26.61198616027832,
+    -27.38012886047363
+],
+  "geometry": {"coordinates":[[[26.61198616027832,-27.38570785522461],[26.61134910583496,-27.38620185852051],[26.61099624633789,-27.38647651672363],[26.60887336730957,-27.38727951049805],[26.60584449768066,-27.38808059692383],[26.60190582275391,-27.3891487121582],[26.60038948059082,-27.38995552062988],[26.59918975830078,-27.39137268066406],[26.59843254089355,-27.39240455627441],[26.59445953369141,-27.38119125366211],[26.59476089477539,-27.38025856018066],[26.59595680236816,-27.38012886047363],[26.59760093688965,-27.38013458251953],[26.60268020629883,-27.38068389892578],[26.60820960998535,-27.38083457946777],[26.61119651794434,-27.38150978088379],[26.6119384765625,-27.38284683227539],[26.61198616027832,-27.38570785522461]]],"type":"Polygon"}
+}

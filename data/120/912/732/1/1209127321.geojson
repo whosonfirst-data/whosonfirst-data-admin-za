@@ -1,0 +1,67 @@
+{
+  "id": 1209127321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2961,-25.57392,30.2961,-25.57392",
+    "geom:latitude":-25.57392,
+    "geom:longitude":30.2961,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP314",
+    "gn:asciiname":"Helvetia-Noord",
+    "gn:country_code":"ZA",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996985,
+    "gn:latitude":-25.57392,
+    "gn:longitude":30.2961,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Helvetia-Noord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Helvetia North",
+        "Helvetia-Noord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996985
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"916629bfd20f17e434d08209d9c09aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209127321
+        }
+    ],
+    "wof:id":1209127321,
+    "wof:lastmodified":1537716422,
+    "wof:name":"Helvetia-Noord",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2961,
+    -25.57392,
+    30.2961,
+    -25.57392
+],
+  "geometry": {"coordinates":[30.2961,-25.57392],"type":"Point"}
+}

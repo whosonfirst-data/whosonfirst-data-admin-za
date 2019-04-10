@@ -1,0 +1,69 @@
+{
+  "id": 1226241767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1719,-31.32727,29.1719,-31.32727",
+    "geom:latitude":-31.32727,
+    "geom:longitude":29.1719,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Mjaliswa",
+    "gn:country_code":"ZA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975635,
+    "gn:latitude":-31.32727,
+    "gn:longitude":29.1719,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mjaliswa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975635
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fcc8e149766fdce54d4a996314a6fb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1226241767,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226241767,
+    "wof:lastmodified":1536940057,
+    "wof:name":"Mjaliswa",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1719,
+    -31.32727,
+    29.1719,
+    -31.32727
+],
+  "geometry": {"coordinates":[29.1719,-31.32727],"type":"Point"}
+}

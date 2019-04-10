@@ -1,0 +1,87 @@
+{
+  "id": 101924321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1944062.908185,
+    "geom:bbox":"30.678150177,-23.9086723328,30.6981945038,-23.8963794708",
+    "geom:latitude":-23.902578,
+    "geom:longitude":30.689071,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.901951,
+    "lbl:longitude":30.690073,
+    "mps:latitude":-23.901951,
+    "mps:longitude":30.690073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Murchison"
+    ],
+    "name:dut_x_preferred":[
+        "Murchison"
+    ],
+    "name:eng_x_preferred":[
+        "Murchison"
+    ],
+    "name:nso_x_preferred":[
+        "Murchison"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Murchison",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972572,
+        "gp:id":1586494,
+        "wd:id":"Q6937538"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7586b4c29a6d7ea8b04b0345e020468d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924321,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924321,
+    "wof:lastmodified":1527677690,
+    "wof:name":"Murchison",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67815017700195,
+    -23.90867233276367,
+    30.69819450378418,
+    -23.8963794708252
+],
+  "geometry": {"coordinates":[[[30.69819450378418,-23.90304756164551],[30.69608879089355,-23.90682220458984],[30.69168281555176,-23.90733909606934],[30.68461799621582,-23.90782165527344],[30.68109321594238,-23.90867233276367],[30.68064498901367,-23.90826988220215],[30.67925262451172,-23.90300369262695],[30.67815017700195,-23.90181541442871],[30.6818675994873,-23.90013122558594],[30.68451881408691,-23.90010261535645],[30.6871280670166,-23.89682388305664],[30.69065856933594,-23.8963794708252],[30.69376182556152,-23.89715766906738],[30.69597244262695,-23.89713478088379],[30.69773864746094,-23.89711570739746],[30.69819450378418,-23.90304756164551]]],"type":"Polygon"}
+}

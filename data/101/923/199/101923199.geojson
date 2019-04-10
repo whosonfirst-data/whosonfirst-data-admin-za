@@ -1,0 +1,76 @@
+{
+  "id": 101923199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1316681.811352,
+    "geom:bbox":"27.9270095825,-23.253660202,27.9410972595,-23.2370185852",
+    "geom:latitude":-23.2464,
+    "geom:longitude":27.934239,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.245996,
+    "lbl:longitude":27.936107,
+    "mps:latitude":-23.245996,
+    "mps:longitude":27.936107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "KwaKouletsi"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kauletsi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991598,
+        "gp:id":1579688
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c6cbb79de7ca13a55a676f463cea20a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923199,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923199,
+    "wof:lastmodified":1501216578,
+    "wof:name":"Kauletsi",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92700958251953,
+    -23.25366020202637,
+    27.94109725952148,
+    -23.23701858520508
+],
+  "geometry": {"coordinates":[[[27.9332275390625,-23.23984146118164],[27.93632888793945,-23.23701858520508],[27.94109725952148,-23.24558448791504],[27.93355560302734,-23.25366020202637],[27.93135643005371,-23.2536449432373],[27.92829895019531,-23.25118637084961],[27.92743492126465,-23.24914741516113],[27.92700958251953,-23.24752044677734],[27.92701530456543,-23.24670600891113],[27.92834091186523,-23.24590301513672],[27.93229866027832,-23.24592971801758],[27.93274116516113,-23.24552726745605],[27.9332275390625,-23.23984146118164]]],"type":"Polygon"}
+}

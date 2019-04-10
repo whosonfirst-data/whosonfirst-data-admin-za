@@ -1,0 +1,63 @@
+{
+  "id": 1209604827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46667,-24.25,30.46667,-24.25",
+    "geom:latitude":-24.25,
+    "geom:longitude":30.46667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM335",
+    "gn:asciiname":"Moetladimo",
+    "gn:country_code":"ZA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975002,
+    "gn:latitude":-24.25,
+    "gn:longitude":30.46667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Moetladimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975002
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75a31f7de81b605d4c1f07016563a25f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209604827
+        }
+    ],
+    "wof:id":1209604827,
+    "wof:lastmodified":1536282047,
+    "wof:name":"Moetladimo",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46667,
+    -24.25,
+    30.46667,
+    -24.25
+],
+  "geometry": {"coordinates":[30.46667,-24.25],"type":"Point"}
+}

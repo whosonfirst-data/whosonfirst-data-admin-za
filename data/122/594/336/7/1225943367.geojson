@@ -1,0 +1,73 @@
+{
+  "id": 1225943367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65533,-32.74766,24.65533,-32.74766",
+    "geom:latitude":-32.74766,
+    "geom:longitude":24.65533,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC103",
+    "gn:asciiname":"Uitkomst",
+    "gn:country_code":"ZA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946768,
+    "gn:latitude":-32.74766,
+    "gn:longitude":24.65533,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uitkomst",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uitkoms",
+        "Uitkomst"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946768
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3dc6294b593d085a255aba4da6ed117c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1225943367,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1225943367,
+    "wof:lastmodified":1537716372,
+    "wof:name":"Uitkomst",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65533,
+    -32.74766,
+    24.65533,
+    -32.74766
+],
+  "geometry": {"coordinates":[24.65533,-32.74766],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101927039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1336820.144227,
+    "geom:bbox":"29.6873931885,-29.1601428986,29.7056026459,-29.1502494812",
+    "geom:latitude":-29.155673,
+    "geom:longitude":29.697073,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.155212,
+    "lbl:longitude":29.699631,
+    "mps:latitude":-29.155212,
+    "mps:longitude":29.699631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Ndaba kaMageba"
+    ],
+    "name:zul_x_preferred":[
+        "Ndaba kaMageba"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ndaba",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581200,
+        "wd:id":"Q3679982"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8f97916121214c3a986cfd4d5e99a58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927039,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927039,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Ndaba",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68739318847656,
+    -29.16014289855957,
+    29.70560264587402,
+    -29.15024948120117
+],
+  "geometry": {"coordinates":[[[29.68862915039062,-29.15804862976074],[29.68762397766113,-29.15623474121094],[29.68739318847656,-29.15420341491699],[29.68971633911133,-29.15332221984863],[29.6938362121582,-29.15268707275391],[29.69615364074707,-29.15225791931152],[29.69699478149414,-29.15095901489258],[29.6984920501709,-29.15024948120117],[29.70044708251953,-29.15044403076172],[29.70207595825195,-29.15141296386719],[29.70462036132812,-29.15346717834473],[29.70560264587402,-29.15708541870117],[29.70456123352051,-29.158203125],[29.70300102233887,-29.15954208374023],[29.70122909545898,-29.16014289855957],[29.69915199279785,-29.16003799438477],[29.69708824157715,-29.15970993041992],[29.69041633605957,-29.15896987915039],[29.68862915039062,-29.15804862976074]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326842095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56343,-29.70474,26.56343,-29.70474",
+    "geom:latitude":-29.70474,
+    "geom:longitude":26.56343,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Lucernvlei",
+    "gn:country_code":"ZA",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981563,
+    "gn:latitude":-29.70474,
+    "gn:longitude":26.56343,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lucernvlei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981563
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c30e0601147440b6bef1b5cb8ef31b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1326842095,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1326842095,
+    "wof:lastmodified":1537033069,
+    "wof:name":"Lucernvlei",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56343,
+    -29.70474,
+    26.56343,
+    -29.70474
+],
+  "geometry": {"coordinates":[26.56343,-29.70474],"type":"Point"}
+}

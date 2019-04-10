@@ -1,0 +1,73 @@
+{
+  "id": 101929179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":2021385.816692,
+    "geom:bbox":"27.4403038025,-33.1611976624,27.4621315002,-33.1428565979",
+    "geom:latitude":-33.151088,
+    "geom:longitude":27.452291,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.149395,
+    "lbl:longitude":27.452457,
+    "mps:latitude":-33.149395,
+    "mps:longitude":27.452457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jojweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":993755,
+        "gp:id":1589551
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"33da080b29053121998f59dd68e08e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929179,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929179,
+    "wof:lastmodified":1500027846,
+    "wof:name":"Jojweni",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44030380249023,
+    -33.16119766235352,
+    27.46213150024414,
+    -33.14285659790039
+],
+  "geometry": {"coordinates":[[[27.4592170715332,-33.15763854980469],[27.45334434509277,-33.16119766235352],[27.45161819458008,-33.15398788452148],[27.44544219970703,-33.15470504760742],[27.44030380249023,-33.14760971069336],[27.45762634277344,-33.14285659790039],[27.45881843566895,-33.14479827880859],[27.45731925964355,-33.14773941040039],[27.46213150024414,-33.15723037719727],[27.4592170715332,-33.15763854980469]]],"type":"Polygon"}
+}

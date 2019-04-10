@@ -1,0 +1,76 @@
+{
+  "id": 101923169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1749241.100149,
+    "geom:bbox":"29.7581176758,-23.1132926941,29.7712097168,-23.0942001343",
+    "geom:latitude":-23.104455,
+    "geom:longitude":29.764966,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.105002,
+    "lbl:longitude":29.764841,
+    "mps:latitude":-23.105002,
+    "mps:longitude":29.764841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ha-Ramantsha"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Haramahantsha",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997917,
+        "gp:id":1582053
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7ac4cf354fb02ab697ca8a68f03908e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923169,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923169,
+    "wof:lastmodified":1501216580,
+    "wof:name":"Haramahantsha",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75811767578125,
+    -23.1132926940918,
+    29.77120971679688,
+    -23.09420013427734
+],
+  "geometry": {"coordinates":[[[29.76330375671387,-23.09551620483398],[29.76592063903809,-23.09420013427734],[29.77120971679688,-23.09701728820801],[29.76904106140137,-23.10190582275391],[29.76905250549316,-23.10393714904785],[29.76951599121094,-23.10799789428711],[29.76865386962891,-23.11084747314453],[29.76691055297852,-23.1132926940918],[29.75811767578125,-23.11211776733398],[29.76330375671387,-23.09551620483398]]],"type":"Polygon"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1125906431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17859,-32.78518,18.17859,-32.78518",
+    "geom:latitude":-32.78518,
+    "geom:longitude":18.17859,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.78518,
+    "lbl:longitude":18.17859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Velddrif"
+    ],
+    "name:dut_x_preferred":[
+        "Velddrif"
+    ],
+    "name:eng_x_preferred":[
+        "Velddrif"
+    ],
+    "name:fre_x_preferred":[
+        "Velddrif"
+    ],
+    "name:ger_x_preferred":[
+        "Velddrif"
+    ],
+    "name:nso_x_preferred":[
+        "Velddrif"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u062f\u0631\u06cc\u0641"
+    ],
+    "name:rum_x_preferred":[
+        "Velddrif"
+    ],
+    "name:unk_x_variant":[
+        "Velddrift"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3360020,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Velddrif",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":433,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":466,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1090748,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588563,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360020,
+        "gp:id":1588563,
+        "qs_pg:id":1090748,
+        "wd:id":"Q993990"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497296005,
+    "wof:geomhash":"1db2bc1d26474d626b3131989701b498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125906431,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125906431,
+    "wof:lastmodified":1514504620,
+    "wof:name":"Velddrif",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17859,
+    -32.78518,
+    18.17859,
+    -32.78518
+],
+  "geometry": {"coordinates":[18.17859,-32.78518],"type":"Point"}
+}

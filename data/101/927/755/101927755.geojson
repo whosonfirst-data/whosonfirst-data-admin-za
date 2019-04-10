@@ -1,0 +1,103 @@
+{
+  "id": 101927755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000072,
+    "geom:area_square_m":778615.825528,
+    "geom:bbox":"31.4196853638,-29.1610565186,31.4302101135,-29.1484489441",
+    "geom:latitude":-29.154265,
+    "geom:longitude":31.424578,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.154094,
+    "lbl:longitude":31.424578,
+    "mps:latitude":-29.154094,
+    "mps:longitude":31.424578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Mandeni"
+    ],
+    "name:chi_x_preferred":[
+        "\u66fc\u8fea\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Mandeni"
+    ],
+    "name:eng_x_preferred":[
+        "Mandeni"
+    ],
+    "name:fre_x_preferred":[
+        "Mandeni"
+    ],
+    "name:ger_x_preferred":[
+        "Mandeni"
+    ],
+    "name:rum_x_preferred":[
+        "Mandini"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mandini",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.157,
+    "wd:longitude":31.408,
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063456,
+        "gp:id":1581187,
+        "wd:id":"Q1888978",
+        "wk:page":"Mandeni"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a892c9023b36283419c382dec230fcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":101927755,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927755,
+    "wof:lastmodified":1534985999,
+    "wof:name":"Mandini",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615485
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41968536376953,
+    -29.16105651855469,
+    31.43021011352539,
+    -29.1484489440918
+],
+  "geometry": {"coordinates":[[[31.42818069458008,-29.14914894104004],[31.43021011352539,-29.1496753692627],[31.42431831359863,-29.16105651855469],[31.41968536376953,-29.15926551818848],[31.42330169677734,-29.1484489440918],[31.42709541320801,-29.14886665344238],[31.42818069458008,-29.14914894104004]]],"type":"Polygon"}
+}

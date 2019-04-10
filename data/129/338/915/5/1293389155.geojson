@@ -1,0 +1,69 @@
+{
+  "id": 1293389155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93908,-30.7667,26.93908,-30.7667",
+    "geom:latitude":-30.7667,
+    "geom:longitude":26.93908,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Lentelus",
+    "gn:country_code":"ZA",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983160,
+    "gn:latitude":-30.7667,
+    "gn:longitude":26.93908,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lentelus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983160
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0e13db04c68d3ad91cef67f2eb2e6a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293389155,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293389155,
+    "wof:lastmodified":1536929515,
+    "wof:name":"Lentelus",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93908,
+    -30.7667,
+    26.93908,
+    -30.7667
+],
+  "geometry": {"coordinates":[26.93908,-30.7667],"type":"Point"}
+}

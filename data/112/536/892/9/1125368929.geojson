@@ -1,0 +1,78 @@
+{
+  "id": 1125368929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62025,-33.30974,18.62025,-33.30974",
+    "geom:latitude":-33.30974,
+    "geom:longitude":18.62025,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":77524,
+    "gn:population":77524,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.30974,
+    "lbl:longitude":18.62025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347419,
+    "qs_pg:gn_pop":77524,
+    "qs_pg:name":"Swartland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764878,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347419,
+        "qs_pg:id":764878
+    },
+    "wof:country":"ZA",
+    "wof:created":1497047262,
+    "wof:geomhash":"50619a7cc43eda6cd56bd2d356f3669d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "localadmin_id":1125368929,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125368929,
+    "wof:lastmodified":1509389266,
+    "wof:name":"Swartland",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"localadmin",
+    "wof:population":77524,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62025,
+    -33.30974,
+    18.62025,
+    -33.30974
+],
+  "geometry": {"coordinates":[18.62025,-33.30974],"type":"Point"}
+}

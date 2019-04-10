@@ -1,0 +1,126 @@
+{
+  "id": 101925543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000455,
+    "geom:area_square_m":5061293.400614,
+    "geom:bbox":"28.7241249084,-25.8285007477,28.7575187683,-25.8025302887",
+    "geom:latitude":-25.814059,
+    "geom:longitude":28.739572,
+    "gn:population":27343,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.812748,
+    "lbl:longitude":28.739572,
+    "mps:latitude":-25.812748,
+    "mps:longitude":28.739572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u6717\u8cc0\u65af\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:eng_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:fin_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:fre_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:ger_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:ita_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:nob_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:nso_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:pol_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:rum_x_preferred":[
+        "Bronkhorstspruit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u043d\u043a\u0445\u043e\u0440\u0441\u0442\u0441\u043f\u0440\u0451\u0439\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Erasmus"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bronkhorstspruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":1375.0,
+    "wd:latitude":-25.805,
+    "wd:longitude":28.746389,
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015504,
+        "gp:id":55879945,
+        "qs:id":355373,
+        "wd:id":"Q927671",
+        "wk:page":"Bronkhorstspruit"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"36ba807bb110eb07bb3da59b1cf03652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925543,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925543,
+    "wof:lastmodified":1527688521,
+    "wof:name":"Bronkhorstspruit",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:population":27343,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72412490844727,
+    -25.82850074768066,
+    28.75751876831055,
+    -25.80253028869629
+],
+  "geometry": {"coordinates":[[[28.72412490844727,-25.80673789978027],[28.73506736755371,-25.80253028869629],[28.73978805541992,-25.80510902404785],[28.73979568481445,-25.80511665344238],[28.74485206604004,-25.80445861816406],[28.74726486206055,-25.80258750915527],[28.74781227111816,-25.80702972412109],[28.74891471862793,-25.81599807739258],[28.75349617004395,-25.81507301330566],[28.75751876831055,-25.82489585876465],[28.74731063842773,-25.8223934173584],[28.74556159973145,-25.82197189331055],[28.7402172088623,-25.82850074768066],[28.7361946105957,-25.82328605651855],[28.74032592773438,-25.8206901550293],[28.72580337524414,-25.81713676452637],[28.72442245483398,-25.80858421325684],[28.72412490844727,-25.80673789978027]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310183459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22527,-31.58239,18.22527,-31.58239",
+    "geom:latitude":-31.58239,
+    "geom:longitude":18.22527,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC011",
+    "gn:asciiname":"Ebenhaeser",
+    "gn:country_code":"ZA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3368195,
+    "gn:latitude":-31.58239,
+    "gn:longitude":18.22527,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ebenhaeser",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebenezer",
+        "Ebenhaeser"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368195,
+        "wk:page":"Ebenhaeser"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"44231d8aeb794538e4d0ba3b7903eba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1310183459,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1310183459,
+    "wof:lastmodified":1537716445,
+    "wof:name":"Ebenhaeser",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22527,
+    -31.58239,
+    18.22527,
+    -31.58239
+],
+  "geometry": {"coordinates":[18.22527,-31.58239],"type":"Point"}
+}

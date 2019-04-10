@@ -1,0 +1,91 @@
+{
+  "id": 1125866707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52687,-34.04605,20.52687,-34.04605",
+    "geom:latitude":-34.04605,
+    "geom:longitude":20.52687,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.04605,
+    "lbl:longitude":20.52687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Buffeljags River"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1015228,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Buffeljagsrivier",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1333178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580180,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015228,
+        "gp:id":1580180,
+        "qs_pg:id":1333178
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294079,
+    "wof:geomhash":"cb41af7c921efd09639f6d4d6966e006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125866707,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125866707,
+    "wof:lastmodified":1509397031,
+    "wof:name":"Buffeljagsrivier",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52687,
+    -34.04605,
+    20.52687,
+    -34.04605
+],
+  "geometry": {"coordinates":[20.52687,-34.04605],"type":"Point"}
+}

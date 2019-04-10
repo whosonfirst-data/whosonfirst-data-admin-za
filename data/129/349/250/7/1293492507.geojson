@@ -1,0 +1,69 @@
+{
+  "id": 1293492507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.45635,-30.34843,28.45635,-30.34843",
+    "geom:latitude":-30.34843,
+    "geom:longitude":28.45635,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC441",
+    "gn:asciiname":"Ha-Majoro",
+    "gn:country_code":"ZA",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998169,
+    "gn:latitude":-30.34843,
+    "gn:longitude":28.45635,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Ha-Majoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998169
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e9b78ce2eef8a5f4fb9d4bce965c82cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1293492507,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293492507,
+    "wof:lastmodified":1536780303,
+    "wof:name":"Ha-Majoro",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.45635,
+    -30.34843,
+    28.45635,
+    -30.34843
+],
+  "geometry": {"coordinates":[28.45635,-30.34843],"type":"Point"}
+}

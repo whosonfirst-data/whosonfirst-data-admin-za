@@ -1,0 +1,74 @@
+{
+  "id": 1226552845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,-29.5,30.68333,-29.5",
+    "geom:latitude":-29.5,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN221",
+    "gn:asciiname":"Echane",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006904,
+    "gn:latitude":-29.5,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Echane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Echane Store",
+        "Echane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"54c3bdb1e4639ccd1ac51e3c55b21921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1226552845,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1226552845,
+    "wof:lastmodified":1537716428,
+    "wof:name":"Echane",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    -29.5,
+    30.68333,
+    -29.5
+],
+  "geometry": {"coordinates":[30.68333,-29.5],"type":"Point"}
+}

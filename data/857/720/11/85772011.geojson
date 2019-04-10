@@ -1,0 +1,111 @@
+{
+  "id": 85772011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":564999.152879,
+    "geom:bbox":"18.4117126465,-34.0116885991,18.4204664181,-34.0026534915",
+    "geom:latitude":-34.007652,
+    "geom:longitude":18.415783,
+    "gn:latitude":-34.01183,
+    "gn:longitude":18.42965,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.010733,
+    "lbl:longitude":18.42889,
+    "mps:latitude":-34.008023,
+    "mps:longitude":18.416304,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Belle Ombre"
+    ],
+    "name:unk_x_variant":[
+        "Belle Ombre"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Belle Ombre",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Belle Ombre",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":45,
+    "qs:photo_sum":52,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3370145,
+        "gp:id":1579725,
+        "qs:id":235150,
+        "qs_pg:id":235150
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9406505527d3c4a63f320869ceb7d029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772011,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772011,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497315846,
+    "wof:name":"Belle Ombre",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41171264647522,
+    -34.0116885991,
+    18.42046641811237,
+    -34.0026534914504
+],
+  "geometry": {"coordinates":[[[18.41423456619424,-34.00293059992826],[18.41583251951431,-34.00485819726654],[18.41857910160013,-34.00485819256745],[18.41910845382444,-34.00485819014974],[18.41973763104124,-34.00713506439995],[18.42031690540358,-34.00923134958698],[18.42046641811237,-34.00941170964987],[18.41857910157927,-34.01168853807486],[18.41857910159172,-34.0116885991],[18.41308593750011,-34.0116885991],[18.41308593750011,-34.01168853807486],[18.41308593750011,-34.00853255816759],[18.41192747551486,-34.00713506439995],[18.41171264647522,-34.00687590851244],[18.41171264647522,-34.00364741728093],[18.41308593750011,-34.0026534914504],[18.41423456619424,-34.00293059992826]]],"type":"Polygon"}
+}

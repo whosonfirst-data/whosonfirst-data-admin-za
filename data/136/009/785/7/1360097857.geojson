@@ -1,0 +1,69 @@
+{
+  "id": 1360097857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96112,-29.77785,30.96112,-29.77785",
+    "geom:latitude":-29.77785,
+    "geom:longitude":30.96112,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Newlands",
+    "gn:country_code":"ZA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971323,
+    "gn:latitude":-29.77785,
+    "gn:longitude":30.96112,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Newlands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971323
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"21399e81d84f019b9435b3f4330f0351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1360097857,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1360097857,
+    "wof:lastmodified":1536927879,
+    "wof:name":"Newlands",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96112,
+    -29.77785,
+    30.96112,
+    -29.77785
+],
+  "geometry": {"coordinates":[30.96112,-29.77785],"type":"Point"}
+}

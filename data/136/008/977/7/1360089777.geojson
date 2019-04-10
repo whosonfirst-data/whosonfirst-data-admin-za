@@ -1,0 +1,69 @@
+{
+  "id": 1360089777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85477,-33.01427,27.85477,-33.01427",
+    "geom:latitude":-33.01427,
+    "geom:longitude":27.85477,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"BUF",
+    "gn:admin3_code":"BUF",
+    "gn:asciiname":"Gompo",
+    "gn:country_code":"ZA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280660,
+    "gn:latitude":-33.01427,
+    "gn:longitude":27.85477,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Gompo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280660
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c0b2253059c398525c496f683eafcfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":1360089777,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1360089777,
+    "wof:lastmodified":1536939581,
+    "wof:name":"Gompo",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85477,
+    -33.01427,
+    27.85477,
+    -33.01427
+],
+  "geometry": {"coordinates":[27.85477,-33.01427],"type":"Point"}
+}

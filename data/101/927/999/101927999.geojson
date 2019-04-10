@@ -1,0 +1,140 @@
+{
+  "id": 101927999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000625,
+    "geom:area_square_m":6447661.721294,
+    "geom:bbox":"18.7083301544,-33.4686584473,18.7454929352,-33.4441757202",
+    "geom:latitude":-33.459136,
+    "geom:longitude":18.725797,
+    "gn:population":34991,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.459976,
+    "lbl:longitude":18.729867,
+    "mps:latitude":-33.459976,
+    "mps:longitude":18.729867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u59c6\u65af\u4f2f\u91cc"
+    ],
+    "name:dan_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:deu_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:dut_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:eng_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:fre_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:ger_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:ita_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30e0\u30ba\u30d9\u30ea\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:nob_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:nor_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:nso_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:pol_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:ron_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:rum_x_preferred":[
+        "Malmesbury"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u59c6\u65af\u4f2f\u91cc"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Malmesbury",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-33.45,
+    "wd:longitude":18.733333,
+    "wd:wordcount":659,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364346,
+        "gp:id":1584402,
+        "qs:id":375368,
+        "qs_pg:id":249139,
+        "wd:id":"Q3113320",
+        "wk:page":"Malmesbury, Western Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b51db6aec51c2d64d3cb62ec1a6f2d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":101927999,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101927999,
+    "wof:lastmodified":1553815588,
+    "wof:name":"Malmesbury",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:population":34991,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70833015441895,
+    -33.46865844726562,
+    18.74549293518066,
+    -33.44417572021484
+],
+  "geometry": {"coordinates":[[[18.70833015441895,-33.44940948486328],[18.7126350402832,-33.44922637939453],[18.72458839416504,-33.45339965820312],[18.72500801086426,-33.44867706298828],[18.72540855407715,-33.44417572021484],[18.73229217529297,-33.4488410949707],[18.74532318115234,-33.45767211914062],[18.74549293518066,-33.45902252197266],[18.74528503417969,-33.46037673950195],[18.74482727050781,-33.46171569824219],[18.74464797973633,-33.46211624145508],[18.74424362182617,-33.46302032470703],[18.74355697631836,-33.46429824829102],[18.74279022216797,-33.46553421020508],[18.74188041687012,-33.46669769287109],[18.74077224731445,-33.46774291992188],[18.7395191192627,-33.46865844726562],[18.73092269897461,-33.46852493286133],[18.70965576171875,-33.46818923950195],[18.70931243896484,-33.46818542480469],[18.70866966247559,-33.45554733276367],[18.70833015441895,-33.44940948486328]]],"type":"Polygon"}
+}

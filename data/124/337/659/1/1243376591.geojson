@@ -1,0 +1,69 @@
+{
+  "id": 1243376591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78069,-27.98707,29.78069,-27.98707",
+    "geom:latitude":-27.98707,
+    "geom:longitude":29.78069,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC25",
+    "gn:admin3_code":"KZN254",
+    "gn:asciiname":"Normandien",
+    "gn:country_code":"ZA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969713,
+    "gn:latitude":-27.98707,
+    "gn:longitude":29.78069,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Normandien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969713
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f251ea34671caca510f19ecdc74c8e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":1243376591,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1243376591,
+    "wof:lastmodified":1536906490,
+    "wof:name":"Normandien",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78069,
+    -27.98707000000001,
+    29.78069,
+    -27.98707000000001
+],
+  "geometry": {"coordinates":[29.78069,-27.98707000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243171253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31103,-31.78127,29.31103,-31.78127",
+    "geom:latitude":-31.78127,
+    "geom:longitude":29.31103,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Bulawa",
+    "gn:country_code":"ZA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014903,
+    "gn:latitude":-31.78127,
+    "gn:longitude":29.31103,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bulawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edulawa",
+        "Ebulawa",
+        "Bulawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014903
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c535a3c6d6578fa15ba89dfd179ced31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1243171253,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243171253,
+    "wof:lastmodified":1537716434,
+    "wof:name":"Bulawa",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31103,
+    -31.78127000000001,
+    29.31103,
+    -31.78127000000001
+],
+  "geometry": {"coordinates":[29.31103,-31.78127000000001],"type":"Point"}
+}

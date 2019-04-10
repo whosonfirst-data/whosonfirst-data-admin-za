@@ -1,0 +1,69 @@
+{
+  "id": 1226650787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13213,-32.73496,28.13213,-32.73496",
+    "geom:latitude":-32.73496,
+    "geom:longitude":28.13213,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Lusizini",
+    "gn:country_code":"ZA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981287,
+    "gn:latitude":-32.73496,
+    "gn:longitude":28.13213,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lusizini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981287
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ff2c07c53ff5a3e4dab4b37b7bcfa538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1226650787,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226650787,
+    "wof:lastmodified":1536851027,
+    "wof:name":"Lusizini",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13213,
+    -32.73496,
+    28.13213,
+    -32.73496
+],
+  "geometry": {"coordinates":[28.13213,-32.73496],"type":"Point"}
+}

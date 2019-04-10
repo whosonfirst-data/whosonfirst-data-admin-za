@@ -1,0 +1,69 @@
+{
+  "id": 1293394969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1963,-31.06443,26.1963,-31.06443",
+    "geom:latitude":-31.06443,
+    "geom:longitude":26.1963,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Waterside",
+    "gn:country_code":"ZA",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941606,
+    "gn:latitude":-31.06443,
+    "gn:longitude":26.1963,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Waterside",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941606
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6eedc79df160bf8c45c38e0a12f9d029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293394969,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293394969,
+    "wof:lastmodified":1536920995,
+    "wof:name":"Waterside",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1963,
+    -31.06443,
+    26.1963,
+    -31.06443
+],
+  "geometry": {"coordinates":[26.1963,-31.06443],"type":"Point"}
+}

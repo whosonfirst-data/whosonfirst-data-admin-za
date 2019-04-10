@@ -1,0 +1,75 @@
+{
+  "id": 1310128627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53046,-31.43771,29.53046,-31.43771",
+    "geom:latitude":-31.43771,
+    "geom:longitude":29.53046,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Luqoqweni",
+    "gn:country_code":"ZA",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981320,
+    "gn:latitude":-31.43771,
+    "gn:longitude":29.53046,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Luqoqweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luququweni",
+        "Loququeni",
+        "Lugogweni",
+        "Luqoqweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981320
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b44d03dfee0e86dfbdca929eb6668af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1310128627,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310128627,
+    "wof:lastmodified":1537716409,
+    "wof:name":"Luqoqweni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53046,
+    -31.43771,
+    29.53046,
+    -31.43771
+],
+  "geometry": {"coordinates":[29.53046,-31.43771],"type":"Point"}
+}

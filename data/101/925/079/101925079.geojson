@@ -1,0 +1,84 @@
+{
+  "id": 101925079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":799924.703948,
+    "geom:bbox":"29.0836105347,-25.231048584,29.097858429,-25.2181720734",
+    "geom:latitude":-25.224752,
+    "geom:longitude":29.090594,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.225162,
+    "lbl:longitude":29.090702,
+    "mps:latitude":-25.225162,
+    "mps:longitude":29.090702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bcl_x_preferred":[
+        "Juli\u00e1n Felipe"
+    ],
+    "name:ilo_x_preferred":[
+        "Juli\u00e1n Felipe"
+    ],
+    "name:nld_x_preferred":[
+        "Julian Felipe"
+    ],
+    "name:tgl_x_preferred":[
+        "Juli\u00e1n Felipe"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Moteti B",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584353
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c3f53a51bacda7b8b1ef3caddd85b310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101925079,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101925079,
+    "wof:lastmodified":1500028392,
+    "wof:name":"Moteti B",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08361053466797,
+    -25.23104858398438,
+    29.09785842895508,
+    -25.21817207336426
+],
+  "geometry": {"coordinates":[[[29.08361053466797,-25.22127914428711],[29.08928871154785,-25.21817207336426],[29.09051513671875,-25.22189331054688],[29.09785842895508,-25.22708129882812],[29.0926456451416,-25.23104858398438],[29.08361053466797,-25.22127914428711]]],"type":"Polygon"}
+}

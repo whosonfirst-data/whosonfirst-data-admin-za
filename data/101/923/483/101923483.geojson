@@ -1,0 +1,72 @@
+{
+  "id": 101923483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000284,
+    "geom:area_square_m":3216218.976137,
+    "geom:bbox":"29.7918262482,-23.8723964691,29.8261508942,-23.8397312164",
+    "geom:latitude":-23.85609,
+    "geom:longitude":29.807094,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.858036,
+    "lbl:longitude":29.805924,
+    "mps:latitude":-23.858036,
+    "mps:longitude":29.805924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ga-Moropo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584146
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d48d1aa7749821fc1aa16ab2423bd0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923483,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923483,
+    "wof:lastmodified":1500028359,
+    "wof:name":"Ga-Moropo",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79182624816895,
+    -23.87239646911621,
+    29.82615089416504,
+    -23.83973121643066
+],
+  "geometry": {"coordinates":[[[29.80401611328125,-23.849853515625],[29.82479476928711,-23.83973121643066],[29.82615089416504,-23.8445987701416],[29.80941200256348,-23.85240745544434],[29.81166839599609,-23.86011505126953],[29.79362869262695,-23.87239646911621],[29.79182624816895,-23.86671829223633],[29.80455589294434,-23.85283851623535],[29.80401611328125,-23.849853515625]]],"type":"Polygon"}
+}

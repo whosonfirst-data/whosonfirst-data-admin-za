@@ -1,0 +1,73 @@
+{
+  "id": 101928421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":2342190.901975,
+    "geom:bbox":"29.7635250092,-30.8303413391,29.7864360809,-30.7981681824",
+    "geom:latitude":-30.809257,
+    "geom:longitude":29.772853,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.804367,
+    "lbl:longitude":29.768861,
+    "mps:latitude":-30.804367,
+    "mps:longitude":29.768861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gowane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1589242
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"acc32d058114a9cf96eb3447c1bf9284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928421,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928421,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Gowane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76352500915527,
+    -30.83034133911133,
+    29.78643608093262,
+    -30.79816818237305
+],
+  "geometry": {"coordinates":[[[29.76352500915527,-30.80422592163086],[29.76464653015137,-30.80094337463379],[29.77297019958496,-30.79997062683105],[29.77289772033691,-30.79816818237305],[29.78296279907227,-30.79894638061523],[29.78634834289551,-30.7999267578125],[29.78643608093262,-30.80208969116211],[29.78522682189941,-30.80320930480957],[29.77521896362305,-30.80387306213379],[29.77238273620605,-30.80612373352051],[29.77395057678223,-30.82412338256836],[29.77418518066406,-30.82989311218262],[29.77127456665039,-30.83034133911133],[29.76974487304688,-30.82353019714355],[29.76790618896484,-30.80914688110352],[29.76352500915527,-30.80422592163086]]],"type":"Polygon"}
+}

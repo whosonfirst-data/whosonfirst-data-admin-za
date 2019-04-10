@@ -1,0 +1,69 @@
+{
+  "id": 1293486865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10236,-31.73872,27.10236,-31.73872",
+    "geom:latitude":-31.73872,
+    "geom:longitude":27.10236,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC136",
+    "gn:asciiname":"KuKavara",
+    "gn:country_code":"ZA",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986459,
+    "gn:latitude":-31.73872,
+    "gn:longitude":27.10236,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuKavara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986459
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3accb9831f6ae9f2a22da90f98ff96ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1293486865,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293486865,
+    "wof:lastmodified":1536788404,
+    "wof:name":"KuKavara",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10236,
+    -31.73872,
+    27.10236,
+    -31.73872
+],
+  "geometry": {"coordinates":[27.10236,-31.73872],"type":"Point"}
+}

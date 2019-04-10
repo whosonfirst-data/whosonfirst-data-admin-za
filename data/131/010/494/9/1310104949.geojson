@@ -1,0 +1,67 @@
+{
+  "id": 1310104949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68372,-30.19922,29.68372,-30.19922",
+    "geom:latitude":-30.19922,
+    "geom:longitude":29.68372,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Lourdes",
+    "gn:country_code":"ZA",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981815,
+    "gn:latitude":-30.19922,
+    "gn:longitude":29.68372,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Lourdes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981815
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6ec960ca7e67541a23f8fdba8f52934f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1310104949,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1310104949,
+    "wof:lastmodified":1536996505,
+    "wof:name":"Lourdes",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68372,
+    -30.19922,
+    29.68372,
+    -30.19922
+],
+  "geometry": {"coordinates":[29.68372,-30.19922],"type":"Point"}
+}

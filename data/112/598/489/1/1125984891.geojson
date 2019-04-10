@@ -1,0 +1,110 @@
+{
+  "id": 1125984891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.60884,-34.05048,19.60884,-34.05048",
+    "geom:latitude":-34.05048,
+    "geom:longitude":19.60884,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.05048,
+    "lbl:longitude":19.60884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Greyton"
+    ],
+    "name:dut_x_preferred":[
+        "Greyton"
+    ],
+    "name:eng_x_preferred":[
+        "Greyton"
+    ],
+    "name:fre_x_preferred":[
+        "Greyton"
+    ],
+    "name:ger_x_preferred":[
+        "Greyton"
+    ],
+    "name:nso_x_preferred":[
+        "Greyton"
+    ],
+    "name:rum_x_preferred":[
+        "Greyton"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3367442,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Greyton",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":234,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":234,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":884261,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581947,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367442,
+        "gp:id":1581947,
+        "qs_pg:id":884261,
+        "wd:id":"Q1003335"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298757,
+    "wof:geomhash":"4ebdac98721683c9208f089eb83ee326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125984891,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125984891,
+    "wof:lastmodified":1514503912,
+    "wof:name":"Greyton",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.60884,
+    -34.05048,
+    19.60884,
+    -34.05048
+],
+  "geometry": {"coordinates":[19.60884,-34.05048],"type":"Point"}
+}

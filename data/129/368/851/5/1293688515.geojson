@@ -1,0 +1,69 @@
+{
+  "id": 1293688515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3645,-27.60223,29.3645,-27.60223",
+    "geom:latitude":-27.60223,
+    "geom:longitude":29.3645,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS195",
+    "gn:asciiname":"Langhoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984557,
+    "gn:latitude":-27.60223,
+    "gn:longitude":29.3645,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Langhoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984557
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d9ea3c98341244a73dcc47efc6fff166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1293688515,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293688515,
+    "wof:lastmodified":1536993682,
+    "wof:name":"Langhoek",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3645,
+    -27.60223,
+    29.3645,
+    -27.60223
+],
+  "geometry": {"coordinates":[29.3645,-27.60223],"type":"Point"}
+}

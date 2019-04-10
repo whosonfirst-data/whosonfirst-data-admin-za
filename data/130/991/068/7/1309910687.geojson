@@ -1,0 +1,69 @@
+{
+  "id": 1309910687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02111,-30.95208,29.02111,-30.95208",
+    "geom:latitude":-30.95208,
+    "geom:longitude":29.02111,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Mthonjeni",
+    "gn:country_code":"ZA",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972897,
+    "gn:latitude":-30.95208,
+    "gn:longitude":29.02111,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mthonjeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972897
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4642eae1b817a759a0af64b5784df9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1309910687,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309910687,
+    "wof:lastmodified":1536780381,
+    "wof:name":"Mthonjeni",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02111,
+    -30.95208,
+    29.02111,
+    -30.95208
+],
+  "geometry": {"coordinates":[29.02111,-30.95208],"type":"Point"}
+}

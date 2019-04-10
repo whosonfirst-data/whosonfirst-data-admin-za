@@ -1,0 +1,63 @@
+{
+  "id": 1209419833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6162,-31.50615,26.6162,-31.50615",
+    "geom:latitude":-31.50615,
+    "geom:longitude":26.6162,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC133",
+    "gn:asciiname":"Upper Gretna",
+    "gn:country_code":"ZA",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":945911,
+    "gn:latitude":-31.50615,
+    "gn:longitude":26.6162,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Upper Gretna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945911
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"daa708cb4343e2f8a5e1214cc18e8f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209419833
+        }
+    ],
+    "wof:id":1209419833,
+    "wof:lastmodified":1536287568,
+    "wof:name":"Upper Gretna",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6162,
+    -31.50615,
+    26.6162,
+    -31.50615
+],
+  "geometry": {"coordinates":[26.6162,-31.50615],"type":"Point"}
+}

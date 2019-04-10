@@ -1,0 +1,73 @@
+{
+  "id": 1209913215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21407,-31.47158,29.21407,-31.47158",
+    "geom:latitude":-31.47158,
+    "geom:longitude":29.21407,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Zimbungu",
+    "gn:country_code":"ZA",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":937036,
+    "gn:latitude":-31.47158,
+    "gn:longitude":29.21407,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Zimbungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zibungu",
+        "Zimbungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937036
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"018c9b2960aed9de69446bbd9765396b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1209913215,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1209913215,
+    "wof:lastmodified":1537716367,
+    "wof:name":"Zimbungu",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21407,
+    -31.47158,
+    29.21407,
+    -31.47158
+],
+  "geometry": {"coordinates":[29.21407,-31.47158],"type":"Point"}
+}

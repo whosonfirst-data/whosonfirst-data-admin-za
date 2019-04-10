@@ -1,0 +1,72 @@
+{
+  "id": 101928117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000238,
+    "geom:area_square_m":2545070.630486,
+    "geom:bbox":"29.7913513184,-30.1395759583,29.8256015778,-30.1279411316",
+    "geom:latitude":-30.134214,
+    "geom:longitude":29.805898,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.133688,
+    "lbl:longitude":29.806224,
+    "mps:latitude":-30.133688,
+    "mps:longitude":29.806224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"St. Michaels",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582369
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cb19773ed8f82bd9568b83ccc79dbec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928117,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928117,
+    "wof:lastmodified":1500027532,
+    "wof:name":"St. Michaels",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79135131835938,
+    -30.13957595825195,
+    29.82560157775879,
+    -30.1279411315918
+],
+  "geometry": {"coordinates":[[[29.82163429260254,-30.13260841369629],[29.82555770874023,-30.13717842102051],[29.82560157775879,-30.13825988769531],[29.82021141052246,-30.13842582702637],[29.81311798095703,-30.1375617980957],[29.80269241333008,-30.13644027709961],[29.79906272888184,-30.13907623291016],[29.79451751708984,-30.13957595825195],[29.79151153564453,-30.13714218139648],[29.79135131835938,-30.1331787109375],[29.79244995117188,-30.12953567504883],[29.79487800598145,-30.12801742553711],[29.79736709594727,-30.1279411315918],[29.80034255981445,-30.1296558380127],[29.80494689941406,-30.13059616088867],[29.8090934753418,-30.13046836853027],[29.81495666503906,-30.1317310333252],[29.82163429260254,-30.13260841369629]]],"type":"Polygon"}
+}

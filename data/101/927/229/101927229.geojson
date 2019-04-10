@@ -1,0 +1,104 @@
+{
+  "id": 101927229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":1279520.211391,
+    "geom:bbox":"31.672870636,-25.4446392059,31.6876316071,-25.4313602448",
+    "geom:latitude":-25.43929,
+    "geom:longitude":31.680327,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.439316,
+    "lbl:longitude":31.679824,
+    "mps:latitude":-25.439316,
+    "mps:longitude":31.679824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hectorspruit"
+    ],
+    "name:dut_x_preferred":[
+        "Hectorspruit"
+    ],
+    "name:eng_x_preferred":[
+        "Hectorspruit"
+    ],
+    "name:fra_x_preferred":[
+        "Hectorspruit"
+    ],
+    "name:fre_x_preferred":[
+        "Hectorspruit"
+    ],
+    "name:nso_x_preferred":[
+        "Hectorspruit"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hectorspruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.433333,
+    "wd:longitude":31.683333,
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1462ce72-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":997184,
+        "gp:id":1582162,
+        "qs:id":979688,
+        "qs_pg:id":979688,
+        "wd:id":"Q3129312",
+        "wk:page":"Hectorspruit"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a151441cf755b015b14cb9789c376d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927229,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927229,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715634,
+    "wof:name":"Hectorspruit",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67287063598633,
+    -25.44463920593262,
+    31.68763160705566,
+    -25.43136024475098
+],
+  "geometry": {"coordinates":[[[31.68763160705566,-25.43682289123535],[31.68758583068848,-25.44254684448242],[31.67500686645508,-25.44463920593262],[31.67436027526855,-25.44350242614746],[31.67287063598633,-25.43935394287109],[31.68132591247559,-25.43136024475098],[31.68347358703613,-25.43698501586914],[31.68763160705566,-25.43682289123535]]],"type":"Polygon"}
+}

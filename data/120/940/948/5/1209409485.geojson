@@ -1,0 +1,63 @@
+{
+  "id": 1209409485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18948,-26.89523,29.18948,-26.89523",
+    "geom:latitude":-26.89523,
+    "geom:longitude":29.18948,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP305",
+    "gn:asciiname":"Willowgrange",
+    "gn:country_code":"ZA",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939687,
+    "gn:latitude":-26.89523,
+    "gn:longitude":29.18948,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Willowgrange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939687
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6f474e7c87378bcc8d00dcced9d55d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209409485
+        }
+    ],
+    "wof:id":1209409485,
+    "wof:lastmodified":1536287886,
+    "wof:name":"Willowgrange",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18948,
+    -26.89523,
+    29.18948,
+    -26.89523
+],
+  "geometry": {"coordinates":[29.18948,-26.89523],"type":"Point"}
+}

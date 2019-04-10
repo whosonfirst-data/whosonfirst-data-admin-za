@@ -1,0 +1,73 @@
+{
+  "id": 1226634095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9377,-33.96245,22.9377,-33.96245",
+    "geom:latitude":-33.96245,
+    "geom:longitude":22.9377,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC048",
+    "gn:asciiname":"Die Hoek",
+    "gn:country_code":"ZA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010393,
+    "gn:latitude":-33.96245,
+    "gn:longitude":22.9377,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Die Hoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keurhoek",
+        "Die Hoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010393
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1cbf8780d994ae0726517e292567c9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1226634095,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226634095,
+    "wof:lastmodified":1537716430,
+    "wof:name":"Die Hoek",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9377,
+    -33.96245,
+    22.9377,
+    -33.96245
+],
+  "geometry": {"coordinates":[22.9377,-33.96245],"type":"Point"}
+}

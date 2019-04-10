@@ -1,0 +1,73 @@
+{
+  "id": 1226349939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04942,-26.8361,28.04942,-26.8361",
+    "geom:latitude":-26.8361,
+    "geom:longitude":28.04942,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS204",
+    "gn:asciiname":"Middelbult",
+    "gn:country_code":"ZA",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976371,
+    "gn:latitude":-26.8361,
+    "gn:longitude":28.04942,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Middelbult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Middebult",
+        "Middelbult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976371
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"67b70c2b51940e3b5e061eed9ee61ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1226349939,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1226349939,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Middelbult",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04942,
+    -26.8361,
+    28.04942,
+    -26.8361
+],
+  "geometry": {"coordinates":[28.04942,-26.8361],"type":"Point"}
+}

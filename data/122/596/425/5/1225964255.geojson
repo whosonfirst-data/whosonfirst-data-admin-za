@@ -1,0 +1,74 @@
+{
+  "id": 1225964255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,-30.16667,17.23333,-30.16667",
+    "geom:latitude":-30.16667,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC064",
+    "gn:asciiname":"Somnaas",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3361368,
+    "gn:latitude":-30.16667,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Somnaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sommas",
+        "Somnaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361368
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dba430ff3eec9d3baec96c2bbd4540ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1225964255,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1225964255,
+    "wof:lastmodified":1537716442,
+    "wof:name":"Somnaas",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    -30.16667,
+    17.23333,
+    -30.16667
+],
+  "geometry": {"coordinates":[17.23333,-30.16667],"type":"Point"}
+}

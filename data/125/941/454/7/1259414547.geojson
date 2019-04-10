@@ -1,0 +1,74 @@
+{
+  "id": 1259414547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.76603,-31.94892,28.76603,-31.94892",
+    "geom:latitude":-31.94892,
+    "geom:longitude":28.76603,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC157",
+    "gn:asciiname":"Tyolo",
+    "gn:country_code":"ZA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946997,
+    "gn:latitude":-31.94892,
+    "gn:longitude":28.76603,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tyolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lower Tyola",
+        "Lower Tyolo",
+        "Tyolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946997
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1ad0dbcc49016bc04ee01f4edd432ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1259414547,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259414547,
+    "wof:lastmodified":1537716372,
+    "wof:name":"Tyolo",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.76603,
+    -31.94892,
+    28.76603,
+    -31.94892
+],
+  "geometry": {"coordinates":[28.76603,-31.94892],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1126077973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99508,-29.8719,30.99508,-29.8719",
+    "geom:latitude":-29.8719,
+    "geom:longitude":30.99508,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-29.87189,
+    "gn:longitude":30.99508,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.8719,
+    "lbl:longitude":30.99508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Congella"
+    ],
+    "name:unk_x_variant":[
+        "Congella"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1012908,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Congella",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":106,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":106,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1255370,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580443,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688911,
+        102191573,
+        85633813,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012908,
+        "gp:id":1580443,
+        "qs:id":1255370,
+        "qs_pg:id":1255370
+    },
+    "wof:country":"ZA",
+    "wof:created":1497311403,
+    "wof:geomhash":"ba681821af8062c861a8789153928685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":-1,
+            "neighbourhood_id":1126077973,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1126077973,
+    "wof:lastmodified":1534379836,
+    "wof:name":"Congella",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85772083
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99508,
+    -29.8719,
+    30.99508,
+    -29.8719
+],
+  "geometry": {"coordinates":[30.99508,-29.8719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309824345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35677,-26.94046,23.35677,-26.94046",
+    "geom:latitude":-26.94046,
+    "geom:longitude":23.35677,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pender",
+    "gn:country_code":"ZA",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965935,
+    "gn:latitude":-26.94046,
+    "gn:longitude":23.35677,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Pender",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965935
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"38dc52a1340ef3262ab91d8764065f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1309824345,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1309824345,
+    "wof:lastmodified":1536904602,
+    "wof:name":"Pender",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35677,
+    -26.94046,
+    23.35677,
+    -26.94046
+],
+  "geometry": {"coordinates":[23.35677,-26.94046],"type":"Point"}
+}

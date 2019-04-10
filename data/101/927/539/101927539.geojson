@@ -1,0 +1,72 @@
+{
+  "id": 101927539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":850050.605097,
+    "geom:bbox":"30.2299728394,-27.8768196106,30.2370834351,-27.862575531",
+    "geom:latitude":-27.870005,
+    "geom:longitude":30.233895,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.869953,
+    "lbl:longitude":30.233895,
+    "mps:latitude":-27.869953,
+    "mps:longitude":30.233895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kilegethe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"938df70afd11e8fcf0aaddfa4f1b3ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927539,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927539,
+    "wof:lastmodified":1500027510,
+    "wof:name":"Kilegethe",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22997283935547,
+    -27.8768196105957,
+    30.23708343505859,
+    -27.86257553100586
+],
+  "geometry": {"coordinates":[[[30.23172378540039,-27.86418342590332],[30.23203086853027,-27.86257553100586],[30.23565292358398,-27.86328315734863],[30.23690414428711,-27.86577224731445],[30.23708343505859,-27.87592506408691],[30.23580932617188,-27.8768196105957],[30.23251724243164,-27.87567329406738],[30.22997283935547,-27.87498092651367],[30.23017692565918,-27.87350845336914],[30.23041152954102,-27.87193298339844],[30.23065948486328,-27.87035751342773],[30.23091697692871,-27.86878395080566],[30.23115921020508,-27.86735343933105],[30.23140716552734,-27.86592292785645],[30.23166656494141,-27.8644962310791],[30.23172378540039,-27.86418342590332]]],"type":"Polygon"}
+}

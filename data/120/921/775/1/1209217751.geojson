@@ -1,0 +1,63 @@
+{
+  "id": 1209217751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13093,-28.29934,31.13093,-28.29934",
+    "geom:latitude":-28.29934,
+    "geom:longitude":31.13093,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN266",
+    "gn:asciiname":"Langgewacht",
+    "gn:country_code":"ZA",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984570,
+    "gn:latitude":-28.29934,
+    "gn:longitude":31.13093,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Langgewacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984570
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ec7789cfb9677db911366e14e1300ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209217751
+        }
+    ],
+    "wof:id":1209217751,
+    "wof:lastmodified":1536294072,
+    "wof:name":"Langgewacht",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13093,
+    -28.29934,
+    31.13093,
+    -28.29934
+],
+  "geometry": {"coordinates":[31.13093,-28.29934],"type":"Point"}
+}

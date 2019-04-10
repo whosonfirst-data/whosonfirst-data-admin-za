@@ -1,0 +1,82 @@
+{
+  "id": 1125977979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.146728,-28.22818,29.146728,-28.22818",
+    "geom:latitude":-28.22818,
+    "geom:longitude":29.146728,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.22818,
+    "lbl:longitude":29.146728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Westerson",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Free State",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1339808,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880358,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Free State",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880358,
+        "qs_pg:id":1339808
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298424,
+    "wof:geomhash":"143cc24bb53ce0ee7b55eb5ba558ba67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1125977979,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125977979,
+    "wof:lastmodified":1509404562,
+    "wof:name":"Westerson",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.146728,
+    -28.22818,
+    29.146728,
+    -28.22818
+],
+  "geometry": {"coordinates":[29.146728,-28.22818],"type":"Point"}
+}

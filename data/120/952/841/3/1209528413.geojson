@@ -1,0 +1,63 @@
+{
+  "id": 1209528413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73148,-30.56939,29.73148,-30.56939",
+    "geom:latitude":-30.56939,
+    "geom:longitude":29.73148,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN214",
+    "gn:asciiname":"Redlands",
+    "gn:country_code":"ZA",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":962950,
+    "gn:latitude":-30.56939,
+    "gn:longitude":29.73148,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Redlands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962950
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"73bc50d326549c33b65358c22e832e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209528413
+        }
+    ],
+    "wof:id":1209528413,
+    "wof:lastmodified":1536284360,
+    "wof:name":"Redlands",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73148,
+    -30.56939,
+    29.73148,
+    -30.56939
+],
+  "geometry": {"coordinates":[29.73148,-30.56939],"type":"Point"}
+}

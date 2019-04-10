@@ -1,0 +1,69 @@
+{
+  "id": 1193277463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96158,-29.59816,26.96158,-29.59816",
+    "geom:latitude":-29.59816,
+    "geom:longitude":26.96158,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS164",
+    "gn:asciiname":"De hoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1011278,
+    "gn:latitude":-29.59816,
+    "gn:longitude":26.96158,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"De hoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011278
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b357b2da008127469b2bb9284eb9a87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1193277463,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1193277463,
+    "wof:lastmodified":1536364980,
+    "wof:name":"De hoek",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96158,
+    -29.59816,
+    26.96158,
+    -29.59816
+],
+  "geometry": {"coordinates":[26.96158,-29.59816],"type":"Point"}
+}

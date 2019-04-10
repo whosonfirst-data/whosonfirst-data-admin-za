@@ -1,0 +1,67 @@
+{
+  "id": 1326727365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26667,-27.11667,31.26667,-27.11667",
+    "geom:latitude":-27.11667,
+    "geom:longitude":31.26667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bovenvallei",
+    "gn:country_code":"ZA",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016565,
+    "gn:latitude":-27.11667,
+    "gn:longitude":31.26667,
+    "gn:modification_date":"2004-12-22",
+    "gn:name":"Bovenvallei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678223,
+        1108561285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016565
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c3ddc5d3cfa53baf927b29a5f380160f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561285,
+            "locality_id":1326727365,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":1326727365,
+    "wof:lastmodified":1536703103,
+    "wof:name":"Bovenvallei",
+    "wof:parent_id":1108561285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26667,
+    -27.11667000000001,
+    31.26667,
+    -27.11667000000001
+],
+  "geometry": {"coordinates":[31.26667,-27.11667000000001],"type":"Point"}
+}

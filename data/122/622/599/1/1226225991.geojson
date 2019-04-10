@@ -1,0 +1,67 @@
+{
+  "id": 1226225991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85542,-26.59062,22.85542,-26.59062",
+    "geom:latitude":-26.59062,
+    "geom:longitude":22.85542,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Severn",
+    "gn:country_code":"ZA",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956288,
+    "gn:latitude":-26.59062,
+    "gn:longitude":22.85542,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Severn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956288
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ad421756addc5b63071af291b5335e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1226225991,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1226225991,
+    "wof:lastmodified":1536962013,
+    "wof:name":"Severn",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85542,
+    -26.59062,
+    22.85542,
+    -26.59062
+],
+  "geometry": {"coordinates":[22.85542,-26.59062],"type":"Point"}
+}

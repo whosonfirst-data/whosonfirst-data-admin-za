@@ -1,0 +1,115 @@
+{
+  "id": 1125858583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52151,-28.53537,24.52151,-28.53537",
+    "geom:latitude":-28.53537,
+    "geom:longitude":24.52151,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":11621,
+    "gn:population":11621,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.53537,
+    "lbl:longitude":24.52151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Barkly-Wes"
+    ],
+    "name:dan_x_preferred":[
+        "Barkly West"
+    ],
+    "name:dut_x_preferred":[
+        "Barkly West"
+    ],
+    "name:eng_x_preferred":[
+        "Barkly West"
+    ],
+    "name:fre_x_preferred":[
+        "Barkly West"
+    ],
+    "name:ger_x_preferred":[
+        "Barkly West"
+    ],
+    "name:ita_x_preferred":[
+        "Barkly West"
+    ],
+    "name:nob_x_preferred":[
+        "Barkly West"
+    ],
+    "name:nso_x_preferred":[
+        "Barkly West"
+    ],
+    "name:pol_x_preferred":[
+        "Barkly West"
+    ],
+    "name:rum_x_preferred":[
+        "Barkly West"
+    ],
+    "name:unk_x_variant":[
+        "Barkly-Wes"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1021040,
+    "qs_pg:gn_pop":11621,
+    "qs_pg:name":"Barkly West",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":276211,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021040,
+        "qs_pg:id":276211,
+        "wd:id":"Q808304"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293728,
+    "wof:geomhash":"70f26e9a7c273d970ce0d9efc2c912db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1125858583,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125858583,
+    "wof:lastmodified":1514503478,
+    "wof:name":"Barkly West",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:population":11621,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52151,
+    -28.53537,
+    24.52151,
+    -28.53537
+],
+  "geometry": {"coordinates":[24.52151,-28.53537],"type":"Point"}
+}

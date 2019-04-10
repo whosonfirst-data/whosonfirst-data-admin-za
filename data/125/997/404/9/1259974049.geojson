@@ -1,0 +1,69 @@
+{
+  "id": 1259974049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16667,-22.96667,30.16667,-22.96667",
+    "geom:latitude":-22.96667,
+    "geom:longitude":30.16667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Culvet",
+    "gn:country_code":"ZA",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012403,
+    "gn:latitude":-22.96667,
+    "gn:longitude":30.16667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Culvet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012403
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"04fbcc411e0a1701f08e503f22dc6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1259974049,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1259974049,
+    "wof:lastmodified":1536648408,
+    "wof:name":"Culvet",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16667,
+    -22.96667,
+    30.16667,
+    -22.96667
+],
+  "geometry": {"coordinates":[30.16667,-22.96667],"type":"Point"}
+}

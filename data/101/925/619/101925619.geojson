@@ -1,0 +1,84 @@
+{
+  "id": 101925619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000628,
+    "geom:area_square_m":6984517.055264,
+    "geom:bbox":"28.2146148682,-25.976940155,28.2457904816,-25.9407062531",
+    "geom:latitude":-25.960843,
+    "geom:longitude":28.231085,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.96174,
+    "lbl:longitude":28.230022,
+    "mps:latitude":-25.96174,
+    "mps:longitude":28.230022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Clayville"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clayville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1462763e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1013366,
+        "gp:id":1580384,
+        "qs:id":193830,
+        "qs_pg:id":193830
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1c7478a915fbe38f76c9d8d972f0949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925619,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925619,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497290774,
+    "wof:name":"Clayville",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21461486816406,
+    -25.9769401550293,
+    28.24579048156738,
+    -25.94070625305176
+],
+  "geometry": {"coordinates":[[[28.21461486816406,-25.95173645019531],[28.22677421569824,-25.94070625305176],[28.23418235778809,-25.95098495483398],[28.2377815246582,-25.95350646972656],[28.23739242553711,-25.95820045471191],[28.23959159851074,-25.95928001403809],[28.24531936645508,-25.95927047729492],[28.24543571472168,-25.97068023681641],[28.24579048156738,-25.97463989257812],[28.24466705322266,-25.97493171691895],[28.24015235900879,-25.97684478759766],[28.23741149902344,-25.9769401550293],[28.23390769958496,-25.9766845703125],[28.23172950744629,-25.97609519958496],[28.22974395751953,-25.9753246307373],[28.22774505615234,-25.97403907775879],[28.21461486816406,-25.95173645019531]]],"type":"Polygon"}
+}

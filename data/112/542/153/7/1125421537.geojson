@@ -1,0 +1,78 @@
+{
+  "id": 1125421537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93544,-28.78946,31.93544,-28.78946",
+    "geom:latitude":-28.78946,
+    "geom:longitude":31.93544,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":332156,
+    "gn:population":332156,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.78946,
+    "lbl:longitude":31.93544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347433,
+    "qs_pg:gn_pop":332156,
+    "qs_pg:name":"uMhlathuze",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764888,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347433,
+        "qs_pg:id":764888
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052342,
+    "wof:geomhash":"2ea2268d7ea8d50895afca0583acd3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "localadmin_id":1125421537,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125421537,
+    "wof:lastmodified":1509390488,
+    "wof:name":"uMhlathuze",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"localadmin",
+    "wof:population":332156,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93544,
+    -28.78946,
+    31.93544,
+    -28.78946
+],
+  "geometry": {"coordinates":[31.93544,-28.78946],"type":"Point"}
+}

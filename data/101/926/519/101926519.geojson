@@ -1,0 +1,116 @@
+{
+  "id": 101926519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000375,
+    "geom:area_square_m":4134076.404929,
+    "geom:bbox":"28.0869808197,-26.9040184021,28.1125488281,-26.8741779327",
+    "geom:latitude":-26.891599,
+    "geom:longitude":28.09951,
+    "gn:population":12397,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.888528,
+    "lbl:longitude":28.096508,
+    "mps:latitude":-26.888528,
+    "mps:longitude":28.096508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Deneysville"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043d\u0435\u0439\u0441\u0432\u0438\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Deneysville"
+    ],
+    "name:eng_x_preferred":[
+        "Deneysville"
+    ],
+    "name:nld_x_preferred":[
+        "Deneysville"
+    ],
+    "name:nso_x_preferred":[
+        "Deneysville"
+    ],
+    "name:pol_x_preferred":[
+        "Deneysville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0435\u0439\u0441\u0432\u0438\u043b\u043b"
+    ],
+    "name:sot_x_preferred":[
+        "Deneysville"
+    ],
+    "name:unk_x_variant":[
+        "Denysville"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deneysville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-26.895,
+    "wd:longitude":28.098333,
+    "wd:wordcount":433,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010962,
+        "gp:id":1580651,
+        "qs:id":130255,
+        "qs_pg:id":130255,
+        "wd:id":"Q1956442",
+        "wk:page":"Deneysville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cb9b57a56f5000d512c7bce15d7f04d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926519,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926519,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Deneysville",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:population":12397,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08698081970215,
+    -26.90401840209961,
+    28.112548828125,
+    -26.87417793273926
+],
+  "geometry": {"coordinates":[[[28.09129524230957,-26.88432693481445],[28.09329223632812,-26.88340950012207],[28.09818458557129,-26.88144302368164],[28.10093116760254,-26.87986946105957],[28.1060676574707,-26.87579917907715],[28.10944557189941,-26.87417793273926],[28.10971641540527,-26.87763214111328],[28.10938453674316,-26.88167190551758],[28.10715866088867,-26.88404655456543],[28.10265731811523,-26.88408470153809],[28.10125732421875,-26.89351844787598],[28.10613822937012,-26.89381217956543],[28.10952186584473,-26.89445686340332],[28.11140632629395,-26.89511299133301],[28.112548828125,-26.89678573608398],[28.11182022094727,-26.89881134033203],[28.11032295227051,-26.89916038513184],[28.10882568359375,-26.89950942993164],[28.10808944702148,-26.9008617401123],[28.10735893249512,-26.90254974365234],[28.10361289978027,-26.90325546264648],[28.10211181640625,-26.90326881408691],[28.1006031036377,-26.90260887145996],[28.09909820556641,-26.90228462219238],[28.09685516357422,-26.90297698974609],[28.09311294555664,-26.90401840209961],[28.09085845947266,-26.90370178222656],[28.08892822265625,-26.89867210388184],[28.09603691101074,-26.89659118652344],[28.09600639343262,-26.89389991760254],[28.08700561523438,-26.89431381225586],[28.08698081970215,-26.89195823669434],[28.09129524230957,-26.88432693481445]]],"type":"Polygon"}
+}

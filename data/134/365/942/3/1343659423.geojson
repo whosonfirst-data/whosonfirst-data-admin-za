@@ -1,0 +1,69 @@
+{
+  "id": 1343659423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65,-26.93333,20.65,-26.93333",
+    "geom:latitude":-26.93333,
+    "geom:longitude":20.65,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC081",
+    "gn:asciiname":"Beginsil",
+    "gn:country_code":"ZA",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1020407,
+    "gn:latitude":-26.93333,
+    "gn:longitude":20.65,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Beginsil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020407
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fea35b4305e7ee3fd79c20ec07498f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1343659423,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1343659423,
+    "wof:lastmodified":1536956622,
+    "wof:name":"Beginsil",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65,
+    -26.93333,
+    20.65,
+    -26.93333
+],
+  "geometry": {"coordinates":[20.65,-26.93333],"type":"Point"}
+}

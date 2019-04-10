@@ -1,0 +1,69 @@
+{
+  "id": 1259381991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90131,-30.8681,29.90131,-30.8681",
+    "geom:latitude":-30.8681,
+    "geom:longitude":29.90131,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Betshawawini",
+    "gn:country_code":"ZA",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019692,
+    "gn:latitude":-30.8681,
+    "gn:longitude":29.90131,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Betshawawini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019692
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7f2f19b73e7f2cdf6389466ed54c3f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1259381991,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259381991,
+    "wof:lastmodified":1537003674,
+    "wof:name":"Betshawawini",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90131,
+    -30.8681,
+    29.90131,
+    -30.8681
+],
+  "geometry": {"coordinates":[29.90131,-30.8681],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209026379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58333,-29.05,24.58333,-29.05",
+    "geom:latitude":-29.05,
+    "geom:longitude":24.58333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC078",
+    "gn:asciiname":"Pelindaba",
+    "gn:country_code":"ZA",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965954,
+    "gn:latitude":-29.05,
+    "gn:longitude":24.58333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pelindaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965954
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9e683fe4cdbba7f0eed804248cc06472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209026379
+        }
+    ],
+    "wof:id":1209026379,
+    "wof:lastmodified":1536299984,
+    "wof:name":"Pelindaba",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58333,
+    -29.05,
+    24.58333,
+    -29.05
+],
+  "geometry": {"coordinates":[24.58333,-29.05],"type":"Point"}
+}

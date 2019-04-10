@@ -1,0 +1,72 @@
+{
+  "id": 1276466089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06667,-26.83333,28.06667,-26.83333",
+    "geom:latitude":-26.83333,
+    "geom:longitude":28.06667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stofberg-Gedenkskool",
+    "gn:country_code":"ZA",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":952051,
+    "gn:latitude":-26.83333,
+    "gn:longitude":28.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stofberg-Gedenkskool",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stoffberggedenkskool",
+        "Stofberg",
+        "Stofberg-Gedenkskool"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952051
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c960d2508fa726588300311812a60941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1276466089,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276466089,
+    "wof:lastmodified":1537716377,
+    "wof:name":"Stofberg-Gedenkskool",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06667,
+    -26.83333,
+    28.06667,
+    -26.83333
+],
+  "geometry": {"coordinates":[28.06667,-26.83333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102546833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.666667,-32.3,22.666667,-32.3",
+    "geom:latitude":-32.3,
+    "geom:longitude":22.666667,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2941",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189437,
+        "localadmin_id":56189490,
+        "planet_id":1,
+        "state_id":2346987
+    },
+    "wof:belongsto":[
+        85633813,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049766,
+        "icao:code":"FABW",
+        "oa:id":"27278",
+        "wd:id":"Q20462742"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"07dc889acc0310232dfa5d6c76a5b920",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546833,
+            "country_id":85633813,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":102546833,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Beaufort West Airfield",
+    "wof:parent_id":85688905,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.666667,
+    -32.3,
+    22.666667,
+    -32.3
+],
+  "geometry": {"coordinates":[22.666667,-32.3],"type":"Point"}
+}

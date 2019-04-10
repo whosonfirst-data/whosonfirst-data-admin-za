@@ -1,0 +1,74 @@
+{
+  "id": 1243157797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.768,-28.3011,16.768,-28.3011",
+    "geom:latitude":-28.3011,
+    "geom:longitude":16.768,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC061",
+    "gn:asciiname":"Daberas",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3369017,
+    "gn:latitude":-28.3011,
+    "gn:longitude":16.768,
+    "gn:modification_date":"2013-08-22",
+    "gn:name":"Daberas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deberas",
+        "Daberas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369017
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"80efaa621a4fdd2b312043fcbe7c64ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1243157797,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1243157797,
+    "wof:lastmodified":1537716445,
+    "wof:name":"Daberas",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.768,
+    -28.3011,
+    16.768,
+    -28.3011
+],
+  "geometry": {"coordinates":[16.768,-28.3011],"type":"Point"}
+}

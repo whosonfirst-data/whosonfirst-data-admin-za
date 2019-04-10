@@ -1,0 +1,70 @@
+{
+  "id": 101926219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":289780.158307,
+    "geom:bbox":"27.4112358093,-26.4129943848,27.4194793701,-26.4075698853",
+    "geom:latitude":-26.410493,
+    "geom:longitude":27.415614,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.410645,
+    "lbl:longitude":27.415615,
+    "mps:latitude":-26.410645,
+    "mps:longitude":27.415615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Western Deep Levels",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"3f18598ee9fdf4bbf8bf6f2881c75eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926219,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926219,
+    "wof:lastmodified":1500027703,
+    "wof:name":"Western Deep Levels",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41123580932617,
+    -26.41299438476562,
+    27.41947937011719,
+    -26.40756988525391
+],
+  "geometry": {"coordinates":[[[27.41226196289062,-26.40949058532715],[27.41659545898438,-26.40885925292969],[27.41775512695312,-26.40769386291504],[27.41905403137207,-26.40756988525391],[27.41947937011719,-26.40900039672852],[27.4191837310791,-26.41042900085449],[27.41831016540527,-26.4118537902832],[27.41123580932617,-26.41299438476562],[27.41226196289062,-26.40949058532715]]],"type":"Polygon"}
+}

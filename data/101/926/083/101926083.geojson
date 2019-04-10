@@ -1,0 +1,105 @@
+{
+  "id": 101926083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001282,
+    "geom:area_square_m":14212730.88338,
+    "geom:bbox":"28.3786754608,-26.3273677826,28.4209957123,-26.2776241302",
+    "geom:latitude":-26.303496,
+    "geom:longitude":28.400639,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.300862,
+    "lbl:longitude":28.400641,
+    "mps:latitude":-26.300862,
+    "mps:longitude":28.400641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "KwaThema"
+    ],
+    "name:eng_x_preferred":[
+        "KwaThema"
+    ],
+    "name:eng_x_variant":[
+        "Kwa Thema"
+    ],
+    "name:fre_x_preferred":[
+        "KwaThema"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ef\uff1d\u30c6\u30de"
+    ],
+    "name:nso_x_preferred":[
+        "KwaThema"
+    ],
+    "name:unk_x_variant":[
+        "KwaThema"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kwa Thema",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1463000e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":985218,
+        "gp:id":1583625,
+        "qs:id":1300364,
+        "qs_pg:id":1300364,
+        "wd:id":"Q6449873",
+        "wk:page":"KwaThema"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"df544166b24e1945324f9f0468829759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926083,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926083,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715813,
+    "wof:name":"Kwa Thema",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37867546081543,
+    -26.32736778259277,
+    28.42099571228027,
+    -26.27762413024902
+],
+  "geometry": {"coordinates":[[[28.41318893432617,-26.28596115112305],[28.4155216217041,-26.30058860778809],[28.41604232788086,-26.30401611328125],[28.42099571228027,-26.30571746826172],[28.41720771789551,-26.31064414978027],[28.41939926147461,-26.32058334350586],[28.40584754943848,-26.32736778259277],[28.39758682250977,-26.32327461242676],[28.40158843994141,-26.3184700012207],[28.39571571350098,-26.31473922729492],[28.39452934265137,-26.31893920898438],[28.38907241821289,-26.31884002685547],[28.38653373718262,-26.31793212890625],[28.38348770141602,-26.31782531738281],[28.37867546081543,-26.31804275512695],[28.38006782531738,-26.31254959106445],[28.38297653198242,-26.30058670043945],[28.38286972045898,-26.30051612854004],[28.38482475280762,-26.29975891113281],[28.38732528686523,-26.28900527954102],[28.38865661621094,-26.28874015808105],[28.38943672180176,-26.2874927520752],[28.39402961730957,-26.28014945983887],[28.3947696685791,-26.27762413024902],[28.39676666259766,-26.27770233154297],[28.39859008789062,-26.27788543701172],[28.41318893432617,-26.28596115112305]]],"type":"Polygon"}
+}

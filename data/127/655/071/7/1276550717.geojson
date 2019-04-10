@@ -1,0 +1,74 @@
+{
+  "id": 1276550717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5,-30.45,30.5,-30.45",
+    "geom:latitude":-30.45,
+    "geom:longitude":30.5,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN213",
+    "gn:asciiname":"Victoria",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":944038,
+    "gn:latitude":-30.45,
+    "gn:longitude":30.5,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Victoria Sugar Estates",
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944038
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"55237b3f9e3bd78ca9274250f00dc3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1276550717,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276550717,
+    "wof:lastmodified":1537716370,
+    "wof:name":"Victoria",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5,
+    -30.45,
+    30.5,
+    -30.45
+],
+  "geometry": {"coordinates":[30.5,-30.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259474739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.56552,-25.18798,29.56552,-25.18798",
+    "geom:latitude":-25.18798,
+    "geom:longitude":29.56552,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Haakdoringdraai",
+    "gn:country_code":"ZA",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998380,
+    "gn:latitude":-25.18798,
+    "gn:longitude":29.56552,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haakdoringdraai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haakdoorndraai",
+        "Haakdoringdraai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998380
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"38d07de46d10e07d0712ed39c5fa9036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1259474739,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1259474739,
+    "wof:lastmodified":1537716423,
+    "wof:name":"Haakdoringdraai",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.56552000000001,
+    -25.18798,
+    29.56552000000001,
+    -25.18798
+],
+  "geometry": {"coordinates":[29.56552000000001,-25.18798],"type":"Point"}
+}

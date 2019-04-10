@@ -1,0 +1,63 @@
+{
+  "id": 1209527107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99366,-29.11138,25.99366,-29.11138",
+    "geom:latitude":-29.11138,
+    "geom:longitude":25.99366,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Mimosa Flars",
+    "gn:country_code":"ZA",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975809,
+    "gn:latitude":-29.11138,
+    "gn:longitude":25.99366,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mimosa Flars",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975809
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2a04046fda67a83c1e2f80be13b0eeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209527107
+        }
+    ],
+    "wof:id":1209527107,
+    "wof:lastmodified":1536284400,
+    "wof:name":"Mimosa Flars",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99366,
+    -29.11138,
+    25.99366,
+    -29.11138
+],
+  "geometry": {"coordinates":[25.99366,-29.11138],"type":"Point"}
+}

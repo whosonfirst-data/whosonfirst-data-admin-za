@@ -1,0 +1,102 @@
+{
+  "id": 101927035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000206,
+    "geom:area_square_m":2229315.348325,
+    "geom:bbox":"25.4119510651,-29.1320571899,25.4292087555,-29.1126937866",
+    "geom:latitude":-29.120503,
+    "geom:longitude":25.421929,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.11822,
+    "lbl:longitude":25.421929,
+    "mps:latitude":-29.11822,
+    "mps:longitude":25.421929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:dut_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:eng_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:hak_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:nld_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:nso_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:ron_x_preferred":[
+        "Petrusburg"
+    ],
+    "name:rum_x_preferred":[
+        "Petrusburg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Petrusburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.116667,
+    "wd:longitude":25.416667,
+    "wd:wordcount":296,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965581,
+        "gp:id":1586486,
+        "wd:id":"Q861704",
+        "wk:page":"Petrusburg"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"56df7c35f8b7091ba9663184d108877e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101927035,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927035,
+    "wof:lastmodified":1527715640,
+    "wof:name":"Petrusburg",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41195106506348,
+    -29.13205718994141,
+    25.42920875549316,
+    -29.11269378662109
+],
+  "geometry": {"coordinates":[[[25.42208671569824,-29.12259483337402],[25.4122371673584,-29.12163162231445],[25.41195106506348,-29.11269378662109],[25.42920875549316,-29.11470985412598],[25.4290771484375,-29.12319374084473],[25.4289379119873,-29.13205718994141],[25.42116165161133,-29.12907218933105],[25.42208671569824,-29.12259483337402]]],"type":"Polygon"}
+}

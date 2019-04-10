@@ -1,0 +1,109 @@
+{
+  "id": 101927113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:area_square_m":1828556.916357,
+    "geom:bbox":"27.1400279999,-29.5342769623,27.1593341827,-29.5182380676",
+    "geom:latitude":-29.526004,
+    "geom:longitude":27.147709,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.526166,
+    "lbl:longitude":27.146758,
+    "mps:latitude":-29.526166,
+    "mps:longitude":27.146758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0431\u0445\u043e\u0443\u0441\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:dut_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:eng_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:ger_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:nso_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:ron_x_preferred":[
+        "Hobhouse"
+    ],
+    "name:rum_x_preferred":[
+        "Hobhouse"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hobhouse",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.533333,
+    "wd:longitude":27.15,
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996223,
+        "gp:id":1582286,
+        "qs:id":193854,
+        "qs_pg:id":193854,
+        "wd:id":"Q3642292",
+        "wk:page":"Hobhouse, Free State"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"56febdec4de439cd8485373da143ad77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101927113,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927113,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Hobhouse",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14002799987793,
+    -29.53427696228027,
+    27.15933418273926,
+    -29.51823806762695
+],
+  "geometry": {"coordinates":[[[27.14002799987793,-29.52171325683594],[27.1427116394043,-29.51994895935059],[27.14926528930664,-29.51830291748047],[27.15028953552246,-29.51823806762695],[27.1493968963623,-29.5218391418457],[27.15142822265625,-29.52183723449707],[27.15436172485352,-29.5218334197998],[27.15458869934082,-29.52262306213379],[27.15459060668945,-29.52400398254395],[27.15527153015137,-29.52597808837891],[27.15933418273926,-29.5263671875],[27.15617942810059,-29.52933120727539],[27.15347099304199,-29.52913856506348],[27.15188980102539,-29.52914047241211],[27.15098762512207,-29.52933883666992],[27.15031242370605,-29.53091812133789],[27.14986419677734,-29.53289222717285],[27.14896392822266,-29.53407669067383],[27.14760971069336,-29.53427696228027],[27.14625549316406,-29.53427696228027],[27.14512634277344,-29.53408241271973],[27.14444923400879,-29.53329277038574],[27.14444732666016,-29.53270149230957],[27.14444541931152,-29.53151702880859],[27.14421844482422,-29.53072738647461],[27.1433162689209,-29.52993965148926],[27.14196014404297,-29.52974319458008],[27.14083099365234,-29.52895545959473],[27.14015197753906,-29.52777099609375],[27.14002799987793,-29.52171325683594]]],"type":"Polygon"}
+}

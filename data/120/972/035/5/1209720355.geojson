@@ -1,0 +1,74 @@
+{
+  "id": 1209720355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6494,-30.94663,29.6494,-30.94663",
+    "geom:latitude":-30.94663,
+    "geom:longitude":29.6494,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Swane",
+    "gn:country_code":"ZA",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951161,
+    "gn:latitude":-30.94663,
+    "gn:longitude":29.6494,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Swane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eswana",
+        "Eswane",
+        "Swane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951161
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"372f4511dfe259dfe75e311b596b03f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1209720355,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1209720355,
+    "wof:lastmodified":1537716376,
+    "wof:name":"Swane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6494,
+    -30.94663,
+    29.6494,
+    -30.94663
+],
+  "geometry": {"coordinates":[29.6494,-30.94663],"type":"Point"}
+}

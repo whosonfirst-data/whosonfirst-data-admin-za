@@ -1,0 +1,91 @@
+{
+  "id": 101926957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1132034.871764,
+    "geom:bbox":"29.5342445374,-28.8200321198,29.5520687103,-28.8088970184",
+    "geom:latitude":-28.815175,
+    "geom:longitude":29.543038,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.815278,
+    "lbl:longitude":29.543038,
+    "mps:latitude":-28.815278,
+    "mps:longitude":29.543038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Winterton"
+    ],
+    "name:dut_x_preferred":[
+        "Winterton"
+    ],
+    "name:eng_x_preferred":[
+        "Winterton"
+    ],
+    "name:nso_x_preferred":[
+        "Winterton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Winterton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.813333,
+    "wd:longitude":29.536111,
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939340,
+        "gp:id":55881389,
+        "qs:id":355325,
+        "wd:id":"Q8026530",
+        "wk:page":"Winterton, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ca2d0baa8ed02d40dcf915f2a79e4040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926957,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926957,
+    "wof:lastmodified":1527715816,
+    "wof:name":"Winterton",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53424453735352,
+    -28.82003211975098,
+    29.55206871032715,
+    -28.80889701843262
+],
+  "geometry": {"coordinates":[[[29.53606605529785,-28.8175163269043],[29.53424453735352,-28.81637763977051],[29.53717231750488,-28.81307029724121],[29.53897476196289,-28.81103515625],[29.54086303710938,-28.80979347229004],[29.54265975952148,-28.80889701843262],[29.54365921020508,-28.81140327453613],[29.54722213745117,-28.81302070617676],[29.55206871032715,-28.81442642211914],[29.55080032348633,-28.81674766540527],[29.55023002624512,-28.81779098510742],[29.54816818237305,-28.81867218017578],[29.54548645019531,-28.82003211975098],[29.54533576965332,-28.81976890563965],[29.5440616607666,-28.81930351257324],[29.54221725463867,-28.81891632080078],[29.54035758972168,-28.81858444213867],[29.53849792480469,-28.8182544708252],[29.53665161132812,-28.81786918640137],[29.53606605529785,-28.8175163269043]]],"type":"Polygon"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 101926589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000301,
+    "geom:area_square_m":3308044.391414,
+    "geom:bbox":"25.9698944092,-27.218662262,25.9888820648,-27.1894817352",
+    "geom:latitude":-27.201427,
+    "geom:longitude":25.978549,
+    "gn:population":49366,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.201243,
+    "lbl:longitude":25.978405,
+    "mps:latitude":-27.201243,
+    "mps:longitude":25.978405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c83\u5c14\u9a6c\u6717\u65af\u5854\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:eng_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:ger_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:ita_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:nso_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:rum_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043c\u0430\u0440\u0430\u043d\u0441\u0441\u0442\u0430\u0434"
+    ],
+    "name:tsn_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "name:unk_x_variant":[
+        "Wolmaranstad"
+    ],
+    "name:ven_x_preferred":[
+        "Wolmaransstad"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wolmaransstad",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.216667,
+    "wd:longitude":25.966667,
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":938457,
+        "gp:id":1588990,
+        "qs:id":370198,
+        "qs_pg:id":370198,
+        "wd:id":"Q3642582",
+        "wk:page":"Wolmaransstad"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b2243936be5d6f8d2cba98be79d43392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926589,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926589,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Wolmaransstad",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:population":49366,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96989440917969,
+    -27.21866226196289,
+    25.98888206481934,
+    -27.18948173522949
+],
+  "geometry": {"coordinates":[[[25.97441101074219,-27.21866226196289],[25.97419738769531,-27.21605491638184],[25.97455787658691,-27.21295166015625],[25.97454071044922,-27.21088600158691],[25.97221946716309,-27.20986747741699],[25.96989440917969,-27.20816040039062],[25.97040367126465,-27.20652008056641],[25.97235298156738,-27.19682121276855],[25.97254180908203,-27.19619750976562],[25.97436332702637,-27.19015502929688],[25.97628593444824,-27.18951034545898],[25.97936820983887,-27.18948936462402],[25.98052406311035,-27.18948173522949],[25.98285675048828,-27.1918773651123],[25.98595237731934,-27.19358062744141],[25.98789405822754,-27.19528961181641],[25.98829460144043,-27.1970100402832],[25.98873329162598,-27.1989631652832],[25.98888206481934,-27.19961738586426],[25.98679351806641,-27.20113372802734],[25.97722434997559,-27.21564483642578],[25.97441101074219,-27.21866226196289]]],"type":"Polygon"}
+}

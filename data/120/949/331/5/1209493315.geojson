@@ -1,0 +1,63 @@
+{
+  "id": 1209493315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83333,-33.1,22.83333,-33.1",
+    "geom:latitude":-33.1,
+    "geom:longitude":22.83333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC5",
+    "gn:admin3_code":"WC052",
+    "gn:asciiname":"Genasfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002178,
+    "gn:latitude":-33.1,
+    "gn:longitude":22.83333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Genasfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002178
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c5dfa229a7bb8a11afe23c88e23595cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209493315
+        }
+    ],
+    "wof:id":1209493315,
+    "wof:lastmodified":1536285415,
+    "wof:name":"Genasfontein",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83333,
+    -33.1,
+    22.83333,
+    -33.1
+],
+  "geometry": {"coordinates":[22.83333,-33.1],"type":"Point"}
+}

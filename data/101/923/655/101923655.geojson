@@ -1,0 +1,76 @@
+{
+  "id": 101923655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000664,
+    "geom:area_square_m":7474154.754763,
+    "geom:bbox":"29.8065567017,-24.4666538239,29.8637676239,-24.4240894318",
+    "geom:latitude":-24.441932,
+    "geom:longitude":29.838914,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.439214,
+    "lbl:longitude":29.839347,
+    "mps:latitude":-24.439214,
+    "mps:longitude":29.839347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mankopane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GanMankopane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003301,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eb917ff986f734bdc794b521936f286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923655,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923655,
+    "wof:lastmodified":1501216581,
+    "wof:name":"GanMankopane",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80655670166016,
+    -24.46665382385254,
+    29.86376762390137,
+    -24.4240894317627
+],
+  "geometry": {"coordinates":[[[29.81753921508789,-24.4240894317627],[29.8210563659668,-24.42605590820312],[29.83848762512207,-24.4314022064209],[29.84428215026855,-24.43543434143066],[29.8549919128418,-24.4447193145752],[29.8590202331543,-24.44997978210449],[29.86171722412109,-24.45524597167969],[29.86307525634766,-24.45929908752441],[29.86309623718262,-24.46254920959473],[29.86376762390137,-24.46455764770508],[29.85557746887207,-24.46665382385254],[29.853759765625,-24.46016311645508],[29.85149574279785,-24.45326995849609],[29.82076835632324,-24.43596458435059],[29.80655670166016,-24.43400764465332],[29.81753921508789,-24.4240894317627]]],"type":"Polygon"}
+}

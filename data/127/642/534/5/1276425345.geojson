@@ -1,0 +1,69 @@
+{
+  "id": 1276425345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80353,-23.88721,29.80353,-23.88721",
+    "geom:latitude":-23.88721,
+    "geom:longitude":29.80353,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Monywaneng",
+    "gn:country_code":"ZA",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974527,
+    "gn:latitude":-23.88721,
+    "gn:longitude":29.80353,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Monywaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974527
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f49c9a1b6431d01e7177223cb98dd7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1276425345,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276425345,
+    "wof:lastmodified":1536655421,
+    "wof:name":"Monywaneng",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80353,
+    -23.88721,
+    29.80353,
+    -23.88721
+],
+  "geometry": {"coordinates":[29.80353,-23.88721],"type":"Point"}
+}

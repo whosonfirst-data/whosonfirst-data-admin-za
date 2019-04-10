@@ -1,0 +1,76 @@
+{
+  "id": 101926753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000139,
+    "geom:area_square_m":1520787.169613,
+    "geom:bbox":"26.7872810364,-28.018863678,26.8004360199,-28.0010204315",
+    "geom:latitude":-28.010593,
+    "geom:longitude":26.794948,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.010557,
+    "lbl:longitude":26.795731,
+    "mps:latitude":-28.010557,
+    "mps:longitude":26.795731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"President Steyn Goudmyn",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591602
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"18b77f2e51cb35d965bf004fd3b4e29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926753,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926753,
+    "wof:lastmodified":1534985996,
+    "wof:name":"President Steyn Goudmyn",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78728103637695,
+    -28.01886367797852,
+    26.80043601989746,
+    -28.00102043151855
+],
+  "geometry": {"coordinates":[[[26.79104042053223,-28.01315307617188],[26.79157829284668,-28.0126781463623],[26.79158020019531,-28.01148796081543],[26.79158592224121,-28.00910758972168],[26.79212760925293,-28.00625228881836],[26.79347610473633,-28.00268363952637],[26.79535675048828,-28.00102043151855],[26.79723358154297,-28.00102233886719],[26.79857444763184,-28.00150108337402],[26.80043601989746,-28.00912094116211],[26.80043029785156,-28.01197814941406],[26.79962158203125,-28.01459503173828],[26.79773902893066,-28.0164966583252],[26.78968811035156,-28.01886367797852],[26.7883472442627,-28.01862335205078],[26.78728103637695,-28.01528930664062],[26.78728294372559,-28.01457595825195],[26.79104042053223,-28.01315307617188]]],"type":"Polygon"}
+}

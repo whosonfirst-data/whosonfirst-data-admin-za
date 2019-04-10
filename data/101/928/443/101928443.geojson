@@ -1,0 +1,73 @@
+{
+  "id": 101928443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1406540.552945,
+    "geom:bbox":"29.2530593872,-30.8668880463,29.2679958344,-30.8509788513",
+    "geom:latitude":-30.858701,
+    "geom:longitude":29.261084,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.859789,
+    "lbl:longitude":29.263065,
+    "mps:latitude":-30.859789,
+    "mps:longitude":29.263065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sipundu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955434,
+        "gp:id":1585422
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39b11260471cac1b7f36056cc70d692c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928443,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928443,
+    "wof:lastmodified":1500027913,
+    "wof:name":"Sipundu",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25305938720703,
+    -30.86688804626465,
+    29.26799583435059,
+    -30.85097885131836
+],
+  "geometry": {"coordinates":[[[29.25572204589844,-30.85110282897949],[29.26046943664551,-30.85097885131836],[29.26397514343262,-30.8541088104248],[29.26790237426758,-30.85957145690918],[29.26799583435059,-30.86220550537109],[29.2613639831543,-30.86677360534668],[29.25695419311523,-30.86688804626465],[29.25652122497559,-30.8642635345459],[29.25915336608887,-30.86185073852539],[29.25906181335449,-30.85921669006348],[29.25305938720703,-30.85263633728027],[29.25572204589844,-30.85110282897949]]],"type":"Polygon"}
+}

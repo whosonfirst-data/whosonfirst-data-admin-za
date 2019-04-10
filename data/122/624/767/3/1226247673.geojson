@@ -1,0 +1,69 @@
+{
+  "id": 1226247673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03235,-33.86878,25.03235,-33.86878",
+    "geom:latitude":-33.86878,
+    "geom:longitude":25.03235,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC108",
+    "gn:asciiname":"Loerie",
+    "gn:country_code":"ZA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":982449,
+    "gn:latitude":-33.86878,
+    "gn:longitude":25.03235,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Loerie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982449
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2ffca2dbc9f91f47ebde4f9feddb81ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1226247673,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226247673,
+    "wof:lastmodified":1536931536,
+    "wof:name":"Loerie",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03235,
+    -33.86878,
+    25.03235,
+    -33.86878
+],
+  "geometry": {"coordinates":[25.03235,-33.86878],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 101924017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1653356.459695,
+    "geom:bbox":"30.6421394348,-23.0473747253,30.6532726288,-23.0294494629",
+    "geom:latitude":-23.038045,
+    "geom:longitude":30.647798,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.03813,
+    "lbl:longitude":30.647798,
+    "mps:latitude":-23.03813,
+    "mps:longitude":30.647798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Jimmy Jones"
+    ],
+    "name:deu_x_preferred":[
+        "Jimmy Jones"
+    ],
+    "name:fra_x_preferred":[
+        "Jimmy Jones"
+    ],
+    "name:hun_x_preferred":[
+        "Jimmy Jones"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30df\u30fc\u30fb\u30b8\u30e7\u30fc\u30f3\u30ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Jimmy Jones"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jimmy Jones",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881208
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f851cadf27f258e0ffefe5be9bdcdce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924017,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924017,
+    "wof:lastmodified":1527677689,
+    "wof:name":"Jimmy Jones",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64213943481445,
+    -23.0473747253418,
+    30.65327262878418,
+    -23.02944946289062
+],
+  "geometry": {"coordinates":[[[30.65134239196777,-23.03146171569824],[30.65327262878418,-23.04546165466309],[30.64539337158203,-23.0473747253418],[30.64213943481445,-23.03277969360352],[30.64343070983887,-23.03073310852051],[30.64473342895508,-23.02950096130371],[30.64561080932617,-23.02949142456055],[30.64692687988281,-23.02947807312012],[30.64912223815918,-23.02945518493652],[30.64956092834473,-23.02944946289062],[30.65044975280762,-23.03025245666504],[30.65134239196777,-23.03146171569824]]],"type":"Polygon"}
+}

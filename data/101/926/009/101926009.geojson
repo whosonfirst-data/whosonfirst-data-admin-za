@@ -1,0 +1,131 @@
+{
+  "id": 101926009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000647,
+    "geom:area_square_m":7168778.597584,
+    "geom:bbox":"28.1035938263,-26.3062000275,28.126367569,-26.2610855103",
+    "geom:latitude":-26.282024,
+    "geom:longitude":28.114644,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.282306,
+    "lbl:longitude":28.114861,
+    "mps:latitude":-26.282306,
+    "mps:longitude":28.114861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Alberton"
+    ],
+    "name:dut_x_preferred":[
+        "Alberton"
+    ],
+    "name:eng_x_preferred":[
+        "Alberton"
+    ],
+    "name:epo_x_preferred":[
+        "Alberton"
+    ],
+    "name:fin_x_preferred":[
+        "Alberton"
+    ],
+    "name:fre_x_preferred":[
+        "Alberton"
+    ],
+    "name:ger_x_preferred":[
+        "Alberton"
+    ],
+    "name:ita_x_preferred":[
+        "Alberton"
+    ],
+    "name:nob_x_preferred":[
+        "Alberton"
+    ],
+    "name:nso_x_preferred":[
+        "Alberton"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062a\u0648\u0646\u060c \u06af\u0627\u0648\u062a\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Alberton"
+    ],
+    "name:por_x_preferred":[
+        "Alberton"
+    ],
+    "name:rum_x_preferred":[
+        "Alberton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Alberton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ALBERTON",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1570.0,
+    "wd:latitude":-26.267222,
+    "wd:longitude":28.121944,
+    "wd:wordcount":843,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1463efc8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1023441,
+        "gp:id":55878744,
+        "qs_pg:id":1339703,
+        "wd:id":"Q1637702",
+        "wk:page":"Alberton, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"150e9dd873981a6f5e29a357687e7ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926009,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926009,
+    "wof:lastmodified":1527715814,
+    "wof:name":"Alberton",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10359382629395,
+    -26.30620002746582,
+    28.12636756896973,
+    -26.26108551025391
+],
+  "geometry": {"coordinates":[[[28.12551879882812,-26.27422523498535],[28.12605857849121,-26.27588844299316],[28.12636756896973,-26.27771186828613],[28.12627220153809,-26.27946472167969],[28.12624931335449,-26.27949142456055],[28.12418746948242,-26.28191184997559],[28.12189865112305,-26.29094886779785],[28.11982154846191,-26.30130195617676],[28.11873245239258,-26.30312347412109],[28.11731910705566,-26.30469131469727],[28.11397933959961,-26.30620002746582],[28.11371803283691,-26.30503845214844],[28.11370086669922,-26.30496025085449],[28.11272430419922,-26.30262565612793],[28.10540390014648,-26.29039764404297],[28.10456466674805,-26.28840065002441],[28.10393905639648,-26.28606986999512],[28.10359382629395,-26.28466415405273],[28.10393524169922,-26.28249359130859],[28.10581207275391,-26.28023338317871],[28.10648918151855,-26.27855682373047],[28.10672950744629,-26.27729797363281],[28.10664367675781,-26.27609252929688],[28.10599136352539,-26.2741813659668],[28.10517883300781,-26.27251625061035],[28.10459327697754,-26.27146530151367],[28.10385704040527,-26.27058792114258],[28.10376930236816,-26.26621055603027],[28.11550521850586,-26.2652645111084],[28.11531257629395,-26.26253318786621],[28.12116050720215,-26.26108551025391],[28.12127304077148,-26.26133155822754],[28.12127113342285,-26.261474609375],[28.12124633789062,-26.26497459411621],[28.12167739868164,-26.26908302307129],[28.12243461608887,-26.27093315124512],[28.12480354309082,-26.2730655670166],[28.12545013427734,-26.27401351928711],[28.12551879882812,-26.27422523498535]]],"type":"Polygon"}
+}

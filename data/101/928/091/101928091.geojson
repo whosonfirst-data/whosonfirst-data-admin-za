@@ -1,0 +1,113 @@
+{
+  "id": 101928091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":2187023.25099,
+    "geom:bbox":"25.7768192291,-30.0387096405,25.7928829193,-30.0190086365",
+    "geom:latitude":-30.029255,
+    "geom:longitude":25.784057,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.030003,
+    "lbl:longitude":25.783904,
+    "mps:latitude":-30.030003,
+    "mps:longitude":25.783904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u7279\u9f8d\u666e\u65af\u5821"
+    ],
+    "name:dan_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:dut_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:eng_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:fre_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:ger_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:hak_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:ita_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:nso_x_preferred":[
+        "Trompsburg"
+    ],
+    "name:rum_x_preferred":[
+        "Trompsburg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Trompsburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.016667,
+    "wd:longitude":25.766667,
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948099,
+        "qs:id":130208,
+        "qs_pg:id":130208,
+        "wd:id":"Q2426070"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b3a1f2d5d9fe0892782ab4fa0816fc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928091,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928091,
+    "wof:lastmodified":1527715921,
+    "wof:name":"Trompsburg",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77681922912598,
+    -30.03870964050293,
+    25.79288291931152,
+    -30.01900863647461
+],
+  "geometry": {"coordinates":[[[25.78283309936523,-30.0203685760498],[25.78397941589355,-30.02241706848145],[25.78513717651367,-30.02344703674316],[25.78941917419434,-30.0241641998291],[25.79058265686035,-30.02485466003418],[25.7917366027832,-30.02622413635254],[25.79221343994141,-30.02707672119141],[25.79288291931152,-30.02827072143555],[25.79286956787109,-30.02928924560547],[25.79244995117188,-30.03166389465332],[25.78889846801758,-30.03502655029297],[25.78691864013672,-30.03738403320312],[25.78573417663574,-30.03839302062988],[25.78339004516602,-30.03870964050293],[25.78223609924316,-30.0373420715332],[25.78146743774414,-30.03631591796875],[25.77914237976074,-30.03493499755859],[25.77681922912598,-30.03355598449707],[25.77686500549316,-30.02982139587402],[25.77690315246582,-30.02938461303711],[25.77731704711914,-30.02473258972168],[25.77812576293945,-30.02236366271973],[25.78011512756348,-30.01932525634766],[25.7824592590332,-30.01900863647461],[25.78283309936523,-30.0203685760498]]],"type":"Polygon"}
+}

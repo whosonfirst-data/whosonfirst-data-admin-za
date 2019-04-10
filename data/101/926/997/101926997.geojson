@@ -1,0 +1,82 @@
+{
+  "id": 101926997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":893609.053426,
+    "geom:bbox":"26.8420734406,-29.017168045,26.8573226929,-29.0078487396",
+    "geom:latitude":-29.012729,
+    "geom:longitude":26.849699,
+    "geonames:id":"974045,974044",
+    "iso:country":"ZA",
+    "lbl:latitude":-29.01265,
+    "lbl:longitude":26.849699,
+    "mps:latitude":-29.01265,
+    "mps:longitude":26.849699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Morago"
+    ],
+    "name:swe_x_preferred":[
+        "Morago"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Morago",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-35.3667,
+    "wd:longitude":144.667,
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588012
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f56d208225119c9b399f2ab427551fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101926997,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926997,
+    "wof:lastmodified":1527715812,
+    "wof:name":"Morago",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84207344055176,
+    -29.01716804504395,
+    26.85732269287109,
+    -29.00784873962402
+],
+  "geometry": {"coordinates":[[[26.84469032287598,-29.01706314086914],[26.84422874450684,-29.01716804504395],[26.84207344055176,-29.01187133789062],[26.85437965393066,-29.00784873962402],[26.85732269287109,-29.01441955566406],[26.85562896728516,-29.01456832885742],[26.84469032287598,-29.01706314086914]]],"type":"Polygon"}
+}

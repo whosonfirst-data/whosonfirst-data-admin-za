@@ -1,0 +1,72 @@
+{
+  "id": 101928597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1124889.085665,
+    "geom:bbox":"28.7372341156,-31.5091991425,28.7513275146,-31.4988250732",
+    "geom:latitude":-31.503724,
+    "geom:longitude":28.744618,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.504172,
+    "lbl:longitude":28.745457,
+    "mps:latitude":-31.504172,
+    "mps:longitude":28.745457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qudalele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5f4f674df962119b9ee6cc0116fb3d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928597,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928597,
+    "wof:lastmodified":1500027918,
+    "wof:name":"Qudalele",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73723411560059,
+    -31.50919914245605,
+    28.75132751464844,
+    -31.49882507324219
+],
+  "geometry": {"coordinates":[[[28.73867034912109,-31.49882507324219],[28.74161529541016,-31.4990119934082],[28.74642181396484,-31.49931526184082],[28.7481575012207,-31.49932098388672],[28.74947166442871,-31.50118827819824],[28.75126266479492,-31.50475692749023],[28.75132751464844,-31.50692176818848],[28.74969291687012,-31.50858116149902],[28.74612998962402,-31.50919914245605],[28.74316787719727,-31.50872230529785],[28.73773574829102,-31.50306701660156],[28.73723411560059,-31.5003719329834],[28.73867034912109,-31.49882507324219]]],"type":"Polygon"}
+}

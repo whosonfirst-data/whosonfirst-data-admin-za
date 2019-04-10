@@ -1,0 +1,69 @@
+{
+  "id": 1259495043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78288,-30.36305,26.78288,-30.36305",
+    "geom:latitude":-30.36305,
+    "geom:longitude":26.78288,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Rifle",
+    "gn:country_code":"ZA",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961290,
+    "gn:latitude":-30.36305,
+    "gn:longitude":26.78288,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rifle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961290
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"adc623808efee05f2ea0b6b9184e77a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1259495043,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1259495043,
+    "wof:lastmodified":1536841141,
+    "wof:name":"Rifle",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78288,
+    -30.36305,
+    26.78288,
+    -30.36305
+],
+  "geometry": {"coordinates":[26.78288,-30.36305],"type":"Point"}
+}

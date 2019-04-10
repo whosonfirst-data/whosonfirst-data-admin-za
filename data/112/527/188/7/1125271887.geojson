@@ -1,0 +1,78 @@
+{
+  "id": 1125271887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05506,-33.78583,20.05506,-33.78583",
+    "geom:latitude":-33.78583,
+    "geom:longitude":20.05506,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":80121,
+    "gn:population":80121,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.78583,
+    "lbl:longitude":20.05506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347631,
+    "qs_pg:gn_pop":80121,
+    "qs_pg:name":"Langeberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":765022,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347631,
+        "qs_pg:id":765022
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042159,
+    "wof:geomhash":"15467e66a3b9b675f87ea7991af897bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "localadmin_id":1125271887,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125271887,
+    "wof:lastmodified":1509387051,
+    "wof:name":"Langeberg",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"localadmin",
+    "wof:population":80121,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05506,
+    -33.78583,
+    20.05506,
+    -33.78583
+],
+  "geometry": {"coordinates":[20.05506,-33.78583],"type":"Point"}
+}

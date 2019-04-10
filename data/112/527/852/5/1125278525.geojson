@@ -1,0 +1,78 @@
+{
+  "id": 1125278525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79097,-33.28059,23.79097,-33.28059",
+    "geom:latitude":-33.28059,
+    "geom:longitude":23.79097,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13950,
+    "gn:population":13950,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.28059,
+    "lbl:longitude":23.79097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347615,
+    "qs_pg:gn_pop":13950,
+    "qs_pg:name":"Baviaans",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109973,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347615,
+        "qs_pg:id":109973
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042414,
+    "wof:geomhash":"653b42bc97b051490c61b265b3fa894c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "localadmin_id":1125278525,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125278525,
+    "wof:lastmodified":1509387228,
+    "wof:name":"Baviaans",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"localadmin",
+    "wof:population":13950,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79097,
+    -33.28059,
+    23.79097,
+    -33.28059
+],
+  "geometry": {"coordinates":[23.79097,-33.28059],"type":"Point"}
+}

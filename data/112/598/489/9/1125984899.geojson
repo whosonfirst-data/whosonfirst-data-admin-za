@@ -1,0 +1,113 @@
+{
+  "id": 1125984899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9402,-32.59527,26.9402,-32.59527",
+    "geom:latitude":-32.59527,
+    "geom:longitude":26.9402,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.59527,
+    "lbl:longitude":26.9402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hogsback"
+    ],
+    "name:dut_x_preferred":[
+        "Hogsback"
+    ],
+    "name:eng_x_preferred":[
+        "Hogsback"
+    ],
+    "name:fre_x_preferred":[
+        "Hogsback"
+    ],
+    "name:ger_x_preferred":[
+        "Hogsback"
+    ],
+    "name:ita_x_preferred":[
+        "Hogsback"
+    ],
+    "name:nso_x_preferred":[
+        "Hogsback"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0433\u0441\u0431\u044d\u043a"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":996060,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hogsback",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":422,
+    "qs_pg:photos_1k":86,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":422,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":884262,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996060,
+        "gp:id":1582297,
+        "qs_pg:id":884262,
+        "wd:id":"Q740554"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298757,
+    "wof:geomhash":"bb21fd24adc873510475618202d0e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1125984899,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125984899,
+    "wof:lastmodified":1514503916,
+    "wof:name":"Hogsback",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9402,
+    -32.59527,
+    26.9402,
+    -32.59527
+],
+  "geometry": {"coordinates":[26.9402,-32.59527],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101927809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":573355.757056,
+    "geom:bbox":"30.3779220581,-29.5442504883,30.3846549988,-29.5335140228",
+    "geom:latitude":-29.538006,
+    "geom:longitude":30.381046,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.538135,
+    "lbl:longitude":30.381045,
+    "mps:latitude":-29.538135,
+    "mps:longitude":30.381045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Claridge",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013392,
+        "gp:id":1580378
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"99e805c5fdacd3620c9f98b43ce3ab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927809,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927809,
+    "wof:lastmodified":1527715640,
+    "wof:name":"Claridge",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37792205810547,
+    -29.54425048828125,
+    30.3846549987793,
+    -29.53351402282715
+],
+  "geometry": {"coordinates":[[[30.37801361083984,-29.5357666015625],[30.37792205810547,-29.53351402282715],[30.3846549987793,-29.53377914428711],[30.3840503692627,-29.5360164642334],[30.38401794433594,-29.53759384155273],[30.38403129577637,-29.5391731262207],[30.38415336608887,-29.54029083251953],[30.38105964660645,-29.54425048828125],[30.38091087341309,-29.5434455871582],[30.37859916687012,-29.54185485839844],[30.37797546386719,-29.53998756408691],[30.37810516357422,-29.53801918029785],[30.37801361083984,-29.5357666015625]]],"type":"Polygon"}
+}

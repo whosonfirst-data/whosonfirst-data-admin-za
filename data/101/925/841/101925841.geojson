@@ -1,0 +1,110 @@
+{
+  "id": 101925841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":2162400.252098,
+    "geom:bbox":"29.7095451355,-26.1768169403,29.7256507874,-26.1623916626",
+    "geom:latitude":-26.170313,
+    "geom:longitude":29.71799,
+    "gn:population":15871,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.17029,
+    "lbl:longitude":29.71799,
+    "mps:latitude":-26.17029,
+    "mps:longitude":29.71799,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hendrina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043d\u0434\u0440\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Hendrina"
+    ],
+    "name:eng_x_preferred":[
+        "Hendrina"
+    ],
+    "name:nld_x_preferred":[
+        "Hendrina"
+    ],
+    "name:nso_x_preferred":[
+        "Hendrina"
+    ],
+    "name:ron_x_preferred":[
+        "Hendrina"
+    ],
+    "name:rum_x_preferred":[
+        "Hendrina"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hendrina",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-26.15,
+    "wd:longitude":29.7167,
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996930,
+        "gp:id":1582194,
+        "qs:id":84039,
+        "qs_pg:id":84039,
+        "wd:id":"Q2753004",
+        "wk:page":"Hendrina"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6f56ef10108aa9fb69d47f0bff5ec4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925841,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925841,
+    "wof:lastmodified":1527688522,
+    "wof:name":"Hendrina",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:population":15871,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70954513549805,
+    -26.17681694030762,
+    29.72565078735352,
+    -26.16239166259766
+],
+  "geometry": {"coordinates":[[[29.70954513549805,-26.17681694030762],[29.7098503112793,-26.16838645935059],[29.70986557006836,-26.16797065734863],[29.71838188171387,-26.16239166259766],[29.71881103515625,-26.16241073608398],[29.72468376159668,-26.16267395019531],[29.72503089904785,-26.16764640808105],[29.72565078735352,-26.17648696899414],[29.71962738037109,-26.17660903930664],[29.70954513549805,-26.17681694030762]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101927669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1447129.982914,
+    "geom:bbox":"30.1849250793,-28.4744682312,30.2015209198,-28.4614009857",
+    "geom:latitude":-28.467465,
+    "geom:longitude":30.194438,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.468146,
+    "lbl:longitude":30.19511,
+    "mps:latitude":-28.468146,
+    "mps:longitude":30.19511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vaalkopdam"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalkop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945348,
+        "gp:id":56189574
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"67ac49cc7a7dffccafd055eea1725523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927669,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927669,
+    "wof:lastmodified":1527715635,
+    "wof:name":"Vaalkop",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1849250793457,
+    -28.47446823120117,
+    30.2015209197998,
+    -28.46140098571777
+],
+  "geometry": {"coordinates":[[[30.18841361999512,-28.46140098571777],[30.19034194946289,-28.46208000183105],[30.19463729858398,-28.46293258666992],[30.1994800567627,-28.46386528015137],[30.2015209197998,-28.46410179138184],[30.20094871520996,-28.47221946716309],[30.20042419433594,-28.47402191162109],[30.19965553283691,-28.47446823120117],[30.19354057312012,-28.47285270690918],[30.19023704528809,-28.47080230712891],[30.18974685668945,-28.46809196472168],[30.18899154663086,-28.46673393249512],[30.18517112731934,-28.46558380126953],[30.1849250793457,-28.46445274353027],[30.18544769287109,-28.46287727355957],[30.18841361999512,-28.46140098571777]]],"type":"Polygon"}
+}

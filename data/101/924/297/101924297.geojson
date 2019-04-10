@@ -1,0 +1,107 @@
+{
+  "id": 101924297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000217,
+    "geom:area_square_m":2455756.928419,
+    "geom:bbox":"30.1219520569,-23.7018985748,30.1467475891,-23.6876850128",
+    "geom:latitude":-23.695714,
+    "geom:longitude":30.133604,
+    "gn:population":24572,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.69536,
+    "lbl:longitude":30.133368,
+    "mps:latitude":-23.69536,
+    "mps:longitude":30.133368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Modjadjiskloof"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ee3\u6c83\u723e\u65af\u514b\u76e7\u592b"
+    ],
+    "name:dut_x_preferred":[
+        "Modjajiskloof"
+    ],
+    "name:eng_x_preferred":[
+        "Modjadjiskloof"
+    ],
+    "name:nso_x_preferred":[
+        "Modjadjiskloof"
+    ],
+    "name:pol_x_preferred":[
+        "Modjadjiskloof"
+    ],
+    "name:rum_x_preferred":[
+        "Duiwelskloof"
+    ],
+    "name:unk_x_variant":[
+        "Duweiskloof"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Duiwelskloof",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1007514,
+        "gp:id":1580888,
+        "qs:id":84061,
+        "qs_pg:id":84061,
+        "wd:id":"Q2302331",
+        "wk:page":"Modjadjiskloof"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"26584b56fad9b35a44305f71af69fd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924297,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924297,
+    "wof:lastmodified":1514503560,
+    "wof:name":"Duiwelskloof",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:population":24572,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12195205688477,
+    -23.7018985748291,
+    30.14674758911133,
+    -23.68768501281738
+],
+  "geometry": {"coordinates":[[[30.14674758911133,-23.69371032714844],[30.14622688293457,-23.69531440734863],[30.1440486907959,-23.69857978820801],[30.14115715026855,-23.70158767700195],[30.13481140136719,-23.7018985748291],[30.12994766235352,-23.70071411132812],[30.12728881835938,-23.69951438903809],[30.12199020385742,-23.69914627075195],[30.12197303771973,-23.69711494445801],[30.12195205688477,-23.69467735290527],[30.12282180786133,-23.69304656982422],[30.12325859069824,-23.69263648986816],[30.12634468078613,-23.69220733642578],[30.12722587585449,-23.69220161437988],[30.12940788269043,-23.68934059143066],[30.13116264343262,-23.6881103515625],[30.1338062286377,-23.68768501281738],[30.13469314575195,-23.68808364868164],[30.13736724853516,-23.69131469726562],[30.14091873168945,-23.69372749328613],[30.14674758911133,-23.69371032714844]]],"type":"Polygon"}
+}

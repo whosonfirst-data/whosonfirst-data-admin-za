@@ -1,0 +1,123 @@
+{
+  "id": 101925271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000673,
+    "geom:area_square_m":7510049.431083,
+    "geom:bbox":"27.9730701447,-25.4922161102,28.0148448944,-25.4643592834",
+    "geom:latitude":-25.478815,
+    "geom:longitude":27.995484,
+    "gn:population":97417,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.481462,
+    "lbl:longitude":28.00213,
+    "mps:latitude":-25.481462,
+    "mps:longitude":28.00213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mabopane"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0431\u043e\u043f\u0430\u043d\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Mabopane"
+    ],
+    "name:dut_x_preferred":[
+        "Mabopane"
+    ],
+    "name:eng_x_preferred":[
+        "Mabopane"
+    ],
+    "name:fra_x_preferred":[
+        "Mabopane"
+    ],
+    "name:fre_x_preferred":[
+        "Mabopane"
+    ],
+    "name:ger_x_preferred":[
+        "Mabopane"
+    ],
+    "name:nld_x_preferred":[
+        "Mabopane"
+    ],
+    "name:nso_x_preferred":[
+        "Mabopane"
+    ],
+    "name:pol_x_preferred":[
+        "Mabopane"
+    ],
+    "name:ron_x_preferred":[
+        "Mabopane"
+    ],
+    "name:rum_x_preferred":[
+        "Mabopane"
+    ],
+    "name:zul_x_preferred":[
+        "Mabopane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mabopane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1285,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980921,
+        "gp:id":1584143,
+        "qs:id":130229,
+        "wd:id":"Q747507",
+        "wk:page":"Mabopane"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81dc2849eb37b1636ad883a24e9051fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925271,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925271,
+    "wof:lastmodified":1527688523,
+    "wof:name":"Mabopane",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:population":97417,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97307014465332,
+    -25.49221611022949,
+    28.01484489440918,
+    -25.46435928344727
+],
+  "geometry": {"coordinates":[[[27.98909187316895,-25.46614265441895],[27.99400329589844,-25.46435928344727],[27.99639701843262,-25.46517753601074],[27.99758148193359,-25.46575927734375],[27.99946784973145,-25.46769142150879],[28.0008544921875,-25.46963310241699],[28.0025634765625,-25.47111320495605],[28.006103515625,-25.47240257263184],[28.01015663146973,-25.47413635253906],[28.01253700256348,-25.47575378417969],[28.01323890686035,-25.47710227966309],[28.01363945007324,-25.47967147827148],[28.01484489440918,-25.48200988769531],[28.01352119445801,-25.4860954284668],[28.01152610778809,-25.48830986022949],[28.0078182220459,-25.49024772644043],[28.00274276733398,-25.49221611022949],[27.99829483032227,-25.49200057983398],[27.99346542358398,-25.49024200439453],[27.99204444885254,-25.48810005187988],[27.99195671081543,-25.48469161987305],[27.99189376831055,-25.48221015930176],[27.9908447265625,-25.48130226135254],[27.98811340332031,-25.48135948181152],[27.98369789123535,-25.48238372802734],[27.98032188415527,-25.48400497436523],[27.9786376953125,-25.48497009277344],[27.97489738464355,-25.48567008972168],[27.97347640991211,-25.48352813720703],[27.97307014465332,-25.48105621337891],[27.97435760498047,-25.47792625427246],[27.97801971435547,-25.47412872314453],[27.98270606994629,-25.47030830383301],[27.98909187316895,-25.46614265441895]]],"type":"Polygon"}
+}

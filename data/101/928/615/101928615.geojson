@@ -1,0 +1,95 @@
+{
+  "id": 101928615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000247,
+    "geom:area_square_m":2608477.283102,
+    "geom:bbox":"27.6834754944,-31.5337429047,27.7081012726,-31.5156517029",
+    "geom:latitude":-31.524058,
+    "geom:longitude":27.696842,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.523452,
+    "lbl:longitude":27.698894,
+    "mps:latitude":-31.523452,
+    "mps:longitude":27.698894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kala"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Cala"
+    ],
+    "name:eng_x_preferred":[
+        "Cala"
+    ],
+    "name:ger_x_preferred":[
+        "Cala"
+    ],
+    "name:nso_x_preferred":[
+        "Cala"
+    ],
+    "name:rum_x_preferred":[
+        "Cala"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cala",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014322,
+        "gp:id":1589344,
+        "wd:id":"Q3642317"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"01a73d6654b613c6269c0e3f91ee354d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928615,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928615,
+    "wof:lastmodified":1553815588,
+    "wof:name":"Cala",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68347549438477,
+    -31.53374290466309,
+    27.70810127258301,
+    -31.51565170288086
+],
+  "geometry": {"coordinates":[[[27.69824600219727,-31.51565170288086],[27.70159339904785,-31.51592445373535],[27.70466423034668,-31.52129173278809],[27.70810127258301,-31.52633666992188],[27.70155143737793,-31.53374290466309],[27.69663619995117,-31.52903747558594],[27.69150733947754,-31.53292465209961],[27.69110107421875,-31.53102111816406],[27.69180107116699,-31.52878379821777],[27.68615531921387,-31.52472305297852],[27.68347549438477,-31.52030563354492],[27.68605041503906,-31.51899719238281],[27.69279861450195,-31.52240753173828],[27.69315338134766,-31.52144813537598],[27.68935203552246,-31.51672554016113],[27.69455146789551,-31.51665687561035],[27.69641876220703,-31.51726722717285],[27.69824600219727,-31.51565170288086]]],"type":"Polygon"}
+}

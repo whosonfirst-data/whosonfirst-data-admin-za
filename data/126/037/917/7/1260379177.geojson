@@ -1,0 +1,75 @@
+{
+  "id": 1260379177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68711,-30.59498,18.68711,-30.59498",
+    "geom:latitude":-30.59498,
+    "geom:longitude":18.68711,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC011",
+    "gn:asciiname":"Kliprand",
+    "gn:country_code":"ZA",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3365474,
+    "gn:latitude":-30.59498,
+    "gn:longitude":18.68711,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kliprand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niewefontein",
+        "Nieuwefontein",
+        "Kliprand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3365474,
+        "wk:page":"Kliprand"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"319537ec354a11909e6176f3429e06e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1260379177,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1260379177,
+    "wof:lastmodified":1537716444,
+    "wof:name":"Kliprand",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68711,
+    -30.59498,
+    18.68711,
+    -30.59498
+],
+  "geometry": {"coordinates":[18.68711,-30.59498],"type":"Point"}
+}

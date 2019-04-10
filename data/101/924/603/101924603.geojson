@@ -1,0 +1,86 @@
+{
+  "id": 101924603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000318,
+    "geom:area_square_m":3567800.133108,
+    "geom:bbox":"31.2489948273,-24.903219223,31.282371521,-24.8834037781",
+    "geom:latitude":-24.893407,
+    "geom:longitude":31.26289,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.896452,
+    "lbl:longitude":31.258971,
+    "mps:latitude":-24.896452,
+    "mps:longitude":31.258971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Cunningmoor"
+    ],
+    "name:dut_x_preferred":[
+        "Cunningmoor"
+    ],
+    "name:eng_x_preferred":[
+        "Cunningmoor"
+    ],
+    "name:nso_x_preferred":[
+        "Cunningmoor"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cunning Moor",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012375,
+        "gp:id":1585727,
+        "wd:id":"Q15212194"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a6d5d757af3560da738e2da55a25f034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924603,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924603,
+    "wof:lastmodified":1514503547,
+    "wof:name":"Cunning Moor",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24899482727051,
+    -24.90321922302246,
+    31.28237152099609,
+    -24.88340377807617
+],
+  "geometry": {"coordinates":[[[31.27801132202148,-24.88554382324219],[31.28060340881348,-24.88458633422852],[31.28230094909668,-24.88666152954102],[31.28233528137207,-24.88869094848633],[31.28237152099609,-24.89072227478027],[31.28106307983398,-24.89236640930176],[31.27750205993652,-24.89241790771484],[31.27305030822754,-24.89248085021973],[31.27039909362793,-24.89373779296875],[31.26733207702637,-24.89662551879883],[31.26470947265625,-24.89950752258301],[31.26251983642578,-24.90156936645508],[31.26076698303223,-24.90321922302246],[31.2491340637207,-24.90013694763184],[31.24899482727051,-24.89201545715332],[31.25463485717773,-24.88340377807617],[31.2551441192627,-24.88705253601074],[31.25696563720703,-24.88946342468262],[31.25920677185059,-24.89024353027344],[31.26543998718262,-24.8901538848877],[31.27016258239746,-24.88757705688477],[31.27694320678711,-24.88592720031738],[31.27801132202148,-24.88554382324219]]],"type":"Polygon"}
+}

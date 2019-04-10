@@ -1,0 +1,74 @@
+{
+  "id": 101929183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1112295.25819,
+    "geom:bbox":"27.2843761444,-33.1713829041,27.3044376373,-33.1618003845",
+    "geom:latitude":-33.167117,
+    "geom:longitude":27.293964,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.16723,
+    "lbl:longitude":27.293964,
+    "mps:latitude":-33.16723,
+    "mps:longitude":27.293964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cross Roads",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":952,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012458,
+        "gp:id":1580491
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec0ebe0f7ac0d4bef23864d9b4fac7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929183,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929183,
+    "wof:lastmodified":1527715595,
+    "wof:name":"Cross Roads",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28437614440918,
+    -33.17138290405273,
+    27.3044376373291,
+    -33.16180038452148
+],
+  "geometry": {"coordinates":[[[27.29668426513672,-33.16312789916992],[27.29937362670898,-33.16180038452148],[27.3044376373291,-33.16435241699219],[27.29832458496094,-33.16961669921875],[27.29022789001465,-33.17132568359375],[27.28442764282227,-33.17138290405273],[27.28437614440918,-33.16780853271484],[27.29090881347656,-33.16481399536133],[27.29668426513672,-33.16312789916992]]],"type":"Polygon"}
+}

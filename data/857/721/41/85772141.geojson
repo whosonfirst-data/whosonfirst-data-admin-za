@@ -1,0 +1,111 @@
+{
+  "id": 85772141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000231,
+    "geom:area_square_m":2366670.413275,
+    "geom:bbox":"18.5055999511,-33.9091305487,18.5230571057,-33.8856787838",
+    "geom:latitude":-33.898112,
+    "geom:longitude":18.515296,
+    "gn:latitude":-33.91214,
+    "gn:longitude":18.5206,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.910568,
+    "lbl:longitude":18.521441,
+    "mps:latitude":-33.898401,
+    "mps:longitude":18.515164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Factreton"
+    ],
+    "name:unk_x_variant":[
+        "Factreton"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Factreton",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Factreton",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":123,
+    "qs:photo_sum":355,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367945,
+        "gp:id":1581230,
+        "qs:id":115922,
+        "qs_pg:id":115922
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ab33b0d212690543958c5fc3605bd698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772141,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772141,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497316286,
+    "wof:name":"Factreton",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50559995112883,
+    -33.90913054865872,
+    18.52305710570744,
+    -33.88567878382463
+],
+  "geometry": {"coordinates":[[[18.51614317414578,-33.88567878382463],[18.51745605470001,-33.88726031271133],[18.51861585748662,-33.88865744027483],[18.51798498531736,-33.8909374555499],[18.51861584485556,-33.89321736417482],[18.5186158574939,-33.89321737939997],[18.52294921872499,-33.89843773419126],[18.52305710570744,-33.89874099826165],[18.52294921875011,-33.89902695123495],[18.52294921875011,-33.90570373839757],[18.52178054046203,-33.90712777701171],[18.52034812742539,-33.90830332801083],[18.51760200979425,-33.90913054865872],[18.51370243992767,-33.90443221249735],[18.51196289060005,-33.90373358017931],[18.50848401344155,-33.90233640449998],[18.50761412259817,-33.90198704168131],[18.50654602440898,-33.90224441729049],[18.50646972660013,-33.90196864229689],[18.50559995112883,-33.89882487803234],[18.50646972439893,-33.89777700444133],[18.50646972658103,-33.89549722129995],[18.5092163086,-33.89549721821877],[18.5092163086,-33.8932173735999],[18.51196289061363,-33.89321737051863],[18.51196289061676,-33.89093746317491],[18.51196289060971,-33.88865750119997],[18.51196289062091,-33.88726031270138],[18.51327577115489,-33.88567878382499],[18.51470947267507,-33.88592550286734],[18.51614317414578,-33.88567878382463]]],"type":"Polygon"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125920423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0378,-26.51574,28.0378,-26.51574",
+    "geom:latitude":-26.51574,
+    "geom:longitude":28.0378,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.51574,
+    "lbl:longitude":28.0378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Randvaal"
+    ],
+    "name:dut_x_preferred":[
+        "Randvaal"
+    ],
+    "name:eng_x_preferred":[
+        "Randvaal"
+    ],
+    "name:nso_x_preferred":[
+        "Randvaal"
+    ],
+    "name:pol_x_preferred":[
+        "Randvaal"
+    ],
+    "name:rum_x_preferred":[
+        "Randvaal"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7870457,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Randvaal",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":122,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":393507,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879612,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870457,
+        "gp:id":55879612,
+        "qs_pg:id":393507,
+        "wd:id":"Q2170906"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497296463,
+    "wof:geomhash":"a171315de4aefccfc75e6f2f6df3d218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":1125920423,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125920423,
+    "wof:lastmodified":1514504517,
+    "wof:name":"Randvaal",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0378,
+    -26.51574,
+    28.0378,
+    -26.51574
+],
+  "geometry": {"coordinates":[28.0378,-26.51574],"type":"Point"}
+}

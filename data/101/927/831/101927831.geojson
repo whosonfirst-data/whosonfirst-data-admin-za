@@ -1,0 +1,105 @@
+{
+  "id": 101927831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":852107.107528,
+    "geom:bbox":"31.0492534637,-29.5924396515,31.0600910187,-29.5806312561",
+    "geom:latitude":-29.587236,
+    "geom:longitude":31.054099,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.587147,
+    "lbl:longitude":31.053454,
+    "mps:latitude":-29.587147,
+    "mps:longitude":31.053454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Tongaat"
+    ],
+    "name:chi_x_preferred":[
+        "\u901a\u52a0\u7279"
+    ],
+    "name:eng_x_preferred":[
+        "Tongaat"
+    ],
+    "name:eng_x_variant":[
+        "Tongaat Village",
+        "Victoria"
+    ],
+    "name:fre_x_preferred":[
+        "Tongaat"
+    ],
+    "name:ger_x_preferred":[
+        "Tongaat"
+    ],
+    "name:rum_x_preferred":[
+        "Tongaat"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0646\u06af\u0627\u0679"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tongaat",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":503,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1463b74c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":948468,
+        "gp:id":1588171,
+        "wd:id":"Q993189",
+        "wk:page":"Tongaat"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e594885a338a2fc0fc276620e64bc935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101927831,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927831,
+    "wof:lastmodified":1527715640,
+    "wof:name":"Tongaat",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04925346374512,
+    -29.59243965148926,
+    31.06009101867676,
+    -29.58063125610352
+],
+  "geometry": {"coordinates":[[[31.05372047424316,-29.58063125610352],[31.05478668212891,-29.58150100708008],[31.05593299865723,-29.58257865905762],[31.05705833435059,-29.58317756652832],[31.05699157714844,-29.58477210998535],[31.05699348449707,-29.58702659606934],[31.05828285217285,-29.58770370483398],[31.06009101867676,-29.58928108215332],[31.0595760345459,-29.59131050109863],[31.05854415893555,-29.59243965148926],[31.05648040771484,-29.59221458435059],[31.05544662475586,-29.59041023254395],[31.05441474914551,-29.59063720703125],[31.05157661437988,-29.59176635742188],[31.04977035522461,-29.59176635742188],[31.04925346374512,-29.59041404724121],[31.04976654052734,-29.58635330200195],[31.05105590820312,-29.5822925567627],[31.05372047424316,-29.58063125610352]]],"type":"Polygon"}
+}

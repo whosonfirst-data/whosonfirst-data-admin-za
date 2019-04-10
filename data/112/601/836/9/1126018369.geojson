@@ -1,0 +1,99 @@
+{
+  "id": 1126018369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15838,-24.93602,27.15838,-24.93602",
+    "geom:latitude":-24.93602,
+    "geom:longitude":27.15838,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.93602,
+    "lbl:longitude":27.15838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Swartklip"
+    ],
+    "name:dut_x_preferred":[
+        "Swartklip"
+    ],
+    "name:eng_x_preferred":[
+        "Swartklip"
+    ],
+    "name:nso_x_preferred":[
+        "Swartklip"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":951046,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Swartklip",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":308614,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587908,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951046,
+        "gp:id":1587908,
+        "qs_pg:id":308614,
+        "wd:id":"Q7653938"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300685,
+    "wof:geomhash":"f64bad1335d975312ec78b9f7cc0c1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1126018369,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1126018369,
+    "wof:lastmodified":1514504550,
+    "wof:name":"Swartklip",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15838,
+    -24.93602,
+    27.15838,
+    -24.93602
+],
+  "geometry": {"coordinates":[27.15838,-24.93602],"type":"Point"}
+}

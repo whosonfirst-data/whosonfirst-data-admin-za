@@ -1,0 +1,138 @@
+{
+  "id": 1126005837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8344,-32.78749,26.8344,-32.78749",
+    "geom:latitude":-32.78749,
+    "geom:longitude":26.8344,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9788,
+    "gn:population":9788,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.78749,
+    "lbl:longitude":26.8344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Alice"
+    ],
+    "name:dut_x_preferred":[
+        "Alice"
+    ],
+    "name:eng_x_preferred":[
+        "Alice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0633\u060c \u06a9\u06cc\u067e \u0634\u0631\u0642\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Alice"
+    ],
+    "name:ger_x_preferred":[
+        "Alice"
+    ],
+    "name:ita_x_preferred":[
+        "Alice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30b9"
+    ],
+    "name:nso_x_preferred":[
+        "Alice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06cc\u0633\u060c \u06a9\u06cc\u067e \u0634\u0631\u0642\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Alice"
+    ],
+    "name:rum_x_preferred":[
+        "Alice"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Alice"
+    ],
+    "name:ven_x_preferred":[
+        "Alice"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1023332,
+    "qs_pg:gn_pop":9788,
+    "qs_pg:name":"Alice",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":297413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1579412,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023332,
+        "gp:id":1579412,
+        "qs_pg:id":297413,
+        "wd:id":"Q2003910"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497299945,
+    "wof:geomhash":"de0733c9cc29c05a26c654f77339b84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1126005837,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1126005837,
+    "wof:lastmodified":1553816693,
+    "wof:name":"Alice",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:population":9788,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8344,
+    -32.78749,
+    26.8344,
+    -32.78749
+],
+  "geometry": {"coordinates":[26.8344,-32.78749],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125271771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2746,-23.51165,30.2746,-23.51165",
+    "geom:latitude":-23.51165,
+    "geom:longitude":30.2746,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":247739,
+    "gn:population":247739,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.51165,
+    "lbl:longitude":30.2746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347602,
+    "qs_pg:gn_pop":247739,
+    "qs_pg:name":"Greater Letaba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":765009,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347602,
+        "qs_pg:id":765009
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042156,
+    "wof:geomhash":"a2c7957b159bef614304c352732d4cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "localadmin_id":1125271771,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125271771,
+    "wof:lastmodified":1509387047,
+    "wof:name":"Greater Letaba",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"localadmin",
+    "wof:population":247739,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2746,
+    -23.51165,
+    30.2746,
+    -23.51165
+],
+  "geometry": {"coordinates":[30.2746,-23.51165],"type":"Point"}
+}

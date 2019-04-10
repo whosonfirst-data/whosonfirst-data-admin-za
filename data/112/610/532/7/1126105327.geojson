@@ -1,0 +1,93 @@
+{
+  "id": 1126105327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52908,-33.971,18.52908,-33.971",
+    "geom:latitude":-33.971,
+    "geom:longitude":18.52908,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.971,
+    "lbl:longitude":18.52908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Welcome Estate"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3361979,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rylands Estate",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":432786,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587090,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101928027,
+        1108730611,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361979,
+        "gp:id":1587090,
+        "qs_pg:id":432786
+    },
+    "wof:country":"ZA",
+    "wof:created":1497316822,
+    "wof:geomhash":"3d9a599a7c06901da8d8bc78057cd2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":1126105327,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126105327,
+    "wof:lastmodified":1509412342,
+    "wof:name":"Rylands Estate",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52908,
+    -33.971,
+    18.52908,
+    -33.971
+],
+  "geometry": {"coordinates":[18.52908,-33.971],"type":"Point"}
+}

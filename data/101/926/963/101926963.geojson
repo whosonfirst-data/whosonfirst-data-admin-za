@@ -1,0 +1,84 @@
+{
+  "id": 101926963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":803846.838592,
+    "geom:bbox":"27.5472412109,-28.9157009125,27.5578651428,-28.9038619995",
+    "geom:latitude":-28.910265,
+    "geom:longitude":27.552792,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.910316,
+    "lbl:longitude":27.552893,
+    "mps:latitude":-28.910316,
+    "mps:longitude":27.552893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hlohlolwane"
+    ],
+    "name:eng_x_preferred":[
+        "Hlohlolwane"
+    ],
+    "name:fre_x_preferred":[
+        "Hlohlolwane"
+    ],
+    "name:nso_x_preferred":[
+        "Hlohlolwane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hlohlolwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5873562"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"967618016a54397213c141f5ef36554b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926963,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926963,
+    "wof:lastmodified":1514503915,
+    "wof:name":"Hlohlolwane",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5472412109375,
+    -28.91570091247559,
+    27.55786514282227,
+    -28.90386199951172
+],
+  "geometry": {"coordinates":[[[27.5533561706543,-28.90386199951172],[27.55475997924805,-28.90435028076172],[27.55786514282227,-28.90828323364258],[27.55703735351562,-28.91075325012207],[27.55370140075684,-28.91570091247559],[27.55033493041992,-28.91522216796875],[27.5472412109375,-28.91350746154785],[27.54917907714844,-28.90905952453613],[27.5533561706543,-28.90386199951172]]],"type":"Polygon"}
+}

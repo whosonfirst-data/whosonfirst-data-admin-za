@@ -1,0 +1,69 @@
+{
+  "id": 1343367931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63142,-29.48406,30.63142,-29.48406",
+    "geom:latitude":-29.48406,
+    "geom:longitude":30.63142,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN221",
+    "gn:asciiname":"KwaNobhena",
+    "gn:country_code":"ZA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985420,
+    "gn:latitude":-29.48406,
+    "gn:longitude":30.63142,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaNobhena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985420
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"aaa516e3f405be86224988054d2b7a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1343367931,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343367931,
+    "wof:lastmodified":1536878853,
+    "wof:name":"KwaNobhena",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63142,
+    -29.48406,
+    30.63142,
+    -29.48406
+],
+  "geometry": {"coordinates":[30.63142,-29.48406],"type":"Point"}
+}

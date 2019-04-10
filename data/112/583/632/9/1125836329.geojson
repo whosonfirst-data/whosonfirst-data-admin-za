@@ -1,0 +1,82 @@
+{
+  "id": 1125836329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.805419,-25.353084,31.805419,-25.353084",
+    "geom:latitude":-25.353084,
+    "geom:longitude":31.805419,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.353084,
+    "lbl:longitude":31.805419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Marloth",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Mpumalanga",
+    "qs_pg:photos":181,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":181,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225642,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55881318,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Mpumalanga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881318,
+        "qs_pg:id":225642
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292731,
+    "wof:geomhash":"cf038126da3985130a3cb2cfe70bb598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1125836329,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1125836329,
+    "wof:lastmodified":1509395002,
+    "wof:name":"Marloth",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.805419,
+    -25.353084,
+    31.805419,
+    -25.353084
+],
+  "geometry": {"coordinates":[31.805419,-25.353084],"type":"Point"}
+}

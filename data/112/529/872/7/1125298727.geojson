@@ -1,0 +1,96 @@
+{
+  "id": 1125298727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6486,-26.31906,27.6486,-26.31906",
+    "geom:latitude":-26.31906,
+    "geom:longitude":27.6486,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":156831,
+    "gn:population":156831,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.31906,
+    "lbl:longitude":27.6486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Westonaria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0442\u043e\u043d\u0430\u0440\u0438\u044f"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":940316,
+    "qs_pg:gn_pop":156831,
+    "qs_pg:name":"Westonaria",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":760653,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940316,
+        "gp:id":56189492,
+        "qs_pg:id":760653
+    },
+    "wof:country":"ZA",
+    "wof:created":1497043301,
+    "wof:geomhash":"a69b219a7a7ba923beedc4c101f368ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "localadmin_id":1125298727,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125298727,
+    "wof:lastmodified":1509387669,
+    "wof:name":"Westonaria",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"localadmin",
+    "wof:population":156831,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6486,
+    -26.31906,
+    27.6486,
+    -26.31906
+],
+  "geometry": {"coordinates":[27.6486,-26.31906],"type":"Point"}
+}

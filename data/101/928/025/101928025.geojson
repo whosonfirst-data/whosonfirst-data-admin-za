@@ -1,0 +1,108 @@
+{
+  "id": 101928025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":2300330.717146,
+    "geom:bbox":"18.3832683563,-33.9665718079,18.398897171,-33.9445381165",
+    "geom:latitude":-33.953723,
+    "geom:longitude":18.390207,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.959446,
+    "lbl:longitude":18.377938,
+    "mps:latitude":-33.95393,
+    "mps:longitude":18.390355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kampsbaai"
+    ],
+    "name:dut_x_preferred":[
+        "Camps Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Camps Bay"
+    ],
+    "name:eng_x_variant":[
+        "Camps Bay / Bakoven",
+        "Campsbay",
+        "Kampsbaai"
+    ],
+    "name:fre_x_preferred":[
+        "Camps Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30f3\u30d7\u30b9\u6e7e"
+    ],
+    "name:unk_x_variant":[
+        "Kampsbaai"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Camps Bay",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":-33.95,
+    "wd:longitude":18.383333,
+    "wd:wordcount":637,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1466f8f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3370234,
+        "gp:id":1579591,
+        "qs_pg:id":240618,
+        "wd:id":"Q2935571",
+        "wk:page":"Camps Bay"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"183c1fed55beb8927eeb2bfc8edc1748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928025,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101928025,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715921,
+    "wof:name":"Camps Bay",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38326835632324,
+    -33.96657180786133,
+    18.39889717102051,
+    -33.94453811645508
+],
+  "geometry": {"coordinates":[[[18.38326835632324,-33.96516418457031],[18.38383674621582,-33.96329498291016],[18.38431930541992,-33.96140670776367],[18.38434028625488,-33.9612922668457],[18.38467025756836,-33.95950317382812],[18.38477516174316,-33.94462966918945],[18.39889717102051,-33.94453811645508],[18.39828872680664,-33.94680023193359],[18.39541816711426,-33.95747756958008],[18.3874626159668,-33.96657180786133],[18.38326835632324,-33.96516418457031]]],"type":"Polygon"}
+}

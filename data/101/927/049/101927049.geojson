@@ -1,0 +1,72 @@
+{
+  "id": 101927049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1158749.763384,
+    "geom:bbox":"26.7795352936,-29.1729755402,26.7964305878,-29.1597614288",
+    "geom:latitude":-29.166637,
+    "geom:longitude":26.788097,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.165272,
+    "lbl:longitude":26.789377,
+    "mps:latitude":-29.165272,
+    "mps:longitude":26.789377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bultfontein No. 1",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122513
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"081f861d3952e8f8cef33fa19e35e64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101927049,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927049,
+    "wof:lastmodified":1500027645,
+    "wof:name":"Bultfontein No. 1",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7795352935791,
+    -29.17297554016113,
+    26.79643058776855,
+    -29.15976142883301
+],
+  "geometry": {"coordinates":[[[26.79041481018066,-29.16002464294434],[26.79116821289062,-29.15976142883301],[26.7961311340332,-29.16519355773926],[26.79643058776855,-29.16598892211914],[26.79642868041992,-29.16704750061035],[26.79537200927734,-29.16810417175293],[26.7937126159668,-29.16863059997559],[26.7911491394043,-29.16862678527832],[26.78918838500977,-29.16901969909668],[26.78375625610352,-29.17205429077148],[26.78239631652832,-29.17271423339844],[26.7808895111084,-29.17297554016113],[26.78013610839844,-29.17244529724121],[26.7795352935791,-29.1712532043457],[26.77953910827637,-29.17006301879883],[26.78044700622559,-29.16847610473633],[26.78981018066406,-29.16042137145996],[26.79041481018066,-29.16002464294434]]],"type":"Polygon"}
+}

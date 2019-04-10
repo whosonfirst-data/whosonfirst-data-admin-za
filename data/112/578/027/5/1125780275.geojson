@@ -1,0 +1,102 @@
+{
+  "id": 1125780275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06541,-28.33392,23.06541,-28.33392",
+    "geom:latitude":-28.33392,
+    "geom:longitude":23.06541,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.33392,
+    "lbl:longitude":23.06541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u65af\u7279\u99ac\u65af\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:eng_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:fre_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:ger_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:ita_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:pol_x_preferred":[
+        "Postmasburg"
+    ],
+    "name:rum_x_preferred":[
+        "Postmasburg"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":964363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Postmasburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":276184,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964363,
+        "qs_pg:id":276184,
+        "wd:id":"Q2580907"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290441,
+    "wof:geomhash":"d49f9251ab494cca2c270ec25efa1223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1125780275,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125780275,
+    "wof:lastmodified":1514504513,
+    "wof:name":"Postmasburg",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06541,
+    -28.33392,
+    23.06541,
+    -28.33392
+],
+  "geometry": {"coordinates":[23.06541,-28.33392],"type":"Point"}
+}

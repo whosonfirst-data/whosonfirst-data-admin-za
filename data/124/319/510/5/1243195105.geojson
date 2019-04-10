@@ -1,0 +1,69 @@
+{
+  "id": 1243195105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69442,-31.34361,25.69442,-31.34361",
+    "geom:latitude":-31.34361,
+    "geom:longitude":25.69442,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Grootvlei (1)",
+    "gn:country_code":"ZA",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998827,
+    "gn:latitude":-31.34361,
+    "gn:longitude":25.69442,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Grootvlei (1)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998827
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d18a3e0e5de427332d588ef3b06cf109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1243195105,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243195105,
+    "wof:lastmodified":1536670890,
+    "wof:name":"Grootvlei (1)",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69442,
+    -31.34361,
+    25.69442,
+    -31.34361
+],
+  "geometry": {"coordinates":[25.69442,-31.34361],"type":"Point"}
+}

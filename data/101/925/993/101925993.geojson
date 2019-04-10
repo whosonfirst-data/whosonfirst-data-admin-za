@@ -1,0 +1,72 @@
+{
+  "id": 101925993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":192605.322721,
+    "geom:bbox":"28.0151405334,-26.2667560577,28.0226478577,-26.2622814178",
+    "geom:latitude":-26.264922,
+    "geom:longitude":28.018039,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.2647,
+    "lbl:longitude":28.017669,
+    "mps:latitude":-26.2647,
+    "mps:longitude":28.017669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wes-Turffontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee28ae861d8466721927d98af0ce6ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925993,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925993,
+    "wof:lastmodified":1500027730,
+    "wof:name":"Wes-Turffontein",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01514053344727,
+    -26.26675605773926,
+    28.02264785766602,
+    -26.26228141784668
+],
+  "geometry": {"coordinates":[[[28.02264785766602,-26.26620864868164],[28.0159969329834,-26.26675605773926],[28.01514053344727,-26.26392555236816],[28.01794052124023,-26.26228141784668],[28.01803970336914,-26.26235389709473],[28.02028846740723,-26.2648868560791],[28.02146148681641,-26.26568603515625],[28.02264785766602,-26.26620864868164]]],"type":"Polygon"}
+}

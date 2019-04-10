@@ -1,0 +1,73 @@
+{
+  "id": 101926721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":734345.725583,
+    "geom:bbox":"29.9653301239,-27.903459549,29.9778308868,-27.8957157135",
+    "geom:latitude":-27.898869,
+    "geom:longitude":29.972076,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.89937,
+    "lbl:longitude":29.971957,
+    "mps:latitude":-27.89937,
+    "mps:longitude":29.971957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ballengeich",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021366,
+        "gp:id":1585757
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e2f5fb3fdc478dfdb45e7a7530af853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101926721,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926721,
+    "wof:lastmodified":1500027523,
+    "wof:name":"Ballengeich",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96533012390137,
+    -27.9034595489502,
+    29.97783088684082,
+    -27.89571571350098
+],
+  "geometry": {"coordinates":[[[29.96533012390137,-27.89588165283203],[29.97605514526367,-27.89571571350098],[29.97783088684082,-27.89595603942871],[29.97780990600586,-27.89798545837402],[29.9772891998291,-27.89933395385742],[29.97599983215332,-27.9013557434082],[29.9749755859375,-27.90225028991699],[29.96982955932617,-27.9034595489502],[29.96911430358887,-27.90210151672363],[29.96824264526367,-27.90068244934082],[29.96732711791992,-27.89927864074707],[29.96700668334961,-27.89877891540527],[29.9664249420166,-27.89787292480469],[29.9655933380127,-27.89643859863281],[29.96533012390137,-27.89588165283203]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293804989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4825,-25.14833,28.4825,-25.14833",
+    "geom:latitude":-25.14833,
+    "geom:longitude":28.4825,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP316",
+    "gn:asciiname":"Kwa-Phake",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965531,
+    "gn:latitude":-25.14833,
+    "gn:longitude":28.4825,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kwa-Phake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phake",
+        "Kwa-Phake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965531
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d6de3dcb458490c0349506066c893cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1293804989,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1293804989,
+    "wof:lastmodified":1537716385,
+    "wof:name":"Kwa-Phake",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4825,
+    -25.14833,
+    28.4825,
+    -25.14833
+],
+  "geometry": {"coordinates":[28.4825,-25.14833],"type":"Point"}
+}

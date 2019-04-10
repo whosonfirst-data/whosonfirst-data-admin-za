@@ -1,0 +1,78 @@
+{
+  "id": 1125358625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94409,-28.17292,31.94409,-28.17292",
+    "geom:latitude":-28.17292,
+    "geom:longitude":31.94409,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":150557,
+    "gn:population":150557,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.17292,
+    "lbl:longitude":31.94409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347418,
+    "qs_pg:gn_pop":150557,
+    "qs_pg:name":"Hlabisa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":764877,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347418,
+        "qs_pg:id":764877
+    },
+    "wof:country":"ZA",
+    "wof:created":1497046635,
+    "wof:geomhash":"2cd1e54bb386b8fd42a61db82f2152ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "localadmin_id":1125358625,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125358625,
+    "wof:lastmodified":1509389014,
+    "wof:name":"Hlabisa",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"localadmin",
+    "wof:population":150557,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94409,
+    -28.17292,
+    31.94409,
+    -28.17292
+],
+  "geometry": {"coordinates":[31.94409,-28.17292],"type":"Point"}
+}

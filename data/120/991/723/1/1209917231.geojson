@@ -1,0 +1,73 @@
+{
+  "id": 1209917231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03907,-27.97838,31.03907,-27.97838",
+    "geom:latitude":-27.97838,
+    "geom:longitude":31.03907,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN263",
+    "gn:asciiname":"Gluckstadt",
+    "gn:country_code":"ZA",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001464,
+    "gn:latitude":-27.97838,
+    "gn:longitude":31.03907,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Gl\u00fcckstadt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelukstadt",
+        "Gl\u00fcckstadt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001464
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8d31c9751fa015c2d8ede0e3c1f04bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1209917231,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1209917231,
+    "wof:lastmodified":1537716425,
+    "wof:name":"Gluckstadt",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03907,
+    -27.97838,
+    31.03907,
+    -27.97838
+],
+  "geometry": {"coordinates":[31.03907,-27.97838],"type":"Point"}
+}

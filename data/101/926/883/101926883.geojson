@@ -1,0 +1,70 @@
+{
+  "id": 101926883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":175199.031097,
+    "geom:bbox":"25.2564964294,-28.5613098145,25.260799408,-28.5562934875",
+    "geom:latitude":-28.558747,
+    "geom:longitude":25.258684,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.558743,
+    "lbl:longitude":25.258684,
+    "mps:latitude":-28.558743,
+    "mps:longitude":25.258684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Seretse",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"d04eff484b4571844842185f3dd5974d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926883,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926883,
+    "wof:lastmodified":1500027667,
+    "wof:name":"Seretse",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25649642944336,
+    -28.56130981445312,
+    25.26079940795898,
+    -28.55629348754883
+],
+  "geometry": {"coordinates":[[[25.25753021240234,-28.55715560913086],[25.25830078125,-28.55671691894531],[25.26008987426758,-28.55629348754883],[25.26059341430664,-28.5565242767334],[25.26079940795898,-28.55933380126953],[25.26040267944336,-28.56022644042969],[25.25745964050293,-28.56130981445312],[25.25683212280273,-28.56073951721191],[25.25649642944336,-28.55815315246582],[25.25650405883789,-28.55770492553711],[25.25753021240234,-28.55715560913086]]],"type":"Polygon"}
+}

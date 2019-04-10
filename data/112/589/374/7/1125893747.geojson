@@ -1,0 +1,101 @@
+{
+  "id": 1125893747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.827642,-34.160904,24.827642,-34.160904",
+    "geom:latitude":-34.160904,
+    "geom:longitude":24.827642,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.160904,
+    "lbl:longitude":24.827642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "St Francisbaai"
+    ],
+    "name:dut_x_preferred":[
+        "Sint-Francisbaai"
+    ],
+    "name:eng_x_preferred":[
+        "St Francis Bay"
+    ],
+    "name:ger_x_preferred":[
+        "St. Francis Bay"
+    ],
+    "name:nso_x_preferred":[
+        "St Francis Bay"
+    ],
+    "name:rum_x_preferred":[
+        "St. Francisbaai"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St Francis Bay",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":383282,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879003,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879003,
+        "qs_pg:id":383282,
+        "wd:id":"Q1025682"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295445,
+    "wof:geomhash":"8480d0cab434dff0a9c21c4179ea9b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125893747,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125893747,
+    "wof:lastmodified":1514504547,
+    "wof:name":"St Francis Bay",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.827642,
+    -34.160904,
+    24.827642,
+    -34.160904
+],
+  "geometry": {"coordinates":[24.827642,-34.160904],"type":"Point"}
+}

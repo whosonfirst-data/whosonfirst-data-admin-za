@@ -1,0 +1,106 @@
+{
+  "id": 85772225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11901207.19415,
+    "geom:bbox":"27.924985,-26.081419,27.924985,-26.081419",
+    "geom:latitude":-26.081419,
+    "geom:longitude":27.924985,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.081419,
+    "lbl:longitude":27.924985,
+    "mps:latitude":-26.071717,
+    "mps:longitude":27.902302,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Honeydew"
+    ],
+    "name:unk_x_variant":[
+        "Honeydew"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:id":0,
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Honeydew",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":23,
+    "qs:photo_sum":41,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582324
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b3e676336ce308f197b336d6b5cced4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":-1,
+            "neighbourhood_id":85772225,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85772225,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859517,
+    "wof:name":"Honeydew",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.924985,
+    -26.081419,
+    27.924985,
+    -26.081419
+],
+  "geometry": {"coordinates":[27.924985,-26.081419],"type":"Point"}
+}

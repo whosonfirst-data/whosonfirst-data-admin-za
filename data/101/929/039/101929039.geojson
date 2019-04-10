@@ -1,0 +1,73 @@
+{
+  "id": 101929039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":904355.02824,
+    "geom:bbox":"27.1444740295,-32.6920013428,27.1549720764,-32.6757125854",
+    "geom:latitude":-32.684192,
+    "geom:longitude":27.150381,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.68388,
+    "lbl:longitude":27.151255,
+    "mps:latitude":-32.68388,
+    "mps:longitude":27.151255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nettleton Bridge",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":528,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582700
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"aff246d6989e4906d59105bde5e85a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929039,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929039,
+    "wof:lastmodified":1527715587,
+    "wof:name":"Nettleton Bridge",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14447402954102,
+    -32.69200134277344,
+    27.15497207641602,
+    -32.67571258544922
+],
+  "geometry": {"coordinates":[[[27.14897155761719,-32.6779670715332],[27.15155601501465,-32.67571258544922],[27.15497207641602,-32.67604446411133],[27.15390014648438,-32.68235015869141],[27.15404891967773,-32.68254089355469],[27.15412712097168,-32.68313598632812],[27.15392875671387,-32.68381881713867],[27.1525764465332,-32.68615341186523],[27.15225982666016,-32.68685913085938],[27.15351676940918,-32.68852615356445],[27.14834403991699,-32.69161605834961],[27.14536285400391,-32.69200134277344],[27.14448738098145,-32.69020462036133],[27.14447402954102,-32.68912506103516],[27.1478443145752,-32.68584823608398],[27.14909362792969,-32.68331146240234],[27.14897155761719,-32.6779670715332]]],"type":"Polygon"}
+}

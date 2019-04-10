@@ -1,0 +1,93 @@
+{
+  "id": 101927083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1456751.961702,
+    "geom:bbox":"29.6229190826,-29.2359809875,29.6388092041,-29.2127895355",
+    "geom:latitude":-29.225993,
+    "geom:longitude":29.629842,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.226743,
+    "lbl:longitude":29.626411,
+    "mps:latitude":-29.226743,
+    "mps:longitude":29.626411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:nld_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:pol_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:por_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:ron_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:swe_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u62c9\u8482\u5eab\u76e7"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hlatikulu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.966667,
+    "wd:longitude":31.316667,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a2e78229b239f0be1325e9ba1b0326fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927083,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927083,
+    "wof:lastmodified":1527715634,
+    "wof:name":"Hlatikulu",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6229190826416,
+    -29.23598098754883,
+    29.63880920410156,
+    -29.21278953552246
+],
+  "geometry": {"coordinates":[[[29.62348747253418,-29.22529983520508],[29.62479400634766,-29.22373580932617],[29.63025283813477,-29.21927833557129],[29.63548278808594,-29.21278953552246],[29.63779640197754,-29.21281433105469],[29.63880920410156,-29.21395111083984],[29.63149833679199,-29.22245025634766],[29.63018798828125,-29.22424125671387],[29.62936592102051,-29.22806739807129],[29.62986183166504,-29.22942543029785],[29.6329402923584,-29.23013305664062],[29.63547897338867,-29.23264122009277],[29.63494682312012,-29.23398971557617],[29.63106155395508,-29.23598098754883],[29.62671089172363,-29.23435592651367],[29.6229190826416,-29.22935485839844],[29.62348747253418,-29.22529983520508]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343842481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06667,-23.9,30.06667,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":30.06667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Letaba",
+    "gn:country_code":"ZA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983038,
+    "gn:latitude":-23.9,
+    "gn:longitude":30.06667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Letaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983038
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"62f99457ea9f756517c72cecde264aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1343842481,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343842481,
+    "wof:lastmodified":1536692751,
+    "wof:name":"Letaba",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06667,
+    -23.9,
+    30.06667,
+    -23.9
+],
+  "geometry": {"coordinates":[30.06667,-23.9],"type":"Point"}
+}

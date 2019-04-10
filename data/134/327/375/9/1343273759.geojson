@@ -1,0 +1,67 @@
+{
+  "id": 1343273759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81667,-26.93333,26.81667,-26.93333",
+    "geom:latitude":-26.93333,
+    "geom:longitude":26.81667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Orangia",
+    "gn:country_code":"ZA",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":967544,
+    "gn:latitude":-26.93333,
+    "gn:longitude":26.81667,
+    "gn:modification_date":"2004-04-29",
+    "gn:name":"Orangia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":967544
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e2adc19db4dd3f5958dbe5884a6251d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":1343273759,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1343273759,
+    "wof:lastmodified":1537014937,
+    "wof:name":"Orangia",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81667,
+    -26.93333,
+    26.81667,
+    -26.93333
+],
+  "geometry": {"coordinates":[26.81667,-26.93333],"type":"Point"}
+}

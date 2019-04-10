@@ -1,0 +1,69 @@
+{
+  "id": 1360269865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35798,-24.49699,29.35798,-24.49699",
+    "geom:latitude":-24.49699,
+    "geom:longitude":29.35798,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Droogte",
+    "gn:country_code":"ZA",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1007694,
+    "gn:latitude":-24.49699,
+    "gn:longitude":29.35798,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Droogte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1007694
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8cbcf84393bb6a957a18703da546db18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1360269865,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1360269865,
+    "wof:lastmodified":1536679103,
+    "wof:name":"Droogte",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35798,
+    -24.49699,
+    29.35798,
+    -24.49699
+],
+  "geometry": {"coordinates":[29.35798,-24.49699],"type":"Point"}
+}

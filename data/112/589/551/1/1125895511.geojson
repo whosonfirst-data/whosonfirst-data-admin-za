@@ -1,0 +1,153 @@
+{
+  "id": 1125895511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.617335,-32.1682375,25.617335,-32.1682375",
+    "geom:latitude":-32.168237,
+    "geom:longitude":25.617335,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":32898,
+    "gn:population":32898,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.168237,
+    "lbl:longitude":25.617335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Cradock"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u062f\u0648\u0643\u060c \u0643\u064a\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u62c9\u591a\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Cradock"
+    ],
+    "name:eng_x_preferred":[
+        "Cradock"
+    ],
+    "name:fin_x_preferred":[
+        "Cradock"
+    ],
+    "name:fre_x_preferred":[
+        "Cradock"
+    ],
+    "name:ger_x_preferred":[
+        "Cradock"
+    ],
+    "name:ita_x_preferred":[
+        "Cradock"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30c9\u30c3\u30af"
+    ],
+    "name:nso_x_preferred":[
+        "Cradock"
+    ],
+    "name:pol_x_preferred":[
+        "Cradock"
+    ],
+    "name:por_x_preferred":[
+        "Cradock"
+    ],
+    "name:rum_x_preferred":[
+        "Cradock"
+    ],
+    "name:spa_x_preferred":[
+        "Cradock"
+    ],
+    "name:swa_x_preferred":[
+        "Cradock"
+    ],
+    "name:swe_x_preferred":[
+        "Cradock"
+    ],
+    "name:tgl_x_preferred":[
+        "Cradock"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u591a\u514b"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1012600,
+    "qs_pg:gn_pop":32898,
+    "qs_pg:name":"Cradock",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118630,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580470,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012600,
+        "gp:id":1580470,
+        "qs_pg:id":1118630,
+        "wd:id":"Q1138465"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295535,
+    "wof:geomhash":"ad6a52606d3ad9f298b79842e5168727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125895511,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125895511,
+    "wof:lastmodified":1534530971,
+    "wof:name":"Cradock",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:population":32898,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125782687,
+        1141907209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.617335,
+    -32.1682375,
+    25.617335,
+    -32.1682375
+],
+  "geometry": {"coordinates":[25.617335,-32.1682375],"type":"Point"}
+}

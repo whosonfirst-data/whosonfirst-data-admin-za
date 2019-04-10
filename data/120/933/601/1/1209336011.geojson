@@ -1,0 +1,63 @@
+{
+  "id": 1209336011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.09414,-26.02163,29.09414,-26.02163",
+    "geom:latitude":-26.02163,
+    "geom:longitude":29.09414,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP312",
+    "gn:asciiname":"Grootpan",
+    "gn:country_code":"ZA",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":999070,
+    "gn:latitude":-26.02163,
+    "gn:longitude":29.09414,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Grootpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999070
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b7eb9a6b3ef804e17fb6c12c19a4fd93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209336011
+        }
+    ],
+    "wof:id":1209336011,
+    "wof:lastmodified":1536290219,
+    "wof:name":"Grootpan",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.094140000000003,
+    -26.02163,
+    29.094140000000003,
+    -26.02163
+],
+  "geometry": {"coordinates":[29.09414,-26.02163],"type":"Point"}
+}

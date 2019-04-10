@@ -1,0 +1,72 @@
+{
+  "id": 101926729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":596286.508666,
+    "geom:bbox":"26.6853923798,-27.9350070953,26.6936626434,-27.9258842468",
+    "geom:latitude":-27.931118,
+    "geom:longitude":26.689175,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.931968,
+    "lbl:longitude":26.688841,
+    "mps:latitude":-27.931968,
+    "mps:longitude":26.688841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Free State Gedult gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591602
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"83fd8a2eed57448a5e547defb5367af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926729,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926729,
+    "wof:lastmodified":1500027657,
+    "wof:name":"Free State Gedult gold Mine",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68539237976074,
+    -27.93500709533691,
+    26.69366264343262,
+    -27.92588424682617
+],
+  "geometry": {"coordinates":[[[26.69366264343262,-27.92906951904297],[26.69353866577148,-27.93427467346191],[26.68790435791016,-27.93500709533691],[26.6858081817627,-27.93462944030762],[26.68539237976074,-27.93351173400879],[26.68581390380859,-27.93276786804199],[26.68581771850586,-27.93165016174316],[26.68540191650391,-27.93071937561035],[26.6854076385498,-27.92867088317871],[26.6860408782959,-27.92737007141113],[26.68730354309082,-27.92588424682617],[26.68835067749023,-27.9258861541748],[26.68918800354004,-27.92644691467285],[26.68939399719238,-27.92756462097168],[26.68939018249512,-27.92886734008789],[26.68959808349609,-27.92924118041992],[26.69366264343262,-27.92906951904297]]],"type":"Polygon"}
+}

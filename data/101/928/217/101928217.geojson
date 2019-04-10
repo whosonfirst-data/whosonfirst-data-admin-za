@@ -1,0 +1,96 @@
+{
+  "id": 101928217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1475202.732094,
+    "geom:bbox":"29.0338077545,-30.3940639496,29.0492305756,-30.3779773712",
+    "geom:latitude":-30.385749,
+    "geom:longitude":29.041295,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.386081,
+    "lbl:longitude":29.041178,
+    "mps:latitude":-30.386081,
+    "mps:longitude":29.041178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Cedarville"
+    ],
+    "name:dut_x_preferred":[
+        "Cedarville"
+    ],
+    "name:eng_x_preferred":[
+        "Cedarville"
+    ],
+    "name:nso_x_preferred":[
+        "Cedarville"
+    ],
+    "name:ron_x_preferred":[
+        "Cedarville"
+    ],
+    "name:rum_x_preferred":[
+        "Cedarville"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cedarville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.388056,
+    "wd:longitude":29.041111,
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013835,
+        "gp:id":1589358,
+        "wd:id":"Q3644267",
+        "wk:page":"Cedarville, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1a9533af4a933c92cf40b7469ff763ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928217,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928217,
+    "wof:lastmodified":1527715921,
+    "wof:name":"Cedarville",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0338077545166,
+    -30.39406394958496,
+    29.04923057556152,
+    -30.37797737121582
+],
+  "geometry": {"coordinates":[[[29.04280090332031,-30.39406394958496],[29.0338077545166,-30.38829612731934],[29.0355167388916,-30.38470840454102],[29.03838348388672,-30.37868499755859],[29.04075813293457,-30.37847518920898],[29.04260444641113,-30.37830924987793],[29.04376029968262,-30.37797737121582],[29.04459762573242,-30.38168716430664],[29.04923057556152,-30.38423347473145],[29.04752349853516,-30.38684272766113],[29.04280090332031,-30.39406394958496]]],"type":"Polygon"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209622609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25,-29.7,26.25,-29.7",
+    "geom:latitude":-29.7,
+    "geom:longitude":26.25,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Helderhoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997089,
+    "gn:latitude":-29.7,
+    "gn:longitude":26.25,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Helderhoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997089
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b97fc392e3d688c1498bb06c8d251465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209622609
+        }
+    ],
+    "wof:id":1209622609,
+    "wof:lastmodified":1536281465,
+    "wof:name":"Helderhoek",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25,
+    -29.7,
+    26.25,
+    -29.7
+],
+  "geometry": {"coordinates":[26.25,-29.7],"type":"Point"}
+}

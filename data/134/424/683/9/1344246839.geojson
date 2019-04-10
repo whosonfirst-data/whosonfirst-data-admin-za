@@ -1,0 +1,73 @@
+{
+  "id": 1344246839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78156,-23.11055,29.78156,-23.11055",
+    "geom:latitude":-23.11055,
+    "geom:longitude":29.78156,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Senthimula's Location",
+    "gn:country_code":"ZA",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":956493,
+    "gn:latitude":-23.11055,
+    "gn:longitude":29.78156,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Senthimula\u2019s Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinthumuleslokasie",
+        "Senthimula\u2019s Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956493
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5632f8d173734159237033817aedaca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1344246839,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1344246839,
+    "wof:lastmodified":1537716380,
+    "wof:name":"Senthimula's Location",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78156,
+    -23.11055,
+    29.78156,
+    -23.11055
+],
+  "geometry": {"coordinates":[29.78156,-23.11055],"type":"Point"}
+}

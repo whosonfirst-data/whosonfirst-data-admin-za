@@ -1,0 +1,69 @@
+{
+  "id": 1310218217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55302,-27.8348,31.55302,-27.8348",
+    "geom:latitude":-27.8348,
+    "geom:longitude":31.55302,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN265",
+    "gn:asciiname":"Majomela",
+    "gn:country_code":"ZA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980159,
+    "gn:latitude":-27.8348,
+    "gn:longitude":31.55302,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Majomela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980159
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0b41a114e7d470f4ed6c561f7ffe6295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1310218217,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1310218217,
+    "wof:lastmodified":1536832826,
+    "wof:name":"Majomela",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55302,
+    -27.8348,
+    31.55302,
+    -27.8348
+],
+  "geometry": {"coordinates":[31.55302,-27.8348],"type":"Point"}
+}

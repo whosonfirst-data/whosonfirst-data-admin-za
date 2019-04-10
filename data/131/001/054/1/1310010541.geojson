@@ -1,0 +1,69 @@
+{
+  "id": 1310010541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03582,-31.64716,29.03582,-31.64716",
+    "geom:latitude":-31.64716,
+    "geom:longitude":29.03582,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Mngazana",
+    "gn:country_code":"ZA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975326,
+    "gn:latitude":-31.64716,
+    "gn:longitude":29.03582,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mngazana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975326
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"15cb071a51334261bbe46420a17bf3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1310010541,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310010541,
+    "wof:lastmodified":1536634728,
+    "wof:name":"Mngazana",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03582,
+    -31.64716,
+    29.03582,
+    -31.64716
+],
+  "geometry": {"coordinates":[29.03582,-31.64716],"type":"Point"}
+}

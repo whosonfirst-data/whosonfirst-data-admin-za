@@ -1,0 +1,92 @@
+{
+  "id": 101925313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000389,
+    "geom:area_square_m":4342077.707211,
+    "geom:bbox":"27.5869121552,-25.5611572266,27.6191997528,-25.5459365845",
+    "geom:latitude":-25.553123,
+    "geom:longitude":27.604181,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.553104,
+    "lbl:longitude":27.604181,
+    "mps:latitude":-25.553104,
+    "mps:longitude":27.604181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bethanie"
+    ],
+    "name:dut_x_preferred":[
+        "Bethanie"
+    ],
+    "name:eng_x_preferred":[
+        "Bethanie"
+    ],
+    "name:ger_x_preferred":[
+        "Bethanie"
+    ],
+    "name:nso_x_preferred":[
+        "Bethanie"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a\u06be\u0627\u0646\u06cc\u060c \u0634\u0645\u0627\u0644 \u0645\u063a\u0631\u0628\u06cc"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bethanie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019750,
+        "gp:id":1579777,
+        "wd:id":"Q15198721"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d4a43beb784302a55b296ff101e0c2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925313,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925313,
+    "wof:lastmodified":1514503481,
+    "wof:name":"Bethanie",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58691215515137,
+    -25.5611572265625,
+    27.61919975280762,
+    -25.54593658447266
+],
+  "geometry": {"coordinates":[[[27.61919975280762,-25.54695129394531],[27.61900901794434,-25.55182456970215],[27.61819648742676,-25.55476379394531],[27.61746025085449,-25.5611572265625],[27.58691215515137,-25.5579948425293],[27.59000015258789,-25.55182456970215],[27.59016418457031,-25.54593658447266],[27.61919975280762,-25.54695129394531]]],"type":"Polygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101927909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":428106.597337,
+    "geom:bbox":"31.0404834747,-29.7219028473,31.0500907898,-29.7162017822",
+    "geom:latitude":-29.719472,
+    "geom:longitude":31.045093,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.719569,
+    "lbl:longitude":31.045093,
+    "mps:latitude":-29.719569,
+    "mps:longitude":31.045093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u827e\u57fa\u5eb7\u5c71"
+    ],
+    "name:dut_x_preferred":[
+        "Mount Edgecombe"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Edgecombe"
+    ],
+    "name:eng_x_variant":[
+        "Mt Edgecombe",
+        "Mt. Edgecombe"
+    ],
+    "name:war_x_preferred":[
+        "Mount Edgecombe"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mount Edgecombe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.721,
+    "wd:longitude":31.05,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1461de90-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":973537,
+        "gp:id":1585421,
+        "wd:id":"Q3344742",
+        "wk:page":"Mount Edgecombe"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"10832861e2e26dc50a76e9edf8ab6d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101927909,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927909,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715633,
+    "wof:name":"Mount Edgecombe",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04048347473145,
+    -29.72190284729004,
+    31.05009078979492,
+    -29.71620178222656
+],
+  "geometry": {"coordinates":[[[31.0411205291748,-29.71620178222656],[31.04647254943848,-29.71761703491211],[31.04879760742188,-29.71784210205078],[31.05009078979492,-29.71964645385742],[31.04983329772949,-29.72145080566406],[31.04931640625,-29.72190093994141],[31.04518127441406,-29.72190284729004],[31.04048347473145,-29.72096633911133],[31.0407886505127,-29.71897125244141],[31.0411205291748,-29.71620178222656]]],"type":"Polygon"}
+}

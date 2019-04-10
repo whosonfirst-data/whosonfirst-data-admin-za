@@ -1,0 +1,96 @@
+{
+  "id": 1126061695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16859,-26.1323,28.16859,-26.1323",
+    "geom:latitude":-26.1323,
+    "geom:longitude":28.16859,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":7345,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.1323,
+    "lbl:longitude":28.16859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Edenglen"
+    ],
+    "name:eng_x_variant":[
+        "Eden Glen"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7302797,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Edenglen",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905280,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55878859,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925733,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302797,
+        "gp:id":55878859,
+        "qs_pg:id":905280
+    },
+    "wof:country":"ZA",
+    "wof:created":1497308252,
+    "wof:geomhash":"9dccffcc1da44511dbec40cb82ee3d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925733,
+            "neighbourhood_id":1126061695,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1126061695,
+    "wof:lastmodified":1509410232,
+    "wof:name":"Edenglen",
+    "wof:parent_id":101925733,
+    "wof:placetype":"neighbourhood",
+    "wof:population":7345,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16859,
+    -26.1323,
+    28.16859,
+    -26.1323
+],
+  "geometry": {"coordinates":[28.16859,-26.1323],"type":"Point"}
+}

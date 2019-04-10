@@ -1,0 +1,67 @@
+{
+  "id": 1209323635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21104,-27.37901,31.21104,-27.37901",
+    "geom:latitude":-27.37901,
+    "geom:longitude":31.21104,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN262",
+    "gn:asciiname":"Altona",
+    "gn:country_code":"ZA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1023051,
+    "gn:latitude":-27.37901,
+    "gn:longitude":31.21104,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Altona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altoona",
+        "Altona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023051
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"901e1700d992ece45d0516beb917aec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209323635
+        }
+    ],
+    "wof:id":1209323635,
+    "wof:lastmodified":1537716440,
+    "wof:name":"Altona",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21104,
+    -27.37901,
+    31.21104,
+    -27.37901
+],
+  "geometry": {"coordinates":[31.21104,-27.37901],"type":"Point"}
+}

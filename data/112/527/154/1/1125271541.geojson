@@ -1,0 +1,78 @@
+{
+  "id": 1125271541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.70843,-30.20845,26.70843,-30.20845",
+    "geom:latitude":-30.20845,
+    "geom:longitude":26.70843,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":41867,
+    "gn:population":41867,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.20845,
+    "lbl:longitude":26.70843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347545,
+    "qs_pg:gn_pop":41867,
+    "qs_pg:name":"Mohokare",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764968,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347545,
+        "qs_pg:id":764968
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042148,
+    "wof:geomhash":"2c9c1c8585d48f4599f037f93991915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "localadmin_id":1125271541,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125271541,
+    "wof:lastmodified":1509387038,
+    "wof:name":"Mohokare",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"localadmin",
+    "wof:population":41867,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.70843,
+    -30.20845,
+    26.70843,
+    -30.20845
+],
+  "geometry": {"coordinates":[26.70843,-30.20845],"type":"Point"}
+}

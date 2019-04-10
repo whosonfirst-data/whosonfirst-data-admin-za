@@ -1,0 +1,73 @@
+{
+  "id": 1243442345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00354,-33.70349,20.00354,-33.70349",
+    "geom:latitude":-33.70349,
+    "geom:longitude":20.00354,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC026",
+    "gn:asciiname":"Goedgemoed",
+    "gn:country_code":"ZA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001165,
+    "gn:latitude":-33.70349,
+    "gn:longitude":20.00354,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Goedgemoed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goedgemond",
+        "Goedgemoed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001165
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c09d87dcafef2215225a1cbc4a953b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1243442345,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1243442345,
+    "wof:lastmodified":1537716425,
+    "wof:name":"Goedgemoed",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00354,
+    -33.70349,
+    20.00354,
+    -33.70349
+],
+  "geometry": {"coordinates":[20.00354,-33.70349],"type":"Point"}
+}

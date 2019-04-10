@@ -1,0 +1,73 @@
+{
+  "id": 1226323895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43902,-34.37524,20.43902,-34.37524",
+    "geom:latitude":-34.37524,
+    "geom:longitude":20.43902,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC034",
+    "gn:asciiname":"Ouplass",
+    "gn:country_code":"ZA",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":967025,
+    "gn:latitude":-34.37524,
+    "gn:longitude":20.43902,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ouplass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouplaas",
+        "Ouplass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":967025
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"352aaa7a6b2665c5e625990f2da769e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1226323895,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226323895,
+    "wof:lastmodified":1537716386,
+    "wof:name":"Ouplass",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43902000000001,
+    -34.37524000000001,
+    20.43902000000001,
+    -34.37524000000001
+],
+  "geometry": {"coordinates":[20.43902000000001,-34.37524000000001],"type":"Point"}
+}

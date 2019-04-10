@@ -1,0 +1,73 @@
+{
+  "id": 1276540517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7547,-25.42741,30.7547,-25.42741",
+    "geom:latitude":-25.42741,
+    "geom:longitude":30.7547,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP322",
+    "gn:asciiname":"Barclay Vale",
+    "gn:country_code":"ZA",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1021082,
+    "gn:latitude":-25.42741,
+    "gn:longitude":30.7547,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Barclay Vale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barclays Vale",
+        "Barclay Vale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021082
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4c6124a11ba5f95addbac57b4a2026ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1276540517,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1276540517,
+    "wof:lastmodified":1537716439,
+    "wof:name":"Barclay Vale",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7547,
+    -25.42741,
+    30.7547,
+    -25.42741
+],
+  "geometry": {"coordinates":[30.7547,-25.42741],"type":"Point"}
+}

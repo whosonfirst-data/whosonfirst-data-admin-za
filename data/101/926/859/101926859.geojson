@@ -1,0 +1,118 @@
+{
+  "id": 101926859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":2350028.626835,
+    "geom:bbox":"28.4095821381,-28.525308609,28.4287834167,-28.5038528442",
+    "geom:latitude":-28.515481,
+    "geom:longitude":28.420554,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.517884,
+    "lbl:longitude":28.420408,
+    "mps:latitude":-28.517884,
+    "mps:longitude":28.420408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Clarens"
+    ],
+    "name:deu_x_preferred":[
+        "Clarens"
+    ],
+    "name:dut_x_preferred":[
+        "Clarens"
+    ],
+    "name:eng_x_preferred":[
+        "Clarens"
+    ],
+    "name:fra_x_preferred":[
+        "Clarens"
+    ],
+    "name:fre_x_preferred":[
+        "Clarens"
+    ],
+    "name:ger_x_preferred":[
+        "Clarens"
+    ],
+    "name:nld_x_preferred":[
+        "Clarens"
+    ],
+    "name:nso_x_preferred":[
+        "Clarens"
+    ],
+    "name:pol_x_preferred":[
+        "Clarens"
+    ],
+    "name:ron_x_preferred":[
+        "Clarens"
+    ],
+    "name:rum_x_preferred":[
+        "Clarens"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clarens",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.516667,
+    "wd:longitude":28.416667,
+    "wd:wordcount":618,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013397,
+        "gp:id":1580375,
+        "qs:id":223093,
+        "qs_pg:id":223093,
+        "wd:id":"Q1021877",
+        "wk:page":"Clarens, Free State"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"abdd0227a0dbdb61c46dc5a4a44bc6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926859,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926859,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Clarens",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40958213806152,
+    -28.52530860900879,
+    28.42878341674805,
+    -28.50385284423828
+],
+  "geometry": {"coordinates":[[[28.42146682739258,-28.50385284423828],[28.42759323120117,-28.51063537597656],[28.42485237121582,-28.51492881774902],[28.42605209350586,-28.51673316955566],[28.42640113830566,-28.52062606811523],[28.42878341674805,-28.52267646789551],[28.42558670043945,-28.52530860900879],[28.41940116882324,-28.52459716796875],[28.40958213806152,-28.51639366149902],[28.41747665405273,-28.51319122314453],[28.41647720336914,-28.50489234924316],[28.42146682739258,-28.50385284423828]]],"type":"Polygon"}
+}

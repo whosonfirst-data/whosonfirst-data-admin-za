@@ -1,0 +1,91 @@
+{
+  "id": 101927737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1388396.033615,
+    "geom:bbox":"30.8571491241,-28.9748783112,30.876909256,-28.9611263275",
+    "geom:latitude":-28.967658,
+    "geom:longitude":30.866162,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.968359,
+    "lbl:longitude":30.864665,
+    "mps:latitude":-28.968359,
+    "mps:longitude":30.864665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mapumulo"
+    ],
+    "name:dut_x_preferred":[
+        "Maphumulo"
+    ],
+    "name:eng_x_preferred":[
+        "Maphumulo"
+    ],
+    "name:ger_x_preferred":[
+        "Maphumulo"
+    ],
+    "name:nso_x_preferred":[
+        "Mapumulo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mapumulo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.0542,
+    "wd:longitude":30.7724,
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583044,
+        "wd:id":"Q1892042"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8be06a05377e43d2bf87a639b9a946e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":101927737,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927737,
+    "wof:lastmodified":1553815588,
+    "wof:name":"Mapumulo",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85714912414551,
+    -28.97487831115723,
+    30.87690925598145,
+    -28.96112632751465
+],
+  "geometry": {"coordinates":[[[30.8576602935791,-28.97216606140137],[30.85714912414551,-28.97013473510742],[30.86074638366699,-28.96607780456543],[30.86767578125,-28.96270179748535],[30.87229537963867,-28.96112632751465],[30.87434577941895,-28.96112823486328],[30.87690925598145,-28.96293640136719],[30.87690734863281,-28.96451568603516],[30.87485313415527,-28.96586608886719],[30.87074851989746,-28.9663143157959],[30.86894989013672,-28.96879386901855],[30.86663818359375,-28.9724006652832],[30.86458206176758,-28.97442817687988],[30.8630428314209,-28.97487831115723],[30.8607349395752,-28.97442436218262],[30.8576602935791,-28.97216606140137]]],"type":"Polygon"}
+}

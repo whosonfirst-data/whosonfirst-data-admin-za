@@ -1,0 +1,69 @@
+{
+  "id": 1344154733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37736,-26.40092,27.37736,-26.40092",
+    "geom:latitude":-26.40092,
+    "geom:longitude":27.37736,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"DC48",
+    "gn:admin3_code":"GT484",
+    "gn:asciiname":"Northdene",
+    "gn:country_code":"ZA",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969682,
+    "gn:latitude":-26.40092,
+    "gn:longitude":27.37736,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Northdene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969682
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0fa8905966c1b7cefaf2f284d4283115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1344154733,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1344154733,
+    "wof:lastmodified":1536739458,
+    "wof:name":"Northdene",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37736,
+    -26.40092000000001,
+    27.37736,
+    -26.40092000000001
+],
+  "geometry": {"coordinates":[27.37736,-26.40092000000001],"type":"Point"}
+}

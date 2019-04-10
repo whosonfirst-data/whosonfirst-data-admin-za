@@ -1,0 +1,69 @@
+{
+  "id": 1293888567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.52857,-30.58981,28.52857,-30.58981",
+    "geom:latitude":-30.58981,
+    "geom:longitude":28.52857,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Ngxazana",
+    "gn:country_code":"ZA",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970834,
+    "gn:latitude":-30.58981,
+    "gn:longitude":28.52857,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngxazana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970834
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"160edb22aca310875b597b7fa2aa12ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293888567,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293888567,
+    "wof:lastmodified":1536706274,
+    "wof:name":"Ngxazana",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52857,
+    -30.58981,
+    28.52857,
+    -30.58981
+],
+  "geometry": {"coordinates":[28.52857,-30.58981],"type":"Point"}
+}

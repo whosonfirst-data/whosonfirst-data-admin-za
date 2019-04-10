@@ -1,0 +1,89 @@
+{
+  "id": 101927099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":320394.521135,
+    "geom:bbox":"27.118221283,-29.3171081543,27.1270866394,-29.3124465942",
+    "geom:latitude":-29.314426,
+    "geom:longitude":27.122914,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.314386,
+    "lbl:longitude":27.122914,
+    "mps:latitude":-29.314386,
+    "mps:longitude":27.122914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Thaba Phatswa"
+    ],
+    "name:dut_x_preferred":[
+        "Thaba Phatswa"
+    ],
+    "name:eng_x_preferred":[
+        "Thaba Phatswa"
+    ],
+    "name:nso_x_preferred":[
+        "Thaba Phatswa"
+    ],
+    "name:unk_x_variant":[
+        "Thaba Phashawa"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thaba Phatshwa",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949691,
+        "gp:id":1588013,
+        "wd:id":"Q7708829"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"00dc1720f8a87fd8d64ce303d35e1492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101927099,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927099,
+    "wof:lastmodified":1514504553,
+    "wof:name":"Thaba Phatshwa",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11822128295898,
+    -29.31710815429688,
+    27.1270866394043,
+    -29.31244659423828
+],
+  "geometry": {"coordinates":[[[27.12649917602539,-29.31555366516113],[27.12650108337402,-29.31710815429688],[27.1241340637207,-29.31659126281738],[27.11940383911133,-29.31555938720703],[27.11822128295898,-29.31452369689941],[27.11881065368652,-29.31296920776367],[27.11940002441406,-29.31245040893555],[27.12353897094727,-29.31244659423828],[27.12649536132812,-29.31296157836914],[27.1270866394043,-29.31348037719727],[27.12649917602539,-29.31555366516113]]],"type":"Polygon"}
+}

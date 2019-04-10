@@ -1,0 +1,69 @@
+{
+  "id": 1226444449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.31667,-26.88333,27.31667,-26.88333",
+    "geom:latitude":-26.88333,
+    "geom:longitude":27.31667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS201",
+    "gn:asciiname":"Rooderand",
+    "gn:country_code":"ZA",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":960335,
+    "gn:latitude":-26.88333,
+    "gn:longitude":27.31667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rooderand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960335
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"727a8933eea13a211e001f9283264e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1226444449,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1226444449,
+    "wof:lastmodified":1536646920,
+    "wof:name":"Rooderand",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31667,
+    -26.88333,
+    27.31667,
+    -26.88333
+],
+  "geometry": {"coordinates":[27.31667,-26.88333],"type":"Point"}
+}

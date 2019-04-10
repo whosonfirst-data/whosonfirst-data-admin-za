@@ -1,0 +1,114 @@
+{
+  "id": 85782939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1876518.849511,
+    "geom:bbox":"28.211811,-25.746051,28.211811,-25.746051",
+    "geom:latitude":-25.746051,
+    "geom:longitude":28.211811,
+    "gn:latitude":-25.7464,
+    "gn:longitude":28.22137,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.746051,
+    "lbl:longitude":28.211811,
+    "mps:latitude":-25.736818,
+    "mps:longitude":28.215996,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Arcadia"
+    ],
+    "name:unk_x_variant":[
+        "Arcadia"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":964137,
+    "qs:gn_nam_loc":"Tshwane, Pretoria, City of Tshwane, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Arcadia",
+    "qs:local_max":848,
+    "qs:local_sum":4611,
+    "qs:localhoods":32,
+    "qs:name":"Arcadia",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Tshwane",
+    "qs:name_lau":"Tshwane",
+    "qs:name_local":"Pretoria",
+    "qs:photo_max":196,
+    "qs:photo_sum":228,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189409,
+    "qs:woe_lau":56189696,
+    "qs:woe_local":1586638,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925471,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063413,
+        "gp:id":55877912,
+        "qs:id":241529,
+        "qs_pg:id":241529,
+        "wd:id":"Q1752035",
+        "wk:page":"Arcadia, Pretoria"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75d7d726711c2f6f0972c1b9ad4908a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925471,
+            "neighbourhood_id":85782939,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85782939,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860432,
+    "wof:name":"Arcadia",
+    "wof:parent_id":101925471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.211811,
+    -25.746051,
+    28.211811,
+    -25.746051
+],
+  "geometry": {"coordinates":[28.211811,-25.746051],"type":"Point"}
+}

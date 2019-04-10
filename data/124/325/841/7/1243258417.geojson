@@ -1,0 +1,73 @@
+{
+  "id": 1243258417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66667,-23.06667,29.66667,-23.06667",
+    "geom:latitude":-23.06667,
+    "geom:longitude":29.66667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Kutama's Location",
+    "gn:country_code":"ZA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":986090,
+    "gn:latitude":-23.06667,
+    "gn:longitude":29.66667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kutama\u2019s Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutamaslokasie",
+        "Kutama\u2019s Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986090
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee2586c9e30a5bf8788bbd61ae5abfb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1243258417,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243258417,
+    "wof:lastmodified":1537716415,
+    "wof:name":"Kutama's Location",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66667,
+    -23.06667,
+    29.66667,
+    -23.06667
+],
+  "geometry": {"coordinates":[29.66667,-23.06667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326952267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36667,-26.4,27.36667,-26.4",
+    "geom:latitude":-26.4,
+    "geom:longitude":27.36667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"DC48",
+    "gn:admin3_code":"GT484",
+    "gn:asciiname":"Westdene",
+    "gn:country_code":"ZA",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":940385,
+    "gn:latitude":-26.4,
+    "gn:longitude":27.36667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Westdene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940385
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c12944054060802e4dba21b06f88a9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1326952267,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1326952267,
+    "wof:lastmodified":1536875063,
+    "wof:name":"Westdene",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36667000000001,
+    -26.4,
+    27.36667000000001,
+    -26.4
+],
+  "geometry": {"coordinates":[27.36667000000001,-26.4],"type":"Point"}
+}

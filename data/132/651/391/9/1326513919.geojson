@@ -1,0 +1,73 @@
+{
+  "id": 1326513919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46644,-25.82051,26.46644,-25.82051",
+    "geom:latitude":-25.82051,
+    "geom:longitude":26.46644,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW384",
+    "gn:asciiname":"Bokkraal",
+    "gn:country_code":"ZA",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1017827,
+    "gn:latitude":-25.82051,
+    "gn:longitude":26.46644,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bokkraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokkraal Lead Mine",
+        "Bokkraal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017827
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"24b3c9b2634bcbc38235be5b347ca661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1326513919,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1326513919,
+    "wof:lastmodified":1537716436,
+    "wof:name":"Bokkraal",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46644,
+    -25.82051,
+    26.46644,
+    -25.82051
+],
+  "geometry": {"coordinates":[26.46644,-25.82051],"type":"Point"}
+}

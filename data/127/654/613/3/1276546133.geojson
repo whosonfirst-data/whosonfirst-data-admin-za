@@ -1,0 +1,69 @@
+{
+  "id": 1276546133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4529,-31.54919,29.4529,-31.54919",
+    "geom:latitude":-31.54919,
+    "geom:longitude":29.4529,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Mafusini",
+    "gn:country_code":"ZA",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205555,
+    "gn:latitude":-31.54919,
+    "gn:longitude":29.4529,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Mafusini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205555
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3dda5dc91d06d4d3c4c8c4e3af517e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1276546133,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276546133,
+    "wof:lastmodified":1536990042,
+    "wof:name":"Mafusini",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4529,
+    -31.54919000000001,
+    29.4529,
+    -31.54919000000001
+],
+  "geometry": {"coordinates":[29.4529,-31.54919000000001],"type":"Point"}
+}

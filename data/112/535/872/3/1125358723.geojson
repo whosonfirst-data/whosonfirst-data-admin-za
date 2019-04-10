@@ -1,0 +1,78 @@
+{
+  "id": 1125358723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67267,-31.76234,28.67267,-31.76234",
+    "geom:latitude":-31.76234,
+    "geom:longitude":28.67267,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":444830,
+    "gn:population":444830,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.76234,
+    "lbl:longitude":28.67267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347512,
+    "qs_pg:gn_pop":444830,
+    "qs_pg:name":"King Sabata Dalindyebo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764941,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347512,
+        "qs_pg:id":764941
+    },
+    "wof:country":"ZA",
+    "wof:created":1497046643,
+    "wof:geomhash":"3821848a85ba14124e7b019b0c5bc133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "localadmin_id":1125358723,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125358723,
+    "wof:lastmodified":1509389018,
+    "wof:name":"King Sabata Dalindyebo",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"localadmin",
+    "wof:population":444830,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67267,
+    -31.76234,
+    28.67267,
+    -31.76234
+],
+  "geometry": {"coordinates":[28.67267,-31.76234],"type":"Point"}
+}

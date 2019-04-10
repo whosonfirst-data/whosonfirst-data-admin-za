@@ -1,0 +1,69 @@
+{
+  "id": 1243090391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84741,-31.61968,26.84741,-31.61968",
+    "geom:latitude":-31.61968,
+    "geom:longitude":26.84741,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC136",
+    "gn:asciiname":"Sidwadweni",
+    "gn:country_code":"ZA",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955794,
+    "gn:latitude":-31.61968,
+    "gn:longitude":26.84741,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sidwadweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955794
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"31e8eb66553df1c77ff3b8201c55095f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1243090391,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243090391,
+    "wof:lastmodified":1536820908,
+    "wof:name":"Sidwadweni",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84741,
+    -31.61968,
+    26.84741,
+    -31.61968
+],
+  "geometry": {"coordinates":[26.84741,-31.61968],"type":"Point"}
+}

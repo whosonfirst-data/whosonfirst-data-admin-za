@@ -1,0 +1,73 @@
+{
+  "id": 101928489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000243,
+    "geom:area_square_m":2580006.078694,
+    "geom:bbox":"28.6972560883,-30.9445323944,28.7297992706,-30.9327507019",
+    "geom:latitude":-30.938347,
+    "geom:longitude":28.71213,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.939054,
+    "lbl:longitude":28.708876,
+    "mps:latitude":-30.939054,
+    "mps:longitude":28.708876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khalankomo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991139,
+        "gp:id":1586739
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6a2acd874c3dd6c8f7e57e4deda9fd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928489,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928489,
+    "wof:lastmodified":1500027857,
+    "wof:name":"Khalankomo",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69725608825684,
+    -30.94453239440918,
+    28.72979927062988,
+    -30.9327507019043
+],
+  "geometry": {"coordinates":[[[28.70043182373047,-30.93354415893555],[28.70571327209473,-30.9349365234375],[28.71398544311523,-30.93400382995605],[28.71962738037109,-30.9327507019043],[28.72490882873535,-30.93414306640625],[28.72979927062988,-30.93704795837402],[28.7194995880127,-30.94329643249512],[28.71594047546387,-30.94111442565918],[28.7128849029541,-30.94118118286133],[28.71077919006348,-30.94386291503906],[28.70507049560547,-30.94285774230957],[28.69725608825684,-30.94453239440918],[28.69837951660156,-30.93810653686523],[28.70043182373047,-30.93354415893555]]],"type":"Polygon"}
+}

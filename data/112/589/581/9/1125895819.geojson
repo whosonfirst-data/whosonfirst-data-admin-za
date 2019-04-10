@@ -1,0 +1,140 @@
+{
+  "id": 1125895819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25714,-33.5125695,21.25714,-33.5125695",
+    "geom:latitude":-33.512569,
+    "geom:longitude":21.25714,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":7127,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.512569,
+    "lbl:longitude":21.25714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Ladismith"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0434\u0438\u0441\u043c\u0438\u0442\u0445"
+    ],
+    "name:chi_x_preferred":[
+        "\u840a\u8fea\u53f2\u5bc6\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Ladismith"
+    ],
+    "name:eng_x_preferred":[
+        "Ladismith"
+    ],
+    "name:fre_x_preferred":[
+        "Ladismith"
+    ],
+    "name:ger_x_preferred":[
+        "Ladismith"
+    ],
+    "name:ita_x_preferred":[
+        "Ladismith"
+    ],
+    "name:nso_x_preferred":[
+        "Ladismith"
+    ],
+    "name:rum_x_preferred":[
+        "Ladismith"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0434\u0438\u0441\u043c\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Ladismith"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0434\u0456\u0441\u043c\u0456\u0442"
+    ],
+    "name:ven_x_preferred":[
+        "Ladismith"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":985020,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ladismith",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118768,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1583669,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985020,
+        "gp:id":1583669,
+        "qs_pg:id":1118768,
+        "wd:id":"Q1800028"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":130238
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295556,
+    "wof:geomhash":"bd14ad1c46dc6a944d8441b6b1bcab25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125895819,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125895819,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Ladismith",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:population":7127,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125780313
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25714,
+    -33.5125695,
+    21.25714,
+    -33.5125695
+],
+  "geometry": {"coordinates":[21.25714,-33.5125695],"type":"Point"}
+}

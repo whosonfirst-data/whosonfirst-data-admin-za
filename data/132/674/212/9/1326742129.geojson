@@ -1,0 +1,69 @@
+{
+  "id": 1326742129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40324,-29.29947,26.40324,-29.29947",
+    "geom:latitude":-29.29947,
+    "geom:longitude":26.40324,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Lovedale",
+    "gn:country_code":"ZA",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981728,
+    "gn:latitude":-29.29947,
+    "gn:longitude":26.40324,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lovedale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981728
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ef4d9342f3d74c956da2b7531a7c470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1326742129,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1326742129,
+    "wof:lastmodified":1536681365,
+    "wof:name":"Lovedale",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40324,
+    -29.29947,
+    26.40324,
+    -29.29947
+],
+  "geometry": {"coordinates":[26.40324,-29.29947],"type":"Point"}
+}

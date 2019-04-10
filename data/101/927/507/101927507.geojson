@@ -1,0 +1,79 @@
+{
+  "id": 101927507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000076,
+    "geom:area_square_m":836174.195345,
+    "geom:bbox":"30.175403595,-27.7978820801,30.184091568,-27.7850131989",
+    "geom:latitude":-27.791075,
+    "geom:longitude":30.179851,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.790977,
+    "lbl:longitude":30.179417,
+    "mps:latitude":-27.790977,
+    "mps:longitude":30.179417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Inverness",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":57.483889,
+    "wd:longitude":-4.225833,
+    "wd:wordcount":8381,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e46175e3ad98e201145b9c9ced0e89d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927507,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927507,
+    "wof:lastmodified":1534986004,
+    "wof:name":"Inverness",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615603
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1754035949707,
+    -27.79788208007812,
+    30.18409156799316,
+    -27.78501319885254
+],
+  "geometry": {"coordinates":[[[30.17666435241699,-27.79514694213867],[30.1754035949707,-27.79423713684082],[30.17723846435547,-27.78657722473145],[30.17953491210938,-27.78501319885254],[30.18130874633789,-27.78502464294434],[30.18409156799316,-27.78594398498535],[30.1840705871582,-27.78887557983398],[30.18253135681152,-27.79089736938477],[30.18223762512207,-27.79608345031738],[30.18146324157715,-27.79788208007812],[30.17943382263184,-27.79787063598633],[30.17666435241699,-27.79514694213867]]],"type":"Polygon"}
+}

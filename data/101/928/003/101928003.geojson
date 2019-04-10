@@ -1,0 +1,154 @@
+{
+  "id": 101928003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000797,
+    "geom:area_square_m":8207216.015876,
+    "geom:bbox":"18.9919033051,-33.6644935608,19.0366134644,-33.6280288696",
+    "geom:latitude":-33.645534,
+    "geom:longitude":19.013791,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.645801,
+    "lbl:longitude":19.013452,
+    "mps:latitude":-33.645801,
+    "mps:longitude":19.013452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Wellington"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Wellington"
+    ],
+    "name:dut_x_preferred":[
+        "Wellington"
+    ],
+    "name:eng_x_preferred":[
+        "Wellington"
+    ],
+    "name:epo_x_preferred":[
+        "Velingtono"
+    ],
+    "name:fra_x_preferred":[
+        "Wellington"
+    ],
+    "name:fre_x_preferred":[
+        "Wellington"
+    ],
+    "name:ger_x_preferred":[
+        "Wellington"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03ad\u03bb\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d9\u05e0\u05d2\u05d8\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Wellington"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ea\u30f3\u30c8\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Wellington"
+    ],
+    "name:nob_x_preferred":[
+        "Wellington i S\u00f8r-Afrika"
+    ],
+    "name:nor_x_preferred":[
+        "Wellington i S\u00f8r-Afrika"
+    ],
+    "name:nso_x_preferred":[
+        "Wellington"
+    ],
+    "name:pol_x_preferred":[
+        "Wellington"
+    ],
+    "name:ron_x_preferred":[
+        "Wellington"
+    ],
+    "name:rum_x_preferred":[
+        "Wellington"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Wellington"
+    ],
+    "name:swe_x_preferred":[
+        "Wellington"
+    ],
+    "name:wel_x_preferred":[
+        "Wellington"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wellington",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-33.633333,
+    "wd:longitude":18.983333,
+    "wd:wordcount":588,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359510,
+        "gp:id":1591603,
+        "qs:id":8044,
+        "qs_pg:id":8044,
+        "wd:id":"Q1534385",
+        "wk:page":"Wellington, Western Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b225e2048acd7434c9c371177f813c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":101928003,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101928003,
+    "wof:lastmodified":1527715923,
+    "wof:name":"Wellington",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99190330505371,
+    -33.66449356079102,
+    19.03661346435547,
+    -33.62802886962891
+],
+  "geometry": {"coordinates":[[[18.99809265136719,-33.63676452636719],[18.99810218811035,-33.63603210449219],[19.01836013793945,-33.63643646240234],[19.03388977050781,-33.62802886962891],[19.0352840423584,-33.63689041137695],[19.03661346435547,-33.64534759521484],[19.01144218444824,-33.65612411499023],[18.99190330505371,-33.66449356079102],[18.99225234985352,-33.66128540039062],[18.99226951599121,-33.6611442565918],[18.99244117736816,-33.65979766845703],[18.99266242980957,-33.65828704833984],[18.99294471740723,-33.65678405761719],[18.99330139160156,-33.65529632568359],[18.99406814575195,-33.65354156494141],[18.99522590637207,-33.65192794799805],[18.99581336975098,-33.65072250366211],[18.99634552001953,-33.64949798583984],[18.99680328369141,-33.64825057983398],[18.99716949462891,-33.64698791503906],[18.9974536895752,-33.64575576782227],[18.99769973754883,-33.6445198059082],[18.99789810180664,-33.64328002929688],[18.99803352355957,-33.64203262329102],[18.99811744689941,-33.64045715332031],[18.99806976318359,-33.63887786865234],[18.99809265136719,-33.63676452636719]]],"type":"Polygon"}
+}

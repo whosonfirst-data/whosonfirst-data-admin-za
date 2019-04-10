@@ -1,0 +1,72 @@
+{
+  "id": 101929079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":851470.651914,
+    "geom:bbox":"26.946723938,-32.8229637146,26.9568977356,-32.8083152771",
+    "geom:latitude":-32.81567,
+    "geom:longitude":26.950722,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.815652,
+    "lbl:longitude":26.949797,
+    "mps:latitude":-32.815652,
+    "mps:longitude":26.949797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lower Regu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585799
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1d562edc33ac65b76de073ee22c844c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929079,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929079,
+    "wof:lastmodified":1500027832,
+    "wof:name":"Lower Regu",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94672393798828,
+    -32.82296371459961,
+    26.9568977355957,
+    -32.80831527709961
+],
+  "geometry": {"coordinates":[[[26.9568977355957,-32.81871795654297],[26.95280265808105,-32.82296371459961],[26.94679832458496,-32.81812286376953],[26.94672393798828,-32.81086349487305],[26.94820213317871,-32.80927276611328],[26.95005989074707,-32.80831527709961],[26.95269012451172,-32.80955505371094],[26.9527587890625,-32.81618499755859],[26.9568977355957,-32.81871795654297]]],"type":"Polygon"}
+}

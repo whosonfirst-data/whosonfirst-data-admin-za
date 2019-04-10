@@ -1,0 +1,104 @@
+{
+  "id": 101927671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000296,
+    "geom:area_square_m":3214612.381879,
+    "geom:bbox":"30.1456794739,-28.4764614105,30.1746997833,-28.4605503082",
+    "geom:latitude":-28.468271,
+    "geom:longitude":30.16041,
+    "gn:population":14331,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.46775,
+    "lbl:longitude":30.160133,
+    "mps:latitude":-28.46775,
+    "mps:longitude":30.160133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ekuvukeni"
+    ],
+    "name:dut_x_preferred":[
+        "Ekuvukeni"
+    ],
+    "name:eng_x_preferred":[
+        "Ekuvukeni"
+    ],
+    "name:nld_x_preferred":[
+        "Ekuvukeni"
+    ],
+    "name:nso_x_preferred":[
+        "Ekuvukeni"
+    ],
+    "name:unk_x_variant":[
+        "Ekuvukeni"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eKuvukeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.466,
+    "wd:longitude":30.157,
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006420,
+        "gp:id":56189574,
+        "qs:id":84060,
+        "qs_pg:id":84060,
+        "wd:id":"Q5350627",
+        "wk:page":"Ekuvukeni"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ba8516077b687f1870be2e6433c705ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927671,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927671,
+    "wof:lastmodified":1527715639,
+    "wof:name":"eKuvukeni",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:population":14331,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14567947387695,
+    -28.47646141052246,
+    30.1746997833252,
+    -28.46055030822754
+],
+  "geometry": {"coordinates":[[[30.14567947387695,-28.46695899963379],[30.14708518981934,-28.46525573730469],[30.14739418029785,-28.46489715576172],[30.15251541137695,-28.46312522888184],[30.15788841247559,-28.46157836914062],[30.16002082824707,-28.46055030822754],[30.16477394104004,-28.46229934692383],[30.16936111450195,-28.46345520019531],[30.17318344116211,-28.46438217163086],[30.1746997833252,-28.46619606018066],[30.17468452453613,-28.46822547912598],[30.17389297485352,-28.47138023376465],[30.1728630065918,-28.47250175476074],[30.17132949829102,-28.47271728515625],[30.16647720336914,-28.4729118347168],[30.16264152526855,-28.47356605529785],[30.15930938720703,-28.47534942626953],[30.15674781799316,-28.47646141052246],[30.15445327758789,-28.47599601745605],[30.15140724182129,-28.47372055053711],[30.14912796020508,-28.47144889831543],[30.14567947387695,-28.46695899963379]]],"type":"Polygon"}
+}

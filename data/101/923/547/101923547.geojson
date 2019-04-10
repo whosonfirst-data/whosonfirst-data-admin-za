@@ -1,0 +1,88 @@
+{
+  "id": 101923547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000226,
+    "geom:area_square_m":2547800.907182,
+    "geom:bbox":"29.6473350525,-24.0130119324,29.6672458649,-23.993686676",
+    "geom:latitude":-24.002361,
+    "geom:longitude":29.657456,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.002738,
+    "lbl:longitude":29.657602,
+    "mps:latitude":-24.002738,
+    "mps:longitude":29.657602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Laaste Hoop"
+    ],
+    "name:dut_x_preferred":[
+        "Laaste Hoop"
+    ],
+    "name:eng_x_preferred":[
+        "Laaste Hoop"
+    ],
+    "name:nso_x_preferred":[
+        "Laaste Hoop"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Laaste Hoop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-23.994,
+    "wd:longitude":29.656,
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586550,
+        "wd:id":"Q15241180"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a7763c55653ce33153579094be4d0cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923547,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923547,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Laaste Hoop",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64733505249023,
+    -24.01301193237305,
+    29.66724586486816,
+    -23.99368667602539
+],
+  "geometry": {"coordinates":[[[29.66584968566895,-23.99792861938477],[29.66590881347656,-23.99793243408203],[29.66597747802734,-23.9980354309082],[29.66657447814941,-23.99853897094727],[29.66635513305664,-23.99860763549805],[29.66724586486816,-23.99995803833008],[29.6584644317627,-24.0125904083252],[29.65448570251465,-24.01301193237305],[29.64733505249023,-23.99800872802734],[29.6495418548584,-23.99718856811523],[29.65220642089844,-23.99920845031738],[29.65307998657227,-23.99717330932617],[29.65325546264648,-23.99718284606934],[29.65461158752441,-23.99371337890625],[29.66080284118652,-23.99368667602539],[29.66584968566895,-23.99792861938477]]],"type":"Polygon"}
+}

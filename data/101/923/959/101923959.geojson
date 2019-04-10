@@ -1,0 +1,100 @@
+{
+  "id": 101923959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000377,
+    "geom:area_square_m":4291099.091705,
+    "geom:bbox":"30.3959102631,-22.9532241821,30.4434871674,-22.9329357147",
+    "geom:latitude":-22.942858,
+    "geom:longitude":30.415757,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.946496,
+    "lbl:longitude":30.405484,
+    "mps:latitude":-22.946496,
+    "mps:longitude":30.405484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Sibasa"
+    ],
+    "name:dut_x_preferred":[
+        "Sibasa"
+    ],
+    "name:eng_x_preferred":[
+        "Sibasa"
+    ],
+    "name:ger_x_preferred":[
+        "Sibasa"
+    ],
+    "name:nso_x_preferred":[
+        "Sibasa"
+    ],
+    "name:ven_x_preferred":[
+        "Sibasa"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sibasa",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-22.95,
+    "wd:longitude":30.466667,
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955874,
+        "gp:id":1587428,
+        "qs:id":746041,
+        "qs_pg:id":746041,
+        "wd:id":"Q7506936",
+        "wk:page":"Sibasa"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"32e5bc09ed470a1803715fc09f6fd843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923959,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923959,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Sibasa",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.39591026306152,
+    -22.95322418212891,
+    30.4434871673584,
+    -22.93293571472168
+],
+  "geometry": {"coordinates":[[[30.39914894104004,-22.95243644714355],[30.39591026306152,-22.95110893249512],[30.39840126037598,-22.94391059875488],[30.40056419372559,-22.9410457611084],[30.40230560302734,-22.93981170654297],[30.40625381469727,-22.93977546691895],[30.4128303527832,-22.93930816650391],[30.41983795166016,-22.93802642822266],[30.43513870239258,-22.93300819396973],[30.4390869140625,-22.9329719543457],[30.44215774536133,-22.93294334411621],[30.44303512573242,-22.93293571472168],[30.4434871673584,-22.93415069580078],[30.44218826293945,-22.93578720092773],[30.43520545959473,-22.9391040802002],[30.41510581970215,-22.9470100402832],[30.41248321533203,-22.94784545898438],[30.41118431091309,-22.94948387145996],[30.41032791137695,-22.95322418212891],[30.40398216247559,-22.95320510864258],[30.39914894104004,-22.95243644714355]]],"type":"Polygon"}
+}

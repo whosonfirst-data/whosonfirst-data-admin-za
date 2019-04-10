@@ -1,0 +1,72 @@
+{
+  "id": 101926211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":2393397.573794,
+    "geom:bbox":"28.4716949463,-26.4067192078,28.4870071411,-26.3861846924",
+    "geom:latitude":-26.395646,
+    "geom:longitude":28.479837,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.3951,
+    "lbl:longitude":28.480603,
+    "mps:latitude":-26.3951,
+    "mps:longitude":28.480603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vorsterkroon",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585889
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"18e4f5d3fdb21ba5bb9dab46f5f8f2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926211,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926211,
+    "wof:lastmodified":1500027687,
+    "wof:name":"Vorsterkroon",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47169494628906,
+    -26.40671920776367,
+    28.48700714111328,
+    -26.38618469238281
+],
+  "geometry": {"coordinates":[[[28.47466278076172,-26.38618469238281],[28.48530006408691,-26.38632774353027],[28.48539733886719,-26.38692855834961],[28.48659324645996,-26.39705085754395],[28.48670768737793,-26.39801788330078],[28.48700714111328,-26.39911270141602],[28.47959518432617,-26.40671920776367],[28.47169494628906,-26.40249443054199],[28.47178840637207,-26.40219497680664],[28.47314643859863,-26.39997482299805],[28.47354507446289,-26.39959144592285],[28.47450065612793,-26.3986759185791],[28.47553253173828,-26.39867401123047],[28.4739990234375,-26.39110946655273],[28.47466278076172,-26.38618469238281]]],"type":"Polygon"}
+}

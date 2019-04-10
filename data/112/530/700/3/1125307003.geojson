@@ -1,0 +1,93 @@
+{
+  "id": 1125307003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02993,-33.22263,22.02993,-33.22263",
+    "geom:latitude":-33.22263,
+    "geom:longitude":22.02993,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":13136,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.22263,
+    "lbl:longitude":22.02993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Prins Albert"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":964078,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Prince Albert",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":136,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1235047,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189577,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964078,
+        "gp:id":56189577,
+        "qs_pg:id":1235047
+    },
+    "wof:country":"ZA",
+    "wof:created":1497043755,
+    "wof:geomhash":"51f2edab2271949fd633ab7ca3cb624e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730623,
+            "localadmin_id":1125307003,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125307003,
+    "wof:lastmodified":1509387819,
+    "wof:name":"Prince Albert",
+    "wof:parent_id":1108730623,
+    "wof:placetype":"localadmin",
+    "wof:population":13136,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02993,
+    -33.22263,
+    22.02993,
+    -33.22263
+],
+  "geometry": {"coordinates":[22.02993,-33.22263],"type":"Point"}
+}

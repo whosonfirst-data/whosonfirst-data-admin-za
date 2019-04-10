@@ -1,0 +1,72 @@
+{
+  "id": 1242772959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.02786,-25.41676,28.02786,-25.41676",
+    "geom:latitude":-25.41676,
+    "geom:longitude":28.02786,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Winterveld",
+    "gn:country_code":"ZA",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939336,
+    "gn:latitude":-25.41676,
+    "gn:longitude":28.02786,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Winterveld",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Winterveld Agricultural Settlement",
+        "Winterveld"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939336,
+        "wk:page":"Winterveld"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd76b0258d021ee59b6de27ae2545042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1242772959,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1242772959,
+    "wof:lastmodified":1537716368,
+    "wof:name":"Winterveld",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.02786,
+    -25.41676,
+    28.02786,
+    -25.41676
+],
+  "geometry": {"coordinates":[28.02786,-25.41676],"type":"Point"}
+}

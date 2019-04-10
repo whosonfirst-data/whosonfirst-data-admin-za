@@ -1,0 +1,69 @@
+{
+  "id": 1293906237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31303,-31.85557,28.31303,-31.85557",
+    "geom:latitude":-31.85557,
+    "geom:longitude":28.31303,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Lalini",
+    "gn:country_code":"ZA",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984922,
+    "gn:latitude":-31.85557,
+    "gn:longitude":28.31303,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lalini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984922
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c50ee4d5a568b191169c4107d6f8d84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1293906237,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293906237,
+    "wof:lastmodified":1536680563,
+    "wof:name":"Lalini",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31303,
+    -31.85557,
+    28.31303,
+    -31.85557
+],
+  "geometry": {"coordinates":[28.31303,-31.85557],"type":"Point"}
+}

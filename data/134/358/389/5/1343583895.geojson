@@ -1,0 +1,67 @@
+{
+  "id": 1343583895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45,-29.98333,29.45,-29.98333",
+    "geom:latitude":-29.98333,
+    "geom:longitude":29.45,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Indawana",
+    "gn:country_code":"ZA",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994830,
+    "gn:latitude":-29.98333,
+    "gn:longitude":29.45,
+    "gn:modification_date":"2004-04-27",
+    "gn:name":"Indawana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994830
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"484a6b3bc61e2ed058200e09523c4c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1343583895,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343583895,
+    "wof:lastmodified":1537062879,
+    "wof:name":"Indawana",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45,
+    -29.98333,
+    29.45,
+    -29.98333
+],
+  "geometry": {"coordinates":[29.45,-29.98333],"type":"Point"}
+}

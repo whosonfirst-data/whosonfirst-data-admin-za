@@ -1,0 +1,112 @@
+{
+  "id": 85783143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17484520.909318,
+    "geom:bbox":"28.231516,-26.116959,28.231516,-26.116959",
+    "geom:latitude":-26.116959,
+    "geom:longitude":28.231516,
+    "gn:latitude":-26.11745,
+    "gn:longitude":28.23263,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.116959,
+    "lbl:longitude":28.231516,
+    "mps:latitude":-26.129714,
+    "mps:longitude":28.230566,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Rhodesfield"
+    ],
+    "name:unk_x_variant":[
+        "Rhodesfield"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Rhodesfield",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Rhodesfield",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":56,
+    "qs:photo_sum":419,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925731,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131576,
+        "gp:id":55878308,
+        "qs:id":1115017,
+        "qs_pg:id":1115017
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f2ab2c7c4d4df630792c7fc7167c13e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925731,
+            "neighbourhood_id":85783143,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860459,
+    "wof:name":"Rhodesfield",
+    "wof:parent_id":101925731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.231516,
+    -26.116959,
+    28.231516,
+    -26.116959
+],
+  "geometry": {"coordinates":[28.231516,-26.116959],"type":"Point"}
+}

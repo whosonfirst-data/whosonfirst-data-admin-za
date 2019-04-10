@@ -1,0 +1,73 @@
+{
+  "id": 101924915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000268,
+    "geom:area_square_m":2996292.125645,
+    "geom:bbox":"26.648431778,-25.1059017181,26.6681079865,-25.0833797455",
+    "geom:latitude":-25.095854,
+    "geom:longitude":26.658929,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.096335,
+    "lbl:longitude":26.658742,
+    "mps:latitude":-25.096335,
+    "mps:longitude":26.658742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khayakhulu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991122,
+        "gp:id":1584183
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a2f8cc3df86aa4a940525e0632e43939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101924915,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924915,
+    "wof:lastmodified":1500028294,
+    "wof:name":"Khayakhulu",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6484317779541,
+    -25.10590171813965,
+    26.6681079864502,
+    -25.0833797454834
+],
+  "geometry": {"coordinates":[[[26.6484317779541,-25.10590171813965],[26.64987945556641,-25.1010570526123],[26.65178298950195,-25.0927562713623],[26.65253067016602,-25.0920581817627],[26.66303253173828,-25.08480644226074],[26.6650390625,-25.08386421203613],[26.66705131530762,-25.0833797454834],[26.66808700561523,-25.08520698547363],[26.6681079864502,-25.08658599853516],[26.6638069152832,-25.1038818359375],[26.6565055847168,-25.10534858703613],[26.6484317779541,-25.10590171813965]]],"type":"Polygon"}
+}

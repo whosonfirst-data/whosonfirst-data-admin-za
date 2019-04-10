@@ -1,0 +1,70 @@
+{
+  "id": 101926351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1391683.207361,
+    "geom:bbox":"27.9353256226,-26.567565918,27.9553489685,-26.5531616211",
+    "geom:latitude":-26.562031,
+    "geom:longitude":27.943066,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.562078,
+    "lbl:longitude":27.94208,
+    "mps:latitude":-26.562078,
+    "mps:longitude":27.94208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dadaville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"f601ee2027bd12a5d8f54b693cb70e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926351,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926351,
+    "wof:lastmodified":1500027688,
+    "wof:name":"Dadaville",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93532562255859,
+    -26.56756591796875,
+    27.95534896850586,
+    -26.55316162109375
+],
+  "geometry": {"coordinates":[[[27.94486808776855,-26.5664234161377],[27.93783187866211,-26.56709480285645],[27.93572235107422,-26.56756591796875],[27.93532562255859,-26.56493377685547],[27.93820762634277,-26.56379508972168],[27.93671417236328,-26.55598640441895],[27.93911170959473,-26.55316162109375],[27.9455451965332,-26.55854797363281],[27.9465160369873,-26.56406784057617],[27.95153045654297,-26.56433868408203],[27.95250511169434,-26.56218528747559],[27.95534896850586,-26.56353378295898],[27.95384979248047,-26.56723403930664],[27.94995880126953,-26.56649208068848],[27.94748687744141,-26.56622314453125],[27.94486808776855,-26.5664234161377]]],"type":"Polygon"}
+}

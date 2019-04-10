@@ -1,0 +1,102 @@
+{
+  "id": 101927127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000207,
+    "geom:area_square_m":2221685.287106,
+    "geom:bbox":"27.0274181366,-29.7340545654,27.0487117767,-29.715801239",
+    "geom:latitude":-29.726276,
+    "geom:longitude":27.038488,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.726011,
+    "lbl:longitude":27.039536,
+    "mps:latitude":-29.726011,
+    "mps:longitude":27.039536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Wepener"
+    ],
+    "name:dut_x_preferred":[
+        "Wepener"
+    ],
+    "name:eng_x_preferred":[
+        "Wepener"
+    ],
+    "name:fre_x_preferred":[
+        "Wepener"
+    ],
+    "name:ger_x_preferred":[
+        "Wepener"
+    ],
+    "name:nso_x_preferred":[
+        "Wepener"
+    ],
+    "name:pol_x_preferred":[
+        "Wepener"
+    ],
+    "name:rum_x_preferred":[
+        "Wepener"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wepener",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.733333,
+    "wd:longitude":27.033333,
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940477,
+        "gp:id":1588825,
+        "wd:id":"Q841619",
+        "wk:page":"Wepener"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2f321b8be5f110e8a72732f38f6f6e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101927127,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927127,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Wepener",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02741813659668,
+    -29.73405456542969,
+    27.0487117767334,
+    -29.71580123901367
+],
+  "geometry": {"coordinates":[[[27.02826118469238,-29.72990798950195],[27.02741813659668,-29.72944068908691],[27.03109931945801,-29.72772789001465],[27.0338306427002,-29.72640228271484],[27.03425407409668,-29.72603225708008],[27.03474235534668,-29.72560691833496],[27.03474235534668,-29.72481155395508],[27.03474235534668,-29.72348594665527],[27.03322410583496,-29.72295761108398],[27.03140068054199,-29.72110176086426],[27.03109550476074,-29.71845245361328],[27.03109550476074,-29.71633338928223],[27.03231048583984,-29.71580123901367],[27.03413200378418,-29.71580123901367],[27.04476165771484,-29.7237491607666],[27.0468864440918,-29.72533798217773],[27.04840660095215,-29.72772216796875],[27.0487117767334,-29.73063850402832],[27.04780197143555,-29.73169898986816],[27.04571914672852,-29.73397636413574],[27.04401779174805,-29.73345565795898],[27.04031944274902,-29.73184394836426],[27.03957557678223,-29.7311954498291],[27.03717613220215,-29.73223686218262],[27.03305625915527,-29.73405456542969],[27.0317554473877,-29.73244857788086],[27.02826118469238,-29.72990798950195]]],"type":"Polygon"}
+}

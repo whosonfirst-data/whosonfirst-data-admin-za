@@ -1,0 +1,72 @@
+{
+  "id": 101924439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":674493.834261,
+    "geom:bbox":"30.3584289551,-24.5597572327,30.369758606,-24.5479068756",
+    "geom:latitude":-24.553271,
+    "geom:longitude":30.363775,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.553349,
+    "lbl:longitude":30.362917,
+    "mps:latitude":-24.553349,
+    "mps:longitude":30.362917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tswetlane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580215
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"20eb2992e5b75a93980762cac3d76476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101924439,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924439,
+    "wof:lastmodified":1500028435,
+    "wof:name":"Tswetlane",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35842895507812,
+    -24.55975723266602,
+    30.36975860595703,
+    -24.54790687561035
+],
+  "geometry": {"coordinates":[[[30.36319160461426,-24.54823875427246],[30.36336135864258,-24.54790687561035],[30.3683967590332,-24.54873657226562],[30.36973571777344,-24.54953765869141],[30.36975860595703,-24.55156898498535],[30.3675422668457,-24.55199432373047],[30.36620903015137,-24.55200576782227],[30.36532592773438,-24.55241966247559],[30.36403465270996,-24.55649375915527],[30.36494445800781,-24.55851554870605],[30.3622932434082,-24.55975723266602],[30.35842895507812,-24.55660057067871],[30.35958099365234,-24.55531311035156],[30.36319160461426,-24.54823875427246]]],"type":"Polygon"}
+}

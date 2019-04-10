@@ -1,0 +1,69 @@
+{
+  "id": 1326835027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75047,-30.82456,28.75047,-30.82456",
+    "geom:latitude":-30.82456,
+    "geom:longitude":28.75047,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Mdeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977426,
+    "gn:latitude":-30.82456,
+    "gn:longitude":28.75047,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mdeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977426
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7926ff9bd17f7d0df1dfe577e8c232b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1326835027,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326835027,
+    "wof:lastmodified":1537042928,
+    "wof:name":"Mdeni",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75047,
+    -30.82456,
+    28.75047,
+    -30.82456
+],
+  "geometry": {"coordinates":[28.75047,-30.82456],"type":"Point"}
+}

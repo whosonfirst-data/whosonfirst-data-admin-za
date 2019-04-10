@@ -1,0 +1,102 @@
+{
+  "id": 101926607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1493574.759496,
+    "geom:bbox":"25.987531662,-27.3253250122,26.0062389374,-27.3137397766",
+    "geom:latitude":-27.318797,
+    "geom:longitude":25.99617,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.318801,
+    "lbl:longitude":25.99617,
+    "mps:latitude":-27.318801,
+    "mps:longitude":25.99617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Makwassie"
+    ],
+    "name:dut_x_preferred":[
+        "Makwassie"
+    ],
+    "name:eng_x_preferred":[
+        "Makwassie"
+    ],
+    "name:nld_x_preferred":[
+        "Makwassie"
+    ],
+    "name:nso_x_preferred":[
+        "Maquassi"
+    ],
+    "name:ron_x_preferred":[
+        "Makwassie"
+    ],
+    "name:rum_x_preferred":[
+        "Makwassie"
+    ],
+    "name:unk_x_variant":[
+        "Maquassi"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makwassie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.316667,
+    "wd:longitude":25.983333,
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979910,
+        "gp:id":1584372,
+        "wd:id":"Q3643549",
+        "wk:page":"Makwassie"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"50436c75073c58ef7625422d88881114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926607,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926607,
+    "wof:lastmodified":1527715818,
+    "wof:name":"Makwassie",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9875316619873,
+    -27.32532501220703,
+    26.00623893737793,
+    -27.31373977661133
+],
+  "geometry": {"coordinates":[[[25.99480819702148,-27.32390975952148],[25.99203109741211,-27.32532501220703],[25.98930168151855,-27.32408142089844],[25.9881420135498,-27.32291603088379],[25.98763656616211,-27.3213062286377],[25.9875316619873,-27.31881523132324],[25.98850440979004,-27.31734085083008],[25.99079322814941,-27.31608009338379],[25.99431228637695,-27.31495475769043],[25.99615478515625,-27.31439208984375],[25.99775123596191,-27.31390571594238],[26.00053977966309,-27.31373977661133],[26.0031681060791,-27.31394195556641],[26.00481224060059,-27.31422233581543],[26.0057201385498,-27.31480407714844],[26.00613784790039,-27.31553268432617],[26.00622749328613,-27.3164119720459],[26.00623893737793,-27.31780433654785],[26.00193977355957,-27.32014846801758],[25.99846839904785,-27.32204246520996],[25.99480819702148,-27.32390975952148]]],"type":"Polygon"}
+}

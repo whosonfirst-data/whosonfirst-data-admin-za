@@ -1,0 +1,72 @@
+{
+  "id": 101928355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:area_square_m":3086275.769843,
+    "geom:bbox":"29.0198478699,-30.6995162964,29.0488643646,-30.6729621887",
+    "geom:latitude":-30.687211,
+    "geom:longitude":29.033383,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.689057,
+    "lbl:longitude":29.033163,
+    "mps:latitude":-30.689057,
+    "mps:longitude":29.033163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dadane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585093
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6fb97c6643c68195d60d4862b56be2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928355,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928355,
+    "wof:lastmodified":1500027842,
+    "wof:name":"Dadane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01984786987305,
+    -30.69951629638672,
+    29.04886436462402,
+    -30.6729621887207
+],
+  "geometry": {"coordinates":[[[29.02958106994629,-30.67343139648438],[29.03266716003418,-30.67452812194824],[29.03113555908203,-30.67954444885254],[29.03641510009766,-30.68556785583496],[29.04027366638184,-30.6895751953125],[29.04886436462402,-30.69317245483398],[29.04459571838379,-30.69737815856934],[29.04093742370605,-30.69951629638672],[29.0391960144043,-30.69809532165527],[29.03481292724609,-30.69878768920898],[29.03133964538574,-30.69623565673828],[29.0284595489502,-30.6910343170166],[29.02792930603027,-30.68518829345703],[29.02440071105957,-30.68088150024414],[29.0198860168457,-30.67747497558594],[29.01984786987305,-30.67630386352539],[29.02482223510742,-30.6729621887207],[29.02958106994629,-30.67343139648438]]],"type":"Polygon"}
+}

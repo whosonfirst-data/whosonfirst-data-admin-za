@@ -1,0 +1,72 @@
+{
+  "id": 101928119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1993038.28041,
+    "geom:bbox":"29.0009403229,-30.1449203491,29.0174236298,-30.1272163391",
+    "geom:latitude":-30.136697,
+    "geom:longitude":29.008819,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.137562,
+    "lbl:longitude":29.008976,
+    "mps:latitude":-30.137562,
+    "mps:longitude":29.008976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaMatias",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b547a7d503f4024928e6e1d6911b6c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928119,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928119,
+    "wof:lastmodified":1500027808,
+    "wof:name":"KwaMatias",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00094032287598,
+    -30.14492034912109,
+    29.01742362976074,
+    -30.12721633911133
+],
+  "geometry": {"coordinates":[[[29.00175666809082,-30.13014221191406],[29.00386619567871,-30.12721633911133],[29.0084056854248,-30.13125801086426],[29.0132007598877,-30.13178062438965],[29.01728057861328,-30.13295936584473],[29.01733207702637,-30.13455390930176],[29.01742362976074,-30.13742637634277],[29.01497650146484,-30.14131927490234],[29.01141738891602,-30.14492034912109],[29.00810241699219,-30.14468193054199],[29.00094032287598,-30.13910484313965],[29.00188827514648,-30.13429069519043],[29.00175666809082,-30.13014221191406]]],"type":"Polygon"}
+}

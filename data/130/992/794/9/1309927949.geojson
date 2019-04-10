@@ -1,0 +1,67 @@
+{
+  "id": 1309927949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85,-25.65,28.85,-25.65",
+    "geom:latitude":-25.65,
+    "geom:longitude":28.85,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tetema",
+    "gn:country_code":"ZA",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949782,
+    "gn:latitude":-25.65,
+    "gn:longitude":28.85,
+    "gn:modification_date":"2004-05-11",
+    "gn:name":"Tetema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949782
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dfff7f7fe82b024ecb6526aafae32de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1309927949,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1309927949,
+    "wof:lastmodified":1536755127,
+    "wof:name":"Tetema",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85,
+    -25.65,
+    28.85,
+    -25.65
+],
+  "geometry": {"coordinates":[28.85,-25.65],"type":"Point"}
+}

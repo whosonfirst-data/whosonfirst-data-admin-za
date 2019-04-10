@@ -1,0 +1,111 @@
+{
+  "id": 85772585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000448,
+    "geom:area_square_m":4602079.958289,
+    "geom:bbox":"18.5226322304,-33.9251293952,18.5466053974,-33.8911398498",
+    "geom:latitude":-33.905834,
+    "geom:longitude":18.533086,
+    "gn:latitude":-33.92245,
+    "gn:longitude":18.5362,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.923003,
+    "lbl:longitude":18.536097,
+    "mps:latitude":-33.903629,
+    "mps:longitude":18.531905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Thornton"
+    ],
+    "name:unk_x_variant":[
+        "Thornton"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Thornton",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Thornton",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":8,
+    "qs:photo_sum":13,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360549,
+        "gp:id":1588104,
+        "qs:id":7986,
+        "qs_pg:id":7986
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"131e21355403cd39d8db60938670008b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772585,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772585,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497314126,
+    "wof:name":"Thornton",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52263223036834,
+    -33.92512939522486,
+    18.54660539742429,
+    -33.89113984984536
+],
+  "geometry": {"coordinates":[[[18.54492187500006,-33.90586543871488],[18.53668212890005,-33.91082960194736],[18.53668212890005,-33.91410057455853],[18.5350950511766,-33.91601305244996],[18.53358202038902,-33.92512939522486],[18.53222460562023,-33.92512939522486],[18.52844243339808,-33.92057152869994],[18.52844238280005,-33.92057152869994],[18.52844238280016,-33.92057146772472],[18.52569580077522,-33.91726158294584],[18.52569580077522,-33.91601305244996],[18.52263223036834,-33.90862967740581],[18.52263279426563,-33.90862984846204],[18.52287426872721,-33.90817808151961],[18.52392706419954,-33.90689524652493],[18.52294921875011,-33.90570373839757],[18.52294921875011,-33.89902695123495],[18.52305710570744,-33.89874099826165],[18.53567586515004,-33.89113984984536],[18.53567297615638,-33.89116918229028],[18.53674466718047,-33.89174201307681],[18.53826003266204,-33.89298564138808],[18.5395036609732,-33.89450100686971],[18.53986807097857,-33.89518277003776],[18.53987195912384,-33.89518394949376],[18.54050896322371,-33.89537718257485],[18.54223783123052,-33.89630128177699],[18.54375319671215,-33.89754491008808],[18.54499682502313,-33.89906027556971],[18.54592092422536,-33.90078914357633],[18.5464899817041,-33.90266507467977],[18.54660539742429,-33.90383691015198],[18.54492187500006,-33.90586543871488]]],"type":"Polygon"}
+}

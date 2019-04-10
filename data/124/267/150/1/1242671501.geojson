@@ -1,0 +1,67 @@
+{
+  "id": 1242671501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45985,-27.35493,23.45985,-27.35493",
+    "geom:latitude":-27.35493,
+    "geom:longitude":23.45985,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ga-Ntatelang",
+    "gn:country_code":"ZA",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002922,
+    "gn:latitude":-27.35493,
+    "gn:longitude":23.45985,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ga-Ntatelang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002922
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"de6ee641c9b49093b09dfdac614dfb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1242671501,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1242671501,
+    "wof:lastmodified":1536929261,
+    "wof:name":"Ga-Ntatelang",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45985,
+    -27.35493,
+    23.45985,
+    -27.35493
+],
+  "geometry": {"coordinates":[23.45985,-27.35493],"type":"Point"}
+}

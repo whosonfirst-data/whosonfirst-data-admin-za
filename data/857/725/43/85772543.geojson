@@ -1,0 +1,118 @@
+{
+  "id": 85772543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000393,
+    "geom:area_square_m":4028066.41243,
+    "geom:bbox":"18.4625244141,-33.9296876276,18.4930820423,-33.9114543933",
+    "geom:latitude":-33.920416,
+    "geom:longitude":18.478639,
+    "gn:latitude":-33.93339,
+    "gn:longitude":18.4572,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.932394,
+    "lbl:longitude":18.462722,
+    "mps:latitude":-33.919698,
+    "mps:longitude":18.47893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Salt River"
+    ],
+    "name:eng_x_variant":[
+        "Soutrivier",
+        "Zoutrivier"
+    ],
+    "name:unk_x_variant":[
+        "Zoutrivier",
+        "Salt River"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Salt River",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Salt River",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":22,
+    "qs:photo_sum":108,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361272,
+        "gp:id":1587674,
+        "qs:id":271422,
+        "qs_pg:id":271422,
+        "wd:id":"Q2383969",
+        "wk:page":"Salt River, Cape Town"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c86cda6da98b3b8f0ce6ccfc9e2c8495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772543,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772543,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497308199,
+    "wof:name":"Salt River",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46252441407501,
+    -33.92968762760005,
+    18.49308204232642,
+    -33.91145439332493
+],
+  "geometry": {"coordinates":[[[18.48449707031472,-33.91461584229172],[18.48565656957578,-33.91601305244996],[18.48999023437506,-33.91601305244996],[18.48999028495479,-33.91601311339996],[18.4927368164,-33.91932276014294],[18.4927368164,-33.9205714677249],[18.49308204232642,-33.92140352591045],[18.48999023437926,-33.92512963912505],[18.48999023438546,-33.92512970009992],[18.48999023438449,-33.92968756662483],[18.48999023440012,-33.92968762760005],[18.48449707030841,-33.92968762760005],[18.47900390629178,-33.92968762760005],[18.47351074220012,-33.92968762760005],[18.47351074220012,-33.92968756662483],[18.47351074220012,-33.92512970009992],[18.46801757809999,-33.92512970009992],[18.46801757811471,-33.92373240140521],[18.46801757811579,-33.92057152869994],[18.46252441410013,-33.92057152869994],[18.46252441408342,-33.9205714677249],[18.46252441409177,-33.91601311339996],[18.46252441407501,-33.91601305244996],[18.46801757811579,-33.91601305244996],[18.4680175781084,-33.91145445429998],[18.46801757812096,-33.91145439332493],[18.47351074220012,-33.91145439332493],[18.47900390627501,-33.91145439332493],[18.48449707032512,-33.91145439332493],[18.4844970703158,-33.91145445429998],[18.48449707031472,-33.91461584229172]]],"type":"Polygon"}
+}

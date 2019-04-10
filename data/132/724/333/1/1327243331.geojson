@@ -1,0 +1,69 @@
+{
+  "id": 1327243331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39937,-30.49999,26.39937,-30.49999",
+    "geom:latitude":-30.49999,
+    "geom:longitude":26.39937,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Woltemede",
+    "gn:country_code":"ZA",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":938449,
+    "gn:latitude":-30.49999,
+    "gn:longitude":26.39937,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Woltemede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":938449
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"761bd6c490243bc851eb9bc87850e4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1327243331,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1327243331,
+    "wof:lastmodified":1536953810,
+    "wof:name":"Woltemede",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39937,
+    -30.49999,
+    26.39937,
+    -30.49999
+],
+  "geometry": {"coordinates":[26.39937,-30.49999],"type":"Point"}
+}

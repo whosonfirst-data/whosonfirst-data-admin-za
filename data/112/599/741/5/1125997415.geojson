@@ -1,0 +1,107 @@
+{
+  "id": 1125997415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,-34.01667,18.36667,-34.01667",
+    "geom:latitude":-34.01667,
+    "geom:longitude":18.36667,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.01667,
+    "lbl:longitude":18.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Vredehoek"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0435\u0434\u0435\u0445\u043e\u0435\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Vredehoek"
+    ],
+    "name:eng_x_preferred":[
+        "Vredehoek"
+    ],
+    "name:fre_x_preferred":[
+        "Vredehoek"
+    ],
+    "name:spa_x_preferred":[
+        "Vredehoek"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3359748,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vredehoek",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":417,
+    "qs_pg:photos_1k":84,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":417,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":240619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588694,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359748,
+        "gp:id":1588694,
+        "qs_pg:id":240619,
+        "wd:id":"Q3073400"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497299437,
+    "wof:geomhash":"7cd0f89c1a313ab3d83b5ee97563f9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125997415,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125997415,
+    "wof:lastmodified":1514504630,
+    "wof:name":"Vredehoek",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667,
+    -34.01667,
+    18.36667,
+    -34.01667
+],
+  "geometry": {"coordinates":[18.36667,-34.01667],"type":"Point"}
+}

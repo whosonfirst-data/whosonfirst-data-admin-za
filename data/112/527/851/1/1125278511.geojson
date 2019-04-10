@@ -1,0 +1,78 @@
+{
+  "id": 1125278511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.80147,-25.10388,28.80147,-25.10388",
+    "geom:latitude":-25.10388,
+    "geom:longitude":28.80147,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":246969,
+    "gn:population":246969,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.10388,
+    "lbl:longitude":28.80147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347614,
+    "qs_pg:gn_pop":246969,
+    "qs_pg:name":"Dr JS Moroka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":109972,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347614,
+        "qs_pg:id":109972
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042414,
+    "wof:geomhash":"068e922ac6c4e827cb11b281bf9f103d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "localadmin_id":1125278511,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1125278511,
+    "wof:lastmodified":1509387227,
+    "wof:name":"Dr JS Moroka",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"localadmin",
+    "wof:population":246969,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.80147,
+    -25.10388,
+    28.80147,
+    -25.10388
+],
+  "geometry": {"coordinates":[28.80147,-25.10388],"type":"Point"}
+}

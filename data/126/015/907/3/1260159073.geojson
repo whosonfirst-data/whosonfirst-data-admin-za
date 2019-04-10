@@ -1,0 +1,69 @@
+{
+  "id": 1260159073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3323,-33.36423,19.3323,-33.36423",
+    "geom:latitude":-33.36423,
+    "geom:longitude":19.3323,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC022",
+    "gn:asciiname":"Moreson",
+    "gn:country_code":"ZA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3363940,
+    "gn:latitude":-33.36423,
+    "gn:longitude":19.3323,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"M\u00f4reson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363940
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5c5a28006517c0e84d3e9d9dae2074d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1260159073,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1260159073,
+    "wof:lastmodified":1536880787,
+    "wof:name":"Moreson",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3323,
+    -33.36423,
+    19.3323,
+    -33.36423
+],
+  "geometry": {"coordinates":[19.3323,-33.36423],"type":"Point"}
+}

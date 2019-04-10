@@ -1,0 +1,73 @@
+{
+  "id": 1276645083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29627,-25.80405,25.29627,-25.80405",
+    "geom:latitude":-25.80405,
+    "geom:longitude":25.29627,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Masibi",
+    "gn:country_code":"ZA",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978428,
+    "gn:latitude":-25.80405,
+    "gn:longitude":25.29627,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Masibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan Masibi",
+        "Masibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978428
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c3a271486e52ed62406890bf86356515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1276645083,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1276645083,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Masibi",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29627,
+    -25.80405,
+    25.29627,
+    -25.80405
+],
+  "geometry": {"coordinates":[25.29627,-25.80405],"type":"Point"}
+}

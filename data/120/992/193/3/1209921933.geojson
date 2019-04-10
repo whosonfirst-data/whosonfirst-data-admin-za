@@ -1,0 +1,69 @@
+{
+  "id": 1209921933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78805,-27.8415,28.78805,-27.8415",
+    "geom:latitude":-27.8415,
+    "geom:longitude":28.78805,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS195",
+    "gn:asciiname":"Zanddraai",
+    "gn:country_code":"ZA",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":937418,
+    "gn:latitude":-27.8415,
+    "gn:longitude":28.78805,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Zanddraai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937418
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7ee5caab799a232956b7f2babcb40a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1209921933,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1209921933,
+    "wof:lastmodified":1536396629,
+    "wof:name":"Zanddraai",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78805,
+    -27.8415,
+    28.78805,
+    -27.8415
+],
+  "geometry": {"coordinates":[28.78805,-27.8415],"type":"Point"}
+}

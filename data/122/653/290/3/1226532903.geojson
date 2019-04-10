@@ -1,0 +1,69 @@
+{
+  "id": 1226532903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92805,-30.03911,21.92805,-30.03911",
+    "geom:latitude":-30.03911,
+    "geom:longitude":21.92805,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC074",
+    "gn:asciiname":"Maltrap",
+    "gn:country_code":"ZA",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979707,
+    "gn:latitude":-30.03911,
+    "gn:longitude":21.92805,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Maltrap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979707
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ddf1e51b3ee40f27921e18a5fbf037e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1226532903,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1226532903,
+    "wof:lastmodified":1537015891,
+    "wof:name":"Maltrap",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92805,
+    -30.03911,
+    21.92805,
+    -30.03911
+],
+  "geometry": {"coordinates":[21.92805,-30.03911],"type":"Point"}
+}

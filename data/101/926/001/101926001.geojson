@@ -1,0 +1,101 @@
+{
+  "id": 101926001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":176418.003538,
+    "geom:bbox":"27.8873653412,-26.2704467773,27.8934745789,-26.264875412",
+    "geom:latitude":-26.267473,
+    "geom:longitude":27.890287,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.267432,
+    "lbl:longitude":27.89024,
+    "mps:latitude":-26.267432,
+    "mps:longitude":27.89024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kliptown"
+    ],
+    "name:deu_x_preferred":[
+        "Kliptown"
+    ],
+    "name:dut_x_preferred":[
+        "Kliptown"
+    ],
+    "name:eng_x_preferred":[
+        "Kliptown"
+    ],
+    "name:fin_x_preferred":[
+        "Kliptown"
+    ],
+    "name:fre_x_preferred":[
+        "Kliptown"
+    ],
+    "name:ger_x_preferred":[
+        "Kliptown"
+    ],
+    "name:ind_x_preferred":[
+        "Kliptown"
+    ],
+    "name:spa_x_preferred":[
+        "Kliptown"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kliptown",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586559,
+        "wd:id":"Q3643931"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"25ce616a0afee9d57520a9ed62b29622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101926001,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926001,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Kliptown",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88736534118652,
+    -26.27044677734375,
+    27.89347457885742,
+    -26.2648754119873
+],
+  "geometry": {"coordinates":[[[27.89041709899902,-26.2648754119873],[27.89347457885742,-26.26595115661621],[27.89328193664551,-26.26615142822266],[27.89024353027344,-26.26976776123047],[27.88979530334473,-26.27044677734375],[27.88736534118652,-26.26859664916992],[27.89041709899902,-26.2648754119873]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343661071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6985,-31.21115,29.6985,-31.21115",
+    "geom:latitude":-31.21115,
+    "geom:longitude":29.6985,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Mtontsasa",
+    "gn:country_code":"ZA",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972840,
+    "gn:latitude":-31.21115,
+    "gn:longitude":29.6985,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mtontsasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntontsasa",
+        "Mtontsasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972840
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e8a43f5a0b054b6ed2f513c7994876b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1343661071,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343661071,
+    "wof:lastmodified":1537716396,
+    "wof:name":"Mtontsasa",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6985,
+    -31.21115,
+    29.6985,
+    -31.21115
+],
+  "geometry": {"coordinates":[29.6985,-31.21115],"type":"Point"}
+}

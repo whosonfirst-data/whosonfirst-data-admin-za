@@ -1,0 +1,67 @@
+{
+  "id": 1327034833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.70413,-30.1149,29.70413,-30.1149",
+    "geom:latitude":-30.1149,
+    "geom:longitude":29.70413,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ngukwe",
+    "gn:country_code":"ZA",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970955,
+    "gn:latitude":-30.1149,
+    "gn:longitude":29.70413,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ngukwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970955
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8ecbb75bf37090351b0927b5c1041789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1327034833,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1327034833,
+    "wof:lastmodified":1536756994,
+    "wof:name":"Ngukwe",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70413,
+    -30.1149,
+    29.70413,
+    -30.1149
+],
+  "geometry": {"coordinates":[29.70413,-30.1149],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360294189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66222,-29.68264,29.66222,-29.68264",
+    "geom:latitude":-29.68264,
+    "geom:longitude":29.66222,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN432",
+    "gn:asciiname":"Mkhomazana",
+    "gn:country_code":"ZA",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975567,
+    "gn:latitude":-29.68264,
+    "gn:longitude":29.66222,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mkhomazana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975567
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7ad60a4a8d1a67c250f43e7b85683bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1360294189,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1360294189,
+    "wof:lastmodified":1536643177,
+    "wof:name":"Mkhomazana",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66222,
+    -29.68264000000001,
+    29.66222,
+    -29.68264000000001
+],
+  "geometry": {"coordinates":[29.66222,-29.68264000000001],"type":"Point"}
+}

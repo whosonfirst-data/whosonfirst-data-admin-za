@@ -1,0 +1,63 @@
+{
+  "id": 1209105323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55,-31.3,29.55,-31.3",
+    "geom:latitude":-31.3,
+    "geom:longitude":29.55,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Ngojini",
+    "gn:country_code":"ZA",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971099,
+    "gn:latitude":-31.3,
+    "gn:longitude":29.55,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngojini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971099
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bde0a835dd048f70d2eb0797019a28d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209105323
+        }
+    ],
+    "wof:id":1209105323,
+    "wof:lastmodified":1536297592,
+    "wof:name":"Ngojini",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55,
+    -31.3,
+    29.55,
+    -31.3
+],
+  "geometry": {"coordinates":[29.55,-31.3],"type":"Point"}
+}

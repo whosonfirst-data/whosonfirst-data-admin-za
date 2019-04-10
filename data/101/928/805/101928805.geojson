@@ -1,0 +1,72 @@
+{
+  "id": 101928805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1235281.814432,
+    "geom:bbox":"27.4450798035,-31.8111801147,27.4601402283,-31.7974624634",
+    "geom:latitude":-31.803859,
+    "geom:longitude":27.45332,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.803639,
+    "lbl:longitude":27.45332,
+    "mps:latitude":-31.803639,
+    "mps:longitude":27.45332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nyongwana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587667
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eb57a50ca5f83aa7e96d64969dc5eee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928805,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928805,
+    "wof:lastmodified":1500027877,
+    "wof:name":"Nyongwana",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4450798034668,
+    -31.81118011474609,
+    27.46014022827148,
+    -31.79746246337891
+],
+  "geometry": {"coordinates":[[[27.45595932006836,-31.79746246337891],[27.46014022827148,-31.80577278137207],[27.45533180236816,-31.81118011474609],[27.4450798034668,-31.80408096313477],[27.45173454284668,-31.79751014709473],[27.45595932006836,-31.79746246337891]]],"type":"Polygon"}
+}

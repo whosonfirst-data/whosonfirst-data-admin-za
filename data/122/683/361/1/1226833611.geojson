@@ -1,0 +1,69 @@
+{
+  "id": 1226833611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28149,-23.99645,30.28149,-23.99645",
+    "geom:latitude":-23.99645,
+    "geom:longitude":30.28149,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Mohlahlareng",
+    "gn:country_code":"ZA",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974921,
+    "gn:latitude":-23.99645,
+    "gn:longitude":30.28149,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mohlahlareng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974921
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"88c11f10f264189479e68dc2095f3af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1226833611,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226833611,
+    "wof:lastmodified":1537082614,
+    "wof:name":"Mohlahlareng",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28149,
+    -23.99645,
+    30.28149,
+    -23.99645
+],
+  "geometry": {"coordinates":[30.28149,-23.99645],"type":"Point"}
+}

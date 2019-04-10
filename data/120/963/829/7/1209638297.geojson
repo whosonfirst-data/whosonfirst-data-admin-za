@@ -1,0 +1,63 @@
+{
+  "id": 1209638297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10625,-32.86823,28.10625,-32.86823",
+    "geom:latitude":-32.86823,
+    "geom:longitude":28.10625,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Bernese",
+    "gn:country_code":"ZA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019861,
+    "gn:latitude":-32.86823,
+    "gn:longitude":28.10625,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bernese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019861
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d9e375b8317993891d343e9102284263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209638297
+        }
+    ],
+    "wof:id":1209638297,
+    "wof:lastmodified":1536280969,
+    "wof:name":"Bernese",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10625,
+    -32.86823,
+    28.10625,
+    -32.86823
+],
+  "geometry": {"coordinates":[28.10625,-32.86823],"type":"Point"}
+}

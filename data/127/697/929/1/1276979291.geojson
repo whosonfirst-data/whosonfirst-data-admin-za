@@ -1,0 +1,69 @@
+{
+  "id": 1276979291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.78333,-31.96667,27.78333,-31.96667",
+    "geom:latitude":-31.96667,
+    "geom:longitude":27.78333,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC135",
+    "gn:asciiname":"Garner's Drift",
+    "gn:country_code":"ZA",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002812,
+    "gn:latitude":-31.96667,
+    "gn:longitude":27.78333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Garner\u2019s Drift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002812
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"84effc8d400cd697e64fcb0c00ceaf27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1276979291,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276979291,
+    "wof:lastmodified":1536908268,
+    "wof:name":"Garner's Drift",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78333,
+    -31.96667,
+    27.78333,
+    -31.96667
+],
+  "geometry": {"coordinates":[27.78333,-31.96667],"type":"Point"}
+}

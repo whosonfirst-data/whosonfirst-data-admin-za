@@ -1,0 +1,61 @@
+{
+  "id": 1209313577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40736,-33.73662,23.40736,-33.73662",
+    "geom:latitude":-33.73662,
+    "geom:longitude":23.40736,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ongelegen",
+    "gn:country_code":"ZA",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":967989,
+    "gn:latitude":-33.73662,
+    "gn:longitude":23.40736,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ongelegen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":967989
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9795b77a61b172a1a7117ff8c5b37ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209313577
+        }
+    ],
+    "wof:id":1209313577,
+    "wof:lastmodified":1536290942,
+    "wof:name":"Ongelegen",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40736,
+    -33.73662,
+    23.40736,
+    -33.73662
+],
+  "geometry": {"coordinates":[23.40736,-33.73662],"type":"Point"}
+}

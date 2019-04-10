@@ -1,0 +1,70 @@
+{
+  "id": 101925739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":419650.1519,
+    "geom:bbox":"27.7765197754,-26.1162509918,27.7861423492,-26.1099452972",
+    "geom:latitude":-26.113189,
+    "geom:longitude":27.781007,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.112928,
+    "lbl:longitude":27.780916,
+    "mps:latitude":-26.112928,
+    "mps:longitude":27.780916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Luipaardsvlei Estate and Gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"9abad68b70551bc570653210863d298a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925739,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925739,
+    "wof:lastmodified":1500027720,
+    "wof:name":"Luipaardsvlei Estate and Gold Mine",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.77651977539062,
+    -26.11625099182129,
+    27.78614234924316,
+    -26.10994529724121
+],
+  "geometry": {"coordinates":[[[27.78399085998535,-26.11135864257812],[27.78614234924316,-26.11625099182129],[27.78544616699219,-26.11599731445312],[27.78484153747559,-26.11577606201172],[27.783203125,-26.11539077758789],[27.77865791320801,-26.11555480957031],[27.77651977539062,-26.11485481262207],[27.77825736999512,-26.10994529724121],[27.7793140411377,-26.11007499694824],[27.78214454650879,-26.11062049865723],[27.78399085998535,-26.11135864257812]]],"type":"Polygon"}
+}

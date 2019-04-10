@@ -1,0 +1,73 @@
+{
+  "id": 1343284733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00239,-32.04496,29.00239,-32.04496",
+    "geom:latitude":-32.04496,
+    "geom:longitude":29.00239,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Kotyana",
+    "gn:country_code":"ZA",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":987625,
+    "gn:latitude":-32.04496,
+    "gn:longitude":29.00239,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kotyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkotyana",
+        "Kotyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":987625
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3a1b8a7ff955bb0ec61d02fd028007d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1343284733,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343284733,
+    "wof:lastmodified":1537716416,
+    "wof:name":"Kotyana",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00239,
+    -32.04496,
+    29.00239,
+    -32.04496
+],
+  "geometry": {"coordinates":[29.00239,-32.04496],"type":"Point"}
+}

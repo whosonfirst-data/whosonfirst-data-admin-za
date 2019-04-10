@@ -1,0 +1,78 @@
+{
+  "id": 1125278501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63867,-26.78369,28.63867,-26.78369",
+    "geom:latitude":-26.78369,
+    "geom:longitude":28.63867,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":37873,
+    "gn:population":37873,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.78369,
+    "lbl:longitude":28.63867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347613,
+    "qs_pg:gn_pop":37873,
+    "qs_pg:name":"Dipaleseng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":109971,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347613,
+        "qs_pg:id":109971
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042414,
+    "wof:geomhash":"6640f4728435e5a3249592f03cbf0147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "localadmin_id":1125278501,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1125278501,
+    "wof:lastmodified":1509387227,
+    "wof:name":"Dipaleseng",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"localadmin",
+    "wof:population":37873,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63867,
+    -26.78369,
+    28.63867,
+    -26.78369
+],
+  "geometry": {"coordinates":[28.63867,-26.78369],"type":"Point"}
+}

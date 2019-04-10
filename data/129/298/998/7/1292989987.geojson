@@ -1,0 +1,73 @@
+{
+  "id": 1292989987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73333,-27.38333,23.73333,-27.38333",
+    "geom:latitude":-27.38333,
+    "geom:longitude":23.73333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tsaelengwe",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948049,
+    "gn:latitude":-27.38333,
+    "gn:longitude":23.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsaelengwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tselaengwe",
+        "Tsailingwe",
+        "Tsaelengwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948049
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e308d0eec3b7002d837b9cbb8c24313b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1292989987,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1292989987,
+    "wof:lastmodified":1537716374,
+    "wof:name":"Tsaelengwe",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73333,
+    -27.38333,
+    23.73333,
+    -27.38333
+],
+  "geometry": {"coordinates":[23.73333,-27.38333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101925719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":377935.122121,
+    "geom:bbox":"29.3291339874,-26.1060791016,29.3369789124,-26.0991783142",
+    "geom:latitude":-26.102212,
+    "geom:longitude":29.333154,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.1022,
+    "lbl:longitude":29.333079,
+    "mps:latitude":-26.1022,
+    "mps:longitude":29.333079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rethabile",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591643
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"27501d76b671cfe1573337c129c42ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925719,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925719,
+    "wof:lastmodified":1500026382,
+    "wof:name":"Rethabile",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.32913398742676,
+    -26.1060791015625,
+    29.33697891235352,
+    -26.09917831420898
+],
+  "geometry": {"coordinates":[[[29.32913398742676,-26.10356712341309],[29.3311939239502,-26.09943771362305],[29.33697891235352,-26.09917831420898],[29.3345947265625,-26.1060791015625],[29.33418846130371,-26.10593032836914],[29.33358955383301,-26.1057014465332],[29.33299446105957,-26.10546112060547],[29.33240699768066,-26.10520935058594],[29.33182334899902,-26.10494995117188],[29.33124732971191,-26.10467720031738],[29.33067512512207,-26.10439682006836],[29.33011054992676,-26.10410499572754],[29.32955169677734,-26.10380172729492],[29.32913398742676,-26.10356712341309]]],"type":"Polygon"}
+}

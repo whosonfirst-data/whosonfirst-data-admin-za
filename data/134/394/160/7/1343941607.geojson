@@ -1,0 +1,70 @@
+{
+  "id": 1343941607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41192,-26.16353,24.41192,-26.16353",
+    "geom:latitude":-26.16353,
+    "geom:longitude":24.41192,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Piet Plessis",
+    "gn:country_code":"ZA",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965245,
+    "gn:latitude":-26.16353,
+    "gn:longitude":24.41192,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Piet Plessis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965245,
+        "wk:page":"Piet_Plessis"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"26d45d25a252c14a1836461964358cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1343941607,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1343941607,
+    "wof:lastmodified":1537576359,
+    "wof:name":"Piet Plessis",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41192,
+    -26.16353,
+    24.41192,
+    -26.16353
+],
+  "geometry": {"coordinates":[24.41192,-26.16353],"type":"Point"}
+}

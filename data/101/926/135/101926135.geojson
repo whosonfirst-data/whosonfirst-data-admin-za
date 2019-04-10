@@ -1,0 +1,99 @@
+{
+  "id": 101926135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":366539.991267,
+    "geom:bbox":"28.1222553253,-26.3679332733,28.128818512,-26.3580360413",
+    "geom:latitude":-26.362452,
+    "geom:longitude":28.125229,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.361624,
+    "lbl:longitude":28.124732,
+    "mps:latitude":-26.361624,
+    "mps:longitude":28.124732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Thokoza"
+    ],
+    "name:deu_x_preferred":[
+        "Thokoza"
+    ],
+    "name:eng_x_preferred":[
+        "Thokoza"
+    ],
+    "name:fre_x_preferred":[
+        "Thokoza"
+    ],
+    "name:ger_x_preferred":[
+        "Thokoza"
+    ],
+    "name:nso_x_preferred":[
+        "Thokoza"
+    ],
+    "name:por_x_preferred":[
+        "Thokoza"
+    ],
+    "name:zul_x_preferred":[
+        "Thokoza"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tokoza",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":979,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948542,
+        "wd:id":"Q7786667",
+        "wk:page":"Thokoza"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"99a00710ab6fa6200ebb6746c1e79231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926135,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926135,
+    "wof:lastmodified":1527715812,
+    "wof:name":"Tokoza",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12225532531738,
+    -26.36793327331543,
+    28.12881851196289,
+    -26.35803604125977
+],
+  "geometry": {"coordinates":[[[28.12327575683594,-26.35803604125977],[28.12788391113281,-26.35987854003906],[28.12638664245605,-26.36342430114746],[28.12881851196289,-26.36715316772461],[28.12840843200684,-26.36743545532227],[28.12753677368164,-26.36793327331543],[28.12266731262207,-26.36323356628418],[28.12225532531738,-26.35960006713867],[28.12327575683594,-26.35803604125977]]],"type":"Polygon"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85783179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5888489.178577,
+    "geom:bbox":"28.140774,-26.164101,28.140774,-26.164101",
+    "geom:latitude":-26.164101,
+    "geom:longitude":28.140774,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.164101,
+    "lbl:longitude":28.140774,
+    "mps:latitude":-26.162566,
+    "mps:longitude":28.140463,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Essexwold"
+    ],
+    "name:unk_x_variant":[
+        "Essexwold"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":1020590,
+    "qs:gn_nam_loc":"Bedfordview, Ekurhuleni, Ekurhuleni, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":82,
+    "qs:local_sum":157,
+    "qs:localhoods":3,
+    "qs:name":"Essexwold",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Bedfordview",
+    "qs:photo_max":22,
+    "qs:photo_sum":34,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1579697,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925733,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878845,
+        "qs:id":974147,
+        "qs_pg:id":974147
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dd871fdb19bac141ccf7caeda55e0ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925733,
+            "neighbourhood_id":85783179,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783179,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860464,
+    "wof:name":"Essexwold",
+    "wof:parent_id":101925733,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.140774,
+    -26.164101,
+    28.140774,
+    -26.164101
+],
+  "geometry": {"coordinates":[28.140774,-26.164101],"type":"Point"}
+}

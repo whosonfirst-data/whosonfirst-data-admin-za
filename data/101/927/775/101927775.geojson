@@ -1,0 +1,96 @@
+{
+  "id": 101927775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":906591.814457,
+    "geom:bbox":"30.625957489,-29.3453826904,30.640417099,-29.3342342377",
+    "geom:latitude":-29.339777,
+    "geom:longitude":30.634015,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.339329,
+    "lbl:longitude":30.634124,
+    "mps:latitude":-29.339329,
+    "mps:longitude":30.634124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Dalton"
+    ],
+    "name:dut_x_preferred":[
+        "Dalton"
+    ],
+    "name:eng_x_preferred":[
+        "Dalton"
+    ],
+    "name:nso_x_preferred":[
+        "Dalton"
+    ],
+    "name:ron_x_preferred":[
+        "Dalton"
+    ],
+    "name:rum_x_preferred":[
+        "Dalton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dalton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.3333,
+    "wd:longitude":30.6333,
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012080,
+        "gp:id":1580545,
+        "wd:id":"Q3644253",
+        "wk:page":"Dalton, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"942c3356202094bdff4ef3713d449cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927775,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927775,
+    "wof:lastmodified":1527715641,
+    "wof:name":"Dalton",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62595748901367,
+    -29.34538269042969,
+    30.64041709899902,
+    -29.3342342376709
+],
+  "geometry": {"coordinates":[[[30.62689399719238,-29.33792877197266],[30.62595748901367,-29.33698654174805],[30.63372421264648,-29.3342342376709],[30.63680267333984,-29.33717346191406],[30.63911056518555,-29.33966064453125],[30.64041709899902,-29.34433937072754],[30.63396263122559,-29.34538269042969],[30.63296890258789,-29.34312057495117],[30.63266372680664,-29.34257698059082],[30.63138198852539,-29.34155654907227],[30.63009643554688,-29.34053993225098],[30.62778663635254,-29.3387279510498],[30.62689399719238,-29.33792877197266]]],"type":"Polygon"}
+}

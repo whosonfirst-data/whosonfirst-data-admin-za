@@ -1,0 +1,73 @@
+{
+  "id": 1243295519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53157,-32.26681,24.53157,-32.26681",
+    "geom:latitude":-32.26681,
+    "geom:longitude":24.53157,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC101",
+    "gn:asciiname":"Spandau",
+    "gn:country_code":"ZA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":953766,
+    "gn:latitude":-32.26681,
+    "gn:longitude":24.53157,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Spandau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spandauville",
+        "Spandau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":953766
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4b5bd992ed311902357235f6d1f8a755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1243295519,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243295519,
+    "wof:lastmodified":1537716377,
+    "wof:name":"Spandau",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53157,
+    -32.26681,
+    24.53157,
+    -32.26681
+],
+  "geometry": {"coordinates":[24.53157,-32.26681],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209638075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.33513,-30.65773,28.33513,-30.65773",
+    "geom:latitude":-30.65773,
+    "geom:longitude":28.33513,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Tokwana",
+    "gn:country_code":"ZA",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948541,
+    "gn:latitude":-30.65773,
+    "gn:longitude":28.33513,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tokwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thokwana",
+        "Tokwana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948541
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6486e1b7aa31b188c1c17fbd728d4f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209638075
+        }
+    ],
+    "wof:id":1209638075,
+    "wof:lastmodified":1537716374,
+    "wof:name":"Tokwana",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33513,
+    -30.65773,
+    28.33513,
+    -30.65773
+],
+  "geometry": {"coordinates":[28.33513,-30.65773],"type":"Point"}
+}

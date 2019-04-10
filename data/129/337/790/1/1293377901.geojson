@@ -1,0 +1,69 @@
+{
+  "id": 1293377901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09776,-33.14641,18.09776,-33.14641",
+    "geom:latitude":-33.14641,
+    "geom:longitude":18.09776,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC014",
+    "gn:asciiname":"Bottelary",
+    "gn:country_code":"ZA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3369565,
+    "gn:latitude":-33.14641,
+    "gn:longitude":18.09776,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Bottelary",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369565
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0042d1a6feaffcec07f7186720134145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1293377901,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293377901,
+    "wof:lastmodified":1536945449,
+    "wof:name":"Bottelary",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09776,
+    -33.14641,
+    18.09776,
+    -33.14641
+],
+  "geometry": {"coordinates":[18.09776,-33.14641],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193256447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85201,-31.0434,17.85201,-31.0434",
+    "geom:latitude":-31.0434,
+    "geom:longitude":17.85201,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lepelfontein Nedersetting",
+    "gn:country_code":"ZA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3364555,
+    "gn:latitude":-31.0434,
+    "gn:longitude":17.85201,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Lepelfontein Nedersetting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364555
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"78e45a25f574dfd76b238813cde3b411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1193256447,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1193256447,
+    "wof:lastmodified":1536363983,
+    "wof:name":"Lepelfontein Nedersetting",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85201,
+    -31.0434,
+    17.85201,
+    -31.0434
+],
+  "geometry": {"coordinates":[17.85201,-31.0434],"type":"Point"}
+}

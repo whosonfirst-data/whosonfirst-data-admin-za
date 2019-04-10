@@ -1,0 +1,73 @@
+{
+  "id": 101926371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":1094123.689307,
+    "geom:bbox":"27.2541332245,-26.6173458099,27.2677230835,-26.6047992706",
+    "geom:latitude":-26.61118,
+    "geom:longitude":27.261028,
+    "geonames:id":"989788,989787",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.611791,
+    "lbl:longitude":27.261697,
+    "mps:latitude":-26.611791,
+    "mps:longitude":27.261697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Klipdrift",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580285
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a13e997db0bc8835296c440e53062fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926371,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926371,
+    "wof:lastmodified":1500027713,
+    "wof:name":"Klipdrift",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2541332244873,
+    -26.61734580993652,
+    27.26772308349609,
+    -26.60479927062988
+],
+  "geometry": {"coordinates":[[[27.25995063781738,-26.60581970214844],[27.2652759552002,-26.60941123962402],[27.26705741882324,-26.6109561920166],[27.26769256591797,-26.61357116699219],[27.26772308349609,-26.61514663696289],[27.2653980255127,-26.61570739746094],[27.26134300231934,-26.61734580993652],[27.25957107543945,-26.61632347106934],[27.25778961181641,-26.61477661132812],[27.25773811340332,-26.61215400695801],[27.25596618652344,-26.61113166809082],[27.2541332244873,-26.60696220397949],[27.25643730163574,-26.60535049438477],[27.2581787109375,-26.60479927062988],[27.25995063781738,-26.60581970214844]]],"type":"Polygon"}
+}

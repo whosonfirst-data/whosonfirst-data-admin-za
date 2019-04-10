@@ -1,0 +1,121 @@
+{
+  "id": 1125803383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86939,-29.254999,16.86939,-29.254999",
+    "geom:latitude":-29.254999,
+    "geom:longitude":16.86939,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.254999,
+    "lbl:longitude":16.86939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u6d1b\u65af\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:eng_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:ger_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:ita_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30ce\u30ed\u30b9"
+    ],
+    "name:rum_x_preferred":[
+        "Port Nolloth"
+    ],
+    "name:swe_x_preferred":[
+        "Port Nolloth"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3362713,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Port Nolloth",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":492982,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586616,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3362713,
+        "gp:id":1586616,
+        "qs_pg:id":492982,
+        "wd:id":"Q993170"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152356
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291364,
+    "wof:geomhash":"b46be526009e2fc03bd0eb8319a6bb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125803383,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125803383,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Port Nolloth",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125781111
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86939,
+    -29.254999,
+    16.86939,
+    -29.254999
+],
+  "geometry": {"coordinates":[16.86939,-29.254999],"type":"Point"}
+}

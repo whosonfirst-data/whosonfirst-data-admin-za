@@ -1,0 +1,127 @@
+{
+  "id": 85772195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1698148.222384,
+    "geom:bbox":"18.4625244141,-34.050383631,18.4762573242,-34.035846956",
+    "geom:latitude":-34.044001,
+    "geom:longitude":18.469966,
+    "gn:latitude":-34.04765,
+    "gn:longitude":18.46808,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.05124,
+    "lbl:longitude":18.467159,
+    "mps:latitude":-34.044027,
+    "mps:longitude":18.470096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Heathfield"
+    ],
+    "name:deu_x_preferred":[
+        "Heathfield"
+    ],
+    "name:eng_x_preferred":[
+        "Heathfield"
+    ],
+    "name:ita_x_preferred":[
+        "Heathfield"
+    ],
+    "name:pol_x_preferred":[
+        "Heathfield"
+    ],
+    "name:swe_x_preferred":[
+        "Heathfield"
+    ],
+    "name:unk_x_variant":[
+        "Heathfield"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Heathfield",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Heathfield",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":2,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366939,
+        "gp:id":1582155,
+        "qs:id":1013672,
+        "qs_pg:id":1013672
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c97e7affdfdd868ae426807659018ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772195,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772195,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639408,
+    "wof:name":"Heathfield",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46252441407916,
+    -34.05038363097488,
+    18.47625732422512,
+    -34.03584695601796
+],
+  "geometry": {"coordinates":[[[18.47093577419321,-34.03584919700776],[18.47251232731344,-34.0360044739372],[18.47251169297499,-34.03600328717363],[18.47250674536093,-34.03598697707547],[18.47625732422512,-34.03900437367489],[18.47625732422512,-34.05038363097488],[18.46801757812511,-34.05038363097488],[18.46440990880149,-34.05038363097488],[18.46252446468111,-34.04810808489887],[18.46252441410013,-34.04810808489994],[18.46252441409285,-34.04810802384016],[18.46252441408546,-34.04355650410003],[18.46252441407916,-34.0435564430248],[18.46801757812511,-34.03692708877844],[18.46811177036818,-34.03669973938864],[18.47093850484748,-34.03584695601796],[18.47093577419321,-34.03584919700776]]],"type":"Polygon"}
+}

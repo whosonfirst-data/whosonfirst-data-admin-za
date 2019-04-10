@@ -1,0 +1,69 @@
+{
+  "id": 1259683177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.49133,-31.07282,28.49133,-31.07282",
+    "geom:latitude":-31.07282,
+    "geom:longitude":28.49133,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Tsitsa",
+    "gn:country_code":"ZA",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947771,
+    "gn:latitude":-31.07282,
+    "gn:longitude":28.49133,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tsitsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947771
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f14fcb62238b8da0d92c9ca39f4d0e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1259683177,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259683177,
+    "wof:lastmodified":1537064613,
+    "wof:name":"Tsitsa",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.49133,
+    -31.07282,
+    28.49133,
+    -31.07282
+],
+  "geometry": {"coordinates":[28.49133,-31.07282],"type":"Point"}
+}

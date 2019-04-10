@@ -1,0 +1,79 @@
+{
+  "id": 101925775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000321,
+    "geom:area_square_m":3563947.388229,
+    "geom:bbox":"28.3616218567,-26.1413383484,28.3826332092,-26.1136703491",
+    "geom:latitude":-26.127871,
+    "geom:longitude":28.371477,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.128707,
+    "lbl:longitude":28.369726,
+    "mps:latitude":-26.128707,
+    "mps:longitude":28.369726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Crystal Park"
+    ],
+    "name:swe_x_preferred":[
+        "Crystal Park"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Crystal Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579744
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3cec4d9782576c81fc98937e764830cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925775,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925775,
+    "wof:lastmodified":1527688524,
+    "wof:name":"Crystal Park",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36162185668945,
+    -26.14133834838867,
+    28.38263320922852,
+    -26.11367034912109
+],
+  "geometry": {"coordinates":[[[28.36475563049316,-26.12159729003906],[28.36954498291016,-26.11777877807617],[28.37433052062988,-26.11367034912109],[28.38263320922852,-26.1232738494873],[28.38068962097168,-26.12441062927246],[28.37775421142578,-26.12209129333496],[28.37495040893555,-26.12400245666504],[28.37800979614258,-26.1285400390625],[28.37977600097656,-26.13170623779297],[28.37966728210449,-26.134033203125],[28.37850570678711,-26.13678359985352],[28.3748893737793,-26.14133834838867],[28.36971855163574,-26.13596153259277],[28.36187553405762,-26.13693237304688],[28.36162185668945,-26.13069534301758],[28.36475563049316,-26.12159729003906]]],"type":"Polygon"}
+}

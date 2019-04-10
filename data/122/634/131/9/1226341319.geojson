@@ -1,0 +1,69 @@
+{
+  "id": 1226341319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56383,-33.16621,25.56383,-33.16621",
+    "geom:latitude":-33.16621,
+    "geom:longitude":25.56383,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC102",
+    "gn:asciiname":"Renosterfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":962754,
+    "gn:latitude":-33.16621,
+    "gn:longitude":25.56383,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Renosterfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962754
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2a8e5649c8c5f19769ae4b2249f47c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1226341319,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226341319,
+    "wof:lastmodified":1536796096,
+    "wof:name":"Renosterfontein",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56383,
+    -33.16621,
+    25.56383,
+    -33.16621
+],
+  "geometry": {"coordinates":[25.56383,-33.16621],"type":"Point"}
+}

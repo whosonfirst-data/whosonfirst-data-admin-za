@@ -1,0 +1,73 @@
+{
+  "id": 1259884711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65394,-31.12437,28.65394,-31.12437",
+    "geom:latitude":-31.12437,
+    "geom:longitude":28.65394,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Sinqungweni",
+    "gn:country_code":"ZA",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955480,
+    "gn:latitude":-31.12437,
+    "gn:longitude":28.65394,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sinqungweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigungqwini",
+        "Sinqungweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955480
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"febf3112315885b94ae6c37cc4049e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1259884711,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259884711,
+    "wof:lastmodified":1537716378,
+    "wof:name":"Sinqungweni",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65394,
+    -31.12437000000001,
+    28.65394,
+    -31.12437000000001
+],
+  "geometry": {"coordinates":[28.65394,-31.12437000000001],"type":"Point"}
+}

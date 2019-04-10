@@ -1,0 +1,69 @@
+{
+  "id": 1360008417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41943,-30.60767,28.41943,-30.60767",
+    "geom:latitude":-30.60767,
+    "geom:longitude":28.41943,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Fletcherville",
+    "gn:country_code":"ZA",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004192,
+    "gn:latitude":-30.60767,
+    "gn:longitude":28.41943,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Fletcherville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004192
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d4b7efc4e2871f7e0484b092b5369356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1360008417,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1360008417,
+    "wof:lastmodified":1537053939,
+    "wof:name":"Fletcherville",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41943,
+    -30.60767,
+    28.41943,
+    -30.60767
+],
+  "geometry": {"coordinates":[28.41943,-30.60767],"type":"Point"}
+}

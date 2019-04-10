@@ -1,0 +1,72 @@
+{
+  "id": 101924881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1297543.153332,
+    "geom:bbox":"29.0116081238,-25.0724525452,29.0320167542,-25.0632019043",
+    "geom:latitude":-25.068459,
+    "geom:longitude":29.021984,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.067991,
+    "lbl:longitude":29.022178,
+    "mps:latitude":-25.067991,
+    "mps:longitude":29.022178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ramokgeletsane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587553
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c9047ce447c8c3220fbc0f793e218652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924881,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924881,
+    "wof:lastmodified":1500026350,
+    "wof:name":"Ramokgeletsane",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0116081237793,
+    -25.07245254516602,
+    29.03201675415039,
+    -25.06320190429688
+],
+  "geometry": {"coordinates":[[[29.01526641845703,-25.06559181213379],[29.01734733581543,-25.06574249267578],[29.02212524414062,-25.06320190429688],[29.02730560302734,-25.06621551513672],[29.03161430358887,-25.06637954711914],[29.03201675415039,-25.07077217102051],[29.0116081237793,-25.07245254516602],[29.01526641845703,-25.06559181213379]]],"type":"Polygon"}
+}

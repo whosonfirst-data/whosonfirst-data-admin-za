@@ -1,0 +1,81 @@
+{
+  "id": 101924925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00016,
+    "geom:area_square_m":1786533.129865,
+    "geom:bbox":"29.7397556305,-25.1097679138,29.7535820007,-25.0914955139",
+    "geom:latitude":-25.100567,
+    "geom:longitude":29.745714,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.100881,
+    "lbl:longitude":29.745846,
+    "mps:latitude":-25.100881,
+    "mps:longitude":29.745846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u043b\u0430"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mathula",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978284,
+        "gp:id":1591643
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fec70a1922f1c5e0cfa5a40fad04842d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101924925,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924925,
+    "wof:lastmodified":1534986005,
+    "wof:name":"Mathula",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615623
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73975563049316,
+    -25.10976791381836,
+    29.75358200073242,
+    -25.09149551391602
+],
+  "geometry": {"coordinates":[[[29.74106979370117,-25.09679222106934],[29.73993301391602,-25.09293937683105],[29.74460792541504,-25.09149551391602],[29.74641418457031,-25.09554862976074],[29.74997138977051,-25.09350204467773],[29.75358200073242,-25.10120010375977],[29.74515724182129,-25.10976791381836],[29.73975563049316,-25.10677719116211],[29.74064445495605,-25.10044860839844],[29.74106979370117,-25.09679222106934]]],"type":"Polygon"}
+}

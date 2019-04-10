@@ -1,0 +1,69 @@
+{
+  "id": 1242566803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10067,-25.0605,27.10067,-25.0605",
+    "geom:latitude":-25.0605,
+    "geom:longitude":27.10067,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC37",
+    "gn:admin3_code":"NW375",
+    "gn:asciiname":"Lesobeng",
+    "gn:country_code":"ZA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983060,
+    "gn:latitude":-25.0605,
+    "gn:longitude":27.10067,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lesobeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983060
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a5ce530a954f5a42c919f5522eaf883f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":1242566803,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1242566803,
+    "wof:lastmodified":1537076109,
+    "wof:name":"Lesobeng",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10067,
+    -25.0605,
+    27.10067,
+    -25.0605
+],
+  "geometry": {"coordinates":[27.10067,-25.0605],"type":"Point"}
+}

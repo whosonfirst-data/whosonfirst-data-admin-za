@@ -1,0 +1,92 @@
+{
+  "id": 101926975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1541077.469257,
+    "geom:bbox":"27.0552654266,-28.9486808777,27.0706939697,-28.9321575165",
+    "geom:latitude":-28.940194,
+    "geom:longitude":27.063101,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.940051,
+    "lbl:longitude":27.063217,
+    "mps:latitude":-28.940051,
+    "mps:longitude":27.063217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Excelsior"
+    ],
+    "name:dut_x_preferred":[
+        "Excelsior"
+    ],
+    "name:eng_x_preferred":[
+        "Excelsior"
+    ],
+    "name:fre_x_preferred":[
+        "Excelsior"
+    ],
+    "name:nso_x_preferred":[
+        "Excelsior"
+    ],
+    "name:rum_x_preferred":[
+        "Excelsior"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Excelsior",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004763,
+        "gp:id":1589602,
+        "wd:id":"Q3642344"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"48edc9ae7614d4689ab742a23f953f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926975,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926975,
+    "wof:lastmodified":1514503863,
+    "wof:name":"Excelsior",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05526542663574,
+    -28.94868087768555,
+    27.07069396972656,
+    -28.93215751647949
+],
+  "geometry": {"coordinates":[[[27.06592750549316,-28.94868087768555],[27.06452560424805,-28.94843482971191],[27.05526542663574,-28.93709182739258],[27.05526542663574,-28.93561172485352],[27.05666542053223,-28.93314552307129],[27.05806732177734,-28.93240547180176],[27.05918884277344,-28.93215751647949],[27.06171226501465,-28.93264961242676],[27.06423759460449,-28.93486785888672],[27.06847190856934,-28.93962287902832],[27.06928825378418,-28.94053840637207],[27.06984901428223,-28.9417724609375],[27.07041168212891,-28.94374465942383],[27.07069396972656,-28.94522476196289],[27.06957244873047,-28.94645881652832],[27.0676097869873,-28.94818687438965],[27.06592750549316,-28.94868087768555]]],"type":"Polygon"}
+}

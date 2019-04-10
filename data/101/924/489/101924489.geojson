@@ -1,0 +1,73 @@
+{
+  "id": 101924489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":2076946.480448,
+    "geom:bbox":"31.2099876404,-24.6402568817,31.2257232666,-24.6162128448",
+    "geom:latitude":-24.627862,
+    "geom:longitude":31.217528,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.628156,
+    "lbl:longitude":31.216992,
+    "mps:latitude":-24.628156,
+    "mps:longitude":31.216992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KHOKHOVELA",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991102,
+        "gp:id":1579365
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3baee3ed8a42f8197574ad3056cfb294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924489,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924489,
+    "wof:lastmodified":1500026356,
+    "wof:name":"Khokhovela",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20998764038086,
+    -24.64025688171387,
+    31.22572326660156,
+    -24.61621284484863
+],
+  "geometry": {"coordinates":[[[31.21805572509766,-24.61621284484863],[31.22522926330566,-24.61757659912109],[31.22572326660156,-24.62302398681641],[31.22264671325684,-24.62509918212891],[31.22092437744141,-24.62837219238281],[31.21922302246094,-24.63286590576172],[31.21665382385254,-24.63858985900879],[31.21356964111328,-24.64025688171387],[31.21134185791016,-24.63988304138184],[31.20998764038086,-24.6386833190918],[31.21037864685059,-24.63542747497559],[31.21334457397461,-24.62685394287109],[31.21505928039551,-24.6231746673584],[31.21723365783691,-24.62030029296875],[31.21805572509766,-24.61621284484863]]],"type":"Polygon"}
+}

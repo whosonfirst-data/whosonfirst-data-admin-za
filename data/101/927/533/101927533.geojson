@@ -1,0 +1,72 @@
+{
+  "id": 101927533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":649092.406643,
+    "geom:bbox":"31.6437320709,-27.8541889191,31.6518573761,-27.8415622711",
+    "geom:latitude":-27.846441,
+    "geom:longitude":31.648629,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.8448,
+    "lbl:longitude":31.64869,
+    "mps:latitude":-27.8448,
+    "mps:longitude":31.64869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Royal Kraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1590898
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"280d6fd33bd00d6da01741293fb8f704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927533,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927533,
+    "wof:lastmodified":1500027510,
+    "wof:name":"Royal Kraal",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64373207092285,
+    -27.85418891906738,
+    31.65185737609863,
+    -27.84156227111816
+],
+  "geometry": {"coordinates":[[[31.64432907104492,-27.8438892364502],[31.64445114135742,-27.84181594848633],[31.65005111694336,-27.84156227111816],[31.65132141113281,-27.84178161621094],[31.65185737609863,-27.84651565551758],[31.6511116027832,-27.84900093078613],[31.6511287689209,-27.85170745849609],[31.65114402770996,-27.85418891906738],[31.64911270141602,-27.85397338867188],[31.64807891845703,-27.85104560852051],[31.64780616760254,-27.8478889465332],[31.64602088928223,-27.84654426574707],[31.64373207092285,-27.84565353393555],[31.64432907104492,-27.8438892364502]]],"type":"Polygon"}
+}

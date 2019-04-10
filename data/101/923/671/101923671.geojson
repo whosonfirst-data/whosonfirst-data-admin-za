@@ -1,0 +1,81 @@
+{
+  "id": 101923671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000446,
+    "geom:area_square_m":5013699.459246,
+    "geom:bbox":"28.700630188,-24.5294380188,28.7327156067,-24.5024452209",
+    "geom:latitude":-24.51625,
+    "geom:longitude":28.716593,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.515866,
+    "lbl:longitude":28.716836,
+    "mps:latitude":-24.515866,
+    "mps:longitude":28.716836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mookgophong"
+    ],
+    "name:unk_x_variant":[
+        "Naboomsruit"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Naboomspruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972206,
+        "gp:id":1585623,
+        "wd:id":"Q2568503",
+        "wk:page":"Mookgophong"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"08152b59b81c3097101c464dea6bee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923671,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923671,
+    "wof:lastmodified":1501216577,
+    "wof:name":"Naboomspruit",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70063018798828,
+    -24.52943801879883,
+    28.73271560668945,
+    -24.50244522094727
+],
+  "geometry": {"coordinates":[[[28.71815872192383,-24.52683448791504],[28.71414947509766,-24.52943801879883],[28.70748138427734,-24.52412414550781],[28.70063018798828,-24.51866340637207],[28.70907783508301,-24.51011085510254],[28.71664810180664,-24.50244522094727],[28.72372627258301,-24.5075511932373],[28.73271560668945,-24.51403427124023],[28.73127174377441,-24.5158748626709],[28.72771072387695,-24.5195255279541],[28.72326278686523,-24.52358055114746],[28.71815872192383,-24.52683448791504]]],"type":"Polygon"}
+}

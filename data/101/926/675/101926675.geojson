@@ -1,0 +1,72 @@
+{
+  "id": 101926675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":379742.124052,
+    "geom:bbox":"26.6581287384,-27.7677211761,26.6646823883,-27.7578048706",
+    "geom:latitude":-27.762756,
+    "geom:longitude":26.661477,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.762812,
+    "lbl:longitude":26.661477,
+    "mps:latitude":-27.762812,
+    "mps:longitude":26.661477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lorraine Gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579418
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2c513fad6c91c593c209c7a99642cc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926675,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926675,
+    "wof:lastmodified":1500027656,
+    "wof:name":"Lorraine Gold Mine",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65812873840332,
+    -27.76772117614746,
+    26.66468238830566,
+    -27.75780487060547
+],
+  "geometry": {"coordinates":[[[26.66189193725586,-27.75780487060547],[26.66230583190918,-27.75912666320801],[26.66386985778809,-27.76412582397461],[26.66468238830566,-27.76671981811523],[26.66130638122559,-27.76772117614746],[26.65812873840332,-27.75915908813477],[26.66189193725586,-27.75780487060547]]],"type":"Polygon"}
+}

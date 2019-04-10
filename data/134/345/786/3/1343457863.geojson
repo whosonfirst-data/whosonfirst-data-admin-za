@@ -1,0 +1,69 @@
+{
+  "id": 1343457863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.89117,-32.02529,28.89117,-32.02529",
+    "geom:latitude":-32.02529,
+    "geom:longitude":28.89117,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Mtshekelweni",
+    "gn:country_code":"ZA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972820,
+    "gn:latitude":-32.02529,
+    "gn:longitude":28.89117,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mtshekelweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972820
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"989962d0fd92ff91056d2f9b444fb2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1343457863,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343457863,
+    "wof:lastmodified":1536749815,
+    "wof:name":"Mtshekelweni",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89117,
+    -32.02529000000001,
+    28.89117,
+    -32.02529000000001
+],
+  "geometry": {"coordinates":[28.89117,-32.02529000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101928477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1739725.777745,
+    "geom:bbox":"28.5597667694,-30.9292812347,28.5715084076,-30.9073753357",
+    "geom:latitude":-30.917508,
+    "geom:longitude":28.565141,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.917192,
+    "lbl:longitude":28.565029,
+    "mps:latitude":-30.917192,
+    "mps:longitude":28.565029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eMoyeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973382,
+        "gp:id":1585422
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"28d9d680406718c1e50c2648a3a256b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":101928477,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928477,
+    "wof:lastmodified":1500027912,
+    "wof:name":"eMoyeni",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55976676940918,
+    -30.92928123474121,
+    28.57150840759277,
+    -30.90737533569336
+],
+  "geometry": {"coordinates":[[[28.56307029724121,-30.91008186340332],[28.56649017333984,-30.90737533569336],[28.57002258300781,-30.90880966186523],[28.5714054107666,-30.91141700744629],[28.57150840759277,-30.91518020629883],[28.56652069091797,-30.92431831359863],[28.56316375732422,-30.92928123474121],[28.5614070892334,-30.92894172668457],[28.55998420715332,-30.92482948303223],[28.55976676940918,-30.91692733764648],[28.56307029724121,-30.91008186340332]]],"type":"Polygon"}
+}

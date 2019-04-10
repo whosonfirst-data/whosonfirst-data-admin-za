@@ -1,0 +1,63 @@
+{
+  "id": 1209219445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68255,-30.90852,28.68255,-30.90852",
+    "geom:latitude":-30.90852,
+    "geom:longitude":28.68255,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"eLundi",
+    "gn:country_code":"ZA",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005706,
+    "gn:latitude":-30.90852,
+    "gn:longitude":28.68255,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"eLundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005706
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"080792118554805ec374fe28a8432201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209219445
+        }
+    ],
+    "wof:id":1209219445,
+    "wof:lastmodified":1536294015,
+    "wof:name":"eLundi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68255,
+    -30.908520000000006,
+    28.68255,
+    -30.908520000000006
+],
+  "geometry": {"coordinates":[28.68255,-30.90852000000001],"type":"Point"}
+}

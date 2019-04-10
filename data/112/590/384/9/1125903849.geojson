@@ -1,0 +1,117 @@
+{
+  "id": 1125903849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59567,-30.9683,27.59567,-30.9683",
+    "geom:latitude":-30.9683,
+    "geom:longitude":27.59567,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.9683,
+    "lbl:longitude":27.59567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Barkly-Oos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u5df4\u514b\u5229"
+    ],
+    "name:dut_x_preferred":[
+        "Barkly East"
+    ],
+    "name:eng_x_preferred":[
+        "Barkly East"
+    ],
+    "name:fre_x_preferred":[
+        "Barkly East"
+    ],
+    "name:ger_x_preferred":[
+        "Barkly East"
+    ],
+    "name:ita_x_preferred":[
+        "Barkly East"
+    ],
+    "name:nso_x_preferred":[
+        "Barkly East"
+    ],
+    "name:rum_x_preferred":[
+        "Barkly-Oos"
+    ],
+    "name:spa_x_preferred":[
+        "Barkly East"
+    ],
+    "name:tsn_x_preferred":[
+        "Barkly East"
+    ],
+    "name:unk_x_variant":[
+        "Barkley East"
+    ],
+    "name:ven_x_preferred":[
+        "Barkly East"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5df4\u514b\u5229"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1021046,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Barkly East",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1030276,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021046,
+        "qs_pg:id":1030276,
+        "wd:id":"Q808291"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295914,
+    "wof:geomhash":"5d29c9e6c32fd840bc63dd81793cb8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1125903849,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125903849,
+    "wof:lastmodified":1514503478,
+    "wof:name":"Barkly East",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59567,
+    -30.9683,
+    27.59567,
+    -30.9683
+],
+  "geometry": {"coordinates":[27.59567,-30.9683],"type":"Point"}
+}

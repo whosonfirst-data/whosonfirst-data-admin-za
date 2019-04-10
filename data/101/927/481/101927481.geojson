@@ -1,0 +1,93 @@
+{
+  "id": 101927481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000062,
+    "geom:area_square_m":678708.871915,
+    "geom:bbox":"31.0198001862,-27.7221031189,31.0334835052,-27.713104248",
+    "geom:latitude":-27.717193,
+    "geom:longitude":31.02612,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.716946,
+    "lbl:longitude":31.026017,
+    "mps:latitude":-27.716946,
+    "mps:longitude":31.026017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Hlobane"
+    ],
+    "name:dut_x_preferred":[
+        "Hlobane"
+    ],
+    "name:eng_x_preferred":[
+        "Hlobane"
+    ],
+    "name:nso_x_preferred":[
+        "Hlobane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hlobane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.71,
+    "wd:longitude":30.999,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996289,
+        "gp:id":1588484,
+        "wd:id":"Q15224305"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"682125fab8573975d1f4beb64484c7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927481,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927481,
+    "wof:lastmodified":1534985997,
+    "wof:name":"Hlobane",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01980018615723,
+    -27.72210311889648,
+    31.03348350524902,
+    -27.71310424804688
+],
+  "geometry": {"coordinates":[[[31.03044509887695,-27.71784019470215],[31.0257625579834,-27.72155570983887],[31.02507209777832,-27.72210311889648],[31.01980018615723,-27.71806716918945],[31.02486801147461,-27.71332931518555],[31.02638816833496,-27.71310424804688],[31.03348350524902,-27.71580505371094],[31.0318717956543,-27.71681976318359],[31.03044509887695,-27.71784019470215]]],"type":"Polygon"}
+}

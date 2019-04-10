@@ -1,0 +1,111 @@
+{
+  "id": 1125801229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88359,-33.83308,24.88359,-33.83308",
+    "geom:latitude":-33.83308,
+    "geom:longitude":24.88359,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.83308,
+    "lbl:longitude":24.88359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hankey"
+    ],
+    "name:dan_x_preferred":[
+        "Hankey"
+    ],
+    "name:dut_x_preferred":[
+        "Hankey"
+    ],
+    "name:eng_x_preferred":[
+        "Hankey"
+    ],
+    "name:fre_x_preferred":[
+        "Hankey"
+    ],
+    "name:nso_x_preferred":[
+        "Hankey"
+    ],
+    "name:rum_x_preferred":[
+        "Hankey"
+    ],
+    "name:swe_x_preferred":[
+        "Hankey"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":998001,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hankey",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":130246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582086,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998001,
+        "gp:id":1582086,
+        "qs_pg:id":130246,
+        "wd:id":"Q3643291"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291269,
+    "wof:geomhash":"51a05c4d7d1599d546d149366495ca54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125801229,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125801229,
+    "wof:lastmodified":1514503913,
+    "wof:name":"Hankey",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88359,
+    -33.83308,
+    24.88359,
+    -33.83308
+],
+  "geometry": {"coordinates":[24.88359,-33.83308],"type":"Point"}
+}

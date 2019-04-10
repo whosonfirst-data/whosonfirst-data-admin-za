@@ -1,0 +1,69 @@
+{
+  "id": 1276131559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55976,-28.76522,31.55976,-28.76522",
+    "geom:latitude":-28.76522,
+    "geom:longitude":31.55976,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC28",
+    "gn:admin3_code":"KZN284",
+    "gn:asciiname":"Covington",
+    "gn:country_code":"ZA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012626,
+    "gn:latitude":-28.76522,
+    "gn:longitude":31.55976,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Covington",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012626
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c9fa6cfe78e35f5743f6ed2e9526e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":1276131559,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276131559,
+    "wof:lastmodified":1537046966,
+    "wof:name":"Covington",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55976,
+    -28.76522000000001,
+    31.55976,
+    -28.76522000000001
+],
+  "geometry": {"coordinates":[31.55976,-28.76522000000001],"type":"Point"}
+}

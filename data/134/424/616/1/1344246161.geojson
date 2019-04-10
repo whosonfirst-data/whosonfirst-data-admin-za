@@ -1,0 +1,75 @@
+{
+  "id": 1344246161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23514,-27.23712,26.23514,-27.23712",
+    "geom:latitude":-27.23712,
+    "geom:longitude":26.23514,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC40",
+    "gn:admin3_code":"NW404",
+    "gn:asciiname":"Leeudoringstad",
+    "gn:country_code":"ZA",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984012,
+    "gn:latitude":-27.23712,
+    "gn:longitude":26.23514,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Leeudoringstad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leeuwdoornsstad",
+        "Leeuwdoornstad",
+        "Leeudoringstad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984012,
+        "wk:page":"Leeudoringstad"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cafc09e69ce18928d0c71393400e05c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":1344246161,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1344246161,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leeudoringstad",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23514,
+    -27.23712,
+    26.23514,
+    -27.23712
+],
+  "geometry": {"coordinates":[26.23514,-27.23712],"type":"Point"}
+}

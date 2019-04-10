@@ -1,0 +1,72 @@
+{
+  "id": 101923871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":382403.81944,
+    "geom:bbox":"30.0185127258,-22.3564567566,30.0275764465,-22.3502674103",
+    "geom:latitude":-22.353285,
+    "geom:longitude":30.022351,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.353434,
+    "lbl:longitude":30.02235,
+    "mps:latitude":-22.353434,
+    "mps:longitude":30.02235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bergview",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584914
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c345186b468d836cca057ed436a87905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923871,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923871,
+    "wof:lastmodified":1500028390,
+    "wof:name":"Bergview",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01851272583008,
+    -22.3564567565918,
+    30.0275764465332,
+    -22.35026741027832
+],
+  "geometry": {"coordinates":[[[30.02081871032715,-22.35623168945312],[30.01854515075684,-22.3564567565918],[30.01851272583008,-22.35198783874512],[30.0275764465332,-22.35026741027832],[30.02706909179688,-22.35144233703613],[30.02594947814941,-22.35356330871582],[30.02334213256836,-22.35520553588867],[30.02081871032715,-22.35623168945312]]],"type":"Polygon"}
+}

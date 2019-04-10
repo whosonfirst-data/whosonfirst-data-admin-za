@@ -1,0 +1,101 @@
+{
+  "id": 101924683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00026,
+    "geom:area_square_m":2865244.771156,
+    "geom:bbox":"23.6090545654,-27.1272735596,23.634393692,-27.11003685",
+    "geom:latitude":-27.119352,
+    "geom:longitude":23.621047,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.118841,
+    "lbl:longitude":23.620806,
+    "mps:latitude":-27.118841,
+    "mps:longitude":23.620806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Dewar"
+    ],
+    "name:ita_x_preferred":[
+        "Dewar"
+    ],
+    "name:nld_x_preferred":[
+        "Dewar"
+    ],
+    "name:pol_x_preferred":[
+        "Dewar"
+    ],
+    "name:por_x_preferred":[
+        "Dewar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044c\u044e\u0430\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Dewar"
+    ],
+    "name:spa_x_preferred":[
+        "Dewar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044c\u044e\u0430\u0440"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dewar",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010600,
+        "gp:id":1588708
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f8662ff8a17b91b162e44aaa1ab0ce83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":101924683,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":101924683,
+    "wof:lastmodified":1527677690,
+    "wof:name":"Dewar",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60905456542969,
+    -27.12727355957031,
+    23.6343936920166,
+    -27.11003684997559
+],
+  "geometry": {"coordinates":[[[23.61752510070801,-27.11003684997559],[23.6343936920166,-27.11609268188477],[23.62674903869629,-27.12570571899414],[23.61449432373047,-27.12727355957031],[23.60905456542969,-27.12331962585449],[23.61752510070801,-27.11003684997559]]],"type":"Polygon"}
+}

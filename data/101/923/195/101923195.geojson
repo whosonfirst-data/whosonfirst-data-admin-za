@@ -1,0 +1,72 @@
+{
+  "id": 101923195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":855738.13779,
+    "geom:bbox":"27.9038734436,-23.2287311554,27.9166641235,-23.2197551727",
+    "geom:latitude":-23.224161,
+    "geom:longitude":27.910012,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.224146,
+    "lbl:longitude":27.910012,
+    "mps:latitude":-23.224146,
+    "mps:longitude":27.910012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mmatshwaana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579688
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d5b78b18351aa0b5f970e458f7cb93cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923195,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923195,
+    "wof:lastmodified":1500028345,
+    "wof:name":"Mmatshwaana",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90387344360352,
+    -23.22873115539551,
+    27.91666412353516,
+    -23.21975517272949
+],
+  "geometry": {"coordinates":[[[27.90387344360352,-23.22663497924805],[27.90433311462402,-23.22419929504395],[27.90522956848145,-23.2221736907959],[27.90656280517578,-23.22055816650391],[27.90788841247559,-23.21975517272949],[27.91666412353516,-23.22184753417969],[27.91308975219727,-23.22873115539551],[27.90387344360352,-23.22663497924805]]],"type":"Polygon"}
+}

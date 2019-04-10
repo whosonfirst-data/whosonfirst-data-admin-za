@@ -1,0 +1,67 @@
+{
+  "id": 1209514469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04905,-33.4659,26.04905,-33.4659",
+    "geom:latitude":-33.4659,
+    "geom:longitude":26.04905,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC106",
+    "gn:asciiname":"Longlee",
+    "gn:country_code":"ZA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":982246,
+    "gn:latitude":-33.4659,
+    "gn:longitude":26.04905,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Longlee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langley",
+        "Longlee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982246
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"564bb283af5cc31e7577c0a56d852e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209514469
+        }
+    ],
+    "wof:id":1209514469,
+    "wof:lastmodified":1537716411,
+    "wof:name":"Longlee",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04905,
+    -33.4659,
+    26.04905,
+    -33.4659
+],
+  "geometry": {"coordinates":[26.04905,-33.4659],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276584079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56236,-30.53507,27.56236,-30.53507",
+    "geom:latitude":-30.53507,
+    "geom:longitude":27.56236,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC142",
+    "gn:asciiname":"Cebano",
+    "gn:country_code":"ZA",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1013857,
+    "gn:latitude":-30.53507,
+    "gn:longitude":27.56236,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Cebano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013857
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fc67ddf931cdb9a18e6bd172367eea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1276584079,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276584079,
+    "wof:lastmodified":1536941024,
+    "wof:name":"Cebano",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56236,
+    -30.53507,
+    27.56236,
+    -30.53507
+],
+  "geometry": {"coordinates":[27.56236,-30.53507],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101926223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":1144937.385638,
+    "geom:bbox":"27.8974781036,-26.4173793793,27.9094982147,-26.4054794312",
+    "geom:latitude":-26.411501,
+    "geom:longitude":27.903123,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.411643,
+    "lbl:longitude":27.903009,
+    "mps:latitude":-26.411643,
+    "mps:longitude":27.903009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Grasmere"
+    ],
+    "name:deu_x_preferred":[
+        "Grasmere"
+    ],
+    "name:fra_x_preferred":[
+        "Grasmere"
+    ],
+    "name:ita_x_preferred":[
+        "Grasmere"
+    ],
+    "name:nld_x_preferred":[
+        "Grasmere"
+    ],
+    "name:pol_x_preferred":[
+        "Grasmere"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Grasmere",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":54.458089,
+    "wd:longitude":-3.024589,
+    "wd:wordcount":1204,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000325
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"04bc258445be738e6a2aea8f35d5d9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101926223,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926223,
+    "wof:lastmodified":1527715817,
+    "wof:name":"Grasmere",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8974781036377,
+    -26.41737937927246,
+    27.90949821472168,
+    -26.40547943115234
+],
+  "geometry": {"coordinates":[[[27.89993476867676,-26.41737937927246],[27.8974781036377,-26.40802955627441],[27.89802551269531,-26.40699768066406],[27.89862823486328,-26.40562438964844],[27.90380859375,-26.40547943115234],[27.90604400634766,-26.40822792053223],[27.90766906738281,-26.40859413146973],[27.90787124633789,-26.41079330444336],[27.90949821472168,-26.41061019897461],[27.90786743164062,-26.41665267944336],[27.89993476867676,-26.41737937927246]]],"type":"Polygon"}
+}

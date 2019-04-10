@@ -1,0 +1,74 @@
+{
+  "id": 1310099933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3,-24.55,28.3,-24.55",
+    "geom:latitude":-24.55,
+    "geom:longitude":28.3,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM365",
+    "gn:asciiname":"Atoom",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1022058,
+    "gn:latitude":-24.55,
+    "gn:longitude":28.3,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Atoom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kareefontein",
+        "Atoom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022058
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8fb063361d4d24da02765c9f39d92b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1310099933,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310099933,
+    "wof:lastmodified":1537716440,
+    "wof:name":"Atoom",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3,
+    -24.55,
+    28.3,
+    -24.55
+],
+  "geometry": {"coordinates":[28.3,-24.55],"type":"Point"}
+}

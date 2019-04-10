@@ -1,0 +1,122 @@
+{
+  "id": 101927237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":974690.385178,
+    "geom:bbox":"31.5041122437,-25.5033187866,31.5171585083,-25.4885234833",
+    "geom:latitude":-25.496052,
+    "geom:longitude":31.510481,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.496128,
+    "lbl:longitude":31.510382,
+    "mps:latitude":-25.496128,
+    "mps:longitude":31.510382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Malalane"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u840a\u62c9\u5167"
+    ],
+    "name:dut_x_preferred":[
+        "Malalane"
+    ],
+    "name:eng_x_preferred":[
+        "Malelane"
+    ],
+    "name:fra_x_preferred":[
+        "Malelane"
+    ],
+    "name:fre_x_preferred":[
+        "Malelane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ec\u30e9\u30cd"
+    ],
+    "name:nso_x_preferred":[
+        "Malalane"
+    ],
+    "name:ron_x_preferred":[
+        "Malelane"
+    ],
+    "name:rum_x_preferred":[
+        "Malelane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043b\u0430\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u840a\u62c9\u5167"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Malelane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.483333,
+    "wd:longitude":31.516667,
+    "wd:wordcount":1129,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14631c9c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":979837,
+        "gp:id":1584386,
+        "qs:id":223099,
+        "qs_pg:id":223099,
+        "wd:id":"Q2081633",
+        "wk:page":"Malalane"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"73bc7804f16b656885ced58a9102a07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927237,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715640,
+    "wof:name":"Malelane",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50411224365234,
+    -25.50331878662109,
+    31.51715850830078,
+    -25.48852348327637
+],
+  "geometry": {"coordinates":[[[31.50656509399414,-25.49628448486328],[31.50411224365234,-25.49195861816406],[31.50906372070312,-25.48852348327637],[31.51715850830078,-25.50033187866211],[31.51200866699219,-25.50331878662109],[31.50656509399414,-25.49628448486328]]],"type":"Polygon"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 101926677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000298,
+    "geom:area_square_m":3264476.834081,
+    "geom:bbox":"26.6220722198,-27.7683849335,26.6550674438,-27.7505435944",
+    "geom:latitude":-27.757426,
+    "geom:longitude":26.640436,
+    "gn:population":31700,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.756366,
+    "lbl:longitude":26.645935,
+    "mps:latitude":-27.756366,
+    "mps:longitude":26.645935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Allanridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u043d\u0440\u0438\u0434\u0433\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u862d\u91cc\u5947"
+    ],
+    "name:dut_x_preferred":[
+        "Allanridge"
+    ],
+    "name:eng_x_preferred":[
+        "Allanridge"
+    ],
+    "name:nso_x_preferred":[
+        "Allanridge"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0631\u06cc\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Allanridge"
+    ],
+    "name:rum_x_preferred":[
+        "Allanridge"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Allanridge",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.75,
+    "wd:longitude":26.666667,
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023287,
+        "gp:id":1579418,
+        "qs:id":130266,
+        "qs_pg:id":130266,
+        "wd:id":"Q2331526",
+        "wk:page":"Allanridge"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"07a5b1a1c54cb5cb26b27226c84ecdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926677,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926677,
+    "wof:lastmodified":1527715817,
+    "wof:name":"Allanridge",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:population":31700,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.62207221984863,
+    -27.76838493347168,
+    26.65506744384766,
+    -27.75054359436035
+],
+  "geometry": {"coordinates":[[[26.65506744384766,-27.75710105895996],[26.65338325500488,-27.75750541687012],[26.64969253540039,-27.76036071777344],[26.64286994934082,-27.76838493347168],[26.63206481933594,-27.76407623291016],[26.64130020141602,-27.75911331176758],[26.63970184326172,-27.75768280029297],[26.6360912322998,-27.75909805297852],[26.63329124450684,-27.75766372680664],[26.62207221984863,-27.75763130187988],[26.62249755859375,-27.7508602142334],[26.62890434265137,-27.7519474029541],[26.63164138793945,-27.75446319580078],[26.63887596130371,-27.7553882598877],[26.63612174987793,-27.75054359436035],[26.65454864501953,-27.75130653381348],[26.65506744384766,-27.75710105895996]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310713359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.09417,-29.48068,27.09417,-29.48068",
+    "geom:latitude":-29.48068,
+    "geom:longitude":27.09417,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Glen Mokopo",
+    "gn:country_code":"ZA",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001586,
+    "gn:latitude":-29.48068,
+    "gn:longitude":27.09417,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Glen Mokopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001586
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"15a5689f5941b358ebc17959f504971e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1310713359,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1310713359,
+    "wof:lastmodified":1536614652,
+    "wof:name":"Glen Mokopo",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.09417,
+    -29.48068,
+    27.09417,
+    -29.48068
+],
+  "geometry": {"coordinates":[27.09417,-29.48068],"type":"Point"}
+}

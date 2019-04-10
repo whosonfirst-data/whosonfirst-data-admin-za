@@ -1,0 +1,94 @@
+{
+  "id": 1125788495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78179,-26.98019,20.78179,-26.98019",
+    "geom:latitude":-26.98019,
+    "geom:longitude":20.78179,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.98019,
+    "lbl:longitude":20.78179,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Askham"
+    ],
+    "name:dut_x_preferred":[
+        "Askham"
+    ],
+    "name:eng_x_preferred":[
+        "Askham"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1022140,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Askham",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193812,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1579518,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022140,
+        "gp:id":1579518,
+        "qs_pg:id":193812,
+        "wd:id":"Q14080276"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290771,
+    "wof:geomhash":"1f0d3bb6df719c35993a914dfba76556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1125788495,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125788495,
+    "wof:lastmodified":1514503477,
+    "wof:name":"Askham",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78179,
+    -26.98019,
+    20.78179,
+    -26.98019
+],
+  "geometry": {"coordinates":[20.78179,-26.98019],"type":"Point"}
+}

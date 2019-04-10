@@ -1,0 +1,100 @@
+{
+  "id": 101928157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":984544.641612,
+    "geom:bbox":"25.7008590698,-30.2723426819,25.711517334,-30.2602157593",
+    "geom:latitude":-30.265722,
+    "geom:longitude":25.70587,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.265475,
+    "lbl:longitude":25.705769,
+    "mps:latitude":-30.265475,
+    "mps:longitude":25.705769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Springfontein"
+    ],
+    "name:dut_x_preferred":[
+        "Springfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Springfontein"
+    ],
+    "name:ger_x_preferred":[
+        "Springfontein"
+    ],
+    "name:nso_x_preferred":[
+        "Springfontein"
+    ],
+    "name:rum_x_preferred":[
+        "Springfontein"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0440\u0438\u043d\u0433\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Springfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1515.0,
+    "wd:latitude":-30.2625,
+    "wd:longitude":25.703889,
+    "wd:wordcount":285,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952906,
+        "gp:id":1591336,
+        "wd:id":"Q736360",
+        "wk:page":"Springfontein"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee93ec2c5c9c3faf830c4541589203b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928157,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928157,
+    "wof:lastmodified":1527715920,
+    "wof:name":"Springfontein",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70085906982422,
+    -30.27234268188477,
+    25.71151733398438,
+    -30.26021575927734
+],
+  "geometry": {"coordinates":[[[25.71151733398438,-30.26211166381836],[25.7109260559082,-30.26399993896484],[25.70918083190918,-30.26958656311035],[25.70831871032715,-30.27234268188477],[25.70511054992676,-30.27106857299805],[25.7019100189209,-30.27010726928711],[25.70085906982422,-30.26854705810547],[25.70088768005371,-30.26637840270996],[25.70164680480957,-30.26297569274902],[25.70274925231934,-30.26050758361816],[25.70453834533691,-30.26021575927734],[25.7070369720459,-30.26024055480957],[25.71151733398438,-30.26211166381836]]],"type":"Polygon"}
+}

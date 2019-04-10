@@ -1,0 +1,112 @@
+{
+  "id": 101928129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":2117034.9531,
+    "geom:bbox":"26.5233688354,-30.2229595184,26.5516109467,-30.2058849335",
+    "geom:latitude":-30.213035,
+    "geom:longitude":26.534672,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.212646,
+    "lbl:longitude":26.532532,
+    "mps:latitude":-30.212646,
+    "mps:longitude":26.532532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Smithfield"
+    ],
+    "name:dut_x_preferred":[
+        "Smithfield"
+    ],
+    "name:eng_x_preferred":[
+        "Smithfield"
+    ],
+    "name:hun_x_preferred":[
+        "Smithfield"
+    ],
+    "name:nld_x_preferred":[
+        "Smithfield"
+    ],
+    "name:nso_x_preferred":[
+        "Smithfield"
+    ],
+    "name:ron_x_preferred":[
+        "Smithfield"
+    ],
+    "name:rum_x_preferred":[
+        "Smithfield"
+    ],
+    "name:slv_x_preferred":[
+        "Smithfield"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u062a\u06be\u0641\u06cc\u0644\u0688\u060c \u0641\u0631\u06cc \u0627\u0633\u0679\u06cc\u0679"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Smithfield",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.2125,
+    "wd:longitude":26.531389,
+    "wd:wordcount":1294,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954486,
+        "gp:id":1587605,
+        "qs:id":130209,
+        "qs_pg:id":130209,
+        "wd:id":"Q820535",
+        "wk:page":"Smithfield, Free State"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9023b03f5f6b977b34a3e75a99534f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928129,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928129,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Smithfield",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52336883544922,
+    -30.22295951843262,
+    26.55161094665527,
+    -30.20588493347168
+],
+  "geometry": {"coordinates":[[[26.53410530090332,-30.20588493347168],[26.53433036804199,-30.20812225341797],[26.55161094665527,-30.2084789276123],[26.55159759521484,-30.21126937866211],[26.53818511962891,-30.21393013000488],[26.52692031860352,-30.22295951843262],[26.52336883544922,-30.2192268371582],[26.52624320983887,-30.21551895141602],[26.52375984191895,-30.21210098266602],[26.53410530090332,-30.20588493347168]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209402903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4481,-33.97846,18.4481,-33.97846",
+    "geom:latitude":-33.97846,
+    "geom:longitude":18.4481,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Newlands",
+    "gn:country_code":"ZA",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7506857,
+    "gn:latitude":-33.97846,
+    "gn:longitude":18.4481,
+    "gn:modification_date":"2013-08-18",
+    "gn:name":"Newlands",
+    "gn:population":5343,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7506857,
+        "wk:page":"Newlands%2C_Cape_Town"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2d5e7b4db4c81f35d83a7ceecdf2d275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209402903
+        }
+    ],
+    "wof:id":1209402903,
+    "wof:lastmodified":1537576373,
+    "wof:name":"Newlands",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:population":5343,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4481,
+    -33.97846,
+    18.4481,
+    -33.97846
+],
+  "geometry": {"coordinates":[18.4481,-33.97846],"type":"Point"}
+}

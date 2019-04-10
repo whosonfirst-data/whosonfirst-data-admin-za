@@ -1,0 +1,69 @@
+{
+  "id": 1327034633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06644,-31.30149,29.06644,-31.30149",
+    "geom:latitude":-31.30149,
+    "geom:longitude":29.06644,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Gongo",
+    "gn:country_code":"ZA",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1000948,
+    "gn:latitude":-31.30149,
+    "gn:longitude":29.06644,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Gongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000948
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd1fedefeb539d3548add1ce6cd24883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1327034633,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327034633,
+    "wof:lastmodified":1536757296,
+    "wof:name":"Gongo",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06644,
+    -31.30149,
+    29.06644,
+    -31.30149
+],
+  "geometry": {"coordinates":[29.06644,-31.30149],"type":"Point"}
+}

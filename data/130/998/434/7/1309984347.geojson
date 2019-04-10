@@ -1,0 +1,73 @@
+{
+  "id": 1309984347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55735,-33.98054,23.55735,-33.98054",
+    "geom:latitude":-33.98054,
+    "geom:longitude":23.55735,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC047",
+    "gn:asciiname":"Nature's Valley",
+    "gn:country_code":"ZA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972035,
+    "gn:latitude":-33.98054,
+    "gn:longitude":23.55735,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nature\u2019s Valley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nature\u2019s Valley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972035,
+        "wk:page":"Nature%27s_Valley"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3c045b8aa67faab3b2af10682dcd972f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1309984347,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1309984347,
+    "wof:lastmodified":1537716395,
+    "wof:name":"Nature's Valley",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55735,
+    -33.98054,
+    23.55735,
+    -33.98054
+],
+  "geometry": {"coordinates":[23.55735,-33.98054],"type":"Point"}
+}

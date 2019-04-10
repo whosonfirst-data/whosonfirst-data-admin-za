@@ -1,0 +1,63 @@
+{
+  "id": 1209246487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97611,-31.07381,26.97611,-31.07381",
+    "geom:latitude":-31.07381,
+    "geom:longitude":26.97611,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Villiersrust",
+    "gn:country_code":"ZA",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943933,
+    "gn:latitude":-31.07381,
+    "gn:longitude":26.97611,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Villiersrust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943933
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ac7f5b17f8ddb19462e6069adf21761d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246487
+        }
+    ],
+    "wof:id":1209246487,
+    "wof:lastmodified":1536293147,
+    "wof:name":"Villiersrust",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97611,
+    -31.07381,
+    26.97611,
+    -31.07381
+],
+  "geometry": {"coordinates":[26.97611,-31.07381],"type":"Point"}
+}

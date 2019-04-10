@@ -1,0 +1,130 @@
+{
+  "id": 85783091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000443,
+    "geom:area_square_m":4541554.146739,
+    "geom:bbox":"18.4735107422,-33.9820861065,18.5023511,-33.9556326746",
+    "geom:latitude":-33.970298,
+    "geom:longitude":18.487335,
+    "gn:latitude":-33.96333,
+    "gn:longitude":18.47639,
+    "gn:population":15158,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.969216,
+    "lbl:longitude":18.490667,
+    "mps:latitude":-33.970228,
+    "mps:longitude":18.487553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Rondebosch"
+    ],
+    "name:eng_x_preferred":[
+        "Rondebosch"
+    ],
+    "name:fra_x_preferred":[
+        "Rondebosch"
+    ],
+    "name:nld_x_preferred":[
+        "Rondebosch"
+    ],
+    "name:unk_x_variant":[
+        "Rondebosch"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Rondebosch",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Rondebosch",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":166,
+    "qs:photo_sum":394,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wd:latitude":-33.963333,
+    "wd:longitude":18.476389,
+    "wd:wordcount":1127,
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302802,
+        "gp:id":55878120,
+        "qs:id":1079257,
+        "qs_pg:id":1079257,
+        "wd:id":"Q3073398",
+        "wk:page":"Rondebosch"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"95b7f5f16a617142359cc180913f5f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85783091,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783091,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639393,
+    "wof:name":"Rondebosch",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:population":15158,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47351074220012,
+    -33.98208610647482,
+    18.50235109999119,
+    -33.95563267461184
+],
+  "geometry": {"coordinates":[[[18.4888433717955,-33.96123688207687],[18.48999023437506,-33.96151342958052],[18.49303884650652,-33.95930805790005],[18.49359385547126,-33.95930805790005],[18.4954833984209,-33.96158622879997],[18.49548339841459,-33.96158628980007],[18.49548339841459,-33.96614220459998],[18.49548344901416,-33.96614226560212],[18.49822998047506,-33.96945386174244],[18.49822998047506,-33.97069793637491],[18.50011896684975,-33.97525342407486],[18.50235109999119,-33.97794500714791],[18.49926035922886,-33.97980866769966],[18.49548339840004,-33.97980866769966],[18.49548339840004,-33.97980872869993],[18.48999023440012,-33.97980872869993],[18.48999018379152,-33.97980872869993],[18.48810170338231,-33.98208610647482],[18.48638560131786,-33.98208610647482],[18.48449712090866,-33.97980872869993],[18.48449707029999,-33.97980872869993],[18.47900390630014,-33.97980872869993],[18.47900390630014,-33.97753113740001],[18.47625732421426,-33.97753112926652],[18.47471220760576,-33.97566786742863],[18.47475538834811,-33.97556372698552],[18.47466962587623,-33.9752534851],[18.47351074220012,-33.9752534851],[18.47351074220012,-33.97069799740005],[18.47466961890046,-33.97069799218423],[18.47466965962224,-33.97069793637491],[18.47784501417237,-33.97069793637491],[18.47900390628973,-33.96930056048507],[18.47900390628337,-33.96614226560007],[18.47900390628337,-33.96614220459998],[18.47900390628337,-33.96158628980007],[18.47900390628337,-33.96158622879997],[18.47900390629172,-33.95703007000004],[18.47900390627501,-33.95703000899995],[18.48333802640838,-33.95703000899995],[18.48449707032512,-33.95563267461184],[18.48724365232511,-33.95673642732915],[18.48724365231487,-33.95703007000004],[18.48724365449732,-33.95930820095859],[18.4888433717955,-33.96123688207687]]],"type":"Polygon"}
+}

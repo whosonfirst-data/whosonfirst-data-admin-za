@@ -1,0 +1,98 @@
+{
+  "id": 101923359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1757830.800005,
+    "geom:bbox":"29.0023040771,-23.6521587372,29.022480011,-23.6339168549",
+    "geom:latitude":-23.641707,
+    "geom:longitude":29.014081,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.639787,
+    "lbl:longitude":29.014234,
+    "mps:latitude":-23.639787,
+    "mps:longitude":29.014234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tibane"
+    ],
+    "name:kab_x_preferred":[
+        "Tiban"
+    ],
+    "name:msa_x_preferred":[
+        "Tibane"
+    ],
+    "name:por_x_preferred":[
+        "Tibane"
+    ],
+    "name:ron_x_preferred":[
+        "Tibane"
+    ],
+    "name:unk_x_variant":[
+        "Tibanefontein"
+    ],
+    "name:vie_x_preferred":[
+        "Tibane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tibane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948979,
+        "gp:id":56122558
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"48c136a69930c05229157e7771e3cb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923359,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923359,
+    "wof:lastmodified":1527688299,
+    "wof:name":"Tibane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00230407714844,
+    -23.65215873718262,
+    29.02248001098633,
+    -23.6339168548584
+],
+  "geometry": {"coordinates":[[[29.00230407714844,-23.6339168548584],[29.01705741882324,-23.63578224182129],[29.02248001098633,-23.64863777160645],[29.02039527893066,-23.65053176879883],[29.01951217651367,-23.65134429931641],[29.01730728149414,-23.65215873718262],[29.01421928405762,-23.64687538146973],[29.01289558410645,-23.6440315246582],[29.00848579406738,-23.64159393310547],[29.00672149658203,-23.63956260681152],[29.00230407714844,-23.6339168548584]]],"type":"Polygon"}
+}

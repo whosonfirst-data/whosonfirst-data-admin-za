@@ -1,0 +1,63 @@
+{
+  "id": 1209313585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74732,-31.90326,25.74732,-31.90326",
+    "geom:latitude":-31.90326,
+    "geom:longitude":25.74732,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC131",
+    "gn:asciiname":"Rodenia",
+    "gn:country_code":"ZA",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":960907,
+    "gn:latitude":-31.90326,
+    "gn:longitude":25.74732,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rodenia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960907
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0875ee1b4df925ea76ed3621a8d42b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209313585
+        }
+    ],
+    "wof:id":1209313585,
+    "wof:lastmodified":1536290942,
+    "wof:name":"Rodenia",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74732,
+    -31.90326,
+    25.74732,
+    -31.90326
+],
+  "geometry": {"coordinates":[25.74732,-31.90326],"type":"Point"}
+}

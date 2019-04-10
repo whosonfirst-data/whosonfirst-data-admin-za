@@ -1,0 +1,67 @@
+{
+  "id": 1293314543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.69655,-25.9989,28.69655,-25.9989",
+    "geom:latitude":-25.9989,
+    "geom:longitude":28.69655,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Waaikraal",
+    "gn:country_code":"ZA",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105717,
+    "gn:latitude":-25.9989,
+    "gn:longitude":28.69655,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Waaikraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105717
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6eaf5c953913bf80c4e0f07e023c883a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1293314543,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1293314543,
+    "wof:lastmodified":1537034910,
+    "wof:name":"Waaikraal",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69655,
+    -25.9989,
+    28.69655,
+    -25.9989
+],
+  "geometry": {"coordinates":[28.69655,-25.9989],"type":"Point"}
+}

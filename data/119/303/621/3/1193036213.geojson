@@ -1,0 +1,67 @@
+{
+  "id": 1193036213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08361,-26.46073,23.08361,-26.46073",
+    "geom:latitude":-26.46073,
+    "geom:longitude":23.08361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Perth",
+    "gn:country_code":"ZA",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965625,
+    "gn:latitude":-26.46073,
+    "gn:longitude":23.08361,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Perth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965625
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"13f319f3a85ce912edb5c1ffb0b2416f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1193036213,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1193036213,
+    "wof:lastmodified":1536380779,
+    "wof:name":"Perth",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08361,
+    -26.46073,
+    23.08361,
+    -26.46073
+],
+  "geometry": {"coordinates":[23.08361,-26.46073],"type":"Point"}
+}

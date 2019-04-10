@@ -1,0 +1,69 @@
+{
+  "id": 1293688399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31755,-27.07541,28.31755,-27.07541",
+    "geom:latitude":-27.07541,
+    "geom:longitude":28.31755,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS205",
+    "gn:asciiname":"Krompan",
+    "gn:country_code":"ZA",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986958,
+    "gn:latitude":-27.07541,
+    "gn:longitude":28.31755,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Krompan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986958
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"937f83fd5b589bb7add6212c65b5ab4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1293688399,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293688399,
+    "wof:lastmodified":1536993853,
+    "wof:name":"Krompan",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31755,
+    -27.07541,
+    28.31755,
+    -27.07541
+],
+  "geometry": {"coordinates":[28.31755,-27.07541],"type":"Point"}
+}

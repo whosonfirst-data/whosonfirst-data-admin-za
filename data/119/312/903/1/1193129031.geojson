@@ -1,0 +1,69 @@
+{
+  "id": 1193129031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38274,-25.89444,29.38274,-25.89444",
+    "geom:latitude":-25.89444,
+    "geom:longitude":29.38274,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP313",
+    "gn:asciiname":"Many Waters",
+    "gn:country_code":"ZA",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979216,
+    "gn:latitude":-25.89444,
+    "gn:longitude":29.38274,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Many Waters",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979216
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3edb5f02faf12b3e2597fd2ee69e1425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1193129031,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1193129031,
+    "wof:lastmodified":1536377804,
+    "wof:name":"Many Waters",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38274,
+    -25.89444,
+    29.38274,
+    -25.89444
+],
+  "geometry": {"coordinates":[29.38274,-25.89444],"type":"Point"}
+}

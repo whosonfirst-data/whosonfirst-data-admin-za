@@ -1,0 +1,106 @@
+{
+  "id": 1126021441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84753,-28.11396,24.84753,-28.11396",
+    "geom:latitude":-28.11396,
+    "geom:longitude":24.84753,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":17946,
+    "gn:population":17946,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.11396,
+    "lbl:longitude":24.84753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Warrenton"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c83\u502b\u9813"
+    ],
+    "name:dut_x_preferred":[
+        "Warrenton"
+    ],
+    "name:eng_x_preferred":[
+        "Warrenton"
+    ],
+    "name:ger_x_preferred":[
+        "Warrenton"
+    ],
+    "name:ita_x_preferred":[
+        "Warrenton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30ec\u30f3\u30c8\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Warrenton"
+    ],
+    "name:rum_x_preferred":[
+        "Warrenton"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":941931,
+    "qs_pg:gn_pop":17946,
+    "qs_pg:name":"Warrenton",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":84006,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941931,
+        "qs_pg:id":84006,
+        "wd:id":"Q1832033"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300855,
+    "wof:geomhash":"9e24cbe459274843a12d219ac6eeb248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1126021441,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1126021441,
+    "wof:lastmodified":1553816706,
+    "wof:name":"Warrenton",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:population":17946,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84753,
+    -28.11396,
+    24.84753,
+    -28.11396
+],
+  "geometry": {"coordinates":[24.84753,-28.11396],"type":"Point"}
+}

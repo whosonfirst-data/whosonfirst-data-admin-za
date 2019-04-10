@@ -1,0 +1,63 @@
+{
+  "id": 1209246491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.53333,-32.11667,28.53333,-32.11667",
+    "geom:latitude":-32.11667,
+    "geom:longitude":28.53333,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Makaka",
+    "gn:country_code":"ZA",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980130,
+    "gn:latitude":-32.11667,
+    "gn:longitude":28.53333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Makaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980130
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a239b8bf3aa2c6cad95e33bcd0b37d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246491
+        }
+    ],
+    "wof:id":1209246491,
+    "wof:lastmodified":1536293147,
+    "wof:name":"Makaka",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.53333,
+    -32.11667,
+    28.53333,
+    -32.11667
+],
+  "geometry": {"coordinates":[28.53333,-32.11667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101924407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1612160.203136,
+    "geom:bbox":"30.5987873077,-24.3641262054,30.6170120239,-24.3522605896",
+    "geom:latitude":-24.358158,
+    "geom:longitude":30.608201,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.357817,
+    "lbl:longitude":30.608201,
+    "mps:latitude":-24.357817,
+    "mps:longitude":30.608201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dingapong",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009841,
+        "gp:id":1584423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"17cf38a7d86a51c85473aaaa8186d7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924407,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924407,
+    "wof:lastmodified":1500028403,
+    "wof:name":"Dingapong",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59878730773926,
+    -24.36412620544434,
+    30.61701202392578,
+    -24.35226058959961
+],
+  "geometry": {"coordinates":[[[30.60231399536133,-24.35558700561523],[30.60981369018555,-24.35226058959961],[30.61559295654297,-24.35342025756836],[30.61701202392578,-24.3607177734375],[30.60153198242188,-24.36412620544434],[30.59878730773926,-24.35724830627441],[30.60231399536133,-24.35558700561523]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242590811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.32118,-30.43316,30.32118,-30.43316",
+    "geom:latitude":-30.43316,
+    "geom:longitude":30.32118,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN213",
+    "gn:asciiname":"Dingle",
+    "gn:country_code":"ZA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009835,
+    "gn:latitude":-30.43316,
+    "gn:longitude":30.32118,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Dingle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dingley",
+        "Dingle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009835
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"481d008ecaa7cd5aba4a12b36d6f2f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1242590811,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1242590811,
+    "wof:lastmodified":1537716430,
+    "wof:name":"Dingle",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32118,
+    -30.43316,
+    30.32118,
+    -30.43316
+],
+  "geometry": {"coordinates":[30.32118,-30.43316],"type":"Point"}
+}

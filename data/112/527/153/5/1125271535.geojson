@@ -1,0 +1,79 @@
+{
+  "id": 1125271535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48452,-26.81159,26.48452,-26.81159",
+    "geom:latitude":-26.81159,
+    "geom:longitude":26.48452,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":385782,
+    "gn:population":385782,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.81159,
+    "lbl:longitude":26.48452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347544,
+    "qs_pg:gn_pop":385782,
+    "qs_pg:name":"City of Matlosana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764967,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347544,
+        "qs_pg:id":764967
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042147,
+    "wof:geomhash":"a03fb8d6c1c4712aa26a8a0c86d3c22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "localadmin_id":1125271535,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1125271535,
+    "wof:lastmodified":1514618122,
+    "wof:name":"City of Matlosana",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"localadmin",
+    "wof:population":385782,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48452,
+    -26.81159,
+    26.48452,
+    -26.81159
+],
+  "geometry": {"coordinates":[26.48452,-26.81159],"type":"Point"}
+}

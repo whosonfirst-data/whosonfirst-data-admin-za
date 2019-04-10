@@ -1,0 +1,71 @@
+{
+  "id": 1343756499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36724,-25.40439,29.36724,-25.40439",
+    "geom:latitude":-25.40439,
+    "geom:longitude":29.36724,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Damwal",
+    "gn:country_code":"ZA",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1011953,
+    "gn:latitude":-25.40439,
+    "gn:longitude":29.36724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dam Wall",
+        "Damwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011953
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dc32d9534382e0554a48b2493a7861f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1343756499,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343756499,
+    "wof:lastmodified":1537716431,
+    "wof:name":"Damwal",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36724,
+    -25.40439,
+    29.36724,
+    -25.40439
+],
+  "geometry": {"coordinates":[29.36724,-25.40439],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209703913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41923,-34.00804,23.41923,-34.00804",
+    "geom:latitude":-34.00804,
+    "geom:longitude":23.41923,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC047",
+    "gn:asciiname":"Keurboomsrivier",
+    "gn:country_code":"ZA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991283,
+    "gn:latitude":-34.00804,
+    "gn:longitude":23.41923,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Keurboomsrivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keurbooms River",
+        "Keurboomsrivier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991283,
+        "wk:page":"Keurboomsrivier"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"31680f717c6b684d8c8fbd25ec7b3b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1209703913,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1209703913,
+    "wof:lastmodified":1537716418,
+    "wof:name":"Keurboomsrivier",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41923,
+    -34.00804,
+    23.41923,
+    -34.00804
+],
+  "geometry": {"coordinates":[23.41923,-34.00804],"type":"Point"}
+}

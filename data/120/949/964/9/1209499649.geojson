@@ -1,0 +1,63 @@
+{
+  "id": 1209499649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95,-23.13333,28.95,-23.13333",
+    "geom:latitude":-23.13333,
+    "geom:longitude":28.95,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM351",
+    "gn:asciiname":"Mongalo",
+    "gn:country_code":"ZA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974662,
+    "gn:latitude":-23.13333,
+    "gn:longitude":28.95,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mongalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974662
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8b059157a8bf9953fd457ea647f19cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209499649
+        }
+    ],
+    "wof:id":1209499649,
+    "wof:lastmodified":1536285223,
+    "wof:name":"Mongalo",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95,
+    -23.13333,
+    28.95,
+    -23.13333
+],
+  "geometry": {"coordinates":[28.95,-23.13333],"type":"Point"}
+}

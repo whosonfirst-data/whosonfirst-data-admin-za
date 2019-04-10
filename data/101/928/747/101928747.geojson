@@ -1,0 +1,100 @@
+{
+  "id": 101928747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1725724.310443,
+    "geom:bbox":"27.1434726715,-31.7018623352,27.1568565369,-31.6779308319",
+    "geom:latitude":-31.688348,
+    "geom:longitude":27.151519,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.686336,
+    "lbl:longitude":27.152736,
+    "mps:latitude":-31.686336,
+    "mps:longitude":27.152736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Rona"
+    ],
+    "name:deu_x_preferred":[
+        "Rona"
+    ],
+    "name:epo_x_preferred":[
+        "Rona"
+    ],
+    "name:fra_x_preferred":[
+        "Rona"
+    ],
+    "name:ita_x_preferred":[
+        "Rona"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Rona"
+    ],
+    "name:lit_x_preferred":[
+        "Rona"
+    ],
+    "name:pol_x_preferred":[
+        "RONA"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rona",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8bba5d35136f2dc00e3d8b20c8cac028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928747,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928747,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Rona",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14347267150879,
+    -31.70186233520508,
+    27.15685653686523,
+    -31.67793083190918
+],
+  "geometry": {"coordinates":[[[27.15195846557617,-31.6794490814209],[27.15566444396973,-31.68067741394043],[27.15685653686523,-31.68729591369629],[27.15541458129883,-31.69015121459961],[27.15554237365723,-31.70025062561035],[27.15186882019043,-31.70186233520508],[27.1496467590332,-31.70125198364258],[27.14885330200195,-31.69684028625488],[27.15139770507812,-31.69365882873535],[27.15061187744141,-31.68987846374512],[27.14948844909668,-31.68862533569336],[27.14796829223633,-31.68516731262207],[27.14424705505371,-31.68267631530762],[27.14347267150879,-31.67984199523926],[27.14529418945312,-31.67793083190918],[27.14973640441895,-31.6788387298584],[27.15195846557617,-31.6794490814209]]],"type":"Polygon"}
+}

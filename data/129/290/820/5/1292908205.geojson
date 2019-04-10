@@ -1,0 +1,69 @@
+{
+  "id": 1292908205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60602,-32.94496,26.60602,-32.94496",
+    "geom:latitude":-32.94496,
+    "geom:longitude":26.60602,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC127",
+    "gn:asciiname":"Windsor",
+    "gn:country_code":"ZA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939527,
+    "gn:latitude":-32.94496,
+    "gn:longitude":26.60602,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Windsor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939527
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1282a4bef00301d256fedf2153ca3a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1292908205,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1292908205,
+    "wof:lastmodified":1536626194,
+    "wof:name":"Windsor",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60602,
+    -32.94495999999999,
+    26.60602,
+    -32.94495999999999
+],
+  "geometry": {"coordinates":[26.60602,-32.94495999999999],"type":"Point"}
+}

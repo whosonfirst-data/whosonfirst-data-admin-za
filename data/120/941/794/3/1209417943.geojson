@@ -1,0 +1,63 @@
+{
+  "id": 1209417943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44369,-27.4806,32.44369,-27.4806",
+    "geom:latitude":-27.4806,
+    "geom:longitude":32.44369,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN271",
+    "gn:asciiname":"Mpkakathini",
+    "gn:country_code":"ZA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973181,
+    "gn:latitude":-27.4806,
+    "gn:longitude":32.44369,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mpkakathini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973181
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eab8282e8dec777de7b09221820949ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209417943
+        }
+    ],
+    "wof:id":1209417943,
+    "wof:lastmodified":1536287624,
+    "wof:name":"Mpkakathini",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.443690000000004,
+    -27.4806,
+    32.443690000000004,
+    -27.4806
+],
+  "geometry": {"coordinates":[32.44369,-27.4806],"type":"Point"}
+}

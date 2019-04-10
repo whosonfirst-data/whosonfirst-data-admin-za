@@ -1,0 +1,73 @@
+{
+  "id": 101929035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000212,
+    "geom:area_square_m":2202971.543094,
+    "geom:bbox":"27.1932601929,-32.6883888245,27.2118587494,-32.6723670959",
+    "geom:latitude":-32.679871,
+    "geom:longitude":27.203419,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.679184,
+    "lbl:longitude":27.203596,
+    "mps:latitude":-32.679184,
+    "mps:longitude":27.203596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gwiligwili",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998467,
+        "gp:id":1582031
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"24d2863c952ec334f866abb010356124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929035,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929035,
+    "wof:lastmodified":1500027830,
+    "wof:name":"Gwiligwili",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19326019287109,
+    -32.68838882446289,
+    27.21185874938965,
+    -32.67236709594727
+],
+  "geometry": {"coordinates":[[[27.20262908935547,-32.67236709594727],[27.21170043945312,-32.67436981201172],[27.21185874938965,-32.68619155883789],[27.20485877990723,-32.68556213378906],[27.20075798034668,-32.68629455566406],[27.1999626159668,-32.68838882446289],[27.19790267944336,-32.68806076049805],[27.19578742980957,-32.68355941772461],[27.19327926635742,-32.68045425415039],[27.19326019287109,-32.67906188964844],[27.19735336303711,-32.67763519287109],[27.19769668579102,-32.67241287231445],[27.20262908935547,-32.67236709594727]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243156633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66836,-24.31605,29.66836,-24.31605",
+    "geom:latitude":-24.31605,
+    "geom:longitude":29.66836,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Mphahlele 3",
+    "gn:country_code":"ZA",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9821941,
+    "gn:latitude":-24.31605,
+    "gn:longitude":29.66836,
+    "gn:modification_date":"2014-11-08",
+    "gn:name":"Mphahlele 3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9821941
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4bdb1ebb0e58df2ba344081101cbeaa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1243156633,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243156633,
+    "wof:lastmodified":1536726794,
+    "wof:name":"Mphahlele 3",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66836,
+    -24.31605,
+    29.66836,
+    -24.31605
+],
+  "geometry": {"coordinates":[29.66836,-24.31605],"type":"Point"}
+}

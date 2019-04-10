@@ -1,0 +1,125 @@
+{
+  "id": 101927991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000658,
+    "geom:area_square_m":6926816.651131,
+    "geom:bbox":"18.4933891296,-31.6777153015,18.5441589355,-31.6258106232",
+    "geom:latitude":-31.651959,
+    "geom:longitude":18.518435,
+    "gn:population":14806,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.662434,
+    "lbl:longitude":18.507473,
+    "mps:latitude":-31.662434,
+    "mps:longitude":18.507473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vredendal"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u96f7\u767b\u9054\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Vredendal"
+    ],
+    "name:eng_x_preferred":[
+        "Vredendal"
+    ],
+    "name:fre_x_preferred":[
+        "Vredendal"
+    ],
+    "name:ger_x_preferred":[
+        "Vredendal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d3\u05e0\u05d3\u05d0\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Vredendal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30c7\u30f3\u30c0\u30eb"
+    ],
+    "name:nso_x_preferred":[
+        "Vredendal"
+    ],
+    "name:pol_x_preferred":[
+        "Vredendal"
+    ],
+    "name:rum_x_preferred":[
+        "Vredendal"
+    ],
+    "name:ven_x_preferred":[
+        "Vredendal"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vredendal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-31.664444,
+    "wd:longitude":18.506111,
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359736,
+        "gp:id":1591569,
+        "qs:id":848242,
+        "qs_pg:id":1002919,
+        "wd:id":"Q1341350",
+        "wk:page":"Vredendal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"30aa2e02ada754801bad5c8e2850ed64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":101927991,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101927991,
+    "wof:lastmodified":1527715633,
+    "wof:name":"Vredendal",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:population":14806,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49338912963867,
+    -31.67771530151367,
+    18.54415893554688,
+    -31.62581062316895
+],
+  "geometry": {"coordinates":[[[18.53299140930176,-31.62581062316895],[18.54415893554688,-31.63928985595703],[18.52675437927246,-31.65005683898926],[18.52248764038086,-31.65265083312988],[18.52070808410645,-31.65388679504395],[18.51755332946777,-31.65616226196289],[18.51527976989746,-31.65780258178711],[18.51893043518066,-31.66063499450684],[18.51464462280273,-31.66435432434082],[18.49924659729004,-31.67771530151367],[18.49338912963867,-31.67475700378418],[18.4976978302002,-31.66939926147461],[18.49435997009277,-31.66719245910645],[18.50157165527344,-31.65954780578613],[18.50680923461914,-31.65399551391602],[18.51099586486816,-31.65585136413574],[18.51724243164062,-31.64731979370117],[18.53299140930176,-31.62581062316895]]],"type":"Polygon"}
+}

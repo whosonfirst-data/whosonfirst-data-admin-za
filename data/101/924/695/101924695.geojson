@@ -1,0 +1,73 @@
+{
+  "id": 101924695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000465,
+    "geom:area_square_m":5106923.762869,
+    "geom:bbox":"24.7254238129,-27.3521175385,24.745967865,-27.3148365021",
+    "geom:latitude":-27.334373,
+    "geom:longitude":24.735843,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.337588,
+    "lbl:longitude":24.733984,
+    "mps:latitude":-27.337588,
+    "mps:longitude":24.733984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kgobadi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991211,
+        "gp:id":1587978
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e135e6cccdb49a0343aa7a7855355a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101924695,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924695,
+    "wof:lastmodified":1500028261,
+    "wof:name":"Kgobadi",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72542381286621,
+    -27.35211753845215,
+    24.74596786499023,
+    -27.3148365020752
+],
+  "geometry": {"coordinates":[[[24.73386573791504,-27.35211753845215],[24.72542381286621,-27.33846855163574],[24.72603034973145,-27.33675956726074],[24.73381423950195,-27.3148365020752],[24.7449836730957,-27.31739234924316],[24.74023246765137,-27.32677459716797],[24.74075126647949,-27.32959175109863],[24.74074554443359,-27.3324089050293],[24.74178886413574,-27.33616828918457],[24.74596786499023,-27.3483829498291],[24.73386573791504,-27.35211753845215]]],"type":"Polygon"}
+}

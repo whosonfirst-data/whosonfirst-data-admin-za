@@ -1,0 +1,78 @@
+{
+  "id": 1125271715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91685,-31.02538,19.91685,-31.02538",
+    "geom:latitude":-31.02538,
+    "geom:longitude":19.91685,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":21234,
+    "gn:population":21234,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.02538,
+    "lbl:longitude":19.91685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347592,
+    "qs_pg:gn_pop":21234,
+    "qs_pg:name":"Hantam",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":765001,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347592,
+        "qs_pg:id":765001
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042153,
+    "wof:geomhash":"a583584e410b738109e2521b4653de1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "localadmin_id":1125271715,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125271715,
+    "wof:lastmodified":1509387045,
+    "wof:name":"Hantam",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"localadmin",
+    "wof:population":21234,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91685,
+    -31.02538,
+    19.91685,
+    -31.02538
+],
+  "geometry": {"coordinates":[19.91685,-31.02538],"type":"Point"}
+}

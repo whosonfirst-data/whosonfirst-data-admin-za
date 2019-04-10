@@ -1,0 +1,73 @@
+{
+  "id": 101927427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":1099092.246241,
+    "geom:bbox":"31.2293014526,-27.3309211731,31.2406902313,-27.312997818",
+    "geom:latitude":-27.322125,
+    "geom:longitude":31.235467,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.327309,
+    "lbl:longitude":31.237278,
+    "mps:latitude":-27.327309,
+    "mps:longitude":31.237278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kliphunyawo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991109,
+        "gp:id":56122502
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"443bda5ae6e7c1593ee0dc51e91ed05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927427,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927427,
+    "wof:lastmodified":1500027506,
+    "wof:name":"Kliphunyawo",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22930145263672,
+    -27.3309211730957,
+    31.24069023132324,
+    -27.31299781799316
+],
+  "geometry": {"coordinates":[[[31.23006248474121,-27.31751251220703],[31.22930145263672,-27.3159351348877],[31.23030853271484,-27.31480598449707],[31.23257827758789,-27.31299781799316],[31.23434638977051,-27.31344413757324],[31.23687744140625,-27.31614685058594],[31.23739051818848,-27.31998062133789],[31.2386589050293,-27.32268333435059],[31.24005317687988,-27.32516288757324],[31.24069023132324,-27.32719230651855],[31.24044227600098,-27.32922172546387],[31.23855209350586,-27.33069038391113],[31.23627853393555,-27.3309211730957],[31.2346363067627,-27.33013343811035],[31.23412895202637,-27.32912063598633],[31.23361015319824,-27.32314491271973],[31.23309898376465,-27.32066345214844],[31.23006248474121,-27.31751251220703]]],"type":"Polygon"}
+}

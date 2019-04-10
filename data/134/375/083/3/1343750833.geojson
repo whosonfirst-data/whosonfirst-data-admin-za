@@ -1,0 +1,71 @@
+{
+  "id": 1343750833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68389,-27.49678,23.68389,-27.49678",
+    "geom:latitude":-27.49678,
+    "geom:longitude":23.68389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manyeding",
+    "gn:country_code":"ZA",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979238,
+    "gn:latitude":-27.49678,
+    "gn:longitude":23.68389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manyeding",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manyeding Store",
+        "Manyeding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979238
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b1ae1801830300e2fec8dddc3f1b838f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1343750833,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1343750833,
+    "wof:lastmodified":1537716406,
+    "wof:name":"Manyeding",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68389,
+    -27.49678,
+    23.68389,
+    -27.49678
+],
+  "geometry": {"coordinates":[23.68389,-27.49678],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343957005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32907,-31.73033,26.32907,-31.73033",
+    "geom:latitude":-31.73033,
+    "geom:longitude":26.32907,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC133",
+    "gn:asciiname":"Groenfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":999846,
+    "gn:latitude":-31.73033,
+    "gn:longitude":26.32907,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Groenfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999846
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"48fbc9a43cecd4496cfa602776c7e264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1343957005,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343957005,
+    "wof:lastmodified":1537023965,
+    "wof:name":"Groenfontein",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32907,
+    -31.73033,
+    26.32907,
+    -31.73033
+],
+  "geometry": {"coordinates":[26.32907,-31.73033],"type":"Point"}
+}

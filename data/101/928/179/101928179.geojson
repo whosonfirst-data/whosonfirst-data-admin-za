@@ -1,0 +1,85 @@
+{
+  "id": 101928179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":719725.284205,
+    "geom:bbox":"27.0891971588,-30.2985687256,27.1028575897,-30.2921676636",
+    "geom:latitude":-30.295271,
+    "geom:longitude":27.096692,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.295371,
+    "lbl:longitude":27.096692,
+    "mps:latitude":-30.295371,
+    "mps:longitude":27.096692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Matlakeng"
+    ],
+    "name:eng_x_preferred":[
+        "Matlakeng"
+    ],
+    "name:fre_x_preferred":[
+        "Matlakeng"
+    ],
+    "name:nso_x_preferred":[
+        "Matlakeng"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Matlakeng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879955,
+        "wd:id":"Q10987686"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ce588b2173ce13cbc80de5fcb6e592b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928179,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928179,
+    "wof:lastmodified":1514503960,
+    "wof:name":"Matlakeng",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08919715881348,
+    -30.29856872558594,
+    27.10285758972168,
+    -30.29216766357422
+],
+  "geometry": {"coordinates":[[[27.08919715881348,-30.29481506347656],[27.09401512145996,-30.29242134094238],[27.09629440307617,-30.29241943359375],[27.10285186767578,-30.29216766357422],[27.10285758972168,-30.29760932922363],[27.10143280029297,-30.29785919189453],[27.10000610351562,-30.29711723327637],[27.09914970397949,-30.29711723327637],[27.0980110168457,-30.29810905456543],[27.09658622741699,-30.2983570098877],[27.09209442138672,-30.29856872558594],[27.09031867980957,-30.29615020751953],[27.08919715881348,-30.29481506347656]]],"type":"Polygon"}
+}

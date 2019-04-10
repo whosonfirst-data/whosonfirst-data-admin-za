@@ -1,0 +1,73 @@
+{
+  "id": 1327465601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12135,-31.93312,29.12135,-31.93312",
+    "geom:latitude":-31.93312,
+    "geom:longitude":29.12135,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC157",
+    "gn:asciiname":"Mapuzi",
+    "gn:country_code":"ZA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979080,
+    "gn:latitude":-31.93312,
+    "gn:longitude":29.12135,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mapuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapozi",
+        "Mapuzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979080
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8fe8f29eb480bb0ca256e08c90b4aec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1327465601,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327465601,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Mapuzi",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12135,
+    -31.93312,
+    29.12135,
+    -31.93312
+],
+  "geometry": {"coordinates":[29.12135,-31.93312],"type":"Point"}
+}

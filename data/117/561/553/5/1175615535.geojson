@@ -1,0 +1,108 @@
+{
+  "id": 1175615535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000415,
+    "geom:area_square_m":1592983.545515,
+    "geom:bbox":"28.008852005,-26.5728626251,28.0463809967,-26.5429668427",
+    "geom:latitude":-26.556645,
+    "geom:longitude":28.025245,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.55279,
+    "lbl:longitude":28.035747,
+    "mps:latitude":-26.55279,
+    "mps:longitude":28.035747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Meyerton"
+    ],
+    "name:chi_x_preferred":[
+        "\u9081\u8036\u9813"
+    ],
+    "name:dut_x_preferred":[
+        "Meyerton"
+    ],
+    "name:eng_x_preferred":[
+        "Meyerton"
+    ],
+    "name:ger_x_preferred":[
+        "Meyerton"
+    ],
+    "name:nso_x_preferred":[
+        "Meyerton"
+    ],
+    "name:rum_x_preferred":[
+        "Meyerton"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u0435\u0440\u0442\u043e\u043d"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Meyerton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.558611,
+    "wd:longitude":28.098611,
+    "wd:wordcount":283,
+    "wof:belongsto":[
+        102191573,
+        101926349,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976764,
+        "gp:id":1584936,
+        "qs:id":1029489,
+        "qs_pg:id":1029489,
+        "wd:id":"Q2082061",
+        "wk:page":"Meyerton, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d7e26a4c9fcc883939bec8d5818ca007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926349,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1175615535,
+    "wof:lastmodified":1534986001,
+    "wof:name":"Meyerton",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101926355,
+        101926349
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00885200500488,
+    -26.57286262512207,
+    28.0463809967041,
+    -26.54296684265137
+],
+  "geometry": {"coordinates":[[[[28.01859092712402,-26.56384658813477],[28.01212882995605,-26.56124496459961],[28.00885200500488,-26.56013679504395],[28.00917434692383,-26.55949211120605],[28.01289939880371,-26.55205917358398],[28.0208740234375,-26.54538917541504],[28.02464294433594,-26.54968452453613],[28.02565383911133,-26.5564022064209],[28.02671813964844,-26.55660820007324],[28.02787780761719,-26.56826210021973],[28.02680206298828,-26.57104682922363],[28.02424430847168,-26.57286262512207],[28.02078247070312,-26.5727367401123],[28.02083587646484,-26.57201766967773],[28.02101135253906,-26.56964683532715],[28.02130126953125,-26.56700706481934],[28.02199363708496,-26.56567764282227],[28.01859092712402,-26.56384658813477]]],[[[28.02746963500977,-26.54811096191406],[28.03163909912109,-26.54296684265137],[28.0463809967041,-26.55779266357422],[28.03611183166504,-26.5567684173584],[28.03500938415527,-26.55674934387207],[28.03137588500977,-26.56366348266602],[28.02915382385254,-26.55797386169434],[28.02986526489258,-26.55666160583496],[28.03184509277344,-26.55301094055176],[28.02746963500977,-26.54811096191406]]]],"type":"MultiPolygon"}
+}

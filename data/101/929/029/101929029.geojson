@@ -1,0 +1,72 @@
+{
+  "id": 101929029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1630716.248854,
+    "geom:bbox":"27.1137199402,-32.5989761353,27.1275119781,-32.5795135498",
+    "geom:latitude":-32.590084,
+    "geom:longitude":27.120879,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.590464,
+    "lbl:longitude":27.122707,
+    "mps:latitude":-32.590464,
+    "mps:longitude":27.122707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Skafu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586052
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fa39ec427b185bf23f7e3f9e7eb9cd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929029,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929029,
+    "wof:lastmodified":1500027830,
+    "wof:name":"Skafu",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11371994018555,
+    -32.59897613525391,
+    27.12751197814941,
+    -32.57951354980469
+],
+  "geometry": {"coordinates":[[[27.12655830383301,-32.58557891845703],[27.12746810913086,-32.59025955200195],[27.12751197814941,-32.59386444091797],[27.12416076660156,-32.59858322143555],[27.12075805664062,-32.59897613525391],[27.11734008789062,-32.59828567504883],[27.11602592468262,-32.59540939331055],[27.11855125427246,-32.59286117553711],[27.11807632446289,-32.58889770507812],[27.11464691162109,-32.58712387084961],[27.11371994018555,-32.58100128173828],[27.11881446838379,-32.57951354980469],[27.12015914916992,-32.58491134643555],[27.12230110168457,-32.58597564697266],[27.12655830383301,-32.58557891845703]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 101926069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":1136704.422657,
+    "geom:bbox":"28.4629020691,-26.3178215027,28.4745388031,-26.3044834137",
+    "geom:latitude":-26.312765,
+    "geom:longitude":28.469126,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.313003,
+    "lbl:longitude":28.469236,
+    "mps:latitude":-26.313003,
+    "mps:longitude":28.469236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Struisbult",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"1d15d4453d151a3edb5a441399fbc05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926069,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926069,
+    "wof:lastmodified":1500027696,
+    "wof:name":"Struisbult",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4629020690918,
+    -26.31782150268555,
+    28.47453880310059,
+    -26.30448341369629
+],
+  "geometry": {"coordinates":[[[28.47453880310059,-26.30909538269043],[28.47368431091309,-26.31767272949219],[28.4629020690918,-26.31782150268555],[28.46334266662598,-26.31229209899902],[28.47023773193359,-26.30603218078613],[28.47091865539551,-26.30529403686523],[28.47166442871094,-26.30448341369629],[28.47287940979004,-26.30647087097168],[28.47212982177734,-26.3093318939209],[28.47453880310059,-26.30909538269043]]],"type":"Polygon"}
+}

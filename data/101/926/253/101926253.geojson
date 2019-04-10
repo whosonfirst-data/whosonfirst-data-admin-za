@@ -1,0 +1,119 @@
+{
+  "id": 101926253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":369600.258474,
+    "geom:bbox":"29.4687385559,-26.4352703094,29.4734363556,-26.4238033295",
+    "geom:latitude":-26.430242,
+    "geom:longitude":29.470748,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.430226,
+    "lbl:longitude":29.470793,
+    "mps:latitude":-26.430226,
+    "mps:longitude":29.470793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bethal"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062b\u0627\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "Bethal"
+    ],
+    "name:eng_x_preferred":[
+        "Bethal"
+    ],
+    "name:epo_x_preferred":[
+        "Bethal"
+    ],
+    "name:fre_x_preferred":[
+        "Bethal"
+    ],
+    "name:ger_x_preferred":[
+        "Bethal"
+    ],
+    "name:ita_x_preferred":[
+        "Bethal"
+    ],
+    "name:nso_x_preferred":[
+        "Bethal"
+    ],
+    "name:pol_x_preferred":[
+        "Bethal"
+    ],
+    "name:por_x_preferred":[
+        "Bethal"
+    ],
+    "name:rum_x_preferred":[
+        "Bethal"
+    ],
+    "name:unk_x_variant":[
+        "Bethal"
+    ],
+    "name:ven_x_preferred":[
+        "Bethal"
+    ],
+    "name:xho_x_preferred":[
+        "Bethal"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bethalrand",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019756,
+        "gp:id":1579775,
+        "wd:id":"Q747174"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1193b077b697e26b4bfae298f53e5338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926253,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926253,
+    "wof:lastmodified":1514503481,
+    "wof:name":"Bethalrand",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4687385559082,
+    -26.43527030944824,
+    29.47343635559082,
+    -26.42380332946777
+],
+  "geometry": {"coordinates":[[[29.47138595581055,-26.42612648010254],[29.47223281860352,-26.4281120300293],[29.47270965576172,-26.43086624145508],[29.47343635559082,-26.43428230285645],[29.47294425964355,-26.43438339233398],[29.46937942504883,-26.43527030944824],[29.46916198730469,-26.4313793182373],[29.4687385559082,-26.42380332946777],[29.47016906738281,-26.42491149902344],[29.47138595581055,-26.42612648010254]]],"type":"Polygon"}
+}

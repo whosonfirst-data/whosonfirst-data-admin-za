@@ -1,0 +1,73 @@
+{
+  "id": 101923399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":1011679.857044,
+    "geom:bbox":"28.6410655975,-23.722650528,28.6525630951,-23.7137317657",
+    "geom:latitude":-23.718157,
+    "geom:longitude":28.646566,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.718105,
+    "lbl:longitude":28.646566,
+    "mps:latitude":-23.718105,
+    "mps:longitude":28.646566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ga-Malope",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003324,
+        "gp:id":1586629
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"19ad939fbc62bdec12adc8643be49a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923399,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923399,
+    "wof:lastmodified":1500028426,
+    "wof:name":"Ga-Malope",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.64106559753418,
+    -23.7226505279541,
+    28.65256309509277,
+    -23.71373176574707
+],
+  "geometry": {"coordinates":[[[28.64109230041504,-23.71614837646484],[28.64106559753418,-23.7141170501709],[28.65081977844238,-23.71373176574707],[28.65213203430176,-23.71779823303223],[28.65256309509277,-23.72186279296875],[28.64196968078613,-23.7226505279541],[28.6410961151123,-23.71899223327637],[28.6411018371582,-23.71696090698242],[28.64109230041504,-23.71614837646484]]],"type":"Polygon"}
+}

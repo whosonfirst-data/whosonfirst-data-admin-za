@@ -1,0 +1,73 @@
+{
+  "id": 1343266537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4267,-32.63473,28.4267,-32.63473",
+    "geom:latitude":-32.63473,
+    "geom:longitude":28.4267,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC122",
+    "gn:asciiname":"Trennerys",
+    "gn:country_code":"ZA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948181,
+    "gn:latitude":-32.63473,
+    "gn:longitude":28.4267,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Trennerys",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trennerys Hotel",
+        "Trennerys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948181
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"12333e1d1a4783aa8c88926507a67f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1343266537,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343266537,
+    "wof:lastmodified":1537716374,
+    "wof:name":"Trennerys",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4267,
+    -32.63473,
+    28.4267,
+    -32.63473
+],
+  "geometry": {"coordinates":[28.4267,-32.63473],"type":"Point"}
+}

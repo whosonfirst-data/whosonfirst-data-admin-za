@@ -1,0 +1,74 @@
+{
+  "id": 101924283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":1077830.019705,
+    "geom:bbox":"30.4357032776,-23.6623935699,30.4507255554,-23.6534633636",
+    "geom:latitude":-23.657816,
+    "geom:longitude":30.443958,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.658774,
+    "lbl:longitude":30.444566,
+    "mps:latitude":-23.658774,
+    "mps:longitude":30.444566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Runnymede",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2979,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958844,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"aca26702016ee3f2caf763a51da62acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924283,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924283,
+    "wof:lastmodified":1527677689,
+    "wof:name":"Runnymede",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43570327758789,
+    -23.66239356994629,
+    30.45072555541992,
+    -23.65346336364746
+],
+  "geometry": {"coordinates":[[[30.45032501220703,-23.66190147399902],[30.44106674194336,-23.66239356994629],[30.4410343170166,-23.65954971313477],[30.43882179260254,-23.65875816345215],[30.4361572265625,-23.65715599060059],[30.43570327758789,-23.65594100952148],[30.43699836730957,-23.65349197387695],[30.44008636474609,-23.65346336364746],[30.44274139404297,-23.65425109863281],[30.44363212585449,-23.65505599975586],[30.44407844543457,-23.65545845031738],[30.44759750366211,-23.65461349487305],[30.44892120361328,-23.65460014343262],[30.4506893157959,-23.65499114990234],[30.45072555541992,-23.65824127197266],[30.45032501220703,-23.66190147399902]]],"type":"Polygon"}
+}

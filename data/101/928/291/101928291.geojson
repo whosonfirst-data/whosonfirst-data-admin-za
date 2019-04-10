@@ -1,0 +1,73 @@
+{
+  "id": 101928291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1572297.656141,
+    "geom:bbox":"27.3584499359,-30.5567111969,27.3729972839,-30.5294437408",
+    "geom:latitude":-30.543266,
+    "geom:longitude":27.365944,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.547104,
+    "lbl:longitude":27.367873,
+    "mps:latitude":-30.547104,
+    "mps:longitude":27.367873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tapoleng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950063,
+        "gp:id":1587750
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ad736a24b4017fdb31a2317cd7919543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":101928291,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928291,
+    "wof:lastmodified":1500027833,
+    "wof:name":"Tapoleng",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35844993591309,
+    -30.55671119689941,
+    27.37299728393555,
+    -30.52944374084473
+],
+  "geometry": {"coordinates":[[[27.35844993591309,-30.5297794342041],[27.35844993591309,-30.52944374084473],[27.363037109375,-30.5296573638916],[27.3664665222168,-30.53654670715332],[27.36656188964844,-30.54303741455078],[27.37033843994141,-30.5447998046875],[27.37251663208008,-30.55126953125],[27.37299728393555,-30.55559349060059],[27.37176322937012,-30.55668830871582],[27.36967849731445,-30.55671119689941],[27.36714744567871,-30.55457496643066],[27.3636646270752,-30.54451370239258],[27.36403465270996,-30.54126167297363],[27.35980987548828,-30.53734016418457],[27.35844993591309,-30.5297794342041]]],"type":"Polygon"}
+}

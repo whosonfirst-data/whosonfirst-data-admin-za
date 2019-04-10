@@ -1,0 +1,72 @@
+{
+  "id": 101923675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":2635724.511851,
+    "geom:bbox":"29.6868190765,-24.5449886322,29.7086315155,-24.5283432007",
+    "geom:latitude":-24.536424,
+    "geom:longitude":29.69879,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.536219,
+    "lbl:longitude":29.698997,
+    "mps:latitude":-24.536219,
+    "mps:longitude":29.698997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thabampshe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"981d70b97fdb0aa3434c304ea7784979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923675,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923675,
+    "wof:lastmodified":1500028369,
+    "wof:name":"Thabampshe",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68681907653809,
+    -24.54498863220215,
+    29.70863151550293,
+    -24.52834320068359
+],
+  "geometry": {"coordinates":[[[29.7050952911377,-24.54498863220215],[29.7015380859375,-24.54419326782227],[29.69085884094238,-24.5401782989502],[29.68681907653809,-24.53166580200195],[29.7032299041748,-24.52834320068359],[29.7072639465332,-24.53523063659668],[29.70863151550293,-24.54172325134277],[29.7050952911377,-24.54498863220215]]],"type":"Polygon"}
+}

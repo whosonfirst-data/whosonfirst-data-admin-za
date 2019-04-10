@@ -1,0 +1,72 @@
+{
+  "id": 1260280447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38026,-24.78135,31.38026,-24.78135",
+    "geom:latitude":-24.78135,
+    "geom:longitude":31.38026,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP325",
+    "gn:asciiname":"Inyati",
+    "gn:country_code":"ZA",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8986154,
+    "gn:latitude":-24.78135,
+    "gn:longitude":31.38026,
+    "gn:modification_date":"2014-04-20",
+    "gn:name":"Inyati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inyati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986154
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f27f54c7cbc09f2107e2ba0c93c036ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1260280447,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1260280447,
+    "wof:lastmodified":1537716447,
+    "wof:name":"Inyati",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38026,
+    -24.78135,
+    31.38026,
+    -24.78135
+],
+  "geometry": {"coordinates":[31.38026,-24.78135],"type":"Point"}
+}

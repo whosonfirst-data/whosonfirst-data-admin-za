@@ -1,0 +1,67 @@
+{
+  "id": 1193020815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99286,-30.44981,29.99286,-30.44981",
+    "geom:latitude":-30.44981,
+    "geom:longitude":29.99286,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"eLukolweni",
+    "gn:country_code":"ZA",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005710,
+    "gn:latitude":-30.44981,
+    "gn:longitude":29.99286,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"eLukolweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005710
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64151347cea789c6a6f830eab8f5c23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1193020815,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1193020815,
+    "wof:lastmodified":1536373437,
+    "wof:name":"eLukolweni",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99286,
+    -30.44981,
+    29.99286,
+    -30.44981
+],
+  "geometry": {"coordinates":[29.99286,-30.44981],"type":"Point"}
+}

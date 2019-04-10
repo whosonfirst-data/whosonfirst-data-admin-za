@@ -1,0 +1,70 @@
+{
+  "id": 101925521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":629983.839108,
+    "geom:bbox":"28.3268432617,-25.7992362976,28.3363571167,-25.7856140137",
+    "geom:latitude":-25.792781,
+    "geom:longitude":28.331479,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.794797,
+    "lbl:longitude":28.329821,
+    "mps:latitude":-25.794797,
+    "mps:longitude":28.329821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valley Farm Agricultural Holdings",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"b5862552ce50d00f47db723f80ab8eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925521,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925521,
+    "wof:lastmodified":1500027713,
+    "wof:name":"Valley Farm Agricultural Holdings",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.32684326171875,
+    -25.79923629760742,
+    28.33635711669922,
+    -25.78561401367188
+],
+  "geometry": {"coordinates":[[[28.33415985107422,-25.78561401367188],[28.33635711669922,-25.79170227050781],[28.33229446411133,-25.79339981079102],[28.33247566223145,-25.79754066467285],[28.32892227172852,-25.79923629760742],[28.32684326171875,-25.79442596435547],[28.33318519592285,-25.78667831420898],[28.33415985107422,-25.78561401367188]]],"type":"Polygon"}
+}

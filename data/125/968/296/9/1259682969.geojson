@@ -1,0 +1,69 @@
+{
+  "id": 1259682969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55,-31.4,26.55,-31.4",
+    "geom:latitude":-31.4,
+    "geom:longitude":26.55,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC133",
+    "gn:asciiname":"Ida",
+    "gn:country_code":"ZA",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994990,
+    "gn:latitude":-31.4,
+    "gn:longitude":26.55,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994990
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"20813a51bd396a8c33e5c1c8485c9ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1259682969,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259682969,
+    "wof:lastmodified":1537064903,
+    "wof:name":"Ida",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55,
+    -31.4,
+    26.55,
+    -31.4
+],
+  "geometry": {"coordinates":[26.55,-31.4],"type":"Point"}
+}

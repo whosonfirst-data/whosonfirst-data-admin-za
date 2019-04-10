@@ -1,0 +1,97 @@
+{
+  "id": 101925715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":803989.769266,
+    "geom:bbox":"27.741689682,-26.1085987091,27.7636890411,-26.1029911041",
+    "geom:latitude":-26.105747,
+    "geom:longitude":27.751288,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.105935,
+    "lbl:longitude":27.751122,
+    "mps:latitude":-26.105935,
+    "mps:longitude":27.751122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boltonia"
+    ],
+    "name:por_x_preferred":[
+        "Boltonia"
+    ],
+    "name:ron_x_preferred":[
+        "Boltonia"
+    ],
+    "name:spa_x_preferred":[
+        "Boltonia"
+    ],
+    "name:swe_x_preferred":[
+        "Boltonior"
+    ],
+    "name:vie_x_preferred":[
+        "Boltonia"
+    ],
+    "name:war_x_preferred":[
+        "Boltonia"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Boltonia",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063417,
+        "gp:id":55878717,
+        "qs:id":1208241,
+        "wd:id":"Q4940265"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"600d459c4c326b7c2d354c2d6cc4c252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925715,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925715,
+    "wof:lastmodified":1527688521,
+    "wof:name":"Boltonia",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74168968200684,
+    -26.10859870910645,
+    27.7636890411377,
+    -26.10299110412598
+],
+  "geometry": {"coordinates":[[[27.75433540344238,-26.10393905639648],[27.76305770874023,-26.10553741455078],[27.7636890411377,-26.10565185546875],[27.76343154907227,-26.10736274719238],[27.7566089630127,-26.1064395904541],[27.75167274475098,-26.10859870910645],[27.74168968200684,-26.10698318481445],[27.74234390258789,-26.10454940795898],[27.74360084533691,-26.10432624816895],[27.74657249450684,-26.10299110412598],[27.75121879577637,-26.10336875915527],[27.75433540344238,-26.10393905639648]]],"type":"Polygon"}
+}

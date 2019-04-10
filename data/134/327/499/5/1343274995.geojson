@@ -1,0 +1,69 @@
+{
+  "id": 1343274995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0001,-29.69572,31.0001,-29.69572",
+    "geom:latitude":-29.69572,
+    "geom:longitude":31.0001,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Sunford",
+    "gn:country_code":"ZA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257922,
+    "gn:latitude":-29.69572,
+    "gn:longitude":31.0001,
+    "gn:modification_date":"2016-09-23",
+    "gn:name":"Sunford",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257922
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fe5426b931ce4ce43132366a41939a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1343274995,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343274995,
+    "wof:lastmodified":1537013154,
+    "wof:name":"Sunford",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0001,
+    -29.69572,
+    31.0001,
+    -29.69572
+],
+  "geometry": {"coordinates":[31.0001,-29.69572],"type":"Point"}
+}

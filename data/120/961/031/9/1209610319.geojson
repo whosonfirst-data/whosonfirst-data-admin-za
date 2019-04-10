@@ -1,0 +1,63 @@
+{
+  "id": 1209610319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86667,-25.4,27.86667,-25.4",
+    "geom:latitude":-25.4,
+    "geom:longitude":27.86667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC37",
+    "gn:admin3_code":"NW372",
+    "gn:asciiname":"Buffelspruit",
+    "gn:country_code":"ZA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014995,
+    "gn:latitude":-25.4,
+    "gn:longitude":27.86667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Buffelspruit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014995
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"45a0d04e10f2a0204ad030cf875c2afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209610319
+        }
+    ],
+    "wof:id":1209610319,
+    "wof:lastmodified":1536281868,
+    "wof:name":"Buffelspruit",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.866670000000006,
+    -25.4,
+    27.866670000000006,
+    -25.4
+],
+  "geometry": {"coordinates":[27.86667000000001,-25.4],"type":"Point"}
+}

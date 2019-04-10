@@ -1,0 +1,77 @@
+{
+  "id": 101928689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000445,
+    "geom:area_square_m":4688004.197964,
+    "geom:bbox":"28.7897224426,-31.6278171539,28.8178768158,-31.6007881165",
+    "geom:latitude":-31.612491,
+    "geom:longitude":28.801702,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.610676,
+    "lbl:longitude":28.800743,
+    "mps:latitude":-31.610676,
+    "mps:longitude":28.800743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngangelizwe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971221,
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2cc9a5a0a2234c0f339c7c639f329702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928689,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928689,
+    "wof:lastmodified":1534986004,
+    "wof:name":"Ngangelizwe",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615605
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78972244262695,
+    -31.62781715393066,
+    28.8178768157959,
+    -31.60078811645508
+],
+  "geometry": {"coordinates":[[[28.79861259460449,-31.60078811645508],[28.80030822753906,-31.60111236572266],[28.8173885345459,-31.60812759399414],[28.8178768157959,-31.61028289794922],[28.8171329498291,-31.61354827880859],[28.8156795501709,-31.61430168151855],[28.80339050292969,-31.61926651000977],[28.80261993408203,-31.62162971496582],[28.8027515411377,-31.62595748901367],[28.80153656005859,-31.62760925292969],[28.80027770996094,-31.62781715393066],[28.79710960388184,-31.62770652770996],[28.7929801940918,-31.62364959716797],[28.7924690246582,-31.61373519897461],[28.79001998901367,-31.60945892333984],[28.78972244262695,-31.6065788269043],[28.79193115234375,-31.6029224395752],[28.79524230957031,-31.60086250305176],[28.79861259460449,-31.60078811645508]]],"type":"Polygon"}
+}

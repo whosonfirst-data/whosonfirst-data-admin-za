@@ -1,0 +1,109 @@
+{
+  "id": 85783187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10870541.74236,
+    "geom:bbox":"28.33905,-26.156917,28.33905,-26.156917",
+    "geom:latitude":-26.156917,
+    "geom:longitude":28.33905,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.156917,
+    "lbl:longitude":28.33905,
+    "mps:latitude":-26.156615,
+    "mps:longitude":28.338719,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Rynfield"
+    ],
+    "name:unk_x_variant":[
+        "Rynfield"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":1020098,
+    "qs:gn_nam_loc":"Benoni, Ekurhuleni, Ekurhuleni, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":15,
+    "qs:local_sum":17,
+    "qs:localhoods":2,
+    "qs:name":"Rynfield",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Benoni",
+    "qs:photo_max":8,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1579744,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925811,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878906,
+        "qs:id":71204,
+        "qs_pg:id":71204
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"111d983de4e0f3d92fe8feeb90c39969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925811,
+            "neighbourhood_id":85783187,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783187,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860466,
+    "wof:name":"Rynfield",
+    "wof:parent_id":101925811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33905,
+    -26.156917,
+    28.33905,
+    -26.156917
+],
+  "geometry": {"coordinates":[28.33905,-26.156917],"type":"Point"}
+}

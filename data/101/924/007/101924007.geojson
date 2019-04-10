@@ -1,0 +1,76 @@
+{
+  "id": 101924007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1641722.803887,
+    "geom:bbox":"30.7034645081,-23.0263996124,30.7189006805,-23.0112495422",
+    "geom:latitude":-23.018291,
+    "geom:longitude":30.710212,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.018371,
+    "lbl:longitude":30.709587,
+    "mps:latitude":-23.018371,
+    "mps:longitude":30.709587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ka-Malamulele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-22.971111,
+    "wd:longitude":30.673611,
+    "wd:wordcount":2262,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588087,
+        "wd:id":"Q6741236"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e891cea9d65b464844f442febff8487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924007,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924007,
+    "wof:lastmodified":1527670489,
+    "wof:name":"Ka-Malamulele",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70346450805664,
+    -23.02639961242676,
+    30.71890068054199,
+    -23.01124954223633
+],
+  "geometry": {"coordinates":[[[30.71112632751465,-23.02482414245605],[30.71002960205078,-23.02632522583008],[30.70616149902344,-23.02639961242676],[30.7048282623291,-23.02519607543945],[30.70348930358887,-23.02358436584473],[30.70346450805664,-23.02155303955078],[30.70515823364258,-23.01665878295898],[30.70599937438965,-23.01380348205566],[30.70817756652832,-23.0125617980957],[30.71124076843262,-23.01171493530273],[30.71298980712891,-23.01128959655762],[30.71430778503418,-23.01127433776855],[30.71650123596191,-23.01124954223633],[30.7182731628418,-23.01244926452637],[30.71890068054199,-23.01504898071289],[30.71699714660645,-23.01551055908203],[30.71526145935059,-23.01715660095215],[30.71356391906738,-23.02164459228516],[30.71112632751465,-23.02482414245605]]],"type":"Polygon"}
+}

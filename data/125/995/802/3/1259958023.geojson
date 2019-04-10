@@ -1,0 +1,69 @@
+{
+  "id": 1259958023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17609,-33.37361,21.17609,-33.37361",
+    "geom:latitude":-33.37361,
+    "geom:longitude":21.17609,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC5",
+    "gn:admin3_code":"WC051",
+    "gn:asciiname":"Vleiland",
+    "gn:country_code":"ZA",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943337,
+    "gn:latitude":-33.37361,
+    "gn:longitude":21.17609,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vleiland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943337
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7d1c190560d8044582577267ce77ebf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730623,
+            "locality_id":1259958023,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1259958023,
+    "wof:lastmodified":1536671786,
+    "wof:name":"Vleiland",
+    "wof:parent_id":1108730623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17609,
+    -33.37361,
+    21.17609,
+    -33.37361
+],
+  "geometry": {"coordinates":[21.17609,-33.37361],"type":"Point"}
+}

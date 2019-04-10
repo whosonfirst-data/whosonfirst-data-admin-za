@@ -1,0 +1,93 @@
+{
+  "id": 1126104373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39754,-34.12286,18.39754,-34.12286",
+    "geom:latitude":-34.12286,
+    "geom:longitude":18.39754,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.12286,
+    "lbl:longitude":18.39754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3360873,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sun Valley",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":64,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":64,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":250496,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587847,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360873,
+        "gp:id":1587847,
+        "qs_pg:id":250496
+    },
+    "wof:country":"ZA",
+    "wof:created":1497316660,
+    "wof:geomhash":"fa86e36742c4ffc0cc2bcca3a5560b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":-1,
+            "neighbourhood_id":1126104373,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126104373,
+    "wof:lastmodified":1534379836,
+    "wof:name":"Sun Valley",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        85772563
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39754,
+    -34.12286,
+    18.39754,
+    -34.12286
+],
+  "geometry": {"coordinates":[18.39754,-34.12286],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125271343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5612,-27.18949,32.5612,-27.18949",
+    "geom:latitude":-27.18949,
+    "geom:longitude":32.5612,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":163694,
+    "gn:population":163694,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.18949,
+    "lbl:longitude":32.5612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347494,
+    "qs_pg:gn_pop":163694,
+    "qs_pg:name":"Umhlabuyalingana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":764933,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347494,
+        "qs_pg:id":764933
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042141,
+    "wof:geomhash":"810760165c96cca9f1789e00e9c0d43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "localadmin_id":1125271343,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271343,
+    "wof:lastmodified":1509387030,
+    "wof:name":"Umhlabuyalingana",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"localadmin",
+    "wof:population":163694,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5612,
+    -27.18949,
+    32.5612,
+    -27.18949
+],
+  "geometry": {"coordinates":[32.5612,-27.18949],"type":"Point"}
+}

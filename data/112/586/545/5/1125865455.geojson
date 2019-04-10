@@ -1,0 +1,109 @@
+{
+  "id": 1125865455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85,-31.33333,27.85,-31.33333",
+    "geom:latitude":-31.33333,
+    "geom:longitude":27.85,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11836,
+    "gn:population":11836,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.33333,
+    "lbl:longitude":27.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Elliot"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u5229\u5967\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Elliot"
+    ],
+    "name:eng_x_preferred":[
+        "Elliot"
+    ],
+    "name:fre_x_preferred":[
+        "Elliot"
+    ],
+    "name:ger_x_preferred":[
+        "Elliot"
+    ],
+    "name:ita_x_preferred":[
+        "Elliot"
+    ],
+    "name:nso_x_preferred":[
+        "Elliot"
+    ],
+    "name:rum_x_preferred":[
+        "Elliot"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u043b\u0438\u043e\u0442"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1005781,
+    "qs_pg:gn_pop":11836,
+    "qs_pg:name":"Elliot",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130251,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005781,
+        "qs_pg:id":130251,
+        "wd:id":"Q1880498"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294018,
+    "wof:geomhash":"96ac37ec1f93be5bd797a20eaaa77020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125865455,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125865455,
+    "wof:lastmodified":1553816583,
+    "wof:name":"Elliot",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:population":11836,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85,
+    -31.33333,
+    27.85,
+    -31.33333
+],
+  "geometry": {"coordinates":[27.85,-31.33333],"type":"Point"}
+}

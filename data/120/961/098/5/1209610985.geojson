@@ -1,0 +1,63 @@
+{
+  "id": 1209610985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,-23.2,30.93333,-23.2",
+    "geom:latitude":-23.2,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM331",
+    "gn:asciiname":"Ka-Mininginisi",
+    "gn:country_code":"ZA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":992380,
+    "gn:latitude":-23.2,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ka-Mininginisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":992380
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cd2d70780b60e6abf4e78a54dad0e901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209610985
+        }
+    ],
+    "wof:id":1209610985,
+    "wof:lastmodified":1536281847,
+    "wof:name":"Ka-Mininginisi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    -23.2,
+    30.93333,
+    -23.2
+],
+  "geometry": {"coordinates":[30.93333,-23.2],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125849413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01509,-34.15152,19.01509,-34.15152",
+    "geom:latitude":-34.15152,
+    "geom:longitude":19.01509,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":29885,
+    "gn:population":29885,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.15152,
+    "lbl:longitude":19.01509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Grabouw"
+    ],
+    "name:dut_x_preferred":[
+        "Grabouw"
+    ],
+    "name:eng_x_preferred":[
+        "Grabouw"
+    ],
+    "name:fre_x_preferred":[
+        "Grabouw"
+    ],
+    "name:ger_x_preferred":[
+        "Grabouw"
+    ],
+    "name:nso_x_preferred":[
+        "Grabouw"
+    ],
+    "name:pol_x_preferred":[
+        "Grabouw"
+    ],
+    "name:rum_x_preferred":[
+        "Grabouw"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3367513,
+    "qs_pg:gn_pop":29885,
+    "qs_pg:name":"Grabouw",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":185,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1255363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581911,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367513,
+        "gp:id":1581911,
+        "qs_pg:id":1255363,
+        "wd:id":"Q1540958"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293321,
+    "wof:geomhash":"1762517785ac4d640d0e5702e07092ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125849413,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125849413,
+    "wof:lastmodified":1514503911,
+    "wof:name":"Grabouw",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:population":29885,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01509,
+    -34.15152,
+    19.01509,
+    -34.15152
+],
+  "geometry": {"coordinates":[19.01509,-34.15152],"type":"Point"}
+}

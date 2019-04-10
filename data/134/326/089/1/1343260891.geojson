@@ -1,0 +1,69 @@
+{
+  "id": 1343260891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1505,-30.72418,26.1505,-30.72418",
+    "geom:latitude":-30.72418,
+    "geom:longitude":26.1505,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Vermont",
+    "gn:country_code":"ZA",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":944177,
+    "gn:latitude":-30.72418,
+    "gn:longitude":26.1505,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vermont",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944177
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"681f6c492617fec4537dda942e9b7d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1343260891,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343260891,
+    "wof:lastmodified":1537032851,
+    "wof:name":"Vermont",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1505,
+    -30.72418,
+    26.1505,
+    -30.72418
+],
+  "geometry": {"coordinates":[26.1505,-30.72418],"type":"Point"}
+}

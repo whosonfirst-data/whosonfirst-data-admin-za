@@ -1,0 +1,70 @@
+{
+  "id": 101925515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1407483.981373,
+    "geom:bbox":"29.491355896,-25.7959346771,29.5062732697,-25.7780094147",
+    "geom:latitude":-25.786475,
+    "geom:longitude":29.49828,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.78706,
+    "lbl:longitude":29.495681,
+    "mps:latitude":-25.78706,
+    "mps:longitude":29.495681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalbankspruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"bf4eff288084c581f1bac0523c2738d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925515,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925515,
+    "wof:lastmodified":1500026349,
+    "wof:name":"Vaalbankspruit",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49135589599609,
+    -25.79593467712402,
+    29.50627326965332,
+    -25.77800941467285
+],
+  "geometry": {"coordinates":[[[29.49135589599609,-25.78568649291992],[29.49136161804199,-25.7844295501709],[29.49195671081543,-25.78398323059082],[29.50458908081055,-25.77800941467285],[29.50627326965332,-25.78376579284668],[29.49888610839844,-25.78652000427246],[29.50153350830078,-25.79335021972656],[29.4959716796875,-25.79593467712402],[29.49135589599609,-25.78568649291992]]],"type":"Polygon"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1126009931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80687,-31.12109,26.80687,-31.12109",
+    "geom:latitude":-31.12109,
+    "geom:longitude":26.80687,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.12109,
+    "lbl:longitude":26.80687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Jamestown"
+    ],
+    "name:dut_x_preferred":[
+        "Jamestown"
+    ],
+    "name:eng_x_preferred":[
+        "Jamestown"
+    ],
+    "name:nso_x_preferred":[
+        "Jamestown"
+    ],
+    "name:rum_x_preferred":[
+        "Jamestown"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0633\u062a\u0648\u0624\u06ba\u060c \u0627\u06cc\u0633\u0679\u0631\u0646 \u06a9\u06cc\u067e"
+    ],
+    "name:ven_x_preferred":[
+        "Jamestown"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":994060,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jamestown",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1012994,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1589875,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994060,
+        "gp:id":1589875,
+        "qs_pg:id":1012994,
+        "wd:id":"Q3642608"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300203,
+    "wof:geomhash":"963d7ea5f000173aca5910f5f752018d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1126009931,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1126009931,
+    "wof:lastmodified":1514503919,
+    "wof:name":"Jamestown",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80687,
+    -31.12109,
+    26.80687,
+    -31.12109
+],
+  "geometry": {"coordinates":[26.80687,-31.12109],"type":"Point"}
+}

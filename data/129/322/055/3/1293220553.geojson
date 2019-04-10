@@ -1,0 +1,69 @@
+{
+  "id": 1293220553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06667,-27.66667,24.06667,-27.66667",
+    "geom:latitude":-27.66667,
+    "geom:longitude":24.06667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC45",
+    "gn:admin3_code":"NC452",
+    "gn:asciiname":"Khudutlou",
+    "gn:country_code":"ZA",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991085,
+    "gn:latitude":-27.66667,
+    "gn:longitude":24.06667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Khudutlou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991085
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"759c538e2ac10f75e51a506e9f5b5614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1293220553,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1293220553,
+    "wof:lastmodified":1536674871,
+    "wof:name":"Khudutlou",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06667,
+    -27.66667,
+    24.06667,
+    -27.66667
+],
+  "geometry": {"coordinates":[24.06667,-27.66667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125271867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69946,-33.57188,19.69946,-33.57188",
+    "geom:latitude":-33.57188,
+    "geom:longitude":19.69946,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":134271,
+    "gn:population":134271,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.57188,
+    "lbl:longitude":19.69946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347628,
+    "qs_pg:gn_pop":134271,
+    "qs_pg:name":"Breede Valley",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":765020,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347628,
+        "qs_pg:id":765020
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042159,
+    "wof:geomhash":"906e1a2f7b0ec5d874a901a0199e2eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "localadmin_id":1125271867,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125271867,
+    "wof:lastmodified":1509387050,
+    "wof:name":"Breede Valley",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"localadmin",
+    "wof:population":134271,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69946,
+    -33.57188,
+    19.69946,
+    -33.57188
+],
+  "geometry": {"coordinates":[19.69946,-33.57188],"type":"Point"}
+}

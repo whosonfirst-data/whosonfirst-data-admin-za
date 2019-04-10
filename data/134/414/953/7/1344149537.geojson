@@ -1,0 +1,69 @@
+{
+  "id": 1344149537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93619,-26.46141,27.93619,-26.46141",
+    "geom:latitude":-26.46141,
+    "geom:longitude":27.93619,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"DC42",
+    "gn:admin3_code":"GT422",
+    "gn:asciiname":"Homestead Apple Orchards",
+    "gn:country_code":"ZA",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":995798,
+    "gn:latitude":-26.46141,
+    "gn:longitude":27.93619,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Homestead Apple Orchards",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995798
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"99edb6880e0ead0a5c6baab44cfc5ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":1344149537,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1344149537,
+    "wof:lastmodified":1536746853,
+    "wof:name":"Homestead Apple Orchards",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93619,
+    -26.46141,
+    27.93619,
+    -26.46141
+],
+  "geometry": {"coordinates":[27.93619,-26.46141],"type":"Point"}
+}

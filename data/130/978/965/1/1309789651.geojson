@@ -1,0 +1,71 @@
+{
+  "id": 1309789651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73568,-27.5303,23.73568,-27.5303",
+    "geom:latitude":-27.5303,
+    "geom:longitude":23.73568,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ga-Masepa",
+    "gn:country_code":"ZA",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003276,
+    "gn:latitude":-27.5303,
+    "gn:longitude":23.73568,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ga-Masepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuam Mazeppa",
+        "Ga-Masepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003276
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0fa1327f61a53f7b0c682bef5b71ac62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1309789651,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1309789651,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Ga-Masepa",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73568,
+    -27.5303,
+    23.73568,
+    -27.5303
+],
+  "geometry": {"coordinates":[23.73568,-27.5303],"type":"Point"}
+}

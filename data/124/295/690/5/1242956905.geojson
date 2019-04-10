@@ -1,0 +1,69 @@
+{
+  "id": 1242956905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72173,-26.14321,25.72173,-26.14321",
+    "geom:latitude":-26.14321,
+    "geom:longitude":25.72173,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Driehoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1008174,
+    "gn:latitude":-26.14321,
+    "gn:longitude":25.72173,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Driehoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1008174
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c3cb504582d792fba9217f072b09eb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1242956905,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1242956905,
+    "wof:lastmodified":1537013690,
+    "wof:name":"Driehoek",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72173,
+    -26.14321,
+    25.72173,
+    -26.14321
+],
+  "geometry": {"coordinates":[25.72173,-26.14321],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276368889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83427,-31.10474,25.83427,-31.10474",
+    "geom:latitude":-31.10474,
+    "geom:longitude":25.83427,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Geduldfontein (2)",
+    "gn:country_code":"ZA",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002642,
+    "gn:latitude":-31.10474,
+    "gn:longitude":25.83427,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Geduldfontein (2)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002642
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bf3a3265ff54f13c1c035fd5522b5aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1276368889,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276368889,
+    "wof:lastmodified":1536731285,
+    "wof:name":"Geduldfontein (2)",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83427,
+    -31.10474,
+    25.83427,
+    -31.10474
+],
+  "geometry": {"coordinates":[25.83427,-31.10474],"type":"Point"}
+}

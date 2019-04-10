@@ -1,0 +1,73 @@
+{
+  "id": 1226781401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65699,-30.94534,29.65699,-30.94534",
+    "geom:latitude":-30.94534,
+    "geom:longitude":29.65699,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Swani Ridge",
+    "gn:country_code":"ZA",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951148,
+    "gn:latitude":-30.94534,
+    "gn:longitude":29.65699,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Swani Ridge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Swane Ridge",
+        "Swani Ridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951148
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5c35362bf25c874ad379c9e610a388dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1226781401,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226781401,
+    "wof:lastmodified":1537716376,
+    "wof:name":"Swani Ridge",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65699,
+    -30.94534,
+    29.65699,
+    -30.94534
+],
+  "geometry": {"coordinates":[29.65699,-30.94534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276130103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78937,-29.16713,26.78937,-29.16713",
+    "geom:latitude":-29.16713,
+    "geom:longitude":26.78937,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Bultfontein Number One",
+    "gn:country_code":"ZA",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014740,
+    "gn:latitude":-29.16713,
+    "gn:longitude":26.78937,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bultfontein Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bultfontein Number 1",
+        "Bultfontein Number One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014740
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9c376935ccceaab57132827a5458b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1276130103,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276130103,
+    "wof:lastmodified":1537716434,
+    "wof:name":"Bultfontein Number One",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78937,
+    -29.16713,
+    26.78937,
+    -29.16713
+],
+  "geometry": {"coordinates":[26.78937,-29.16713],"type":"Point"}
+}

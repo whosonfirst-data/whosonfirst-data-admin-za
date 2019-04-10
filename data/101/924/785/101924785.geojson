@@ -1,0 +1,73 @@
+{
+  "id": 101924785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":592837.707733,
+    "geom:bbox":"24.5435810089,-28.0681285858,24.553155899,-28.0609798431",
+    "geom:latitude":-28.064486,
+    "geom:longitude":24.54837,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.06478,
+    "lbl:longitude":24.548279,
+    "mps:latitude":-28.06478,
+    "mps:longitude":24.548279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thota ya tau",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949057,
+        "gp:id":1582804
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"725299a84a26a0d62c2962c43aebe662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101924785,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924785,
+    "wof:lastmodified":1500028288,
+    "wof:name":"Thota ya tau",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54358100891113,
+    -28.06812858581543,
+    24.55315589904785,
+    -28.06097984313965
+],
+  "geometry": {"coordinates":[[[24.54358100891113,-28.06578063964844],[24.54453659057617,-28.0612907409668],[24.54585075378418,-28.06112861633301],[24.54716110229492,-28.06146621704102],[24.54959869384766,-28.06180572509766],[24.55110168457031,-28.06097984313965],[24.55278778076172,-28.06148338317871],[24.55315589904785,-28.06331443786621],[24.55277252197266,-28.06547546386719],[24.55220603942871,-28.06647300720215],[24.54994773864746,-28.06812858581543],[24.54844856262207,-28.06795692443848],[24.54545021057129,-28.0676155090332],[24.54432678222656,-28.06711387634277],[24.54358100891113,-28.06578063964844]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276866465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.67787,-23.9771,29.67787,-23.9771",
+    "geom:latitude":-23.9771,
+    "geom:longitude":29.67787,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Ga-Molepo",
+    "gn:country_code":"ZA",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003163,
+    "gn:latitude":-23.9771,
+    "gn:longitude":29.67787,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ga-Molepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003163
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"23e4085d9548249eacf37067f4f81d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1276866465,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276866465,
+    "wof:lastmodified":1537056655,
+    "wof:name":"Ga-Molepo",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.67787,
+    -23.9771,
+    29.67787,
+    -23.9771
+],
+  "geometry": {"coordinates":[29.67787,-23.9771],"type":"Point"}
+}

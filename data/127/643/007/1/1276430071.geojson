@@ -1,0 +1,75 @@
+{
+  "id": 1276430071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10966,-26.28018,25.10966,-26.28018",
+    "geom:latitude":-26.28018,
+    "geom:longitude":25.10966,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Setlagode",
+    "gn:country_code":"ZA",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956340,
+    "gn:latitude":-26.28018,
+    "gn:longitude":25.10966,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Setlagode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Setlago",
+        "Setlagoli",
+        "Setlagodi",
+        "Setlagode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956340
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6429d5d960f1db4eb9b0c4a61d925ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1276430071,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1276430071,
+    "wof:lastmodified":1537716380,
+    "wof:name":"Setlagode",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10966,
+    -26.28018,
+    25.10966,
+    -26.28018
+],
+  "geometry": {"coordinates":[25.10966,-26.28018],"type":"Point"}
+}

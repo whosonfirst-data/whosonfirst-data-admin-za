@@ -1,0 +1,99 @@
+{
+  "id": 101926193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000679,
+    "geom:area_square_m":7522211.629028,
+    "geom:bbox":"28.3835372925,-26.39270401,28.4211750031,-26.3606586456",
+    "geom:latitude":-26.379588,
+    "geom:longitude":28.403885,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.379399,
+    "lbl:longitude":28.405164,
+    "mps:latitude":-26.379399,
+    "mps:longitude":28.405164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Duduza"
+    ],
+    "name:eng_x_preferred":[
+        "Duduza"
+    ],
+    "name:fre_x_preferred":[
+        "Duduza"
+    ],
+    "name:nso_x_preferred":[
+        "Duduza"
+    ],
+    "name:zul_x_preferred":[
+        "Duduza"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Duduza",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":211,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14629524-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1007601,
+        "gp:id":1580882,
+        "qs:id":1116866,
+        "qs_pg:id":1116866,
+        "wd:id":"Q5312112",
+        "wk:page":"Duduza"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6b3c392cc7fa5018467b54a78b12f21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926193,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926193,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715813,
+    "wof:name":"Duduza",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38353729248047,
+    -26.39270401000977,
+    28.42117500305176,
+    -26.36065864562988
+],
+  "geometry": {"coordinates":[[[28.41287994384766,-26.36556434631348],[28.41919898986816,-26.373779296875],[28.42117500305176,-26.37660789489746],[28.41963005065918,-26.38457870483398],[28.41207695007324,-26.38885116577148],[28.39547729492188,-26.39270401000977],[28.38446044921875,-26.39016532897949],[28.38353729248047,-26.38545608520508],[28.38426399230957,-26.3847827911377],[28.3946647644043,-26.37515830993652],[28.39528465270996,-26.37289810180664],[28.40501594543457,-26.36505508422852],[28.4074649810791,-26.36283493041992],[28.40903282165527,-26.36081504821777],[28.40912246704102,-26.36065864562988],[28.41287994384766,-26.36556434631348]]],"type":"Polygon"}
+}

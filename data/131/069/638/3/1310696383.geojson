@@ -1,0 +1,69 @@
+{
+  "id": 1310696383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56421,-23.00222,28.56421,-23.00222",
+    "geom:latitude":-23.00222,
+    "geom:longitude":28.56421,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM351",
+    "gn:asciiname":"Tolwe",
+    "gn:country_code":"ZA",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948499,
+    "gn:latitude":-23.00222,
+    "gn:longitude":28.56421,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tolwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948499
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"576cd48c750d81e727dfb4bcd175d15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1310696383,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310696383,
+    "wof:lastmodified":1536640658,
+    "wof:name":"Tolwe",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56421,
+    -23.00222,
+    28.56421,
+    -23.00222
+],
+  "geometry": {"coordinates":[28.56421,-23.00222],"type":"Point"}
+}

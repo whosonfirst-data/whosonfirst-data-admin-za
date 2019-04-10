@@ -1,0 +1,125 @@
+{
+  "id": 101925817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000351,
+    "geom:area_square_m":3900292.13783,
+    "geom:bbox":"26.1502666473,-26.1702365875,26.1693496704,-26.1370162964",
+    "geom:latitude":-26.150506,
+    "geom:longitude":26.1596,
+    "gn:population":65863,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.150063,
+    "lbl:longitude":26.159455,
+    "mps:latitude":-26.150063,
+    "mps:longitude":26.159455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u5229\u8d6b\u6ed5\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:eng_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:fre_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:ger_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:ita_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d2\u30c6\u30f3\u30d0\u30fc\u30b0"
+    ],
+    "name:nso_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:pol_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:rum_x_preferred":[
+        "Lichtenburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0445\u0442\u0435\u043d\u0431\u0443\u0440\u0433\u0435"
+    ],
+    "name:tsn_x_preferred":[
+        "Lichtenburg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lichtenburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":-26.15,
+    "wd:longitude":26.166667,
+    "wd:population":26338,
+    "wd:wordcount":2196,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982899,
+        "gp:id":1583854,
+        "qs_pg:id":989020,
+        "wd:id":"Q2671213",
+        "wk:page":"Lichtenburg, North West"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1cb7476470e11a0301810681fe370e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":101925817,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925817,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Lichtenburg",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:population":26338,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15026664733887,
+    -26.17023658752441,
+    26.16934967041016,
+    -26.13701629638672
+],
+  "geometry": {"coordinates":[[[26.1515941619873,-26.14527320861816],[26.15235710144043,-26.14271926879883],[26.15303611755371,-26.14044380187988],[26.15788841247559,-26.14009857177734],[26.15852928161621,-26.13737869262695],[26.16620635986328,-26.13701629638672],[26.16865158081055,-26.14755439758301],[26.16934967041016,-26.15055465698242],[26.16836738586426,-26.15267372131348],[26.16569328308105,-26.15239334106445],[26.16376113891602,-26.15964508056641],[26.16334342956543,-26.15978240966797],[26.15810203552246,-26.1614990234375],[26.15784072875977,-26.1695671081543],[26.15667724609375,-26.16965675354004],[26.15450286865234,-26.17023658752441],[26.15304374694824,-26.15671730041504],[26.15261077880859,-26.14677238464355],[26.15060997009277,-26.14709091186523],[26.15026664733887,-26.14618873596191],[26.1515941619873,-26.14527320861816]]],"type":"Polygon"}
+}

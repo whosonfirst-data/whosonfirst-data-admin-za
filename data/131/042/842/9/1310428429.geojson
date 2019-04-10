@@ -1,0 +1,73 @@
+{
+  "id": 1310428429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21888,-31.86801,28.21888,-31.86801",
+    "geom:latitude":-31.86801,
+    "geom:longitude":28.21888,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"KuNtsimba",
+    "gn:country_code":"ZA",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986171,
+    "gn:latitude":-31.86801,
+    "gn:longitude":28.21888,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuNtsimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntsimba",
+        "KuNtsimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986171
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a522fa8fe0ab3928ed4f93098e34deee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1310428429,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310428429,
+    "wof:lastmodified":1537716415,
+    "wof:name":"KuNtsimba",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21888,
+    -31.86801,
+    28.21888,
+    -31.86801
+],
+  "geometry": {"coordinates":[28.21888,-31.86801],"type":"Point"}
+}

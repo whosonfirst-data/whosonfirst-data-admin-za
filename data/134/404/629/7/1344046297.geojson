@@ -1,0 +1,71 @@
+{
+  "id": 1344046297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54283,-26.45461,27.54283,-26.45461",
+    "geom:latitude":-26.45461,
+    "geom:longitude":27.54283,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Leeudrif",
+    "gn:country_code":"ZA",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984007,
+    "gn:latitude":-26.45461,
+    "gn:longitude":27.54283,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leeudrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leeuwdrift",
+        "Leeudrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984007
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e429fc2049caa0b8266df202c879887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1344046297,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1344046297,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leeudrif",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54283,
+    -26.45461,
+    27.54283,
+    -26.45461
+],
+  "geometry": {"coordinates":[27.54283,-26.45461],"type":"Point"}
+}

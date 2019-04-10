@@ -1,0 +1,89 @@
+{
+  "id": 1126089385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54123,-28.81229,29.54123,-28.81229",
+    "geom:latitude":-28.81229,
+    "geom:longitude":29.54123,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.81229,
+    "lbl:longitude":29.54123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Winterton"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":939340,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Winterton Sh",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":355325,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55881389,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926957,
+        1108730553,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939340,
+        "gp:id":55881389,
+        "qs_pg:id":355325
+    },
+    "wof:country":"ZA",
+    "wof:created":1497313428,
+    "wof:geomhash":"25214a8b627cb706e73bb96682af0644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926957,
+            "neighbourhood_id":1126089385,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1126089385,
+    "wof:lastmodified":1509411568,
+    "wof:name":"Winterton Sh",
+    "wof:parent_id":101926957,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54123,
+    -28.81229,
+    29.54123,
+    -28.81229
+],
+  "geometry": {"coordinates":[29.54123,-28.81229],"type":"Point"}
+}

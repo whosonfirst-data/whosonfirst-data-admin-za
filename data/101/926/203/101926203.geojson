@@ -1,0 +1,77 @@
+{
+  "id": 101926203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":468507.936771,
+    "geom:bbox":"27.3155651093,-26.3990116119,27.3288402557,-26.393579483",
+    "geom:latitude":-26.395953,
+    "geom:longitude":27.321971,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.395743,
+    "lbl:longitude":27.321519,
+    "mps:latitude":-26.395743,
+    "mps:longitude":27.321519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Doornfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.183333,
+    "wd:longitude":28.05,
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009274,
+        "gp:id":12517401,
+        "wd:id":"Q5297240"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8059ead3484e7e0d3e349fcfa627a52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926203,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926203,
+    "wof:lastmodified":1527715814,
+    "wof:name":"Doornfontein",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31556510925293,
+    -26.39901161193848,
+    27.3288402557373,
+    -26.39357948303223
+],
+  "geometry": {"coordinates":[[[27.3191967010498,-26.39901161193848],[27.31599807739258,-26.3972225189209],[27.31556510925293,-26.39643287658691],[27.32036209106445,-26.39357948303223],[27.32535552978516,-26.39365386962891],[27.32542419433594,-26.39450836181641],[27.32870674133301,-26.39452362060547],[27.3288402557373,-26.39656066894531],[27.32534027099609,-26.3964786529541],[27.32526016235352,-26.39746284484863],[27.32285308837891,-26.39751815795898],[27.32146453857422,-26.39790534973145],[27.3191967010498,-26.39901161193848]]],"type":"Polygon"}
+}

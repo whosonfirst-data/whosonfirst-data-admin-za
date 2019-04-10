@@ -1,0 +1,77 @@
+{
+  "id": 101927375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":911097.374913,
+    "geom:bbox":"30.0,-26.514875412,30.0079078674,-26.5036506653",
+    "geom:latitude":-26.509291,
+    "geom:longitude":30.003703,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.509367,
+    "lbl:longitude":30.003914,
+    "mps:latitude":-26.509367,
+    "mps:longitude":30.003914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wesselton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.533333,
+    "wd:longitude":29.983333,
+    "wd:wordcount":675,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940410,
+        "gp:id":1581181,
+        "wd:id":"Q1027521"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"65624044a9df0f4c0e10714fe5ba812c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101927375,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927375,
+    "wof:lastmodified":1527715641,
+    "wof:name":"Wesselton",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0,
+    -26.5148754119873,
+    30.00790786743164,
+    -26.5036506652832
+],
+  "geometry": {"coordinates":[[[30.0,-26.503662109375],[30.00618171691895,-26.5036506652832],[30.0066032409668,-26.5036506652832],[30.00790786743164,-26.5095157623291],[30.00790786743164,-26.51141166687012],[30.00669860839844,-26.51480865478516],[30.00632667541504,-26.51485443115234],[30.00571441650391,-26.5148754119873],[30.00510215759277,-26.51484107971191],[30.00449752807617,-26.51475143432617],[30.0,-26.51484489440918],[30.0,-26.503662109375]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226741549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65,-25.31667,29.65,-25.31667",
+    "geom:latitude":-25.31667,
+    "geom:longitude":29.65,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mapoer",
+    "gn:country_code":"ZA",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979102,
+    "gn:latitude":-25.31667,
+    "gn:longitude":29.65,
+    "gn:modification_date":"2004-05-11",
+    "gn:name":"Mapoer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979102
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d9aac9e7477275c908f571baf66ab2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1226741549,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226741549,
+    "wof:lastmodified":1536721943,
+    "wof:name":"Mapoer",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65,
+    -25.31667,
+    29.65,
+    -25.31667
+],
+  "geometry": {"coordinates":[29.65,-25.31667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243362795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16612,-32.64308,28.16612,-32.64308",
+    "geom:latitude":-32.64308,
+    "geom:longitude":28.16612,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Hatchleydene",
+    "gn:country_code":"ZA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997345,
+    "gn:latitude":-32.64308,
+    "gn:longitude":28.16612,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hatchleydene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatchley",
+        "Hatchleydene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997345
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"091a60e655ecc299cb91d24ae320d9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1243362795,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243362795,
+    "wof:lastmodified":1537716422,
+    "wof:name":"Hatchleydene",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16612000000001,
+    -32.64308,
+    28.16612000000001,
+    -32.64308
+],
+  "geometry": {"coordinates":[28.16612000000001,-32.64308],"type":"Point"}
+}

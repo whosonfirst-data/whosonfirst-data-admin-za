@@ -1,0 +1,95 @@
+{
+  "id": 1126040153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0306775,-33.596962,22.0306775,-33.596962",
+    "geom:latitude":-33.596962,
+    "geom:longitude":22.030677,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.596962,
+    "lbl:longitude":22.030677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "De Hoop"
+    ],
+    "name:dut_x_preferred":[
+        "De Hoop"
+    ],
+    "name:eng_x_preferred":[
+        "De Hoop"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435-\u0425\u043e\u043e\u043f"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"De Hoop",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":970266,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880558,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880558,
+        "qs_pg:id":970266,
+        "wd:id":"Q14860542"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497302093,
+    "wof:geomhash":"e72d785c6bbb7429f80ac3600f8f4a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1126040153,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126040153,
+    "wof:lastmodified":1514503548,
+    "wof:name":"De Hoop",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0306775,
+    -33.596962,
+    22.0306775,
+    -33.596962
+],
+  "geometry": {"coordinates":[22.0306775,-33.596962],"type":"Point"}
+}

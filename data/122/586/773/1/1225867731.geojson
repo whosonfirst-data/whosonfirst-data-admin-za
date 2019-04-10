@@ -1,0 +1,69 @@
+{
+  "id": 1225867731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01534,-32.0157,29.01534,-32.0157",
+    "geom:latitude":-32.0157,
+    "geom:longitude":29.01534,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Talemofu",
+    "gn:country_code":"ZA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":950189,
+    "gn:latitude":-32.0157,
+    "gn:longitude":29.01534,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Talemofu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950189
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3320e68974602a4af0b96053b805d8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1225867731,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1225867731,
+    "wof:lastmodified":1536981343,
+    "wof:name":"Talemofu",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01534,
+    -32.0157,
+    29.01534,
+    -32.0157
+],
+  "geometry": {"coordinates":[29.01534,-32.0157],"type":"Point"}
+}

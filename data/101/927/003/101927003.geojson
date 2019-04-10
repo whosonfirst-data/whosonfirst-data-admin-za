@@ -1,0 +1,73 @@
+{
+  "id": 101927003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":825301.212158,
+    "geom:bbox":"26.7971134186,-29.0314159393,26.8069572449,-29.0222034454",
+    "geom:latitude":-29.026774,
+    "geom:longitude":26.802111,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.026845,
+    "lbl:longitude":26.802111,
+    "mps:latitude":-29.026845,
+    "mps:longitude":26.802111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Houtnek",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995230,
+        "gp:id":1588012
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3a9618e6d3f69b82ac0c6ef1c55c543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101927003,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927003,
+    "wof:lastmodified":1500027642,
+    "wof:name":"Houtnek",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7971134185791,
+    -29.03141593933105,
+    26.80695724487305,
+    -29.02220344543457
+],
+  "geometry": {"coordinates":[[[26.79775428771973,-29.03141593933105],[26.7971134185791,-29.02334213256836],[26.80695724487305,-29.02220344543457],[26.80661392211914,-29.03042030334473],[26.79775428771973,-29.03141593933105]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210000319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91379,-26.56301,22.91379,-26.56301",
+    "geom:latitude":-26.56301,
+    "geom:longitude":22.91379,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Madingwane",
+    "gn:country_code":"ZA",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980698,
+    "gn:latitude":-26.56301,
+    "gn:longitude":22.91379,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Madingwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980698
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fa24e04c2f8b747466bbda2e1a274b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1210000319,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1210000319,
+    "wof:lastmodified":1536379411,
+    "wof:name":"Madingwane",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91379,
+    -26.56301,
+    22.91379,
+    -26.56301
+],
+  "geometry": {"coordinates":[22.91379,-26.56301],"type":"Point"}
+}

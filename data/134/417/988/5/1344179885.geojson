@@ -1,0 +1,69 @@
+{
+  "id": 1344179885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43649,-31.13469,29.43649,-31.13469",
+    "geom:latitude":-31.13469,
+    "geom:longitude":29.43649,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Qolora",
+    "gn:country_code":"ZA",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":963661,
+    "gn:latitude":-31.13469,
+    "gn:longitude":29.43649,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Qolora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963661
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"73ca1bab87a5c9d3e222d7b000d06050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1344179885,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1344179885,
+    "wof:lastmodified":1536703581,
+    "wof:name":"Qolora",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43649000000001,
+    -31.13469000000001,
+    29.43649000000001,
+    -31.13469000000001
+],
+  "geometry": {"coordinates":[29.43649000000001,-31.13469000000001],"type":"Point"}
+}

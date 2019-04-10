@@ -1,0 +1,75 @@
+{
+  "id": 1259478673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83667,-29.32742,22.83667,-29.32742",
+    "geom:latitude":-29.32742,
+    "geom:longitude":22.83667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC077",
+    "gn:asciiname":"Niekerkshoop",
+    "gn:country_code":"ZA",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970686,
+    "gn:latitude":-29.32742,
+    "gn:longitude":22.83667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Niekerkshoop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niekerhshoop",
+        "Niekerkshope",
+        "Niekerkshoop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970686,
+        "wk:page":"Niekerkshoop"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e1e5618e9fce5894b50ae45793c68e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1259478673,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259478673,
+    "wof:lastmodified":1537716391,
+    "wof:name":"Niekerkshoop",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83667,
+    -29.32742,
+    22.83667,
+    -29.32742
+],
+  "geometry": {"coordinates":[22.83667,-29.32742],"type":"Point"}
+}

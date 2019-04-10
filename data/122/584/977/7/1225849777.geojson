@@ -1,0 +1,71 @@
+{
+  "id": 1225849777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84535,-30.52587,29.84535,-30.52587",
+    "geom:latitude":-30.52587,
+    "geom:longitude":29.84535,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Commonsvale",
+    "gn:country_code":"ZA",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012966,
+    "gn:latitude":-30.52587,
+    "gn:longitude":29.84535,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Commonsvale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Commons Valley",
+        "Commonsvale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012966
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"19c404c5ba1bbc8abcfb09d8ce32ff05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1225849777,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1225849777,
+    "wof:lastmodified":1537716432,
+    "wof:name":"Commonsvale",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84535,
+    -30.52587,
+    29.84535,
+    -30.52587
+],
+  "geometry": {"coordinates":[29.84535,-30.52587],"type":"Point"}
+}

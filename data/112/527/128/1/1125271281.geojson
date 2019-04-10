@@ -1,0 +1,82 @@
+{
+  "id": 1125271281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94477,-33.92604,18.94477,-33.92604",
+    "geom:latitude":-33.92604,
+    "geom:longitude":18.94477,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":200524,
+    "gn:population":200524,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.92604,
+    "lbl:longitude":18.94477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347475,
+    "qs_pg:gn_pop":200524,
+    "qs_pg:name":"Stellenbosch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764917,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347475,
+        "qs_pg:id":764917
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042138,
+    "wof:geomhash":"2963b10dc0903bc5e97bce0a55c4db3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "localadmin_id":1125271281,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125271281,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Stellenbosch",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"localadmin",
+    "wof:population":200524,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1125361573
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94477,
+    -33.92604,
+    18.94477,
+    -33.92604
+],
+  "geometry": {"coordinates":[18.94477,-33.92604],"type":"Point"}
+}

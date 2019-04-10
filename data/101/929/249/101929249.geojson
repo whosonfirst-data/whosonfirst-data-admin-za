@@ -1,0 +1,86 @@
+{
+  "id": 101929249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00054,
+    "geom:area_square_m":5542726.524923,
+    "geom:bbox":"25.3677921295,-33.8389968872,25.4051856995,-33.8137741089",
+    "geom:latitude":-33.826011,
+    "geom:longitude":25.390328,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.827507,
+    "lbl:longitude":25.392169,
+    "mps:latitude":-33.827507,
+    "mps:longitude":25.392169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "KwaNobuhle"
+    ],
+    "name:eng_x_variant":[
+        "Nabule"
+    ],
+    "name:unk_x_variant":[
+        "Nabule"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kwa Nobuhle",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1462ffaa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":985417,
+        "gp:id":1583576
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"443af13969de7791c146f3286b4c69f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":101929249,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929249,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501216578,
+    "wof:name":"Kwa Nobuhle",
+    "wof:parent_id":1108730527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3677921295166,
+    -33.83899688720703,
+    25.40518569946289,
+    -33.81377410888672
+],
+  "geometry": {"coordinates":[[[25.39620971679688,-33.81377410888672],[25.4007453918457,-33.81379318237305],[25.40300369262695,-33.81506729125977],[25.40485572814941,-33.82075119018555],[25.40518569946289,-33.82801055908203],[25.40137481689453,-33.83272171020508],[25.40098571777344,-33.83429718017578],[25.3983211517334,-33.83712387084961],[25.39415168762207,-33.83899688720703],[25.3911304473877,-33.83835220336914],[25.37796020507812,-33.82977294921875],[25.36890983581543,-33.82688903808594],[25.3677921295166,-33.82467651367188],[25.36855888366699,-33.82310485839844],[25.36857032775879,-33.82152557373047],[25.37084197998047,-33.82090759277344],[25.37726020812988,-33.82188415527344],[25.37952995300293,-33.82157897949219],[25.39051628112793,-33.81753158569336],[25.39620971679688,-33.81377410888672]]],"type":"Polygon"}
+}

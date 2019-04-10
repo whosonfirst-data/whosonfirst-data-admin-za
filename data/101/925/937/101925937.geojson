@@ -1,0 +1,77 @@
+{
+  "id": 101925937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000167,
+    "geom:area_square_m":1854344.770453,
+    "geom:bbox":"28.110584259,-26.2286109924,28.1286296844,-26.2116203308",
+    "geom:latitude":-26.221697,
+    "geom:longitude":28.121259,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.224084,
+    "lbl:longitude":28.122148,
+    "mps:latitude":-26.224084,
+    "mps:longitude":28.122148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ROSHERVILLE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959139,
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"48191630339a8ad54a76595aba0d3623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925937,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925937,
+    "wof:lastmodified":1534985999,
+    "wof:name":"Rosherville",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615479
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1105842590332,
+    -26.22861099243164,
+    28.12862968444824,
+    -26.21162033081055
+],
+  "geometry": {"coordinates":[[[28.1105842590332,-26.22648620605469],[28.11199188232422,-26.22092628479004],[28.1124153137207,-26.22113418579102],[28.1135082244873,-26.22139739990234],[28.11525535583496,-26.22146034240723],[28.11751365661621,-26.22099876403809],[28.12391662597656,-26.21905708312988],[28.12469100952148,-26.21882247924805],[28.11918449401855,-26.21162033081055],[28.12844848632812,-26.21226119995117],[28.12759780883789,-26.21794128417969],[28.12811279296875,-26.2177848815918],[28.12862968444824,-26.21762847900391],[28.12802696228027,-26.22248840332031],[28.12491035461426,-26.22861099243164],[28.11780166625977,-26.22851943969727],[28.1105842590332,-26.22648620605469]]],"type":"Polygon"}
+}

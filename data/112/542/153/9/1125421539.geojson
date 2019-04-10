@@ -1,0 +1,78 @@
+{
+  "id": 1125421539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36737,-26.45555,20.36737,-26.45555",
+    "geom:latitude":-26.45555,
+    "geom:longitude":20.36737,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7337,
+    "gn:population":7337,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.45555,
+    "lbl:longitude":20.36737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347440,
+    "qs_pg:gn_pop":7337,
+    "qs_pg:name":"Mier",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":764895,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347440,
+        "qs_pg:id":764895
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052342,
+    "wof:geomhash":"d84a0577d525c84f881d9fe5d9cd8c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "localadmin_id":1125421539,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125421539,
+    "wof:lastmodified":1509390489,
+    "wof:name":"Mier",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"localadmin",
+    "wof:population":7337,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36737,
+    -26.45555,
+    20.36737,
+    -26.45555
+],
+  "geometry": {"coordinates":[20.36737,-26.45555],"type":"Point"}
+}

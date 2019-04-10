@@ -1,0 +1,100 @@
+{
+  "id": 1125824551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60061,-27.03026,28.60061,-27.03026",
+    "geom:latitude":-27.03026,
+    "geom:longitude":28.60061,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11240,
+    "gn:population":11240,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.03026,
+    "lbl:longitude":28.60061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Villiers"
+    ],
+    "name:dut_x_preferred":[
+        "Villiers"
+    ],
+    "name:eng_x_preferred":[
+        "Villiers"
+    ],
+    "name:fre_x_preferred":[
+        "Villiers"
+    ],
+    "name:ger_x_preferred":[
+        "Villiers"
+    ],
+    "name:nso_x_preferred":[
+        "Villiers"
+    ],
+    "name:rum_x_preferred":[
+        "Villiers"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":943937,
+    "qs_pg:gn_pop":11240,
+    "qs_pg:name":"Villiers",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":276176,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943937,
+        "qs_pg:id":276176,
+        "wd:id":"Q3643597"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292218,
+    "wof:geomhash":"cd7ab89ae720bd6be68837f04eff2174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1125824551,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125824551,
+    "wof:lastmodified":1514504629,
+    "wof:name":"Villiers",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:population":11240,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60061,
+    -27.03026,
+    28.60061,
+    -27.03026
+],
+  "geometry": {"coordinates":[28.60061,-27.03026],"type":"Point"}
+}

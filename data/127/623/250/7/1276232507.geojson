@@ -1,0 +1,69 @@
+{
+  "id": 1276232507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60262,-31.02279,28.60262,-31.02279",
+    "geom:latitude":-31.02279,
+    "geom:longitude":28.60262,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Maqanyeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979073,
+    "gn:latitude":-31.02279,
+    "gn:longitude":28.60262,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Maqanyeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979073
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6f3f709cbc6e9464a7dee938a1f9ea13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1276232507,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276232507,
+    "wof:lastmodified":1536914311,
+    "wof:name":"Maqanyeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60262,
+    -31.02279,
+    28.60262,
+    -31.02279
+],
+  "geometry": {"coordinates":[28.60262,-31.02279],"type":"Point"}
+}

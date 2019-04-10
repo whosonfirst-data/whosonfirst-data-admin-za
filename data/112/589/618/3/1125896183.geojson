@@ -1,0 +1,120 @@
+{
+  "id": 1125896183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.646123,-25.812615,25.646123,-25.812615",
+    "geom:latitude":-25.812615,
+    "geom:longitude":25.646123,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.812615,
+    "lbl:longitude":25.646123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0431\u0430\u0442\u0445\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:eng_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:fin_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:fre_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:ger_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30de\u30d0\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "Mmabatho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043c\u0430\u0431\u0430\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mabato"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mmabatho",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"North-West",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118836,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1585116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"North-West",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585116,
+        "qs_pg:id":1118836,
+        "wd:id":"Q358762"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295577,
+    "wof:geomhash":"47cd7a67658ac2e998722d129099e695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1125896183,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1125896183,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Mmabatho",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1141908865
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.646123,
+    -25.812615,
+    25.646123,
+    -25.812615
+],
+  "geometry": {"coordinates":[25.646123,-25.812615],"type":"Point"}
+}

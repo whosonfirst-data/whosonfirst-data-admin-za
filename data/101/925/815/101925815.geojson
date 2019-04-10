@@ -1,0 +1,72 @@
+{
+  "id": 101925815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":202893.187855,
+    "geom:bbox":"27.7243041992,-26.1690711975,27.7307491302,-26.1644363403",
+    "geom:latitude":-26.166721,
+    "geom:longitude":27.72749,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.166739,
+    "lbl:longitude":27.72749,
+    "mps:latitude":-26.166739,
+    "mps:longitude":27.72749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bhongweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586785
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5aa4f0570d5145043643020e244e242c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925815,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925815,
+    "wof:lastmodified":1500027723,
+    "wof:name":"Bhongweni",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72430419921875,
+    -26.16907119750977,
+    27.73074913024902,
+    -26.16443634033203
+],
+  "geometry": {"coordinates":[[[27.72430419921875,-26.16737365722656],[27.72493553161621,-26.16443634033203],[27.73074913024902,-26.1660099029541],[27.72984313964844,-26.16907119750977],[27.72430419921875,-26.16737365722656]]],"type":"Polygon"}
+}

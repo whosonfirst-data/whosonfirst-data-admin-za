@@ -1,0 +1,72 @@
+{
+  "id": 101928239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1538943.424082,
+    "geom:bbox":"28.4059524536,-30.4433097839,28.4278831482,-30.4291343689",
+    "geom:latitude":-30.436039,
+    "geom:longitude":28.416505,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.437028,
+    "lbl:longitude":28.414511,
+    "mps:latitude":-30.437028,
+    "mps:longitude":28.414511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Seqhobong",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585422
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f4edde2fdd53bb3469ff1a499387fbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":101928239,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928239,
+    "wof:lastmodified":1500027826,
+    "wof:name":"Seqhobong",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40595245361328,
+    -30.44330978393555,
+    28.42788314819336,
+    -30.42913436889648
+],
+  "geometry": {"coordinates":[[[28.42171669006348,-30.42913436889648],[28.4265308380127,-30.43054580688477],[28.42788314819336,-30.43240165710449],[28.42749786376953,-30.43429183959961],[28.40904998779297,-30.44330978393555],[28.40643501281738,-30.44298362731934],[28.40595245361328,-30.44111061096191],[28.41009902954102,-30.43350028991699],[28.41661262512207,-30.43337440490723],[28.42085647583008,-30.42952728271484],[28.42171669006348,-30.42913436889648]]],"type":"Polygon"}
+}

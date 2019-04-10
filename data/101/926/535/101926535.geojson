@@ -1,0 +1,78 @@
+{
+  "id": 101926535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":406429.055229,
+    "geom:bbox":"27.9102287292,-26.9375743866,27.918088913,-26.9302940369",
+    "geom:latitude":-26.933797,
+    "geom:longitude":27.914033,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.934032,
+    "lbl:longitude":27.913715,
+    "mps:latitude":-26.934032,
+    "mps:longitude":27.913715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Clydesdale",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013200,
+        "gp:id":1580401,
+        "qs:id":1300229,
+        "qs_pg:id":1300229
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"23a7acfed1b22b8d754750d838b055d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926535,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926535,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Clydesdale",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91022872924805,
+    -26.93757438659668,
+    27.91808891296387,
+    -26.93029403686523
+],
+  "geometry": {"coordinates":[[[27.91557502746582,-26.93757438659668],[27.91022872924805,-26.93616104125977],[27.91134262084961,-26.93135261535645],[27.91808891296387,-26.93029403686523],[27.91557502746582,-26.93757438659668]]],"type":"Polygon"}
+}

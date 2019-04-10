@@ -1,0 +1,69 @@
+{
+  "id": 1259767675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54551,-24.38233,30.54551,-24.38233",
+    "geom:latitude":-24.38233,
+    "geom:longitude":30.54551,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM335",
+    "gn:asciiname":"Ga-Mametsa",
+    "gn:country_code":"ZA",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003316,
+    "gn:latitude":-24.38233,
+    "gn:longitude":30.54551,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ga-Mametsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003316
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c45e7544cd1f50287555be63250b9e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1259767675,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1259767675,
+    "wof:lastmodified":1536946342,
+    "wof:name":"Ga-Mametsa",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54551,
+    -24.38233,
+    30.54551,
+    -24.38233
+],
+  "geometry": {"coordinates":[30.54551,-24.38233],"type":"Point"}
+}

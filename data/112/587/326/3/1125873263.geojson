@@ -1,0 +1,95 @@
+{
+  "id": 1125873263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86579,-30.08221,30.86579,-30.08221",
+    "geom:latitude":-30.08221,
+    "geom:longitude":30.86579,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.08221,
+    "lbl:longitude":30.86579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Warner Beach"
+    ],
+    "name:eng_x_preferred":[
+        "Warner Beach"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":941939,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Warner Beach",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588752,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941939,
+        "gp:id":1588752,
+        "qs_pg:id":894381,
+        "wd:id":"Q7969700"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294407,
+    "wof:geomhash":"f63d6a3e02cb5bebe468049c38717ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1125873263,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125873263,
+    "wof:lastmodified":1514504632,
+    "wof:name":"Warner Beach",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86579,
+    -30.08221,
+    30.86579,
+    -30.08221
+],
+  "geometry": {"coordinates":[30.86579,-30.08221],"type":"Point"}
+}

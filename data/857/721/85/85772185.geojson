@@ -1,0 +1,111 @@
+{
+  "id": 85772185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5963286.595118,
+    "geom:bbox":"25.591874,-33.9616,25.591874,-33.9616",
+    "geom:latitude":-33.9616,
+    "geom:longitude":25.591874,
+    "gn:latitude":-33.96667,
+    "gn:longitude":25.6,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.9616,
+    "lbl:longitude":25.591874,
+    "mps:latitude":-33.965413,
+    "mps:longitude":25.587285,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Hallack Rock"
+    ],
+    "name:unk_x_variant":[
+        "Hallack Rock"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":964420,
+    "qs:gn_nam_loc":"Port Elizabeth, Eastern Cape, ZA",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Hallack Rock",
+    "qs:local_max":332,
+    "qs:local_sum":1606,
+    "qs:localhoods":11,
+    "qs:name":"Hallack Rock",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Eastern Cape",
+    "qs:name_adm2":"Nelson Mandela Bay",
+    "qs:name_lau":"Nelson Mandela Bay",
+    "qs:name_local":"Port Elizabeth",
+    "qs:photo_max":95,
+    "qs:photo_sum":159,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346979,
+    "qs:woe_adm2":56189415,
+    "qs:woe_lau":56189712,
+    "qs:woe_local":1586614,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101929259,
+        1108730527,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998200,
+        "gp:id":1582074,
+        "qs:id":227493,
+        "qs_pg:id":227493
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"57b6fce6e02ccdf44936b798c8cb0a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":101929259,
+            "neighbourhood_id":85772185,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":85772185,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859513,
+    "wof:name":"Hallack Rock",
+    "wof:parent_id":101929259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.591874,
+    -33.9616,
+    25.591874,
+    -33.9616
+],
+  "geometry": {"coordinates":[25.591874,-33.9616],"type":"Point"}
+}

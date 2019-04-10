@@ -1,0 +1,126 @@
+{
+  "id": 85772135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":27201253.353664,
+    "geom:bbox":"27.851028,-26.41483,27.851028,-26.41483",
+    "geom:latitude":-26.41483,
+    "geom:longitude":27.851028,
+    "gn:latitude":-26.40971,
+    "gn:longitude":27.83678,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.41483,
+    "lbl:longitude":27.851028,
+    "mps:latitude":-26.414812,
+    "mps:longitude":27.882118,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Ennerdale"
+    ],
+    "name:eng_x_preferred":[
+        "Ennerdale"
+    ],
+    "name:nso_x_preferred":[
+        "Ennerdale"
+    ],
+    "name:ron_x_preferred":[
+        "Ennerdale"
+    ],
+    "name:unk_x_variant":[
+        "Ennerdale"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Ennerdale",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Ennerdale",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":6,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":-26.409722,
+    "wd:longitude":27.836944,
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926201,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063428,
+        "gp:id":1581144,
+        "qs:id":118120,
+        "qs_pg:id":118120,
+        "wd:id":"Q3643770",
+        "wk:page":"Ennerdale, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1365c80798c2c8d17e4d3c46a2c0c26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101926201,
+            "neighbourhood_id":85772135,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85772135,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859508,
+    "wof:name":"Ennerdale",
+    "wof:parent_id":101926201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.851028,
+    -26.41483,
+    27.851028,
+    -26.41483
+],
+  "geometry": {"coordinates":[27.851028,-26.41483],"type":"Point"}
+}

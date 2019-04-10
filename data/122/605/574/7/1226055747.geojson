@@ -1,0 +1,74 @@
+{
+  "id": 1226055747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,-27.66667,31.05,-27.66667",
+    "geom:latitude":-27.66667,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN263",
+    "gn:asciiname":"Coronation",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012688,
+    "gn:latitude":-27.66667,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Coronation",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coronation Colliery",
+        "Coronation"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012688
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e0fcf8a8ad2a45771bf60412df923bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1226055747,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1226055747,
+    "wof:lastmodified":1537716431,
+    "wof:name":"Coronation",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    -27.66667,
+    31.05,
+    -27.66667
+],
+  "geometry": {"coordinates":[31.05,-27.66667],"type":"Point"}
+}

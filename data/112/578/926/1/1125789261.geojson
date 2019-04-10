@@ -1,0 +1,110 @@
+{
+  "id": 1125789261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09919,-25.47288,28.09919,-25.47288",
+    "geom:latitude":-25.47288,
+    "geom:longitude":28.09919,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.47288,
+    "lbl:longitude":28.09919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Soshanguve"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d22\u8096\u53e4\u7dad"
+    ],
+    "name:eng_x_preferred":[
+        "Soshanguve"
+    ],
+    "name:fre_x_preferred":[
+        "Soshanguve"
+    ],
+    "name:ger_x_preferred":[
+        "Soshanguve"
+    ],
+    "name:tsn_x_preferred":[
+        "Soshanguve"
+    ],
+    "name:zul_x_preferred":[
+        "Soshanguve"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":954013,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Soshanguve",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587655,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954013,
+        "gp:id":1587655,
+        "qs_pg:id":193917,
+        "wd:id":"Q7563836"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290804,
+    "wof:geomhash":"eb1751010e75e32cf3bde8a7ed9f1816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1125789261,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125789261,
+    "wof:lastmodified":1534379836,
+    "wof:name":"Soshanguve",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        101925307
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09919,
+    -25.47288,
+    28.09919,
+    -25.47288
+],
+  "geometry": {"coordinates":[28.09919,-25.47288],"type":"Point"}
+}

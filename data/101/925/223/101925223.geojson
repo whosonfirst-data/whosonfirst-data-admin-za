@@ -1,0 +1,97 @@
+{
+  "id": 101925223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":993252.449427,
+    "geom:bbox":"28.2803764343,-25.4122886658,28.2937526703,-25.4021244049",
+    "geom:latitude":-25.40808,
+    "geom:longitude":28.28692,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.408299,
+    "lbl:longitude":28.287048,
+    "mps:latitude":-25.408299,
+    "mps:longitude":28.287048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hammanskraal"
+    ],
+    "name:dut_x_preferred":[
+        "Hammanskraal"
+    ],
+    "name:eng_x_preferred":[
+        "Hammanskraal"
+    ],
+    "name:nso_x_preferred":[
+        "Hammanskraal"
+    ],
+    "name:tsn_x_preferred":[
+        "Hammanskraal"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hammanskraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.4,
+    "wd:longitude":28.283333,
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998082,
+        "gp:id":1582079,
+        "qs:id":193851,
+        "qs_pg:id":193851,
+        "wd:id":"Q4936332",
+        "wk:page":"Hammanskraal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"27c49edbc6d0cb6554699c8e973490ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925223,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925223,
+    "wof:lastmodified":1527688522,
+    "wof:name":"Hammanskraal",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28037643432617,
+    -25.41228866577148,
+    28.29375267028809,
+    -25.40212440490723
+],
+  "geometry": {"coordinates":[[[28.29375267028809,-25.41228866577148],[28.28768730163574,-25.41183662414551],[28.28346824645996,-25.41113471984863],[28.28037643432617,-25.41120147705078],[28.28087425231934,-25.40840148925781],[28.28125381469727,-25.40365791320801],[28.28129577636719,-25.40262794494629],[28.28190612792969,-25.40262794494629],[28.28275489807129,-25.40262985229492],[28.28374099731445,-25.40212440490723],[28.28359603881836,-25.40550422668457],[28.28466033935547,-25.40529441833496],[28.29179000854492,-25.40402221679688],[28.2921085357666,-25.40645980834961],[28.29369735717773,-25.40997314453125],[28.29375267028809,-25.41228866577148]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310304163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0385,-31.72231,29.0385,-31.72231",
+    "geom:latitude":-31.72231,
+    "geom:longitude":29.0385,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Mabhetsha",
+    "gn:country_code":"ZA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980963,
+    "gn:latitude":-31.72231,
+    "gn:longitude":29.0385,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mabhetsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Mabetsha",
+        "Mabetshe",
+        "Mabhetsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980963
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"59ce65978b2aa1cd0f625de0b2b1301a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1310304163,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310304163,
+    "wof:lastmodified":1537716409,
+    "wof:name":"Mabhetsha",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0385,
+    -31.72231,
+    29.0385,
+    -31.72231
+],
+  "geometry": {"coordinates":[29.0385,-31.72231],"type":"Point"}
+}

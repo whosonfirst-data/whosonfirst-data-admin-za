@@ -1,0 +1,69 @@
+{
+  "id": 1310028409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26073,-30.94528,29.26073,-30.94528",
+    "geom:latitude":-30.94528,
+    "geom:longitude":29.26073,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC444",
+    "gn:asciiname":"KwaZulu",
+    "gn:country_code":"ZA",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985167,
+    "gn:latitude":-30.94528,
+    "gn:longitude":29.26073,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"KwaZulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985167
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2a71a8251e61e976faa0b77771a6faf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1310028409,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310028409,
+    "wof:lastmodified":1536607483,
+    "wof:name":"KwaZulu",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26073,
+    -30.94528,
+    29.26073,
+    -30.94528
+],
+  "geometry": {"coordinates":[29.26073,-30.94528],"type":"Point"}
+}

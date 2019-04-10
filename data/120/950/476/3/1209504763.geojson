@@ -1,0 +1,63 @@
+{
+  "id": 1209504763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28333,-24.53333,30.28333,-24.53333",
+    "geom:latitude":-24.53333,
+    "geom:longitude":30.28333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM475",
+    "gn:asciiname":"Mapareng",
+    "gn:country_code":"ZA",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979149,
+    "gn:latitude":-24.53333,
+    "gn:longitude":30.28333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mapareng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979149
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"86ab27862f7647933ff49ea080a8c856",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209504763
+        }
+    ],
+    "wof:id":1209504763,
+    "wof:lastmodified":1536285069,
+    "wof:name":"Mapareng",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28333,
+    -24.53333,
+    30.28333,
+    -24.53333
+],
+  "geometry": {"coordinates":[30.28333,-24.53333],"type":"Point"}
+}

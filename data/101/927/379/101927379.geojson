@@ -1,0 +1,78 @@
+{
+  "id": 101927379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000023,
+    "geom:area_square_m":254135.19275,
+    "geom:bbox":"30.0,-26.5440711975,30.0042152405,-26.5374965668",
+    "geom:latitude":-26.540586,
+    "geom:longitude":30.001909,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.54062,
+    "lbl:longitude":30.002079,
+    "mps:latitude":-26.54062,
+    "mps:longitude":30.002079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nederland Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":5.0,
+    "wd:latitude":29.9731,
+    "wd:longitude":-93.9967,
+    "wd:wordcount":3299,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"35df90c1de8a5c5ce38cc894be65e927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101927379,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927379,
+    "wof:lastmodified":1534986001,
+    "wof:name":"Nederland Park",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615533
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0,
+    -26.54407119750977,
+    30.00421524047852,
+    -26.53749656677246
+],
+  "geometry": {"coordinates":[[[30.0,-26.53757095336914],[30.00178909301758,-26.53749656677246],[30.00366020202637,-26.53804588317871],[30.00389671325684,-26.5389404296875],[30.00408172607422,-26.53946304321289],[30.00418853759766,-26.54000282287598],[30.00421524047852,-26.54055023193359],[30.00415802001953,-26.54109573364258],[30.00402069091797,-26.54162979125977],[30.00380516052246,-26.54214286804199],[30.00351524353027,-26.54262542724609],[30.0031566619873,-26.54306793212891],[30.00273513793945,-26.5434627532959],[30.00225639343262,-26.54380416870117],[30.00175857543945,-26.54407119750977],[30.0,-26.54324913024902],[30.0,-26.53757095336914]]],"type":"Polygon"}
+}

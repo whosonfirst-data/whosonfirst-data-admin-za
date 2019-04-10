@@ -1,0 +1,69 @@
+{
+  "id": 1243052329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26543,-24.95775,27.26543,-24.95775",
+    "geom:latitude":-24.95775,
+    "geom:longitude":27.26543,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM361",
+    "gn:asciiname":"Northam",
+    "gn:country_code":"ZA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969698,
+    "gn:latitude":-24.95775,
+    "gn:longitude":27.26543,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Northam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969698
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"60751ff415c8997bb591979e1762770e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1243052329,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243052329,
+    "wof:lastmodified":1536875811,
+    "wof:name":"Northam",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26543,
+    -24.95775,
+    27.26543,
+    -24.95775
+],
+  "geometry": {"coordinates":[27.26543,-24.95775],"type":"Point"}
+}

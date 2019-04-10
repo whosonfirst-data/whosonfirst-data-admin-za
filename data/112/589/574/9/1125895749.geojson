@@ -1,0 +1,82 @@
+{
+  "id": 1125895749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8763995,-33.920286,18.8763995,-33.920286",
+    "geom:latitude":-33.920286,
+    "geom:longitude":18.8764,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.920286,
+    "lbl:longitude":18.8764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Idasvallei",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118718,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582394,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582394,
+        "qs_pg:id":1118718
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295551,
+    "wof:geomhash":"f228d2a22fbb58e5227cfa1a245fff7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1125895749,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125895749,
+    "wof:lastmodified":1509399109,
+    "wof:name":"Idasvallei",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8763995,
+    -33.920286,
+    18.8763995,
+    -33.920286
+],
+  "geometry": {"coordinates":[18.8763995,-33.920286],"type":"Point"}
+}

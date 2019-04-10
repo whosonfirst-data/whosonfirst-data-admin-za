@@ -1,0 +1,69 @@
+{
+  "id": 1327356233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20029,-31.10998,29.20029,-31.10998",
+    "geom:latitude":-31.10998,
+    "geom:longitude":29.20029,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC444",
+    "gn:asciiname":"Amacwera",
+    "gn:country_code":"ZA",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427364,
+    "gn:latitude":-31.10998,
+    "gn:longitude":29.20029,
+    "gn:modification_date":"2017-01-11",
+    "gn:name":"Amacwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427364
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5c226bfec2e496350f1b451fdfc710bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1327356233,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327356233,
+    "wof:lastmodified":1536791246,
+    "wof:name":"Amacwera",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20029000000001,
+    -31.10998,
+    29.20029000000001,
+    -31.10998
+],
+  "geometry": {"coordinates":[29.20029000000001,-31.10998],"type":"Point"}
+}

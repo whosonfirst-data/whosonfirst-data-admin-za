@@ -1,0 +1,73 @@
+{
+  "id": 101928515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1104409.128547,
+    "geom:bbox":"28.6962757111,-30.9805526733,28.7105331421,-30.9643993378",
+    "geom:latitude":-30.971616,
+    "geom:longitude":28.702735,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.967753,
+    "lbl:longitude":28.705111,
+    "mps:latitude":-30.967753,
+    "mps:longitude":28.705111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971149,
+        "gp:id":1586739
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75c7c5270caa0f8c288698ed4a32c10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928515,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928515,
+    "wof:lastmodified":1500027816,
+    "wof:name":"Ngele",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69627571105957,
+    -30.98055267333984,
+    28.71053314208984,
+    -30.96439933776855
+],
+  "geometry": {"coordinates":[[[28.70340538024902,-30.97565078735352],[28.70649528503418,-30.97671318054199],[28.70310974121094,-30.98055267333984],[28.69639587402344,-30.97504806518555],[28.69627571105957,-30.97090911865234],[28.70233345031738,-30.96889686584473],[28.70133018493652,-30.96439933776855],[28.71053314208984,-30.96533012390137],[28.70508575439453,-30.97335433959961],[28.70158195495605,-30.97305488586426],[28.70122146606445,-30.97569847106934],[28.70340538024902,-30.97565078735352]]],"type":"Polygon"}
+}

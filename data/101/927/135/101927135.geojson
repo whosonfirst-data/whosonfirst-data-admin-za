@@ -1,0 +1,72 @@
+{
+  "id": 101927135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":254132.730695,
+    "geom:bbox":"25.300485611,-29.7449302673,25.3066539764,-29.739200592",
+    "geom:latitude":-29.741803,
+    "geom:longitude":25.303641,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.741808,
+    "lbl:longitude":25.303641,
+    "mps:latitude":-29.741808,
+    "mps:longitude":25.303641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Frayville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581252
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"59968d9c001cfd5990f1197d6a70552b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101927135,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927135,
+    "wof:lastmodified":1500027647,
+    "wof:name":"Frayville",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30048561096191,
+    -29.74493026733398,
+    25.30665397644043,
+    -29.73920059204102
+],
+  "geometry": {"coordinates":[[[25.30073738098145,-29.74150276184082],[25.30048561096191,-29.74098968505859],[25.30125999450684,-29.74004173278809],[25.30241203308105,-29.73943519592285],[25.30355644226074,-29.73920059204102],[25.3046932220459,-29.73946380615234],[25.30568313598633,-29.73997497558594],[25.3065242767334,-29.74085807800293],[25.30665397644043,-29.74160575866699],[25.30664253234863,-29.74235343933105],[25.30605506896973,-29.74334144592285],[25.30241394042969,-29.74493026733398],[25.30073738098145,-29.74150276184082]]],"type":"Polygon"}
+}

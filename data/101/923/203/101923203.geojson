@@ -1,0 +1,73 @@
+{
+  "id": 101923203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":927750.051363,
+    "geom:bbox":"28.7289562225,-23.2750606537,28.7417144775,-23.2653102875",
+    "geom:latitude":-23.270242,
+    "geom:longitude":28.735656,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.270154,
+    "lbl:longitude":28.735139,
+    "mps:latitude":-23.270154,
+    "mps:longitude":28.735139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GaMonyebodi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003152,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a3efc7b6379c293e0346299372620a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923203,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923203,
+    "wof:lastmodified":1500028349,
+    "wof:name":"GaMonyebodi",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72895622253418,
+    -23.27506065368652,
+    28.74171447753906,
+    -23.26531028747559
+],
+  "geometry": {"coordinates":[[[28.72982788085938,-23.27342414855957],[28.72983169555664,-23.27179908752441],[28.72895622253418,-23.26935958862305],[28.73688125610352,-23.26531028747559],[28.74171447753906,-23.26775550842285],[28.7417049407959,-23.27263259887695],[28.73774719238281,-23.27262496948242],[28.73598289489746,-23.27506065368652],[28.72982788085938,-23.27342414855957]]],"type":"Polygon"}
+}

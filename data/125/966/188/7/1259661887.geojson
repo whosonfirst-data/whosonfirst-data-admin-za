@@ -1,0 +1,73 @@
+{
+  "id": 1259661887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43337,-34.37115,21.43337,-34.37115",
+    "geom:latitude":-34.37115,
+    "geom:longitude":21.43337,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC042",
+    "gn:asciiname":"Lappiesbaai",
+    "gn:country_code":"ZA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984239,
+    "gn:latitude":-34.37115,
+    "gn:longitude":21.43337,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lappiesbaai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lappies Bay",
+        "Lappiesbaai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984239
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6c269b8d29294669e8bdaaa8fa56adfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1259661887,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1259661887,
+    "wof:lastmodified":1537716413,
+    "wof:name":"Lappiesbaai",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43337,
+    -34.37115,
+    21.43337,
+    -34.37115
+],
+  "geometry": {"coordinates":[21.43337,-34.37115],"type":"Point"}
+}

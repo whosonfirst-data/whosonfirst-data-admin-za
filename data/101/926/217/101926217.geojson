@@ -1,0 +1,73 @@
+{
+  "id": 101926217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":613728.614235,
+    "geom:bbox":"27.6762943268,-26.4111061096,27.6901702881,-26.4002323151",
+    "geom:latitude":-26.405145,
+    "geom:longitude":27.683878,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.404533,
+    "lbl:longitude":27.685507,
+    "mps:latitude":-26.404533,
+    "mps:longitude":27.685507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Elsburg Gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005739,
+        "gp:id":1588860
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3862b4136ff357750556340912dd6dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926217,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926217,
+    "wof:lastmodified":1500027705,
+    "wof:name":"Elsburg Gold Mine",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67629432678223,
+    -26.41110610961914,
+    27.69017028808594,
+    -26.40023231506348
+],
+  "geometry": {"coordinates":[[[27.68491744995117,-26.40023231506348],[27.69017028808594,-26.40304374694824],[27.68645286560059,-26.40712738037109],[27.68489837646484,-26.40733909606934],[27.68428993225098,-26.41110610961914],[27.6828556060791,-26.41110420227051],[27.682861328125,-26.40873527526855],[27.68095016479492,-26.40808486938477],[27.68071556091309,-26.4061450958252],[27.67629432678223,-26.40538215637207],[27.6771354675293,-26.40344619750977],[27.68299293518066,-26.40431976318359],[27.68491744995117,-26.40023231506348]]],"type":"Polygon"}
+}

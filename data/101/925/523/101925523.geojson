@@ -1,0 +1,92 @@
+{
+  "id": 101925523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000373,
+    "geom:area_square_m":4154892.836972,
+    "geom:bbox":"28.0726966858,-25.8009471893,28.1169281006,-25.7802467346",
+    "geom:latitude":-25.788904,
+    "geom:longitude":28.101756,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.790849,
+    "lbl:longitude":28.105107,
+    "mps:latitude":-25.790849,
+    "mps:longitude":28.105107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Laudium"
+    ],
+    "name:eng_x_preferred":[
+        "Laudium"
+    ],
+    "name:fre_x_preferred":[
+        "Laudium"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0b9f\u0bbf\u0baf\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0624\u0688\u06cc\u0645"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Laudium",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1539,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984185,
+        "gp:id":55877940,
+        "qs:id":207695,
+        "wd:id":"Q6497896",
+        "wk:page":"Laudium"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b1cafa2f685367b491cfd41dd5db5520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925523,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925523,
+    "wof:lastmodified":1527688524,
+    "wof:name":"Laudium",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07269668579102,
+    -25.80094718933105,
+    28.11692810058594,
+    -25.78024673461914
+],
+  "geometry": {"coordinates":[[[28.09845352172852,-25.79022026062012],[28.09370613098145,-25.78608322143555],[28.07286643981934,-25.78900909423828],[28.07269668579102,-25.78701400756836],[28.08862113952637,-25.78301811218262],[28.10403633117676,-25.78024673461914],[28.11369514465332,-25.78085327148438],[28.11403656005859,-25.78483963012695],[28.11217308044434,-25.78545570373535],[28.10878372192383,-25.78438377380371],[28.11324882507324,-25.79043579101562],[28.11692810058594,-25.79542350769043],[28.11337471008301,-25.80094718933105],[28.11000633239746,-25.79936027526855],[28.10557556152344,-25.79727172851562],[28.09846115112305,-25.79865837097168],[28.09845352172852,-25.79022026062012]]],"type":"Polygon"}
+}

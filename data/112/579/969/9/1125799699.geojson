@@ -1,0 +1,108 @@
+{
+  "id": 1125799699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4747,-33.29042,27.4747,-33.29042",
+    "geom:latitude":-33.29042,
+    "geom:longitude":27.4747,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.29042,
+    "lbl:longitude":27.4747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hamburg"
+    ],
+    "name:dut_x_preferred":[
+        "Hamburg"
+    ],
+    "name:eng_x_preferred":[
+        "Hamburg"
+    ],
+    "name:ger_x_preferred":[
+        "Hamburg"
+    ],
+    "name:nso_x_preferred":[
+        "Hamburg"
+    ],
+    "name:rum_x_preferred":[
+        "Hamburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":998131,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hamburg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":271,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1164344,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1589785,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998131,
+        "gp:id":1589785,
+        "qs_pg:id":1164344,
+        "wd:id":"Q1572867"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291210,
+    "wof:geomhash":"86b5502f14d076cac3a2ae3e88d2e3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1125799699,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125799699,
+    "wof:lastmodified":1553816541,
+    "wof:name":"Hamburg",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4747,
+    -33.29042,
+    27.4747,
+    -33.29042
+],
+  "geometry": {"coordinates":[27.4747,-33.29042],"type":"Point"}
+}

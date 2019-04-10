@@ -1,0 +1,72 @@
+{
+  "id": 101928479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1615505.913185,
+    "geom:bbox":"29.596622467,-30.9312019348,29.6114273071,-30.9136695862",
+    "geom:latitude":-30.922178,
+    "geom:longitude":29.603839,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.921792,
+    "lbl:longitude":29.603951,
+    "mps:latitude":-30.921792,
+    "mps:longitude":29.603951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaDinda",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b822c9addeceeb64fceb6eed62e09515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928479,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928479,
+    "wof:lastmodified":1500027860,
+    "wof:name":"KwaDinda",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.59662246704102,
+    -30.93120193481445,
+    29.61142730712891,
+    -30.91366958618164
+],
+  "geometry": {"coordinates":[[[29.61091041564941,-30.92279052734375],[29.61142730712891,-30.92530059814453],[29.60705184936523,-30.93120193481445],[29.60325813293457,-30.93058967590332],[29.60092926025391,-30.92452239990234],[29.59751510620117,-30.92281532287598],[29.59662246704102,-30.9213981628418],[29.59841918945312,-30.91376686096191],[29.60176467895508,-30.91366958618164],[29.60430145263672,-30.9143180847168],[29.60612869262695,-30.91823577880859],[29.61091041564941,-30.92279052734375]]],"type":"Polygon"}
+}

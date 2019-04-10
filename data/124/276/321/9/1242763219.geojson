@@ -1,0 +1,69 @@
+{
+  "id": 1242763219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19739,-28.80893,17.19739,-28.80893",
+    "geom:latitude":-28.80893,
+    "geom:longitude":17.19739,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC061",
+    "gn:asciiname":"Modderfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3364027,
+    "gn:latitude":-28.80893,
+    "gn:longitude":17.19739,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Modderfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364027
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9feb90208c578a7f4ad4fc0c874db182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1242763219,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1242763219,
+    "wof:lastmodified":1536796572,
+    "wof:name":"Modderfontein",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19739,
+    -28.80893,
+    17.19739,
+    -28.80893
+],
+  "geometry": {"coordinates":[17.19739,-28.80893],"type":"Point"}
+}

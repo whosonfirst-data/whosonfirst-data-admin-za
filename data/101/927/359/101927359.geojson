@@ -1,0 +1,73 @@
+{
+  "id": 101927359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000365,
+    "geom:area_square_m":4042668.713771,
+    "geom:bbox":"30.8396873474,-26.2779483795,30.8734912872,-26.2562923431",
+    "geom:latitude":-26.267952,
+    "geom:longitude":30.856674,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.268528,
+    "lbl:longitude":30.856418,
+    "mps:latitude":-26.268528,
+    "mps:longitude":30.856418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glenmore",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880960
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"38b27db8d1eb38e4d49b71057b9454ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101927359,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927359,
+    "wof:lastmodified":1527715637,
+    "wof:name":"Glenmore",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83968734741211,
+    -26.2779483795166,
+    30.87349128723145,
+    -26.25629234313965
+],
+  "geometry": {"coordinates":[[[30.84389114379883,-26.2663459777832],[30.84482192993164,-26.26520919799805],[30.84502983093262,-26.2650203704834],[30.8461742401123,-26.26444816589355],[30.8553524017334,-26.26241683959961],[30.85775375366211,-26.26230812072754],[30.86057090759277,-26.26191520690918],[30.87191581726074,-26.25629234313965],[30.87296104431152,-26.25656890869141],[30.87338066101074,-26.25684928894043],[30.87349128723145,-26.25760078430176],[30.87239456176758,-26.26467132568359],[30.87198257446289,-26.26552200317383],[30.87105369567871,-26.26712799072266],[30.85992431640625,-26.27350425720215],[30.85054397583008,-26.27666664123535],[30.84814453125,-26.27705764770508],[30.84062957763672,-26.2779483795166],[30.83968734741211,-26.2775764465332],[30.84389114379883,-26.2663459777832]]],"type":"Polygon"}
+}

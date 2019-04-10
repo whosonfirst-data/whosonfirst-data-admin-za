@@ -1,0 +1,71 @@
+{
+  "id": 1209804497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73976,-27.46772,23.73976,-27.46772",
+    "geom:latitude":-27.46772,
+    "geom:longitude":23.73976,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mahukubung",
+    "gn:country_code":"ZA",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980244,
+    "gn:latitude":-27.46772,
+    "gn:longitude":23.73976,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mahukubung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahukubu",
+        "Mahukubung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980244
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1d64e789c818a3eb572c3e500f0c64d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1209804497,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1209804497,
+    "wof:lastmodified":1537716408,
+    "wof:name":"Mahukubung",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73976,
+    -27.46772,
+    23.73976,
+    -27.46772
+],
+  "geometry": {"coordinates":[23.73976,-27.46772],"type":"Point"}
+}

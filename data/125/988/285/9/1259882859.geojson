@@ -1,0 +1,73 @@
+{
+  "id": 1259882859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43625,-28.44627,29.43625,-28.44627",
+    "geom:latitude":-28.44627,
+    "geom:longitude":29.43625,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN235",
+    "gn:asciiname":"Doornhoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009182,
+    "gn:latitude":-28.44627,
+    "gn:longitude":29.43625,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Doornhoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "eMahhukwini",
+        "Doornhoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009182
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8307135eb8773eacd879dc6dc84b3a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1259882859,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259882859,
+    "wof:lastmodified":1537716429,
+    "wof:name":"Doornhoek",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43625,
+    -28.44627,
+    29.43625,
+    -28.44627
+],
+  "geometry": {"coordinates":[29.43625,-28.44627],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242600509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.51679,-31.64741,29.51679,-31.64741",
+    "geom:latitude":-31.64741,
+    "geom:longitude":29.51679,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Mtumbane",
+    "gn:country_code":"ZA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972796,
+    "gn:latitude":-31.64741,
+    "gn:longitude":29.51679,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mtumbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972796
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6a4333a50da8445c4b66301845751d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1242600509,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242600509,
+    "wof:lastmodified":1537029410,
+    "wof:name":"Mtumbane",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.51679,
+    -31.64741,
+    29.51679,
+    -31.64741
+],
+  "geometry": {"coordinates":[29.51679,-31.64741],"type":"Point"}
+}

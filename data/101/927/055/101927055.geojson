@@ -1,0 +1,102 @@
+{
+  "id": 101927055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":472523.277012,
+    "geom:bbox":"27.0266704559,-29.1885166168,27.0342769623,-29.181098938",
+    "geom:latitude":-29.184904,
+    "geom:longitude":27.030811,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.184928,
+    "lbl:longitude":27.030739,
+    "mps:latitude":-29.184928,
+    "mps:longitude":27.030739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:dut_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:eng_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:nld_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:nso_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:pol_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:ron_x_preferred":[
+        "Tweespruit"
+    ],
+    "name:rum_x_preferred":[
+        "Tweespruit"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tweespruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.185556,
+    "wd:longitude":27.028889,
+    "wd:wordcount":138,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947187,
+        "gp:id":1591474,
+        "wd:id":"Q2191277",
+        "wk:page":"Tweespruit"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7d32b627e3b68e4a3990534788e9192f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101927055,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927055,
+    "wof:lastmodified":1527715635,
+    "wof:name":"Tweespruit",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02667045593262,
+    -29.18851661682129,
+    27.03427696228027,
+    -29.18109893798828
+],
+  "geometry": {"coordinates":[[[27.03342628479004,-29.18805694580078],[27.02667045593262,-29.18851661682129],[27.0279369354248,-29.18332481384277],[27.02878189086914,-29.18221282958984],[27.0308952331543,-29.18109893798828],[27.03300857543945,-29.18109893798828],[27.03427696228027,-29.18109893798828],[27.03427696228027,-29.18332290649414],[27.03342628479004,-29.18805694580078]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101923769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":2126985.587709,
+    "geom:bbox":"26.4869270325,-24.8556137085,26.5055446625,-24.8417320251",
+    "geom:latitude":-24.848511,
+    "geom:longitude":26.496235,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.84868,
+    "lbl:longitude":26.496058,
+    "mps:latitude":-24.84868,
+    "mps:longitude":26.496058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Molatedidam"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Molatedi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974803,
+        "gp:id":1585259,
+        "wd:id":"Q6895704"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9ddf2adf33f521b1ebffaefab7463457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101923769,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101923769,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Molatedi",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4869270324707,
+    -24.85561370849609,
+    26.50554466247559,
+    -24.84173202514648
+],
+  "geometry": {"coordinates":[[[26.5020866394043,-24.85198783874512],[26.50069618225098,-24.8532886505127],[26.49790573120117,-24.85524368286133],[26.49614906311035,-24.85558319091797],[26.49333381652832,-24.85561370849609],[26.48944664001465,-24.8543701171875],[26.48801803588867,-24.85277938842773],[26.4869270324707,-24.84990119934082],[26.48829460144043,-24.84667587280273],[26.49073219299316,-24.84472274780273],[26.49316787719727,-24.84244918823242],[26.49526977539062,-24.84178352355957],[26.50019645690918,-24.84173202514648],[26.50337600708008,-24.8426628112793],[26.50515937805176,-24.84457015991211],[26.50554466247559,-24.84713554382324],[26.50382232666016,-24.85004234313965],[26.5020866394043,-24.85198783874512]]],"type":"Polygon"}
+}

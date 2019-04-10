@@ -1,0 +1,75 @@
+{
+  "id": 1343766981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.14716,-31.98475,29.14716,-31.98475",
+    "geom:latitude":-31.98475,
+    "geom:longitude":29.14716,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC157",
+    "gn:asciiname":"Coffee Bay",
+    "gn:country_code":"ZA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1013128,
+    "gn:latitude":-31.98475,
+    "gn:longitude":29.14716,
+    "gn:modification_date":"2017-09-03",
+    "gn:name":"Coffee Bay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koffiebaai",
+        "Coffee Bar",
+        "Coffee Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013128,
+        "wk:page":"Coffee_Bay"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a10c544284f8039de2961a2a62c253cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1343766981,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343766981,
+    "wof:lastmodified":1537716432,
+    "wof:name":"Coffee Bay",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.14716,
+    -31.98475,
+    29.14716,
+    -31.98475
+],
+  "geometry": {"coordinates":[29.14716,-31.98475],"type":"Point"}
+}

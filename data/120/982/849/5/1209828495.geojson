@@ -1,0 +1,69 @@
+{
+  "id": 1209828495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95621,-29.67746,30.95621,-29.67746",
+    "geom:latitude":-29.67746,
+    "geom:longitude":30.95621,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Goqokazi",
+    "gn:country_code":"ZA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11282029,
+    "gn:latitude":-29.67746,
+    "gn:longitude":30.95621,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Goqokazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11282029
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e88d6b613c71cd51754462ac820a411d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1209828495,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1209828495,
+    "wof:lastmodified":1536371089,
+    "wof:name":"Goqokazi",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95621,
+    -29.67746,
+    30.95621,
+    -29.67746
+],
+  "geometry": {"coordinates":[30.95621,-29.67746],"type":"Point"}
+}

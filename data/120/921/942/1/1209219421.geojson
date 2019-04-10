@@ -1,0 +1,63 @@
+{
+  "id": 1209219421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07769,-31.16008,29.07769,-31.16008",
+    "geom:latitude":-31.16008,
+    "geom:longitude":29.07769,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Mbombo",
+    "gn:country_code":"ZA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977593,
+    "gn:latitude":-31.16008,
+    "gn:longitude":29.07769,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mbombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977593
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d0eb83c48305c107b02532761a5a198c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209219421
+        }
+    ],
+    "wof:id":1209219421,
+    "wof:lastmodified":1536294015,
+    "wof:name":"Mbombo",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.077690000000004,
+    -31.16008,
+    29.077690000000004,
+    -31.16008
+],
+  "geometry": {"coordinates":[29.07769,-31.16008],"type":"Point"}
+}

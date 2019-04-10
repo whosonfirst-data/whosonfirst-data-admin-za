@@ -1,0 +1,78 @@
+{
+  "id": 1125773707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49231,-33.85395,18.49231,-33.85395",
+    "geom:latitude":-33.85395,
+    "geom:longitude":18.49231,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2000,
+    "gn:population":2000,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.85395,
+    "lbl:longitude":18.49231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6942529,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Sunset Beach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":852252,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942529,
+        "qs_pg:id":852252
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290165,
+    "wof:geomhash":"f167165492baef84f31f77cb122b6ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125773707,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125773707,
+    "wof:lastmodified":1509391140,
+    "wof:name":"Sunset Beach",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49231,
+    -33.85395,
+    18.49231,
+    -33.85395
+],
+  "geometry": {"coordinates":[18.49231,-33.85395],"type":"Point"}
+}

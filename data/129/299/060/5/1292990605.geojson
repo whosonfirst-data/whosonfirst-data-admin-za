@@ -1,0 +1,67 @@
+{
+  "id": 1292990605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,-24.76667,31.1,-24.76667",
+    "geom:latitude":-24.76667,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Bayisonto",
+    "gn:country_code":"ZA",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1020727,
+    "gn:latitude":-24.76667,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2004-05-11",
+    "gn:name":"Bayisonto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020727
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"da6eda1f218869c903178fcdaa6fa78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1292990605,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1292990605,
+    "wof:lastmodified":1537005614,
+    "wof:name":"Bayisonto",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    -24.76667,
+    31.1,
+    -24.76667
+],
+  "geometry": {"coordinates":[31.1,-24.76667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101926461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000041,
+    "geom:area_square_m":452671.157989,
+    "geom:bbox":"27.9430789948,-26.7628993988,27.9517669678,-26.753446579",
+    "geom:latitude":-26.758263,
+    "geom:longitude":27.94748,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.758213,
+    "lbl:longitude":27.947546,
+    "mps:latitude":-26.758213,
+    "mps:longitude":27.947546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bertha Shaft Village",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019847,
+        "gp:id":1587210
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f07fd8aa636f8071c0b9985c814fa79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926461,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926461,
+    "wof:lastmodified":1534985997,
+    "wof:name":"Bertha Shaft Village",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615453
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94307899475098,
+    -26.76289939880371,
+    27.95176696777344,
+    -26.75344657897949
+],
+  "geometry": {"coordinates":[[[27.94757270812988,-26.76289939880371],[27.94307899475098,-26.75997924804688],[27.94761276245117,-26.75344657897949],[27.95176696777344,-26.75678062438965],[27.94757270812988,-26.76289939880371]]],"type":"Polygon"}
+}

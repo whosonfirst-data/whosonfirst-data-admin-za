@@ -1,0 +1,73 @@
+{
+  "id": 101923405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":739548.553533,
+    "geom:bbox":"28.6076774597,-23.7413444519,28.6194248199,-23.7323455811",
+    "geom:latitude":-23.736277,
+    "geom:longitude":28.614276,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.736489,
+    "lbl:longitude":28.614164,
+    "mps:latitude":-23.736489,
+    "mps:longitude":28.614164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lenkwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983178,
+        "gp:id":1586629
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eef36053277614701c78a8fc433f7aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923405,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923405,
+    "wof:lastmodified":1500028413,
+    "wof:name":"Lenkwane",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6076774597168,
+    -23.7413444519043,
+    28.61942481994629,
+    -23.73234558105469
+],
+  "geometry": {"coordinates":[[[28.60920333862305,-23.7364330291748],[28.6076774597168,-23.73454093933105],[28.61192893981934,-23.7331428527832],[28.61810874938965,-23.73234558105469],[28.61942481994629,-23.73519325256348],[28.61942100524902,-23.73681831359863],[28.61897659301758,-23.738037109375],[28.61632347106934,-23.73965454101562],[28.61312294006348,-23.7413444519043],[28.61014938354492,-23.73760795593262],[28.60920333862305,-23.7364330291748]]],"type":"Polygon"}
+}

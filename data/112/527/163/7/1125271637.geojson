@@ -1,0 +1,78 @@
+{
+  "id": 1125271637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29495,-28.28775,32.29495,-28.28775",
+    "geom:latitude":-28.28775,
+    "geom:longitude":32.29495,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":46596,
+    "gn:population":46596,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.28775,
+    "lbl:longitude":32.29495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347565,
+    "qs_pg:gn_pop":46596,
+    "qs_pg:name":"Mtubatuba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764978,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347565,
+        "qs_pg:id":764978
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042151,
+    "wof:geomhash":"4d53d867174fd3d4486956bd36778d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "localadmin_id":1125271637,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271637,
+    "wof:lastmodified":1509387042,
+    "wof:name":"Mtubatuba",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"localadmin",
+    "wof:population":46596,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29495,
+    -28.28775,
+    32.29495,
+    -28.28775
+],
+  "geometry": {"coordinates":[32.29495,-28.28775],"type":"Point"}
+}

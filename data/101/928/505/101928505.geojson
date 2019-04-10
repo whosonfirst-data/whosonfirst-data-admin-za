@@ -1,0 +1,98 @@
+{
+  "id": 101928505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1323901.958174,
+    "geom:bbox":"29.2937717438,-30.9676055908,29.3068351746,-30.9517021179",
+    "geom:latitude":-30.960299,
+    "geom:longitude":29.300916,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.96019,
+    "lbl:longitude":29.300916,
+    "mps:latitude":-30.96019,
+    "mps:longitude":29.300916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Tabankulu"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u73ed\u5eab\u76e7"
+    ],
+    "name:dut_x_preferred":[
+        "Tabankulu"
+    ],
+    "name:eng_x_preferred":[
+        "Tabankulu"
+    ],
+    "name:ger_x_preferred":[
+        "Ntabankulu"
+    ],
+    "name:nso_x_preferred":[
+        "Tabankulu"
+    ],
+    "name:rum_x_preferred":[
+        "Tabankulu"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tabankulu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.9667,
+    "wd:longitude":29.3,
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950468,
+        "gp:id":1587942,
+        "wd:id":"Q7672894"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1d839260ed0eb787754196be0b573c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928505,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928505,
+    "wof:lastmodified":1527715920,
+    "wof:name":"Tabankulu",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29377174377441,
+    -30.96760559082031,
+    29.30683517456055,
+    -30.95170211791992
+],
+  "geometry": {"coordinates":[[[29.29941749572754,-30.9533634185791],[29.30683517456055,-30.95170211791992],[29.30366325378418,-30.96760559082031],[29.29377174377441,-30.96669578552246],[29.29941749572754,-30.9533634185791]]],"type":"Polygon"}
+}

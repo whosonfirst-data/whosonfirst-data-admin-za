@@ -1,0 +1,104 @@
+{
+  "id": 1125828029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27733,-30.31774,17.27733,-30.31774",
+    "geom:latitude":-30.31774,
+    "geom:longitude":17.27733,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.31774,
+    "lbl:longitude":17.27733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hondeklipbaai"
+    ],
+    "name:dut_x_preferred":[
+        "Hondeklipbaai"
+    ],
+    "name:eng_x_preferred":[
+        "Hondeklip Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Hondeklipbaai"
+    ],
+    "name:unk_x_variant":[
+        "Hondeklip Bay"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3366728,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hondeklipbaai",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1170406,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582321,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366728,
+        "gp:id":1582321,
+        "qs_pg:id":1170406,
+        "wd:id":"Q2935301"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292366,
+    "wof:geomhash":"bd6d1ecacb9525b0fef9f90913095241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125828029,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125828029,
+    "wof:lastmodified":1514503916,
+    "wof:name":"Hondeklipbaai",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27733,
+    -30.31774,
+    17.27733,
+    -30.31774
+],
+  "geometry": {"coordinates":[17.27733,-30.31774],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101926187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000375,
+    "geom:area_square_m":4152011.758058,
+    "geom:bbox":"28.9105262756,-26.3909568787,28.9327774048,-26.3667869568",
+    "geom:latitude":-26.379086,
+    "geom:longitude":28.921314,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.379176,
+    "lbl:longitude":28.921314,
+    "mps:latitude":-26.379176,
+    "mps:longitude":28.921314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Leslie"
+    ],
+    "name:dut_x_preferred":[
+        "Leslie"
+    ],
+    "name:eng_x_preferred":[
+        "Leslie"
+    ],
+    "name:nso_x_preferred":[
+        "Leslie"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leslie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983065,
+        "gp:id":55879430,
+        "wd:id":"Q6530571"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9569b8bc1a3c38284352635d82576f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926187,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926187,
+    "wof:lastmodified":1514503950,
+    "wof:name":"Leslie",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91052627563477,
+    -26.39095687866211,
+    28.93277740478516,
+    -26.36678695678711
+],
+  "geometry": {"coordinates":[[[28.91320419311523,-26.39017486572266],[28.91089820861816,-26.37803077697754],[28.91052627563477,-26.37607383728027],[28.91546440124512,-26.37313079833984],[28.91470146179199,-26.36888313293457],[28.91934013366699,-26.36785316467285],[28.92413902282715,-26.36678695678711],[28.92882537841797,-26.37152290344238],[28.93277740478516,-26.37551498413086],[28.93047714233398,-26.38477325439453],[28.92986679077148,-26.38722801208496],[28.92375564575195,-26.38700294494629],[28.9215145111084,-26.39095687866211],[28.91320419311523,-26.39017486572266]]],"type":"Polygon"}
+}

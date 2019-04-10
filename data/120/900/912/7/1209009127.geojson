@@ -1,0 +1,67 @@
+{
+  "id": 1209009127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93356,-31.14479,29.93356,-31.14479",
+    "geom:latitude":-31.14479,
+    "geom:longitude":29.93356,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Zangotsho",
+    "gn:country_code":"ZA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":937264,
+    "gn:latitude":-31.14479,
+    "gn:longitude":29.93356,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Zangotsho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangontshi",
+        "Zangotsho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937264
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a52c07081b7408ea5f631467362e1933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209009127
+        }
+    ],
+    "wof:id":1209009127,
+    "wof:lastmodified":1537716367,
+    "wof:name":"Zangotsho",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93356,
+    -31.14479,
+    29.93356,
+    -31.14479
+],
+  "geometry": {"coordinates":[29.93356,-31.14479],"type":"Point"}
+}

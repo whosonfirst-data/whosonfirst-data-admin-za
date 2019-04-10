@@ -1,0 +1,67 @@
+{
+  "id": 1209319283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.16219,-31.53224,27.16219,-31.53224",
+    "geom:latitude":-31.53224,
+    "geom:longitude":27.16219,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC136",
+    "gn:asciiname":"Bonny Glen",
+    "gn:country_code":"ZA",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1017613,
+    "gn:latitude":-31.53224,
+    "gn:longitude":27.16219,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bonny Glen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonny Glenn",
+        "Bonny Glen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017613
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3532a02ebd6df9e968d4edb65be7d1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209319283
+        }
+    ],
+    "wof:id":1209319283,
+    "wof:lastmodified":1537716436,
+    "wof:name":"Bonny Glen",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16219,
+    -31.53224,
+    27.16219,
+    -31.53224
+],
+  "geometry": {"coordinates":[27.16219,-31.53224],"type":"Point"}
+}

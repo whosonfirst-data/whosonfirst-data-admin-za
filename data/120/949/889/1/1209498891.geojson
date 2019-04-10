@@ -1,0 +1,68 @@
+{
+  "id": 1209498891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4544,-25.86411,25.4544,-25.86411",
+    "geom:latitude":-25.86411,
+    "geom:longitude":25.4544,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Modimola",
+    "gn:country_code":"ZA",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975066,
+    "gn:latitude":-25.86411,
+    "gn:longitude":25.4544,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Modimola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madimola Church",
+        "Madimola",
+        "Modimola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975066
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"848b2c56b4d43f1d314a32fc92058234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209498891
+        }
+    ],
+    "wof:id":1209498891,
+    "wof:lastmodified":1537716399,
+    "wof:name":"Modimola",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4544,
+    -25.86411,
+    25.4544,
+    -25.86411
+],
+  "geometry": {"coordinates":[25.4544,-25.86411],"type":"Point"}
+}

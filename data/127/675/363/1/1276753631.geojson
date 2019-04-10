@@ -1,0 +1,70 @@
+{
+  "id": 1276753631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49095,-24.52142,29.49095,-24.52142",
+    "geom:latitude":-24.52142,
+    "geom:longitude":29.49095,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Byldrift",
+    "gn:country_code":"ZA",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014440,
+    "gn:latitude":-24.52142,
+    "gn:longitude":29.49095,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Byldrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014440,
+        "wk:page":"Byldrift"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"60eee15cd7ad0c4dbe11e9a7409023a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1276753631,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276753631,
+    "wof:lastmodified":1537576369,
+    "wof:name":"Byldrift",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49095,
+    -24.52142000000001,
+    29.49095,
+    -24.52142000000001
+],
+  "geometry": {"coordinates":[29.49095,-24.52142000000001],"type":"Point"}
+}

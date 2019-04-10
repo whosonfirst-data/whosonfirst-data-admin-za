@@ -1,0 +1,67 @@
+{
+  "id": 1260374223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24172,-27.21308,23.24172,-27.21308",
+    "geom:latitude":-27.21308,
+    "geom:longitude":23.24172,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Piet se Bos",
+    "gn:country_code":"ZA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965229,
+    "gn:latitude":-27.21308,
+    "gn:longitude":23.24172,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Piet se Bos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965229
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5fdf339de638e6f6280ea89280cea9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1260374223,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1260374223,
+    "wof:lastmodified":1537084157,
+    "wof:name":"Piet se Bos",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24172,
+    -27.21308,
+    23.24172,
+    -27.21308
+],
+  "geometry": {"coordinates":[23.24172,-27.21308],"type":"Point"}
+}

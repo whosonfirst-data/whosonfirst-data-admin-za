@@ -1,0 +1,138 @@
+{
+  "id": 1125840581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0123,-30.64966,24.0123,-30.64966",
+    "geom:latitude":-30.64966,
+    "geom:longitude":24.0123,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":32318,
+    "gn:population":32318,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.64966,
+    "lbl:longitude":24.0123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "De Aar"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a \u0622\u0631"
+    ],
+    "name:arm_x_preferred":[
+        "\u0534\u0565 \u0531\u0561\u0580"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0414\u044d-\u0410\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u963f\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "De Aar"
+    ],
+    "name:eng_x_preferred":[
+        "De Aar"
+    ],
+    "name:fre_x_preferred":[
+        "De Aar"
+    ],
+    "name:ger_x_preferred":[
+        "De Aar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565 \u0531\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "De Aar"
+    ],
+    "name:lat_x_preferred":[
+        "De Aar"
+    ],
+    "name:nso_x_preferred":[
+        "De Aar"
+    ],
+    "name:pol_x_preferred":[
+        "De Aar"
+    ],
+    "name:por_x_preferred":[
+        "De Aar"
+    ],
+    "name:rum_x_preferred":[
+        "De Aar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435-\u0410\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "De Aar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u963f\u723e"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1011632,
+    "qs_pg:gn_pop":32318,
+    "qs_pg:name":"De Aar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":84059,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011632,
+        "qs_pg:id":84059,
+        "wd:id":"Q743069"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292915,
+    "wof:geomhash":"fca475859edb2e59d75c094d59f19f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1125840581,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125840581,
+    "wof:lastmodified":1534379835,
+    "wof:name":"De Aar",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:population":32318,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908851
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0123,
+    -30.64966,
+    24.0123,
+    -30.64966
+],
+  "geometry": {"coordinates":[24.0123,-30.64966],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293477983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06206,-32.79101,18.06206,-32.79101",
+    "geom:latitude":-32.79101,
+    "geom:longitude":18.06206,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC014",
+    "gn:asciiname":"Laingville",
+    "gn:country_code":"ZA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203921,
+    "gn:latitude":-32.79101,
+    "gn:longitude":18.06206,
+    "gn:modification_date":"2016-07-11",
+    "gn:name":"Laingville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203921
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5e7d1139ff62c65bb5bc7a17b51f199f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1293477983,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293477983,
+    "wof:lastmodified":1536800856,
+    "wof:name":"Laingville",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06206,
+    -32.79101,
+    18.06206,
+    -32.79101
+],
+  "geometry": {"coordinates":[18.06206,-32.79101],"type":"Point"}
+}

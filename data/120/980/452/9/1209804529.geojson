@@ -1,0 +1,74 @@
+{
+  "id": 1209804529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55,-26.8,25.55,-26.8",
+    "geom:latitude":-26.8,
+    "geom:longitude":25.55,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW382",
+    "gn:asciiname":"Hartsrivier",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997377,
+    "gn:latitude":-26.8,
+    "gn:longitude":25.55,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hartsrivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harts River",
+        "Hartsrivier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997377
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bb69f44c40ac70eb0b6d4186d728f09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1209804529,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1209804529,
+    "wof:lastmodified":1537716422,
+    "wof:name":"Hartsrivier",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55,
+    -26.8,
+    25.55,
+    -26.8
+],
+  "geometry": {"coordinates":[25.55,-26.8],"type":"Point"}
+}

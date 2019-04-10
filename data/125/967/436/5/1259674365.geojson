@@ -1,0 +1,74 @@
+{
+  "id": 1259674365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,-28.8,20.83333,-28.8",
+    "geom:latitude":-28.8,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Koekoeb",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":988483,
+    "gn:latitude":-28.8,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Koekoeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koekoep",
+        "Koekoeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988483
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"18bad3028ba84484bb61746ecb22d9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1259674365,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259674365,
+    "wof:lastmodified":1537716417,
+    "wof:name":"Koekoeb",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    -28.8,
+    20.83333,
+    -28.8
+],
+  "geometry": {"coordinates":[20.83333,-28.8],"type":"Point"}
+}

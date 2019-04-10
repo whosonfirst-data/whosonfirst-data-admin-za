@@ -1,0 +1,61 @@
+{
+  "id": 1209298157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16667,-27.05,23.16667,-27.05",
+    "geom:latitude":-27.05,
+    "geom:longitude":23.16667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Martor",
+    "gn:country_code":"ZA",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978590,
+    "gn:latitude":-27.05,
+    "gn:longitude":23.16667,
+    "gn:modification_date":"2004-04-30",
+    "gn:name":"Martor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978590
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ba6978c76fea9e6f4ba1b3413cbbcf5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209298157
+        }
+    ],
+    "wof:id":1209298157,
+    "wof:lastmodified":1536291451,
+    "wof:name":"Martor",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16667,
+    -27.05,
+    23.16667,
+    -27.05
+],
+  "geometry": {"coordinates":[23.16667,-27.05],"type":"Point"}
+}

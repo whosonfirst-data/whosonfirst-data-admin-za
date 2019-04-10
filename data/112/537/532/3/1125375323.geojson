@@ -1,0 +1,123 @@
+{
+  "id": 1125375323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04713,-34.03627,23.04713,-34.03627",
+    "geom:latitude":-34.03627,
+    "geom:longitude":23.04713,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":63106,
+    "gn:population":68659,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.03627,
+    "lbl:longitude":23.04713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Knysna"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u064a\u0633\u0646\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Knysna"
+    ],
+    "name:eng_x_preferred":[
+        "Knysna"
+    ],
+    "name:epo_x_preferred":[
+        "Knajsno"
+    ],
+    "name:ita_x_preferred":[
+        "Knysna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0439\u0441\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Knysna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043d\u0438\u0441\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "De Nysna"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5c3c\u65af\u7d0d"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":988698,
+    "qs_pg:gn_pop":63106,
+    "qs_pg:name":"Knysna",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2370,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":947000,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189556,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988698,
+        "gp:id":56189556,
+        "qs_pg:id":947000
+    },
+    "wof:country":"ZA",
+    "wof:created":1497047692,
+    "wof:geomhash":"ca2d9609599f1f8d4e37d19fcb88d0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "localadmin_id":1125375323,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125375323,
+    "wof:lastmodified":1509389440,
+    "wof:name":"Knysna",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"localadmin",
+    "wof:population":68659,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04713,
+    -34.03627,
+    23.04713,
+    -34.03627
+],
+  "geometry": {"coordinates":[23.04713,-34.03627],"type":"Point"}
+}

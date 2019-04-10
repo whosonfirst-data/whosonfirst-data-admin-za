@@ -1,0 +1,70 @@
+{
+  "id": 1309784035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15176,-34.41793,19.15176,-34.41793",
+    "geom:latitude":-34.41793,
+    "geom:longitude":19.15176,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC032",
+    "gn:asciiname":"Vermont",
+    "gn:country_code":"ZA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3359982,
+    "gn:latitude":-34.41793,
+    "gn:longitude":19.15176,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vermont",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359982,
+        "wk:page":"Vermont%2C_Western_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"97833d93fa8cc7dd5b375b5b25174856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1309784035,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1309784035,
+    "wof:lastmodified":1537576370,
+    "wof:name":"Vermont",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15176,
+    -34.41793,
+    19.15176,
+    -34.41793
+],
+  "geometry": {"coordinates":[19.15176,-34.41793],"type":"Point"}
+}

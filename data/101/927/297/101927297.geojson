@@ -1,0 +1,128 @@
+{
+  "id": 101927297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000579,
+    "geom:area_square_m":6443152.457179,
+    "geom:bbox":"31.0203475952,-25.7926368713,31.0586166382,-25.763463974",
+    "geom:latitude":-25.776147,
+    "geom:longitude":31.041365,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.776142,
+    "lbl:longitude":31.03978,
+    "mps:latitude":-25.776142,
+    "mps:longitude":31.03978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Emjindini"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u4f2f\u9813"
+    ],
+    "name:dut_x_preferred":[
+        "Barberton"
+    ],
+    "name:eng_x_preferred":[
+        "Barberton"
+    ],
+    "name:epo_x_preferred":[
+        "Barberton"
+    ],
+    "name:fin_x_preferred":[
+        "Barberton"
+    ],
+    "name:fit_x_preferred":[
+        "Barberton"
+    ],
+    "name:fre_x_preferred":[
+        "Barberton"
+    ],
+    "name:ger_x_preferred":[
+        "Barberton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d1\u05e8\u05d8\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Barberton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30d0\u30fc\u30c8\u30f3"
+    ],
+    "name:nso_x_preferred":[
+        "Emjindini"
+    ],
+    "name:pol_x_preferred":[
+        "Barberton"
+    ],
+    "name:rum_x_preferred":[
+        "Barberton"
+    ],
+    "name:spa_x_preferred":[
+        "Barberton"
+    ],
+    "name:swe_x_preferred":[
+        "Barberton"
+    ],
+    "name:ven_x_preferred":[
+        "Barberton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Emjindini",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579634,
+        "wd:id":"Q807828"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"52ab72f65cb9564a38be5422324d9498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927297,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927297,
+    "wof:lastmodified":1527715640,
+    "wof:name":"Emjindini",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02034759521484,
+    -25.79263687133789,
+    31.05861663818359,
+    -25.76346397399902
+],
+  "geometry": {"coordinates":[[[31.02034759521484,-25.76679229736328],[31.02751922607422,-25.76346397399902],[31.0343132019043,-25.7675952911377],[31.03861618041992,-25.77113723754883],[31.04170799255371,-25.76952934265137],[31.04473686218262,-25.77402114868164],[31.0477352142334,-25.77472114562988],[31.0440616607666,-25.76517868041992],[31.04975509643555,-25.7650203704834],[31.05283355712891,-25.76493453979492],[31.0528678894043,-25.76890754699707],[31.05809783935547,-25.77392578125],[31.05771064758301,-25.77864646911621],[31.05779647827148,-25.77873039245605],[31.05837249755859,-25.77973747253418],[31.05861663818359,-25.78084945678711],[31.05851173400879,-25.78198051452637],[31.05806732177734,-25.78304100036621],[31.05731391906738,-25.78394889831543],[31.05631446838379,-25.78463172912598],[31.05514526367188,-25.78503799438477],[31.0548152923584,-25.78506469726562],[31.05462837219238,-25.78767204284668],[31.04546928405762,-25.78918266296387],[31.0421085357666,-25.79263687133789],[31.03948593139648,-25.78922462463379],[31.04241752624512,-25.7823429107666],[31.02443504333496,-25.77831840515137],[31.0244083404541,-25.77524948120117],[31.0203800201416,-25.77058219909668],[31.02117538452148,-25.77021598815918],[31.02034759521484,-25.76679229736328]]],"type":"Polygon"}
+}

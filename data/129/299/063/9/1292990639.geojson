@@ -1,0 +1,69 @@
+{
+  "id": 1292990639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02056,-24.43028,30.02056,-24.43028",
+    "geom:latitude":-24.43028,
+    "geom:longitude":30.02056,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM475",
+    "gn:asciiname":"Makgake",
+    "gn:country_code":"ZA",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980064,
+    "gn:latitude":-24.43028,
+    "gn:longitude":30.02056,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Makgake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980064
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a6065fc605c125c0c5054d2ff43189d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1292990639,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292990639,
+    "wof:lastmodified":1537005565,
+    "wof:name":"Makgake",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02056,
+    -24.43028,
+    30.02056,
+    -24.43028
+],
+  "geometry": {"coordinates":[30.02056,-24.43028],"type":"Point"}
+}

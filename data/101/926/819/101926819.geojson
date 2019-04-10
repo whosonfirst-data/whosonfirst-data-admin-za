@@ -1,0 +1,110 @@
+{
+  "id": 101926819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":2126064.540593,
+    "geom:bbox":"26.141576767,-28.2986297607,26.1587409973,-28.2785339355",
+    "geom:latitude":-28.289531,
+    "geom:longitude":26.150352,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.28966,
+    "lbl:longitude":26.148077,
+    "mps:latitude":-28.28966,
+    "mps:longitude":26.148077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f2f\u723e\u7279\u65b9\u4e39"
+    ],
+    "name:dut_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:fre_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:ger_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:hak_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:ita_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30c8\u30d5\u30a9\u30f3\u30c6\u30a4\u30f3"
+    ],
+    "name:nso_x_preferred":[
+        "Bultfontein"
+    ],
+    "name:rum_x_preferred":[
+        "Bultfontein"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bultfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.286944,
+    "wd:longitude":26.150556,
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014747,
+        "gp:id":1589326,
+        "wd:id":"Q994009"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b49fae60e3da8a2d820b072f0d923cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926819,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926819,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Bultfontein",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14157676696777,
+    -28.29862976074219,
+    26.15874099731445,
+    -28.27853393554688
+],
+  "geometry": {"coordinates":[[[26.15060615539551,-28.27910232543945],[26.15130043029785,-28.27853393554688],[26.15375137329102,-28.28077697753906],[26.15513801574707,-28.28193092346191],[26.15406799316406,-28.28279304504395],[26.15305328369141,-28.28343391418457],[26.15294456481934,-28.28835868835449],[26.15874099731445,-28.28839683532715],[26.15801239013672,-28.29549598693848],[26.1544189453125,-28.29862976074219],[26.150634765625,-28.29781532287598],[26.15065574645996,-28.29544830322266],[26.14157676696777,-28.29396820068359],[26.14226150512695,-28.29105758666992],[26.14284515380859,-28.28857231140137],[26.1437873840332,-28.28533554077148],[26.14594459533691,-28.28291702270508],[26.15060615539551,-28.27910232543945]]],"type":"Polygon"}
+}

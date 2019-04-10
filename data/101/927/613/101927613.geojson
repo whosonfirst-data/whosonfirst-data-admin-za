@@ -1,0 +1,77 @@
+{
+  "id": 101927613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000111,
+    "geom:area_square_m":1207247.556073,
+    "geom:bbox":"30.8325328827,-28.1890945435,30.8486709595,-28.1784992218",
+    "geom:latitude":-28.184368,
+    "geom:longitude":30.840769,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.184168,
+    "lbl:longitude":30.839963,
+    "mps:latitude":-28.184168,
+    "mps:longitude":30.839963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nondweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970148,
+        "gp:id":1586059
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39591f693c420c94175d9f1bd5be2cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":101927613,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927613,
+    "wof:lastmodified":1534986008,
+    "wof:name":"Nondweni",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615683
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83253288269043,
+    -28.18909454345703,
+    30.84867095947266,
+    -28.17849922180176
+],
+  "geometry": {"coordinates":[[[30.83253288269043,-28.18336868286133],[30.83369255065918,-28.18188285827637],[30.83416938781738,-28.18119430541992],[30.83544158935547,-28.17983436584473],[30.83714485168457,-28.17860221862793],[30.83733367919922,-28.17849922180176],[30.84180450439453,-28.18006706237793],[30.84511184692383,-28.18210029602051],[30.84841728210449,-28.18458557128906],[30.84867095947266,-28.18571472167969],[30.84841346740723,-28.18796920776367],[30.84586524963379,-28.18909454345703],[30.84408187866211,-28.1890926361084],[30.83873558044434,-28.18886184692383],[30.83720970153809,-28.18773078918457],[30.83253288269043,-28.18336868286133]]],"type":"Polygon"}
+}

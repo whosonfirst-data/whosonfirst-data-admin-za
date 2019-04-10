@@ -1,0 +1,73 @@
+{
+  "id": 101923383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:area_square_m":2002947.053173,
+    "geom:bbox":"29.1315803528,-23.6886444092,29.1638126373,-23.6773586273",
+    "geom:latitude":-23.68222,
+    "geom:longitude":29.148278,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.68204,
+    "lbl:longitude":29.148278,
+    "mps:latitude":-23.68204,
+    "mps:longitude":29.148278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GARAMPURU",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002854,
+        "gp:id":1583945
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c425bbfe3f64913170c368832f24567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923383,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923383,
+    "wof:lastmodified":1500028414,
+    "wof:name":"Garampuru",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1315803527832,
+    -23.68864440917969,
+    29.1638126373291,
+    -23.67735862731934
+],
+  "geometry": {"coordinates":[[[29.13289451599121,-23.67735862731934],[29.13995742797852,-23.67769432067871],[29.16025733947754,-23.68133163452148],[29.1638126373291,-23.6824836730957],[29.16114807128906,-23.68864440917969],[29.1509952545166,-23.68540382385254],[29.1315803527832,-23.68176460266113],[29.13289451599121,-23.67735862731934]]],"type":"Polygon"}
+}

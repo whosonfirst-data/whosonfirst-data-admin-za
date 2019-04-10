@@ -1,0 +1,67 @@
+{
+  "id": 1292994489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2359,-25.39716,28.2359,-25.39716",
+    "geom:latitude":-25.39716,
+    "geom:longitude":28.2359,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sekampaneng",
+    "gn:country_code":"ZA",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956623,
+    "gn:latitude":-25.39716,
+    "gn:longitude":28.2359,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sekampaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956623
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e7902665c8c86bf894c6ec994ae2cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1292994489,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1292994489,
+    "wof:lastmodified":1537000045,
+    "wof:name":"Sekampaneng",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2359,
+    -25.39716,
+    28.2359,
+    -25.39716
+],
+  "geometry": {"coordinates":[28.2359,-25.39716],"type":"Point"}
+}

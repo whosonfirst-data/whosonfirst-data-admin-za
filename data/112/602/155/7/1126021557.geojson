@@ -1,0 +1,82 @@
+{
+  "id": 1126021557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3355725,-25.5429715,27.3355725,-25.5429715",
+    "geom:latitude":-25.542972,
+    "geom:longitude":27.335573,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.542972,
+    "lbl:longitude":27.335573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bosspruit",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"North-West",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1019178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580040,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"North-West",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580040,
+        "qs_pg:id":1019178
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300863,
+    "wof:geomhash":"d16dfa5001d3ef9678452855b5ddaa38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":1126021557,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1126021557,
+    "wof:lastmodified":1509407261,
+    "wof:name":"Bosspruit",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3355725,
+    -25.5429715,
+    27.3355725,
+    -25.5429715
+],
+  "geometry": {"coordinates":[27.3355725,-25.5429715],"type":"Point"}
+}

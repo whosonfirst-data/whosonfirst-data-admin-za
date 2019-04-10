@@ -1,0 +1,67 @@
+{
+  "id": 1276131605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.89327,-30.33496,28.89327,-30.33496",
+    "geom:latitude":-30.33496,
+    "geom:longitude":28.89327,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bon-Accord",
+    "gn:country_code":"ZA",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1017690,
+    "gn:latitude":-30.33496,
+    "gn:longitude":28.89327,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bon-Accord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017690
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c3f20566157dd5e9827848d3bcf2d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1276131605,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276131605,
+    "wof:lastmodified":1537046910,
+    "wof:name":"Bon-Accord",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89327,
+    -30.33496,
+    28.89327,
+    -30.33496
+],
+  "geometry": {"coordinates":[28.89327,-30.33496],"type":"Point"}
+}

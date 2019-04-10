@@ -1,0 +1,140 @@
+{
+  "id": 101927473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000335,
+    "geom:area_square_m":3663787.307719,
+    "geom:bbox":"30.3087158203,-27.6696128845,30.338602066,-27.6511688232",
+    "geom:latitude":-27.659565,
+    "geom:longitude":30.325496,
+    "gn:population":3575,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.659555,
+    "lbl:longitude":30.325496,
+    "mps:latitude":-27.659555,
+    "mps:longitude":30.325496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Utrecht"
+    ],
+    "name:cat_x_preferred":[
+        "Utrecht"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u5f97\u52d2\u652f"
+    ],
+    "name:deu_x_preferred":[
+        "Utrecht"
+    ],
+    "name:dut_x_preferred":[
+        "Utrecht"
+    ],
+    "name:eng_x_preferred":[
+        "Utrecht"
+    ],
+    "name:fre_x_preferred":[
+        "Utrecht"
+    ],
+    "name:ger_x_preferred":[
+        "Utrecht"
+    ],
+    "name:ita_x_preferred":[
+        "Utrecht"
+    ],
+    "name:nld_x_preferred":[
+        "Utrecht"
+    ],
+    "name:nov_x_preferred":[
+        "Utrecht Komunie"
+    ],
+    "name:nso_x_preferred":[
+        "Utrecht"
+    ],
+    "name:oci_x_preferred":[
+        "Utrecht"
+    ],
+    "name:pol_x_preferred":[
+        "Utrecht"
+    ],
+    "name:ron_x_preferred":[
+        "Utrecht"
+    ],
+    "name:rum_x_preferred":[
+        "Utrecht"
+    ],
+    "name:spa_x_preferred":[
+        "Utrecht"
+    ],
+    "name:tur_x_preferred":[
+        "Utrecht Cumhuriyeti"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5f97\u52d2\u652f"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Utrecht",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.66,
+    "wd:longitude":30.33,
+    "wd:wordcount":773,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945813,
+        "gp:id":56189507,
+        "qs:id":1100525,
+        "wd:id":"Q18108",
+        "wk:page":"Utrecht, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0313931f7594d9fb70268f80b6b46856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927473,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927473,
+    "wof:lastmodified":1527715639,
+    "wof:name":"Utrecht",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:population":3575,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3087158203125,
+    -27.66961288452148,
+    30.33860206604004,
+    -27.65116882324219
+],
+  "geometry": {"coordinates":[[[30.31955337524414,-27.66534805297852],[30.3087158203125,-27.65851020812988],[30.31455612182617,-27.65449523925781],[30.32546997070312,-27.65116882324219],[30.32774925231934,-27.65140533447266],[30.3353328704834,-27.6539249420166],[30.33659744262695,-27.65508079528809],[30.33769607543945,-27.65637588500977],[30.33860206604004,-27.65777587890625],[30.33858871459961,-27.65980529785156],[30.33577537536621,-27.66407775878906],[30.33474922180176,-27.66561508178711],[30.33347702026367,-27.6669979095459],[30.33144187927246,-27.66811561584473],[30.32772254943848,-27.66961288452148],[30.32645416259766,-27.66850280761719],[30.32486534118652,-27.66756629943848],[30.32310676574707,-27.66676902770996],[30.3212947845459,-27.66604995727539],[30.31955337524414,-27.66534805297852]]],"type":"Polygon"}
+}

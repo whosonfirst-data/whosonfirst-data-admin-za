@@ -1,0 +1,85 @@
+{
+  "id": 101927653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":983048.199422,
+    "geom:bbox":"32.4112968445,-28.3874645233,32.4219360352,-28.3714103699",
+    "geom:latitude":-28.37957,
+    "geom:longitude":32.416868,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.379259,
+    "lbl:longitude":32.417391,
+    "mps:latitude":-28.379259,
+    "mps:longitude":32.417391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "St Lucia Estuary"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Lucia"
+    ],
+    "name:eng_x_variant":[
+        "St Lucia",
+        "St Lucia Estuary"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"St. Lucia Estuary",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958273,
+        "gp:id":1587129,
+        "qs:id":905735,
+        "wd:id":"Q7594034"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"05b3ef1070fbf19de8b00dfe422ad541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":101927653,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927653,
+    "wof:lastmodified":1514504547,
+    "wof:name":"St. Lucia Estuary",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41129684448242,
+    -28.38746452331543,
+    32.42193603515625,
+    -28.37141036987305
+],
+  "geometry": {"coordinates":[[[32.41132736206055,-28.38612747192383],[32.41130828857422,-28.38500022888184],[32.41129684448242,-28.38423347473145],[32.41144561767578,-28.38336181640625],[32.41204452514648,-28.38213539123535],[32.41365814208984,-28.37993431091309],[32.41424560546875,-28.37895965576172],[32.41571044921875,-28.37567138671875],[32.41728973388672,-28.37141036987305],[32.41852569580078,-28.3718376159668],[32.42160797119141,-28.37338447570801],[32.42190551757812,-28.37653923034668],[32.42193603515625,-28.37857055664062],[32.41791915893555,-28.38335037231445],[32.41616821289062,-28.38607597351074],[32.41287231445312,-28.38746452331543],[32.41132736206055,-28.38612747192383]]],"type":"Polygon"}
+}

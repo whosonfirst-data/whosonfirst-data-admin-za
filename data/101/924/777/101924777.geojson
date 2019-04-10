@@ -1,0 +1,138 @@
+{
+  "id": 101924777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":934790.037433,
+    "geom:bbox":"24.8318691254,-27.929058075,24.854473114,-27.9148464203",
+    "geom:latitude":-27.919671,
+    "geom:longitude":24.844711,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13485,
+    "gn:population":13485,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.918668,
+    "lbl:longitude":24.845482,
+    "mps:latitude":-27.918668,
+    "mps:longitude":24.845482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:deu_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:dut_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:eng_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:ger_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:nld_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:nso_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:pol_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:ron_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:rum_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:unk_x_variant":[
+        "Andalusia"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jan Kempdorp",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":994023,
+    "qs_pg:gn_pop":13485,
+    "qs_pg:name":"Jan Kempdorp",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1300331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582491,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.919444,
+    "wd:longitude":24.836111,
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994023,
+        "gp:id":1582491,
+        "qs:id":1300331,
+        "qs_pg:id":1300331,
+        "wd:id":"Q2539888",
+        "wk:page":"Jan Kempdorp"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"25a17052859f0a8946c26d34f8cab8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":101924777,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":101924777,
+    "wof:lastmodified":1534379837,
+    "wof:name":"Jan Kempdorp",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:population":13485,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125924421
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83186912536621,
+    -27.92905807495117,
+    24.85447311401367,
+    -27.91484642028809
+],
+  "geometry": {"coordinates":[[[24.83186912536621,-27.92905807495117],[24.83245849609375,-27.92695808410645],[24.83527183532715,-27.92446708679199],[24.84238052368164,-27.91747665405273],[24.84566116333008,-27.91484642028809],[24.84745407104492,-27.9150562286377],[24.8520565032959,-27.91540718078613],[24.85377311706543,-27.91575622558594],[24.85447311401367,-27.91637992858887],[24.85447120666504,-27.91755867004395],[24.85322189331055,-27.91873550415039],[24.85119247436523,-27.91928672790527],[24.84893035888672,-27.91949272155762],[24.84807205200195,-27.92011642456055],[24.84752464294434,-27.92122459411621],[24.84627532958984,-27.92212295532227],[24.84455680847168,-27.922607421875],[24.84198379516602,-27.92274284362793],[24.83979797363281,-27.92280960083008],[24.8377685546875,-27.92363929748535],[24.83636283874512,-27.92481422424316],[24.83487701416016,-27.92689323425293],[24.83347129821777,-27.92827606201172],[24.83186912536621,-27.92905807495117]]],"type":"Polygon"}
+}

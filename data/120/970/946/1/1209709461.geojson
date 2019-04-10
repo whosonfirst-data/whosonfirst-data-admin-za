@@ -1,0 +1,73 @@
+{
+  "id": 1209709461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20141,-26.61706,26.20141,-26.61706",
+    "geom:latitude":-26.61706,
+    "geom:longitude":26.20141,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW382",
+    "gn:asciiname":"Bospoort",
+    "gn:country_code":"ZA",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016874,
+    "gn:latitude":-26.61706,
+    "gn:longitude":26.20141,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bospoort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boschpoort",
+        "Bospoort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016874
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"340913d91758520af2cef46e30cc67a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1209709461,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1209709461,
+    "wof:lastmodified":1537716436,
+    "wof:name":"Bospoort",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20141,
+    -26.61706,
+    26.20141,
+    -26.61706
+],
+  "geometry": {"coordinates":[26.20141,-26.61706],"type":"Point"}
+}

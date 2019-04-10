@@ -1,0 +1,63 @@
+{
+  "id": 1209520227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.99746,-32.11786,28.99746,-32.11786",
+    "geom:latitude":-32.11786,
+    "geom:longitude":28.99746,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Bulungulu",
+    "gn:country_code":"ZA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014720,
+    "gn:latitude":-32.11786,
+    "gn:longitude":28.99746,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bulungulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014720
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7058d75c93d5b94892ad4f1818f9ab45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209520227
+        }
+    ],
+    "wof:id":1209520227,
+    "wof:lastmodified":1536284603,
+    "wof:name":"Bulungulu",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99746,
+    -32.11786,
+    28.99746,
+    -32.11786
+],
+  "geometry": {"coordinates":[28.99746,-32.11786],"type":"Point"}
+}

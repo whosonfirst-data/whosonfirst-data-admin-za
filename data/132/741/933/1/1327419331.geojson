@@ -1,0 +1,70 @@
+{
+  "id": 1327419331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,-31.5,23.18333,-31.5",
+    "geom:latitude":-31.5,
+    "geom:longitude":23.18333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC071",
+    "gn:asciiname":"Hutchinson",
+    "gn:country_code":"ZA",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":995044,
+    "gn:latitude":-31.5,
+    "gn:longitude":23.18333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hutchinson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995044,
+        "wk:page":"Hutchinson%2C_Northern_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e5924b93659f3561f707318cf0d9b432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1327419331,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1327419331,
+    "wof:lastmodified":1537576366,
+    "wof:name":"Hutchinson",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    -31.5,
+    23.18333,
+    -31.5
+],
+  "geometry": {"coordinates":[23.18333,-31.5],"type":"Point"}
+}

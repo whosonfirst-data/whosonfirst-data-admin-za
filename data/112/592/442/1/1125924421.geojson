@@ -1,0 +1,114 @@
+{
+  "id": 1125924421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83052,-27.92246,24.83052,-27.92246",
+    "geom:latitude":-27.92246,
+    "geom:longitude":24.83052,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13485,
+    "gn:population":13485,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.92246,
+    "lbl:longitude":24.83052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:dut_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:eng_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:ger_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:pol_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:rum_x_preferred":[
+        "Jan Kempdorp"
+    ],
+    "name:unk_x_variant":[
+        "Andalusia"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":994023,
+    "qs_pg:gn_pop":13485,
+    "qs_pg:name":"Jan Kempdorp",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1300331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994023,
+        "gp:id":1582491,
+        "qs_pg:id":1300331,
+        "wd:id":"Q2539888"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497296593,
+    "wof:geomhash":"bed673abbfb44947c6f0f83c82a19704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1125924421,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125924421,
+    "wof:lastmodified":1534379837,
+    "wof:name":"Jan Kempdorp",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:population":13485,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        101924777
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83052,
+    -27.92246,
+    24.83052,
+    -27.92246
+],
+  "geometry": {"coordinates":[24.83052,-27.92246],"type":"Point"}
+}

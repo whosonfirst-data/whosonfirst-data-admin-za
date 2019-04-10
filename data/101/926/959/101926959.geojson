@@ -1,0 +1,105 @@
+{
+  "id": 101926959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1469834.246223,
+    "geom:bbox":"26.7725219727,-28.8395328522,26.7875881195,-28.8273715973",
+    "geom:latitude":-28.833531,
+    "geom:longitude":26.779798,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.833467,
+    "lbl:longitude":26.779044,
+    "mps:latitude":-28.833467,
+    "mps:longitude":26.779044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:dut_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:eng_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u06a9\u06cc\u0631\u062f\u0648\u0644\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:nso_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u06a9\u06cc\u0631\u062f\u0648\u0644\u06cc"
+    ],
+    "name:ron_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "name:rum_x_preferred":[
+        "Verkeerdevlei"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Verkeerdevlei",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.833333,
+    "wd:longitude":26.783333,
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944263,
+        "gp:id":1588598,
+        "wd:id":"Q2416618",
+        "wk:page":"Verkeerdevlei"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"77803615477b5aad90e67226e24df369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926959,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926959,
+    "wof:lastmodified":1527715816,
+    "wof:name":"Verkeerdevlei",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77252197265625,
+    -28.83953285217285,
+    26.78758811950684,
+    -28.82737159729004
+],
+  "geometry": {"coordinates":[[[26.77252197265625,-28.8332405090332],[26.77599334716797,-28.82982635498047],[26.77780151367188,-28.82804679870605],[26.78171157836914,-28.82737159729004],[26.78406524658203,-28.82763481140137],[26.78582572937012,-28.82893180847168],[26.78758811950684,-28.83100700378418],[26.78758430480957,-28.83256149291992],[26.78728485107422,-28.83463287353516],[26.78639984130859,-28.83592796325684],[26.78522300720215,-28.83618354797363],[26.78316307067871,-28.83643913269043],[26.78227996826172,-28.83695602416992],[26.78227806091309,-28.83773422241211],[26.78198051452637,-28.83876991271973],[26.77992057800293,-28.83902549743652],[26.77697944641113,-28.83927917480469],[26.77344703674316,-28.83953285217285],[26.7725658416748,-28.83901214599609],[26.77252197265625,-28.8332405090332]]],"type":"Polygon"}
+}

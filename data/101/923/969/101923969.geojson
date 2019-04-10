@@ -1,0 +1,73 @@
+{
+  "id": 101923969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":1133119.030631,
+    "geom:bbox":"30.1863021851,-22.9642028809,30.2094783783,-22.9565410614",
+    "geom:latitude":-22.959574,
+    "geom:longitude":30.198793,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.959163,
+    "lbl:longitude":30.198968,
+    "mps:latitude":-22.959163,
+    "mps:longitude":30.198968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tshitavha",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947851,
+        "gp:id":1581293
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"35484d0d40f0aa08ca6d6dedaaca360f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923969,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923969,
+    "wof:lastmodified":1500028405,
+    "wof:name":"Tshitavha",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18630218505859,
+    -22.96420288085938,
+    30.2094783782959,
+    -22.95654106140137
+],
+  "geometry": {"coordinates":[[[30.18630218505859,-22.95808601379395],[30.18736839294434,-22.95657730102539],[30.19536781311035,-22.95657920837402],[30.19843864440918,-22.9565544128418],[30.2001953125,-22.95654106140137],[30.20503616333008,-22.9581298828125],[30.20767974853516,-22.95932769775391],[30.20901489257812,-22.96134948730469],[30.20947456359863,-22.96378326416016],[30.2094783782959,-22.96418952941895],[30.20772361755371,-22.96420288085938],[30.20376014709473,-22.96260833740234],[30.19936370849609,-22.96183013916016],[30.19365310668945,-22.96106147766113],[30.19013595581055,-22.96027565002441],[30.18630218505859,-22.95808601379395]]],"type":"Polygon"}
+}

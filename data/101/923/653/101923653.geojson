@@ -1,0 +1,73 @@
+{
+  "id": 101923653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000467,
+    "geom:area_square_m":5254336.049906,
+    "geom:bbox":"29.3840770721,-24.4644050598,29.4148826599,-24.4388313293",
+    "geom:latitude":-24.452356,
+    "geom:longitude":29.398037,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.45294,
+    "lbl:longitude":29.398037,
+    "mps:latitude":-24.45294,
+    "mps:longitude":29.398037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Magatle",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980538,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1817864e510c88b1517c1d13f6ec1756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923653,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923653,
+    "wof:lastmodified":1500028369,
+    "wof:name":"Magatle",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38407707214355,
+    -24.46440505981445,
+    29.41488265991211,
+    -24.4388313293457
+],
+  "geometry": {"coordinates":[[[29.38407707214355,-24.4388313293457],[29.38768768310547,-24.44011306762695],[29.40236473083496,-24.44531440734863],[29.41036796569824,-24.44976234436035],[29.41437149047852,-24.45300102233887],[29.41488265991211,-24.45355987548828],[29.41261672973633,-24.45950508117676],[29.40286827087402,-24.46440505981445],[29.38508987426758,-24.45591926574707],[29.38407707214355,-24.4388313293457]]],"type":"Polygon"}
+}

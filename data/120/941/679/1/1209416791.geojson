@@ -1,0 +1,63 @@
+{
+  "id": 1209416791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.44539,-29.52844,26.44539,-29.52844",
+    "geom:latitude":-29.52844,
+    "geom:longitude":26.44539,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS164",
+    "gn:asciiname":"Blouboskop",
+    "gn:country_code":"ZA",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1018539,
+    "gn:latitude":-29.52844,
+    "gn:longitude":26.44539,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Blouboskop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1018539
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75b6d57ecc63c230119fe8a756ff5fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209416791
+        }
+    ],
+    "wof:id":1209416791,
+    "wof:lastmodified":1536287661,
+    "wof:name":"Blouboskop",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.445390000000003,
+    -29.528440000000003,
+    26.445390000000003,
+    -29.528440000000003
+],
+  "geometry": {"coordinates":[26.44539,-29.52844],"type":"Point"}
+}

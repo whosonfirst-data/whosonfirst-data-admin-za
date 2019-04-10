@@ -1,0 +1,73 @@
+{
+  "id": 1310428315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.22498,-30.80417,28.22498,-30.80417",
+    "geom:latitude":-30.80417,
+    "geom:longitude":28.22498,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Elands Heights",
+    "gn:country_code":"ZA",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006231,
+    "gn:latitude":-30.80417,
+    "gn:longitude":28.22498,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Elands Heights",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elands Height",
+        "Elands Heights"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006231
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bb00f48eb5bffdb29c7e8b315a356304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1310428315,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310428315,
+    "wof:lastmodified":1537716428,
+    "wof:name":"Elands Heights",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.22498,
+    -30.80417000000001,
+    28.22498,
+    -30.80417000000001
+],
+  "geometry": {"coordinates":[28.22498,-30.80417000000001],"type":"Point"}
+}

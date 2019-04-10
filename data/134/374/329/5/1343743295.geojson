@@ -1,0 +1,69 @@
+{
+  "id": 1343743295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3025,-32.90618,19.3025,-32.90618",
+    "geom:latitude":-32.90618,
+    "geom:longitude":19.3025,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC022",
+    "gn:asciiname":"Voorsorg",
+    "gn:country_code":"ZA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3359773,
+    "gn:latitude":-32.90618,
+    "gn:longitude":19.3025,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Voorsorg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359773
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"af40189877a020144a7d35eb734f7c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1343743295,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1343743295,
+    "wof:lastmodified":1536834646,
+    "wof:name":"Voorsorg",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3025,
+    -32.90618,
+    19.3025,
+    -32.90618
+],
+  "geometry": {"coordinates":[19.3025,-32.90618],"type":"Point"}
+}

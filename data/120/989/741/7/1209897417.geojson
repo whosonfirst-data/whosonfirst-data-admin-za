@@ -1,0 +1,70 @@
+{
+  "id": 1209897417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34263,-33.73302,23.34263,-33.73302",
+    "geom:latitude":-33.73302,
+    "geom:longitude":23.34263,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Haarlem",
+    "gn:country_code":"ZA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998360,
+    "gn:latitude":-33.73302,
+    "gn:longitude":23.34263,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Haarlem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998360,
+        "wk:page":"Haarlem%2C_Western_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"86f53d896053b343be1677d2143fb96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1209897417,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1209897417,
+    "wof:lastmodified":1537576366,
+    "wof:name":"Haarlem",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34263,
+    -33.73302,
+    23.34263,
+    -33.73302
+],
+  "geometry": {"coordinates":[23.34263,-33.73302],"type":"Point"}
+}

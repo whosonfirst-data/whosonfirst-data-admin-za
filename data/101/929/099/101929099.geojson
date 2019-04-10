@@ -1,0 +1,72 @@
+{
+  "id": 101929099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1299732.312178,
+    "geom:bbox":"27.2917289734,-32.8686180115,27.3068523407,-32.8560066223",
+    "geom:latitude":-32.861483,
+    "geom:longitude":27.298283,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.861879,
+    "lbl:longitude":27.29767,
+    "mps:latitude":-32.861879,
+    "mps:longitude":27.29767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Petersburg Mission",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122629
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"af2521e1950d9e183dab5a39ffc39329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929099,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929099,
+    "wof:lastmodified":1500027813,
+    "wof:name":"Petersburg Mission",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29172897338867,
+    -32.86861801147461,
+    27.30685234069824,
+    -32.85600662231445
+],
+  "geometry": {"coordinates":[[[27.29201316833496,-32.85787963867188],[27.2919979095459,-32.85683822631836],[27.29487609863281,-32.85646057128906],[27.3006591796875,-32.85744476318359],[27.30146217346191,-32.85604476928711],[27.3051700592041,-32.85600662231445],[27.30685234069824,-32.85842514038086],[27.30443000793457,-32.8619270324707],[27.29995918273926,-32.86614608764648],[27.29628562927246,-32.86861801147461],[27.29172897338867,-32.86692428588867],[27.29288673400879,-32.86135101318359],[27.29201316833496,-32.85787963867188]]],"type":"Polygon"}
+}

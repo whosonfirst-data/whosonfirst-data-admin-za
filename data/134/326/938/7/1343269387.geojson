@@ -1,0 +1,69 @@
+{
+  "id": 1343269387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9172,-30.37813,25.9172,-30.37813",
+    "geom:latitude":-30.37813,
+    "geom:longitude":25.9172,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Rooirantjies",
+    "gn:country_code":"ZA",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":959431,
+    "gn:latitude":-30.37813,
+    "gn:longitude":25.9172,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rooirantjies",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959431
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"22ceb6b3b2c7af0f68924e56752bc4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1343269387,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1343269387,
+    "wof:lastmodified":1537021041,
+    "wof:name":"Rooirantjies",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9172,
+    -30.37813,
+    25.9172,
+    -30.37813
+],
+  "geometry": {"coordinates":[25.9172,-30.37813],"type":"Point"}
+}

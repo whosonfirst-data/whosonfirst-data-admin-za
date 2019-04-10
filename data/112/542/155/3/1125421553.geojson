@@ -1,0 +1,78 @@
+{
+  "id": 1125421553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73191,-27.29576,27.73191,-27.29576",
+    "geom:latitude":-27.29576,
+    "geom:longitude":27.73191,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":95187,
+    "gn:population":95187,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.29576,
+    "lbl:longitude":27.73191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347529,
+    "qs_pg:gn_pop":95187,
+    "qs_pg:name":"Ngwathe",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764955,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347529,
+        "qs_pg:id":764955
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052344,
+    "wof:geomhash":"67403b2aa1ed7dbf754259b89ff28e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "localadmin_id":1125421553,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125421553,
+    "wof:lastmodified":1509390490,
+    "wof:name":"Ngwathe",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"localadmin",
+    "wof:population":95187,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73191,
+    -27.29576,
+    27.73191,
+    -27.29576
+],
+  "geometry": {"coordinates":[27.73191,-27.29576],"type":"Point"}
+}

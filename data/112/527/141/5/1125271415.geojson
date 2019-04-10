@@ -1,0 +1,78 @@
+{
+  "id": 1125271415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73771,-30.29165,29.73771,-30.29165",
+    "geom:latitude":-30.29165,
+    "geom:longitude":29.73771,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":243242,
+    "gn:population":243242,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.29165,
+    "lbl:longitude":29.73771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347518,
+    "qs_pg:gn_pop":243242,
+    "qs_pg:name":"Umzimkhulu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764947,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347518,
+        "qs_pg:id":764947
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042143,
+    "wof:geomhash":"f5550a682141af6a2fbfb52764ca6237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "localadmin_id":1125271415,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271415,
+    "wof:lastmodified":1509387033,
+    "wof:name":"Umzimkhulu",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"localadmin",
+    "wof:population":243242,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73771,
+    -30.29165,
+    29.73771,
+    -30.29165
+],
+  "geometry": {"coordinates":[29.73771,-30.29165],"type":"Point"}
+}

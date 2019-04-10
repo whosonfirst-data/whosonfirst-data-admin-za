@@ -1,0 +1,67 @@
+{
+  "id": 1276767697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08927,-30.36803,30.08927,-30.36803",
+    "geom:latitude":-30.36803,
+    "geom:longitude":30.08927,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"River View",
+    "gn:country_code":"ZA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961098,
+    "gn:latitude":-30.36803,
+    "gn:longitude":30.08927,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"River View",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961098
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"090642a8bbc2f5d214f776e6a0ae1361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1276767697,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276767697,
+    "wof:lastmodified":1536694006,
+    "wof:name":"River View",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08927000000001,
+    -30.36803,
+    30.08927000000001,
+    -30.36803
+],
+  "geometry": {"coordinates":[30.08927000000001,-30.36803],"type":"Point"}
+}

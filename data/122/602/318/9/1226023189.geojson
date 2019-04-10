@@ -1,0 +1,69 @@
+{
+  "id": 1226023189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47614,-33.75708,19.47614,-33.75708",
+    "geom:latitude":-33.75708,
+    "geom:longitude":19.47614,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC025",
+    "gn:asciiname":"Kwaggaskloofdam",
+    "gn:country_code":"ZA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3364911,
+    "gn:latitude":-33.75708,
+    "gn:longitude":19.47614,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kwaggaskloofdam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364911
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"65cccc29bf90b79b447109fb2898ce11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1226023189,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226023189,
+    "wof:lastmodified":1536757882,
+    "wof:name":"Kwaggaskloofdam",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47614,
+    -33.75708,
+    19.47614,
+    -33.75708
+],
+  "geometry": {"coordinates":[19.47614,-33.75708],"type":"Point"}
+}

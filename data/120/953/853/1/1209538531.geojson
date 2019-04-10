@@ -1,0 +1,63 @@
+{
+  "id": 1209538531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37792,-31.08444,29.37792,-31.08444",
+    "geom:latitude":-31.08444,
+    "geom:longitude":29.37792,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC444",
+    "gn:asciiname":"Dambeni",
+    "gn:country_code":"ZA",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012050,
+    "gn:latitude":-31.08444,
+    "gn:longitude":29.37792,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dambeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012050
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c4b69ca696edec66079e8fcf8b46fcee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209538531
+        }
+    ],
+    "wof:id":1209538531,
+    "wof:lastmodified":1536284060,
+    "wof:name":"Dambeni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37792,
+    -31.08444,
+    29.37792,
+    -31.08444
+],
+  "geometry": {"coordinates":[29.37792,-31.08444],"type":"Point"}
+}

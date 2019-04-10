@@ -1,0 +1,88 @@
+{
+  "id": 101925485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":2068483.244725,
+    "geom:bbox":"27.5509281158,-25.7582263947,27.565246582,-25.7386608124",
+    "geom:latitude":-25.747397,
+    "geom:longitude":27.556648,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.747119,
+    "lbl:longitude":27.556069,
+    "mps:latitude":-25.747119,
+    "mps:longitude":27.556069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mooinooi"
+    ],
+    "name:dut_x_preferred":[
+        "Mooinooi"
+    ],
+    "name:eng_x_preferred":[
+        "Mooinooi"
+    ],
+    "name:nso_x_preferred":[
+        "Mooinooi"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mooinooi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.75,
+    "wd:longitude":27.55,
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879681,
+        "wd:id":"Q6907293"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a7c3b5b80b3efe42a88ac06fb7880ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925485,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925485,
+    "wof:lastmodified":1527688519,
+    "wof:name":"Mooinooi",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55092811584473,
+    -25.75822639465332,
+    27.56524658203125,
+    -25.73866081237793
+],
+  "geometry": {"coordinates":[[[27.55215454101562,-25.75822639465332],[27.55092811584473,-25.73921585083008],[27.55630874633789,-25.73912048339844],[27.56244850158691,-25.73866081237793],[27.56524658203125,-25.74348640441895],[27.56067276000977,-25.74530982971191],[27.56023216247559,-25.75686836242676],[27.55215454101562,-25.75822639465332]]],"type":"Polygon"}
+}

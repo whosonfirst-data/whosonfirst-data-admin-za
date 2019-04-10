@@ -1,0 +1,70 @@
+{
+  "id": 101925665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":827511.780623,
+    "geom:bbox":"28.1468734741,-26.0436935425,28.1618175507,-26.0337696075",
+    "geom:latitude":-26.038644,
+    "geom:longitude":28.154236,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.038206,
+    "lbl:longitude":28.154349,
+    "mps:latitude":-26.038206,
+    "mps:longitude":28.154349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Commercia",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"8febf70154ce1dfc0c2ada0ba196f6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925665,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925665,
+    "wof:lastmodified":1500027690,
+    "wof:name":"Commercia",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.14687347412109,
+    -26.04369354248047,
+    28.16181755065918,
+    -26.03376960754395
+],
+  "geometry": {"coordinates":[[[28.15302085876465,-26.03503799438477],[28.15781402587891,-26.03376960754395],[28.16181755065918,-26.03845977783203],[28.14984703063965,-26.04369354248047],[28.14687347412109,-26.04096221923828],[28.15302085876465,-26.03503799438477]]],"type":"Polygon"}
+}

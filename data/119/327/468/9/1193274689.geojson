@@ -1,0 +1,73 @@
+{
+  "id": 1193274689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67023,-30.41246,28.67023,-30.41246",
+    "geom:latitude":-30.41246,
+    "geom:longitude":28.67023,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC441",
+    "gn:asciiname":"Sigoga",
+    "gn:country_code":"ZA",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955740,
+    "gn:latitude":-30.41246,
+    "gn:longitude":28.67023,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sigoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigogo",
+        "Sigoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955740
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1c29fa0cc23db9a93a69e9f1d74612d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1193274689,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1193274689,
+    "wof:lastmodified":1537716379,
+    "wof:name":"Sigoga",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67023,
+    -30.41246,
+    28.67023,
+    -30.41246
+],
+  "geometry": {"coordinates":[28.67023,-30.41246],"type":"Point"}
+}

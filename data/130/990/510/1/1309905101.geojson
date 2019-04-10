@@ -1,0 +1,74 @@
+{
+  "id": 1309905101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29599,-32.31499,28.29599,-32.31499",
+    "geom:latitude":-32.31499,
+    "geom:longitude":28.29599,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC122",
+    "gn:asciiname":"Lower Qora",
+    "gn:country_code":"ZA",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981662,
+    "gn:latitude":-32.31499,
+    "gn:longitude":28.29599,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lower Qora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qora",
+        "Lower Qoha",
+        "Lower Qora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981662
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"469f3b570cee0f06a8fb608e06e8ceec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1309905101,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309905101,
+    "wof:lastmodified":1537716410,
+    "wof:name":"Lower Qora",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29599,
+    -32.31499,
+    28.29599,
+    -32.31499
+],
+  "geometry": {"coordinates":[28.29599,-32.31499],"type":"Point"}
+}

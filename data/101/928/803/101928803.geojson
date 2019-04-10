@@ -1,0 +1,72 @@
+{
+  "id": 101928803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":2206169.256695,
+    "geom:bbox":"27.6944332123,-31.8008975983,27.7176837921,-31.7863082886",
+    "geom:latitude":-31.793597,
+    "geom:longitude":27.706313,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.793619,
+    "lbl:longitude":27.707254,
+    "mps:latitude":-31.793619,
+    "mps:longitude":27.707254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KuGongqo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580413
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d218b42bc3b9295e1111752c16c633a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928803,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928803,
+    "wof:lastmodified":1500027817,
+    "wof:name":"KuGongqo",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69443321228027,
+    -31.8008975982666,
+    27.71768379211426,
+    -31.78630828857422
+],
+  "geometry": {"coordinates":[[[27.71501731872559,-31.78630828857422],[27.71762084960938,-31.78701019287109],[27.71768379211426,-31.79032897949219],[27.71598434448242,-31.79182815551758],[27.71349716186523,-31.79739379882812],[27.69974327087402,-31.8008975982666],[27.69581031799316,-31.79837036132812],[27.69443321228027,-31.7939624786377],[27.69568061828613,-31.7913646697998],[27.70301246643066,-31.79089736938477],[27.71026992797852,-31.78637313842773],[27.71501731872559,-31.78630828857422]]],"type":"Polygon"}
+}

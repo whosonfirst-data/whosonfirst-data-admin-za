@@ -1,0 +1,69 @@
+{
+  "id": 1309802909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7146,-31.09017,28.7146,-31.09017",
+    "geom:latitude":-31.09017,
+    "geom:longitude":28.7146,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Moorespost",
+    "gn:country_code":"ZA",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974084,
+    "gn:latitude":-31.09017,
+    "gn:longitude":28.7146,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Moorespost",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974084
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"06cc893d74b10c8d7c07147225bfb6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1309802909,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309802909,
+    "wof:lastmodified":1536935986,
+    "wof:name":"Moorespost",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7146,
+    -31.09017,
+    28.7146,
+    -31.09017
+],
+  "geometry": {"coordinates":[28.7146,-31.09017],"type":"Point"}
+}

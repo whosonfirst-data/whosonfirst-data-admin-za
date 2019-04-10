@@ -1,0 +1,69 @@
+{
+  "id": 1259982917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,-28.18333,31.1,-28.18333",
+    "geom:latitude":-28.18333,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN266",
+    "gn:asciiname":"Rooidrif",
+    "gn:country_code":"ZA",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":960004,
+    "gn:latitude":-28.18333,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rooidrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960004
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ceec846c4ea878176d904e5f4a8491d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1259982917,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259982917,
+    "wof:lastmodified":1536634641,
+    "wof:name":"Rooidrif",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    -28.18333,
+    31.1,
+    -28.18333
+],
+  "geometry": {"coordinates":[31.1,-28.18333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101927541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":809456.363521,
+    "geom:bbox":"30.212272644,-27.8787593842,30.2267227173,-27.8678379059",
+    "geom:latitude":-27.874016,
+    "geom:longitude":30.2203,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.87421,
+    "lbl:longitude":30.22041,
+    "mps:latitude":-27.87421,
+    "mps:longitude":30.22041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kilegethe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"043b685d1e6773f6b4710ce726ea3cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927541,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927541,
+    "wof:lastmodified":1500027514,
+    "wof:name":"Kilegethe",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21227264404297,
+    -27.87875938415527,
+    30.22672271728516,
+    -27.86783790588379
+],
+  "geometry": {"coordinates":[[[30.2126522064209,-27.87731552124023],[30.22292900085449,-27.86817932128906],[30.22331237792969,-27.86783790588379],[30.22672271728516,-27.86954879760742],[30.22670936584473,-27.87135314941406],[30.22517776489258,-27.87247276306152],[30.22209930419922,-27.87696647644043],[30.22030830383301,-27.87875938415527],[30.21574020385742,-27.87873268127441],[30.21227264404297,-27.87765312194824],[30.2126522064209,-27.87731552124023]]],"type":"Polygon"}
+}

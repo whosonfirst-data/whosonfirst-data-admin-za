@@ -1,0 +1,107 @@
+{
+  "id": 1125764409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94487,-23.94437,29.94487,-23.94437",
+    "geom:latitude":-23.94437,
+    "geom:longitude":29.94487,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.94437,
+    "lbl:longitude":29.94487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Haenertsburg"
+    ],
+    "name:dut_x_preferred":[
+        "Haenertsburg"
+    ],
+    "name:eng_x_preferred":[
+        "Haenertsburg"
+    ],
+    "name:nso_x_preferred":[
+        "Haenertsburg"
+    ],
+    "name:rum_x_preferred":[
+        "Haenertsburg"
+    ],
+    "name:unk_x_variant":[
+        "Haenerstburg"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":998279,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Haenertsburg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":265898,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582066,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998279,
+        "gp:id":1582066,
+        "qs_pg:id":265898,
+        "wd:id":"Q3643025"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497289778,
+    "wof:geomhash":"0b69710ce7e80a416e03d2f92f792a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1125764409,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125764409,
+    "wof:lastmodified":1514503913,
+    "wof:name":"Haenertsburg",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94487,
+    -23.94437,
+    29.94487,
+    -23.94437
+],
+  "geometry": {"coordinates":[29.94487,-23.94437],"type":"Point"}
+}

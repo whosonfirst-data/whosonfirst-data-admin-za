@@ -1,0 +1,111 @@
+{
+  "id": 1125820147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09417,-25.62417,28.09417,-25.62417",
+    "geom:latitude":-25.62417,
+    "geom:longitude":28.09417,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.62417,
+    "lbl:longitude":28.09417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u585e\u6797"
+    ],
+    "name:dut_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:eng_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:ger_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:ita_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:nob_x_preferred":[
+        "Rosslyn"
+    ],
+    "name:swe_x_preferred":[
+        "Rosslyn"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":959103,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rosslyn",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":341510,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587046,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959103,
+        "gp:id":1587046,
+        "qs_pg:id":341510,
+        "wd:id":"Q10657170"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292009,
+    "wof:geomhash":"a15328c8e9113bfd925123039e717552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1125820147,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125820147,
+    "wof:lastmodified":1514504522,
+    "wof:name":"Rosslyn",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09417,
+    -25.62417,
+    28.09417,
+    -25.62417
+],
+  "geometry": {"coordinates":[28.09417,-25.62417],"type":"Point"}
+}

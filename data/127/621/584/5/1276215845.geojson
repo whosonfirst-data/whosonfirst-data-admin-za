@@ -1,0 +1,67 @@
+{
+  "id": 1276215845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18389,-26.68287,23.18389,-26.68287",
+    "geom:latitude":-26.68287,
+    "geom:longitude":23.18389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kelso",
+    "gn:country_code":"ZA",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991448,
+    "gn:latitude":-26.68287,
+    "gn:longitude":23.18389,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Kelso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991448
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"16207ac15a94cc341fea00b723ea2684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1276215845,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276215845,
+    "wof:lastmodified":1536937202,
+    "wof:name":"Kelso",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18389,
+    -26.68287,
+    23.18389,
+    -26.68287
+],
+  "geometry": {"coordinates":[23.18389,-26.68287],"type":"Point"}
+}

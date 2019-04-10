@@ -1,0 +1,78 @@
+{
+  "id": 1125271729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07888,-23.66304,29.07888,-23.66304",
+    "geom:latitude":-23.66304,
+    "geom:longitude":29.07888,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":145454,
+    "gn:population":145454,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.66304,
+    "lbl:longitude":29.07888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347594,
+    "qs_pg:gn_pop":145454,
+    "qs_pg:name":"Aganang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":765003,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347594,
+        "qs_pg:id":765003
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042154,
+    "wof:geomhash":"4b82c04c65820c52a4d4a7ccce0ed942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "localadmin_id":1125271729,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125271729,
+    "wof:lastmodified":1509387045,
+    "wof:name":"Aganang",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"localadmin",
+    "wof:population":145454,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07888,
+    -23.66304,
+    29.07888,
+    -23.66304
+],
+  "geometry": {"coordinates":[29.07888,-23.66304],"type":"Point"}
+}

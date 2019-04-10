@@ -1,0 +1,63 @@
+{
+  "id": 1209209617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.91548,-23.13472,28.91548,-23.13472",
+    "geom:latitude":-23.13472,
+    "geom:longitude":28.91548,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM351",
+    "gn:asciiname":"Kutumpa",
+    "gn:country_code":"ZA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986072,
+    "gn:latitude":-23.13472,
+    "gn:longitude":28.91548,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kutumpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986072
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a121ffd312317863dfebc11a72f4c94a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209209617
+        }
+    ],
+    "wof:id":1209209617,
+    "wof:lastmodified":1536294333,
+    "wof:name":"Kutumpa",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91548,
+    -23.13472,
+    28.91548,
+    -23.13472
+],
+  "geometry": {"coordinates":[28.91548,-23.13472],"type":"Point"}
+}

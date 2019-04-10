@@ -1,0 +1,69 @@
+{
+  "id": 1293209453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05484,-28.43961,31.05484,-28.43961",
+    "geom:latitude":-28.43961,
+    "geom:longitude":31.05484,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN266",
+    "gn:asciiname":"Riversmeet",
+    "gn:country_code":"ZA",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961109,
+    "gn:latitude":-28.43961,
+    "gn:longitude":31.05484,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Riversmeet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961109
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d5c9e2d2c432b21e0f6021f09d989a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1293209453,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293209453,
+    "wof:lastmodified":1536690946,
+    "wof:name":"Riversmeet",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05484,
+    -28.43961,
+    31.05484,
+    -28.43961
+],
+  "geometry": {"coordinates":[31.05484,-28.43961],"type":"Point"}
+}

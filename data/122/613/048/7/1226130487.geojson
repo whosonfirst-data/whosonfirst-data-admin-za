@@ -1,0 +1,73 @@
+{
+  "id": 1226130487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57687,-33.97793,22.57687,-33.97793",
+    "geom:latitude":-33.97793,
+    "geom:longitude":22.57687,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Standplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":952745,
+    "gn:latitude":-33.97793,
+    "gn:longitude":22.57687,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Standplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Standplaats",
+        "Standplaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952745
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2d7a1757bb44f7f32a1bd27ce3ffcde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1226130487,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226130487,
+    "wof:lastmodified":1537716377,
+    "wof:name":"Standplaas",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57687,
+    -33.97793,
+    22.57687,
+    -33.97793
+],
+  "geometry": {"coordinates":[22.57687,-33.97793],"type":"Point"}
+}

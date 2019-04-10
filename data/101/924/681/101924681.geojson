@@ -1,0 +1,76 @@
+{
+  "id": 101924681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1311624.496607,
+    "geom:bbox":"23.0800743103,-27.0957221985,23.0936374664,-27.0824699402",
+    "geom:latitude":-27.089662,
+    "geom:longitude":23.087193,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.090597,
+    "lbl:longitude":23.087742,
+    "mps:latitude":-27.090597,
+    "mps:longitude":23.087742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tsenin"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tsineng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947778,
+        "gp:id":1588279
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6df4d9910f1a28b6428fb346cd636dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":101924681,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":101924681,
+    "wof:lastmodified":1501216558,
+    "wof:name":"Tsineng",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08007431030273,
+    -27.09572219848633,
+    23.09363746643066,
+    -27.08246994018555
+],
+  "geometry": {"coordinates":[[[23.08700942993164,-27.08550834655762],[23.09061241149902,-27.0858039855957],[23.09282875061035,-27.08608245849609],[23.09363746643066,-27.08758354187012],[23.09354591369629,-27.09304809570312],[23.09268951416016,-27.09452819824219],[23.08905982971191,-27.09572219848633],[23.08489990234375,-27.09541893005371],[23.08270835876465,-27.09365081787109],[23.08248138427734,-27.09066581726074],[23.08196640014648,-27.08817291259766],[23.08007431030273,-27.08516693115234],[23.0800895690918,-27.08417320251465],[23.08066177368164,-27.08318710327148],[23.08150291442871,-27.08270072937012],[23.08289527893066,-27.08246994018555],[23.083984375,-27.0837287902832],[23.08535194396973,-27.08498764038086],[23.08700942993164,-27.08550834655762]]],"type":"Polygon"}
+}

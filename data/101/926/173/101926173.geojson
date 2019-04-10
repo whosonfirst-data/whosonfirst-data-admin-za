@@ -1,0 +1,74 @@
+{
+  "id": 101926173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":1133226.171752,
+    "geom:bbox":"27.5067958832,-26.3919487,27.5210876465,-26.3826770782",
+    "geom:latitude":-26.387236,
+    "geom:longitude":27.514336,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.387475,
+    "lbl:longitude":27.51563,
+    "mps:latitude":-26.387475,
+    "mps:longitude":27.51563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"East Village",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006964,
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"807a4c8af85a545ad777635604dcc430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926173,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926173,
+    "wof:lastmodified":1527715815,
+    "wof:name":"East Village",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50679588317871,
+    -26.39194869995117,
+    27.52108764648438,
+    -26.38267707824707
+],
+  "geometry": {"coordinates":[[[27.50823211669922,-26.3828010559082],[27.51043891906738,-26.38267707824707],[27.51188278198242,-26.38398742675781],[27.52108764648438,-26.38278961181641],[27.52096366882324,-26.39043045043945],[27.5144100189209,-26.39168357849121],[27.51313209533691,-26.39059066772461],[27.51160049438477,-26.39035415649414],[27.5093822479248,-26.39111328125],[27.50679588317871,-26.39194869995117],[27.50679779052734,-26.39133644104004],[27.50680351257324,-26.39038848876953],[27.50691413879395,-26.38884544372559],[27.5082836151123,-26.3886547088623],[27.50823211669922,-26.3828010559082]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":515724.991662,
+    "geom:bbox":"26.7767429352,-26.959356308,26.7867584229,-26.9526042938",
+    "geom:latitude":-26.95566,
+    "geom:longitude":26.781686,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.955175,
+    "lbl:longitude":26.781781,
+    "mps:latitude":-26.955175,
+    "mps:longitude":26.781781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaal Reefs South Gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588482
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0cab84a924ee8c0bb1db91d79b8ff2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926543,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926543,
+    "wof:lastmodified":1500027650,
+    "wof:name":"Vaal Reefs South Gold Mine",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77674293518066,
+    -26.9593563079834,
+    26.78675842285156,
+    -26.95260429382324
+],
+  "geometry": {"coordinates":[[[26.77689552307129,-26.95545387268066],[26.77689743041992,-26.95493316650391],[26.78110694885254,-26.95273208618164],[26.7827033996582,-26.95260429382324],[26.78415298461914,-26.95260620117188],[26.78531265258789,-26.95286750793457],[26.78647041320801,-26.95378112792969],[26.78675842285156,-26.95508003234863],[26.7867546081543,-26.95664024353027],[26.78617286682129,-26.95754814147949],[26.78443336486816,-26.95754623413086],[26.78211212158203,-26.95767211914062],[26.78124237060547,-26.95767021179199],[26.7796459197998,-26.95805740356445],[26.77877235412598,-26.9593563079834],[26.77790260314941,-26.95935440063477],[26.77674293518066,-26.95870208740234],[26.77689552307129,-26.95584297180176],[26.77689552307129,-26.95545387268066]]],"type":"Polygon"}
+}

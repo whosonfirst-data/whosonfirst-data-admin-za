@@ -1,0 +1,63 @@
+{
+  "id": 1209101303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15836,-25.02211,26.15836,-25.02211",
+    "geom:latitude":-25.02211,
+    "geom:longitude":26.15836,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW385",
+    "gn:asciiname":"Nietverdiend",
+    "gn:country_code":"ZA",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970645,
+    "gn:latitude":-25.02211,
+    "gn:longitude":26.15836,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nietverdiend",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970645
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b2f826d24d3c8d0a35e4d1ce73052b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209101303
+        }
+    ],
+    "wof:id":1209101303,
+    "wof:lastmodified":1536297724,
+    "wof:name":"Nietverdiend",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15836,
+    -25.02211,
+    26.15836,
+    -25.02211
+],
+  "geometry": {"coordinates":[26.15836,-25.02211],"type":"Point"}
+}

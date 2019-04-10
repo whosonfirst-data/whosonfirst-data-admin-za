@@ -1,0 +1,70 @@
+{
+  "id": 101925923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":592642.141745,
+    "geom:bbox":"27.9939537048,-26.2226905823,28.0032081604,-26.2151641846",
+    "geom:latitude":-26.21875,
+    "geom:longitude":27.998872,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.218545,
+    "lbl:longitude":27.998784,
+    "mps:latitude":-26.218545,
+    "mps:longitude":27.998784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Crown Industrial",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"8cd38e824ffe926ae0ae3e4f0e285aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925923,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925923,
+    "wof:lastmodified":1500027732,
+    "wof:name":"Crown Industrial",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.99395370483398,
+    -26.22269058227539,
+    28.00320816040039,
+    -26.21516418457031
+],
+  "geometry": {"coordinates":[[[27.99395370483398,-26.21564865112305],[27.99901390075684,-26.21516418457031],[28.00299835205078,-26.21681594848633],[28.00320816040039,-26.22269058227539],[28.00120162963867,-26.22248649597168],[27.99575805664062,-26.2211742401123],[27.99502754211426,-26.22099876403809],[27.99395370483398,-26.21564865112305]]],"type":"Polygon"}
+}

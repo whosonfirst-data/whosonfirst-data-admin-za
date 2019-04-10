@@ -1,0 +1,69 @@
+{
+  "id": 1326638801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07319,-27.72828,31.07319,-27.72828",
+    "geom:latitude":-27.72828,
+    "geom:longitude":31.07319,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN263",
+    "gn:asciiname":"Sandlaer",
+    "gn:country_code":"ZA",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":957843,
+    "gn:latitude":-27.72828,
+    "gn:longitude":31.07319,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sandlaer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":957843
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fd0fce051cd91e3e5509c7834a4ad17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1326638801,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1326638801,
+    "wof:lastmodified":1536829276,
+    "wof:name":"Sandlaer",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07319,
+    -27.72828,
+    31.07319,
+    -27.72828
+],
+  "geometry": {"coordinates":[31.07319,-27.72828],"type":"Point"}
+}

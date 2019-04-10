@@ -1,0 +1,89 @@
+{
+  "id": 101928207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1112905.433442,
+    "geom:bbox":"29.7178020477,-30.3610973358,29.7277164459,-30.3439655304",
+    "geom:latitude":-30.352268,
+    "geom:longitude":29.723775,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.352126,
+    "lbl:longitude":29.724176,
+    "mps:latitude":-30.352126,
+    "mps:longitude":29.724176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Erwartung"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043a\u0441\u043f\u0435\u043a\u0442\u0430\u0446\u0438\u044f"
+    ],
+    "name:nld_x_preferred":[
+        "Verwachting"
+    ],
+    "name:por_x_preferred":[
+        "Expectation"
+    ],
+    "name:tur_x_preferred":[
+        "Beklenti"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Expectation",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004732,
+        "gp:id":1588433
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"07294b72501804f7c5c7af52917ec0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928207,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928207,
+    "wof:lastmodified":1527715923,
+    "wof:name":"Expectation",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71780204772949,
+    -30.36109733581543,
+    29.72771644592285,
+    -30.34396553039551
+],
+  "geometry": {"coordinates":[[[29.72085952758789,-30.35430145263672],[29.72117042541504,-30.35024642944336],[29.71882247924805,-30.35090065002441],[29.71780204772949,-30.34931182861328],[29.71885299682617,-30.34842109680176],[29.72027397155762,-30.3472843170166],[29.72170829772949,-30.34616088867188],[29.72315788269043,-30.34505271911621],[29.72462844848633,-30.34396553039551],[29.7267017364502,-30.34443473815918],[29.72771644592285,-30.34647369384766],[29.72651100158691,-30.35976600646973],[29.72415542602539,-30.36109733581543],[29.72130393981934,-30.36039352416992],[29.72079849243164,-30.35926055908203],[29.72085952758789,-30.35430145263672]]],"type":"Polygon"}
+}

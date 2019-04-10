@@ -1,0 +1,86 @@
+{
+  "id": 101926473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000442,
+    "geom:area_square_m":4883983.457578,
+    "geom:bbox":"27.8339195251,-26.7830505371,27.8548278809,-26.7545108795",
+    "geom:latitude":-26.769121,
+    "geom:longitude":27.844269,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.770652,
+    "lbl:longitude":27.845116,
+    "mps:latitude":-26.770652,
+    "mps:longitude":27.845116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Elizna Naud\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Elizna Naud\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Elizna Naude"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalpark",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945260,
+        "gp:id":1588496,
+        "qs:id":1171612,
+        "qs_pg:id":1171612
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9cca05cae00d016ea5b3c6e212d020a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926473,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926473,
+    "wof:lastmodified":1497292797,
+    "wof:name":"Vaalpark",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83391952514648,
+    -26.78305053710938,
+    27.85482788085938,
+    -26.7545108795166
+],
+  "geometry": {"coordinates":[[[27.84286308288574,-26.78305053710938],[27.83965873718262,-26.78279685974121],[27.83422660827637,-26.76382064819336],[27.83391952514648,-26.7556324005127],[27.84063339233398,-26.7545108795166],[27.84856414794922,-26.75553512573242],[27.84549140930176,-26.76137542724609],[27.85464859008789,-26.76540946960449],[27.85482788085938,-26.78063583374023],[27.85330009460449,-26.78110504150391],[27.84286308288574,-26.78305053710938]]],"type":"Polygon"}
+}

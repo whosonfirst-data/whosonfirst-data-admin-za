@@ -1,0 +1,78 @@
+{
+  "id": 1125271333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4676,-29.1239,31.4676,-29.1239",
+    "geom:latitude":-29.1239,
+    "geom:longitude":31.4676,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":122665,
+    "gn:population":122665,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.1239,
+    "lbl:longitude":31.4676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347492,
+    "qs_pg:gn_pop":122665,
+    "qs_pg:name":"Mandeni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":764931,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347492,
+        "qs_pg:id":764931
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042140,
+    "wof:geomhash":"8236d6a53460a1635c78d67ccf5cafed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "localadmin_id":1125271333,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271333,
+    "wof:lastmodified":1509387029,
+    "wof:name":"Mandeni",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"localadmin",
+    "wof:population":122665,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4676,
+    -29.1239,
+    31.4676,
+    -29.1239
+],
+  "geometry": {"coordinates":[31.4676,-29.1239],"type":"Point"}
+}

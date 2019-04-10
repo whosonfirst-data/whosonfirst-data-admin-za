@@ -1,0 +1,69 @@
+{
+  "id": 1293012283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9,-29.0,26.9,-29.0",
+    "geom:latitude":-29.0,
+    "geom:longitude":26.9,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Boston",
+    "gn:country_code":"ZA",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016801,
+    "gn:latitude":-29.0,
+    "gn:longitude":26.9,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Boston",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016801
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d440360a583fc22ca589723c4e9fdf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1293012283,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293012283,
+    "wof:lastmodified":1536974569,
+    "wof:name":"Boston",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9,
+    -29.0,
+    26.9,
+    -29.0
+],
+  "geometry": {"coordinates":[26.9,-29.0],"type":"Point"}
+}

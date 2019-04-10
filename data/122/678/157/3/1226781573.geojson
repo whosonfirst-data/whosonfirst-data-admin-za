@@ -1,0 +1,69 @@
+{
+  "id": 1226781573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16641,-30.66282,29.16641,-30.66282",
+    "geom:latitude":-30.66282,
+    "geom:longitude":29.16641,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"KwaHlombe",
+    "gn:country_code":"ZA",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985787,
+    "gn:latitude":-30.66282,
+    "gn:longitude":29.16641,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaHlombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985787
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6cb34e275184492d886232f973e32b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1226781573,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226781573,
+    "wof:lastmodified":1536664024,
+    "wof:name":"KwaHlombe",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16641,
+    -30.66282,
+    29.16641,
+    -30.66282
+],
+  "geometry": {"coordinates":[29.16641,-30.66282],"type":"Point"}
+}

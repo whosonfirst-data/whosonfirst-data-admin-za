@@ -1,0 +1,69 @@
+{
+  "id": 1226263919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,-24.61667,30.8,-24.61667",
+    "geom:latitude":-24.61667,
+    "geom:longitude":30.8,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP321",
+    "gn:asciiname":"Leroro",
+    "gn:country_code":"ZA",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983098,
+    "gn:latitude":-24.61667,
+    "gn:longitude":30.8,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Leroro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983098
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c5a84ec029f2aadb1ead14b0a53aed4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1226263919,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1226263919,
+    "wof:lastmodified":1536907775,
+    "wof:name":"Leroro",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    -24.61667000000001,
+    30.8,
+    -24.61667000000001
+],
+  "geometry": {"coordinates":[30.8,-24.61667000000001],"type":"Point"}
+}

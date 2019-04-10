@@ -1,0 +1,73 @@
+{
+  "id": 1326929749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63216,-31.25567,29.63216,-31.25567",
+    "geom:latitude":-31.25567,
+    "geom:longitude":29.63216,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Cane",
+    "gn:country_code":"ZA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014151,
+    "gn:latitude":-31.25567,
+    "gn:longitude":29.63216,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Cane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ecani",
+        "Cane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014151
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e3d84d8f306958ed49a3a8d0bc31ce79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1326929749,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326929749,
+    "wof:lastmodified":1537716433,
+    "wof:name":"Cane",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63216,
+    -31.25567,
+    29.63216,
+    -31.25567
+],
+  "geometry": {"coordinates":[29.63216,-31.25567],"type":"Point"}
+}

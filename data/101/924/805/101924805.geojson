@@ -1,0 +1,95 @@
+{
+  "id": 101924805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":676563.322975,
+    "geom:bbox":"24.781627655,-29.7561531067,24.7954959869,-29.7466659546",
+    "geom:latitude":-29.75082,
+    "geom:longitude":24.788853,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.750788,
+    "lbl:longitude":24.790009,
+    "mps:latitude":-29.750788,
+    "mps:longitude":24.790009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Luckhoff"
+    ],
+    "name:dut_x_preferred":[
+        "Luckhoff"
+    ],
+    "name:eng_x_preferred":[
+        "Luckhoff"
+    ],
+    "name:nso_x_preferred":[
+        "Luckhoff"
+    ],
+    "name:ron_x_preferred":[
+        "Luckhoff"
+    ],
+    "name:rum_x_preferred":[
+        "Luckhoff"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Luckhoff",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.75,
+    "wd:longitude":24.783333,
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981554,
+        "wd:id":"Q3642981",
+        "wk:page":"Luckhoff"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6ce9ee559e1bb7b2ed3388cafde515f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101924805,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101924805,
+    "wof:lastmodified":1527670489,
+    "wof:name":"Luckhoff",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7816276550293,
+    -29.75615310668945,
+    24.79549598693848,
+    -29.74666595458984
+],
+  "geometry": {"coordinates":[[[24.79241752624512,-29.74892044067383],[24.79276657104492,-29.74966812133789],[24.79325485229492,-29.7507152557373],[24.79549598693848,-29.75543403625488],[24.79202079772949,-29.75615310668945],[24.79099082946777,-29.75595474243164],[24.78979301452637,-29.75394821166992],[24.78878974914551,-29.75248527526855],[24.78694534301758,-29.75155067443848],[24.78447723388672,-29.75078582763672],[24.7822208404541,-29.74984359741211],[24.7816276550293,-29.74856948852539],[24.78186225891113,-29.74730682373047],[24.7827033996582,-29.74678039550781],[24.78664016723633,-29.74666595458984],[24.7880802154541,-29.74705123901367],[24.78869819641113,-29.74724197387695],[24.78909301757812,-29.7481517791748],[24.79093933105469,-29.7489070892334],[24.79241752624512,-29.74892044067383]]],"type":"Polygon"}
+}

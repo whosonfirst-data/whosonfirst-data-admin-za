@@ -1,0 +1,69 @@
+{
+  "id": 1226126221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65493,-25.93663,25.65493,-25.93663",
+    "geom:latitude":-25.93663,
+    "geom:longitude":25.65493,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"KwaSetlopo",
+    "gn:country_code":"ZA",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985254,
+    "gn:latitude":-25.93663,
+    "gn:longitude":25.65493,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"KwaSetlopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985254
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"49567643d0a6ccba7b4d2891c9f595ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1226126221,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1226126221,
+    "wof:lastmodified":1536606109,
+    "wof:name":"KwaSetlopo",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65493,
+    -25.93663,
+    25.65493,
+    -25.93663
+],
+  "geometry": {"coordinates":[25.65493,-25.93663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326961959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10933,-30.82719,29.10933,-30.82719",
+    "geom:latitude":-30.82719,
+    "geom:longitude":29.10933,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Nyosini",
+    "gn:country_code":"ZA",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968639,
+    "gn:latitude":-30.82719,
+    "gn:longitude":29.10933,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nyosini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyasini",
+        "Nyosini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968639
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a81e7516253f9cfee406a3398c615428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1326961959,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326961959,
+    "wof:lastmodified":1537716387,
+    "wof:name":"Nyosini",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10933,
+    -30.82719,
+    29.10933,
+    -30.82719
+],
+  "geometry": {"coordinates":[29.10933,-30.82719],"type":"Point"}
+}

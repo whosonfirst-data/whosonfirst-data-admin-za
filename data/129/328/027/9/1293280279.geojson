@@ -1,0 +1,69 @@
+{
+  "id": 1293280279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36668,-34.07207,19.36668,-34.07207",
+    "geom:latitude":-34.07207,
+    "geom:longitude":19.36668,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC031",
+    "gn:asciiname":"Helderstroom",
+    "gn:country_code":"ZA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366911,
+    "gn:latitude":-34.07207,
+    "gn:longitude":19.36668,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Helderstroom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366911
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a18eaaae4830909595b7742206b89517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1293280279,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293280279,
+    "wof:lastmodified":1537082590,
+    "wof:name":"Helderstroom",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36668,
+    -34.07207,
+    19.36668,
+    -34.07207
+],
+  "geometry": {"coordinates":[19.36668,-34.07207],"type":"Point"}
+}

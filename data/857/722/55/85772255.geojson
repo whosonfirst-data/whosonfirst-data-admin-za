@@ -1,0 +1,120 @@
+{
+  "id": 85772255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7483471.114201,
+    "geom:bbox":"28.098037,-26.196376,28.098037,-26.196376",
+    "geom:latitude":-26.196376,
+    "geom:longitude":28.098037,
+    "gn:latitude":-26.1938,
+    "gn:longitude":28.10612,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.196376,
+    "lbl:longitude":28.098037,
+    "mps:latitude":-26.202317,
+    "mps:longitude":28.105281,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Kensington"
+    ],
+    "name:eng_x_preferred":[
+        "Kensington"
+    ],
+    "name:unk_x_variant":[
+        "Kensington"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Kensington",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Kensington",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":15,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":-26.193333,
+    "wd:longitude":28.106111,
+    "wd:wordcount":263,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925831,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991367,
+        "gp:id":1582716,
+        "qs:id":213404,
+        "qs_pg:id":213404,
+        "wd:id":"Q6391402",
+        "wk:page":"Kensington, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"96395c0654960eb41df78c21c5d9d5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925831,
+            "neighbourhood_id":85772255,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85772255,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859519,
+    "wof:name":"Kensington",
+    "wof:parent_id":101925831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.098037,
+    -26.196376,
+    28.098037,
+    -26.196376
+],
+  "geometry": {"coordinates":[28.098037,-26.196376],"type":"Point"}
+}

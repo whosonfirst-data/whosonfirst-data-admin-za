@@ -1,0 +1,110 @@
+{
+  "id": 1125922081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1122,-31.37656,19.1122,-31.37656",
+    "geom:latitude":-31.37656,
+    "geom:longitude":19.1122,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.37656,
+    "lbl:longitude":19.1122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:dut_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:fre_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:ger_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:nso_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "name:rum_x_preferred":[
+        "Nieuwoudtville"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3363675,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nieuwoudtville",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":227498,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1585887,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363675,
+        "gp:id":1585887,
+        "qs_pg:id":227498,
+        "wd:id":"Q506170"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497296515,
+    "wof:geomhash":"63f6a199640e73e4aea9e984b156c06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125922081,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125922081,
+    "wof:lastmodified":1514504013,
+    "wof:name":"Nieuwoudtville",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1122,
+    -31.37656,
+    19.1122,
+    -31.37656
+],
+  "geometry": {"coordinates":[19.1122,-31.37656],"type":"Point"}
+}

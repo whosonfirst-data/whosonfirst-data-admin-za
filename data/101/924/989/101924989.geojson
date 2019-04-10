@@ -1,0 +1,73 @@
+{
+  "id": 101924989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1684269.436354,
+    "geom:bbox":"27.0967159271,-25.1552333832,27.127779007,-25.137468338",
+    "geom:latitude":-25.145546,
+    "geom:longitude":27.110891,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.142476,
+    "lbl:longitude":27.104184,
+    "mps:latitude":-25.142476,
+    "mps:longitude":27.104184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tswaaneng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947724,
+        "gp:id":1591195
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c7b0137de9b410fdeae2272e79e079ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101924989,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924989,
+    "wof:lastmodified":1500028305,
+    "wof:name":"Tswaaneng",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.09671592712402,
+    -25.15523338317871,
+    27.12777900695801,
+    -25.1374683380127
+],
+  "geometry": {"coordinates":[[[27.09671592712402,-25.14413642883301],[27.09716033935547,-25.1374683380127],[27.0999813079834,-25.1378116607666],[27.10324096679688,-25.1390438079834],[27.10778427124023,-25.14128303527832],[27.1113395690918,-25.14328002929688],[27.11488914489746,-25.14501953125],[27.11928939819336,-25.14713287353516],[27.12141799926758,-25.14799690246582],[27.12354469299316,-25.14886283874512],[27.12777900695801,-25.14956665039062],[27.12591171264648,-25.15523338317871],[27.1210765838623,-25.15248680114746],[27.11495590209961,-25.14873504638672],[27.11210823059082,-25.1469841003418],[27.10292816162109,-25.14519882202148],[27.09671592712402,-25.14413642883301]]],"type":"Polygon"}
+}

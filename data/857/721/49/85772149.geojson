@@ -1,0 +1,113 @@
+{
+  "id": 85772149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":731865.584404,
+    "geom:bbox":"18.3954469713,-33.9216194445,18.4075927734,-33.9125941038",
+    "geom:latitude":-33.917691,
+    "geom:longitude":18.401924,
+    "gn:latitude":-33.92402,
+    "gn:longitude":18.38717,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.924586,
+    "lbl:longitude":18.389107,
+    "mps:latitude":-33.917464,
+    "mps:longitude":18.40204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Fresnave"
+    ],
+    "name:unk_x_variant":[
+        "Fresnave"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Fresnaye",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Fresnave",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":504,
+    "qs:photo_sum":889,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367859,
+        "gp:id":55877990,
+        "qs:id":349318,
+        "qs_pg:id":1339620,
+        "wd:id":"Q3087534",
+        "wk:page":"Fresnaye, Cape Town"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5e4102787687097efccf9c6ef586f2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772149,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772149,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1507751640,
+    "wof:name":"Fresnaye",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39544697134664,
+    -33.92161944448378,
+    18.40759277341925,
+    -33.91259410382495
+],
+  "geometry": {"coordinates":[[[18.40759277341402,-33.91829234388742],[18.40759277195059,-33.92057152240978],[18.40672318769504,-33.92161944448378],[18.40484619140011,-33.92086544983751],[18.40296919510536,-33.92161944448378],[18.40209961213344,-33.92057152083255],[18.39935302731857,-33.92057152056654],[18.39660644530011,-33.92057152389339],[18.39544701208899,-33.92057152357187],[18.39544697134664,-33.9205714677249],[18.39607741350306,-33.91829233627493],[18.39573682162029,-33.91706101884931],[18.39660644255224,-33.91601310552795],[18.39935302731368,-33.91601310450415],[18.39935302731686,-33.91373380795629],[18.40029883597521,-33.91259410382495],[18.40115380072513,-33.91259410382495],[18.40209960938586,-33.91373380618002],[18.40484619140022,-33.91373380850003],[18.40484619140011,-33.91601310450415],[18.40759277341925,-33.91601310759048],[18.40759277341402,-33.91829234388742]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101928467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000438,
+    "geom:area_square_m":4646317.665952,
+    "geom:bbox":"28.9913883209,-30.9177570343,29.0265464783,-30.8864879608",
+    "geom:latitude":-30.903252,
+    "geom:longitude":29.003871,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.904028,
+    "lbl:longitude":29.002406,
+    "mps:latitude":-30.904028,
+    "mps:longitude":29.002406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lubacweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981615,
+        "gp:id":1583403
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d8c20e9c3d66944561ba26c03342a4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928467,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928467,
+    "wof:lastmodified":1500027909,
+    "wof:name":"Lubacweni",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99138832092285,
+    -30.91775703430176,
+    29.02654647827148,
+    -30.88648796081543
+],
+  "geometry": {"coordinates":[[[28.9969367980957,-30.89026069641113],[28.99997520446777,-30.88648796081543],[29.00561332702637,-30.88854598999023],[29.00568580627441,-30.89080238342285],[29.00321388244629,-30.8953800201416],[29.01254844665527,-30.90042686462402],[29.02558898925781,-30.89860725402832],[29.02654647827148,-30.90121841430664],[29.00927734375,-30.90728378295898],[29.0084400177002,-30.90843391418457],[29.0098705291748,-30.91216468811035],[29.00818634033203,-30.91408920288086],[29.00251388549805,-30.91422462463379],[28.99651336669922,-30.91775703430176],[28.99138832092285,-30.91144180297852],[28.99471855163574,-30.90273857116699],[28.9969367980957,-30.89026069641113]]],"type":"Polygon"}
+}

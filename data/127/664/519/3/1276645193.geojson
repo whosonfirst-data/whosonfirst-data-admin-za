@@ -1,0 +1,71 @@
+{
+  "id": 1276645193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69644,-26.88551,23.69644,-26.88551",
+    "geom:latitude":-26.88551,
+    "geom:longitude":23.69644,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Masilabetsane",
+    "gn:country_code":"ZA",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978424,
+    "gn:latitude":-26.88551,
+    "gn:longitude":23.69644,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masilabetsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masilibitsani",
+        "Masilabetsane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"db7130cedd568a05132786d3efe38e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1276645193,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276645193,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Masilabetsane",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69644,
+    -26.88551,
+    23.69644,
+    -26.88551
+],
+  "geometry": {"coordinates":[23.69644,-26.88551],"type":"Point"}
+}

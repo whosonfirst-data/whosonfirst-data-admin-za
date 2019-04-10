@@ -1,0 +1,69 @@
+{
+  "id": 1293223523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06882,-31.77214,28.06882,-31.77214",
+    "geom:latitude":-31.77214,
+    "geom:longitude":28.06882,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Madela",
+    "gn:country_code":"ZA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980744,
+    "gn:latitude":-31.77214,
+    "gn:longitude":28.06882,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Madela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980744
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c8d31a2a1f220385bc37928d4d89c2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1293223523,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293223523,
+    "wof:lastmodified":1536670562,
+    "wof:name":"Madela",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06882,
+    -31.77214,
+    28.06882,
+    -31.77214
+],
+  "geometry": {"coordinates":[28.06882,-31.77214],"type":"Point"}
+}

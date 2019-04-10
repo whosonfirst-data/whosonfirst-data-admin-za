@@ -1,0 +1,72 @@
+{
+  "id": 101929121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":808454.543369,
+    "geom:bbox":"27.3935432434,-32.9002189636,27.4051399231,-32.8904304504",
+    "geom:latitude":-32.895592,
+    "geom:longitude":27.39882,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.895633,
+    "lbl:longitude":27.398709,
+    "mps:latitude":-32.895633,
+    "mps:longitude":27.398709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Schornville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582806
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2bca1460dd008f50aa7b2eca63ab5628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929121,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929121,
+    "wof:lastmodified":1500027840,
+    "wof:name":"Schornville",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3935432434082,
+    -32.90021896362305,
+    27.4051399230957,
+    -32.89043045043945
+],
+  "geometry": {"coordinates":[[[27.3935432434082,-32.89083480834961],[27.39973258972168,-32.89043045043945],[27.40415000915527,-32.89725112915039],[27.4051399230957,-32.90015029907227],[27.39895820617676,-32.90021896362305],[27.39522361755371,-32.89852142333984],[27.39436721801758,-32.89644622802734],[27.3935432434082,-32.89083480834961]]],"type":"Polygon"}
+}

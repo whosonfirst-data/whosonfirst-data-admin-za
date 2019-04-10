@@ -1,0 +1,73 @@
+{
+  "id": 1243060267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57736,-26.13781,27.57736,-26.13781",
+    "geom:latitude":-26.13781,
+    "geom:longitude":27.57736,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"DC48",
+    "gn:admin3_code":"GT482",
+    "gn:asciiname":"Brandvlei",
+    "gn:country_code":"ZA",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1015851,
+    "gn:latitude":-26.13781,
+    "gn:longitude":27.57736,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Brandvlei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brandylei",
+        "Brandvlei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015851
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f4eba9cae2d4ea30e9ae75dafc4dd6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1243060267,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1243060267,
+    "wof:lastmodified":1537716435,
+    "wof:name":"Brandvlei",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57736,
+    -26.13781,
+    27.57736,
+    -26.13781
+],
+  "geometry": {"coordinates":[27.57736,-26.13781],"type":"Point"}
+}

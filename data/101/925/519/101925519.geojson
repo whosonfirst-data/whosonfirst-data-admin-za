@@ -1,0 +1,145 @@
+{
+  "id": 101925519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1425498.396253,
+    "geom:bbox":"29.4492816925,-25.7968597412,29.4643001556,-25.7844161987",
+    "geom:latitude":-25.791125,
+    "geom:longitude":29.457391,
+    "gn:population":154706,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.791198,
+    "lbl:longitude":29.457534,
+    "mps:latitude":-25.791198,
+    "mps:longitude":29.457534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Middelburg"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062f\u0644\u0628\u064a\u0631\u063a"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u5fb7\u723e\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Middelburg"
+    ],
+    "name:eng_x_preferred":[
+        "Middelburg"
+    ],
+    "name:epo_x_preferred":[
+        "Middelburg"
+    ],
+    "name:fre_x_preferred":[
+        "Middelburg"
+    ],
+    "name:ger_x_preferred":[
+        "Middelburg"
+    ],
+    "name:hak_x_preferred":[
+        "Middelburg"
+    ],
+    "name:ita_x_preferred":[
+        "Middelburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c3\u30c7\u30eb\u30d0\u30fc\u30b0"
+    ],
+    "name:nso_x_preferred":[
+        "Middelburg"
+    ],
+    "name:pol_x_preferred":[
+        "Middelburg"
+    ],
+    "name:por_x_preferred":[
+        "Middelburg"
+    ],
+    "name:rum_x_preferred":[
+        "Middelburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0434\u0434\u0435\u043b\u0431\u0443\u0440\u0433"
+    ],
+    "name:sna_x_preferred":[
+        "Middelburg"
+    ],
+    "name:spa_x_preferred":[
+        "Middelburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0434\u0434\u0435\u043b\u0431\u0443\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Middelberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5fb7\u723e\u5821"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Middelburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":1490.0,
+    "wd:latitude":-25.768417,
+    "wd:longitude":29.478333,
+    "wd:wordcount":893,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976361,
+        "wd:id":"Q1931836",
+        "wk:page":"Middelburg, Mpumalanga"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5cd344683bf1747a840def3b61840382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925519,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925519,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Middelburg",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:population":154706,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44928169250488,
+    -25.79685974121094,
+    29.46430015563965,
+    -25.78441619873047
+],
+  "geometry": {"coordinates":[[[29.4534740447998,-25.78842163085938],[29.45735168457031,-25.78574371337891],[29.45793533325195,-25.78545570373535],[29.45854377746582,-25.78520965576172],[29.45963478088379,-25.78494453430176],[29.46029853820801,-25.78483772277832],[29.46096420288086,-25.78474044799805],[29.46163177490234,-25.7846508026123],[29.46229934692383,-25.78456878662109],[29.46296691894531,-25.78449058532715],[29.46363639831543,-25.78441619873047],[29.46375846862793,-25.78558540344238],[29.4638671875,-25.78671836853027],[29.46396636962891,-25.78784942626953],[29.46405410766602,-25.78898239135742],[29.46413040161133,-25.79011726379395],[29.46419715881348,-25.79125022888184],[29.46425437927246,-25.79238510131836],[29.46430015563965,-25.79348564147949],[29.45551872253418,-25.79659652709961],[29.45478057861328,-25.79676628112793],[29.45402908325195,-25.79685974121094],[29.45283889770508,-25.79685592651367],[29.45219421386719,-25.79681587219238],[29.45155143737793,-25.79676055908203],[29.45066070556641,-25.79657745361328],[29.4499683380127,-25.79612731933594],[29.44937705993652,-25.79540634155273],[29.44928169250488,-25.7943286895752],[29.44931602478027,-25.79374504089355],[29.44938659667969,-25.79316329956055],[29.44968795776367,-25.79235649108887],[29.45014762878418,-25.79166221618652],[29.45068550109863,-25.79101371765137],[29.4534740447998,-25.78842163085938]]],"type":"Polygon"}
+}

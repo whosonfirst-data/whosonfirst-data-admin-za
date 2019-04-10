@@ -1,0 +1,74 @@
+{
+  "id": 1242768419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33376,-26.74213,20.33376,-26.74213",
+    "geom:latitude":-26.74213,
+    "geom:longitude":20.33376,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC081",
+    "gn:asciiname":"Groot Mier",
+    "gn:country_code":"ZA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":999115,
+    "gn:latitude":-26.74213,
+    "gn:longitude":20.33376,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Groot Mier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coloured Settlement",
+        "Kleurlingnedersetting",
+        "Groot Mier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999115
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"49e19f8baef5813bd00e3075120759c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1242768419,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1242768419,
+    "wof:lastmodified":1537716423,
+    "wof:name":"Groot Mier",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33376,
+    -26.74213,
+    20.33376,
+    -26.74213
+],
+  "geometry": {"coordinates":[20.33376,-26.74213],"type":"Point"}
+}

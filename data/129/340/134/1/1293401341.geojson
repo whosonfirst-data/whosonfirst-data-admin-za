@@ -1,0 +1,63 @@
+{
+  "id": 1293401341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8923,-28.88579,27.8923,-28.88579",
+    "geom:latitude":-28.88579,
+    "geom:longitude":27.8923,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ha Mathata",
+    "gn:country_code":"ZA",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280656,
+    "gn:latitude":-28.88579,
+    "gn:longitude":27.8923,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Ha Mathata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280656
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ae0d9cd5bb326da15e461b3e223887d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293401341,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293401341,
+    "wof:lastmodified":1536911509,
+    "wof:name":"Ha Mathata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8923,
+    -28.88579,
+    27.8923,
+    -28.88579
+],
+  "geometry": {"coordinates":[27.8923,-28.88579],"type":"Point"}
+}

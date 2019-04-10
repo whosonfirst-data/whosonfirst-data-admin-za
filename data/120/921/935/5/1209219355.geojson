@@ -1,0 +1,63 @@
+{
+  "id": 1209219355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46613,-31.72364,28.46613,-31.72364",
+    "geom:latitude":-31.72364,
+    "geom:longitude":28.46613,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC157",
+    "gn:asciiname":"KuNcalolo",
+    "gn:country_code":"ZA",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986289,
+    "gn:latitude":-31.72364,
+    "gn:longitude":28.46613,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuNcalolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986289
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5368d1fc144b884ba63eb361024cd742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209219355
+        }
+    ],
+    "wof:id":1209219355,
+    "wof:lastmodified":1536294018,
+    "wof:name":"KuNcalolo",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46613,
+    -31.723640000000003,
+    28.46613,
+    -31.723640000000003
+],
+  "geometry": {"coordinates":[28.46613,-31.72364],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344242591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15126,-29.45591,22.15126,-29.45591",
+    "geom:latitude":-29.45591,
+    "geom:longitude":22.15126,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC077",
+    "gn:asciiname":"Irene",
+    "gn:country_code":"ZA",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994558,
+    "gn:latitude":-29.45591,
+    "gn:longitude":22.15126,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Irene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994558
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"506275c19df2d007a7b8d3fa6a95c22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1344242591,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1344242591,
+    "wof:lastmodified":1536610176,
+    "wof:name":"Irene",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15126,
+    -29.45591,
+    22.15126,
+    -29.45591
+],
+  "geometry": {"coordinates":[22.15126,-29.45591],"type":"Point"}
+}

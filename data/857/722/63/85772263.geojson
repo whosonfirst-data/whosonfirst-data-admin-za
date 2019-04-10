@@ -1,0 +1,116 @@
+{
+  "id": 85772263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3548261.065504,
+    "geom:bbox":"31.021959,-29.855857,31.021959,-29.855857",
+    "geom:latitude":-29.855857,
+    "geom:longitude":31.021959,
+    "gn:latitude":-29.84753,
+    "gn:longitude":31.02878,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.855857,
+    "lbl:longitude":31.021959,
+    "mps:latitude":-29.856131,
+    "mps:longitude":31.018901,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kingsmead"
+    ],
+    "name:eng_x_variant":[
+        "Port Natal",
+        "Pt Natal"
+    ],
+    "name:unk_x_variant":[
+        "Kingsmead"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1007311,
+    "qs:gn_nam_loc":"Durban, Ethekwini, Ethekwini, KwaZulu-Natal, ZA",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Kingsmead",
+    "qs:local_max":2059,
+    "qs:local_sum":10687,
+    "qs:localhoods":30,
+    "qs:name":"Kingsmead",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Kwazulu Natal",
+    "qs:name_adm2":"eThekwini",
+    "qs:name_lau":"Ethekwini",
+    "qs:name_local":"Durban",
+    "qs:photo_max":158,
+    "qs:photo_sum":699,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346982,
+    "qs:woe_adm2":56189410,
+    "qs:woe_lau":56189708,
+    "qs:woe_local":1580913,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101927971,
+        1108730571,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990873,
+        "gp:id":1582819,
+        "qs:id":432698,
+        "qs_pg:id":432698
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b909ea7a3dd6c28a0a1d520e34224d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101927971,
+            "neighbourhood_id":85772263,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":85772263,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859521,
+    "wof:name":"Kingsmead",
+    "wof:parent_id":101927971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.021959,
+    -29.855857,
+    31.021959,
+    -29.855857
+],
+  "geometry": {"coordinates":[31.021959,-29.855857],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 101926763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000044,
+    "geom:area_square_m":481650.984512,
+    "geom:bbox":"26.7840232849,-28.0362415314,26.7931518555,-28.0293388367",
+    "geom:latitude":-28.032681,
+    "geom:longitude":26.788738,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.03308,
+    "lbl:longitude":26.788651,
+    "mps:latitude":-28.03308,
+    "mps:longitude":26.788651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"President Brand Goudmyn",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591602
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d4e00aae6ed11ecbf2348a340486a8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926763,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926763,
+    "wof:lastmodified":1534986005,
+    "wof:name":"President Brand Goudmyn",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615625
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78402328491211,
+    -28.03624153137207,
+    26.79315185546875,
+    -28.02933883666992
+],
+  "geometry": {"coordinates":[[[26.78884696960449,-28.03624153137207],[26.7872371673584,-28.0359992980957],[26.7845573425293,-28.03432846069336],[26.78402328491211,-28.03361511230469],[26.78402519226074,-28.03242301940918],[26.78402709960938,-28.03218650817871],[26.78483390808105,-28.03123474121094],[26.78778648376465,-28.03028678894043],[26.79020309448242,-28.02933883666992],[26.79207992553711,-28.02934265136719],[26.79315185546875,-28.03005790710449],[26.79314804077148,-28.03172492980957],[26.79261016845703,-28.03291320800781],[26.79153442382812,-28.03362655639648],[26.79099464416504,-28.03529167175293],[26.79018783569336,-28.0360050201416],[26.78884696960449,-28.03624153137207]]],"type":"Polygon"}
+}

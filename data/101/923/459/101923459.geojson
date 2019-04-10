@@ -1,0 +1,73 @@
+{
+  "id": 101923459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":1104894.917623,
+    "geom:bbox":"29.2902774811,-23.8350257874,29.3027076721,-23.8237609863",
+    "geom:latitude":-23.828598,
+    "geom:longitude":29.296618,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.828487,
+    "lbl:longitude":29.296737,
+    "mps:latitude":-23.828487,
+    "mps:longitude":29.296737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sengatane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956504,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c6cbf6d2742c901ae3b5528d8c88fd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923459,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923459,
+    "wof:lastmodified":1500028358,
+    "wof:name":"Sengatane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2902774810791,
+    -23.83502578735352,
+    29.30270767211914,
+    -23.82376098632812
+],
+  "geometry": {"coordinates":[[[29.30270767211914,-23.83502578735352],[29.29117774963379,-23.8310718536377],[29.2902774810791,-23.82376098632812],[29.30087852478027,-23.82414627075195],[29.30270767211914,-23.83502578735352]]],"type":"Polygon"}
+}

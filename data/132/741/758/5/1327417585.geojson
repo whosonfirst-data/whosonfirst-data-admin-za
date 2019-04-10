@@ -1,0 +1,69 @@
+{
+  "id": 1327417585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01667,-27.66667,25.01667,-27.66667",
+    "geom:latitude":-27.66667,
+    "geom:longitude":25.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW394",
+    "gn:asciiname":"Pholofolo",
+    "gn:country_code":"ZA",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965431,
+    "gn:latitude":-27.66667,
+    "gn:longitude":25.01667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pholofolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965431
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7f87d879def7fdaa024aff61174ae944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1327417585,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1327417585,
+    "wof:lastmodified":1536702459,
+    "wof:name":"Pholofolo",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01667,
+    -27.66667,
+    25.01667,
+    -27.66667
+],
+  "geometry": {"coordinates":[25.01667,-27.66667],"type":"Point"}
+}

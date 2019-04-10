@@ -1,0 +1,101 @@
+{
+  "id": 101928451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1789587.201854,
+    "geom:bbox":"29.8467483521,-30.8822212219,29.8684158325,-30.8634910583",
+    "geom:latitude":-30.87152,
+    "geom:longitude":29.857139,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.871427,
+    "lbl:longitude":29.856974,
+    "mps:latitude":-30.871427,
+    "mps:longitude":29.856974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bizana"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u624e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Bizana"
+    ],
+    "name:eng_x_preferred":[
+        "Bizana"
+    ],
+    "name:ger_x_preferred":[
+        "Bizana"
+    ],
+    "name:ita_x_preferred":[
+        "Bizana"
+    ],
+    "name:nso_x_preferred":[
+        "Bizana"
+    ],
+    "name:rum_x_preferred":[
+        "Bizana"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bizana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019264,
+        "gp:id":1589242,
+        "qs_pg:id":276206,
+        "wd:id":"Q3642550"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0535cc01ad9a739e151219569f5d812d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928451,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928451,
+    "wof:lastmodified":1514503482,
+    "wof:name":"Bizana",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84674835205078,
+    -30.88222122192383,
+    29.86841583251953,
+    -30.86349105834961
+],
+  "geometry": {"coordinates":[[[29.85885620117188,-30.86448097229004],[29.86841583251953,-30.88222122192383],[29.85896301269531,-30.87711143493652],[29.85393333435059,-30.87690544128418],[29.85209655761719,-30.87299156188965],[29.84674835205078,-30.86798095703125],[29.85091590881348,-30.86472702026367],[29.85588645935059,-30.86349105834961],[29.85885620117188,-30.86448097229004]]],"type":"Polygon"}
+}

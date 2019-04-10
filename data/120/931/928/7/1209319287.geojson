@@ -1,0 +1,63 @@
+{
+  "id": 1209319287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45419,-31.67268,29.45419,-31.67268",
+    "geom:latitude":-31.67268,
+    "geom:longitude":29.45419,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Umngazi Mouth",
+    "gn:country_code":"ZA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946094,
+    "gn:latitude":-31.67268,
+    "gn:longitude":29.45419,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Umngazi Mouth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946094
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5ebabaeb3164cef4d8d0d9812c28c10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209319287
+        }
+    ],
+    "wof:id":1209319287,
+    "wof:lastmodified":1536290753,
+    "wof:name":"Umngazi Mouth",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.454190000000004,
+    -31.67268,
+    29.454190000000004,
+    -31.67268
+],
+  "geometry": {"coordinates":[29.45419,-31.67268],"type":"Point"}
+}

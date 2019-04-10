@@ -1,0 +1,73 @@
+{
+  "id": 101923379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":1054918.261596,
+    "geom:bbox":"28.6388015747,-23.6840801239,28.6495780945,-23.672668457",
+    "geom:latitude":-23.678486,
+    "geom:longitude":28.64405,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.678643,
+    "lbl:longitude":28.64405,
+    "mps:latitude":-23.678643,
+    "mps:longitude":28.64405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dieretsaneng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009783,
+        "gp:id":1581378
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e131604bb07732a69ddb2aea19567939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923379,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923379,
+    "wof:lastmodified":1500028414,
+    "wof:name":"Dieretsaneng",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63880157470703,
+    -23.68408012390137,
+    28.64957809448242,
+    -23.67266845703125
+],
+  "geometry": {"coordinates":[[[28.64062881469727,-23.68408012390137],[28.63880157470703,-23.67682838439941],[28.63945770263672,-23.67266845703125],[28.64915657043457,-23.67512702941895],[28.64957809448242,-23.68244171142578],[28.64062881469727,-23.68408012390137]]],"type":"Polygon"}
+}

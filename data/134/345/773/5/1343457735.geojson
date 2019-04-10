@@ -1,0 +1,69 @@
+{
+  "id": 1343457735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37302,-31.84379,26.37302,-31.84379",
+    "geom:latitude":-31.84379,
+    "geom:longitude":26.37302,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC132",
+    "gn:asciiname":"Glen Ewan",
+    "gn:country_code":"ZA",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001688,
+    "gn:latitude":-31.84379,
+    "gn:longitude":26.37302,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Glen Ewan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001688
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a037c6deb4e1c60e1c9fca5913f1a182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1343457735,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343457735,
+    "wof:lastmodified":1536750003,
+    "wof:name":"Glen Ewan",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.37302,
+    -31.84379,
+    26.37302,
+    -31.84379
+],
+  "geometry": {"coordinates":[26.37302,-31.84379],"type":"Point"}
+}

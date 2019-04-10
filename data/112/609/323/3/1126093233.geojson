@@ -1,0 +1,93 @@
+{
+  "id": 1126093233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38437,-33.95166,18.38437,-33.95166",
+    "geom:latitude":-33.95166,
+    "geom:longitude":18.38437,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.95166,
+    "lbl:longitude":18.38437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3369169,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Camps Bay",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":1115,
+    "qs_pg:photos_1k":226,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1115,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":223092,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580272,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369169,
+        "gp:id":1580272,
+        "qs_pg:id":223092
+    },
+    "wof:country":"ZA",
+    "wof:created":1497314497,
+    "wof:geomhash":"11833cfd66f36027b6576c4c68806069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":-1,
+            "neighbourhood_id":1126093233,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126093233,
+    "wof:lastmodified":1534379836,
+    "wof:name":"Camps Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        85772073
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38437,
+    -33.95166,
+    18.38437,
+    -33.95166
+],
+  "geometry": {"coordinates":[18.38437,-33.95166],"type":"Point"}
+}

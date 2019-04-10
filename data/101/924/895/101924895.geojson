@@ -1,0 +1,72 @@
+{
+  "id": 101924895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":950479.49164,
+    "geom:bbox":"28.2303543091,-25.0776119232,28.2440853119,-25.0672149658",
+    "geom:latitude":-25.07249,
+    "geom:longitude":28.237062,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.072509,
+    "lbl:longitude":28.237062,
+    "mps:latitude":-25.072509,
+    "mps:longitude":28.237062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Syferkraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587991
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"970de1b6a6c8c5a003f9a2f207dabdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101924895,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924895,
+    "wof:lastmodified":1500028294,
+    "wof:name":"Syferkraal",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23035430908203,
+    -25.07761192321777,
+    28.24408531188965,
+    -25.06721496582031
+],
+  "geometry": {"coordinates":[[[28.23977661132812,-25.07761192321777],[28.23035430908203,-25.07504653930664],[28.23406410217285,-25.06721496582031],[28.24408531188965,-25.07032585144043],[28.23977661132812,-25.07761192321777]]],"type":"Polygon"}
+}

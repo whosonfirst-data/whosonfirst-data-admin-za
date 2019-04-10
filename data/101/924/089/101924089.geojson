@@ -1,0 +1,72 @@
+{
+  "id": 101924089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1463175.581549,
+    "geom:bbox":"30.3874130249,-23.1976013184,30.4014434814,-23.1840877533",
+    "geom:latitude":-23.19166,
+    "geom:longitude":30.394856,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.191722,
+    "lbl:longitude":30.395424,
+    "mps:latitude":-23.191722,
+    "mps:longitude":30.395424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ka-Madobi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881377
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2dcaa84dac1bae808a6602ea6c95a381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924089,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924089,
+    "wof:lastmodified":1500028407,
+    "wof:name":"Ka-Madobi",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38741302490234,
+    -23.19760131835938,
+    30.40144348144531,
+    -23.1840877532959
+],
+  "geometry": {"coordinates":[[[30.39631271362305,-23.1840877532959],[30.39830017089844,-23.18450546264648],[30.39963150024414,-23.18571281433105],[30.40141487121582,-23.18813323974609],[30.40144348144531,-23.19097900390625],[30.40102577209473,-23.19301414489746],[30.39972877502441,-23.1950569152832],[30.39885902404785,-23.19587707519531],[30.39447593688965,-23.19713592529297],[30.38920593261719,-23.19758987426758],[30.38788604736328,-23.19760131835938],[30.3874340057373,-23.19638633728027],[30.38741302490234,-23.19435501098633],[30.38826179504395,-23.19150352478027],[30.39218521118164,-23.18821716308594],[30.39631271362305,-23.1840877532959]]],"type":"Polygon"}
+}

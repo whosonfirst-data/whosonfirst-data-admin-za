@@ -1,0 +1,72 @@
+{
+  "id": 101924247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":2042185.673035,
+    "geom:bbox":"30.9609642029,-23.5950450897,30.9896240234,-23.5818729401",
+    "geom:latitude":-23.587755,
+    "geom:longitude":30.975612,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.587557,
+    "lbl:longitude":30.975612,
+    "mps:latitude":-23.587557,
+    "mps:longitude":30.975612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KaMakhuva",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584362
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"53c2c0c256539c471b2b6fe56cbd2542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924247,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924247,
+    "wof:lastmodified":1500028410,
+    "wof:name":"KaMakhuva",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96096420288086,
+    -23.59504508972168,
+    30.9896240234375,
+    -23.58187294006348
+],
+  "geometry": {"coordinates":[[[30.9896240234375,-23.58768653869629],[30.98878479003906,-23.59054183959961],[30.9862060546875,-23.59504508972168],[30.96714210510254,-23.58797264099121],[30.96317291259766,-23.58802223205566],[30.96096420288086,-23.58764457702637],[30.96136856079102,-23.58520126342773],[30.96308898925781,-23.58233451843262],[30.96572875976562,-23.58189392089844],[30.96749114990234,-23.58187294006348],[30.97412872314453,-23.58341407775879],[30.98211097717285,-23.58656311035156],[30.9896240234375,-23.58768653869629]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101928713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1630018.048773,
+    "geom:bbox":"28.6963062286,-31.6630058289,28.7137947083,-31.6440734863",
+    "geom:latitude":-31.65349,
+    "geom:longitude":28.704914,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.657136,
+    "lbl:longitude":28.707829,
+    "mps:latitude":-31.657136,
+    "mps:longitude":28.707829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nyandeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"84516e3b9877be61625110f823cf400e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928713,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928713,
+    "wof:lastmodified":1500027928,
+    "wof:name":"Nyandeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6963062286377,
+    -31.66300582885742,
+    28.71379470825195,
+    -31.64407348632812
+],
+  "geometry": {"coordinates":[[[28.71379470825195,-31.6540470123291],[28.71306610107422,-31.65577697753906],[28.71074104309082,-31.66300582885742],[28.70337867736816,-31.66024780273438],[28.70240783691406,-31.65593910217285],[28.70022583007812,-31.6534595489502],[28.6963062286377,-31.64921379089355],[28.69705390930176,-31.64594841003418],[28.70037269592285,-31.64407348632812],[28.70506286621094,-31.64577674865723],[28.70516967773438,-31.64938354492188],[28.70736122131348,-31.65222358703613],[28.71379470825195,-31.6540470123291]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101927581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000438,
+    "geom:area_square_m":4782929.483915,
+    "geom:bbox":"30.127412796,-27.9976348877,30.1520118713,-27.9565048218",
+    "geom:latitude":-27.977169,
+    "geom:longitude":30.141199,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.978002,
+    "lbl:longitude":30.145486,
+    "mps:latitude":-27.978002,
+    "mps:longitude":30.145486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Sondagsrivier"
+    ],
+    "name:dan_x_preferred":[
+        "Sundays"
+    ],
+    "name:deu_x_preferred":[
+        "Sundays River"
+    ],
+    "name:fra_x_preferred":[
+        "Sundays River"
+    ],
+    "name:nor_x_preferred":[
+        "Sundays"
+    ],
+    "name:por_x_preferred":[
+        "Rio Sundays"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sondagsrivier",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d4b9fe285cb4e542f6fa852db8ee277b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927581,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927581,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Sondagsrivier",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12741279602051,
+    -27.99763488769531,
+    30.15201187133789,
+    -27.95650482177734
+],
+  "geometry": {"coordinates":[[[30.13196754455566,-27.97070121765137],[30.12994194030762,-27.97001075744629],[30.12741279602051,-27.96841621398926],[30.12794494628906,-27.96571159362793],[30.12822532653809,-27.96232986450195],[30.13207054138184,-27.95829582214355],[30.13437080383301,-27.95650482177734],[30.13713836669922,-27.95990753173828],[30.13913345336914,-27.96443176269531],[30.14315986633301,-27.96919441223145],[30.14669609069824,-27.97169876098633],[30.15201187133789,-27.97421455383301],[30.1517333984375,-27.97737121582031],[30.15143775939941,-27.98233222961426],[30.14963340759277,-27.9854793548584],[30.14961242675781,-27.98818588256836],[30.14982986450195,-27.99269866943359],[30.14751052856445,-27.99674415588379],[30.14572334289551,-27.99763488769531],[30.1391544342041,-27.99285507202148],[30.13739585876465,-27.9903621673584],[30.13740730285645,-27.98900985717773],[30.13923072814941,-27.98360633850098],[30.13952255249023,-27.97909736633301],[30.13878631591797,-27.9757080078125],[30.13702774047852,-27.97344207763672],[30.13196754455566,-27.97070121765137]]],"type":"Polygon"}
+}

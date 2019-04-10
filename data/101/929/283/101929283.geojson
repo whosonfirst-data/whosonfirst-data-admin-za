@@ -1,0 +1,89 @@
+{
+  "id": 101929283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":767514.368085,
+    "geom:bbox":"30.7630195618,-30.1758823395,30.7765293121,-30.1686878204",
+    "geom:latitude":-30.172049,
+    "geom:longitude":30.769586,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.172041,
+    "lbl:longitude":30.769586,
+    "mps:latitude":-30.172041,
+    "mps:longitude":30.769586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Magabeni"
+    ],
+    "name:eng_x_variant":[
+        "Madadeni",
+        "Magabheni"
+    ],
+    "name:unk_x_variant":[
+        "Madadeni"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Magabeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14631940-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":980579,
+        "gp:id":1590279,
+        "wd:id":"Q18127649"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6df24ac9ad74d79018b495ad4c3ecc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929283,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929283,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715591,
+    "wof:name":"Magabeni",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76301956176758,
+    -30.17588233947754,
+    30.77652931213379,
+    -30.16868782043457
+],
+  "geometry": {"coordinates":[[[30.76301956176758,-30.17520332336426],[30.76302337646484,-30.17339897155762],[30.76511001586914,-30.16957092285156],[30.76718711853027,-30.16912269592285],[30.77652931213379,-30.16868782043457],[30.77652359008789,-30.1713924407959],[30.77392196655273,-30.17409515380859],[30.7679500579834,-30.17543792724609],[30.76457595825195,-30.17588233947754],[30.76301956176758,-30.17520332336426]]],"type":"Polygon"}
+}

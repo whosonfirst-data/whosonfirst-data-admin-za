@@ -1,0 +1,72 @@
+{
+  "id": 101924371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":1151808.973463,
+    "geom:bbox":"30.3272953033,-24.135471344,30.3393001556,-24.1248970032",
+    "geom:latitude":-24.130471,
+    "geom:longitude":30.333302,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.130188,
+    "lbl:longitude":30.332816,
+    "mps:latitude":-24.130188,
+    "mps:longitude":30.332816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Calais Village",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588368
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee842e320b2f2f36770002f849289a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924371,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924371,
+    "wof:lastmodified":1500028434,
+    "wof:name":"Calais Village",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32729530334473,
+    -24.13547134399414,
+    30.33930015563965,
+    -24.12489700317383
+],
+  "geometry": {"coordinates":[[[30.33930015563965,-24.13419532775879],[30.33842849731445,-24.13542175292969],[30.33267402648926,-24.13547134399414],[30.33089828491211,-24.13508033752441],[30.32866859436035,-24.13347244262695],[30.32732009887695,-24.1314525604248],[30.32729530334473,-24.12901496887207],[30.32859420776367,-24.12615966796875],[30.33079528808594,-24.12492370605469],[30.33300971984863,-24.12490463256836],[30.33389472961426,-24.12489700317383],[30.33612060546875,-24.12609672546387],[30.3383617401123,-24.12892150878906],[30.33926773071289,-24.13094520568848],[30.33930015563965,-24.13419532775879]]],"type":"Polygon"}
+}

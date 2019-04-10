@@ -1,0 +1,67 @@
+{
+  "id": 1209617147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83671,-29.06588,26.83671,-29.06588",
+    "geom:latitude":-29.06588,
+    "geom:longitude":26.83671,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Middeldeel",
+    "gn:country_code":"ZA",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976341,
+    "gn:latitude":-29.06588,
+    "gn:longitude":26.83671,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Middeldeel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Middeldal",
+        "Middeldeel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976341
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"153b092e231c2fd152e5acee48dbcaac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209617147
+        }
+    ],
+    "wof:id":1209617147,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Middeldeel",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83671,
+    -29.06588,
+    26.83671,
+    -29.06588
+],
+  "geometry": {"coordinates":[26.83671,-29.06588],"type":"Point"}
+}

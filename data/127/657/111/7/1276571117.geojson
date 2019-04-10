@@ -1,0 +1,69 @@
+{
+  "id": 1276571117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89436,-29.14415,21.89436,-29.14415",
+    "geom:latitude":-29.14415,
+    "geom:longitude":21.89436,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC077",
+    "gn:asciiname":"Geelbospan",
+    "gn:country_code":"ZA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002615,
+    "gn:latitude":-29.14415,
+    "gn:longitude":21.89436,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Geelbospan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002615
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d094f127bf0bda89bcbc512d5c598c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1276571117,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276571117,
+    "wof:lastmodified":1536957622,
+    "wof:name":"Geelbospan",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89436,
+    -29.14415,
+    21.89436,
+    -29.14415
+],
+  "geometry": {"coordinates":[21.89436,-29.14415],"type":"Point"}
+}

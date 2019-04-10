@@ -1,0 +1,77 @@
+{
+  "id": 1126004057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96552,-33.70468,18.96552,-33.70468",
+    "geom:latitude":-33.70468,
+    "geom:longitude":18.96552,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":187865,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.70468,
+    "lbl:longitude":18.96552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3363613,
+    "qs_pg:gn_pop":187865,
+    "qs_pg:name":"Noorder-Paarl",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":582985,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363613,
+        "qs_pg:id":582985
+    },
+    "wof:country":"ZA",
+    "wof:created":1497299826,
+    "wof:geomhash":"b64f361927b23df25665a7311550722e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1126004057,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126004057,
+    "wof:lastmodified":1509406323,
+    "wof:name":"Noorder-Paarl",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:population":187865,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96552,
+    -33.70468,
+    18.96552,
+    -33.70468
+],
+  "geometry": {"coordinates":[18.96552,-33.70468],"type":"Point"}
+}

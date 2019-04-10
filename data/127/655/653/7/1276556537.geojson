@@ -1,0 +1,73 @@
+{
+  "id": 1276556537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67261,-30.01758,30.67261,-30.01758",
+    "geom:latitude":-30.01758,
+    "geom:longitude":30.67261,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Odidini",
+    "gn:country_code":"ZA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968473,
+    "gn:latitude":-30.01758,
+    "gn:longitude":30.67261,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Odidini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Didini",
+        "Odidini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968473
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"13f4dd12d41ac279a66002ef7dfa49d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1276556537,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276556537,
+    "wof:lastmodified":1537716387,
+    "wof:name":"Odidini",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67261,
+    -30.01758,
+    30.67261,
+    -30.01758
+],
+  "geometry": {"coordinates":[30.67261,-30.01758],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1225830755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0709,-29.67714,17.0709,-29.67714",
+    "geom:latitude":-29.67714,
+    "geom:longitude":17.0709,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC062",
+    "gn:asciiname":"Kleinzee",
+    "gn:country_code":"ZA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3365707,
+    "gn:latitude":-29.67714,
+    "gn:longitude":17.0709,
+    "gn:modification_date":"2013-04-13",
+    "gn:name":"Kleinzee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kleinzee"
+    ],
+    "name:eng_x_variant":[
+        "Kleinsee"
+    ],
+    "name:und_x_variant":[
+        "Kleinsee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3365707,
+        "wk:page":"Kleinzee"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7524f52954531d9a2ec2432de23a7986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1225830755,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1225830755,
+    "wof:lastmodified":1537716444,
+    "wof:name":"Kleinzee",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0709,
+    -29.67714,
+    17.0709,
+    -29.67714
+],
+  "geometry": {"coordinates":[17.0709,-29.67714],"type":"Point"}
+}

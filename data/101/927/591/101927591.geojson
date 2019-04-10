@@ -1,0 +1,132 @@
+{
+  "id": 101927591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":950029.320247,
+    "geom:bbox":"32.265296936,-28.024766922,32.2762565613,-28.013053894",
+    "geom:latitude":-28.019108,
+    "geom:longitude":32.270852,
+    "gn:population":1500,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.019084,
+    "lbl:longitude":32.270748,
+    "mps:latitude":-28.019084,
+    "mps:longitude":32.270748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u0648\u0647\u0644\u0648\u0648\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d6b\u76e7\u8d6b\u76e7\u97cb"
+    ],
+    "name:deu_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:dut_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:eng_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:fre_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:ger_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:ita_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30d5\u30eb\u30a6\u30a7"
+    ],
+    "name:nds_nld_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:nso_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:ron_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:rum_x_preferred":[
+        "Hluhluwe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u76e7\u8d6b\u76e7\u97cb"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hluhluwe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":65.0,
+    "wd:latitude":-28.018889,
+    "wd:longitude":32.2675,
+    "wd:wordcount":564,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996256,
+        "gp:id":1582279,
+        "qs:id":244419,
+        "qs_pg:id":244419,
+        "wd:id":"Q1004768",
+        "wk:page":"Hluhluwe"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"68ad3b16aff2a46c42f930bd7f2987e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":101927591,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927591,
+    "wof:lastmodified":1527715638,
+    "wof:name":"Hluhluwe",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26529693603516,
+    -28.02476692199707,
+    32.2762565612793,
+    -28.01305389404297
+],
+  "geometry": {"coordinates":[[[32.26531219482422,-28.01986503601074],[32.26529693603516,-28.01873779296875],[32.26629638671875,-28.01714897155762],[32.26778030395508,-28.01375198364258],[32.27006149291992,-28.01305389404297],[32.27209854125977,-28.01348495483398],[32.27546310424805,-28.0184154510498],[32.2762565612793,-28.02088928222656],[32.27602005004883,-28.02247047424316],[32.27350234985352,-28.0245246887207],[32.271728515625,-28.02476692199707],[32.26866149902344,-28.0234432220459],[32.26531219482422,-28.01986503601074]]],"type":"Polygon"}
+}

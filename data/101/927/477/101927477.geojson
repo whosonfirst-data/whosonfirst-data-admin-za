@@ -1,0 +1,72 @@
+{
+  "id": 101927477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":916293.432802,
+    "geom:bbox":"31.0608348846,-27.6806106567,31.0735054016,-27.6693305969",
+    "geom:latitude":-27.675097,
+    "geom:longitude":31.066666,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.675218,
+    "lbl:longitude":31.06657,
+    "mps:latitude":-27.675218,
+    "mps:longitude":31.06657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thakazele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1589402
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"579700a079511363fdf2ea28f9b35ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927477,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927477,
+    "wof:lastmodified":1500027509,
+    "wof:name":"Thakazele",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06083488464355,
+    -27.68061065673828,
+    31.07350540161133,
+    -27.66933059692383
+],
+  "geometry": {"coordinates":[[[31.06768035888672,-27.67948150634766],[31.06387901306152,-27.68061065673828],[31.06271934509277,-27.67725944519043],[31.06083488464355,-27.67181396484375],[31.06691360473633,-27.66933059692383],[31.06889533996582,-27.67149925231934],[31.07350540161133,-27.67654609680176],[31.07223892211914,-27.67812538146973],[31.06768035888672,-27.67948150634766]]],"type":"Polygon"}
+}

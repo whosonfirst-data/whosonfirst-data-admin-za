@@ -1,0 +1,61 @@
+{
+  "id": 1209604303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16567,-26.55017,23.16567,-26.55017",
+    "geom:latitude":-26.55017,
+    "geom:longitude":23.16567,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Holbeck",
+    "gn:country_code":"ZA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996035,
+    "gn:latitude":-26.55017,
+    "gn:longitude":23.16567,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Holbeck",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996035
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a4ffbd0707387dfe2f4de02ad9c7853f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209604303
+        }
+    ],
+    "wof:id":1209604303,
+    "wof:lastmodified":1536282063,
+    "wof:name":"Holbeck",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16567,
+    -26.55017,
+    23.16567,
+    -26.55017
+],
+  "geometry": {"coordinates":[23.16567,-26.55017],"type":"Point"}
+}

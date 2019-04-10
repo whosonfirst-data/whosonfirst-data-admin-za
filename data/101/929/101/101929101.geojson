@@ -1,0 +1,72 @@
+{
+  "id": 101929101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1468298.171584,
+    "geom:bbox":"26.897644043,-32.876449585,26.9211483002,-32.8631858826",
+    "geom:latitude":-32.87054,
+    "geom:longitude":26.910722,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.872389,
+    "lbl:longitude":26.909565,
+    "mps:latitude":-32.872389,
+    "mps:longitude":26.909565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Singeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1590882
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0c424f3d2aee4140f2c452f7aedab82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929101,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929101,
+    "wof:lastmodified":1500027832,
+    "wof:name":"Singeni",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89764404296875,
+    -32.87644958496094,
+    26.9211483001709,
+    -32.86318588256836
+],
+  "geometry": {"coordinates":[[[26.92072105407715,-32.86344528198242],[26.9211483001709,-32.86880493164062],[26.91816139221191,-32.86914443969727],[26.91405296325684,-32.86980438232422],[26.91333389282227,-32.87265014648438],[26.91409492492676,-32.87390518188477],[26.91448402404785,-32.87548065185547],[26.91150283813477,-32.87644958496094],[26.90738487243652,-32.87616348266602],[26.89840316772461,-32.87559509277344],[26.89764404296875,-32.87434005737305],[26.89837646484375,-32.87275695800781],[26.90435028076172,-32.87176513671875],[26.90508270263672,-32.87018203735352],[26.91178703308105,-32.86761093139648],[26.91286468505859,-32.86318588256836],[26.92072105407715,-32.86344528198242]]],"type":"Polygon"}
+}

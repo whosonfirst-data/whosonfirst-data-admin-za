@@ -1,0 +1,63 @@
+{
+  "id": 1209638103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5651,-31.07179,29.5651,-31.07179",
+    "geom:latitude":-31.07179,
+    "geom:longitude":29.5651,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Twazi",
+    "gn:country_code":"ZA",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947469,
+    "gn:latitude":-31.07179,
+    "gn:longitude":29.5651,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Twazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947469
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"30cbd9d56d5114c469268a42c269042c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209638103
+        }
+    ],
+    "wof:id":1209638103,
+    "wof:lastmodified":1536280975,
+    "wof:name":"Twazi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5651,
+    -31.071790000000004,
+    29.5651,
+    -31.071790000000004
+],
+  "geometry": {"coordinates":[29.5651,-31.07179],"type":"Point"}
+}

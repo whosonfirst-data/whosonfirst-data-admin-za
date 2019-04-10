@@ -1,0 +1,72 @@
+{
+  "id": 101925309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":476678.141703,
+    "geom:bbox":"28.0728435516,-25.5592575073,28.0812492371,-25.5517807007",
+    "geom:latitude":-25.555315,
+    "geom:longitude":28.076539,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.555409,
+    "lbl:longitude":28.076459,
+    "mps:latitude":-25.555409,
+    "mps:longitude":28.076459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"THORNTREE VIEW",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586638
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fbb45b5cdd1dbe7c3e7863a082cb0319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925309,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925309,
+    "wof:lastmodified":1500027700,
+    "wof:name":"Thorntree View",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07284355163574,
+    -25.55925750732422,
+    28.08124923706055,
+    -25.55178070068359
+],
+  "geometry": {"coordinates":[[[28.07954216003418,-25.55438804626465],[28.08124923706055,-25.55730819702148],[28.07542037963867,-25.55925750732422],[28.07485198974609,-25.55857086181641],[28.07391929626465,-25.55744361877441],[28.07327270507812,-25.55610275268555],[28.07284355163574,-25.55451965332031],[28.07295608520508,-25.55267143249512],[28.07314682006836,-25.5518913269043],[28.0743408203125,-25.55206298828125],[28.07819747924805,-25.55178070068359],[28.07954216003418,-25.55438804626465]]],"type":"Polygon"}
+}

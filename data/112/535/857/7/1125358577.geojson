@@ -1,0 +1,78 @@
+{
+  "id": 1125358577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93821,-26.83824,22.93821,-26.83824",
+    "geom:latitude":-26.83824,
+    "geom:longitude":22.93821,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":70012,
+    "gn:population":70012,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.83824,
+    "lbl:longitude":22.93821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347408,
+    "qs_pg:gn_pop":70012,
+    "qs_pg:name":"Joe Morolong",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764870,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347408,
+        "qs_pg:id":764870
+    },
+    "wof:country":"ZA",
+    "wof:created":1497046633,
+    "wof:geomhash":"82a7a551ddb5d1fa2a432d227b23d593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "localadmin_id":1125358577,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125358577,
+    "wof:lastmodified":1509389012,
+    "wof:name":"Joe Morolong",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"localadmin",
+    "wof:population":70012,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93821,
+    -26.83824,
+    22.93821,
+    -26.83824
+],
+  "geometry": {"coordinates":[22.93821,-26.83824],"type":"Point"}
+}

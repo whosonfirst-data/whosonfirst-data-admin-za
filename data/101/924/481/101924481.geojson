@@ -1,0 +1,83 @@
+{
+  "id": 101924481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":1145231.220565,
+    "geom:bbox":"31.2932987213,-24.6368656158,31.3081817627,-24.6244506836",
+    "geom:latitude":-24.630627,
+    "geom:longitude":31.301221,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.630673,
+    "lbl:longitude":31.301729,
+    "mps:latitude":-24.630673,
+    "mps:longitude":31.301729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Clare"
+    ],
+    "name:eng_x_preferred":[
+        "Clare"
+    ],
+    "name:nso_x_preferred":[
+        "Clare"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CLARE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013419,
+        "gp:id":1582282,
+        "wd:id":"Q15991462"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b4d747b763ecba826363c076c6402d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924481,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924481,
+    "wof:lastmodified":1514503545,
+    "wof:name":"Clare",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29329872131348,
+    -24.63686561584473,
+    31.30818176269531,
+    -24.62445068359375
+],
+  "geometry": {"coordinates":[[[31.30818176269531,-24.63686561584473],[31.30343055725098,-24.63619995117188],[31.29972457885742,-24.63617706298828],[31.29878616333008,-24.63334655761719],[31.29741096496582,-24.63092994689941],[31.29378509521484,-24.62692070007324],[31.29331207275391,-24.62530326843262],[31.29329872131348,-24.62449073791504],[31.29596328735352,-24.62445068359375],[31.3058032989502,-24.62796401977539],[31.30818176269531,-24.63686561584473]]],"type":"Polygon"}
+}

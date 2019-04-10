@@ -1,0 +1,72 @@
+{
+  "id": 101924507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":998329.42634,
+    "geom:bbox":"30.1823692322,-24.6745223999,30.1942825317,-24.6579036713",
+    "geom:latitude":-24.666972,
+    "geom:longitude":30.188325,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.664296,
+    "lbl:longitude":30.189408,
+    "mps:latitude":-24.664296,
+    "mps:longitude":30.189408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Winterveld Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1589165
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8e1ffc532066f570bd0fd8077641d2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101924507,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924507,
+    "wof:lastmodified":1500028408,
+    "wof:name":"Winterveld Mine",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18236923217773,
+    -24.67452239990234,
+    30.19428253173828,
+    -24.65790367126465
+],
+  "geometry": {"coordinates":[[[30.18236923217773,-24.67044448852539],[30.18743133544922,-24.66703224182129],[30.18474006652832,-24.66104316711426],[30.19009971618652,-24.65790367126465],[30.18965721130371,-24.66076469421387],[30.19428253173828,-24.66443634033203],[30.18922233581543,-24.66825675964355],[30.19265747070312,-24.67274475097656],[30.18893432617188,-24.67452049255371],[30.18848609924316,-24.67452239990234],[30.18729209899902,-24.67316055297852],[30.18639755249023,-24.67275428771973],[30.18326759338379,-24.6724853515625],[30.18267059326172,-24.67207717895508],[30.18236923217773,-24.67085266113281],[30.18236923217773,-24.67044448852539]]],"type":"Polygon"}
+}

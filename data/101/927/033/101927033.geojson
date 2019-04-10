@@ -1,0 +1,73 @@
+{
+  "id": 101927033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":386101.542454,
+    "geom:bbox":"26.7890415192,-29.1180553436,26.7951164246,-29.1091594696",
+    "geom:latitude":-29.114148,
+    "geom:longitude":26.792693,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.114197,
+    "lbl:longitude":26.792693,
+    "mps:latitude":-29.114197,
+    "mps:longitude":26.792693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tiger River",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948792,
+        "gp:id":1588012
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1b2611e56eca4935ee667248af6366c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101927033,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927033,
+    "wof:lastmodified":1500027644,
+    "wof:name":"Tiger River",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78904151916504,
+    -29.11805534362793,
+    26.79511642456055,
+    -29.10915946960449
+],
+  "geometry": {"coordinates":[[[26.7918758392334,-29.11027336120605],[26.79232978820801,-29.10915946960449],[26.7948055267334,-29.10998153686523],[26.79511642456055,-29.11805534362793],[26.78904151916504,-29.11723136901855],[26.79029846191406,-29.11414527893066],[26.7918758392334,-29.11027336120605]]],"type":"Polygon"}
+}

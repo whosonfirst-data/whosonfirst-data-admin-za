@@ -1,0 +1,98 @@
+{
+  "id": 1125829667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23511,-29.50206,31.23511,-29.50206",
+    "geom:latitude":-29.50206,
+    "geom:longitude":31.23511,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.50206,
+    "lbl:longitude":31.23511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Salt Rock"
+    ],
+    "name:dut_x_preferred":[
+        "Salt Rock"
+    ],
+    "name:eng_x_preferred":[
+        "Salt Rock"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":958093,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Salt Rock",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":134,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":134,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090695,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587156,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958093,
+        "gp:id":1587156,
+        "qs_pg:id":1090695,
+        "wd:id":"Q7405938"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292436,
+    "wof:geomhash":"31c2fd32a49623d7c171a680692dd759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":1125829667,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125829667,
+    "wof:lastmodified":1514504523,
+    "wof:name":"Salt Rock",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23511,
+    -29.50206,
+    31.23511,
+    -29.50206
+],
+  "geometry": {"coordinates":[31.23511,-29.50206],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126097589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57422,-27.24179,27.57422,-27.24179",
+    "geom:latitude":-27.24179,
+    "geom:longitude":27.57422,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11445,
+    "gn:population":11445,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.24179,
+    "lbl:longitude":27.57422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kopjes"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":987875,
+    "qs_pg:gn_pop":11445,
+    "qs_pg:name":"Koppies Sh",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Free State",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":72711,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Free State",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926599,
+        1108730537,
+        85688915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":987875,
+        "gp:id":55880297,
+        "qs_pg:id":72711
+    },
+    "wof:country":"ZA",
+    "wof:created":1497315488,
+    "wof:geomhash":"9c41e94f51633b5029a51d5f2a772d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926599,
+            "neighbourhood_id":1126097589,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1126097589,
+    "wof:lastmodified":1509411959,
+    "wof:name":"Koppies Sh",
+    "wof:parent_id":101926599,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11445,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57422,
+    -27.24179,
+    27.57422,
+    -27.24179
+],
+  "geometry": {"coordinates":[27.57422,-27.24179],"type":"Point"}
+}

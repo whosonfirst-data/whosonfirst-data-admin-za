@@ -1,0 +1,69 @@
+{
+  "id": 1276538611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8,-24.51667,29.8,-24.51667",
+    "geom:latitude":-24.51667,
+    "geom:longitude":29.8,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM474",
+    "gn:asciiname":"Nakana",
+    "gn:country_code":"ZA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972172,
+    "gn:latitude":-24.51667,
+    "gn:longitude":29.8,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972172
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6891960918e0061f301e4dbc3d384fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1276538611,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276538611,
+    "wof:lastmodified":1537000144,
+    "wof:name":"Nakana",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8,
+    -24.51667,
+    29.8,
+    -24.51667
+],
+  "geometry": {"coordinates":[29.8,-24.51667],"type":"Point"}
+}

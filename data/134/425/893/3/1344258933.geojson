@@ -1,0 +1,72 @@
+{
+  "id": 1344258933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29707,-30.30979,25.29707,-30.30979",
+    "geom:latitude":-30.30979,
+    "geom:longitude":25.29707,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Waterkloof",
+    "gn:country_code":"ZA",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941727,
+    "gn:latitude":-30.30979,
+    "gn:longitude":25.29707,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Waterkloof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Waterkloof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941727
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3cb962909749f55da65f21ee901ba9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1344258933,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1344258933,
+    "wof:lastmodified":1537716369,
+    "wof:name":"Waterkloof",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29707,
+    -30.30979,
+    25.29707,
+    -30.30979
+],
+  "geometry": {"coordinates":[25.29707,-30.30979],"type":"Point"}
+}

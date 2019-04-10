@@ -1,0 +1,67 @@
+{
+  "id": 1193015231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.72546,-30.29158,29.72546,-30.29158",
+    "geom:latitude":-30.29158,
+    "geom:longitude":29.72546,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Upper Bisi",
+    "gn:country_code":"ZA",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":945932,
+    "gn:latitude":-30.29158,
+    "gn:longitude":29.72546,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Upper Bisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945932
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c41f1e7db5e777f0b6761b88b93ed35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1193015231,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1193015231,
+    "wof:lastmodified":1536379185,
+    "wof:name":"Upper Bisi",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72546,
+    -30.29158,
+    29.72546,
+    -30.29158
+],
+  "geometry": {"coordinates":[29.72546,-30.29158],"type":"Point"}
+}

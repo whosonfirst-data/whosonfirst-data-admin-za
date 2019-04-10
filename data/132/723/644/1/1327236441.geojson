@@ -1,0 +1,69 @@
+{
+  "id": 1327236441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.35,-32.38333,28.35,-32.38333",
+    "geom:latitude":-32.38333,
+    "geom:longitude":28.35,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC122",
+    "gn:asciiname":"Ngundusa",
+    "gn:country_code":"ZA",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970946,
+    "gn:latitude":-32.38333,
+    "gn:longitude":28.35,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngundusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970946
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"238b616ac54904e62a9ce0eb3cab5864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1327236441,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327236441,
+    "wof:lastmodified":1536963532,
+    "wof:name":"Ngundusa",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.35,
+    -32.38333,
+    28.35,
+    -32.38333
+],
+  "geometry": {"coordinates":[28.35,-32.38333],"type":"Point"}
+}

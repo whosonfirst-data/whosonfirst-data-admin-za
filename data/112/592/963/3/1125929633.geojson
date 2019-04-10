@@ -1,0 +1,101 @@
+{
+  "id": 1125929633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90643,-29.87769,30.90643,-29.87769",
+    "geom:latitude":-29.87769,
+    "geom:longitude":30.90643,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.87769,
+    "lbl:longitude":30.90643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Queensburgh"
+    ],
+    "name:dut_x_preferred":[
+        "Queensburgh"
+    ],
+    "name:eng_x_preferred":[
+        "Queensburgh"
+    ],
+    "name:rum_x_preferred":[
+        "Queensburgh"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":963528,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Queensburgh",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":105,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":105,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1269127,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586727,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963528,
+        "gp:id":1586727,
+        "qs_pg:id":1269127,
+        "wd:id":"Q7270856"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497296759,
+    "wof:geomhash":"34ed918ef8bdd944d14741d7298fd6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1125929633,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125929633,
+    "wof:lastmodified":1514504515,
+    "wof:name":"Queensburgh",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90643,
+    -29.87769,
+    30.90643,
+    -29.87769
+],
+  "geometry": {"coordinates":[30.90643,-29.87769],"type":"Point"}
+}

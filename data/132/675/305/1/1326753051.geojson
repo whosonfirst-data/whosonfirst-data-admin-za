@@ -1,0 +1,69 @@
+{
+  "id": 1326753051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97498,-33.01615,26.97498,-33.01615",
+    "geom:latitude":-33.01615,
+    "geom:longitude":26.97498,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC127",
+    "gn:asciiname":"Lilyvale",
+    "gn:country_code":"ZA",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":982784,
+    "gn:latitude":-33.01615,
+    "gn:longitude":26.97498,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Lilyvale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982784
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bdd07d1c9a1040774847b1b28fed527f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1326753051,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326753051,
+    "wof:lastmodified":1536665708,
+    "wof:name":"Lilyvale",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97498,
+    -33.01615,
+    26.97498,
+    -33.01615
+],
+  "geometry": {"coordinates":[26.97498,-33.01615],"type":"Point"}
+}

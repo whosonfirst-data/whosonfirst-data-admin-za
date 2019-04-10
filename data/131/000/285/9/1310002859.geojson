@@ -1,0 +1,69 @@
+{
+  "id": 1310002859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93333,-30.15,21.93333,-30.15",
+    "geom:latitude":-30.15,
+    "geom:longitude":21.93333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC074",
+    "gn:asciiname":"Vliegpan",
+    "gn:country_code":"ZA",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943260,
+    "gn:latitude":-30.15,
+    "gn:longitude":21.93333,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vliegpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943260
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4ea237e35c30b7f3344be1e60b9f7666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1310002859,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310002859,
+    "wof:lastmodified":1536646725,
+    "wof:name":"Vliegpan",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93333,
+    -30.15,
+    21.93333,
+    -30.15
+],
+  "geometry": {"coordinates":[21.93333,-30.15],"type":"Point"}
+}

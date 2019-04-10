@@ -1,0 +1,78 @@
+{
+  "id": 1125271613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03603,-29.18541,30.03603,-29.18541",
+    "geom:latitude":-29.18541,
+    "geom:longitude":30.03603,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":31518,
+    "gn:population":31518,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.18541,
+    "lbl:longitude":30.03603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347562,
+    "qs_pg:gn_pop":31518,
+    "qs_pg:name":"Mpofana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764976,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347562,
+        "qs_pg:id":764976
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042150,
+    "wof:geomhash":"1df61228142e7b1d33b195aa6df10c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "localadmin_id":1125271613,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271613,
+    "wof:lastmodified":1509387041,
+    "wof:name":"Mpofana",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"localadmin",
+    "wof:population":31518,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03603,
+    -29.18541,
+    30.03603,
+    -29.18541
+],
+  "geometry": {"coordinates":[30.03603,-29.18541],"type":"Point"}
+}

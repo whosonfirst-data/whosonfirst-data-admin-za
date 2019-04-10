@@ -1,0 +1,89 @@
+{
+  "id": 101924087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":2030236.157503,
+    "geom:bbox":"30.5148162842,-23.1899108887,30.5327529907,-23.1719341278",
+    "geom:latitude":-23.180102,
+    "geom:longitude":30.523626,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.178243,
+    "lbl:longitude":30.524238,
+    "mps:latitude":-23.178243,
+    "mps:longitude":30.524238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03bd\u03af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05e0\u05d9 \u05d4\u05e8\u05d5\u05d0\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Hanani"
+    ],
+    "name:pol_x_preferred":[
+        "Chanani"
+    ],
+    "name:por_x_preferred":[
+        "Hanani"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hanani",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588087,
+        "wd:id":"Q5646913"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d06a581ee26fe66a1e14af9f93af7c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924087,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924087,
+    "wof:lastmodified":1527677689,
+    "wof:name":"Hanani",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51481628417969,
+    -23.18991088867188,
+    30.53275299072266,
+    -23.17193412780762
+],
+  "geometry": {"coordinates":[[[30.51801681518555,-23.17929077148438],[30.51906776428223,-23.17483711242676],[30.5221118927002,-23.17196273803711],[30.52518844604492,-23.17193412780762],[30.52872657775879,-23.17393112182617],[30.53117752075195,-23.17675018310547],[30.53229522705078,-23.17836570739746],[30.53275299072266,-23.17998695373535],[30.53212356567383,-23.1826343536377],[30.5312614440918,-23.1840648651123],[30.52841377258301,-23.18490600585938],[30.52753448486328,-23.18491363525391],[30.52488327026367,-23.1837215423584],[30.52312469482422,-23.18373870849609],[30.52093315124512,-23.18416595458984],[30.51921272277832,-23.18743324279785],[30.51792144775391,-23.18988418579102],[30.51528358459473,-23.18991088867188],[30.51482963562012,-23.18869590759277],[30.51481628417969,-23.18747711181641],[30.51522445678711,-23.18462753295898],[30.51801681518555,-23.17929077148438]]],"type":"Polygon"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 101926409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":463859.898302,
+    "geom:bbox":"27.843788147,-26.6764850616,27.8530158997,-26.6689071655",
+    "geom:latitude":-26.672759,
+    "geom:longitude":27.848157,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.673101,
+    "lbl:longitude":27.848069,
+    "mps:latitude":-26.673101,
+    "mps:longitude":27.848069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Boipatong"
+    ],
+    "name:eng_x_preferred":[
+        "Boipatong"
+    ],
+    "name:fre_x_preferred":[
+        "Boipatong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30a4\u30d1\u30c8\u30f3"
+    ],
+    "name:nso_x_preferred":[
+        "Boipatong"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Boipatong",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":431,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017877,
+        "gp:id":55879738,
+        "qs:id":1017057,
+        "wd:id":"Q4938403",
+        "wk:page":"Boipatong"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"36ece8f5148d62e864208dd15a782db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926409,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926409,
+    "wof:lastmodified":1527715814,
+    "wof:name":"Boipatong",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84378814697266,
+    -26.67648506164551,
+    27.8530158996582,
+    -26.66890716552734
+],
+  "geometry": {"coordinates":[[[27.8530158996582,-26.67136001586914],[27.84995651245117,-26.67630767822266],[27.84856224060059,-26.67648506164551],[27.84484672546387,-26.67463111877441],[27.84378814697266,-26.67248344421387],[27.84611511230469,-26.66890716552734],[27.84876823425293,-26.67034149169922],[27.85129165649414,-26.6704044342041],[27.8530158996582,-26.67136001586914]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259402711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36008,-29.30534,22.36008,-29.30534",
+    "geom:latitude":-29.30534,
+    "geom:longitude":22.36008,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC077",
+    "gn:asciiname":"Koegasbrug",
+    "gn:country_code":"ZA",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":988524,
+    "gn:latitude":-29.30534,
+    "gn:longitude":22.36008,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Koegasbrug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koegas Bridge",
+        "Koegas",
+        "Koegasbrug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988524
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7342dd6616fe55ac54c74b243120c454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1259402711,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259402711,
+    "wof:lastmodified":1537716417,
+    "wof:name":"Koegasbrug",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36008,
+    -29.30534,
+    22.36008,
+    -29.30534
+],
+  "geometry": {"coordinates":[22.36008,-29.30534],"type":"Point"}
+}

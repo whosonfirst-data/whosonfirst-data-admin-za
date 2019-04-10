@@ -1,0 +1,73 @@
+{
+  "id": 101925863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000295,
+    "geom:area_square_m":3277327.604217,
+    "geom:bbox":"29.1792125702,-26.1960277557,29.202501297,-26.1719703674",
+    "geom:latitude":-26.18327,
+    "geom:longitude":29.190893,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.187391,
+    "lbl:longitude":29.186835,
+    "mps:latitude":-26.187391,
+    "mps:longitude":29.186835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Reedstream Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962911,
+        "gp:id":12517399
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a91ad8959a6986bcf6b1d62953e897af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925863,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925863,
+    "wof:lastmodified":1500026385,
+    "wof:name":"Reedstream Park",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.17921257019043,
+    -26.1960277557373,
+    29.20250129699707,
+    -26.17197036743164
+],
+  "geometry": {"coordinates":[[[29.17921257019043,-26.18366622924805],[29.19105339050293,-26.17840766906738],[29.19099426269531,-26.17244911193848],[29.20250129699707,-26.17197036743164],[29.20233726501465,-26.18080902099609],[29.20204162597656,-26.18099594116211],[29.19410514831543,-26.18582534790039],[29.1935977935791,-26.18699645996094],[29.19357681274414,-26.19006538391113],[29.19306755065918,-26.19132614135742],[29.19226455688477,-26.19177436828613],[29.18379402160645,-26.1960277557373],[29.18036079406738,-26.19134712219238],[29.17921257019043,-26.18366622924805]]],"type":"Polygon"}
+}

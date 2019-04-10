@@ -1,0 +1,102 @@
+{
+  "id": 1125776821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65301,-34.17095,24.65301,-34.17095",
+    "geom:latitude":-34.17095,
+    "geom:longitude":24.65301,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.17095,
+    "lbl:longitude":24.65301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Oesterbaai"
+    ],
+    "name:dut_x_preferred":[
+        "Oyster Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Oyster Bay"
+    ],
+    "name:nso_x_preferred":[
+        "Oyster Bay"
+    ],
+    "name:unk_x_variant":[
+        "Oester Bay"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":968459,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oesterbaai",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586222,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968459,
+        "gp:id":1586222,
+        "qs_pg:id":1159778,
+        "wd:id":"Q2156005"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290297,
+    "wof:geomhash":"dffac5f32458a39293cc74abc4bb93e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125776821,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125776821,
+    "wof:lastmodified":1514504474,
+    "wof:name":"Oesterbaai",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65301,
+    -34.17095,
+    24.65301,
+    -34.17095
+],
+  "geometry": {"coordinates":[24.65301,-34.17095],"type":"Point"}
+}

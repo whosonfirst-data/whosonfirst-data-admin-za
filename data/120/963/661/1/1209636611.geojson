@@ -1,0 +1,63 @@
+{
+  "id": 1209636611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.87185,-25.44954,30.87185,-25.44954",
+    "geom:latitude":-25.44954,
+    "geom:longitude":30.87185,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP322",
+    "gn:asciiname":"Broham",
+    "gn:country_code":"ZA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1015547,
+    "gn:latitude":-25.44954,
+    "gn:longitude":30.87185,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Broham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015547
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"90a869991edb6a40e439d371e0c8b991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209636611
+        }
+    ],
+    "wof:id":1209636611,
+    "wof:lastmodified":1536281024,
+    "wof:name":"Broham",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.87185,
+    -25.44954,
+    30.87185,
+    -25.44954
+],
+  "geometry": {"coordinates":[30.87185,-25.44954],"type":"Point"}
+}

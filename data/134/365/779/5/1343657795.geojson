@@ -1,0 +1,69 @@
+{
+  "id": 1343657795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.09427,-24.94683,27.09427,-24.94683",
+    "geom:latitude":-24.94683,
+    "geom:longitude":27.09427,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC37",
+    "gn:admin3_code":"NW375",
+    "gn:asciiname":"Mmantserre",
+    "gn:country_code":"ZA",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975386,
+    "gn:latitude":-24.94683,
+    "gn:longitude":27.09427,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mmantserre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975386
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9fb60b30ad6b960771686a0d7005c512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":1343657795,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1343657795,
+    "wof:lastmodified":1536958872,
+    "wof:name":"Mmantserre",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.09427,
+    -24.94683,
+    27.09427,
+    -24.94683
+],
+  "geometry": {"coordinates":[27.09427,-24.94683],"type":"Point"}
+}

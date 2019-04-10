@@ -1,0 +1,116 @@
+{
+  "id": 1125942583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81383,-33.76007,24.81383,-33.76007",
+    "geom:latitude":-33.76007,
+    "geom:longitude":24.81383,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.76007,
+    "lbl:longitude":24.81383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Patensie"
+    ],
+    "name:dut_x_preferred":[
+        "Patensie"
+    ],
+    "name:eng_x_preferred":[
+        "Patensie"
+    ],
+    "name:fre_x_preferred":[
+        "Patensie"
+    ],
+    "name:ger_x_preferred":[
+        "Patensie"
+    ],
+    "name:nso_x_preferred":[
+        "Patensie"
+    ],
+    "name:rum_x_preferred":[
+        "Patensie"
+    ],
+    "name:spa_x_preferred":[
+        "Patensie"
+    ],
+    "name:unk_x_variant":[
+        "Patentie"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":966137,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Patensie",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":183840,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966137,
+        "gp:id":1586437,
+        "qs_pg:id":183840,
+        "wd:id":"Q1681268"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297168,
+    "wof:geomhash":"b7e92cc21f9a3aede981260defdff1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125942583,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125942583,
+    "wof:lastmodified":1514504496,
+    "wof:name":"Patensie",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81383,
+    -33.76007,
+    24.81383,
+    -33.76007
+],
+  "geometry": {"coordinates":[24.81383,-33.76007],"type":"Point"}
+}

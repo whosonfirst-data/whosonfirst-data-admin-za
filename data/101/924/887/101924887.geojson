@@ -1,0 +1,73 @@
+{
+  "id": 101924887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:area_square_m":1744505.965892,
+    "geom:bbox":"28.7712612152,-25.0760002136,28.7878704071,-25.0548095703",
+    "geom:latitude":-25.065285,
+    "geom:longitude":28.779572,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.063292,
+    "lbl:longitude":28.778314,
+    "mps:latitude":-25.063292,
+    "mps:longitude":28.778314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dihekeng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009937,
+        "gp:id":56189541
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f693fe7eb0a005eb4d8141ca753776c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924887,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924887,
+    "wof:lastmodified":1500026380,
+    "wof:name":"Dihekeng",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77126121520996,
+    -25.07600021362305,
+    28.78787040710449,
+    -25.0548095703125
+],
+  "geometry": {"coordinates":[[[28.78259468078613,-25.06517791748047],[28.78787040710449,-25.07280540466309],[28.78129577636719,-25.07600021362305],[28.77126121520996,-25.05976676940918],[28.77225303649902,-25.0592041015625],[28.77325820922852,-25.05863761901855],[28.77426719665527,-25.05807495117188],[28.77527809143066,-25.05751609802246],[28.7763843536377,-25.05701637268066],[28.77749633789062,-25.05652236938477],[28.77861022949219,-25.05603408813477],[28.77972602844238,-25.05555152893066],[28.78084564208984,-25.05507278442383],[28.7814769744873,-25.0548095703125],[28.78259468078613,-25.06517791748047]]],"type":"Polygon"}
+}

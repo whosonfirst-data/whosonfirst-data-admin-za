@@ -1,0 +1,69 @@
+{
+  "id": 1209917357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57779,-30.07234,30.57779,-30.07234",
+    "geom:latitude":-30.07234,
+    "geom:longitude":30.57779,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN226",
+    "gn:asciiname":"Ngilanyoni",
+    "gn:country_code":"ZA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971143,
+    "gn:latitude":-30.07234,
+    "gn:longitude":30.57779,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngilanyoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971143
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ad54264c29112a0fffba38e91bb1003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1209917357,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1209917357,
+    "wof:lastmodified":1536372273,
+    "wof:name":"Ngilanyoni",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57779,
+    -30.07234,
+    30.57779,
+    -30.07234
+],
+  "geometry": {"coordinates":[30.57779,-30.07234],"type":"Point"}
+}

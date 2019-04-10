@@ -1,0 +1,72 @@
+{
+  "id": 101924041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1666598.160709,
+    "geom:bbox":"30.6690177917,-23.1044445038,30.6797237396,-23.0819644928",
+    "geom:latitude":-23.092639,
+    "geom:longitude":30.673564,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.086783,
+    "lbl:longitude":30.674532,
+    "mps:latitude":-23.086783,
+    "mps:longitude":30.674532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KaMphambo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881205
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9642c5b325141fb6a4f90f417a133c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924041,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924041,
+    "wof:lastmodified":1500028373,
+    "wof:name":"KaMphambo",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66901779174805,
+    -23.10444450378418,
+    30.67972373962402,
+    -23.08196449279785
+],
+  "geometry": {"coordinates":[[[30.66929817199707,-23.09771156311035],[30.6707763671875,-23.08325958251953],[30.67876243591309,-23.08196449279785],[30.67972373962402,-23.08845710754395],[30.67710304260254,-23.0897045135498],[30.67580223083496,-23.0909366607666],[30.67406463623047,-23.09258079528809],[30.67407989501953,-23.09379959106445],[30.67410087585449,-23.09542465209961],[30.67589378356934,-23.09825134277344],[30.67769432067871,-23.1016845703125],[30.67682838439941,-23.10271072387695],[30.67419815063477,-23.10314559936523],[30.66901779174805,-23.10444450378418],[30.66929817199707,-23.09771156311035]]],"type":"Polygon"}
+}

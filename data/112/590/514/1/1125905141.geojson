@@ -1,0 +1,82 @@
+{
+  "id": 1125905141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.456773,-34.202432,18.456773,-34.202432",
+    "geom:latitude":-34.202432,
+    "geom:longitude":18.456773,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.202432,
+    "lbl:longitude":18.456773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Winford",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":182,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":182,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474281,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879059,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879059,
+        "qs_pg:id":474281
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295961,
+    "wof:geomhash":"24e5e7057866bfe5abe382300817098f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125905141,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125905141,
+    "wof:lastmodified":1509399704,
+    "wof:name":"Winford",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.456773,
+    -34.202432,
+    18.456773,
+    -34.202432
+],
+  "geometry": {"coordinates":[18.456773,-34.202432],"type":"Point"}
+}

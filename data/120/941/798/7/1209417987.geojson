@@ -1,0 +1,63 @@
+{
+  "id": 1209417987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89193,-27.48245,31.89193,-27.48245",
+    "geom:latitude":-27.48245,
+    "geom:longitude":31.89193,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN262",
+    "gn:asciiname":"Bethel",
+    "gn:country_code":"ZA",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019725,
+    "gn:latitude":-27.48245,
+    "gn:longitude":31.89193,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bethel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019725
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5b5d0dcaef42d8582d2843cdb1af21cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209417987
+        }
+    ],
+    "wof:id":1209417987,
+    "wof:lastmodified":1536287623,
+    "wof:name":"Bethel",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89193,
+    -27.48245,
+    31.89193,
+    -27.48245
+],
+  "geometry": {"coordinates":[31.89193,-27.48245],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242700687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85426,-30.70717,25.85426,-30.70717",
+    "geom:latitude":-30.70717,
+    "geom:longitude":25.85426,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Rheboksfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":962549,
+    "gn:latitude":-30.70717,
+    "gn:longitude":25.85426,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rheboksfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962549
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b9e27d8e291f33ab8b6d160d6e7ba2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1242700687,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242700687,
+    "wof:lastmodified":1536886020,
+    "wof:name":"Rheboksfontein",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85426,
+    -30.70717,
+    25.85426,
+    -30.70717
+],
+  "geometry": {"coordinates":[25.85426,-30.70717],"type":"Point"}
+}

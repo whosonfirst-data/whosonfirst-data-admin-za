@@ -1,0 +1,73 @@
+{
+  "id": 1243376445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90432,-29.42009,29.90432,-29.42009",
+    "geom:latitude":-29.42009,
+    "geom:longitude":29.90432,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN222",
+    "gn:asciiname":"Fort Nottingham",
+    "gn:country_code":"ZA",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003908,
+    "gn:latitude":-29.42009,
+    "gn:longitude":29.90432,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Fort Nottingham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nottingham",
+        "Fort Nottingham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003908
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3e14a86837bed2ca5c11fd84556459ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1243376445,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1243376445,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Fort Nottingham",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90432,
+    -29.42009,
+    29.90432,
+    -29.42009
+],
+  "geometry": {"coordinates":[29.90432,-29.42009],"type":"Point"}
+}

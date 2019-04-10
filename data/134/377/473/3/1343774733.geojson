@@ -1,0 +1,73 @@
+{
+  "id": 1343774733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62013,-30.00073,30.62013,-30.00073",
+    "geom:latitude":-30.00073,
+    "geom:longitude":30.62013,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN226",
+    "gn:asciiname":"Power's Court",
+    "gn:country_code":"ZA",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":964247,
+    "gn:latitude":-30.00073,
+    "gn:longitude":30.62013,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Power\u2019s Court",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Powercourt",
+        "Power\u2019s Court"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964247
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a3ce4e69ddaf0d0abc97ca1e89aa571a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1343774733,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343774733,
+    "wof:lastmodified":1537716385,
+    "wof:name":"Power's Court",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62013,
+    -30.00073,
+    30.62013,
+    -30.00073
+],
+  "geometry": {"coordinates":[30.62013,-30.00073],"type":"Point"}
+}

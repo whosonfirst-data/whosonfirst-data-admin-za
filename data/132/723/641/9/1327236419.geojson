@@ -1,0 +1,69 @@
+{
+  "id": 1327236419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.70424,-30.73627,29.70424,-30.73627",
+    "geom:latitude":-30.73627,
+    "geom:longitude":29.70424,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Zilangwe",
+    "gn:country_code":"ZA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":937051,
+    "gn:latitude":-30.73627,
+    "gn:longitude":29.70424,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Zilangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937051
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ba7c611a54cb3214dfd8d776b78c7499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1327236419,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327236419,
+    "wof:lastmodified":1536963565,
+    "wof:name":"Zilangwe",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70424,
+    -30.73627,
+    29.70424,
+    -30.73627
+],
+  "geometry": {"coordinates":[29.70424,-30.73627],"type":"Point"}
+}

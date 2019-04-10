@@ -1,0 +1,113 @@
+{
+  "id": 85783147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9353337.975932,
+    "geom:bbox":"28.251892,-26.089841,28.251892,-26.089841",
+    "geom:latitude":-26.089841,
+    "geom:longitude":28.251892,
+    "gn:latitude":-26.08559,
+    "gn:longitude":28.24551,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.089841,
+    "lbl:longitude":28.251892,
+    "mps:latitude":-26.093477,
+    "mps:longitude":28.252268,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Aston Manor"
+    ],
+    "name:unk_x_variant":[
+        "Aston Manor"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Aston Manor",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Aston Manor",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":1,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925731,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909716,
+        "gp:id":55878567,
+        "qs:id":1060093,
+        "qs_pg:id":1060093
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1e9ec7b9b406cf3122e2b218acf537ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925731,
+            "neighbourhood_id":85783147,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783147,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860460,
+    "wof:name":"Aston Manor",
+    "wof:parent_id":101925731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.251892,
+    -26.089841,
+    28.251892,
+    -26.089841
+],
+  "geometry": {"coordinates":[28.251892,-26.089841],"type":"Point"}
+}

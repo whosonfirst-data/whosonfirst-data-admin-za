@@ -1,0 +1,116 @@
+{
+  "id": 1175740845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000295,
+    "geom:area_square_m":3242411.557759,
+    "geom:bbox":"31.6106681824,-27.3870697021,31.6377105713,-27.3649978638",
+    "geom:latitude":-27.376892,
+    "geom:longitude":31.622841,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.374095,
+    "lbl:longitude":31.623658,
+    "mps:latitude":-27.374095,
+    "mps:longitude":31.623658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Pongola"
+    ],
+    "name:chi_x_preferred":[
+        "\u84ec\u6208\u62c9 "
+    ],
+    "name:dut_x_preferred":[
+        "Pongola"
+    ],
+    "name:eng_x_preferred":[
+        "Pongola"
+    ],
+    "name:ger_x_preferred":[
+        "Pongola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30b4\u30fc\u30e9"
+    ],
+    "name:nso_x_preferred":[
+        "Pongola"
+    ],
+    "name:pol_x_preferred":[
+        "Pongola"
+    ],
+    "name:rum_x_preferred":[
+        "Pongola"
+    ],
+    "name:slv_x_preferred":[
+        "Pongola"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pongola",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.383333,
+    "wd:longitude":31.616667,
+    "wd:wordcount":388,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964574,
+        "gp:id":1586601,
+        "qs:id":1034524,
+        "qs_pg:id":1034524,
+        "wd:id":"Q1004226",
+        "wk:page":"Pongola, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b60b3859fb13d44f3b74aaed6220249d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1175740845,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1175740845,
+    "wof:lastmodified":1535395142,
+    "wof:name":"Pongola",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101927437,
+        101927441,
+        101927443
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61066818237305,
+    -27.38706970214844,
+    31.63771057128906,
+    -27.36499786376953
+],
+  "geometry": {"coordinates":[[[31.61297035217285,-27.37647438049316],[31.61291122436523,-27.36884689331055],[31.61415481567383,-27.36568450927734],[31.61617279052734,-27.36499786376953],[31.61794662475586,-27.36589241027832],[31.61821937561035,-27.36949920654297],[31.61873245239258,-27.370849609375],[31.62075614929199,-27.37129211425781],[31.62353324890137,-27.37105369567871],[31.62580871582031,-27.37126731872559],[31.62910270690918,-27.37283134460449],[31.63264083862305,-27.37303924560547],[31.63643646240234,-27.37392425537109],[31.63771057128906,-27.37594795227051],[31.63641357421875,-27.37952613830566],[31.63213157653809,-27.37858390808105],[31.62866401672363,-27.38411140441895],[31.62615013122559,-27.38615226745605],[31.62514495849609,-27.38706016540527],[31.6237964630127,-27.38706588745117],[31.62287139892578,-27.38706970214844],[31.62109565734863,-27.38595008850098],[31.61855506896973,-27.38370704650879],[31.61526107788086,-27.38191795349121],[31.61066818237305,-27.37665557861328],[31.61297035217285,-27.37647438049316]]],"type":"Polygon"}
+}

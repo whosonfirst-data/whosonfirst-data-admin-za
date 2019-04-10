@@ -1,0 +1,74 @@
+{
+  "id": 1310597067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15528,-29.02936,19.15528,-29.02936",
+    "geom:latitude":-29.02936,
+    "geom:longitude":19.15528,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC067",
+    "gn:asciiname":"Pella",
+    "gn:country_code":"ZA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3362964,
+    "gn:latitude":-29.02936,
+    "gn:longitude":19.15528,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pella Mission",
+        "Pella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3362964,
+        "wk:page":"Pella%2C_Northern_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"824ad094143eaa008e723f3af440c259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1310597067,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310597067,
+    "wof:lastmodified":1537716442,
+    "wof:name":"Pella",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15528,
+    -29.02936,
+    19.15528,
+    -29.02936
+],
+  "geometry": {"coordinates":[19.15528,-29.02936],"type":"Point"}
+}

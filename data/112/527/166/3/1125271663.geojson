@@ -1,0 +1,78 @@
+{
+  "id": 1125271663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.77927,-31.44488,27.77927,-31.44488",
+    "geom:latitude":-31.44488,
+    "geom:longitude":27.77927,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":53472,
+    "gn:population":53472,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.44488,
+    "lbl:longitude":27.77927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347576,
+    "qs_pg:gn_pop":53472,
+    "qs_pg:name":"Sakhisizwe",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764987,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347576,
+        "qs_pg:id":764987
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042152,
+    "wof:geomhash":"dd9b90d9fbce6511be42b8819b256b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "localadmin_id":1125271663,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125271663,
+    "wof:lastmodified":1509387043,
+    "wof:name":"Sakhisizwe",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"localadmin",
+    "wof:population":53472,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.77927,
+    -31.44488,
+    27.77927,
+    -31.44488
+],
+  "geometry": {"coordinates":[27.77927,-31.44488],"type":"Point"}
+}

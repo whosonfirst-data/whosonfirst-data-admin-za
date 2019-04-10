@@ -1,0 +1,63 @@
+{
+  "id": 1209614363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08333,-32.76667,28.08333,-32.76667",
+    "geom:latitude":-32.76667,
+    "geom:longitude":28.08333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Seaview Water Park",
+    "gn:country_code":"ZA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956822,
+    "gn:latitude":-32.76667,
+    "gn:longitude":28.08333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Seaview Water Park",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956822
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2cebfdb9e2ced47f1498e533983ba08c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209614363
+        }
+    ],
+    "wof:id":1209614363,
+    "wof:lastmodified":1536281740,
+    "wof:name":"Seaview Water Park",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08333,
+    -32.76667,
+    28.08333,
+    -32.76667
+],
+  "geometry": {"coordinates":[28.08333,-32.76667],"type":"Point"}
+}

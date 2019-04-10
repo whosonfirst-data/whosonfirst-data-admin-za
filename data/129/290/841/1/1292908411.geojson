@@ -1,0 +1,69 @@
+{
+  "id": 1292908411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51,-33.88778,25.51,-33.88778",
+    "geom:latitude":-33.88778,
+    "geom:longitude":25.51,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"NMA",
+    "gn:admin3_code":"NMA",
+    "gn:asciiname":"Salsoneville",
+    "gn:country_code":"ZA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428651,
+    "gn:latitude":-33.88778,
+    "gn:longitude":25.51,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Salsoneville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428651
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d83089219659e98017a5ce2664c857b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":1292908411,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1292908411,
+    "wof:lastmodified":1536625875,
+    "wof:name":"Salsoneville",
+    "wof:parent_id":1108730527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51,
+    -33.88778,
+    25.51,
+    -33.88778
+],
+  "geometry": {"coordinates":[25.51,-33.88778],"type":"Point"}
+}

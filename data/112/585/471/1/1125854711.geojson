@@ -1,0 +1,94 @@
+{
+  "id": 1125854711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53951,-28.18873,23.53951,-28.18873",
+    "geom:latitude":-28.18873,
+    "geom:longitude":23.53951,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10123,
+    "gn:population":10123,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.18873,
+    "lbl:longitude":23.53951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Danielskuil"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e39\u5c3c\u723e\u65af\u51f1\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Danielskuil"
+    ],
+    "name:eng_x_preferred":[
+        "Danielskuil"
+    ],
+    "name:rum_x_preferred":[
+        "Danielskuil"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1011918,
+    "qs_pg:gn_pop":10123,
+    "qs_pg:name":"Dani\u00eblskuil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":84064,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011918,
+        "qs_pg:id":84064,
+        "wd:id":"Q2296645"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293565,
+    "wof:geomhash":"c79661969975ff79fcf6b11a7ee5d333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1125854711,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125854711,
+    "wof:lastmodified":1514503547,
+    "wof:name":"Dani\u00eblskuil",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:population":10123,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53951,
+    -28.18873,
+    23.53951,
+    -28.18873
+],
+  "geometry": {"coordinates":[23.53951,-28.18873],"type":"Point"}
+}

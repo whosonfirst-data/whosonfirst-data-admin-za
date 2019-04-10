@@ -1,0 +1,73 @@
+{
+  "id": 101928535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1750050.29866,
+    "geom:bbox":"29.4571876526,-30.998462677,29.4826087952,-30.983039856",
+    "geom:latitude":-30.989798,
+    "geom:longitude":29.470382,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.987414,
+    "lbl:longitude":29.469515,
+    "mps:latitude":-30.987414,
+    "mps:longitude":29.469515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sihlahleni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955710,
+        "gp:id":1585423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"aead76c7c8f0e43ea50141a32c874d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928535,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928535,
+    "wof:lastmodified":1500027862,
+    "wof:name":"Sihlahleni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45718765258789,
+    -30.99846267700195,
+    29.48260879516602,
+    -30.98303985595703
+],
+  "geometry": {"coordinates":[[[29.48260879516602,-30.99572944641113],[29.4805965423584,-30.99795150756836],[29.47516822814941,-30.99846267700195],[29.4730224609375,-30.99707794189453],[29.47419738769531,-30.99488067626953],[29.47496604919434,-30.99305534362793],[29.46689224243164,-30.99003028869629],[29.46017074584961,-30.98949432373047],[29.45718765258789,-30.98813438415527],[29.45867347717285,-30.98303985595703],[29.4695930480957,-30.98381996154785],[29.47214508056641,-30.98483085632324],[29.47569465637207,-30.99014663696289],[29.4803524017334,-30.9914608001709],[29.48250007629395,-30.99284553527832],[29.48260879516602,-30.99572944641113]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243258403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21071,-23.16296,28.21071,-23.16296",
+    "geom:latitude":-23.16296,
+    "geom:longitude":28.21071,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM362",
+    "gn:asciiname":"Marnitz",
+    "gn:country_code":"ZA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978734,
+    "gn:latitude":-23.16296,
+    "gn:longitude":28.21071,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Marnitz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manitz Kraal",
+        "Marnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978734
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"74a550d058f28837e557b652799a7a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1243258403,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243258403,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Marnitz",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21071,
+    -23.16296,
+    28.21071,
+    -23.16296
+],
+  "geometry": {"coordinates":[28.21071,-23.16296],"type":"Point"}
+}

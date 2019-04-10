@@ -1,0 +1,110 @@
+{
+  "id": 101925017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000295,
+    "geom:area_square_m":3297653.755308,
+    "geom:bbox":"29.3816871643,-25.1769351959,29.4043579102,-25.1560897827",
+    "geom:latitude":-25.166728,
+    "geom:longitude":29.391848,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.166456,
+    "lbl:longitude":29.391632,
+    "mps:latitude":-25.166456,
+    "mps:longitude":29.391632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u7f85\u5e03\u52d2\u65af\u9054\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:eng_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:ger_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:ita_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:nso_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:rum_x_preferred":[
+        "Groblersdal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0431\u043b\u0435\u0440\u0441\u0434\u0430\u043b"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Groblersdal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":920.0,
+    "wd:latitude":-25.15,
+    "wd:longitude":29.383333,
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999964,
+        "gp:id":1581954,
+        "qs:id":370236,
+        "qs_pg:id":370236,
+        "wd:id":"Q2082031",
+        "wk:page":"Groblersdal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2dd9e581172b3f848a3d53e8eb7ac78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101925017,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101925017,
+    "wof:lastmodified":1527688523,
+    "wof:name":"Groblersdal",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38168716430664,
+    -25.17693519592285,
+    29.40435791015625,
+    -25.15608978271484
+],
+  "geometry": {"coordinates":[[[29.38168716430664,-25.16138648986816],[29.39598655700684,-25.15608978271484],[29.40269470214844,-25.16719436645508],[29.40435791015625,-25.16994857788086],[29.38793182373047,-25.17673873901367],[29.38675498962402,-25.17693519592285],[29.38579940795898,-25.17693138122559],[29.38506507873535,-25.17666053771973],[29.38440704345703,-25.17598724365234],[29.38273048400879,-25.16699028015137],[29.38168716430664,-25.16138648986816]]],"type":"Polygon"}
+}

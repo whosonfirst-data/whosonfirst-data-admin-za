@@ -1,0 +1,103 @@
+{
+  "id": 85783269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9606564.5165,
+    "geom:bbox":"18.85276,-33.926566,18.85276,-33.926566",
+    "geom:latitude":-33.926566,
+    "geom:longitude":18.85276,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-33.926566,
+    "lbl:longitude":18.85276,
+    "mps:latitude":-33.923354,
+    "mps:longitude":18.837777,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Plankenbrug"
+    ],
+    "name:unk_x_variant":[
+        "Plankenbrug"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1099,
+    "qs:local_sum":3108,
+    "qs:localhoods":9,
+    "qs:name":"Plankenbrug",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"Cape Winelands",
+    "qs:name_lau":"Stellenbosch",
+    "qs:name_local":"Stellenbosch",
+    "qs:photo_max":36,
+    "qs:photo_sum":166,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189424,
+    "qs:woe_lau":56189563,
+    "qs:woe_local":1587741,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730615,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879087,
+        "qs:id":230841
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8ea826e455355d2c2e248c66b9b2b9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":-1,
+            "neighbourhood_id":85783269,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783269,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860479,
+    "wof:name":"Plankenbrug",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85276,
+    -33.926566,
+    18.85276,
+    -33.926566
+],
+  "geometry": {"coordinates":[18.85276,-33.926566],"type":"Point"}
+}

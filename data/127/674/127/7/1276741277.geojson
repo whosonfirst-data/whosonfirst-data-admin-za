@@ -1,0 +1,73 @@
+{
+  "id": 1276741277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7798,-33.71747,22.7798,-33.71747",
+    "geom:latitude":-33.71747,
+    "geom:longitude":22.7798,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Buffelsdrif",
+    "gn:country_code":"ZA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1015186,
+    "gn:latitude":-33.71747,
+    "gn:longitude":22.7798,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Buffelsdrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buffelsdrift",
+        "Buffelsdrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015186
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4714c6af74dd4875aa43753b733f2d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1276741277,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1276741277,
+    "wof:lastmodified":1537716434,
+    "wof:name":"Buffelsdrif",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7798,
+    -33.71747,
+    22.7798,
+    -33.71747
+],
+  "geometry": {"coordinates":[22.7798,-33.71747],"type":"Point"}
+}

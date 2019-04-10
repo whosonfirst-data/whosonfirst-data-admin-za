@@ -1,0 +1,72 @@
+{
+  "id": 101923973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1874917.91052,
+    "geom:bbox":"30.6548023224,-22.972032547,30.6786270142,-22.9555721283",
+    "geom:latitude":-22.963982,
+    "geom:longitude":30.667015,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.96418,
+    "lbl:longitude":30.667015,
+    "mps:latitude":-22.96418,
+    "mps:longitude":30.667015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gandlanani",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584371
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"40906eb2a129dc94cf2201ed188b0737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923973,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923973,
+    "wof:lastmodified":1500028399,
+    "wof:name":"Gandlanani",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6548023223877,
+    -22.97203254699707,
+    30.67862701416016,
+    -22.9555721282959
+],
+  "geometry": {"coordinates":[[[30.67780113220215,-22.97121047973633],[30.67693328857422,-22.97203254699707],[30.67209625244141,-22.97127342224121],[30.65926933288574,-22.96328353881836],[30.65660285949707,-22.9604663848877],[30.65482139587402,-22.95845413208008],[30.6548023223877,-22.95682907104492],[30.65522956848145,-22.95601081848145],[30.65654182434082,-22.95559120178223],[30.65829658508301,-22.9555721282959],[30.67685127258301,-22.96553230285645],[30.67862701416016,-22.96713829040527],[30.67780113220215,-22.97121047973633]]],"type":"Polygon"}
+}

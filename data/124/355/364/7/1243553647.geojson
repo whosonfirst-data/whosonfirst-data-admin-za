@@ -1,0 +1,74 @@
+{
+  "id": 1243553647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4,-31.6,29.4,-31.6",
+    "geom:latitude":-31.6,
+    "geom:longitude":29.4,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Tombo",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948493,
+    "gn:latitude":-31.6,
+    "gn:longitude":29.4,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thombo",
+        "Tombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948493
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"47c67fcb863b6dcc186fe6ed200e89c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1243553647,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243553647,
+    "wof:lastmodified":1537716374,
+    "wof:name":"Tombo",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4,
+    -31.6,
+    29.4,
+    -31.6
+],
+  "geometry": {"coordinates":[29.4,-31.6],"type":"Point"}
+}

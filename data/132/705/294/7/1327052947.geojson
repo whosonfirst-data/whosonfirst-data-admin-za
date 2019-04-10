@@ -1,0 +1,74 @@
+{
+  "id": 1327052947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90745,-31.3752,29.90745,-31.3752",
+    "geom:latitude":-31.3752,
+    "geom:longitude":29.90745,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Port Grosvenor",
+    "gn:country_code":"ZA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":964417,
+    "gn:latitude":-31.3752,
+    "gn:longitude":29.90745,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Port Grosvenor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Port Grovenor",
+        "Port Grosvenor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964417,
+        "wk:page":"Port_Grosvenor"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"467dd52111ac304e634e8836a251e808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1327052947,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327052947,
+    "wof:lastmodified":1537716385,
+    "wof:name":"Port Grosvenor",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90745,
+    -31.3752,
+    29.90745,
+    -31.3752
+],
+  "geometry": {"coordinates":[29.90745,-31.3752],"type":"Point"}
+}

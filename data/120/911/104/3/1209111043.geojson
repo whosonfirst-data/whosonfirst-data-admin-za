@@ -1,0 +1,63 @@
+{
+  "id": 1209111043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81798,-31.32999,26.81798,-31.32999",
+    "geom:latitude":-31.32999,
+    "geom:longitude":26.81798,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Snymanskraal",
+    "gn:country_code":"ZA",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954320,
+    "gn:latitude":-31.32999,
+    "gn:longitude":26.81798,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Snymanskraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954320
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1c9f8e75c0dbdf972546bf71e68069f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209111043
+        }
+    ],
+    "wof:id":1209111043,
+    "wof:lastmodified":1536297406,
+    "wof:name":"Snymanskraal",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81798,
+    -31.32999,
+    26.81798,
+    -31.32999
+],
+  "geometry": {"coordinates":[26.81798,-31.32999],"type":"Point"}
+}

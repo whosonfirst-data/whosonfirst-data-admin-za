@@ -1,0 +1,73 @@
+{
+  "id": 101928307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1280661.904256,
+    "geom:bbox":"27.416513443,-30.5747966766,27.434463501,-30.5626583099",
+    "geom:latitude":-30.568165,
+    "geom:longitude":27.425557,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.567682,
+    "lbl:longitude":27.426169,
+    "mps:latitude":-30.567682,
+    "mps:longitude":27.426169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Voyizane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":942776,
+        "gp:id":1582524
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a873df5ccd0a1d9fabfa64263dc3e985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":101928307,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928307,
+    "wof:lastmodified":1500027835,
+    "wof:name":"Voyizane",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41651344299316,
+    -30.57479667663574,
+    27.43446350097656,
+    -30.56265830993652
+],
+  "geometry": {"coordinates":[[[27.41853713989258,-30.56265830993652],[27.42187690734863,-30.56298065185547],[27.4239673614502,-30.56331634521484],[27.42815017700195,-30.56435203552246],[27.43070220947266,-30.56756782531738],[27.43279075622559,-30.56790542602539],[27.43446350097656,-30.56824684143066],[27.43410301208496,-30.57185745239258],[27.42956161499023,-30.57479667663574],[27.42323684692383,-30.5701789855957],[27.41738510131836,-30.56916427612305],[27.41651344299316,-30.56664848327637],[27.41853713989258,-30.56265830993652]]],"type":"Polygon"}
+}

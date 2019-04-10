@@ -1,0 +1,76 @@
+{
+  "id": 101923851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000291,
+    "geom:area_square_m":3260658.387995,
+    "geom:bbox":"27.1653308868,-25.0,27.1904602051,-24.9767799377",
+    "geom:latitude":-24.988793,
+    "geom:longitude":27.178562,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.988932,
+    "lbl:longitude":27.178562,
+    "mps:latitude":-24.988932,
+    "mps:longitude":27.178562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sefikile",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588027
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5d1c398b51dcadd6daebbd12ac4d0219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101923851,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101923851,
+    "wof:lastmodified":1534986002,
+    "wof:name":"Sefikile",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615565
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16533088684082,
+    -25.0,
+    27.19046020507812,
+    -24.97677993774414
+],
+  "geometry": {"coordinates":[[[27.16533088684082,-25.0],[27.16561317443848,-24.99828338623047],[27.16597366333008,-24.99723625183105],[27.16823387145996,-24.99581146240234],[27.16934013366699,-24.99371147155762],[27.16931343078613,-24.99232292175293],[27.16927528381348,-24.99023818969727],[27.16963005065918,-24.98884391784668],[27.1722583770752,-24.98671913146973],[27.17825698852539,-24.98141670227051],[27.18313217163086,-24.97717475891113],[27.1861743927002,-24.97677993774414],[27.18847274780273,-24.97743988037109],[27.18964767456055,-24.97915840148926],[27.19046020507812,-24.98192405700684],[27.18938255310059,-24.98541450500488],[27.18227958679199,-24.99281692504883],[27.17555046081543,-24.99986839294434],[27.17522621154785,-25.0],[27.16533088684082,-25.0]]],"type":"Polygon"}
+}

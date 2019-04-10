@@ -1,0 +1,73 @@
+{
+  "id": 101924851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":1075248.205858,
+    "geom:bbox":"28.1299991608,-25.0439853668,28.1391506195,-25.0298137665",
+    "geom:latitude":-25.037182,
+    "geom:longitude":28.134092,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.037381,
+    "lbl:longitude":28.134462,
+    "mps:latitude":-25.037381,
+    "mps:longitude":28.134462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Swartboom",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951106,
+        "gp:id":1587991
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a4536b2b5ce01bd9eab98fcce93e32a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101924851,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924851,
+    "wof:lastmodified":1500028264,
+    "wof:name":"Swartboom",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1299991607666,
+    -25.04398536682129,
+    28.13915061950684,
+    -25.02981376647949
+],
+  "geometry": {"coordinates":[[[28.13817024230957,-25.03285789489746],[28.13915061950684,-25.04133987426758],[28.13068199157715,-25.04398536682129],[28.1299991607666,-25.04147720336914],[28.13037300109863,-25.03201675415039],[28.1302433013916,-25.02981376647949],[28.13817024230957,-25.03285789489746]]],"type":"Polygon"}
+}

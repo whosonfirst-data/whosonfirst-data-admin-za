@@ -1,0 +1,82 @@
+{
+  "id": 1125942901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.876895,-33.969745,23.876895,-33.969745",
+    "geom:latitude":-33.969745,
+    "geom:longitude":23.876895,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.969745,
+    "lbl:longitude":23.876895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tsitsikamma",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218242,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880484,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880484,
+        "qs_pg:id":218242
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297177,
+    "wof:geomhash":"9ad612a44184f50380794366fe028660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125942901,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125942901,
+    "wof:lastmodified":1509402180,
+    "wof:name":"Tsitsikamma",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.876895,
+    -33.969745,
+    23.876895,
+    -33.969745
+],
+  "geometry": {"coordinates":[23.876895,-33.969745],"type":"Point"}
+}

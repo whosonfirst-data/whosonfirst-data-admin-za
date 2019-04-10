@@ -1,0 +1,69 @@
+{
+  "id": 1242878789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5,-33.35,26.5,-33.35",
+    "geom:latitude":-33.35,
+    "geom:longitude":26.5,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC104",
+    "gn:asciiname":"Howieson's Poort",
+    "gn:country_code":"ZA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":995200,
+    "gn:latitude":-33.35,
+    "gn:longitude":26.5,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Howieson\u2019s Poort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3c38242a98ecced6b6d7a0185dc1d143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1242878789,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242878789,
+    "wof:lastmodified":1536628082,
+    "wof:name":"Howieson's Poort",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5,
+    -33.35,
+    26.5,
+    -33.35
+],
+  "geometry": {"coordinates":[26.5,-33.35],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101929281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000269,
+    "geom:area_square_m":2871424.525349,
+    "geom:bbox":"30.0562286377,-30.1635875702,30.0755271912,-30.1395301819",
+    "geom:latitude":-30.150572,
+    "geom:longitude":30.064338,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.15008,
+    "lbl:longitude":30.064996,
+    "mps:latitude":-30.15008,
+    "mps:longitude":30.064996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ixopo"
+    ],
+    "name:cat_x_preferred":[
+        "Ixopo"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u7d22\u6ce2"
+    ],
+    "name:dut_x_preferred":[
+        "Ixopo"
+    ],
+    "name:eng_x_preferred":[
+        "Ixopo"
+    ],
+    "name:fre_x_preferred":[
+        "Ixopo"
+    ],
+    "name:ger_x_preferred":[
+        "Ixopo"
+    ],
+    "name:ita_x_preferred":[
+        "Ixopo"
+    ],
+    "name:nso_x_preferred":[
+        "Ixopo"
+    ],
+    "name:rum_x_preferred":[
+        "Ixopo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ixopo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.157222,
+    "wd:longitude":30.064722,
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994418,
+        "gp:id":1582458,
+        "qs:id":130243,
+        "qs_pg:id":130243,
+        "wd:id":"Q827279",
+        "wk:page":"Ixopo"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"019970254fdfe3f33fcbb3d021131ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101929281,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929281,
+    "wof:lastmodified":1527715585,
+    "wof:name":"Ixopo",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05622863769531,
+    -30.16358757019043,
+    30.07552719116211,
+    -30.13953018188477
+],
+  "geometry": {"coordinates":[[[30.05872344970703,-30.13953018188477],[30.06287956237793,-30.13993835449219],[30.07169914245605,-30.14022445678711],[30.07552719116211,-30.14018821716309],[30.07510757446289,-30.14050674438477],[30.07364273071289,-30.14175033569336],[30.07258605957031,-30.14315032958984],[30.07191467285156,-30.14496231079102],[30.07154083251953,-30.14653015136719],[30.07125473022461,-30.14811706542969],[30.07096099853516,-30.14970207214355],[30.07056045532227,-30.15126609802246],[30.07004928588867,-30.15272331237793],[30.06943321228027,-30.15415191650391],[30.06870651245117,-30.15553855895996],[30.06711387634277,-30.15936088562012],[30.06698989868164,-30.16139602661133],[30.06189346313477,-30.16270637512207],[30.05877113342285,-30.16358757019043],[30.05750846862793,-30.16224098205566],[30.05672264099121,-30.16064262390137],[30.05635261535645,-30.15914344787598],[30.05622863769531,-30.15761375427246],[30.05650520324707,-30.15612983703613],[30.05833625793457,-30.15456390380859],[30.05907249450684,-30.15257453918457],[30.05941009521484,-30.1505126953125],[30.0594482421875,-30.14645385742188],[30.05872344970703,-30.13953018188477]]],"type":"Polygon"}
+}

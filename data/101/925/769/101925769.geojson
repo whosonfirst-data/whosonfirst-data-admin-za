@@ -1,0 +1,70 @@
+{
+  "id": 101925769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000554,
+    "geom:area_square_m":6153571.319492,
+    "geom:bbox":"28.4703731537,-26.1358566284,28.4920883179,-26.1013183594",
+    "geom:latitude":-26.120107,
+    "geom:longitude":28.480537,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.120696,
+    "lbl:longitude":28.48033,
+    "mps:latitude":-26.120696,
+    "mps:longitude":28.48033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Breswol Agricultural Holdings",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"d0b88265adc794a1f9f3b68af9b77fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925769,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925769,
+    "wof:lastmodified":1500026383,
+    "wof:name":"Breswol Agricultural Holdings",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47037315368652,
+    -26.13585662841797,
+    28.49208831787109,
+    -26.101318359375
+],
+  "geometry": {"coordinates":[[[28.47427749633789,-26.13566017150879],[28.4735221862793,-26.13585662841797],[28.47076225280762,-26.1214656829834],[28.47037315368652,-26.11837768554688],[28.47181510925293,-26.11232376098633],[28.47384262084961,-26.11306953430176],[28.47525787353516,-26.10983848571777],[28.47072982788086,-26.10931587219238],[28.47213935852051,-26.10425758361816],[28.4759464263916,-26.1032772064209],[28.48472023010254,-26.101318359375],[28.49091529846191,-26.12656402587891],[28.49208831787109,-26.13480758666992],[28.47427749633789,-26.13566017150879]]],"type":"Polygon"}
+}

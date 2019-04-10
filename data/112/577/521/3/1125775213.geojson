@@ -1,0 +1,82 @@
+{
+  "id": 1125775213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.399274,-33.980591,25.399274,-33.980591",
+    "geom:latitude":-33.980591,
+    "geom:longitude":25.399274,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.980591,
+    "lbl:longitude":25.399274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Colleen Glen",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":267555,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879687,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879687,
+        "qs_pg:id":267555
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290229,
+    "wof:geomhash":"21892ccceab385c8b8e9d069d8e4a2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":1125775213,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125775213,
+    "wof:lastmodified":1509391231,
+    "wof:name":"Colleen Glen",
+    "wof:parent_id":1108730527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.399274,
+    -33.980591,
+    25.399274,
+    -33.980591
+],
+  "geometry": {"coordinates":[25.399274,-33.980591],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 101925509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00086,
+    "geom:area_square_m":9573579.219982,
+    "geom:bbox":"28.0425319672,-25.7913208008,28.0967388153,-25.7615947723",
+    "geom:latitude":-25.774547,
+    "geom:longitude":28.068015,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.775134,
+    "lbl:longitude":28.067604,
+    "mps:latitude":-25.775134,
+    "mps:longitude":28.067604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:dut_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:eng_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:fre_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:ger_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:ita_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:nso_x_preferred":[
+        "Atteridgeville"
+    ],
+    "name:rum_x_preferred":[
+        "Atteridgeville"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ATTERIDGEVILLE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022055,
+        "gp:id":1579534,
+        "qs:id":272344,
+        "wd:id":"Q1639345",
+        "wk:page":"Atteridgeville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4a6ca083b9061e5b6dac2d88bd7ccd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925509,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925509,
+    "wof:lastmodified":1514503477,
+    "wof:name":"Atteridgeville",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04253196716309,
+    -25.79132080078125,
+    28.09673881530762,
+    -25.76159477233887
+],
+  "geometry": {"coordinates":[[[28.07370948791504,-25.78256607055664],[28.06337547302246,-25.78471755981445],[28.05880355834961,-25.78824806213379],[28.0532112121582,-25.78763771057129],[28.04575729370117,-25.79132080078125],[28.04473876953125,-25.78902053833008],[28.05032730102539,-25.77950859069824],[28.04253196716309,-25.77352714538574],[28.04608154296875,-25.76860427856445],[28.04781532287598,-25.76809883117676],[28.05218505859375,-25.76876831054688],[28.05642127990723,-25.76738739013672],[28.05745315551758,-25.76530075073242],[28.0614013671875,-25.76443481445312],[28.06435203552246,-25.76582145690918],[28.06615447998047,-25.76639556884766],[28.0682373046875,-25.76644515991211],[28.06992340087891,-25.76623153686523],[28.07351112365723,-25.76541709899902],[28.07945251464844,-25.76315689086914],[28.08195495605469,-25.76253128051758],[28.08876037597656,-25.76183319091797],[28.09470558166504,-25.76159477233887],[28.09673881530762,-25.7659854888916],[28.08860778808594,-25.76737022399902],[28.09149742126465,-25.77841377258301],[28.07370948791504,-25.78256607055664]]],"type":"Polygon"}
+}

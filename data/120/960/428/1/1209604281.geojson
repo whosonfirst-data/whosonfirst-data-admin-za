@@ -1,0 +1,63 @@
+{
+  "id": 1209604281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55991,-26.20882,25.55991,-26.20882",
+    "geom:latitude":-26.20882,
+    "geom:longitude":25.55991,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Uitkyk",
+    "gn:country_code":"ZA",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946631,
+    "gn:latitude":-26.20882,
+    "gn:longitude":25.55991,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uitkyk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946631
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e20f828702fe4778d5c875c58ce446bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209604281
+        }
+    ],
+    "wof:id":1209604281,
+    "wof:lastmodified":1536282064,
+    "wof:name":"Uitkyk",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55991,
+    -26.208820000000006,
+    25.55991,
+    -26.208820000000006
+],
+  "geometry": {"coordinates":[25.55991,-26.20882000000001],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1125835415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66625,-33.47709,19.66625,-33.47709",
+    "geom:latitude":-33.47709,
+    "geom:longitude":19.66625,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.47709,
+    "lbl:longitude":19.66625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "De Doorns"
+    ],
+    "name:dut_x_preferred":[
+        "De Doorns"
+    ],
+    "name:eng_x_preferred":[
+        "De Doorns"
+    ],
+    "name:fre_x_preferred":[
+        "De Doorns"
+    ],
+    "name:ger_x_preferred":[
+        "De Doorns"
+    ],
+    "name:nso_x_preferred":[
+        "De Doorns"
+    ],
+    "name:rum_x_preferred":[
+        "De Doorns"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3368906,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"De Doorns",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1044165,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580592,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368906,
+        "gp:id":1580592,
+        "qs_pg:id":1044165,
+        "wd:id":"Q1003321"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292694,
+    "wof:geomhash":"8a231806e29dc6e446485bd9d6a45d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1125835415,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125835415,
+    "wof:lastmodified":1514503548,
+    "wof:name":"De Doorns",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66625,
+    -33.47709,
+    19.66625,
+    -33.47709
+],
+  "geometry": {"coordinates":[19.66625,-33.47709],"type":"Point"}
+}

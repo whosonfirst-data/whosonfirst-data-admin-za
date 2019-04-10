@@ -1,0 +1,82 @@
+{
+  "id": 1125950703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4501245,-25.422675,31.4501245,-25.422675",
+    "geom:latitude":-25.422675,
+    "geom:longitude":31.450125,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.422675,
+    "lbl:longitude":31.450125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Berg-en-Dal",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Mpumalanga",
+    "qs_pg:photos":222,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":222,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230842,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879521,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Mpumalanga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879521,
+        "qs_pg:id":230842
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297445,
+    "wof:geomhash":"644d3e9af395079e423f344b5640d60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1125950703,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1125950703,
+    "wof:lastmodified":1509402670,
+    "wof:name":"Berg-en-Dal",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4501245,
+    -25.422675,
+    31.4501245,
+    -25.422675
+],
+  "geometry": {"coordinates":[31.4501245,-25.422675],"type":"Point"}
+}

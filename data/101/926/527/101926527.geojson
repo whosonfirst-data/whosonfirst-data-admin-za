@@ -1,0 +1,77 @@
+{
+  "id": 101926527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000913,
+    "geom:area_square_m":10065972.894509,
+    "geom:bbox":"26.5721683502,-26.9179573059,26.6142520905,-26.8764438629",
+    "geom:latitude":-26.895429,
+    "geom:longitude":26.596115,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.894964,
+    "lbl:longitude":26.596434,
+    "mps:latitude":-26.894964,
+    "mps:longitude":26.596434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jouberton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":993611,
+        "gp:id":1582519,
+        "qs:id":383919,
+        "qs_pg:id":383919
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e441956795b1abb16d9b22e934695f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926527,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926527,
+    "wof:lastmodified":1497295538,
+    "wof:name":"Jouberton",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.57216835021973,
+    -26.9179573059082,
+    26.6142520904541,
+    -26.87644386291504
+],
+  "geometry": {"coordinates":[[[26.6002311706543,-26.87644386291504],[26.60131454467773,-26.88369941711426],[26.61410140991211,-26.88487815856934],[26.6142520904541,-26.89566802978516],[26.60738754272461,-26.89662551879883],[26.60714530944824,-26.91446876525879],[26.60420036315918,-26.91472244262695],[26.60126113891602,-26.91541481018066],[26.59048652648926,-26.9179573059082],[26.58598136901855,-26.89400100708008],[26.57216835021973,-26.88974761962891],[26.57259941101074,-26.88533782958984],[26.58315849304199,-26.88522148132324],[26.58382034301758,-26.87970924377441],[26.6002311706543,-26.87644386291504]]],"type":"Polygon"}
+}

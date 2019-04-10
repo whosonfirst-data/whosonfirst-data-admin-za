@@ -1,0 +1,69 @@
+{
+  "id": 1225857847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.85,-29.76667,29.85,-29.76667",
+    "geom:latitude":-29.76667,
+    "geom:longitude":29.85,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN431",
+    "gn:asciiname":"Mkobeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975553,
+    "gn:latitude":-29.76667,
+    "gn:longitude":29.85,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mkobeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975553
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6f38931889d1a204b955975d0db1edad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1225857847,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1225857847,
+    "wof:lastmodified":1536995346,
+    "wof:name":"Mkobeni",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85,
+    -29.76667,
+    29.85,
+    -29.76667
+],
+  "geometry": {"coordinates":[29.85,-29.76667],"type":"Point"}
+}

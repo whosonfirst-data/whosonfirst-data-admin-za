@@ -1,0 +1,71 @@
+{
+  "id": 1310695727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69208,-27.42972,23.69208,-27.42972",
+    "geom:latitude":-27.42972,
+    "geom:longitude":23.69208,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ga-Mothibi",
+    "gn:country_code":"ZA",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003133,
+    "gn:latitude":-27.42972,
+    "gn:longitude":23.69208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ga-Mothibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camothibi",
+        "Ga-Mothibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003133
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6535eee2a61bc017a7db7593af8a5c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1310695727,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310695727,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Ga-Mothibi",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69208,
+    -27.42972,
+    23.69208,
+    -27.42972
+],
+  "geometry": {"coordinates":[23.69208,-27.42972],"type":"Point"}
+}

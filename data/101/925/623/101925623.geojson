@@ -1,0 +1,72 @@
+{
+  "id": 101925623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":321121.964942,
+    "geom:bbox":"27.9859714508,-25.9806003571,27.9911651611,-25.9694080353",
+    "geom:latitude":-25.974268,
+    "geom:longitude":27.988871,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.973507,
+    "lbl:longitude":27.988615,
+    "mps:latitude":-25.973507,
+    "mps:longitude":27.988615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zevenfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878304
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee7483331401a3b2c2ebf1b26156ff1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925623,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925623,
+    "wof:lastmodified":1500027718,
+    "wof:name":"Zevenfontein",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98597145080566,
+    -25.98060035705566,
+    27.99116516113281,
+    -25.96940803527832
+],
+  "geometry": {"coordinates":[[[27.98597145080566,-25.97247505187988],[27.99116516113281,-25.96940803527832],[27.99056625366211,-25.97536468505859],[27.98896789550781,-25.98060035705566],[27.98597145080566,-25.97247505187988]]],"type":"Polygon"}
+}

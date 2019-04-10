@@ -1,0 +1,63 @@
+{
+  "id": 1209127335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20032,-25.42783,31.20032,-25.42783",
+    "geom:latitude":-25.42783,
+    "geom:longitude":31.20032,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP322",
+    "gn:asciiname":"Daantjielokasie",
+    "gn:country_code":"ZA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012222,
+    "gn:latitude":-25.42783,
+    "gn:longitude":31.20032,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Daantjielokasie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012222
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"57f08be635c013e516c01e3439ec198e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209127335
+        }
+    ],
+    "wof:id":1209127335,
+    "wof:lastmodified":1536296916,
+    "wof:name":"Daantjielokasie",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20032,
+    -25.42783,
+    31.20032,
+    -25.42783
+],
+  "geometry": {"coordinates":[31.20032,-25.42783],"type":"Point"}
+}

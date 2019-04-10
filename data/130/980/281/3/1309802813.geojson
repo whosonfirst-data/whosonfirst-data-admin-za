@@ -1,0 +1,69 @@
+{
+  "id": 1309802813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21692,-31.7874,29.21692,-31.7874",
+    "geom:latitude":-31.7874,
+    "geom:longitude":29.21692,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Vinitsh",
+    "gn:country_code":"ZA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943917,
+    "gn:latitude":-31.7874,
+    "gn:longitude":29.21692,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vinitsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943917
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f58c4755a464529100052b437de7cf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1309802813,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309802813,
+    "wof:lastmodified":1536936130,
+    "wof:name":"Vinitsh",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21692,
+    -31.7874,
+    29.21692,
+    -31.7874
+],
+  "geometry": {"coordinates":[29.21692,-31.7874],"type":"Point"}
+}

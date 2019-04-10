@@ -1,0 +1,73 @@
+{
+  "id": 1243160503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98795,-34.01758,22.98795,-34.01758",
+    "geom:latitude":-34.01758,
+    "geom:longitude":22.98795,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC048",
+    "gn:asciiname":"Westford Bridge",
+    "gn:country_code":"ZA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":940342,
+    "gn:latitude":-34.01758,
+    "gn:longitude":22.98795,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Westford Bridge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Westfordbrug",
+        "Westford Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940342
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7ff43352688efaa2c69fb7525937ce27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1243160503,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1243160503,
+    "wof:lastmodified":1537716369,
+    "wof:name":"Westford Bridge",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98795,
+    -34.01758,
+    22.98795,
+    -34.01758
+],
+  "geometry": {"coordinates":[22.98795,-34.01758],"type":"Point"}
+}

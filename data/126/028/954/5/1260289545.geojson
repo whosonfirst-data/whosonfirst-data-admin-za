@@ -1,0 +1,69 @@
+{
+  "id": 1260289545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31165,-30.74339,29.31165,-30.74339",
+    "geom:latitude":-30.74339,
+    "geom:longitude":29.31165,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Baquqini",
+    "gn:country_code":"ZA",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1021108,
+    "gn:latitude":-30.74339,
+    "gn:longitude":29.31165,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Baquqini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021108
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fc755f1a95dfca0d70bcf7b220ec58d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1260289545,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1260289545,
+    "wof:lastmodified":1536704071,
+    "wof:name":"Baquqini",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31165,
+    -30.74339,
+    29.31165,
+    -30.74339
+],
+  "geometry": {"coordinates":[29.31165,-30.74339],"type":"Point"}
+}

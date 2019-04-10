@@ -1,0 +1,69 @@
+{
+  "id": 1226251555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24179,-28.723,29.24179,-28.723",
+    "geom:latitude":-28.723,
+    "geom:longitude":29.24179,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN235",
+    "gn:asciiname":"Rookdale",
+    "gn:country_code":"ZA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":959312,
+    "gn:latitude":-28.723,
+    "gn:longitude":29.24179,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rookdale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959312
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e08198b0773ca5fe86a34942f25a6ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1226251555,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1226251555,
+    "wof:lastmodified":1536925872,
+    "wof:name":"Rookdale",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24179,
+    -28.72300000000001,
+    29.24179,
+    -28.72300000000001
+],
+  "geometry": {"coordinates":[29.24179,-28.72300000000001],"type":"Point"}
+}

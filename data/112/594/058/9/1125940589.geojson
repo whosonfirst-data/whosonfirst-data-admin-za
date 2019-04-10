@@ -1,0 +1,82 @@
+{
+  "id": 1125940589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.036345,-34.030936,23.036345,-34.030936",
+    "geom:latitude":-34.030936,
+    "geom:longitude":23.036345,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.030936,
+    "lbl:longitude":23.036345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Hill",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879892,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879892,
+        "qs_pg:id":986705
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297104,
+    "wof:geomhash":"6af0b105103db416adb912d1bd45296b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125940589,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125940589,
+    "wof:lastmodified":1509402056,
+    "wof:name":"West Hill",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.036345,
+    -34.030936,
+    23.036345,
+    -34.030936
+],
+  "geometry": {"coordinates":[23.036345,-34.030936],"type":"Point"}
+}

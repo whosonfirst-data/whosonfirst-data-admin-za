@@ -1,0 +1,76 @@
+{
+  "id": 1175615441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000736,
+    "geom:area_square_m":2271781.968407,
+    "geom:bbox":"29.1963195801,-23.338300705,29.2482395172,-23.3074645996",
+    "geom:latitude":-23.321065,
+    "geom:longitude":29.228121,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.312138,
+    "lbl:longitude":29.210335,
+    "mps:latitude":-23.312138,
+    "mps:longitude":29.210335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fatima Mission Station",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        101923215,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881245
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d85bc03b04d263829c18bff56669f0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923215,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1175615441,
+    "wof:lastmodified":1534985997,
+    "wof:name":"Fatima Mission Station",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101923217,
+        101923215
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19631958007812,
+    -23.33830070495605,
+    29.24823951721191,
+    -23.30746459960938
+],
+  "geometry": {"coordinates":[[[[29.24520301818848,-23.33830070495605],[29.21573066711426,-23.33176612854004],[29.2192211151123,-23.32165718078613],[29.23110389709473,-23.32326507568359],[29.23503684997559,-23.30781745910645],[29.24823951721191,-23.31023597717285],[29.24431037902832,-23.32690048217773],[29.24520301818848,-23.33830070495605]]],[[[29.19631958007812,-23.30746459960938],[29.22315979003906,-23.3094596862793],[29.22449111938477,-23.31636619567871],[29.2244930267334,-23.31717872619629],[29.19633102416992,-23.31437301635742],[29.19631958007812,-23.30746459960938]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1125872081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77601,-31.47069,19.77601,-31.47069",
+    "geom:latitude":-31.47069,
+    "geom:longitude":19.77601,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":8146,
+    "gn:population":8146,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.47069,
+    "lbl:longitude":19.77601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Calvinia"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u723e\u7dad\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Calvinia"
+    ],
+    "name:eng_x_preferred":[
+        "Calvinia"
+    ],
+    "name:fre_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ger_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ita_x_preferred":[
+        "Calvinia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30d3\u30cb\u30a2"
+    ],
+    "name:rum_x_preferred":[
+        "Calvinia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0432\u0438\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ven_x_preferred":[
+        "Calvinia"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3369174,
+    "qs_pg:gn_pop":8146,
+    "qs_pg:name":"Calvinia",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":147506,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580259,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369174,
+        "gp:id":1580259,
+        "qs_pg:id":147506,
+        "wd:id":"Q1027757"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118613
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294350,
+    "wof:geomhash":"2203b98277783b8384c2f62d3d218851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125872081,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125872081,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Calvinia",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:population":8146,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125895393
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77601,
+    -31.47069,
+    19.77601,
+    -31.47069
+],
+  "geometry": {"coordinates":[19.77601,-31.47069],"type":"Point"}
+}

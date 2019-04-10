@@ -1,0 +1,72 @@
+{
+  "id": 101927107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":803550.566482,
+    "geom:bbox":"25.0,-29.4269866943,25.013841629,-29.4193019867",
+    "geom:latitude":-29.423194,
+    "geom:longitude":25.006689,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.423105,
+    "lbl:longitude":25.006689,
+    "mps:latitude":-29.423105,
+    "mps:longitude":25.006689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ditlhake",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582945
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"808b68ce46099ea77d2017a4a1947a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101927107,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927107,
+    "wof:lastmodified":1500027637,
+    "wof:name":"Ditlhake",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0,
+    -29.42698669433594,
+    25.01384162902832,
+    -29.41930198669434
+],
+  "geometry": {"coordinates":[[[25.0,-29.42135620117188],[25.00342559814453,-29.41960144042969],[25.00530624389648,-29.41930198669434],[25.00773429870605,-29.41975021362305],[25.01070785522461,-29.42110824584961],[25.0121898651123,-29.42203330993652],[25.01320266723633,-29.42295074462891],[25.01384162902832,-29.42386436462402],[25.01382255554199,-29.42476654052734],[25.01315307617188,-29.42541313171387],[25.00993919372559,-29.42675971984863],[25.00871658325195,-29.42698669433594],[25.00712585449219,-29.42679977416992],[25.0,-29.42441368103027],[25.0,-29.42135620117188]]],"type":"Polygon"}
+}

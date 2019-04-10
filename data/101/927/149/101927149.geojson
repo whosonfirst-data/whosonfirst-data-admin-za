@@ -1,0 +1,118 @@
+{
+  "id": 101927149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":1231678.869006,
+    "geom:bbox":"29.4922924042,-29.7986602783,29.5017356873,-29.7828159332",
+    "geom:latitude":-29.79112,
+    "geom:longitude":29.497049,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.790771,
+    "lbl:longitude":29.496487,
+    "mps:latitude":-29.790771,
+    "mps:longitude":29.496487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Underberg"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043d\u0434\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Underberg"
+    ],
+    "name:dut_x_preferred":[
+        "Underberg"
+    ],
+    "name:eng_x_preferred":[
+        "Underberg"
+    ],
+    "name:fra_x_preferred":[
+        "Underberg"
+    ],
+    "name:fre_x_preferred":[
+        "Underberg"
+    ],
+    "name:ger_x_preferred":[
+        "Underberg"
+    ],
+    "name:nld_x_preferred":[
+        "Underberg"
+    ],
+    "name:nso_x_preferred":[
+        "Underberg"
+    ],
+    "name:ron_x_preferred":[
+        "Underberg"
+    ],
+    "name:rum_x_preferred":[
+        "Underberg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Underberg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.783333,
+    "wd:longitude":29.5,
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945995,
+        "gp:id":1588437,
+        "qs:id":1221057,
+        "qs_pg:id":1221057,
+        "wd:id":"Q1003352",
+        "wk:page":"Underberg, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cc3c67bbac000bee85a591175dceaa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101927149,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927149,
+    "wof:lastmodified":1527715641,
+    "wof:name":"Underberg",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4922924041748,
+    -29.79866027832031,
+    29.50173568725586,
+    -29.78281593322754
+],
+  "geometry": {"coordinates":[[[29.49347305297852,-29.79789161682129],[29.49322128295898,-29.79743766784668],[29.4922924041748,-29.79021072387695],[29.49284553527832,-29.78773498535156],[29.49362182617188,-29.78676795959473],[29.49679565429688,-29.78281593322754],[29.50093078613281,-29.78286361694336],[29.50054168701172,-29.79187965393066],[29.50055122375488,-29.79205513000488],[29.50074195861816,-29.79594230651855],[29.50173568725586,-29.79866027832031],[29.49837493896484,-29.79862213134766],[29.49347305297852,-29.79789161682129]]],"type":"Polygon"}
+}

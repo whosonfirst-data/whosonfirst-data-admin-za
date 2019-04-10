@@ -1,0 +1,73 @@
+{
+  "id": 101925363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:area_square_m":2399053.007409,
+    "geom:bbox":"27.609161377,-25.6338100433,27.6242046356,-25.6150074005",
+    "geom:latitude":-25.625409,
+    "geom:longitude":27.616539,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.625508,
+    "lbl:longitude":27.616396,
+    "mps:latitude":-25.625508,
+    "mps:longitude":27.616396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makolokwe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979974,
+        "gp:id":1580129
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dfadea36ae1bfac0520b4ddc489b1f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925363,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925363,
+    "wof:lastmodified":1500028279,
+    "wof:name":"Makolokwe",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60916137695312,
+    -25.63381004333496,
+    27.62420463562012,
+    -25.6150074005127
+],
+  "geometry": {"coordinates":[[[27.62199401855469,-25.63381004333496],[27.60916137695312,-25.6334400177002],[27.61088562011719,-25.61799621582031],[27.62195587158203,-25.6150074005127],[27.62262153625488,-25.62752914428711],[27.62420463562012,-25.62959098815918],[27.62199401855469,-25.63381004333496]]],"type":"Polygon"}
+}

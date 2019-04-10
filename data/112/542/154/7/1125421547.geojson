@@ -1,0 +1,78 @@
+{
+  "id": 1125421547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09656,-31.85014,26.09656,-31.85014",
+    "geom:latitude":-31.85014,
+    "geom:longitude":26.09656,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":27660,
+    "gn:population":27660,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.85014,
+    "lbl:longitude":26.09656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347526,
+    "qs_pg:gn_pop":27660,
+    "qs_pg:name":"Tsolwana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764953,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347526,
+        "qs_pg:id":764953
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052343,
+    "wof:geomhash":"f3d51f047855ca7067384f2bffd8126a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "localadmin_id":1125421547,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125421547,
+    "wof:lastmodified":1509390489,
+    "wof:name":"Tsolwana",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"localadmin",
+    "wof:population":27660,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09656,
+    -31.85014,
+    26.09656,
+    -31.85014
+],
+  "geometry": {"coordinates":[26.09656,-31.85014],"type":"Point"}
+}

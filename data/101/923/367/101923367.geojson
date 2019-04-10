@@ -1,0 +1,73 @@
+{
+  "id": 101923367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":1249297.543097,
+    "geom:bbox":"28.8944454193,-23.6750793457,28.9063625336,-23.6637039185",
+    "geom:latitude":-23.669845,
+    "geom:longitude":28.899773,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.669785,
+    "lbl:longitude":28.899773,
+    "mps:latitude":-23.669785,
+    "mps:longitude":28.899773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hwibi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995026,
+        "gp:id":1586629
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d94667f5995631304f7cd39cfd7d95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923367,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923367,
+    "wof:lastmodified":1500028412,
+    "wof:name":"Hwibi",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89444541931152,
+    -23.67507934570312,
+    28.90636253356934,
+    -23.66370391845703
+],
+  "geometry": {"coordinates":[[[28.90635871887207,-23.67183685302734],[28.90547561645508,-23.67427444458008],[28.89444541931152,-23.67507934570312],[28.89445495605469,-23.66411018371582],[28.89489555358887,-23.66370391845703],[28.89710235595703,-23.66370582580566],[28.90636253356934,-23.66777420043945],[28.90635871887207,-23.67183685302734]]],"type":"Polygon"}
+}

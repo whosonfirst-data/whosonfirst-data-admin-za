@@ -1,0 +1,63 @@
+{
+  "id": 1209113489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29479,-29.658,26.29479,-29.658",
+    "geom:latitude":-29.658,
+    "geom:longitude":26.29479,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Kroonspruit",
+    "gn:country_code":"ZA",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986853,
+    "gn:latitude":-29.658,
+    "gn:longitude":26.29479,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kroonspruit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986853
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"262f7adaf762cb167ed6d5add9859d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209113489
+        }
+    ],
+    "wof:id":1209113489,
+    "wof:lastmodified":1536297329,
+    "wof:name":"Kroonspruit",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.294790000000006,
+    -29.658,
+    26.294790000000006,
+    -29.658
+],
+  "geometry": {"coordinates":[26.29479000000001,-29.658],"type":"Point"}
+}

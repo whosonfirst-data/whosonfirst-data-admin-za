@@ -1,0 +1,115 @@
+{
+  "id": 1125788325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58804,-32.72173,25.58804,-32.72173",
+    "geom:latitude":-32.72173,
+    "geom:longitude":25.58804,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":16155,
+    "gn:population":16155,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.72173,
+    "lbl:longitude":25.58804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Somerset-Oos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6771\u7d22\u6885\u585e\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Somerset-Oost"
+    ],
+    "name:eng_x_preferred":[
+        "Somerset East"
+    ],
+    "name:ger_x_preferred":[
+        "Somerset East"
+    ],
+    "name:ita_x_preferred":[
+        "Somerset East"
+    ],
+    "name:nso_x_preferred":[
+        "Somerset East"
+    ],
+    "name:pol_x_preferred":[
+        "Somerset East"
+    ],
+    "name:rum_x_preferred":[
+        "Somerset-Oos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u0435\u0440\u0441\u0435\u0442-\u0418\u0441\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Somerset East"
+    ],
+    "name:unk_x_variant":[
+        "Somerset-Oos"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":954161,
+    "qs_pg:gn_pop":16155,
+    "qs_pg:name":"Somerset East",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":275874,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954161,
+        "qs_pg:id":275874,
+        "wd:id":"Q1021900"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290765,
+    "wof:geomhash":"55883e342b918ad930329ebe35f1ff06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125788325,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125788325,
+    "wof:lastmodified":1514504544,
+    "wof:name":"Somerset East",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:population":16155,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58804,
+    -32.72173,
+    25.58804,
+    -32.72173
+],
+  "geometry": {"coordinates":[25.58804,-32.72173],"type":"Point"}
+}

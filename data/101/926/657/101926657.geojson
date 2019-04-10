@@ -1,0 +1,77 @@
+{
+  "id": 101926657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":811509.629074,
+    "geom:bbox":"27.1862449646,-27.6722583771,27.1964035034,-27.6602058411",
+    "geom:latitude":-27.666546,
+    "geom:longitude":27.191339,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.666895,
+    "lbl:longitude":27.190734,
+    "mps:latitude":-27.666895,
+    "mps:longitude":27.190734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:gle_x_preferred":[
+        "Brent Park"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u0646\u0679 \u067e\u0627\u0631\u06a9\u060c \u0644\u0646\u062f\u0646"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Brent Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"1f380850373e4784b445ed57605ca996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926657,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926657,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Brent Park",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18624496459961,
+    -27.6722583770752,
+    27.19640350341797,
+    -27.66020584106445
+],
+  "geometry": {"coordinates":[[[27.18641662597656,-27.66850090026855],[27.18624496459961,-27.66767311096191],[27.18944931030273,-27.66096115112305],[27.19046211242676,-27.66020584106445],[27.19198608398438,-27.66043090820312],[27.19300270080566,-27.66088104248047],[27.19376564025879,-27.66155815124512],[27.19402313232422,-27.66321563720703],[27.19402694702148,-27.66540145874023],[27.19462203979492,-27.66690635681152],[27.19589424133301,-27.66773414611816],[27.19640350341797,-27.66886329650879],[27.19564437866211,-27.67022132873535],[27.19361686706543,-27.6722583770752],[27.19226264953613,-27.67218589782715],[27.18641662597656,-27.66850090026855]]],"type":"Polygon"}
+}

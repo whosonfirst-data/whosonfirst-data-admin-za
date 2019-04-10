@@ -1,0 +1,72 @@
+{
+  "id": 101925825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":984707.048938,
+    "geom:bbox":"27.7866897583,-26.1825809479,27.7982349396,-26.1722717285",
+    "geom:latitude":-26.177373,
+    "geom:longitude":27.791754,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.177353,
+    "lbl:longitude":27.791287,
+    "mps:latitude":-26.177353,
+    "mps:longitude":27.791287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leratong Village",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189544
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd63b003df104440330c755f4232304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925825,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925825,
+    "wof:lastmodified":1500027723,
+    "wof:name":"Leratong Village",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78668975830078,
+    -26.18258094787598,
+    27.7982349395752,
+    -26.17227172851562
+],
+  "geometry": {"coordinates":[[[27.7982349395752,-26.17332077026367],[27.79520034790039,-26.17705726623535],[27.7963809967041,-26.18258094787598],[27.79603958129883,-26.18242835998535],[27.78668975830078,-26.18226051330566],[27.78772926330566,-26.17276000976562],[27.7899112701416,-26.17227172851562],[27.79258155822754,-26.17244720458984],[27.79575157165527,-26.17265510559082],[27.7982349395752,-26.17332077026367]]],"type":"Polygon"}
+}

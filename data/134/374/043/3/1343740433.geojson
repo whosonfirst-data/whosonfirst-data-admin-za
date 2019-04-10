@@ -1,0 +1,70 @@
+{
+  "id": 1343740433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02969,-34.31172,21.02969,-34.31172",
+    "geom:latitude":-34.31172,
+    "geom:longitude":21.02969,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC042",
+    "gn:asciiname":"Vermaaklikheid",
+    "gn:country_code":"ZA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":944199,
+    "gn:latitude":-34.31172,
+    "gn:longitude":21.02969,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vermaaklikheid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944199,
+        "wk:page":"Vermaaklikheid"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6644d3fc9e497aea8bb936b2b75e0542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1343740433,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1343740433,
+    "wof:lastmodified":1537576356,
+    "wof:name":"Vermaaklikheid",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02969,
+    -34.31172,
+    21.02969,
+    -34.31172
+],
+  "geometry": {"coordinates":[21.02969,-34.31172],"type":"Point"}
+}

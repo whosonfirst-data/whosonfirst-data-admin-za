@@ -1,0 +1,69 @@
+{
+  "id": 1243251579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67998,-33.86272,18.67998,-33.86272",
+    "geom:latitude":-33.86272,
+    "geom:longitude":18.67998,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Vredekloof",
+    "gn:country_code":"ZA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238393,
+    "gn:latitude":-33.86272,
+    "gn:longitude":18.67998,
+    "gn:modification_date":"2016-08-24",
+    "gn:name":"Vredekloof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238393
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fefce263a3336103fc13bcb85c71eb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1243251579,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1243251579,
+    "wof:lastmodified":1537083274,
+    "wof:name":"Vredekloof",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67998,
+    -33.86272,
+    18.67998,
+    -33.86272
+],
+  "geometry": {"coordinates":[18.67998,-33.86272],"type":"Point"}
+}

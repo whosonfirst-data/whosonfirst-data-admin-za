@@ -1,0 +1,63 @@
+{
+  "id": 1209217711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66521,-28.01872,31.66521,-28.01872",
+    "geom:latitude":-28.01872,
+    "geom:longitude":31.66521,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN265",
+    "gn:asciiname":"KwaMateni",
+    "gn:country_code":"ZA",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":985644,
+    "gn:latitude":-28.01872,
+    "gn:longitude":31.66521,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaMateni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985644
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d00dd75cc16544873fa22618902e9657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209217711
+        }
+    ],
+    "wof:id":1209217711,
+    "wof:lastmodified":1536294073,
+    "wof:name":"KwaMateni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66521,
+    -28.01872,
+    31.66521,
+    -28.01872
+],
+  "geometry": {"coordinates":[31.66521,-28.01872],"type":"Point"}
+}

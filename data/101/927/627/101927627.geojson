@@ -1,0 +1,76 @@
+{
+  "id": 101927627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000278,
+    "geom:area_square_m":3032613.330385,
+    "geom:bbox":"30.54088974,-28.2454929352,30.5719642639,-28.2272872925",
+    "geom:latitude":-28.237058,
+    "geom:longitude":30.557251,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.237151,
+    "lbl:longitude":30.557251,
+    "mps:latitude":-28.237151,
+    "mps:longitude":30.557251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Saint Thomas Mission"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"St. Thomas Mission",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958215,
+        "gp:id":1580904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"145be4ab412c41482eaf56182e24fd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":101927627,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927627,
+    "wof:lastmodified":1501216570,
+    "wof:name":"St. Thomas Mission",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54088973999023,
+    -28.24549293518066,
+    30.57196426391602,
+    -28.22728729248047
+],
+  "geometry": {"coordinates":[[[30.54088973999023,-28.23734664916992],[30.54318237304688,-28.23712921142578],[30.55389976501465,-28.23265266418457],[30.55754661560059,-28.23164558410645],[30.56112289428711,-28.2304515838623],[30.56461334228516,-28.22907829284668],[30.56752586364746,-28.22728729248047],[30.5699462890625,-28.23270606994629],[30.57196426391602,-28.23767471313477],[30.56966781616211,-28.23856925964355],[30.56329154968262,-28.24035453796387],[30.55538368225098,-28.24326133728027],[30.54824066162109,-28.24549293518066],[30.54696846008301,-28.24526214599609],[30.54088973999023,-28.23734664916992]]],"type":"Polygon"}
+}

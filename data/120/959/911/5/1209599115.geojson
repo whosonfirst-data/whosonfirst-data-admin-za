@@ -1,0 +1,68 @@
+{
+  "id": 1209599115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02446,-25.88608,26.02446,-25.88608",
+    "geom:latitude":-25.88608,
+    "geom:longitude":26.02446,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW384",
+    "gn:asciiname":"Malapo Oog",
+    "gn:country_code":"ZA",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979861,
+    "gn:latitude":-25.88608,
+    "gn:longitude":26.02446,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Malapo Oog",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malapo\u2019s Oog",
+        "Mallepoos Oog",
+        "Malapo Oog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979861
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4589bfb5931de23d7c2da1dc5cba49dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209599115
+        }
+    ],
+    "wof:id":1209599115,
+    "wof:lastmodified":1537716407,
+    "wof:name":"Malapo Oog",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02446,
+    -25.88608,
+    26.02446,
+    -25.88608
+],
+  "geometry": {"coordinates":[26.02446,-25.88608],"type":"Point"}
+}

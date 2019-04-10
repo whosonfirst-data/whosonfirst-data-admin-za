@@ -1,0 +1,69 @@
+{
+  "id": 1259482361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87713,-31.35791,26.87713,-31.35791",
+    "geom:latitude":-31.35791,
+    "geom:longitude":26.87713,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Clarksdale",
+    "gn:country_code":"ZA",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1013387,
+    "gn:latitude":-31.35791,
+    "gn:longitude":26.87713,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Clarksdale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013387
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bc8aa48df84ce90fe14f76ba02dca927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1259482361,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259482361,
+    "wof:lastmodified":1536859121,
+    "wof:name":"Clarksdale",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87713,
+    -31.35791,
+    26.87713,
+    -31.35791
+],
+  "geometry": {"coordinates":[26.87713,-31.35791],"type":"Point"}
+}

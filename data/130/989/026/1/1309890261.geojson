@@ -1,0 +1,69 @@
+{
+  "id": 1309890261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78313,-22.89663,28.78313,-22.89663",
+    "geom:latitude":-22.89663,
+    "geom:longitude":28.78313,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM351",
+    "gn:asciiname":"Tlhonasedimong",
+    "gn:country_code":"ZA",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948633,
+    "gn:latitude":-22.89663,
+    "gn:longitude":28.78313,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tlhonasedimong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948633
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"85e07847c2cdd7f50f6b88cabe6b250a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1309890261,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1309890261,
+    "wof:lastmodified":1536809016,
+    "wof:name":"Tlhonasedimong",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78313,
+    -22.89663,
+    28.78313,
+    -22.89663
+],
+  "geometry": {"coordinates":[28.78313,-22.89663],"type":"Point"}
+}

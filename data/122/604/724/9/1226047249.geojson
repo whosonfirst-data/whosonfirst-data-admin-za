@@ -1,0 +1,73 @@
+{
+  "id": 1226047249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.14419,-31.76406,28.14419,-31.76406",
+    "geom:latitude":-31.76406,
+    "geom:longitude":28.14419,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Ngqokoto",
+    "gn:country_code":"ZA",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971010,
+    "gn:latitude":-31.76406,
+    "gn:longitude":28.14419,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngqokoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nggokoto",
+        "Ngqokoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971010
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"693aaaa684276aac12d784f48c9206ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1226047249,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226047249,
+    "wof:lastmodified":1537716392,
+    "wof:name":"Ngqokoto",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.14419,
+    -31.76406,
+    28.14419,
+    -31.76406
+],
+  "geometry": {"coordinates":[28.14419,-31.76406],"type":"Point"}
+}

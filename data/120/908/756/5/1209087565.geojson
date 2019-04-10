@@ -1,0 +1,67 @@
+{
+  "id": 1209087565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44373,-33.4956,21.44373,-33.4956",
+    "geom:latitude":-33.4956,
+    "geom:longitude":21.44373,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC041",
+    "gn:asciiname":"Zoar",
+    "gn:country_code":"ZA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936953,
+    "gn:latitude":-33.4956,
+    "gn:longitude":21.44373,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Zoar",
+    "gn:population":4659,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936953,
+        "wk:page":"Zoar%2C_Western_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7487c9d6fa2613ed664a479daa8f81e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209087565
+        }
+    ],
+    "wof:id":1209087565,
+    "wof:lastmodified":1537576355,
+    "wof:name":"Zoar",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:population":4659,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44373,
+    -33.4956,
+    21.44373,
+    -33.4956
+],
+  "geometry": {"coordinates":[21.44373,-33.4956],"type":"Point"}
+}

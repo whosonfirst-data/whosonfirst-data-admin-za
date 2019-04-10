@@ -1,0 +1,87 @@
+{
+  "id": 101924527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000309,
+    "geom:area_square_m":3472031.922593,
+    "geom:bbox":"31.1878662109,-24.732667923,31.2247848511,-24.720085144",
+    "geom:latitude":-24.725127,
+    "geom:longitude":31.205063,
+    "geonames:id":"960853,960854",
+    "iso:country":"ZA",
+    "lbl:latitude":-24.726241,
+    "lbl:longitude":31.20102,
+    "mps:latitude":-24.726241,
+    "mps:longitude":31.20102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Rolle"
+    ],
+    "name:dut_x_preferred":[
+        "Rolle"
+    ],
+    "name:eng_x_preferred":[
+        "Rolle"
+    ],
+    "name:nso_x_preferred":[
+        "Rolle"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rolle",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2911,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579365,
+        "wd:id":"Q7360985"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"28ee94492d0578b7c59bff360a596828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924527,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924527,
+    "wof:lastmodified":1527677688,
+    "wof:name":"Rolle",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1878662109375,
+    -24.73266792297363,
+    31.22478485107422,
+    -24.72008514404297
+],
+  "geometry": {"coordinates":[[[31.1878662109375,-24.72470664978027],[31.18914413452148,-24.72143936157227],[31.1931266784668,-24.72016525268555],[31.19890594482422,-24.72008514404297],[31.20647239685059,-24.72038459777832],[31.21048736572266,-24.72114181518555],[31.21537780761719,-24.72107315063477],[31.22115898132324,-24.72099113464355],[31.22338104248047,-24.7209587097168],[31.22473526000977,-24.72215843200684],[31.22478485107422,-24.72500228881836],[31.22348403930664,-24.72705078125],[31.22038650512695,-24.72790718078613],[31.21193695068359,-24.72802734375],[31.20794868469238,-24.72889518737793],[31.20398139953613,-24.73098182678223],[31.20133399963379,-24.73223686218262],[31.19956207275391,-24.73266792297363],[31.19732475280762,-24.73188781738281],[31.19372749328613,-24.72949981689453],[31.18924713134766,-24.72753143310547],[31.18788528442383,-24.72592544555664],[31.1878662109375,-24.72470664978027]]],"type":"Polygon"}
+}

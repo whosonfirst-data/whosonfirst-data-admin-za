@@ -1,0 +1,67 @@
+{
+  "id": 1310394383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8418,-27.11337,23.8418,-27.11337",
+    "geom:latitude":-27.11337,
+    "geom:longitude":23.8418,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maputsane",
+    "gn:country_code":"ZA",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979083,
+    "gn:latitude":-27.11337,
+    "gn:longitude":23.8418,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Maputsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979083
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"45476146ad04e73814e62caf1283d82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1310394383,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310394383,
+    "wof:lastmodified":1537074189,
+    "wof:name":"Maputsane",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8418,
+    -27.11337,
+    23.8418,
+    -27.11337
+],
+  "geometry": {"coordinates":[23.8418,-27.11337],"type":"Point"}
+}

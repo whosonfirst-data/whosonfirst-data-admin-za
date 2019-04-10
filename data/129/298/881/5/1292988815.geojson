@@ -1,0 +1,74 @@
+{
+  "id": 1292988815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33175,-34.00422,23.33175,-34.00422",
+    "geom:latitude":-34.00422,
+    "geom:longitude":23.33175,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC047",
+    "gn:asciiname":"Wittedrif",
+    "gn:country_code":"ZA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":938640,
+    "gn:latitude":-34.00422,
+    "gn:longitude":23.33175,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Wittedrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Witte Drift",
+        "Wittedrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":938640,
+        "wk:page":"Wittedrif"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"107ac41ad3c0455ccfc96b6268ebeca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1292988815,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1292988815,
+    "wof:lastmodified":1537716368,
+    "wof:name":"Wittedrif",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33175,
+    -34.00422,
+    23.33175,
+    -34.00422
+],
+  "geometry": {"coordinates":[23.33175,-34.00422],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309743771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68386,-30.6422,28.68386,-30.6422",
+    "geom:latitude":-30.6422,
+    "geom:longitude":28.68386,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Tshisane",
+    "gn:country_code":"ZA",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947864,
+    "gn:latitude":-30.6422,
+    "gn:longitude":28.68386,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tshisane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947864
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1989616ba722b7480b20e0c2fae6d26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1309743771,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309743771,
+    "wof:lastmodified":1537019769,
+    "wof:name":"Tshisane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68386,
+    -30.6422,
+    28.68386,
+    -30.6422
+],
+  "geometry": {"coordinates":[28.68386,-30.6422],"type":"Point"}
+}

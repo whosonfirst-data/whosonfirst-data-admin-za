@@ -1,0 +1,69 @@
+{
+  "id": 1326621813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80073,-25.6655,30.80073,-25.6655",
+    "geom:latitude":-25.6655,
+    "geom:longitude":30.80073,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP323",
+    "gn:asciiname":"Snymansbult",
+    "gn:country_code":"ZA",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954335,
+    "gn:latitude":-25.6655,
+    "gn:longitude":30.80073,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Snymansbult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954335
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"21eb98987340fe526a3417e74f47a373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1326621813,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1326621813,
+    "wof:lastmodified":1536853763,
+    "wof:name":"Snymansbult",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80073,
+    -25.6655,
+    30.80073,
+    -25.6655
+],
+  "geometry": {"coordinates":[30.80073,-25.6655],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1125959655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63376,-32.77477,26.63376,-32.77477",
+    "geom:latitude":-32.77477,
+    "geom:longitude":26.63376,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":58419,
+    "gn:population":58419,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.77477,
+    "lbl:longitude":26.63376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:cat_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u798f\u7279\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:dut_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:eng_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:fre_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:ger_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:ita_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:nso_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:pol_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:rum_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u0411\u043e\u0444\u043e\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:swe_x_preferred":[
+        "Fort Beaufort"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0631\u0679 \u0628\u06cc\u0648\u0641\u0648\u0631\u0679"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u798f\u7279\u6e2f"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1003953,
+    "qs_pg:gn_pop":58419,
+    "qs_pg:name":"Fort Beaufort",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":276198,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003953,
+        "qs_pg:id":276198,
+        "wd:id":"Q473216"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297749,
+    "wof:geomhash":"e57c4419ee480f7438f90b766ac1d774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1125959655,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125959655,
+    "wof:lastmodified":1514503871,
+    "wof:name":"Fort Beaufort",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:population":58419,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63376,
+    -32.77477,
+    26.63376,
+    -32.77477
+],
+  "geometry": {"coordinates":[26.63376,-32.77477],"type":"Point"}
+}

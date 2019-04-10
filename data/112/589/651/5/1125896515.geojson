@@ -1,0 +1,113 @@
+{
+  "id": 1125896515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03083,-33.2272,22.03083,-33.2272",
+    "geom:latitude":-33.2272,
+    "geom:longitude":22.03083,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.2272,
+    "lbl:longitude":22.03083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Prins Albert"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u4f2f\u7279\u89aa\u738b\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Prins Albert"
+    ],
+    "name:eng_x_preferred":[
+        "Prince Albert"
+    ],
+    "name:fre_x_preferred":[
+        "Prince Albert"
+    ],
+    "name:ger_x_preferred":[
+        "Prince Albert"
+    ],
+    "name:ita_x_preferred":[
+        "Prince Albert"
+    ],
+    "name:nso_x_preferred":[
+        "Prince Albert"
+    ],
+    "name:rum_x_preferred":[
+        "Prins Albert"
+    ],
+    "name:swe_x_preferred":[
+        "Prince Albert"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Prince Albert",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":136,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118892,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586646,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586646,
+        "qs_pg:id":1118892,
+        "wd:id":"Q1533623"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295595,
+    "wof:geomhash":"1b251fe61c11185f4fdd79f1bd43d484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730623,
+            "locality_id":1125896515,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125896515,
+    "wof:lastmodified":1553816609,
+    "wof:name":"Prince Albert",
+    "wof:parent_id":1108730623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03083,
+    -33.2272,
+    22.03083,
+    -33.2272
+],
+  "geometry": {"coordinates":[22.03083,-33.2272],"type":"Point"}
+}

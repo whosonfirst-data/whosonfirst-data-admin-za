@@ -1,0 +1,72 @@
+{
+  "id": 101923133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":1207543.011264,
+    "geom:bbox":"29.6369132996,-23.0301246643,29.6516551971,-23.0191078186",
+    "geom:latitude":-23.025467,
+    "geom:longitude":29.643042,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.025466,
+    "lbl:longitude":29.643042,
+    "mps:latitude":-23.025466,
+    "mps:longitude":29.643042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Midoroni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881279
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2ca28ec335ed5772ccff6158be355d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923133,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923133,
+    "wof:lastmodified":1500028345,
+    "wof:name":"Midoroni",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63691329956055,
+    -23.03012466430664,
+    29.65165519714355,
+    -23.01910781860352
+],
+  "geometry": {"coordinates":[[[29.64265251159668,-23.01910781860352],[29.64413070678711,-23.02056503295898],[29.644775390625,-23.02120018005371],[29.65139389038086,-23.0280818939209],[29.65165519714355,-23.02838897705078],[29.64876937866211,-23.03012466430664],[29.63691329956055,-23.02935981750488],[29.63774681091309,-23.02041816711426],[29.64265251159668,-23.01910781860352]]],"type":"Polygon"}
+}

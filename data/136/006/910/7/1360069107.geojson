@@ -1,0 +1,67 @@
+{
+  "id": 1360069107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77222,-27.43496,23.77222,-27.43496",
+    "geom:latitude":-27.43496,
+    "geom:longitude":23.77222,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Niks",
+    "gn:country_code":"ZA",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970561,
+    "gn:latitude":-27.43496,
+    "gn:longitude":23.77222,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Niks",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970561
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3e4f1adae4c40db15ad06884e4e31f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1360069107,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1360069107,
+    "wof:lastmodified":1536968474,
+    "wof:name":"Niks",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77222,
+    -27.43496,
+    23.77222,
+    -27.43496
+],
+  "geometry": {"coordinates":[23.77222,-27.43496],"type":"Point"}
+}

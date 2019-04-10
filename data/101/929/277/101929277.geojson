@@ -1,0 +1,70 @@
+{
+  "id": 101929277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":994125.712652,
+    "geom:bbox":"30.846370697,-30.092590332,30.8620014191,-30.0812416077",
+    "geom:latitude":-30.086875,
+    "geom:longitude":30.854151,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.087288,
+    "lbl:longitude":30.854033,
+    "mps:latitude":-30.087288,
+    "mps:longitude":30.854033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"St. Winifreds",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"872d8925491c3e82f194e2bdd8a0bd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929277,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929277,
+    "wof:lastmodified":1500027558,
+    "wof:name":"St. Winifreds",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84637069702148,
+    -30.09259033203125,
+    30.86200141906738,
+    -30.08124160766602
+],
+  "geometry": {"coordinates":[[[30.84696388244629,-30.08216667175293],[30.84637069702148,-30.08124160766602],[30.86200141906738,-30.08525848388672],[30.85932731628418,-30.0894832611084],[30.85736083984375,-30.09259033203125],[30.84910011291504,-30.08955001831055],[30.84893608093262,-30.08791351318359],[30.84872627258301,-30.08641242980957],[30.84835624694824,-30.08494758605957],[30.8477611541748,-30.08354949951172],[30.84696388244629,-30.08216667175293]]],"type":"Polygon"}
+}

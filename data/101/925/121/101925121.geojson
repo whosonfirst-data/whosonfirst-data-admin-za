@@ -1,0 +1,72 @@
+{
+  "id": 101925121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":1419610.256408,
+    "geom:bbox":"28.257434845,-25.2861461639,28.2736797333,-25.2710170746",
+    "geom:latitude":-25.278727,
+    "geom:longitude":28.265672,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.278667,
+    "lbl:longitude":28.265672,
+    "mps:latitude":-25.278667,
+    "mps:longitude":28.265672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dihibidung",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880972
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1f35531cd0ed86b16189b4e8be49926a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925121,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925121,
+    "wof:lastmodified":1500028272,
+    "wof:name":"Dihibidung",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2574348449707,
+    -25.28614616394043,
+    28.27367973327637,
+    -25.27101707458496
+],
+  "geometry": {"coordinates":[[[28.2574348449707,-25.27441596984863],[28.26628875732422,-25.27101707458496],[28.27367973327637,-25.28392219543457],[28.26543045043945,-25.28614616394043],[28.2574348449707,-25.27441596984863]]],"type":"Polygon"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 101926811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000587,
+    "geom:area_square_m":6393171.533671,
+    "geom:bbox":"29.1103496552,-28.2896003723,29.1488399506,-28.2590427399",
+    "geom:latitude":-28.274167,
+    "geom:longitude":29.129078,
+    "gn:population":35108,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.274439,
+    "lbl:longitude":29.129078,
+    "mps:latitude":-28.274439,
+    "mps:longitude":29.129078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Harrismith"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0440\u0438\u0441\u043c\u0438\u0442\u0445"
+    ],
+    "name:dan_x_preferred":[
+        "Harrismith"
+    ],
+    "name:dut_x_preferred":[
+        "Harrismith"
+    ],
+    "name:eng_x_preferred":[
+        "Harrismith"
+    ],
+    "name:fre_x_preferred":[
+        "Harrismith"
+    ],
+    "name:ger_x_preferred":[
+        "Harrismith"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05e8\u05d9\u05e1\u05de\u05d9\u05ea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30ea\u30b9\u30df\u30b9"
+    ],
+    "name:nso_x_preferred":[
+        "42nd Hill"
+    ],
+    "name:pol_x_preferred":[
+        "Harrismith"
+    ],
+    "name:rum_x_preferred":[
+        "Harrismith"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0440\u0438\u0441\u043c\u0438\u0442"
+    ],
+    "name:war_x_preferred":[
+        "Harrismith"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Harrismith",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.283333,
+    "wd:longitude":29.133333,
+    "wd:wordcount":1458,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997751,
+        "gp:id":1582113,
+        "qs:id":7796,
+        "qs_pg:id":7796,
+        "wd:id":"Q1586262",
+        "wk:page":"Harrismith"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"daccc41545ed94c2a95d4246d874b3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926811,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926811,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Harrismith",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:population":35108,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.11034965515137,
+    -28.28960037231445,
+    29.14883995056152,
+    -28.25904273986816
+],
+  "geometry": {"coordinates":[[[29.12299728393555,-28.28271484375],[29.1176929473877,-28.28280067443848],[29.11764144897461,-28.28031730651855],[29.11890602111816,-28.27837181091309],[29.11909103393555,-28.27682685852051],[29.11819648742676,-28.27568626403809],[29.11688041687012,-28.2751293182373],[29.1164493560791,-28.27532958984375],[29.11580085754395,-28.27553176879883],[29.1142578125,-28.27459526062012],[29.11034965515137,-28.26453018188477],[29.11272811889648,-28.26532173156738],[29.11454200744629,-28.26595687866211],[29.11496543884277,-28.26629066467285],[29.12306785583496,-28.25904273986816],[29.13587951660156,-28.26716995239258],[29.13813591003418,-28.26986122131348],[29.13839530944824,-28.27095031738281],[29.14883995056152,-28.27402496337891],[29.14448928833008,-28.28430557250977],[29.13840675354004,-28.28173446655273],[29.13796806335449,-28.2827205657959],[29.1330623626709,-28.28960037231445],[29.12792778015137,-28.28499031066895],[29.12299728393555,-28.28271484375]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327335545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92242,-26.7319,27.92242,-26.7319",
+    "geom:latitude":-26.7319,
+    "geom:longitude":27.92242,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS204",
+    "gn:asciiname":"Viljoensdrif",
+    "gn:country_code":"ZA",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943968,
+    "gn:latitude":-26.7319,
+    "gn:longitude":27.92242,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Viljoensdrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943968
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"275729e5d116c176a70e0335b1066a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1327335545,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1327335545,
+    "wof:lastmodified":1536819778,
+    "wof:name":"Viljoensdrif",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92242,
+    -26.7319,
+    27.92242,
+    -26.7319
+],
+  "geometry": {"coordinates":[27.92242,-26.7319],"type":"Point"}
+}

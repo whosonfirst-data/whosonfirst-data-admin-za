@@ -1,0 +1,70 @@
+{
+  "id": 101926381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":532378.463309,
+    "geom:bbox":"27.9317436218,-26.6332988739,27.9368133545,-26.6200389862",
+    "geom:latitude":-26.627544,
+    "geom:longitude":27.934722,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.627681,
+    "lbl:longitude":27.934722,
+    "mps:latitude":-26.627681,
+    "mps:longitude":27.934722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Unitas Park Agricultural Holdings",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"cb8faf4f7775a94e36a8a2eb817b39a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926381,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926381,
+    "wof:lastmodified":1500027714,
+    "wof:name":"Unitas Park Agricultural Holdings",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93174362182617,
+    -26.63329887390137,
+    27.93681335449219,
+    -26.62003898620605
+],
+  "geometry": {"coordinates":[[[27.93666648864746,-26.63329887390137],[27.93174362182617,-26.63301277160645],[27.93408393859863,-26.62003898620605],[27.93489837646484,-26.62054824829102],[27.93681335449219,-26.62174224853516],[27.93678092956543,-26.62431716918945],[27.93671989440918,-26.62905120849609],[27.93666648864746,-26.63329887390137]]],"type":"Polygon"}
+}

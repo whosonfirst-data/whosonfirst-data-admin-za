@@ -1,0 +1,73 @@
+{
+  "id": 1344152587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24843,-26.64725,27.24843,-26.64725",
+    "geom:latitude":-26.64725,
+    "geom:longitude":27.24843,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC40",
+    "gn:admin3_code":"NW402",
+    "gn:asciiname":"Klipdrif",
+    "gn:country_code":"ZA",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":989787,
+    "gn:latitude":-26.64725,
+    "gn:longitude":27.24843,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Klipdrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klipdrif Settlement",
+        "Klipdrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":989787
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"768d1dc8f760983bb8613ef5e77de19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":1344152587,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1344152587,
+    "wof:lastmodified":1537716417,
+    "wof:name":"Klipdrif",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24843,
+    -26.64725,
+    27.24843,
+    -26.64725
+],
+  "geometry": {"coordinates":[27.24843,-26.64725],"type":"Point"}
+}

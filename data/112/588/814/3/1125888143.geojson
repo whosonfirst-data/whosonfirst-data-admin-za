@@ -1,0 +1,134 @@
+{
+  "id": 1125888143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9442,-33.01167,17.9442,-33.01167",
+    "geom:latitude":-33.01167,
+    "geom:longitude":17.9442,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":68284,
+    "gn:population":68284,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.01167,
+    "lbl:longitude":17.9442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Saldanha"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0644\u062f\u0627\u0646\u0647\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Saldanha"
+    ],
+    "name:eng_x_preferred":[
+        "Saldanha"
+    ],
+    "name:fre_x_preferred":[
+        "Saldanha"
+    ],
+    "name:ger_x_preferred":[
+        "Saldanha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\u30c0\u30cb\u30e3\u30fb\u30d9\u30a4"
+    ],
+    "name:lat_x_preferred":[
+        "Saldanha"
+    ],
+    "name:nso_x_preferred":[
+        "Saldanha"
+    ],
+    "name:por_x_preferred":[
+        "Saldanha"
+    ],
+    "name:rum_x_preferred":[
+        "Saldanha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0434\u0430\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hoedjesbaai"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3361934,
+    "qs_pg:gn_pop":68284,
+    "qs_pg:name":"Saldanha",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1221056,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587148,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361934,
+        "gp:id":1587148,
+        "qs_pg:id":1221056,
+        "wd:id":"Q1643816"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295188,
+    "wof:geomhash":"cf23eca4a25de11bd0a3a15b43ca8a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125888143,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125888143,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Saldanha",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:population":68284,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908859
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9442,
+    -33.01167,
+    17.9442,
+    -33.01167
+],
+  "geometry": {"coordinates":[17.9442,-33.01167],"type":"Point"}
+}

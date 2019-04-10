@@ -1,0 +1,67 @@
+{
+  "id": 1277108399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55531,-30.17531,29.55531,-30.17531",
+    "geom:latitude":-30.17531,
+    "geom:longitude":29.55531,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"KwaDulathi",
+    "gn:country_code":"ZA",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985938,
+    "gn:latitude":-30.17531,
+    "gn:longitude":29.55531,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"KwaDulathi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985938
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e83792a2c03dc31d3eb2bca2755ecef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1277108399,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1277108399,
+    "wof:lastmodified":1536731035,
+    "wof:name":"KwaDulathi",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55531,
+    -30.17531,
+    29.55531,
+    -30.17531
+],
+  "geometry": {"coordinates":[29.55531,-30.17531],"type":"Point"}
+}

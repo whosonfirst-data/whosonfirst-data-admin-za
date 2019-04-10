@@ -1,0 +1,63 @@
+{
+  "id": 1209611941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16734,-28.54294,21.16734,-28.54294",
+    "geom:latitude":-28.54294,
+    "geom:longitude":21.16734,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC083",
+    "gn:asciiname":"Ses Brugge",
+    "gn:country_code":"ZA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956383,
+    "gn:latitude":-28.54294,
+    "gn:longitude":21.16734,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ses Brugge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956383
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75f6b04168c365e3257a1374ab646eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209611941
+        }
+    ],
+    "wof:id":1209611941,
+    "wof:lastmodified":1536281819,
+    "wof:name":"Ses Brugge",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16734,
+    -28.54294,
+    21.16734,
+    -28.54294
+],
+  "geometry": {"coordinates":[21.16734,-28.54294],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276430161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70785,-27.14688,23.70785,-27.14688",
+    "geom:latitude":-27.14688,
+    "geom:longitude":23.70785,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Skitter",
+    "gn:country_code":"ZA",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955053,
+    "gn:latitude":-27.14688,
+    "gn:longitude":23.70785,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Skitter",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scatter",
+        "Scattergood",
+        "Skitter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955053
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b7516b7263723f42b105fb21150c5fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1276430161,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276430161,
+    "wof:lastmodified":1537716378,
+    "wof:name":"Skitter",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70785,
+    -27.14688,
+    23.70785,
+    -27.14688
+],
+  "geometry": {"coordinates":[23.70785,-27.14688],"type":"Point"}
+}

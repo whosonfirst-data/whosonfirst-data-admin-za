@@ -1,0 +1,72 @@
+{
+  "id": 101928991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1350899.537302,
+    "geom:bbox":"26.7738800049,-32.1766548157,26.793504715,-32.1661567688",
+    "geom:latitude":-32.171007,
+    "geom:longitude":26.783232,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.170814,
+    "lbl:longitude":26.783045,
+    "mps:latitude":-32.170814,
+    "mps:longitude":26.783045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mount Tylden",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881542
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2a8627124c17fd4208138ad39e7b02b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928991,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928991,
+    "wof:lastmodified":1500027892,
+    "wof:name":"Mount Tylden",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77388000488281,
+    -32.17665481567383,
+    26.79350471496582,
+    -32.16615676879883
+],
+  "geometry": {"coordinates":[[[26.79350471496582,-32.16928100585938],[26.79278373718262,-32.17181015014648],[26.78833961486816,-32.17278671264648],[26.77908897399902,-32.17599868774414],[26.77501106262207,-32.17665481567383],[26.77388000488281,-32.17445373535156],[26.77422142028809,-32.17097854614258],[26.78012847900391,-32.16747283935547],[26.78828239440918,-32.16615676879883],[26.7919979095459,-32.16676712036133],[26.79350471496582,-32.16928100585938]]],"type":"Polygon"}
+}

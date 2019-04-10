@@ -1,0 +1,70 @@
+{
+  "id": 101925749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":321081.911344,
+    "geom:bbox":"28.3388614655,-26.1249656677,28.3447341919,-26.1160545349",
+    "geom:latitude":-26.120624,
+    "geom:longitude":28.34137,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.120767,
+    "lbl:longitude":28.34108,
+    "mps:latitude":-26.120767,
+    "mps:longitude":28.34108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Slaterville Agricultural Holdings",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"0e6505c9fc897c1dba6d2d4bf80deb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925749,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925749,
+    "wof:lastmodified":1500027720,
+    "wof:name":"Slaterville Agricultural Holdings",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3388614654541,
+    -26.12496566772461,
+    28.34473419189453,
+    -26.11605453491211
+],
+  "geometry": {"coordinates":[[[28.3389949798584,-26.12197685241699],[28.3388614654541,-26.11616325378418],[28.34026527404785,-26.11605453491211],[28.34473419189453,-26.12238693237305],[28.34387016296387,-26.12496566772461],[28.3389949798584,-26.12197685241699]]],"type":"Polygon"}
+}

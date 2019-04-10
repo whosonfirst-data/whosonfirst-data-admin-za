@@ -1,0 +1,72 @@
+{
+  "id": 101928865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1545169.644866,
+    "geom:bbox":"27.2185726166,-31.9236736298,27.2390670776,-31.9103393555",
+    "geom:latitude":-31.917492,
+    "geom:longitude":27.228183,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.918567,
+    "lbl:longitude":27.229735,
+    "mps:latitude":-31.918567,
+    "mps:longitude":27.229735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makhihi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cf1f48f11a4aac944ec491523b2789cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928865,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928865,
+    "wof:lastmodified":1500027877,
+    "wof:name":"Makhihi",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21857261657715,
+    -31.92367362976074,
+    27.23906707763672,
+    -31.91033935546875
+],
+  "geometry": {"coordinates":[[[27.21939086914062,-31.91033935546875],[27.22406387329102,-31.91128730773926],[27.22351455688477,-31.91377830505371],[27.23429489135742,-31.91392135620117],[27.23607635498047,-31.91638946533203],[27.2360897064209,-31.91738319396973],[27.23787498474121,-31.92009925842285],[27.23906707763672,-31.92207527160645],[27.23469734191895,-31.92211723327637],[27.22801780700684,-31.92367362976074],[27.2253589630127,-31.92096519470215],[27.22331619262695,-31.92073822021484],[27.21976470947266,-31.91654777526855],[27.21857261657715,-31.91457176208496],[27.21939086914062,-31.91033935546875]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293195615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16488,-26.93179,23.16488,-26.93179",
+    "geom:latitude":-26.93179,
+    "geom:longitude":23.16488,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Metsemantsi (4)",
+    "gn:country_code":"ZA",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976864,
+    "gn:latitude":-26.93179,
+    "gn:longitude":23.16488,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Metsemantsi (4)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976864
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0c9a4f2ec07584026c147dfe34725358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1293195615,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1293195615,
+    "wof:lastmodified":1536711187,
+    "wof:name":"Metsemantsi (4)",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16488,
+    -26.93179,
+    23.16488,
+    -26.93179
+],
+  "geometry": {"coordinates":[23.16488,-26.93179],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 85783197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6166324.653278,
+    "geom:bbox":"18.96262,-33.710662,18.96262,-33.710662",
+    "geom:latitude":-33.710662,
+    "geom:longitude":18.96262,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-33.710662,
+    "lbl:longitude":18.96262,
+    "mps:latitude":-33.712491,
+    "mps:longitude":18.965042,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Groenvlei"
+    ],
+    "name:unk_x_variant":[
+        "Groenvlei"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":142,
+    "qs:local_sum":290,
+    "qs:localhoods":6,
+    "qs:name":"Groenvlei",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"Cape Winelands",
+    "qs:name_lau":"Drakenstein",
+    "qs:name_local":"Paarl",
+    "qs:photo_max":28,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189424,
+    "qs:woe_lau":56189688,
+    "qs:woe_local":1586388,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730615,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878983,
+        "qs:id":1155249
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2c7fa60f9379cfdc6efe568c2a64a73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":-1,
+            "neighbourhood_id":85783197,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783197,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860467,
+    "wof:name":"Groenvlei",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96262,
+    -33.710662,
+    18.96262,
+    -33.710662
+],
+  "geometry": {"coordinates":[18.96262,-33.710662],"type":"Point"}
+}

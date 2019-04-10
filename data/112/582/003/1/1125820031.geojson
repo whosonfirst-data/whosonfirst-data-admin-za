@@ -1,0 +1,105 @@
+{
+  "id": 1125820031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21613,-30.71084,27.21613,-30.71084",
+    "geom:latitude":-30.71084,
+    "geom:longitude":27.21613,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.71084,
+    "lbl:longitude":27.21613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u96f7\u592b\u4eba\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:eng_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:ger_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:ita_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:nso_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:rum_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:tsn_x_preferred":[
+        "Lady Grey"
+    ],
+    "name:ven_x_preferred":[
+        "Lady Grey"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":985004,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lady Grey",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130236,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985004,
+        "qs_pg:id":130236,
+        "wd:id":"Q155456"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292005,
+    "wof:geomhash":"9b3daaf314286268c0b6bf25340da16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1125820031,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125820031,
+    "wof:lastmodified":1514503943,
+    "wof:name":"Lady Grey",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21613,
+    -30.71084,
+    27.21613,
+    -30.71084
+],
+  "geometry": {"coordinates":[27.21613,-30.71084],"type":"Point"}
+}

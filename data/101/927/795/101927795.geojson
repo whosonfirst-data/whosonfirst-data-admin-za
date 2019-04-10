@@ -1,0 +1,111 @@
+{
+  "id": 101927795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":1167776.267492,
+    "geom:bbox":"30.5743141174,-29.437379837,30.5892658234,-29.4277229309",
+    "geom:latitude":-29.432125,
+    "geom:longitude":30.581919,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.4323,
+    "lbl:longitude":30.581776,
+    "mps:latitude":-29.4323,
+    "mps:longitude":30.581776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Wartburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u7279\u5821"
+    ],
+    "name:deu_x_preferred":[
+        "Wartburg"
+    ],
+    "name:dut_x_preferred":[
+        "Wartburg"
+    ],
+    "name:eng_x_preferred":[
+        "Wartburg"
+    ],
+    "name:fre_x_preferred":[
+        "Wartburg"
+    ],
+    "name:ger_x_preferred":[
+        "Wartburg"
+    ],
+    "name:ita_x_preferred":[
+        "Wartburg"
+    ],
+    "name:nld_x_preferred":[
+        "Wartburg"
+    ],
+    "name:nso_x_preferred":[
+        "Wartburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u7279\u5821"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wartburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.4167,
+    "wd:longitude":30.5667,
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941923,
+        "gp:id":1588754,
+        "wd:id":"Q985805",
+        "wk:page":"Wartburg, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"beca35c0ae17b7423fb2dab68f0c07d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927795,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927795,
+    "wof:lastmodified":1527715638,
+    "wof:name":"Wartburg",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57431411743164,
+    -29.43737983703613,
+    30.58926582336426,
+    -29.4277229309082
+],
+  "geometry": {"coordinates":[[[30.58835983276367,-29.43737983703613],[30.58714294433594,-29.43672943115234],[30.58551216125488,-29.43629837036133],[30.58331108093262,-29.43595504760742],[30.58152198791504,-29.43568420410156],[30.57971572875977,-29.43549156188965],[30.57790374755859,-29.4354133605957],[30.57609748840332,-29.43548202514648],[30.57431411743164,-29.43598556518555],[30.57465744018555,-29.43162536621094],[30.5748348236084,-29.42938804626465],[30.57535552978516,-29.42803573608398],[30.5771656036377,-29.4277229309082],[30.57896423339844,-29.42782211303711],[30.58050727844238,-29.42850303649902],[30.58359527587891,-29.42941474914551],[30.58566093444824,-29.42806816101074],[30.58746528625488,-29.42784690856934],[30.58926582336426,-29.42875480651855],[30.58892631530762,-29.43198585510254],[30.58835983276367,-29.43737983703613]]],"type":"Polygon"}
+}

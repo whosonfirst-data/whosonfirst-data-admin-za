@@ -1,0 +1,102 @@
+{
+  "id": 101926873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":117142.171502,
+    "geom:bbox":"25.2504920959,-28.5466537476,25.2533226013,-28.5420303345",
+    "geom:latitude":-28.544172,
+    "geom:longitude":25.251987,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.54421,
+    "lbl:longitude":25.25196,
+    "mps:latitude":-28.54421,
+    "mps:longitude":25.25196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Boshof"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u65af\u970d\u592b"
+    ],
+    "name:dut_x_preferred":[
+        "Boshof"
+    ],
+    "name:eng_x_preferred":[
+        "Boshof"
+    ],
+    "name:ger_x_preferred":[
+        "Boshof"
+    ],
+    "name:ita_x_preferred":[
+        "Boshof"
+    ],
+    "name:nso_x_preferred":[
+        "Boshof"
+    ],
+    "name:rum_x_preferred":[
+        "Boshof"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Boshof",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.55,
+    "wd:longitude":25.233333,
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017048,
+        "gp:id":1580021,
+        "wd:id":"Q2256832",
+        "wk:page":"Boshof"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"01861ac675f3aefbcbde460252823a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926873,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926873,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Boshof",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25049209594727,
+    -28.54665374755859,
+    25.25332260131836,
+    -28.54203033447266
+],
+  "geometry": {"coordinates":[[[25.25327491760254,-28.54586982727051],[25.25326728820801,-28.54631996154785],[25.25313377380371,-28.54665374755859],[25.25212287902832,-28.54630470275879],[25.2509880065918,-28.54572677612305],[25.25049209594727,-28.54493522644043],[25.25051498413086,-28.54369926452637],[25.25053215026855,-28.54269027709961],[25.25079154968262,-28.54235649108887],[25.25156021118164,-28.54203033447266],[25.25245094299316,-28.54204177856445],[25.25308036804199,-28.54238700866699],[25.25332260131836,-28.54306411743164],[25.25327491760254,-28.54586982727051]]],"type":"Polygon"}
+}

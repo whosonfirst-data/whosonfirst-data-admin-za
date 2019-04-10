@@ -1,0 +1,69 @@
+{
+  "id": 1276681363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06484,-31.05001,29.06484,-31.05001",
+    "geom:latitude":-31.05001,
+    "geom:longitude":29.06484,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Ngcepeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971196,
+    "gn:latitude":-31.05001,
+    "gn:longitude":29.06484,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngcepeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971196
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5ec995cdcac5d7bb128e12c3c1094eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1276681363,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276681363,
+    "wof:lastmodified":1536809034,
+    "wof:name":"Ngcepeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06484,
+    -31.05001,
+    29.06484,
+    -31.05001
+],
+  "geometry": {"coordinates":[29.06484,-31.05001],"type":"Point"}
+}

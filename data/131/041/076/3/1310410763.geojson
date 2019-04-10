@@ -1,0 +1,69 @@
+{
+  "id": 1310410763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42478,-33.08448,25.42478,-33.08448",
+    "geom:latitude":-33.08448,
+    "geom:longitude":25.42478,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC102",
+    "gn:asciiname":"Populierplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":964437,
+    "gn:latitude":-33.08448,
+    "gn:longitude":25.42478,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Populierplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964437
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39eb6b81f34a49f2842238577b0dad4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1310410763,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310410763,
+    "wof:lastmodified":1537051472,
+    "wof:name":"Populierplaas",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42478,
+    -33.08448,
+    25.42478,
+    -33.08448
+],
+  "geometry": {"coordinates":[25.42478,-33.08448],"type":"Point"}
+}

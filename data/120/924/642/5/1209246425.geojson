@@ -1,0 +1,67 @@
+{
+  "id": 1209246425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56458,-32.28751,28.56458,-32.28751",
+    "geom:latitude":-32.28751,
+    "geom:longitude":28.56458,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Ntengisani",
+    "gn:country_code":"ZA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969230,
+    "gn:latitude":-32.28751,
+    "gn:longitude":28.56458,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ntengisani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntsame",
+        "Ntengisani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969230
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"97d4a168b11c8f9f9815037dde9cac71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246425
+        }
+    ],
+    "wof:id":1209246425,
+    "wof:lastmodified":1537716389,
+    "wof:name":"Ntengisani",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56458,
+    -32.28751,
+    28.56458,
+    -32.28751
+],
+  "geometry": {"coordinates":[28.56458,-32.28751],"type":"Point"}
+}

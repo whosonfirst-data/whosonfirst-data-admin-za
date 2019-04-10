@@ -1,0 +1,86 @@
+{
+  "id": 101924517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":2098736.627789,
+    "geom:bbox":"31.2181892395,-24.7035121918,31.2329311371,-24.6786022186",
+    "geom:latitude":-24.690469,
+    "geom:longitude":31.225193,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.690324,
+    "lbl:longitude":31.22469,
+    "mps:latitude":-24.690324,
+    "mps:longitude":31.22469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Edinburgh"
+    ],
+    "name:dut_x_preferred":[
+        "Edinburgh"
+    ],
+    "name:eng_x_preferred":[
+        "Edinburgh"
+    ],
+    "name:nso_x_preferred":[
+        "Edinburgh"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Edinburgh",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006812,
+        "gp:id":1579365,
+        "wd:id":"Q5338135"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"be4510ca81b7b9340219736571f341c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924517,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924517,
+    "wof:lastmodified":1514503858,
+    "wof:name":"Edinburgh",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21818923950195,
+    -24.70351219177246,
+    31.23293113708496,
+    -24.67860221862793
+],
+  "geometry": {"coordinates":[[[31.22044372558594,-24.70291328430176],[31.21818923950195,-24.70281982421875],[31.22232437133789,-24.6848201751709],[31.22447776794434,-24.68072700500488],[31.22622871398926,-24.6790771484375],[31.22977828979492,-24.67862129211426],[31.23111152648926,-24.67860221862793],[31.23245811462402,-24.67939567565918],[31.23293113708496,-24.6810131072998],[31.23122787475586,-24.68550682067871],[31.227783203125,-24.69205474853516],[31.22500228881836,-24.70351219177246],[31.22486305236816,-24.70347023010254],[31.22044372558594,-24.70291328430176]]],"type":"Polygon"}
+}

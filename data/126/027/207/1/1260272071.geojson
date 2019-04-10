@@ -1,0 +1,73 @@
+{
+  "id": 1260272071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92849,-26.83644,23.92849,-26.83644",
+    "geom:latitude":-26.83644,
+    "geom:longitude":23.92849,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Tlapeng",
+    "gn:country_code":"ZA",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948663,
+    "gn:latitude":-26.83644,
+    "gn:longitude":23.92849,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tlapeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tlaping",
+        "Tlapeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948663
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"58da044999bb931dbb7d9ce97d423ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1260272071,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1260272071,
+    "wof:lastmodified":1537716374,
+    "wof:name":"Tlapeng",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92849,
+    -26.83644,
+    23.92849,
+    -26.83644
+],
+  "geometry": {"coordinates":[23.92849,-26.83644],"type":"Point"}
+}

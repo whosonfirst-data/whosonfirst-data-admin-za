@@ -1,0 +1,69 @@
+{
+  "id": 1310026951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96818,-24.59852,30.96818,-24.59852",
+    "geom:latitude":-24.59852,
+    "geom:longitude":30.96818,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP325",
+    "gn:asciiname":"Ga-Boelang",
+    "gn:country_code":"ZA",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003508,
+    "gn:latitude":-24.59852,
+    "gn:longitude":30.96818,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Ga-Boelang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003508
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"49d981bd75faad27c562dd234292ed0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1310026951,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1310026951,
+    "wof:lastmodified":1536609757,
+    "wof:name":"Ga-Boelang",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96818,
+    -24.59852,
+    30.96818,
+    -24.59852
+],
+  "geometry": {"coordinates":[30.96818,-24.59852],"type":"Point"}
+}

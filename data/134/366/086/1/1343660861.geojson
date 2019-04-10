@@ -1,0 +1,73 @@
+{
+  "id": 1343660861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24622,-31.8103,29.24622,-31.8103",
+    "geom:latitude":-31.8103,
+    "geom:longitude":29.24622,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Ntabangcuka",
+    "gn:country_code":"ZA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969341,
+    "gn:latitude":-31.8103,
+    "gn:longitude":29.24622,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ntabangcuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntabencuka",
+        "Ntabangcuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969341
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"190d3029d2b530099acd0a978bd915e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1343660861,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343660861,
+    "wof:lastmodified":1537716389,
+    "wof:name":"Ntabangcuka",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24622,
+    -31.8103,
+    29.24622,
+    -31.8103
+],
+  "geometry": {"coordinates":[29.24622,-31.8103],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125382593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79958,-30.3468,28.79958,-30.3468",
+    "geom:latitude":-30.3468,
+    "geom:longitude":28.79958,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":258758,
+    "gn:population":258758,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.3468,
+    "lbl:longitude":28.79958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347483,
+    "qs_pg:gn_pop":258758,
+    "qs_pg:name":"Matatiele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":381652,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347483,
+        "qs_pg:id":381652
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048143,
+    "wof:geomhash":"60a26ff4bb1393e3240f15d89e5fe150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "localadmin_id":1125382593,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125382593,
+    "wof:lastmodified":1509389627,
+    "wof:name":"Matatiele",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"localadmin",
+    "wof:population":258758,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79958,
+    -30.3468,
+    28.79958,
+    -30.3468
+],
+  "geometry": {"coordinates":[28.79958,-30.3468],"type":"Point"}
+}

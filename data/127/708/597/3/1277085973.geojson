@@ -1,0 +1,69 @@
+{
+  "id": 1277085973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06667,-29.25,26.06667,-29.25",
+    "geom:latitude":-29.25,
+    "geom:longitude":26.06667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Sterlefontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":952272,
+    "gn:latitude":-29.25,
+    "gn:longitude":26.06667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sterlefontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952272
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ddc451c23696c982de537f6a7929bc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1277085973,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1277085973,
+    "wof:lastmodified":1536763213,
+    "wof:name":"Sterlefontein",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06667,
+    -29.25,
+    26.06667,
+    -29.25
+],
+  "geometry": {"coordinates":[26.06667,-29.25],"type":"Point"}
+}

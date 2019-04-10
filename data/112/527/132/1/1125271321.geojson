@@ -1,0 +1,78 @@
+{
+  "id": 1125271321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57242,-30.20917,30.57242,-30.20917",
+    "geom:latitude":-30.20917,
+    "geom:longitude":30.57242,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":74017,
+    "gn:population":74017,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.20917,
+    "lbl:longitude":30.57242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347489,
+    "qs_pg:gn_pop":74017,
+    "qs_pg:name":"Vulamehlo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764929,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347489,
+        "qs_pg:id":764929
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042139,
+    "wof:geomhash":"7ceea6c4a6187b93c1f50c6dc51053fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "localadmin_id":1125271321,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125271321,
+    "wof:lastmodified":1509387029,
+    "wof:name":"Vulamehlo",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"localadmin",
+    "wof:population":74017,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57242,
+    -30.20917,
+    30.57242,
+    -30.20917
+],
+  "geometry": {"coordinates":[30.57242,-30.20917],"type":"Point"}
+}

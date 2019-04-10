@@ -1,0 +1,67 @@
+{
+  "id": 1309816363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.92245,-30.49165,28.92245,-30.49165",
+    "geom:latitude":-30.49165,
+    "geom:longitude":28.92245,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Paspalum",
+    "gn:country_code":"ZA",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":966163,
+    "gn:latitude":-30.49165,
+    "gn:longitude":28.92245,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Paspalum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966163
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"212c876343c3122a5c87e2b5e6b84f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1309816363,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309816363,
+    "wof:lastmodified":1536916294,
+    "wof:name":"Paspalum",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.92245,
+    -30.49165,
+    28.92245,
+    -30.49165
+],
+  "geometry": {"coordinates":[28.92245,-30.49165],"type":"Point"}
+}

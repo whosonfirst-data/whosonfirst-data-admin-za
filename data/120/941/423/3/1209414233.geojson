@@ -1,0 +1,68 @@
+{
+  "id": 1209414233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15,-31.25,29.15,-31.25",
+    "geom:latitude":-31.25,
+    "geom:longitude":29.15,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Nogeya",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970215,
+    "gn:latitude":-31.25,
+    "gn:longitude":29.15,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nogeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nogaya",
+        "Nogeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970215
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bc752fd21c2c8906a016cf1494b42daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209414233
+        }
+    ],
+    "wof:id":1209414233,
+    "wof:lastmodified":1537716390,
+    "wof:name":"Nogeya",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15,
+    -31.25,
+    29.15,
+    -31.25
+],
+  "geometry": {"coordinates":[29.15,-31.25],"type":"Point"}
+}

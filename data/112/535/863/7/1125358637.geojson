@@ -1,0 +1,78 @@
+{
+  "id": 1125358637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.39947,-26.41692,27.39947,-26.41692",
+    "geom:latitude":-26.41692,
+    "geom:longitude":27.39947,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":215865,
+    "gn:population":215865,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.41692,
+    "lbl:longitude":27.39947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347459,
+    "qs_pg:gn_pop":215865,
+    "qs_pg:name":"Merafong City",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764904,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347459,
+        "qs_pg:id":764904
+    },
+    "wof:country":"ZA",
+    "wof:created":1497046636,
+    "wof:geomhash":"e5fcd3d3a4c6f77b77834aea2f8951eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "localadmin_id":1125358637,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125358637,
+    "wof:lastmodified":1509389015,
+    "wof:name":"Merafong City",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"localadmin",
+    "wof:population":215865,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.39947,
+    -26.41692,
+    27.39947,
+    -26.41692
+],
+  "geometry": {"coordinates":[27.39947,-26.41692],"type":"Point"}
+}

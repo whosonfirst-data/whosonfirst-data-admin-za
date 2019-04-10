@@ -1,0 +1,74 @@
+{
+  "id": 1343358259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1,-31.56667,29.1,-31.56667",
+    "geom:latitude":-31.56667,
+    "geom:longitude":29.1,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Ntlaza",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969168,
+    "gn:latitude":-31.56667,
+    "gn:longitude":29.1,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ntlaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Barnabas",
+        "Ntlaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969168
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"35d4d5fe864537b57617870c032a3191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1343358259,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343358259,
+    "wof:lastmodified":1537716388,
+    "wof:name":"Ntlaza",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1,
+    -31.56667,
+    29.1,
+    -31.56667
+],
+  "geometry": {"coordinates":[29.1,-31.56667],"type":"Point"}
+}

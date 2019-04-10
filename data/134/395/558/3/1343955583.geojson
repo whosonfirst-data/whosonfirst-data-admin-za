@@ -1,0 +1,67 @@
+{
+  "id": 1343955583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21667,-26.68333,31.21667,-26.68333",
+    "geom:latitude":-26.68333,
+    "geom:longitude":31.21667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kristal",
+    "gn:country_code":"ZA",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":987188,
+    "gn:latitude":-26.68333,
+    "gn:longitude":31.21667,
+    "gn:modification_date":"2004-12-22",
+    "gn:name":"Kristal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678219,
+        1108561231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":987188
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"de9d4649b8a4fa270f64b1b257097beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561231,
+            "locality_id":1343955583,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":1343955583,
+    "wof:lastmodified":1537025931,
+    "wof:name":"Kristal",
+    "wof:parent_id":1108561231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21667,
+    -26.68333,
+    31.21667,
+    -26.68333
+],
+  "geometry": {"coordinates":[31.21667,-26.68333],"type":"Point"}
+}

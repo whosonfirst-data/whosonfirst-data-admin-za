@@ -1,0 +1,72 @@
+{
+  "id": 101928895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000202,
+    "geom:area_square_m":2115560.799479,
+    "geom:bbox":"27.5093250275,-31.9687423706,27.528377533,-31.9529666901",
+    "geom:latitude":-31.960591,
+    "geom:longitude":27.519168,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.96053,
+    "lbl:longitude":27.519168,
+    "mps:latitude":-31.96053,
+    "mps:longitude":27.519168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ntabeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586685
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"40b82ffa78f4ac1fb42889dcf3db176a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928895,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928895,
+    "wof:lastmodified":1500027886,
+    "wof:name":"Ntabeni",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50932502746582,
+    -31.96874237060547,
+    27.52837753295898,
+    -31.95296669006348
+],
+  "geometry": {"coordinates":[[[27.51570320129395,-31.95296669006348],[27.52091598510742,-31.95438003540039],[27.52833557128906,-31.95834732055664],[27.52837753295898,-31.96092796325684],[27.52758026123047,-31.96499443054199],[27.524169921875,-31.96798515319824],[27.52245140075684,-31.96874237060547],[27.50980567932129,-31.96262550354004],[27.50932502746582,-31.95968055725098],[27.5118408203125,-31.95485687255859],[27.51570320129395,-31.95296669006348]]],"type":"Polygon"}
+}

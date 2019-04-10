@@ -1,0 +1,63 @@
+{
+  "id": 1209246493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.50678,-30.56768,27.50678,-30.56768",
+    "geom:latitude":-30.56768,
+    "geom:longitude":27.50678,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC142",
+    "gn:asciiname":"Mavelebayi",
+    "gn:country_code":"ZA",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977912,
+    "gn:latitude":-30.56768,
+    "gn:longitude":27.50678,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mavelebayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977912
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3bacefeeec481e03358fac5f5c4c01c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246493
+        }
+    ],
+    "wof:id":1209246493,
+    "wof:lastmodified":1536293147,
+    "wof:name":"Mavelebayi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50678,
+    -30.56768,
+    27.50678,
+    -30.56768
+],
+  "geometry": {"coordinates":[27.50678,-30.56768],"type":"Point"}
+}

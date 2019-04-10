@@ -1,0 +1,78 @@
+{
+  "id": 1125398915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14557,-27.36815,32.14557,-27.36815",
+    "geom:latitude":-27.36815,
+    "geom:longitude":32.14557,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":207250,
+    "gn:population":207250,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.36815,
+    "lbl:longitude":32.14557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347448,
+    "qs_pg:gn_pop":207250,
+    "qs_pg:name":"Jozini",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1063888,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347448,
+        "qs_pg:id":1063888
+    },
+    "wof:country":"ZA",
+    "wof:created":1497049192,
+    "wof:geomhash":"1500f9b623e42918e22aac6e89855622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "localadmin_id":1125398915,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125398915,
+    "wof:lastmodified":1509390010,
+    "wof:name":"Jozini",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"localadmin",
+    "wof:population":207250,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14557,
+    -27.36815,
+    32.14557,
+    -27.36815
+],
+  "geometry": {"coordinates":[32.14557,-27.36815],"type":"Point"}
+}

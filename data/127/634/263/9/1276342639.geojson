@@ -1,0 +1,70 @@
+{
+  "id": 1276342639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.171,-29.13,26.171,-29.13",
+    "geom:latitude":-29.13,
+    "geom:longitude":26.171,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Gardenia Park",
+    "gn:country_code":"ZA",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353029,
+    "gn:latitude":-29.13,
+    "gn:longitude":26.171,
+    "gn:modification_date":"2017-02-16",
+    "gn:name":"Gardenia Park",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353029,
+        "wk:page":"Gardenia_Park"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ae235509df70d4d2512bd3319a5d12d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1276342639,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276342639,
+    "wof:lastmodified":1537576374,
+    "wof:name":"Gardenia Park",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.171,
+    -29.13,
+    26.171,
+    -29.13
+],
+  "geometry": {"coordinates":[26.171,-29.13],"type":"Point"}
+}

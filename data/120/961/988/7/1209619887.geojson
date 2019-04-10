@@ -1,0 +1,63 @@
+{
+  "id": 1209619887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48589,-30.93121,29.48589,-30.93121",
+    "geom:latitude":-30.93121,
+    "geom:longitude":29.48589,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"KwaManci",
+    "gn:country_code":"ZA",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985674,
+    "gn:latitude":-30.93121,
+    "gn:longitude":29.48589,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"KwaManci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985674
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"231c6e408e1e7eb8d3f2ad54c3dba592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209619887
+        }
+    ],
+    "wof:id":1209619887,
+    "wof:lastmodified":1536281556,
+    "wof:name":"KwaManci",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48589,
+    -30.93121,
+    29.48589,
+    -30.93121
+],
+  "geometry": {"coordinates":[29.48589,-30.93121],"type":"Point"}
+}

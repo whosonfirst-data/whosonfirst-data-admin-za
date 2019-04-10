@@ -1,0 +1,69 @@
+{
+  "id": 1277096203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46409,-29.49871,20.46409,-29.49871",
+    "geom:latitude":-29.49871,
+    "geom:longitude":20.46409,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Verschep",
+    "gn:country_code":"ZA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":944144,
+    "gn:latitude":-29.49871,
+    "gn:longitude":20.46409,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Verschep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944144
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f071f336e5f5cfd18058e908bdb6fd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1277096203,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1277096203,
+    "wof:lastmodified":1536748085,
+    "wof:name":"Verschep",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46409,
+    -29.49871,
+    20.46409,
+    -29.49871
+],
+  "geometry": {"coordinates":[20.46409,-29.49871],"type":"Point"}
+}

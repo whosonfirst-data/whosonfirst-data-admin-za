@@ -1,0 +1,72 @@
+{
+  "id": 101929033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":824451.302337,
+    "geom:bbox":"26.9345436096,-32.6701545715,26.9542179108,-32.6585540771",
+    "geom:latitude":-32.664199,
+    "geom:longitude":26.944247,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.664066,
+    "lbl:longitude":26.944396,
+    "mps:latitude":-32.664066,
+    "mps:longitude":26.944396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gilton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579412
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4670ccf7ddf21c633837bcfe9f60bb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929033,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929033,
+    "wof:lastmodified":1500027823,
+    "wof:name":"Gilton",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93454360961914,
+    -32.6701545715332,
+    26.9542179107666,
+    -32.65855407714844
+],
+  "geometry": {"coordinates":[[[26.93472099304199,-32.65855407714844],[26.93686103820801,-32.65925979614258],[26.94820022583008,-32.66314315795898],[26.9542179107666,-32.66760635375977],[26.95104598999023,-32.6701545715332],[26.94589424133301,-32.66694641113281],[26.93454360961914,-32.66197967529297],[26.93472099304199,-32.65855407714844]]],"type":"Polygon"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 85783231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9373765.754601,
+    "geom:bbox":"18.431454,-34.194424,18.431454,-34.194424",
+    "geom:latitude":-34.194424,
+    "geom:longitude":18.431454,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-34.194424,
+    "lbl:longitude":18.431454,
+    "mps:latitude":-34.19423,
+    "mps:longitude":18.443059,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Simons Kloof"
+    ],
+    "name:unk_x_variant":[
+        "Simons Kloof"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":3361618,
+    "qs:gn_nam_loc":"Simon's Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":3748,
+    "qs:local_sum":4039,
+    "qs:localhoods":3,
+    "qs:name":"Simons Kloof",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Simon's Town",
+    "qs:photo_max":514,
+    "qs:photo_sum":3748,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":44,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1587497,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730611,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879063,
+        "qs:id":474293,
+        "qs_pg:id":474293
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fcdb8467d364eb2a2af1bb068103f5ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":-1,
+            "neighbourhood_id":85783231,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783231,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860473,
+    "wof:name":"Simons Kloof",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.431454,
+    -34.194424,
+    18.431454,
+    -34.194424
+],
+  "geometry": {"coordinates":[18.431454,-34.194424],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343351145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02475,-24.00778,31.02475,-24.00778",
+    "geom:latitude":-24.00778,
+    "geom:longitude":31.02475,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM334",
+    "gn:asciiname":"Maseki Location",
+    "gn:country_code":"ZA",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":978503,
+    "gn:latitude":-24.00778,
+    "gn:longitude":31.02475,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Maseki Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masekeslokasie",
+        "Maseki Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978503
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6d136fe3d7abbff11b02952404e62d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1343351145,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343351145,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Maseki Location",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02475,
+    -24.00778,
+    31.02475,
+    -24.00778
+],
+  "geometry": {"coordinates":[31.02475,-24.00778],"type":"Point"}
+}

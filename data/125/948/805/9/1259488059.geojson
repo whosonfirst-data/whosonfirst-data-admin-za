@@ -1,0 +1,69 @@
+{
+  "id": 1259488059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6844,-31.26081,28.6844,-31.26081",
+    "geom:latitude":-31.26081,
+    "geom:longitude":28.6844,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Qotira",
+    "gn:country_code":"ZA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":963623,
+    "gn:latitude":-31.26081,
+    "gn:longitude":28.6844,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Qotira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963623
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"593cb0f05974fd0959213cbce49336e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1259488059,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259488059,
+    "wof:lastmodified":1536851090,
+    "wof:name":"Qotira",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6844,
+    -31.26081,
+    28.6844,
+    -31.26081
+],
+  "geometry": {"coordinates":[28.6844,-31.26081],"type":"Point"}
+}

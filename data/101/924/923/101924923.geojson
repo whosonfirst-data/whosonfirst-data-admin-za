@@ -1,0 +1,77 @@
+{
+  "id": 101924923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000026,
+    "geom:area_square_m":288510.327351,
+    "geom:bbox":"28.5659351349,-25.1093196869,28.5720672607,-25.1006813049",
+    "geom:latitude":-25.105183,
+    "geom:longitude":28.568803,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.105298,
+    "lbl:longitude":28.56885,
+    "mps:latitude":-25.105298,
+    "mps:longitude":28.56885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Norman",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969719,
+        "gp:id":1586013
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fa3156da1578a8640e6f44bb495d0ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924923,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924923,
+    "wof:lastmodified":1534986003,
+    "wof:name":"Norman",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5659351348877,
+    -25.10931968688965,
+    28.57206726074219,
+    -25.10068130493164
+],
+  "geometry": {"coordinates":[[[28.5680980682373,-25.10068130493164],[28.57206726074219,-25.10621643066406],[28.56865882873535,-25.10931968688965],[28.56843757629395,-25.1088809967041],[28.56789398193359,-25.10787582397461],[28.56731986999512,-25.10688591003418],[28.56671905517578,-25.10590934753418],[28.56608772277832,-25.10494804382324],[28.5659351348877,-25.10472679138184],[28.5672721862793,-25.10221481323242],[28.56755256652832,-25.10169219970703],[28.5680980682373,-25.10068130493164]]],"type":"Polygon"}
+}

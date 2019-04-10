@@ -1,0 +1,82 @@
+{
+  "id": 1126044763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.777267,-24.3930315,31.777267,-24.3930315",
+    "geom:latitude":-24.393031,
+    "geom:longitude":31.777267,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.393031,
+    "lbl:longitude":31.777267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Satara",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Mpumalanga",
+    "qs_pg:photos":916,
+    "qs_pg:photos_1k":186,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":916,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090136,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879433,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Mpumalanga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879433,
+        "qs_pg:id":1090136
+    },
+    "wof:country":"ZA",
+    "wof:created":1497302365,
+    "wof:geomhash":"fe549bf3277adee930470e088d397897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1126044763,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1126044763,
+    "wof:lastmodified":1509408792,
+    "wof:name":"Satara",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.777267,
+    -24.3930315,
+    31.777267,
+    -24.3930315
+],
+  "geometry": {"coordinates":[31.777267,-24.3930315],"type":"Point"}
+}

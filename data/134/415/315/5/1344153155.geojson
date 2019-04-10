@@ -1,0 +1,69 @@
+{
+  "id": 1344153155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77497,-24.03572,28.77497,-24.03572",
+    "geom:latitude":-24.03572,
+    "geom:longitude":28.77497,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Tinmyne",
+    "gn:country_code":"ZA",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948736,
+    "gn:latitude":-24.03572,
+    "gn:longitude":28.77497,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tinmyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948736
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5403f1488a72b6ce47fefac7306ae611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1344153155,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1344153155,
+    "wof:lastmodified":1536741658,
+    "wof:name":"Tinmyne",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77497,
+    -24.03572,
+    28.77497,
+    -24.03572
+],
+  "geometry": {"coordinates":[28.77497,-24.03572],"type":"Point"}
+}

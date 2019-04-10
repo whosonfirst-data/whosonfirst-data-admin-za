@@ -1,0 +1,67 @@
+{
+  "id": 1344164495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33875,-30.59746,26.33875,-30.59746",
+    "geom:latitude":-30.59746,
+    "geom:longitude":26.33875,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Elim",
+    "gn:country_code":"ZA",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005854,
+    "gn:latitude":-30.59746,
+    "gn:longitude":26.33875,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Elim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005854
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9b265198b417ecd9abb74c45277f2f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1344164495,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1344164495,
+    "wof:lastmodified":1536725791,
+    "wof:name":"Elim",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33875,
+    -30.59746,
+    26.33875,
+    -30.59746
+],
+  "geometry": {"coordinates":[26.33875,-30.59746],"type":"Point"}
+}

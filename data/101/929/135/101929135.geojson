@@ -1,0 +1,72 @@
+{
+  "id": 101929135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1447900.989229,
+    "geom:bbox":"27.2714595795,-32.9446105957,27.2956733704,-32.9318618774",
+    "geom:latitude":-32.93829,
+    "geom:longitude":27.283889,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.939943,
+    "lbl:longitude":27.279028,
+    "mps:latitude":-32.939943,
+    "mps:longitude":27.279028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mtyinweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586682
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0cce9869908f99001c4e2e76a86f697d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929135,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929135,
+    "wof:lastmodified":1500027814,
+    "wof:name":"Mtyinweni",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27145957946777,
+    -32.94461059570312,
+    27.29567337036133,
+    -32.93186187744141
+],
+  "geometry": {"coordinates":[[[27.29567337036133,-32.93341064453125],[27.29423522949219,-32.93752670288086],[27.29277801513672,-32.94038009643555],[27.29090690612793,-32.94039916992188],[27.2863941192627,-32.93886947631836],[27.28304290771484,-32.94016265869141],[27.28420257568359,-32.94267654418945],[27.28011131286621,-32.94461059570312],[27.27521133422852,-32.94213485717773],[27.27145957946777,-32.94154357910156],[27.2755012512207,-32.93613815307617],[27.28746223449707,-32.9350700378418],[27.29265594482422,-32.93186187744141],[27.29567337036133,-32.93341064453125]]],"type":"Polygon"}
+}

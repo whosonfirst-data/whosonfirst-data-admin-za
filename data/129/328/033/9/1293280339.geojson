@@ -1,0 +1,73 @@
+{
+  "id": 1293280339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40264,-34.26013,21.40264,-34.26013",
+    "geom:latitude":-34.26013,
+    "geom:longitude":21.40264,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC042",
+    "gn:asciiname":"Droevlakte",
+    "gn:country_code":"ZA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1007826,
+    "gn:latitude":-34.26013,
+    "gn:longitude":21.40264,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dro\u00ebvlakte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Droogevlakte",
+        "Dro\u00ebvlakte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1007826
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1953973fcaa552c6cf38443128a5ef84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1293280339,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293280339,
+    "wof:lastmodified":1537716429,
+    "wof:name":"Droevlakte",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40264,
+    -34.26013,
+    21.40264,
+    -34.26013
+],
+  "geometry": {"coordinates":[21.40264,-34.26013],"type":"Point"}
+}

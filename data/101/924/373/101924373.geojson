@@ -1,0 +1,74 @@
+{
+  "id": 101924373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":1055024.431012,
+    "geom:bbox":"30.0598163605,-24.1935214996,30.0772304535,-24.1822681427",
+    "geom:latitude":-24.189079,
+    "geom:longitude":30.069123,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.18939,
+    "lbl:longitude":30.069254,
+    "mps:latitude":-24.18939,
+    "mps:longitude":30.069254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mataung",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584209,
+        "wd:id":"Q7278290"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9477704dff3d3c6a5e5a6a5221d802b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101924373,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924373,
+    "wof:lastmodified":1527677690,
+    "wof:name":"Mataung",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05981636047363,
+    -24.19352149963379,
+    30.07723045349121,
+    -24.1822681427002
+],
+  "geometry": {"coordinates":[[[30.05981636047363,-24.1822681427002],[30.06293106079102,-24.18474578857422],[30.0643482208252,-24.18587112426758],[30.06789398193359,-24.18625450134277],[30.07272911071777,-24.18585014343262],[30.07632827758789,-24.18863296508789],[30.07723045349121,-24.19065856933594],[30.07636070251465,-24.19269561767578],[30.0745964050293,-24.19352149963379],[30.0674991607666,-24.19235038757324],[30.06305885314941,-24.19075584411621],[30.05981636047363,-24.1822681427002]]],"type":"Polygon"}
+}

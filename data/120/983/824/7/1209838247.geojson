@@ -1,0 +1,65 @@
+{
+  "id": 1209838247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05,-33.55,27.05,-33.55",
+    "geom:latitude":-33.55,
+    "geom:longitude":27.05,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kleinemonde",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990498,
+    "gn:latitude":-33.55,
+    "gn:longitude":27.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kleinemonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kleinmonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990498
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1a49d8939b7bf082a8c3b1115ef8e028",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209838247,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209838247,
+    "wof:lastmodified":1537716418,
+    "wof:name":"Kleinemonde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05,
+    -33.55,
+    27.05,
+    -33.55
+],
+  "geometry": {"coordinates":[27.05,-33.55],"type":"Point"}
+}

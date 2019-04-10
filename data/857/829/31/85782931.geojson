@@ -1,0 +1,115 @@
+{
+  "id": 85782931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18871087.151067,
+    "geom:bbox":"27.980502,-26.241221,27.980502,-26.241221",
+    "geom:latitude":-26.241221,
+    "geom:longitude":27.980502,
+    "gn:latitude":-26.26786,
+    "gn:longitude":28.12225,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.241221,
+    "lbl:longitude":27.980502,
+    "mps:latitude":-26.244912,
+    "mps:longitude":27.979703,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Aeroton"
+    ],
+    "name:unk_x_variant":[
+        "Alberton",
+        "Aeroton"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Alberton",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Aeroton",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":1233,
+    "qs:photo_sum":2766,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":40,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925967,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023441,
+        "gp:id":55877907,
+        "qs:id":1136978,
+        "qs_pg:id":1136978,
+        "wd:id":"Q1637702",
+        "wk:page":"Alberton, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"db407f9967f53a28873c060ed18a7c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925967,
+            "neighbourhood_id":85782931,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85782931,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860431,
+    "wof:name":"Aeroton",
+    "wof:parent_id":101925967,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.980502,
+    -26.241221,
+    27.980502,
+    -26.241221
+],
+  "geometry": {"coordinates":[27.980502,-26.241221],"type":"Point"}
+}

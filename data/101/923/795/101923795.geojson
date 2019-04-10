@@ -1,0 +1,72 @@
+{
+  "id": 101923795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":1153171.624643,
+    "geom:bbox":"27.1415786743,-24.9199314117,27.1570701599,-24.9054450989",
+    "geom:latitude":-24.912973,
+    "geom:longitude":27.150183,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.912741,
+    "lbl:longitude":27.150945,
+    "mps:latitude":-24.912741,
+    "mps:longitude":27.150945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bierspruit",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587908
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"10570b3525d3244871306849e9139eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923795,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923795,
+    "wof:lastmodified":1500028381,
+    "wof:name":"Bierspruit",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14157867431641,
+    -24.91993141174316,
+    27.15707015991211,
+    -24.90544509887695
+],
+  "geometry": {"coordinates":[[[27.1492805480957,-24.90801429748535],[27.15533065795898,-24.90544509887695],[27.15707015991211,-24.90830993652344],[27.1550350189209,-24.91051864624023],[27.15518379211426,-24.91580009460449],[27.15428733825684,-24.91619682312012],[27.15093994140625,-24.91676712036133],[27.14824676513672,-24.91815757751465],[27.14376831054688,-24.91993141174316],[27.14157867431641,-24.91726493835449],[27.14382362365723,-24.91607284545898],[27.14586639404297,-24.91325378417969],[27.14700126647949,-24.91184616088867],[27.1492805480957,-24.90801429748535]]],"type":"Polygon"}
+}

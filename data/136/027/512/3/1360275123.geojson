@@ -1,0 +1,69 @@
+{
+  "id": 1360275123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.07663,-22.78148,30.07663,-22.78148",
+    "geom:latitude":-22.78148,
+    "geom:longitude":30.07663,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Musekwa",
+    "gn:country_code":"ZA",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972537,
+    "gn:latitude":-22.78148,
+    "gn:longitude":30.07663,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Musekwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972537
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6daeed34ede08e393e588b04e7e5641c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1360275123,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1360275123,
+    "wof:lastmodified":1536671450,
+    "wof:name":"Musekwa",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.07663,
+    -22.78148,
+    30.07663,
+    -22.78148
+],
+  "geometry": {"coordinates":[30.07663,-22.78148],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":815240.681174,
+    "geom:bbox":"26.8967514038,-28.9521789551,26.9101905823,-28.9444656372",
+    "geom:latitude":-28.94825,
+    "geom:longitude":26.903409,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.948116,
+    "lbl:longitude":26.903409,
+    "mps:latitude":-28.948116,
+    "mps:longitude":26.903409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rooibult",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1589290
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c6eb311a3efe02f7cc8d1149695dd465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":101926977,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926977,
+    "wof:lastmodified":1500027668,
+    "wof:name":"Rooibult",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89675140380859,
+    -28.95217895507812,
+    26.91019058227539,
+    -28.94446563720703
+],
+  "geometry": {"coordinates":[[[26.89714241027832,-28.94998931884766],[26.89675140380859,-28.94985008239746],[26.89675331115723,-28.94791793823242],[26.90052604675293,-28.94460487365723],[26.90708160400391,-28.94446563720703],[26.90707969665527,-28.94662666320801],[26.91003036499023,-28.94663047790527],[26.91019058227539,-28.95023345947266],[26.90111923217773,-28.95217895507812],[26.89714241027832,-28.94998931884766]]],"type":"Polygon"}
+}

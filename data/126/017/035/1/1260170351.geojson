@@ -1,0 +1,73 @@
+{
+  "id": 1260170351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36696,-26.48457,25.36696,-26.48457",
+    "geom:latitude":-26.48457,
+    "geom:longitude":25.36696,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW382",
+    "gn:asciiname":"Manonyane",
+    "gn:country_code":"ZA",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979334,
+    "gn:latitude":-26.48457,
+    "gn:longitude":25.36696,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Manonyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manonyana",
+        "Manonyane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979334
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2ce70687054911b38ddea349e0d224da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1260170351,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1260170351,
+    "wof:lastmodified":1537716406,
+    "wof:name":"Manonyane",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36696,
+    -26.48457,
+    25.36696,
+    -26.48457
+],
+  "geometry": {"coordinates":[25.36696,-26.48457],"type":"Point"}
+}

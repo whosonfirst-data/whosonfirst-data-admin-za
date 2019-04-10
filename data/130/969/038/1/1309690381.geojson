@@ -1,0 +1,69 @@
+{
+  "id": 1309690381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84888,-33.97898,18.84888,-33.97898",
+    "geom:latitude":-33.97898,
+    "geom:longitude":18.84888,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC024",
+    "gn:asciiname":"Jamestown",
+    "gn:country_code":"ZA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366500,
+    "gn:latitude":-33.97898,
+    "gn:longitude":18.84888,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Jamestown",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366500
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"271288d89bd2accb57ae336619015387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1309690381,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1309690381,
+    "wof:lastmodified":1537094326,
+    "wof:name":"Jamestown",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84888,
+    -33.97898,
+    18.84888,
+    -33.97898
+],
+  "geometry": {"coordinates":[18.84888,-33.97898],"type":"Point"}
+}

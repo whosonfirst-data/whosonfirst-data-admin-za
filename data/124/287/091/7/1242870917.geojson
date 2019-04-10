@@ -1,0 +1,74 @@
+{
+  "id": 1242870917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2,-25.5,29.2,-25.5",
+    "geom:latitude":-25.5,
+    "geom:longitude":29.2,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP315",
+    "gn:asciiname":"Rietfontein",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961935,
+    "gn:latitude":-25.5,
+    "gn:longitude":29.2,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rietfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reitfontein",
+        "Rietfontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961935
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"195ba53ea94380f64390c8751e8f087c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1242870917,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1242870917,
+    "wof:lastmodified":1537716383,
+    "wof:name":"Rietfontein",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2,
+    -25.5,
+    29.2,
+    -25.5
+],
+  "geometry": {"coordinates":[29.2,-25.5],"type":"Point"}
+}

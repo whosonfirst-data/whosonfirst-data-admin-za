@@ -1,0 +1,101 @@
+{
+  "id": 1125801209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74188,-30.31586,30.74188,-30.31586",
+    "geom:latitude":-30.31586,
+    "geom:longitude":30.74188,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.31586,
+    "lbl:longitude":30.74188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Park Rynie"
+    ],
+    "name:dut_x_preferred":[
+        "Park Rynie"
+    ],
+    "name:eng_x_preferred":[
+        "Park Rynie"
+    ],
+    "name:rum_x_preferred":[
+        "Park Rynie"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":966193,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Park Rynie",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":130215,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586423,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966193,
+        "gp:id":1586423,
+        "qs_pg:id":130215,
+        "wd:id":"Q3642987"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291268,
+    "wof:geomhash":"41af242d83ad66a391fdfdfca1d41f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1125801209,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125801209,
+    "wof:lastmodified":1514504496,
+    "wof:name":"Park Rynie",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74188,
+    -30.31586,
+    30.74188,
+    -30.31586
+],
+  "geometry": {"coordinates":[30.74188,-30.31586],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226654589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00488,-29.92199,31.00488,-29.92199",
+    "geom:latitude":-29.92199,
+    "geom:longitude":31.00488,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Bluff",
+    "gn:country_code":"ZA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7289557,
+    "gn:latitude":-29.92199,
+    "gn:longitude":31.00488,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bluff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289557,
+        "wk:page":"Bluff%2C_KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"716ef637d4616fc152c52c98c9c72383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1226654589,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1226654589,
+    "wof:lastmodified":1537576373,
+    "wof:name":"Bluff",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00488,
+    -29.92199,
+    31.00488,
+    -29.92199
+],
+  "geometry": {"coordinates":[31.00488,-29.92199],"type":"Point"}
+}

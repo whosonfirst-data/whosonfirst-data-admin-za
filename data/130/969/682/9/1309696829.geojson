@@ -1,0 +1,67 @@
+{
+  "id": 1309696829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37635,-24.62348,31.37635,-24.62348",
+    "geom:latitude":-24.62348,
+    "geom:longitude":31.37635,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tlhavekisa",
+    "gn:country_code":"ZA",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948638,
+    "gn:latitude":-24.62348,
+    "gn:longitude":31.37635,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tlhavekisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948638
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"30ecb4321504d8a2426034aa1d8dce4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1309696829,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1309696829,
+    "wof:lastmodified":1537085080,
+    "wof:name":"Tlhavekisa",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37635,
+    -24.62348,
+    31.37635,
+    -24.62348
+],
+  "geometry": {"coordinates":[31.37635,-24.62348],"type":"Point"}
+}

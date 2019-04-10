@@ -1,0 +1,63 @@
+{
+  "id": 1209638255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68307,-30.79995,28.68307,-30.79995",
+    "geom:latitude":-30.79995,
+    "geom:longitude":28.68307,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Ndakeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971828,
+    "gn:latitude":-30.79995,
+    "gn:longitude":28.68307,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ndakeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971828
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d53a9e6b27aeba1293483490028cce6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209638255
+        }
+    ],
+    "wof:id":1209638255,
+    "wof:lastmodified":1536280970,
+    "wof:name":"Ndakeni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68307,
+    -30.79995,
+    28.68307,
+    -30.79995
+],
+  "geometry": {"coordinates":[28.68307,-30.79995],"type":"Point"}
+}

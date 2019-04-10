@@ -1,0 +1,74 @@
+{
+  "id": 1193277603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8,-27.6,26.8,-27.6",
+    "geom:latitude":-27.6,
+    "geom:longitude":26.8,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC18",
+    "gn:admin3_code":"FS185",
+    "gn:asciiname":"Winkelpos",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939461,
+    "gn:latitude":-27.6,
+    "gn:longitude":26.8,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Winkelpos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Winkelpost",
+        "Winkelpos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939461
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7709a2d34df78cf1826ebe7980b2c739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":1193277603,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1193277603,
+    "wof:lastmodified":1537716368,
+    "wof:name":"Winkelpos",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8,
+    -27.6,
+    26.8,
+    -27.6
+],
+  "geometry": {"coordinates":[26.8,-27.6],"type":"Point"}
+}

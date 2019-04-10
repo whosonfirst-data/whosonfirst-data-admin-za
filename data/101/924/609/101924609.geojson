@@ -1,0 +1,73 @@
+{
+  "id": 101924609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":1016225.06734,
+    "geom:bbox":"31.4052391052,-24.9236602783,31.418800354,-24.9115600586",
+    "geom:latitude":-24.917229,
+    "geom:longitude":31.412443,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.917193,
+    "lbl:longitude":31.412546,
+    "mps:latitude":-24.917193,
+    "mps:longitude":31.412546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Huntingdon",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995061,
+        "gp:id":1583863
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3a748a70bdb76171b8302c16c96bfe17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924609,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924609,
+    "wof:lastmodified":1500026389,
+    "wof:name":"Huntingdon",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40523910522461,
+    -24.92366027832031,
+    31.41880035400391,
+    -24.91156005859375
+],
+  "geometry": {"coordinates":[[[31.41637802124023,-24.91309547424316],[31.41552543640137,-24.91514015197754],[31.41648292541504,-24.91878128051758],[31.41875457763672,-24.92118263244629],[31.41880035400391,-24.92361831665039],[31.41790962219238,-24.92363357543945],[31.41612815856934,-24.92366027832031],[31.41344833374023,-24.92329597473145],[31.41208267211914,-24.92169189453125],[31.40981101989746,-24.91928863525391],[31.40661239624023,-24.91486930847168],[31.40523910522461,-24.9128589630127],[31.40566253662109,-24.91163444519043],[31.40788841247559,-24.91160011291504],[31.41056060791016,-24.91156005859375],[31.41236305236816,-24.91275024414062],[31.41637802124023,-24.91309547424316]]],"type":"Polygon"}
+}

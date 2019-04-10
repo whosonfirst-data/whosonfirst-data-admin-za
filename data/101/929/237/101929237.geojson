@@ -1,0 +1,96 @@
+{
+  "id": 101929237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000641,
+    "geom:area_square_m":6593479.837525,
+    "geom:bbox":"26.642665863,-33.6920089722,26.6844978333,-33.6636314392",
+    "geom:latitude":-33.678231,
+    "geom:longitude":26.663415,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.673919,
+    "lbl:longitude":26.659613,
+    "mps:latitude":-33.673919,
+    "mps:longitude":26.659613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kenton-on-Sea"
+    ],
+    "name:dut_x_preferred":[
+        "Kenton-on-Sea"
+    ],
+    "name:eng_x_preferred":[
+        "Kenton-on-Sea"
+    ],
+    "name:nso_x_preferred":[
+        "Kenton-on-Sea"
+    ],
+    "name:unk_x_variant":[
+        "Kariega"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kenton on Sea",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-33.683,
+    "wd:longitude":26.659,
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991352,
+        "gp:id":1582720,
+        "qs:id":270986,
+        "qs_pg:id":1118745,
+        "wd:id":"Q5179475"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d8fc71a8986c64f3e76675c667ed81c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":101929237,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929237,
+    "wof:lastmodified":1527715594,
+    "wof:name":"Kenton on Sea",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.64266586303711,
+    -33.69200897216797,
+    26.68449783325195,
+    -33.66363143920898
+],
+  "geometry": {"coordinates":[[[26.65467643737793,-33.66363143920898],[26.66383171081543,-33.66585922241211],[26.66775512695312,-33.67055511474609],[26.67731666564941,-33.67505645751953],[26.67779159545898,-33.67561340332031],[26.68449783325195,-33.6834602355957],[26.68269920349121,-33.68394470214844],[26.68267631530762,-33.68396377563477],[26.68121910095215,-33.68519973754883],[26.67927742004395,-33.68684005737305],[26.67735481262207,-33.68846893310547],[26.67540550231934,-33.69012069702148],[26.67421913146973,-33.69112396240234],[26.67419624328613,-33.69114303588867],[26.67377662658691,-33.69153594970703],[26.66927528381348,-33.69200897216797],[26.66279029846191,-33.68293762207031],[26.66026306152344,-33.68294906616211],[26.66498565673828,-33.69040298461914],[26.65526390075684,-33.69078063964844],[26.65250205993652,-33.68559265136719],[26.65275955200195,-33.68281173706055],[26.65286254882812,-33.68168640136719],[26.64970970153809,-33.67584991455078],[26.64266586303711,-33.66970825195312],[26.64937973022461,-33.6666145324707],[26.65467643737793,-33.66363143920898]]],"type":"Polygon"}
+}

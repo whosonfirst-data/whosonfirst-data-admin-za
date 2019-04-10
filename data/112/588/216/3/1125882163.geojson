@@ -1,0 +1,94 @@
+{
+  "id": 1125882163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41181,-28.37622,32.41181,-28.37622",
+    "geom:latitude":-28.37622,
+    "geom:longitude":32.41181,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.37622,
+    "lbl:longitude":32.41181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Saint Lucia"
+    ],
+    "name:eng_x_variant":[
+        "St Lucia"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":958273,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Saint Lucia Estuary",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":1177,
+    "qs_pg:photos_1k":239,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1177,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905735,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587129,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958273,
+        "gp:id":1587129,
+        "qs_pg:id":905735
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294868,
+    "wof:geomhash":"98c8fd969a0c2864ee634705fb3847c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1125882163,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125882163,
+    "wof:lastmodified":1509398248,
+    "wof:name":"Saint Lucia Estuary",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41181,
+    -28.37622,
+    32.41181,
+    -28.37622
+],
+  "geometry": {"coordinates":[32.41181,-28.37622],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101924185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000311,
+    "geom:area_square_m":3535497.88026,
+    "geom:bbox":"30.2688884735,-23.3541355133,30.288061142,-23.3253440857",
+    "geom:latitude":-23.338827,
+    "geom:longitude":30.277015,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.338759,
+    "lbl:longitude":30.276216,
+    "mps:latitude":-23.338759,
+    "mps:longitude":30.276216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Olifantshoek"
+    ],
+    "name:dut_x_preferred":[
+        "Olifantshoek"
+    ],
+    "name:eng_x_preferred":[
+        "Olifantshoek"
+    ],
+    "name:nld_x_preferred":[
+        "Olifantshoek"
+    ],
+    "name:nso_x_preferred":[
+        "Olifantshoek"
+    ],
+    "name:ron_x_preferred":[
+        "Olifantshoek"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Olifantshoek",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.9333,
+    "wd:longitude":22.7333,
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968283,
+        "gp:id":1586250,
+        "wd:id":"Q15263925"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"43bad397abe1cc4d4cefa6325fb163d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924185,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924185,
+    "wof:lastmodified":1527677690,
+    "wof:name":"Olifantshoek",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26888847351074,
+    -23.35413551330566,
+    30.28806114196777,
+    -23.32534408569336
+],
+  "geometry": {"coordinates":[[[30.26888847351074,-23.32662010192871],[30.27591705322266,-23.32534408569336],[30.28120422363281,-23.32611274719238],[30.28298759460449,-23.32853698730469],[30.28300857543945,-23.33056831359863],[30.28217506408691,-23.33545112609863],[30.28174209594727,-23.33626747131348],[30.28183746337891,-23.34601974487305],[30.28230857849121,-23.34926605224609],[30.28584098815918,-23.35045623779297],[30.28805351257324,-23.35165786743164],[30.28806114196777,-23.35247039794922],[30.28718757629395,-23.35329055786133],[30.28631210327148,-23.35370445251465],[30.28323554992676,-23.35413551330566],[30.28103065490723,-23.35374641418457],[30.27879905700684,-23.35051536560059],[30.27175521850586,-23.35016632080078],[30.26979637145996,-23.32945823669434],[30.26888847351074,-23.32662010192871]]],"type":"Polygon"}
+}

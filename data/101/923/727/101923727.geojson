@@ -1,0 +1,72 @@
+{
+  "id": 101923727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000267,
+    "geom:area_square_m":3000401.770398,
+    "geom:bbox":"29.4041023254,-24.7320709229,29.4182109833,-24.7089233398",
+    "geom:latitude":-24.721005,
+    "geom:longitude":29.411475,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.72119,
+    "lbl:longitude":29.411341,
+    "mps:latitude":-24.72119,
+    "mps:longitude":29.411341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Krokodilkop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881196
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"72c8ca02981db9f69fb93249741f9e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923727,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923727,
+    "wof:lastmodified":1500028377,
+    "wof:name":"Krokodilkop",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40410232543945,
+    -24.73207092285156,
+    29.41821098327637,
+    -24.70892333984375
+],
+  "geometry": {"coordinates":[[[29.41821098327637,-24.71258735656738],[29.41795921325684,-24.7149600982666],[29.41786956787109,-24.71580505371094],[29.41789245605469,-24.72311592102051],[29.4174747467041,-24.73207092285156],[29.40680122375488,-24.73167419433594],[29.40410232543945,-24.72152709960938],[29.4067325592041,-24.70974159240723],[29.40939903259277,-24.70892333984375],[29.41821098327637,-24.71258735656738]]],"type":"Polygon"}
+}

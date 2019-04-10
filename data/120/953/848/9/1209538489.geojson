@@ -1,0 +1,61 @@
+{
+  "id": 1209538489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68055,-30.40554,29.68055,-30.40554",
+    "geom:latitude":-30.40554,
+    "geom:longitude":29.68055,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Glengarry",
+    "gn:country_code":"ZA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001664,
+    "gn:latitude":-30.40554,
+    "gn:longitude":29.68055,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Glengarry",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001664
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b16c28a5905c67232b8aa818b859a3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209538489
+        }
+    ],
+    "wof:id":1209538489,
+    "wof:lastmodified":1536284061,
+    "wof:name":"Glengarry",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68055,
+    -30.40554,
+    29.68055,
+    -30.40554
+],
+  "geometry": {"coordinates":[29.68055,-30.40554],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125823723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.67914,-28.46084,29.67914,-28.46084",
+    "geom:latitude":-28.46084,
+    "geom:longitude":29.67914,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"FRMT",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.46084,
+    "lbl:longitude":29.67914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"FRMT",
+    "qs_pg:gn_id":8014946,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Walkershoek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":749485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014946,
+        "qs_pg:id":749485
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292182,
+    "wof:geomhash":"05c8bcafab7907e3d3798495682c6a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1125823723,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125823723,
+    "wof:lastmodified":1509394274,
+    "wof:name":"Walkershoek",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.67914,
+    -28.46084,
+    29.67914,
+    -28.46084
+],
+  "geometry": {"coordinates":[29.67914,-28.46084],"type":"Point"}
+}

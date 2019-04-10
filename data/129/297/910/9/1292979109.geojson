@@ -1,0 +1,73 @@
+{
+  "id": 1292979109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00375,-33.7673,19.00375,-33.7673",
+    "geom:latitude":-33.7673,
+    "geom:longitude":19.00375,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC023",
+    "gn:asciiname":"Hartebeeskraal",
+    "gn:country_code":"ZA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366975,
+    "gn:latitude":-33.7673,
+    "gn:longitude":19.00375,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hartebeeskraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hartebeestkraal",
+        "Hartebeeskraal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366975
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c3be1dd7acc1e4bd46dd1f27f7df4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1292979109,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1292979109,
+    "wof:lastmodified":1537716444,
+    "wof:name":"Hartebeeskraal",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00375,
+    -33.7673,
+    19.00375,
+    -33.7673
+],
+  "geometry": {"coordinates":[19.00375,-33.7673],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209128849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11293,-31.15764,26.11293,-31.15764",
+    "geom:latitude":-31.15764,
+    "geom:longitude":26.11293,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Haaspoort",
+    "gn:country_code":"ZA",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998304,
+    "gn:latitude":-31.15764,
+    "gn:longitude":26.11293,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Haaspoort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998304
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"89e62a1ac0b21b07c0861de997a0e86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209128849
+        }
+    ],
+    "wof:id":1209128849,
+    "wof:lastmodified":1536296870,
+    "wof:name":"Haaspoort",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11293,
+    -31.15764,
+    26.11293,
+    -31.15764
+],
+  "geometry": {"coordinates":[26.11293,-31.15764],"type":"Point"}
+}

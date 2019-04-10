@@ -1,0 +1,69 @@
+{
+  "id": 1293304163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12131,-29.05757,27.12131,-29.05757",
+    "geom:latitude":-29.05757,
+    "geom:longitude":27.12131,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Vlakplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943477,
+    "gn:latitude":-29.05757,
+    "gn:longitude":27.12131,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vlakplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943477
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"49aef645283a2f51cf3810c69b492bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1293304163,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293304163,
+    "wof:lastmodified":1537049190,
+    "wof:name":"Vlakplaas",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12131,
+    -29.05757,
+    27.12131,
+    -29.05757
+],
+  "geometry": {"coordinates":[27.12131,-29.05757],"type":"Point"}
+}

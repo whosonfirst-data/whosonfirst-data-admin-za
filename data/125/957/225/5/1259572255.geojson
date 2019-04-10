@@ -1,0 +1,69 @@
+{
+  "id": 1259572255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22211,-26.31776,25.22211,-26.31776",
+    "geom:latitude":-26.31776,
+    "geom:longitude":25.22211,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Thepe",
+    "gn:country_code":"ZA",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949395,
+    "gn:latitude":-26.31776,
+    "gn:longitude":25.22211,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Thepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949395
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5fed2215776aa0a5ebc2370b34c395cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1259572255,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1259572255,
+    "wof:lastmodified":1536731344,
+    "wof:name":"Thepe",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22211,
+    -26.31776,
+    25.22211,
+    -26.31776
+],
+  "geometry": {"coordinates":[25.22211,-26.31776],"type":"Point"}
+}

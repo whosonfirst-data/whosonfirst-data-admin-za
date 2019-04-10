@@ -1,0 +1,71 @@
+{
+  "id": 1344259999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16862,-30.43557,29.16862,-30.43557",
+    "geom:latitude":-30.43557,
+    "geom:longitude":29.16862,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Con Amore",
+    "gn:country_code":"ZA",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012948,
+    "gn:latitude":-30.43557,
+    "gn:longitude":29.16862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Con Amore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Connomore",
+        "Con Amore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012948
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"852780868004ec90a0ac30d848f219a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1344259999,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1344259999,
+    "wof:lastmodified":1537716432,
+    "wof:name":"Con Amore",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16862,
+    -30.43557,
+    29.16862,
+    -30.43557
+],
+  "geometry": {"coordinates":[29.16862,-30.43557],"type":"Point"}
+}

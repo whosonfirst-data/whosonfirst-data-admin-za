@@ -1,0 +1,89 @@
+{
+  "id": 101928189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":519791.608808,
+    "geom:bbox":"29.4491577148,-30.3213539124,29.4580726624,-30.3136234283",
+    "geom:latitude":-30.317669,
+    "geom:longitude":29.453672,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.317598,
+    "lbl:longitude":29.453672,
+    "mps:latitude":-30.317598,
+    "mps:longitude":29.453672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Franklin"
+    ],
+    "name:dut_x_preferred":[
+        "Franklin"
+    ],
+    "name:eng_x_preferred":[
+        "Franklin"
+    ],
+    "name:ger_x_preferred":[
+        "Franklin"
+    ],
+    "name:rum_x_preferred":[
+        "Franklin"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Franklin",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003753,
+        "gp:id":1581328,
+        "wd:id":"Q15218385"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b8a2ae860ba0ae7cdd91820623b002f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928189,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928189,
+    "wof:lastmodified":1514503875,
+    "wof:name":"Franklin",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44915771484375,
+    -30.32135391235352,
+    29.45807266235352,
+    -30.31362342834473
+],
+  "geometry": {"coordinates":[[[29.45108032226562,-30.31362342834473],[29.45807266235352,-30.31528091430664],[29.45668029785156,-30.32135391235352],[29.44915771484375,-30.32036590576172],[29.45108032226562,-30.31362342834473]]],"type":"Polygon"}
+}

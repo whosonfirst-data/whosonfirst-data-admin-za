@@ -1,0 +1,73 @@
+{
+  "id": 1327050019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54413,-28.56181,16.54413,-28.56181",
+    "geom:latitude":-28.56181,
+    "geom:longitude":16.54413,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC061",
+    "gn:asciiname":"Kortdoorn",
+    "gn:country_code":"ZA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3365164,
+    "gn:latitude":-28.56181,
+    "gn:longitude":16.54413,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kortdoorn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kortdoring",
+        "Kortdoorn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3365164
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b9ae0586ae06fda7da7af916996cf186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1327050019,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1327050019,
+    "wof:lastmodified":1537716443,
+    "wof:name":"Kortdoorn",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54413,
+    -28.56181,
+    16.54413,
+    -28.56181
+],
+  "geometry": {"coordinates":[16.54413,-28.56181],"type":"Point"}
+}

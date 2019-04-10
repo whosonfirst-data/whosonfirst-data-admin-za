@@ -1,0 +1,69 @@
+{
+  "id": 1293610567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0478,-25.06502,31.0478,-25.06502",
+    "geom:latitude":-25.06502,
+    "geom:longitude":31.0478,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP322",
+    "gn:asciiname":"Kiepersol",
+    "gn:country_code":"ZA",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991038,
+    "gn:latitude":-25.06502,
+    "gn:longitude":31.0478,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kiepersol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991038
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"82859502253d52825cae0fd167f0a58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1293610567,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1293610567,
+    "wof:lastmodified":1536606892,
+    "wof:name":"Kiepersol",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0478,
+    -25.06502,
+    31.0478,
+    -25.06502
+],
+  "geometry": {"coordinates":[31.0478,-25.06502],"type":"Point"}
+}

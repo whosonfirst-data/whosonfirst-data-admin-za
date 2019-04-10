@@ -1,0 +1,109 @@
+{
+  "id": 101926423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":1020894.990818,
+    "geom:bbox":"25.4545497894,-26.6898365021,25.4695129395,-26.6789913177",
+    "geom:latitude":-26.683303,
+    "geom:longitude":25.462701,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.683127,
+    "lbl:longitude":25.462815,
+    "mps:latitude":-26.683127,
+    "mps:longitude":25.462815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Delareyville"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u62c9\u91cc\u7dad\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Delareyville"
+    ],
+    "name:eng_x_preferred":[
+        "Delareyville"
+    ],
+    "name:ger_x_preferred":[
+        "Delareyville"
+    ],
+    "name:ita_x_preferred":[
+        "Delareyville"
+    ],
+    "name:nso_x_preferred":[
+        "Delareyville"
+    ],
+    "name:rum_x_preferred":[
+        "Delareyville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u0430\u0440\u0435\u0439\u0432\u0438\u043b"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Delareyville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.683333,
+    "wd:longitude":25.466667,
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011062,
+        "gp:id":1580641,
+        "qs:id":1243007,
+        "qs_pg:id":1243007,
+        "wd:id":"Q2082049",
+        "wk:page":"Delareyville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4eaaff1262d8b9361ebefe1a9d9773aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":101926423,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926423,
+    "wof:lastmodified":1527715814,
+    "wof:name":"Delareyville",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45454978942871,
+    -26.6898365020752,
+    25.46951293945312,
+    -26.67899131774902
+],
+  "geometry": {"coordinates":[[[25.46681785583496,-26.6898365020752],[25.46238899230957,-26.68719482421875],[25.45454978942871,-26.68252563476562],[25.45498847961426,-26.68170166015625],[25.45548439025879,-26.68065071105957],[25.45598411560059,-26.68004989624023],[25.45765113830566,-26.67914390563965],[25.4584846496582,-26.67899131774902],[25.46115684509277,-26.67913246154785],[25.46289443969727,-26.67950057983398],[25.46951293945312,-26.68090629577637],[25.46681785583496,-26.6898365020752]]],"type":"Polygon"}
+}

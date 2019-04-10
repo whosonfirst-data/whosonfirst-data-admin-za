@@ -1,0 +1,73 @@
+{
+  "id": 1226531989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09064,-23.57636,28.09064,-23.57636",
+    "geom:latitude":-23.57636,
+    "geom:longitude":28.09064,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM362",
+    "gn:asciiname":"Villa Nora",
+    "gn:country_code":"ZA",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943947,
+    "gn:latitude":-23.57636,
+    "gn:longitude":28.09064,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Villa Nora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Nora",
+        "Villa Nora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943947
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"56cf8778a81014f2e1c6625da3c9ee62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1226531989,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226531989,
+    "wof:lastmodified":1537716370,
+    "wof:name":"Villa Nora",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09064,
+    -23.57636,
+    28.09064,
+    -23.57636
+],
+  "geometry": {"coordinates":[28.09064,-23.57636],"type":"Point"}
+}

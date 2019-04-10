@@ -1,0 +1,82 @@
+{
+  "id": 1125978015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.249,-32.764667,28.249,-32.764667",
+    "geom:latitude":-32.764667,
+    "geom:longitude":28.249,
+    "gn:gn_country":"ZA",
+    "iso:country":"ZA",
+    "lbl:latitude":-32.764667,
+    "lbl:longitude":28.249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:name":"Haga",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":73,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1339833,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880777,
+        "qs_pg:id":1339833
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298426,
+    "wof:geomhash":"07050a46bd52fdaabbd1ca49ac729f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1125978015,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125978015,
+    "wof:lastmodified":1509404570,
+    "wof:name":"Haga",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.249,
+    -32.764667,
+    28.249,
+    -32.764667
+],
+  "geometry": {"coordinates":[28.249,-32.764667],"type":"Point"}
+}

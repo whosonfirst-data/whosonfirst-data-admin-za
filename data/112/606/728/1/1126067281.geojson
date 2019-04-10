@@ -1,0 +1,93 @@
+{
+  "id": 1126067281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47107,-33.91638,18.47107,-33.91638",
+    "geom:latitude":-33.91638,
+    "geom:longitude":18.47107,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.91638,
+    "lbl:longitude":18.47107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3363104,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Paardeneiland",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189345,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586385,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363104,
+        "gp:id":1586385,
+        "qs_pg:id":189345
+    },
+    "wof:country":"ZA",
+    "wof:created":1497309084,
+    "wof:geomhash":"838043b20f91487eebb6f27bda60aae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":-1,
+            "neighbourhood_id":1126067281,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126067281,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Paardeneiland",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        85772419
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47107,
+    -33.91638,
+    18.47107,
+    -33.91638
+],
+  "geometry": {"coordinates":[18.47107,-33.91638],"type":"Point"}
+}

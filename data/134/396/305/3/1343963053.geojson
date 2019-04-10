@@ -1,0 +1,74 @@
+{
+  "id": 1343963053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32123,-33.41779,26.32123,-33.41779",
+    "geom:latitude":-33.41779,
+    "geom:longitude":26.32123,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC104",
+    "gn:asciiname":"Assegaairivier",
+    "gn:country_code":"ZA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1022123,
+    "gn:latitude":-33.41779,
+    "gn:longitude":26.32123,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Assegaairivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assegaai River",
+        "Assegai River",
+        "Assegaairivier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022123
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"32de9211efa700346f1f87da069368d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1343963053,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343963053,
+    "wof:lastmodified":1537716440,
+    "wof:name":"Assegaairivier",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32123,
+    -33.41779,
+    26.32123,
+    -33.41779
+],
+  "geometry": {"coordinates":[26.32123,-33.41779],"type":"Point"}
+}

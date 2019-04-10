@@ -1,0 +1,80 @@
+{
+  "id": 101927621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000134,
+    "geom:area_square_m":1464969.196954,
+    "geom:bbox":"30.8160457611,-28.1994419098,30.8288002014,-28.1854534149",
+    "geom:latitude":-28.191866,
+    "geom:longitude":30.821409,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.190991,
+    "lbl:longitude":30.82141,
+    "mps:latitude":-28.190991,
+    "mps:longitude":30.82141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Nondwene"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nondweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970148,
+        "gp:id":1585995
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"065cdb8b40147f54b5ec97c005d7168d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":101927621,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927621,
+    "wof:lastmodified":1534986008,
+    "wof:name":"Nondweni",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615683
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8160457611084,
+    -28.19944190979004,
+    30.82880020141602,
+    -28.18545341491699
+],
+  "geometry": {"coordinates":[[[30.8160457611084,-28.18602180480957],[30.81939125061035,-28.18545341491699],[30.82473945617676,-28.18545913696289],[30.8267707824707,-28.18861961364746],[30.82854843139648,-28.19110488891602],[30.82880020141602,-28.19313430786133],[30.82803344726562,-28.19448661804199],[30.82497787475586,-28.1949348449707],[30.82370185852051,-28.19606018066406],[30.82191467285156,-28.19944190979004],[30.81834983825684,-28.19943809509277],[30.81682395935059,-28.19808197021484],[30.81606674194336,-28.19492340087891],[30.8160457611084,-28.18602180480957]]],"type":"Polygon"}
+}

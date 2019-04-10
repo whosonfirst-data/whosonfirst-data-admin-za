@@ -1,0 +1,69 @@
+{
+  "id": 1209994579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04195,-33.10221,18.04195,-33.10221",
+    "geom:latitude":-33.10221,
+    "geom:longitude":18.04195,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC014",
+    "gn:asciiname":"Myburgh Park",
+    "gn:country_code":"ZA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204508,
+    "gn:latitude":-33.10221,
+    "gn:longitude":18.04195,
+    "gn:modification_date":"2016-07-19",
+    "gn:name":"Myburgh Park",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204508
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4c1f88a906b34cb55a80489fc75c14d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1209994579,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1209994579,
+    "wof:lastmodified":1536384872,
+    "wof:name":"Myburgh Park",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04195,
+    -33.10221,
+    18.04195,
+    -33.10221
+],
+  "geometry": {"coordinates":[18.04195,-33.10221],"type":"Point"}
+}

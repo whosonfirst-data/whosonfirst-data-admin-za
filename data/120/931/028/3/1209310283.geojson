@@ -1,0 +1,63 @@
+{
+  "id": 1209310283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79251,-23.42339,28.79251,-23.42339",
+    "geom:latitude":-23.42339,
+    "geom:longitude":28.79251,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Mahlwareng",
+    "gn:country_code":"ZA",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980261,
+    "gn:latitude":-23.42339,
+    "gn:longitude":28.79251,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mahlwareng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980261
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7934d42b2626b9954c184ac7bcf60034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209310283
+        }
+    ],
+    "wof:id":1209310283,
+    "wof:lastmodified":1536291052,
+    "wof:name":"Mahlwareng",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79251,
+    -23.42339,
+    28.79251,
+    -23.42339
+],
+  "geometry": {"coordinates":[28.79251,-23.42339],"type":"Point"}
+}

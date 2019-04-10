@@ -1,0 +1,72 @@
+{
+  "id": 101924849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00028,
+    "geom:area_square_m":3140223.472938,
+    "geom:bbox":"28.6448116302,-25.0406570435,28.6642856598,-25.0185871124",
+    "geom:latitude":-25.028359,
+    "geom:longitude":28.655518,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.028019,
+    "lbl:longitude":28.655704,
+    "mps:latitude":-25.028019,
+    "mps:longitude":28.655704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leseleseleng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582079
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"203fd57d1fc0e282058d916db33c625f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924849,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924849,
+    "wof:lastmodified":1500026391,
+    "wof:name":"Leseleseleng",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.64481163024902,
+    -25.04065704345703,
+    28.66428565979004,
+    -25.01858711242676
+],
+  "geometry": {"coordinates":[[[28.64640045166016,-25.02632141113281],[28.64481163024902,-25.02224349975586],[28.64481925964355,-25.02156639099121],[28.64527702331543,-25.02048683166504],[28.64602851867676,-25.01981735229492],[28.64737129211426,-25.01928901672363],[28.6594181060791,-25.01858711242676],[28.66015625,-25.01900100708008],[28.66059303283691,-25.01981735229492],[28.66428565979004,-25.03515434265137],[28.66427612304688,-25.03610229492188],[28.66381645202637,-25.03731727600098],[28.66336250305176,-25.03798866271973],[28.65902137756348,-25.04065704345703],[28.65813064575195,-25.0406494140625],[28.65709114074707,-25.04050445556641],[28.65694427490234,-25.04036712646484],[28.65576362609863,-25.0395450592041],[28.64640045166016,-25.02632141113281]]],"type":"Polygon"}
+}

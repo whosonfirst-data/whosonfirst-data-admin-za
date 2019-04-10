@@ -1,0 +1,110 @@
+{
+  "id": 85783369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3460427.319848,
+    "geom:bbox":"28.392792,-26.292183,28.392792,-26.292183",
+    "geom:latitude":-26.292183,
+    "geom:longitude":28.392792,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.292183,
+    "lbl:longitude":28.392792,
+    "mps:latitude":-26.292184,
+    "mps:longitude":28.392792,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"why this one",
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Kwa Thema Central"
+    ],
+    "name:unk_x_variant":[
+        "Kwa Thema Central"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":985218,
+    "qs:gn_nam_loc":"KwaThema, Ekurhuleni, Ekurhuleni, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":114,
+    "qs:local_sum":114,
+    "qs:localhoods":1,
+    "qs:name":"Kwa Thema Central",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"KwaThema",
+    "qs:photo_max":114,
+    "qs:photo_sum":114,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1583625,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926083,
+        1108730507,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880065,
+        "qs:id":1339804,
+        "qs_pg:id":1339804
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ed55ffe494aab3fe7dc2888177eefcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926083,
+            "neighbourhood_id":85783369,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783369,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860492,
+    "wof:name":"Kwa Thema Central",
+    "wof:parent_id":101926083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.392792,
+    -26.292183,
+    28.392792,
+    -26.292183
+],
+  "geometry": {"coordinates":[28.392792,-26.292183],"type":"Point"}
+}

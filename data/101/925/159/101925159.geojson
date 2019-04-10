@@ -1,0 +1,72 @@
+{
+  "id": 101925159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000382,
+    "geom:area_square_m":4274465.308979,
+    "geom:bbox":"28.8636989594,-25.3402633667,28.9002838135,-25.3252944946",
+    "geom:latitude":-25.332883,
+    "geom:longitude":28.882799,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.332812,
+    "lbl:longitude":28.8828,
+    "mps:latitude":-25.332812,
+    "mps:longitude":28.8828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vlaklaagte",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588647
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6a58073657e731cdb073015e290c2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925159,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925159,
+    "wof:lastmodified":1500026354,
+    "wof:name":"Vlaklaagte",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86369895935059,
+    -25.34026336669922,
+    28.90028381347656,
+    -25.32529449462891
+],
+  "geometry": {"coordinates":[[[28.87504959106445,-25.32529449462891],[28.90028381347656,-25.3266658782959],[28.89584350585938,-25.33617401123047],[28.89454460144043,-25.33681678771973],[28.89350700378418,-25.33740997314453],[28.89250564575195,-25.33805465698242],[28.89154243469238,-25.3387451171875],[28.89062309265137,-25.33948135375977],[28.88974761962891,-25.34026336669922],[28.86369895935059,-25.33893585205078],[28.87504959106445,-25.32529449462891]]],"type":"Polygon"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 1125782695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09718,-30.71999,25.09718,-30.71999",
+    "geom:latitude":-30.71999,
+    "geom:longitude":25.09718,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":12423,
+    "gn:population":12423,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.71999,
+    "lbl:longitude":25.09718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Colesberg"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u0648\u0632\u0628\u064a\u0631\u063a"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u723e\u65af\u4f2f\u683c"
+    ],
+    "name:dut_x_preferred":[
+        "Colesberg"
+    ],
+    "name:eng_x_preferred":[
+        "Colesberg"
+    ],
+    "name:ger_x_preferred":[
+        "Colesberg"
+    ],
+    "name:ita_x_preferred":[
+        "Colesberg"
+    ],
+    "name:pol_x_preferred":[
+        "Colesberg"
+    ],
+    "name:por_x_preferred":[
+        "Colesberg"
+    ],
+    "name:rum_x_preferred":[
+        "Colesberg"
+    ],
+    "name:unk_x_variant":[
+        "Colesberg Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u65af\u4f2f\u683c"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1013076,
+    "qs_pg:gn_pop":12423,
+    "qs_pg:name":"Colesberg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130262,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580421,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013076,
+        "gp:id":1580421,
+        "qs_pg:id":130262,
+        "wd:id":"Q2232441"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290552,
+    "wof:geomhash":"6142a1a5794dc34db5b53738060f27bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1125782695,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125782695,
+    "wof:lastmodified":1534530971,
+    "wof:name":"Colesberg",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:population":12423,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125903589,
+        1141907117
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09718,
+    -30.71999,
+    25.09718,
+    -30.71999
+],
+  "geometry": {"coordinates":[25.09718,-30.71999],"type":"Point"}
+}

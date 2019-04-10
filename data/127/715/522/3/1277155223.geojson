@@ -1,0 +1,73 @@
+{
+  "id": 1277155223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7169,-33.90539,20.7169,-33.90539",
+    "geom:latitude":-33.90539,
+    "geom:longitude":20.7169,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC034",
+    "gn:asciiname":"Hardys Memories of Africa",
+    "gn:country_code":"ZA",
+    "gn:dem":383,
+    "gn:elevation":"358.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":10295373,
+    "gn:latitude":-33.90539,
+    "gn:longitude":20.7169,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Hardys Memories of Africa",
+    "gn:population":7500,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10295373
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"02f1f7e97cfdc09394df9f77ffabb2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1277155223,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1277155223,
+    "wof:lastmodified":1536663260,
+    "wof:name":"Hardys Memories of Africa",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:population":7500,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7169,
+    -33.90539,
+    20.7169,
+    -33.90539
+],
+  "geometry": {"coordinates":[20.7169,-33.90539],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125796399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82437,-32.17588,26.82437,-32.17588",
+    "geom:latitude":-32.17588,
+    "geom:longitude":26.82437,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12080,
+    "gn:population":12080,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.17588,
+    "lbl:longitude":26.82437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:dut_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:eng_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:fre_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:ger_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:nso_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:rum_x_preferred":[
+        "Whittlesea"
+    ],
+    "name:ven_x_preferred":[
+        "Whittlesea"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":940186,
+    "qs_pg:gn_pop":12080,
+    "qs_pg:name":"Whittlesea",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1300611,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588877,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940186,
+        "gp:id":1588877,
+        "qs_pg:id":1300611,
+        "wd:id":"Q1027839"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291071,
+    "wof:geomhash":"dfbf25c2f816142ef02db0c148b4f65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125796399,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125796399,
+    "wof:lastmodified":1514505116,
+    "wof:name":"Whittlesea",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:population":12080,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82437,
+    -32.17588,
+    26.82437,
+    -32.17588
+],
+  "geometry": {"coordinates":[26.82437,-32.17588],"type":"Point"}
+}

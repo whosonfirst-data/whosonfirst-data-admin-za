@@ -1,0 +1,74 @@
+{
+  "id": 1327312087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41667,-33.36667,21.41667,-33.36667",
+    "geom:latitude":-33.36667,
+    "geom:longitude":21.41667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC5",
+    "gn:admin3_code":"WC051",
+    "gn:asciiname":"Seweweekspoort",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956258,
+    "gn:latitude":-33.36667,
+    "gn:longitude":21.41667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Seweweekspoort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seven Weeks Poort",
+        "Seweweekspoort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956258
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7ae58e2a0da1878f809b7fdee6b017d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730623,
+            "locality_id":1327312087,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1327312087,
+    "wof:lastmodified":1537716379,
+    "wof:name":"Seweweekspoort",
+    "wof:parent_id":1108730623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41667,
+    -33.36667,
+    21.41667,
+    -33.36667
+],
+  "geometry": {"coordinates":[21.41667,-33.36667],"type":"Point"}
+}

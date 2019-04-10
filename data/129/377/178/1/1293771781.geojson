@@ -1,0 +1,73 @@
+{
+  "id": 1293771781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39931,-33.90143,20.39931,-33.90143",
+    "geom:latitude":-33.90143,
+    "geom:longitude":20.39931,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC026",
+    "gn:asciiname":"Scheepersrus",
+    "gn:country_code":"ZA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":957321,
+    "gn:latitude":-33.90143,
+    "gn:longitude":20.39931,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Scheepersrus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scheepersrust",
+        "Scheepersrus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":957321
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1aa622b87c84ba9e38c8df3a778927bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1293771781,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293771781,
+    "wof:lastmodified":1537716380,
+    "wof:name":"Scheepersrus",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39931,
+    -33.90143,
+    20.39931,
+    -33.90143
+],
+  "geometry": {"coordinates":[20.39931,-33.90143],"type":"Point"}
+}

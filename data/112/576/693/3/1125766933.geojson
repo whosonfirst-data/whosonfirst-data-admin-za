@@ -1,0 +1,98 @@
+{
+  "id": 1125766933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09573,-26.12132,28.09573,-26.12132",
+    "geom:latitude":-26.12132,
+    "geom:longitude":28.09573,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.12132,
+    "lbl:longitude":28.09573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Kew"
+    ],
+    "name:dut_x_preferred":[
+        "Kew"
+    ],
+    "name:eng_x_preferred":[
+        "Kew"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":991247,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kew",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos":86,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075490,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582730,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991247,
+        "gp:id":1582730,
+        "qs_pg:id":1075490,
+        "wd:id":"Q6397868"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497289930,
+    "wof:geomhash":"5f9ee7bd9274b1136e720aa8d22f690a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1125766933,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125766933,
+    "wof:lastmodified":1514503936,
+    "wof:name":"Kew",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09573,
+    -26.12132,
+    28.09573,
+    -26.12132
+],
+  "geometry": {"coordinates":[28.09573,-26.12132],"type":"Point"}
+}

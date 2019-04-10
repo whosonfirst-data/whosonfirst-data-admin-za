@@ -1,0 +1,67 @@
+{
+  "id": 1242773781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36875,-24.91413,31.36875,-24.91413",
+    "geom:latitude":-24.91413,
+    "geom:longitude":31.36875,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Somerset",
+    "gn:country_code":"ZA",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954165,
+    "gn:latitude":-24.91413,
+    "gn:longitude":31.36875,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Somerset",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954165
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a5a5b73404686343e03129c98bf11314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1242773781,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1242773781,
+    "wof:lastmodified":1536781635,
+    "wof:name":"Somerset",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36875,
+    -24.91413,
+    31.36875,
+    -24.91413
+],
+  "geometry": {"coordinates":[31.36875,-24.91413],"type":"Point"}
+}

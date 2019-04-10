@@ -1,0 +1,96 @@
+{
+  "id": 1126018329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16534,-26.18795,28.16534,-26.18795",
+    "geom:latitude":-26.18795,
+    "geom:longitude":28.16534,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.18795,
+    "lbl:longitude":28.16534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Primrose"
+    ],
+    "name:dut_x_preferred":[
+        "Primrose"
+    ],
+    "name:eng_x_preferred":[
+        "Primrose"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":964081,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Primrose",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":308561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964081,
+        "gp:id":1586645,
+        "qs_pg:id":308561,
+        "wd:id":"Q15268605"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300683,
+    "wof:geomhash":"5142f1945d2471aa0edbf61276655eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":1126018329,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1126018329,
+    "wof:lastmodified":1514504515,
+    "wof:name":"Primrose",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16534,
+    -26.18795,
+    28.16534,
+    -26.18795
+],
+  "geometry": {"coordinates":[28.16534,-26.18795],"type":"Point"}
+}

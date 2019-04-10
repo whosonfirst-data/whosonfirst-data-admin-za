@@ -1,0 +1,63 @@
+{
+  "id": 1209599905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,-24.41667,30.03333,-24.41667",
+    "geom:latitude":-24.41667,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM475",
+    "gn:asciiname":"Windhoek",
+    "gn:country_code":"ZA",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939557,
+    "gn:latitude":-24.41667,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Windhoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939557
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"da739e2082e5d8786b873c9ecc7dd8a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209599905
+        }
+    ],
+    "wof:id":1209599905,
+    "wof:lastmodified":1536282202,
+    "wof:name":"Windhoek",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    -24.41667,
+    30.03333,
+    -24.41667
+],
+  "geometry": {"coordinates":[30.03333,-24.41667],"type":"Point"}
+}

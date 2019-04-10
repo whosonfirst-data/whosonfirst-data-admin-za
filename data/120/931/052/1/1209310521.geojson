@@ -1,0 +1,63 @@
+{
+  "id": 1209310521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16469,-24.14732,29.16469,-24.14732",
+    "geom:latitude":-24.14732,
+    "geom:longitude":29.16469,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Makapansgat",
+    "gn:country_code":"ZA",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980103,
+    "gn:latitude":-24.14732,
+    "gn:longitude":29.16469,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Makapansgat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980103
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"63cd74a17b8f5e82c2118e50fa8b3dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209310521
+        }
+    ],
+    "wof:id":1209310521,
+    "wof:lastmodified":1536291044,
+    "wof:name":"Makapansgat",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.164690000000004,
+    -24.14732,
+    29.164690000000004,
+    -24.14732
+],
+  "geometry": {"coordinates":[29.16469,-24.14732],"type":"Point"}
+}

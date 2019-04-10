@@ -1,0 +1,67 @@
+{
+  "id": 1226066567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19378,-25.28243,29.19378,-25.28243",
+    "geom:latitude":-25.28243,
+    "geom:longitude":29.19378,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Elandsdoorn",
+    "gn:country_code":"ZA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006356,
+    "gn:latitude":-25.28243,
+    "gn:longitude":29.19378,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Elandsdoorn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006356
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"74df5af20a21fbec22650e8c7a1c48e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1226066567,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226066567,
+    "wof:lastmodified":1536695434,
+    "wof:name":"Elandsdoorn",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19378,
+    -25.28243,
+    29.19378,
+    -25.28243
+],
+  "geometry": {"coordinates":[29.19378,-25.28243],"type":"Point"}
+}

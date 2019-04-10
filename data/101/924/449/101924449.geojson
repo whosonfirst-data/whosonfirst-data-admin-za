@@ -1,0 +1,82 @@
+{
+  "id": 101924449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":2024052.149494,
+    "geom:bbox":"30.3655147552,-24.5798931122,30.3829345703,-24.5596370697",
+    "geom:latitude":-24.569429,
+    "geom:longitude":30.373801,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.569387,
+    "lbl:longitude":30.372481,
+    "mps:latitude":-24.569387,
+    "mps:longitude":30.372481,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:nld_x_preferred":[
+        "Alverton"
+    ],
+    "name:pol_x_preferred":[
+        "Alverton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Alverton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":52.97,
+    "wd:longitude":-0.82,
+    "wd:wordcount":526,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023033,
+        "gp:id":1580215
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"86b4b85224257d0a5aed6833aa6e1328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101924449,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924449,
+    "wof:lastmodified":1527670488,
+    "wof:name":"Alverton",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36551475524902,
+    -24.57989311218262,
+    30.3829345703125,
+    -24.55963706970215
+],
+  "geometry": {"coordinates":[[[30.37792587280273,-24.56815147399902],[30.37883567810059,-24.57017517089844],[30.37886619567871,-24.57301902770996],[30.37977409362793,-24.57504081726074],[30.38156509399414,-24.57624435424805],[30.3829231262207,-24.57867050170898],[30.3829345703125,-24.57988929748535],[30.38249206542969,-24.57989311218262],[30.38026237487793,-24.57909965515137],[30.37401390075684,-24.5763111114502],[30.36820983886719,-24.57351875305176],[30.3659725189209,-24.57191276550293],[30.36551475524902,-24.57069778442383],[30.36681365966797,-24.56743621826172],[30.36899185180664,-24.56335639953613],[30.37206649780273,-24.56007957458496],[30.37606048583984,-24.55963706970215],[30.37695693969727,-24.5604419708252],[30.37786293029785,-24.56205940246582],[30.37792587280273,-24.56815147399902]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209801005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46992,-28.36197,23.46992,-28.36197",
+    "geom:latitude":-28.36197,
+    "geom:longitude":23.46992,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC086",
+    "gn:asciiname":"Lime Acres",
+    "gn:country_code":"ZA",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":982771,
+    "gn:latitude":-28.36197,
+    "gn:longitude":23.46992,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lime Acres",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982771,
+        "wk:page":"Lime_Acres"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f3bf0309085ffefcffc4c4ea11b5d720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1209801005,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1209801005,
+    "wof:lastmodified":1537576363,
+    "wof:name":"Lime Acres",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46992,
+    -28.36197,
+    23.46992,
+    -28.36197
+],
+  "geometry": {"coordinates":[23.46992,-28.36197],"type":"Point"}
+}

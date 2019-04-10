@@ -1,0 +1,74 @@
+{
+  "id": 101923219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":2232042.225635,
+    "geom:bbox":"29.0401515961,-23.3498420715,29.0537891388,-23.3285083771",
+    "geom:latitude":-23.338631,
+    "geom:longitude":29.046755,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.338066,
+    "lbl:longitude":29.047307,
+    "mps:latitude":-23.338066,
+    "mps:longitude":29.047307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GaMabotha",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003394,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c60d3df66e1fc31a06020a8c535168a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923219,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923219,
+    "wof:lastmodified":1527688298,
+    "wof:name":"GaMabotha",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.04015159606934,
+    -23.3498420715332,
+    29.05378913879395,
+    -23.3285083770752
+],
+  "geometry": {"coordinates":[[[29.04828643798828,-23.3285083770752],[29.0511474609375,-23.32952308654785],[29.05290794372559,-23.33074188232422],[29.05378913879395,-23.33317947387695],[29.05378913879395,-23.33561706542969],[29.05313110351562,-23.33866500854492],[29.04983329772949,-23.3449649810791],[29.04279327392578,-23.3498420715332],[29.0410327911377,-23.3498420715332],[29.04015159606934,-23.34862327575684],[29.04015159606934,-23.34659194946289],[29.04015159606934,-23.34415435791016],[29.04103088378906,-23.34171676635742],[29.04191017150879,-23.3376522064209],[29.04366683959961,-23.32993125915527],[29.0467472076416,-23.32871246337891],[29.04828643798828,-23.3285083770752]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":2060216.699812,
+    "geom:bbox":"26.9494915009,-27.1984500885,26.9630565643,-27.1793136597",
+    "geom:latitude":-27.189672,
+    "geom:longitude":26.955875,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.189574,
+    "lbl:longitude":26.955875,
+    "mps:latitude":-27.189574,
+    "mps:longitude":26.955875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rammulotsi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880024
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"787542271e8e7c1b480e87896b1e0f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926581,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926581,
+    "wof:lastmodified":1500027652,
+    "wof:name":"Rammulotsi",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94949150085449,
+    -27.19845008850098,
+    26.96305656433105,
+    -27.17931365966797
+],
+  "geometry": {"coordinates":[[[26.95211219787598,-27.19810676574707],[26.95089149475098,-27.19685745239258],[26.94949150085449,-27.19588279724121],[26.95004653930664,-27.18344497680664],[26.95552444458008,-27.18344688415527],[26.9551830291748,-27.17931365966797],[26.96014785766602,-27.1793155670166],[26.9603157043457,-27.1852855682373],[26.96305656433105,-27.1883487701416],[26.9600658416748,-27.19674491882324],[26.95945930480957,-27.19845008850098],[26.95211219787598,-27.19810676574707]]],"type":"Polygon"}
+}

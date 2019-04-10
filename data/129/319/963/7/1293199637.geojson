@@ -1,0 +1,69 @@
+{
+  "id": 1293199637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99113,-33.88853,24.99113,-33.88853",
+    "geom:latitude":-33.88853,
+    "geom:longitude":24.99113,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC108",
+    "gn:asciiname":"Melon",
+    "gn:country_code":"ZA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977134,
+    "gn:latitude":-33.88853,
+    "gn:longitude":24.99113,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Melon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977134
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ac105cba2ee01aa113cffc8356b4a884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1293199637,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293199637,
+    "wof:lastmodified":1536705338,
+    "wof:name":"Melon",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99113,
+    -33.88853,
+    24.99113,
+    -33.88853
+],
+  "geometry": {"coordinates":[24.99113,-33.88853],"type":"Point"}
+}

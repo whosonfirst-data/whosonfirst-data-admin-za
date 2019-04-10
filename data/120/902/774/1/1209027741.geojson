@@ -1,0 +1,63 @@
+{
+  "id": 1209027741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.27543,-26.29083,29.27543,-26.29083",
+    "geom:latitude":-26.29083,
+    "geom:longitude":29.27543,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP312",
+    "gn:asciiname":"Aangewysd",
+    "gn:country_code":"ZA",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1023991,
+    "gn:latitude":-26.29083,
+    "gn:longitude":29.27543,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Aangewysd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1023991
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5d262dc8d567bca60f677cfc1ed2adc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209027741
+        }
+    ],
+    "wof:id":1209027741,
+    "wof:lastmodified":1536299943,
+    "wof:name":"Aangewysd",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.27543,
+    -26.29083,
+    29.27543,
+    -26.29083
+],
+  "geometry": {"coordinates":[29.27543,-26.29083],"type":"Point"}
+}

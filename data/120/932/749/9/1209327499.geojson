@@ -1,0 +1,67 @@
+{
+  "id": 1209327499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32657,-28.1016,31.32657,-28.1016",
+    "geom:latitude":-28.1016,
+    "geom:longitude":31.32657,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN266",
+    "gn:asciiname":"Mkhiweni",
+    "gn:country_code":"ZA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975570,
+    "gn:latitude":-28.1016,
+    "gn:longitude":31.32657,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mkhiweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mncongweni",
+        "Mkhiweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975570
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"96233a21ca5fca82984b33f996842609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209327499
+        }
+    ],
+    "wof:id":1209327499,
+    "wof:lastmodified":1537716400,
+    "wof:name":"Mkhiweni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32657,
+    -28.1016,
+    31.32657,
+    -28.1016
+],
+  "geometry": {"coordinates":[31.32657,-28.1016],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293304281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13616,-29.28743,27.13616,-29.28743",
+    "geom:latitude":-29.28743,
+    "geom:longitude":27.13616,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Ellasrus",
+    "gn:country_code":"ZA",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005819,
+    "gn:latitude":-29.28743,
+    "gn:longitude":27.13616,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ellasrus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005819
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"04420b036b4e1968bb20597a791d1c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1293304281,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293304281,
+    "wof:lastmodified":1537049025,
+    "wof:name":"Ellasrus",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13616,
+    -29.28743,
+    27.13616,
+    -29.28743
+],
+  "geometry": {"coordinates":[27.13616,-29.28743],"type":"Point"}
+}

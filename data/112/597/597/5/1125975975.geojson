@@ -1,0 +1,82 @@
+{
+  "id": 1125975975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8566815,-33.993909,18.8566815,-33.993909",
+    "geom:latitude":-33.993909,
+    "geom:longitude":18.856682,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.993909,
+    "lbl:longitude":18.856682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dalsig",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":252,
+    "qs_pg:photos_1k":51,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":252,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117976,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580544,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580544,
+        "qs_pg:id":1117976
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298350,
+    "wof:geomhash":"62ea6df667c0ddada0512fddd314ae68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1125975975,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125975975,
+    "wof:lastmodified":1509404368,
+    "wof:name":"Dalsig",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8566815,
+    -33.993909,
+    18.8566815,
+    -33.993909
+],
+  "geometry": {"coordinates":[18.8566815,-33.993909],"type":"Point"}
+}

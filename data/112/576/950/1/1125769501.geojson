@@ -1,0 +1,100 @@
+{
+  "id": 1125769501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28708,-23.88782,30.28708,-23.88782",
+    "geom:latitude":-23.88782,
+    "geom:longitude":30.28708,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30138,
+    "gn:population":30138,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.88782,
+    "lbl:longitude":30.28708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Nkowankowa"
+    ],
+    "name:dut_x_preferred":[
+        "Nkowakowa"
+    ],
+    "name:eng_x_preferred":[
+        "Nkowankowa"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":970341,
+    "qs_pg:gn_pop":30138,
+    "qs_pg:name":"Nkowakowa",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":189341,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1585946,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970341,
+        "gp:id":1585946,
+        "qs_pg:id":189341,
+        "wd:id":"Q2565925"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290011,
+    "wof:geomhash":"cb5ec2bc1449bbada3fbea9659c436e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1125769501,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125769501,
+    "wof:lastmodified":1514504015,
+    "wof:name":"Nkowakowa",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:population":30138,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28708,
+    -23.88782,
+    30.28708,
+    -23.88782
+],
+  "geometry": {"coordinates":[30.28708,-23.88782],"type":"Point"}
+}

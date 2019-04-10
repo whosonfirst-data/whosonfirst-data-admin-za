@@ -1,0 +1,73 @@
+{
+  "id": 101928623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000541,
+    "geom:area_square_m":5702563.918517,
+    "geom:bbox":"28.7621269226,-31.5438957214,28.795381546,-31.5043811798",
+    "geom:latitude":-31.524329,
+    "geom:longitude":28.777453,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.524399,
+    "lbl:longitude":28.77632,
+    "mps:latitude":-31.524399,
+    "mps:longitude":28.77632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngwevana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970846,
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5f426e28f3ed074bf74a8a2aaacc476c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928623,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928623,
+    "wof:lastmodified":1500027921,
+    "wof:name":"Ngwevana",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.76212692260742,
+    -31.54389572143555,
+    28.79538154602051,
+    -31.50438117980957
+],
+  "geometry": {"coordinates":[[[28.79538154602051,-31.50811386108398],[28.79296493530273,-31.51177597045898],[28.78889656066895,-31.51655769348145],[28.77687454223633,-31.53703308105469],[28.77822494506836,-31.53989028930664],[28.77666091918945,-31.54389572143555],[28.76605606079102,-31.54160308837891],[28.76212692260742,-31.53699684143066],[28.76967239379883,-31.52167510986328],[28.78473854064941,-31.50438117980957],[28.79538154602051,-31.50811386108398]]],"type":"Polygon"}
+}

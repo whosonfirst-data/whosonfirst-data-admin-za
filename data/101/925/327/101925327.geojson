@@ -1,0 +1,70 @@
+{
+  "id": 101925327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000405,
+    "geom:area_square_m":4521203.829732,
+    "geom:bbox":"28.0496807098,-25.5741519928,28.0720653534,-25.5506496429",
+    "geom:latitude":-25.5614,
+    "geom:longitude":28.061787,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.560544,
+    "lbl:longitude":28.062693,
+    "mps:latitude":-25.560544,
+    "mps:longitude":28.062693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Itumeleng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"b1b7adb3273bccd1aaeff54c5199b3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925327,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925327,
+    "wof:lastmodified":1500027701,
+    "wof:name":"Itumeleng",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04968070983887,
+    -25.57415199279785,
+    28.07206535339355,
+    -25.55064964294434
+],
+  "geometry": {"coordinates":[[[28.07206535339355,-25.55782699584961],[28.07197380065918,-25.56452560424805],[28.07150459289551,-25.56976509094238],[28.06866455078125,-25.57260131835938],[28.06393241882324,-25.57389068603516],[28.06080436706543,-25.57028579711914],[28.05966758728027,-25.56942749023438],[28.05597686767578,-25.57415199279785],[28.05200004577637,-25.57406806945801],[28.05692100524902,-25.56736755371094],[28.04968070983887,-25.56167602539062],[28.05025291442871,-25.5609302520752],[28.05060005187988,-25.56047630310059],[28.05156326293945,-25.55064964294434],[28.0684642791748,-25.55146026611328],[28.06827545166016,-25.55267715454102],[28.07206344604492,-25.5537052154541],[28.07206535339355,-25.55782699584961]]],"type":"Polygon"}
+}

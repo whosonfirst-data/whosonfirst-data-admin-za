@@ -1,0 +1,69 @@
+{
+  "id": 1260084819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56048,-30.48966,27.56048,-30.48966",
+    "geom:latitude":-30.48966,
+    "geom:longitude":27.56048,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC142",
+    "gn:asciiname":"Musong",
+    "gn:country_code":"ZA",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972521,
+    "gn:latitude":-30.48966,
+    "gn:longitude":27.56048,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Musong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972521
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"24cc4f072f5e4158effe88aa85d78586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1260084819,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1260084819,
+    "wof:lastmodified":1536985232,
+    "wof:name":"Musong",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56048,
+    -30.48966,
+    27.56048,
+    -30.48966
+],
+  "geometry": {"coordinates":[27.56048,-30.48966],"type":"Point"}
+}

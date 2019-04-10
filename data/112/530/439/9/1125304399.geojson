@@ -1,0 +1,78 @@
+{
+  "id": 1125304399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7664,-28.41573,29.7664,-28.41573",
+    "geom:latitude":-28.41573,
+    "geom:longitude":29.7664,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":236748,
+    "gn:population":236748,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.41573,
+    "lbl:longitude":29.7664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347484,
+    "qs_pg:gn_pop":236748,
+    "qs_pg:name":"Emnambithi/Ladysmith",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":764924,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347484,
+        "qs_pg:id":764924
+    },
+    "wof:country":"ZA",
+    "wof:created":1497043610,
+    "wof:geomhash":"e98925aa717255284d167775abe58db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "localadmin_id":1125304399,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125304399,
+    "wof:lastmodified":1509387776,
+    "wof:name":"Emnambithi/Ladysmith",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"localadmin",
+    "wof:population":236748,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7664,
+    -28.41573,
+    29.7664,
+    -28.41573
+],
+  "geometry": {"coordinates":[29.7664,-28.41573],"type":"Point"}
+}

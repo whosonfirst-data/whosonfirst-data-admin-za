@@ -1,0 +1,63 @@
+{
+  "id": 1209404573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86289,-23.64569,28.86289,-23.64569",
+    "geom:latitude":-23.64569,
+    "geom:longitude":28.86289,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Uitspan",
+    "gn:country_code":"ZA",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946535,
+    "gn:latitude":-23.64569,
+    "gn:longitude":28.86289,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uitspan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946535
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e4f61d18b48722efbf20b80ec4f80e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209404573
+        }
+    ],
+    "wof:id":1209404573,
+    "wof:lastmodified":1536288037,
+    "wof:name":"Uitspan",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.862890000000004,
+    -23.64569,
+    28.862890000000004,
+    -23.64569
+],
+  "geometry": {"coordinates":[28.86289,-23.64569],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125970519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.421081,-33.598678,19.421081,-33.598678",
+    "geom:latitude":-33.598678,
+    "geom:longitude":19.421081,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.598678,
+    "lbl:longitude":19.421081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Worcester West",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":137,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880931,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880931,
+        "qs_pg:id":1311359
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298147,
+    "wof:geomhash":"7a2e4c71583bf8c25a0c1e9599dbaa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1125970519,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125970519,
+    "wof:lastmodified":1509403928,
+    "wof:name":"Worcester West",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.421081,
+    -33.598678,
+    19.421081,
+    -33.598678
+],
+  "geometry": {"coordinates":[19.421081,-33.598678],"type":"Point"}
+}

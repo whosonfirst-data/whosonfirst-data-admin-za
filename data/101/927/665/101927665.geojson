@@ -1,0 +1,73 @@
+{
+  "id": 101927665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":1327763.089463,
+    "geom:bbox":"32.1765975952,-28.4488430023,32.1875228882,-28.4337768555",
+    "geom:latitude":-28.440518,
+    "geom:longitude":32.182426,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.439649,
+    "lbl:longitude":32.181984,
+    "mps:latitude":-28.439649,
+    "mps:longitude":32.181984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"River View",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961100,
+        "gp:id":1591133
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"792b950c48ea572d4b4111d458ed33b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":101927665,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927665,
+    "wof:lastmodified":1500027490,
+    "wof:name":"River View",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.17659759521484,
+    -28.44884300231934,
+    32.18752288818359,
+    -28.43377685546875
+],
+  "geometry": {"coordinates":[[[32.17806625366211,-28.43446159362793],[32.17882537841797,-28.43377685546875],[32.18469619750977,-28.43395042419434],[32.1875114440918,-28.43460273742676],[32.18752288818359,-28.43550491333008],[32.18677520751953,-28.43731689453125],[32.18662261962891,-28.44634246826172],[32.1863899230957,-28.44837379455566],[32.18613815307617,-28.44837760925293],[32.18435668945312,-28.44884300231934],[32.18281936645508,-28.44840621948242],[32.18127822875977,-28.44751739501953],[32.17972183227539,-28.44550132751465],[32.1791877746582,-28.4434757232666],[32.17661666870117,-28.44169235229492],[32.17659759521484,-28.44011306762695],[32.17806625366211,-28.43446159362793]]],"type":"Polygon"}
+}

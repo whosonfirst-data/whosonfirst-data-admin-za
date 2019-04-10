@@ -1,0 +1,74 @@
+{
+  "id": 101923841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:area_square_m":1979606.495794,
+    "geom:bbox":"29.6851596832,-24.9902057648,29.7056865692,-24.9739456177",
+    "geom:latitude":-24.982437,
+    "geom:longitude":29.695162,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.982501,
+    "lbl:longitude":29.695007,
+    "mps:latitude":-24.982501,
+    "mps:longitude":29.695007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mahlangu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":253,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980306,
+        "gp:id":1590830
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1ca5b6b9c985cb054c61e3f742d3bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923841,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923841,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Mahlangu",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68515968322754,
+    -24.99020576477051,
+    29.70568656921387,
+    -24.97394561767578
+],
+  "geometry": {"coordinates":[[[29.69278717041016,-24.99020576477051],[29.68515968322754,-24.9800853729248],[29.69626617431641,-24.97394561767578],[29.70568656921387,-24.98568153381348],[29.69278717041016,-24.99020576477051]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276447225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98333,-32.05,28.98333,-32.05",
+    "geom:latitude":-32.05,
+    "geom:longitude":28.98333,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Mndwaka",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975338,
+    "gn:latitude":-32.05,
+    "gn:longitude":28.98333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mndwaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mdaka",
+        "Mdwaka",
+        "Mndwaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975338
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f6a4fe00f563712d7311ed71aaaa8aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1276447225,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276447225,
+    "wof:lastmodified":1537716400,
+    "wof:name":"Mndwaka",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98333,
+    -32.05,
+    28.98333,
+    -32.05
+],
+  "geometry": {"coordinates":[28.98333,-32.05],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125788747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1252,-28.07905,30.1252,-28.07905",
+    "geom:latitude":-28.07905,
+    "geom:longitude":30.1252,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.07905,
+    "lbl:longitude":30.1252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hattingspruit"
+    ],
+    "name:dut_x_preferred":[
+        "Hattingspruit"
+    ],
+    "name:eng_x_preferred":[
+        "Hattingspruit"
+    ],
+    "name:rum_x_preferred":[
+        "Hattingspruit"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":997324,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hattingspruit",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997324,
+        "gp:id":1582141,
+        "qs_pg:id":193853,
+        "wd:id":"Q3643570"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290778,
+    "wof:geomhash":"33b2c45700366b0f0fdf043f81f193c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":1125788747,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125788747,
+    "wof:lastmodified":1514503914,
+    "wof:name":"Hattingspruit",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1252,
+    -28.07905,
+    30.1252,
+    -28.07905
+],
+  "geometry": {"coordinates":[30.1252,-28.07905],"type":"Point"}
+}

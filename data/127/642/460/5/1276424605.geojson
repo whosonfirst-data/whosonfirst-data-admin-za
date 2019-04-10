@@ -1,0 +1,73 @@
+{
+  "id": 1276424605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.40729,-25.85399,25.40729,-25.85399",
+    "geom:latitude":-25.85399,
+    "geom:longitude":25.40729,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Mashutlhe",
+    "gn:country_code":"ZA",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978435,
+    "gn:latitude":-25.85399,
+    "gn:longitude":25.40729,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mashutlhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mushwutlhe",
+        "Mashutlhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978435
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ad38b5cfa25c59fdc876a08828fc8d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1276424605,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1276424605,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Mashutlhe",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.40729,
+    -25.85399,
+    25.40729,
+    -25.85399
+],
+  "geometry": {"coordinates":[25.40729,-25.85399],"type":"Point"}
+}

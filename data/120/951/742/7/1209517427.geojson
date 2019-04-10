@@ -1,0 +1,63 @@
+{
+  "id": 1209517427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46047,-29.5522,26.46047,-29.5522",
+    "geom:latitude":-29.5522,
+    "geom:longitude":26.46047,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS164",
+    "gn:asciiname":"Kassel",
+    "gn:country_code":"ZA",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991714,
+    "gn:latitude":-29.5522,
+    "gn:longitude":26.46047,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kassel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991714
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9d87cb407ebfdb0f8721dac18e280a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209517427
+        }
+    ],
+    "wof:id":1209517427,
+    "wof:lastmodified":1536284688,
+    "wof:name":"Kassel",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46047,
+    -29.5522,
+    26.46047,
+    -29.5522
+],
+  "geometry": {"coordinates":[26.46047,-29.5522],"type":"Point"}
+}

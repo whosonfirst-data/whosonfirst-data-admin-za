@@ -1,0 +1,73 @@
+{
+  "id": 1259772387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75846,-26.08138,25.75846,-26.08138",
+    "geom:latitude":-26.08138,
+    "geom:longitude":25.75846,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW384",
+    "gn:asciiname":"Matila",
+    "gn:country_code":"ZA",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978259,
+    "gn:latitude":-26.08138,
+    "gn:longitude":25.75846,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Matila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matile",
+        "Matila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978259
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"92180069e5b59f07689329ea39d840ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1259772387,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1259772387,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Matila",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75846,
+    -26.08138,
+    25.75846,
+    -26.08138
+],
+  "geometry": {"coordinates":[25.75846,-26.08138],"type":"Point"}
+}

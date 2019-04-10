@@ -1,0 +1,70 @@
+{
+  "id": 101925823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":297616.610743,
+    "geom:bbox":"27.7119789124,-26.1732902527,27.718755722,-26.1642894745",
+    "geom:latitude":-26.16871,
+    "geom:longitude":27.714763,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.16773,
+    "lbl:longitude":27.714763,
+    "mps:latitude":-26.16773,
+    "mps:longitude":27.714763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hectorton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"63126f2033b20df2eabee9e3a8f425a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925823,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925823,
+    "wof:lastmodified":1500027723,
+    "wof:name":"Hectorton",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71197891235352,
+    -26.17329025268555,
+    27.7187557220459,
+    -26.1642894744873
+],
+  "geometry": {"coordinates":[[[27.7187557220459,-26.1700496673584],[27.71480941772461,-26.16954231262207],[27.71397018432617,-26.17235374450684],[27.7134838104248,-26.17329025268555],[27.71197891235352,-26.17320442199707],[27.71231651306152,-26.17251396179199],[27.71253204345703,-26.16931533813477],[27.71336936950684,-26.1642894744873],[27.71467971801758,-26.16572952270508],[27.71544075012207,-26.16604423522949],[27.71730995178223,-26.16654777526855],[27.7187557220459,-26.1700496673584]]],"type":"Polygon"}
+}

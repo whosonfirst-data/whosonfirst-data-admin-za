@@ -1,0 +1,98 @@
+{
+  "id": 101926025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000624,
+    "geom:area_square_m":6916626.042802,
+    "geom:bbox":"29.2480354309,-26.282995224,29.2819976807,-26.2525691986",
+    "geom:latitude":-26.26904,
+    "geom:longitude":29.265745,
+    "gn:population":15055,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.271137,
+    "lbl:longitude":29.264047,
+    "mps:latitude":-26.271137,
+    "mps:longitude":29.264047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kriel"
+    ],
+    "name:dut_x_preferred":[
+        "Ga-Nala"
+    ],
+    "name:eng_x_preferred":[
+        "Kriel"
+    ],
+    "name:nso_x_preferred":[
+        "Kriel"
+    ],
+    "name:rum_x_preferred":[
+        "Kriel"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kriel",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":987202,
+        "gp:id":1583054,
+        "qs:id":193865,
+        "qs_pg:id":193865,
+        "wd:id":"Q1870711"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6a40e9658ad03211a33342606d88c3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101926025,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926025,
+    "wof:lastmodified":1527715813,
+    "wof:name":"Kriel",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:population":15055,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2480354309082,
+    -26.28299522399902,
+    29.28199768066406,
+    -26.2525691986084
+],
+  "geometry": {"coordinates":[[[29.2480354309082,-26.28026008605957],[29.24847984313965,-26.27331161499023],[29.26005172729492,-26.26380348205566],[29.26089096069336,-26.2575798034668],[29.26963233947754,-26.2525691986084],[29.27053260803223,-26.25257301330566],[29.27153205871582,-26.25284957885742],[29.27323150634766,-26.25387763977051],[29.28070831298828,-26.25839996337891],[29.28132820129395,-26.25898933410645],[29.28180122375488,-26.25967025756836],[29.28199768066406,-26.2603931427002],[29.2819938659668,-26.2611141204834],[29.28194808959961,-26.2617015838623],[29.28188514709473,-26.26228713989258],[29.2772102355957,-26.2739086151123],[29.27221870422363,-26.27144622802734],[29.27134704589844,-26.28299522399902],[29.2557315826416,-26.28219604492188],[29.25172233581543,-26.28118705749512],[29.2480354309082,-26.28026008605957]]],"type":"Polygon"}
+}

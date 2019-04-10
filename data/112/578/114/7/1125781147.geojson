@@ -1,0 +1,102 @@
+{
+  "id": 1125781147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98378,-28.89531,21.98378,-28.89531",
+    "geom:latitude":-28.89531,
+    "geom:longitude":21.98378,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.89531,
+    "lbl:longitude":21.98378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u9b6f\u4f2f\u65af\u666e"
+    ],
+    "name:dut_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:eng_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:ger_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:ita_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:pol_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:rum_x_preferred":[
+        "Groblershoop"
+    ],
+    "name:unk_x_variant":[
+        "Sternham"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":999962,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Groblershoop",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1243003,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999962,
+        "qs_pg:id":1243003,
+        "wd:id":"Q3545448"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290482,
+    "wof:geomhash":"a4d1ae4a0de58d89641bc26fdd65d1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1125781147,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125781147,
+    "wof:lastmodified":1514503912,
+    "wof:name":"Groblershoop",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98378,
+    -28.89531,
+    21.98378,
+    -28.89531
+],
+  "geometry": {"coordinates":[21.98378,-28.89531],"type":"Point"}
+}

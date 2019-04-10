@@ -1,0 +1,86 @@
+{
+  "id": 101925707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":913867.677356,
+    "geom:bbox":"29.3082504272,-26.1030769348,29.3233261108,-26.0938739777",
+    "geom:latitude":-26.098227,
+    "geom:longitude":29.317124,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.097346,
+    "lbl:longitude":29.319385,
+    "mps:latitude":-26.097346,
+    "mps:longitude":29.319385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vandyksdrif"
+    ],
+    "name:dut_x_preferred":[
+        "Vandyksdrif"
+    ],
+    "name:eng_x_preferred":[
+        "Vandyksdrif"
+    ],
+    "name:rum_x_preferred":[
+        "Vandyksdrif"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Van Dyksdrif",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944929,
+        "gp:id":1591643,
+        "wd:id":"Q19709733"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"452ec2ac783542ce6413eb7f3460220b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925707,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925707,
+    "wof:lastmodified":1514504619,
+    "wof:name":"Van Dyksdrif",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.30825042724609,
+    -26.10307693481445,
+    29.32332611083984,
+    -26.09387397766113
+],
+  "geometry": {"coordinates":[[[29.31270217895508,-26.09612274169922],[29.31607627868652,-26.09461975097656],[29.3170166015625,-26.09432029724121],[29.31797218322754,-26.09405899047852],[29.31902503967285,-26.09387397766113],[29.32028770446777,-26.09387969970703],[29.32144355773926,-26.09397888183594],[29.32217788696289,-26.09426689147949],[29.32270240783691,-26.09465026855469],[29.32311820983887,-26.09541130065918],[29.32332611083984,-26.09598159790039],[29.32332038879395,-26.09674263000488],[29.32328033447266,-26.09750175476074],[29.32320785522461,-26.0982608795166],[29.32299613952637,-26.09902572631836],[29.32260513305664,-26.09975051879883],[29.3221435546875,-26.10044097900391],[29.31929016113281,-26.10261154174805],[29.31718444824219,-26.10307693481445],[29.31709671020508,-26.10003662109375],[29.30856513977051,-26.10227584838867],[29.30825042724609,-26.10189437866211],[29.31270217895508,-26.09612274169922]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1125779095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29053,-33.9528,24.29053,-33.9528",
+    "geom:latitude":-33.9528,
+    "geom:longitude":24.29053,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.9528,
+    "lbl:longitude":24.29053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u91cc\u9053"
+    ],
+    "name:dut_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:eng_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:fre_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:ger_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:ita_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:nso_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:rum_x_preferred":[
+        "Kareedouw"
+    ],
+    "name:unk_x_variant":[
+        "Karreedouw"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":992071,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kareedouw",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903590,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1589916,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":992071,
+        "gp:id":1589916,
+        "qs_pg:id":903590,
+        "wd:id":"Q827309"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327141
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290390,
+    "wof:geomhash":"8486eec7303eb693b9a6bf6e26bc1a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125779095,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125779095,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Kareedouw",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125867511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29053,
+    -33.9528,
+    24.29053,
+    -33.9528
+],
+  "geometry": {"coordinates":[24.29053,-33.9528],"type":"Point"}
+}

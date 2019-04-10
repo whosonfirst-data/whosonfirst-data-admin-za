@@ -1,0 +1,70 @@
+{
+  "id": 1343846239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20912,-31.69875,18.20912,-31.69875",
+    "geom:latitude":-31.69875,
+    "geom:longitude":18.20912,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC011",
+    "gn:asciiname":"Papendorp",
+    "gn:country_code":"ZA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3363039,
+    "gn:latitude":-31.69875,
+    "gn:longitude":18.20912,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Papendorp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363039,
+        "wk:page":"Papendorp"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e88b0520dd34cfd9ce2562087c50072a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1343846239,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1343846239,
+    "wof:lastmodified":1537576371,
+    "wof:name":"Papendorp",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20912,
+    -31.69875,
+    18.20912,
+    -31.69875
+],
+  "geometry": {"coordinates":[18.20912,-31.69875],"type":"Point"}
+}

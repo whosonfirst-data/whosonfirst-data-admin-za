@@ -1,0 +1,69 @@
+{
+  "id": 1327321731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47739,-33.78159,19.47739,-33.78159",
+    "geom:latitude":-33.78159,
+    "geom:longitude":19.47739,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC025",
+    "gn:asciiname":"Wilgerhof",
+    "gn:country_code":"ZA",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3359401,
+    "gn:latitude":-33.78159,
+    "gn:longitude":19.47739,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Wilgerhof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359401
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fa4e8c4ad82d6bc2f69dbcdb4cf4a078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1327321731,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1327321731,
+    "wof:lastmodified":1536839664,
+    "wof:name":"Wilgerhof",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47739,
+    -33.78159,
+    19.47739,
+    -33.78159
+],
+  "geometry": {"coordinates":[19.47739,-33.78159],"type":"Point"}
+}

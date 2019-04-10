@@ -1,0 +1,84 @@
+{
+  "id": 101925893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1381253.583572,
+    "geom:bbox":"28.4111289978,-26.2098464966,28.4269065857,-26.1917114258",
+    "geom:latitude":-26.203241,
+    "geom:longitude":28.418912,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.202448,
+    "lbl:longitude":28.417059,
+    "mps:latitude":-26.202448,
+    "mps:longitude":28.417059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dersley"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dersley",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14628d5e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1010774,
+        "gp:id":1580666,
+        "qs:id":1116865,
+        "qs_pg:id":1116865
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8a84016cfee2db9948d935149d6e7ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925893,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925893,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497295311,
+    "wof:name":"Dersley",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41112899780273,
+    -26.20984649658203,
+    28.42690658569336,
+    -26.19171142578125
+],
+  "geometry": {"coordinates":[[[28.41112899780273,-26.2072696685791],[28.41525268554688,-26.19772338867188],[28.41977691650391,-26.19936752319336],[28.42398643493652,-26.19171142578125],[28.42610931396484,-26.19259643554688],[28.41979598999023,-26.20471954345703],[28.4234676361084,-26.20432472229004],[28.42690658569336,-26.20732688903809],[28.42522048950195,-26.20798301696777],[28.42212104797363,-26.20918655395508],[28.42054557800293,-26.20979690551758],[28.41852188110352,-26.20984649658203],[28.41545677185059,-26.20888137817383],[28.41255378723145,-26.2077522277832],[28.41112899780273,-26.2072696685791]]],"type":"Polygon"}
+}

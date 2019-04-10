@@ -1,0 +1,78 @@
+{
+  "id": 1125271229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.12185,-25.21033,26.12185,-25.21033",
+    "geom:latitude":-25.21033,
+    "geom:longitude":26.12185,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":129304,
+    "gn:population":129304,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.21033,
+    "lbl:longitude":26.12185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347467,
+    "qs_pg:gn_pop":129304,
+    "qs_pg:name":"Ramotshere Moiloa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":764911,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347467,
+        "qs_pg:id":764911
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042136,
+    "wof:geomhash":"4bb627e85db5bfaa58a853f1f9441a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "localadmin_id":1125271229,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1125271229,
+    "wof:lastmodified":1509387025,
+    "wof:name":"Ramotshere Moiloa",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"localadmin",
+    "wof:population":129304,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.12185,
+    -25.21033,
+    26.12185,
+    -25.21033
+],
+  "geometry": {"coordinates":[26.12185,-25.21033],"type":"Point"}
+}

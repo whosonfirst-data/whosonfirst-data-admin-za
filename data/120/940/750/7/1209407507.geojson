@@ -1,0 +1,63 @@
+{
+  "id": 1209407507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.12165,-26.21155,28.12165,-26.21155",
+    "geom:latitude":-26.21155,
+    "geom:longitude":28.12165,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Heriotdale",
+    "gn:country_code":"ZA",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870437,
+    "gn:latitude":-26.21155,
+    "gn:longitude":28.12165,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Heriotdale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870437
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8550923f8eb447cd88b6327611e30058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209407507
+        }
+    ],
+    "wof:id":1209407507,
+    "wof:lastmodified":1536287947,
+    "wof:name":"Heriotdale",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12165,
+    -26.21155,
+    28.12165,
+    -26.21155
+],
+  "geometry": {"coordinates":[28.12165,-26.21155],"type":"Point"}
+}

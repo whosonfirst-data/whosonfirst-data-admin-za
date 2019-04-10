@@ -1,0 +1,112 @@
+{
+  "id": 85783097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4675792.031256,
+    "geom:bbox":"28.148966,-25.878787,28.148966,-25.878787",
+    "geom:latitude":-25.878787,
+    "geom:longitude":28.148966,
+    "gn:latitude":-25.89428,
+    "gn:longitude":28.15076,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.878787,
+    "lbl:longitude":28.148966,
+    "mps:latitude":-25.871581,
+    "mps:longitude":28.157959,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Rooihuiskraal"
+    ],
+    "name:eng_x_preferred":[
+        "Rooihuiskraal North"
+    ],
+    "name:unk_x_variant":[
+        "Rooihuiskraal North"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Rooihuiskraal",
+    "qs:local_max":124,
+    "qs:local_sum":197,
+    "qs:localhoods":4,
+    "qs:name":"Rooihuiskraal North",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Tshwane",
+    "qs:name_lau":"Tshwane",
+    "qs:name_local":"Centurion",
+    "qs:photo_max":13,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189409,
+    "qs:woe_lau":56189696,
+    "qs:woe_local":1588611,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959931,
+        "gp:id":1586996,
+        "qs:id":1312126,
+        "qs_pg:id":43569
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d068fe1c03fe7588248e41afca5a02bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":-1,
+            "neighbourhood_id":85783097,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783097,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860453,
+    "wof:name":"Rooihuiskraal North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.148966,
+    -25.878787,
+    28.148966,
+    -25.878787
+],
+  "geometry": {"coordinates":[28.148966,-25.878787],"type":"Point"}
+}

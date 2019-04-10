@@ -1,0 +1,69 @@
+{
+  "id": 1293188861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05563,-34.05101,22.05563,-34.05101",
+    "geom:latitude":-34.05101,
+    "geom:longitude":22.05563,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC043",
+    "gn:asciiname":"Die Erwe",
+    "gn:country_code":"ZA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010418,
+    "gn:latitude":-34.05101,
+    "gn:longitude":22.05563,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Die Erwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010418
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5f2bc7b50d75a67f03c0ae2560b83913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1293188861,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293188861,
+    "wof:lastmodified":1536720979,
+    "wof:name":"Die Erwe",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05563,
+    -34.05101,
+    22.05563,
+    -34.05101
+],
+  "geometry": {"coordinates":[22.05563,-34.05101],"type":"Point"}
+}

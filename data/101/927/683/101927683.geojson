@@ -1,0 +1,143 @@
+{
+  "id": 101927683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00033,
+    "geom:area_square_m":3580133.407537,
+    "geom:bbox":"31.3875198364,-28.6059741974,31.4069137573,-28.577999115",
+    "geom:latitude":-28.591856,
+    "geom:longitude":31.398387,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.587339,
+    "lbl:longitude":31.400141,
+    "mps:latitude":-28.587339,
+    "mps:longitude":31.400141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Melmoth"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u043b\u043c\u0430\u0442"
+    ],
+    "name:chi_x_preferred":[
+        "\u6885\u723e\u83ab\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Melmoth"
+    ],
+    "name:dut_x_preferred":[
+        "Melmoth"
+    ],
+    "name:eng_x_preferred":[
+        "Melmoth"
+    ],
+    "name:fre_x_preferred":[
+        "Melmoth"
+    ],
+    "name:ger_x_preferred":[
+        "Melmoth"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ad\u03bb\u03bc\u03bf\u03b8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05de\u05d5\u05ea"
+    ],
+    "name:ita_x_preferred":[
+        "Melmoth"
+    ],
+    "name:nno_x_preferred":[
+        "Melmoth"
+    ],
+    "name:nob_x_preferred":[
+        "Melmoth"
+    ],
+    "name:nso_x_preferred":[
+        "Melmoth"
+    ],
+    "name:ron_x_preferred":[
+        "Melmoth"
+    ],
+    "name:rum_x_preferred":[
+        "Melmoth"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u043c\u043e\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Melmoth"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u723e\u83ab\u65af"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Melmoth",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":740.0,
+    "wd:latitude":-28.583333,
+    "wd:longitude":31.383333,
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977135,
+        "gp:id":1584875,
+        "qs_pg:id":1029493,
+        "wd:id":"Q656049",
+        "wk:page":"Melmoth, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a5bad227d7709cf825e7f076fa38abc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":101927683,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927683,
+    "wof:lastmodified":1534986000,
+    "wof:name":"Melmoth",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615515
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38751983642578,
+    -28.6059741973877,
+    31.40691375732422,
+    -28.57799911499023
+],
+  "geometry": {"coordinates":[[[31.391845703125,-28.59178924560547],[31.3918399810791,-28.5904369354248],[31.39105606079102,-28.5859260559082],[31.39156532287598,-28.58524894714355],[31.39411544799805,-28.58388710021973],[31.39436721801758,-28.58253288269043],[31.39460754394531,-28.57869720458984],[31.39665031433105,-28.5780143737793],[31.39926338195801,-28.57800674438477],[31.40201568603516,-28.57799911499023],[31.40406799316406,-28.58002281188965],[31.40664672851562,-28.58565521240234],[31.40691375732422,-28.58903694152832],[31.40361022949219,-28.59378433227539],[31.40081214904785,-28.59717750549316],[31.40132904052734,-28.5987548828125],[31.40439987182617,-28.59987258911133],[31.40594100952148,-28.6016731262207],[31.40544509887695,-28.60551071166992],[31.40442276000977,-28.60573768615723],[31.40135765075684,-28.6059741973877],[31.39572525024414,-28.60396003723145],[31.3885498046875,-28.5992431640625],[31.38751983642578,-28.59676551818848],[31.38802528381348,-28.59518432617188],[31.38904190063477,-28.59382820129395],[31.39108657836914,-28.59382247924805],[31.39313888549805,-28.59607124328613],[31.3967170715332,-28.59809112548828],[31.39697647094727,-28.59673690795898],[31.39739990234375,-28.59521293640137],[31.39779663085938,-28.59404563903809],[31.3941535949707,-28.59358787536621],[31.39210319519043,-28.59246635437012],[31.391845703125,-28.59178924560547]]],"type":"Polygon"}
+}

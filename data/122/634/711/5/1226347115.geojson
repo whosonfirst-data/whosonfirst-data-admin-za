@@ -1,0 +1,73 @@
+{
+  "id": 1226347115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69999,-30.89764,29.69999,-30.89764",
+    "geom:latitude":-30.89764,
+    "geom:longitude":29.69999,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Nqabeni",
+    "gn:country_code":"ZA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969531,
+    "gn:latitude":-30.89764,
+    "gn:longitude":29.69999,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nqabeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngabeni",
+        "Nqabeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969531
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b259dd0bc01c9f68f1ad8031777b2139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1226347115,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226347115,
+    "wof:lastmodified":1537716389,
+    "wof:name":"Nqabeni",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69999,
+    -30.89764000000001,
+    29.69999,
+    -30.89764000000001
+],
+  "geometry": {"coordinates":[29.69999,-30.89764000000001],"type":"Point"}
+}

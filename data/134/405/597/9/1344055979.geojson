@@ -1,0 +1,69 @@
+{
+  "id": 1344055979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4724,-31.58141,29.4724,-31.58141",
+    "geom:latitude":-31.58141,
+    "geom:longitude":29.4724,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Kings Ride",
+    "gn:country_code":"ZA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990866,
+    "gn:latitude":-31.58141,
+    "gn:longitude":29.4724,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kings Ride",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990866
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f8728d2890149e0e236d7f8c38aaafb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1344055979,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1344055979,
+    "wof:lastmodified":1536881358,
+    "wof:name":"Kings Ride",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4724,
+    -31.58141,
+    29.4724,
+    -31.58141
+],
+  "geometry": {"coordinates":[29.4724,-31.58141],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260187223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55662,-31.68683,26.55662,-31.68683",
+    "geom:latitude":-31.68683,
+    "geom:longitude":26.55662,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC133",
+    "gn:asciiname":"Martindale",
+    "gn:country_code":"ZA",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978609,
+    "gn:latitude":-31.68683,
+    "gn:longitude":26.55662,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Martindale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978609
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f7fc44fba8ace1d386ee391d2f9c1409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1260187223,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1260187223,
+    "wof:lastmodified":1536841732,
+    "wof:name":"Martindale",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55662,
+    -31.68683,
+    26.55662,
+    -31.68683
+],
+  "geometry": {"coordinates":[26.55662,-31.68683],"type":"Point"}
+}

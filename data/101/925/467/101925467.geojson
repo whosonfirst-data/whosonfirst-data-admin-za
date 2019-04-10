@@ -1,0 +1,70 @@
+{
+  "id": 101925467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":382716.951764,
+    "geom:bbox":"28.1392211914,-25.7380275726,28.147518158,-25.7311286926",
+    "geom:latitude":-25.734121,
+    "geom:longitude":28.142784,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.734195,
+    "lbl:longitude":28.142863,
+    "mps:latitude":-25.734195,
+    "mps:longitude":28.142863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Philip Nel Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"ca3219c5ff98454d7980efaa8b52d19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925467,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925467,
+    "wof:lastmodified":1500027710,
+    "wof:name":"Philip Nel Park",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13922119140625,
+    -25.73802757263184,
+    28.14751815795898,
+    -25.73112869262695
+],
+  "geometry": {"coordinates":[[[28.13938903808594,-25.73112869262695],[28.14751815795898,-25.73173332214355],[28.14481353759766,-25.73526573181152],[28.14346122741699,-25.73802757263184],[28.1399040222168,-25.73756980895996],[28.1407470703125,-25.73373413085938],[28.13922119140625,-25.73266220092773],[28.13938903808594,-25.73112869262695]]],"type":"Polygon"}
+}

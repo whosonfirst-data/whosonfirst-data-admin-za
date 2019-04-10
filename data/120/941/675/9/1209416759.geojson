@@ -1,0 +1,67 @@
+{
+  "id": 1209416759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96085,-29.60643,25.96085,-29.60643",
+    "geom:latitude":-29.60643,
+    "geom:longitude":25.96085,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Bethany",
+    "gn:country_code":"ZA",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019745,
+    "gn:latitude":-29.60643,
+    "gn:longitude":25.96085,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bethany",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bethanie",
+        "Bethany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019745
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7a8e156e444fb9897fc1cd61218331f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209416759
+        }
+    ],
+    "wof:id":1209416759,
+    "wof:lastmodified":1537716438,
+    "wof:name":"Bethany",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96085,
+    -29.60643,
+    25.96085,
+    -29.60643
+],
+  "geometry": {"coordinates":[25.96085,-29.60643],"type":"Point"}
+}

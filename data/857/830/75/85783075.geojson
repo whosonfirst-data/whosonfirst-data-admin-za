@@ -1,0 +1,109 @@
+{
+  "id": 85783075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":484767.1186,
+    "geom:bbox":"28.271713,-25.745478,28.271713,-25.745478",
+    "geom:latitude":-25.745478,
+    "geom:longitude":28.271713,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-25.745478,
+    "lbl:longitude":28.271713,
+    "mps:latitude":-25.747155,
+    "mps:longitude":28.27081,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Persequor"
+    ],
+    "name:unk_x_variant":[
+        "Persequor"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":964137,
+    "qs:gn_nam_loc":"Tshwane, Pretoria, City of Tshwane, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":848,
+    "qs:local_sum":4611,
+    "qs:localhoods":32,
+    "qs:name":"Persequor",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Tshwane",
+    "qs:name_lau":"Tshwane",
+    "qs:name_local":"Pretoria",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189409,
+    "qs:woe_lau":56189696,
+    "qs:woe_local":1586638,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925471,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878097,
+        "qs:id":1318489,
+        "qs_pg:id":1318489
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"686eac991e7b97f3d6f848bd2373e841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925471,
+            "neighbourhood_id":85783075,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783075,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860451,
+    "wof:name":"Persequor",
+    "wof:parent_id":101925471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.271713,
+    -25.745478,
+    28.271713,
+    -25.745478
+],
+  "geometry": {"coordinates":[28.271713,-25.745478],"type":"Point"}
+}

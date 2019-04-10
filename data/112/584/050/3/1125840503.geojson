@@ -1,0 +1,78 @@
+{
+  "id": 1125840503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-23.9,29.81667,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":29.81667,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12499,
+    "gn:population":12499,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.9,
+    "lbl:longitude":29.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":979365,
+    "qs_pg:gn_pop":12499,
+    "qs_pg:name":"Mankoeng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":84024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979365,
+        "qs_pg:id":84024
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292911,
+    "wof:geomhash":"a649e421fe824c880e6c1ee48c631486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1125840503,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125840503,
+    "wof:lastmodified":1509395261,
+    "wof:name":"Mankoeng",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:population":12499,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -23.9,
+    29.81667,
+    -23.9
+],
+  "geometry": {"coordinates":[29.81667,-23.9],"type":"Point"}
+}

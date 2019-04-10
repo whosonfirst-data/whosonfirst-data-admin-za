@@ -1,0 +1,73 @@
+{
+  "id": 101925845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":541054.763179,
+    "geom:bbox":"28.4000797272,-26.1788387299,28.4066848755,-26.1703796387",
+    "geom:latitude":-26.174295,
+    "geom:longitude":28.403398,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.17426,
+    "lbl:longitude":28.403442,
+    "mps:latitude":-26.17426,
+    "mps:longitude":28.403442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bezuidenhout Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":52.0881,
+    "wd:longitude":4.3447,
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"8db48e2cee35e0e768cf66e1bf6622da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925845,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925845,
+    "wof:lastmodified":1527688519,
+    "wof:name":"Bezuidenhout Park",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40007972717285,
+    -26.1788387298584,
+    28.40668487548828,
+    -26.17037963867188
+],
+  "geometry": {"coordinates":[[[28.40007972717285,-26.17037963867188],[28.40668487548828,-26.17048263549805],[28.40642547607422,-26.17784881591797],[28.40462112426758,-26.17814064025879],[28.40071296691895,-26.1788387298584],[28.40007972717285,-26.17037963867188]]],"type":"Polygon"}
+}

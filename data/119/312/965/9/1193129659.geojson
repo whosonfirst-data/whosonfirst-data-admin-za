@@ -1,0 +1,67 @@
+{
+  "id": 1193129659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72583,-25.515,28.72583,-25.515",
+    "geom:latitude":-25.515,
+    "geom:longitude":28.72583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Seringkop",
+    "gn:country_code":"ZA",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105733,
+    "gn:latitude":-25.515,
+    "gn:longitude":28.72583,
+    "gn:modification_date":"2004-05-11",
+    "gn:name":"Seringkop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105733
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec32dfac5c6c2cbab5e7932ba62fcb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1193129659,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1193129659,
+    "wof:lastmodified":1536377166,
+    "wof:name":"Seringkop",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72583,
+    -25.515,
+    28.72583,
+    -25.515
+],
+  "geometry": {"coordinates":[28.72583,-25.515],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101923521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":1047310.463953,
+    "geom:bbox":"28.6152629852,-23.9566307068,28.6227893829,-23.9383487701",
+    "geom:latitude":-23.947159,
+    "geom:longitude":28.618762,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.946473,
+    "lbl:longitude":28.61921,
+    "mps:latitude":-23.946473,
+    "mps:longitude":28.61921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makekeng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980078,
+        "gp:id":1586629
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"46edaacd522f88f75b9fd697fe68468d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923521,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923521,
+    "wof:lastmodified":1500028359,
+    "wof:name":"Makekeng",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61526298522949,
+    -23.95663070678711,
+    28.62278938293457,
+    -23.9383487701416
+],
+  "geometry": {"coordinates":[[[28.62192535400391,-23.94160461425781],[28.62278938293457,-23.94851303100586],[28.61969184875488,-23.9497241973877],[28.62011528015137,-23.95622634887695],[28.61923027038574,-23.95663070678711],[28.6179027557373,-23.95662689208984],[28.61613655090332,-23.955810546875],[28.61569786071777,-23.95499610900879],[28.61526298522949,-23.95255851745605],[28.61526679992676,-23.9509334564209],[28.6157112121582,-23.95012092590332],[28.61662483215332,-23.94037246704102],[28.61795425415039,-23.93875122070312],[28.61972427368164,-23.9383487701416],[28.62060737609863,-23.93835067749023],[28.62104988098145,-23.93875885009766],[28.62192916870117,-23.93997955322266],[28.62192535400391,-23.94160461425781]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85772039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6831260.302358,
+    "geom:bbox":"28.026916,-26.228599,28.026916,-26.228599",
+    "geom:latitude":-26.228599,
+    "geom:longitude":28.026916,
+    "gn:latitude":-26.22869,
+    "gn:longitude":28.02561,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.228599,
+    "lbl:longitude":28.026916,
+    "mps:latitude":-26.23186,
+    "mps:longitude":28.018453,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Booysens"
+    ],
+    "name:unk_x_variant":[
+        "Booysens"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Booysens",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Booysens",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":85,
+    "qs:photo_sum":216,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925931,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017458,
+        "gp:id":1579997,
+        "qs:id":241268,
+        "qs_pg:id":241268,
+        "wd:id":"Q4944129",
+        "wk:page":"Booysens, Pretoria"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d46f00e2645381729c149f1381ed4e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925931,
+            "neighbourhood_id":85772039,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85772039,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859500,
+    "wof:name":"Booysens",
+    "wof:parent_id":101925931,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.026916,
+    -26.228599,
+    28.026916,
+    -26.228599
+],
+  "geometry": {"coordinates":[28.026916,-26.228599],"type":"Point"}
+}

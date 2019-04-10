@@ -1,0 +1,61 @@
+{
+  "id": 1209411029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21775,-24.571,31.21775,-24.571",
+    "geom:latitude":-24.571,
+    "geom:longitude":31.21775,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sesete",
+    "gn:country_code":"ZA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956379,
+    "gn:latitude":-24.571,
+    "gn:longitude":31.21775,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sesete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956379
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"170c51ce4b1d0bfd548122873f36ba8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209411029
+        }
+    ],
+    "wof:id":1209411029,
+    "wof:lastmodified":1536287837,
+    "wof:name":"Sesete",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21775,
+    -24.571,
+    31.21775,
+    -24.571
+],
+  "geometry": {"coordinates":[31.21775,-24.571],"type":"Point"}
+}

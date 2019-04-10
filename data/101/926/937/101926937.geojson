@@ -1,0 +1,73 @@
+{
+  "id": 101926937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":671429.220488,
+    "geom:bbox":"29.1232185364,-28.6911640167,29.1384563446,-28.6802444458",
+    "geom:latitude":-28.686213,
+    "geom:longitude":29.130373,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.687232,
+    "lbl:longitude":29.128987,
+    "mps:latitude":-28.687232,
+    "mps:longitude":29.128987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"The Downs",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":408,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579755
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8f04341590aaa0f41fa6956a4606b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926937,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926937,
+    "wof:lastmodified":1527715812,
+    "wof:name":"The Downs",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12321853637695,
+    -28.69116401672363,
+    29.13845634460449,
+    -28.68024444580078
+],
+  "geometry": {"coordinates":[[[29.12321853637695,-28.68864440917969],[29.1242618560791,-28.68753051757812],[29.12815284729004,-28.68465232849121],[29.13148880004883,-28.68402099609375],[29.13329696655273,-28.68314361572266],[29.13565063476562,-28.68024444580078],[29.13795280456543,-28.68027687072754],[29.13845634460449,-28.68073463439941],[29.13792037963867,-28.68208122253418],[29.1342716217041,-28.68586540222168],[29.13036918640137,-28.68942070007324],[29.1259880065918,-28.69116401672363],[29.12419700622559,-28.69113922119141],[29.12321853637695,-28.68864440917969]]],"type":"Polygon"}
+}

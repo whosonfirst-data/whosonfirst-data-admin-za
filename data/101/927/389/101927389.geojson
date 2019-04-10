@@ -1,0 +1,95 @@
+{
+  "id": 101927389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1603186.821037,
+    "geom:bbox":"30.28881073,-26.7227478027,30.3087043762,-26.7112445831",
+    "geom:latitude":-26.716792,
+    "geom:longitude":30.298178,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.7174,
+    "lbl:longitude":30.297989,
+    "mps:latitude":-26.7174,
+    "mps:longitude":30.297989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Sheepmoor"
+    ],
+    "name:dut_x_preferred":[
+        "Sheepmoor"
+    ],
+    "name:eng_x_preferred":[
+        "Sheepmoor"
+    ],
+    "name:nso_x_preferred":[
+        "Sheepmoor"
+    ],
+    "name:ron_x_preferred":[
+        "Sheepmoor"
+    ],
+    "name:rum_x_preferred":[
+        "Sheepmoor"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sheepmoor",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.7186,
+    "wd:longitude":30.2989,
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956128,
+        "gp:id":1587396,
+        "wd:id":"Q3643574"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"508ceb977f55b9a2dc85efd06228ba51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101927389,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927389,
+    "wof:lastmodified":1527715641,
+    "wof:name":"Sheepmoor",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28881072998047,
+    -26.72274780273438,
+    30.3087043762207,
+    -26.71124458312988
+],
+  "geometry": {"coordinates":[[[30.28881072998047,-26.71970176696777],[30.29280090332031,-26.71124458312988],[30.29301452636719,-26.71128845214844],[30.29361343383789,-26.71136856079102],[30.29421615600586,-26.71141242980957],[30.29481887817383,-26.71141815185547],[30.29542350769043,-26.71138572692871],[30.29699516296387,-26.71130752563477],[30.2988452911377,-26.71318244934082],[30.30829048156738,-26.71280288696289],[30.3087043762207,-26.71803665161133],[30.30287551879883,-26.71786880493164],[30.30007362365723,-26.72274780273438],[30.29303741455078,-26.72185897827148],[30.28881072998047,-26.71970176696777]]],"type":"Polygon"}
+}

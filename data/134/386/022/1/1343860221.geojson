@@ -1,0 +1,73 @@
+{
+  "id": 1343860221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98984,-29.39601,26.98984,-29.39601",
+    "geom:latitude":-29.39601,
+    "geom:longitude":26.98984,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Balaclava",
+    "gn:country_code":"ZA",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1021418,
+    "gn:latitude":-29.39601,
+    "gn:longitude":26.98984,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Balaclava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barclavar",
+        "Balaclava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021418
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d9444c63a07b4ebf72b5a7045e2258d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1343860221,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1343860221,
+    "wof:lastmodified":1537716439,
+    "wof:name":"Balaclava",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98984,
+    -29.39601,
+    26.98984,
+    -29.39601
+],
+  "geometry": {"coordinates":[26.98984,-29.39601],"type":"Point"}
+}

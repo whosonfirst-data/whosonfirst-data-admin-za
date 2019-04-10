@@ -1,0 +1,72 @@
+{
+  "id": 101926501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:area_square_m":1718180.305184,
+    "geom:bbox":"26.6334095001,-26.8780517578,26.6481647491,-26.8631725311",
+    "geom:latitude":-26.869898,
+    "geom:longitude":26.639685,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.869213,
+    "lbl:longitude":26.638948,
+    "mps:latitude":-26.869213,
+    "mps:longitude":26.638948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Meiringspark",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582882
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7df76e458f06d1229f5b165f5327883a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926501,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926501,
+    "wof:lastmodified":1500028291,
+    "wof:name":"Meiringspark",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63340950012207,
+    -26.8780517578125,
+    26.64816474914551,
+    -26.86317253112793
+],
+  "geometry": {"coordinates":[[[26.6339282989502,-26.86447906494141],[26.64207077026367,-26.86366271972656],[26.64816474914551,-26.86317253112793],[26.64798355102539,-26.86665344238281],[26.64751434326172,-26.86820030212402],[26.64630508422852,-26.86953544616699],[26.64436340332031,-26.8710994720459],[26.64266967773438,-26.87288093566895],[26.64170837402344,-26.87443351745605],[26.64124488830566,-26.87642097473145],[26.64077377319336,-26.87774848937988],[26.63340950012207,-26.8780517578125],[26.6339282989502,-26.86447906494141]]],"type":"Polygon"}
+}

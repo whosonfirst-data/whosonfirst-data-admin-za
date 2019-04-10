@@ -1,0 +1,93 @@
+{
+  "id": 1125887839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.87056,-31.16304,28.87056,-31.16304",
+    "geom:latitude":-31.16304,
+    "geom:longitude":28.87056,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.16304,
+    "lbl:longitude":28.87056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Qumbu"
+    ],
+    "name:chi_x_preferred":[
+        "\u8ca2\u5e03"
+    ],
+    "name:dut_x_preferred":[
+        "Qumbu"
+    ],
+    "name:eng_x_preferred":[
+        "Qumbu"
+    ],
+    "name:ger_x_preferred":[
+        "Qumbu"
+    ],
+    "name:nso_x_preferred":[
+        "Qumbu"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":963488,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Qumbu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":370202,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963488,
+        "qs_pg:id":370202,
+        "wd:id":"Q7272770"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295174,
+    "wof:geomhash":"9b057ec4f49836f6647f608627414b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1125887839,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125887839,
+    "wof:lastmodified":1553816603,
+    "wof:name":"Qumbu",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87056,
+    -31.16304,
+    28.87056,
+    -31.16304
+],
+  "geometry": {"coordinates":[28.87056,-31.16304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293291713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42136,-31.21302,28.42136,-31.21302",
+    "geom:latitude":-31.21302,
+    "geom:longitude":28.42136,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Mbidlana",
+    "gn:country_code":"ZA",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977670,
+    "gn:latitude":-31.21302,
+    "gn:longitude":28.42136,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mbidlana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbiolana",
+        "Mbidlana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"37f0d17534d9a0f711a26a2d21817d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293291713,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293291713,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Mbidlana",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42136,
+    -31.21302,
+    28.42136,
+    -31.21302
+],
+  "geometry": {"coordinates":[28.42136,-31.21302],"type":"Point"}
+}

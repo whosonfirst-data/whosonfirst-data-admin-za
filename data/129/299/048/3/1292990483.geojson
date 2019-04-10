@@ -1,0 +1,69 @@
+{
+  "id": 1292990483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30819,-23.94233,30.30819,-23.94233",
+    "geom:latitude":-23.94233,
+    "geom:longitude":30.30819,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Bankuna",
+    "gn:country_code":"ZA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428104,
+    "gn:latitude":-23.94233,
+    "gn:longitude":30.30819,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Bankuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428104
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"46a2355d70375b5788510e7f42f77c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1292990483,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292990483,
+    "wof:lastmodified":1537005803,
+    "wof:name":"Bankuna",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30819,
+    -23.94233,
+    30.30819,
+    -23.94233
+],
+  "geometry": {"coordinates":[30.30819,-23.94233],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209916041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76359,-26.79186,27.76359,-26.79186",
+    "geom:latitude":-26.79186,
+    "geom:longitude":27.76359,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Marl Bank River",
+    "gn:country_code":"ZA",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978752,
+    "gn:latitude":-26.79186,
+    "gn:longitude":27.76359,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Marl Bank River",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978752
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d0990283ef669c67acf652d6f379e62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":1209916041,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1209916041,
+    "wof:lastmodified":1536373642,
+    "wof:name":"Marl Bank River",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76359,
+    -26.79186,
+    27.76359,
+    -26.79186
+],
+  "geometry": {"coordinates":[27.76359,-26.79186],"type":"Point"}
+}

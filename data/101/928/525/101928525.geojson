@@ -1,0 +1,72 @@
+{
+  "id": 101928525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:area_square_m":2044622.816887,
+    "geom:bbox":"28.8997497559,-30.988035202,28.9283981323,-30.9767990112",
+    "geom:latitude":-30.981526,
+    "geom:longitude":28.913567,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.980809,
+    "lbl:longitude":28.912407,
+    "mps:latitude":-30.980809,
+    "mps:longitude":28.912407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eDangwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"da6b19f2d202dfcf785dad6cd3ded4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928525,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928525,
+    "wof:lastmodified":1500027916,
+    "wof:name":"eDangwane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89974975585938,
+    -30.98803520202637,
+    28.92839813232422,
+    -30.97679901123047
+],
+  "geometry": {"coordinates":[[[28.92839813232422,-30.98061943054199],[28.92399406433105,-30.98649978637695],[28.92379760742188,-30.98803520202637],[28.91562652587891,-30.98443603515625],[28.90864944458008,-30.98497581481934],[28.90384483337402,-30.98508834838867],[28.90116691589355,-30.98326683044434],[28.89974975585938,-30.97991180419922],[28.90402412414551,-30.97679901123047],[28.91364288330078,-30.97695159912109],[28.92025184631348,-30.97868156433105],[28.92839813232422,-30.98061943054199]]],"type":"Polygon"}
+}

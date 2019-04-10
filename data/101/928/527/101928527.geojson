@@ -1,0 +1,73 @@
+{
+  "id": 101928527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1311012.711826,
+    "geom:bbox":"28.7236919403,-30.992275238,28.7392883301,-30.977771759",
+    "geom:latitude":-30.985349,
+    "geom:longitude":28.732553,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.985906,
+    "lbl:longitude":28.733084,
+    "mps:latitude":-30.985906,
+    "mps:longitude":28.733084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thembeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949441,
+        "gp:id":1587839
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"73a83bc163265dbec5d6697980d96f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928527,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928527,
+    "wof:lastmodified":1500027917,
+    "wof:name":"Thembeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72369194030762,
+    -30.99227523803711,
+    28.73928833007812,
+    -30.9777717590332
+],
+  "geometry": {"coordinates":[[[28.7353572845459,-30.99227523803711],[28.72866249084473,-30.98752784729004],[28.72369194030762,-30.98198699951172],[28.72706413269043,-30.9777717590332],[28.7324275970459,-30.98179626464844],[28.73900032043457,-30.98240661621094],[28.73928833007812,-30.99218940734863],[28.7353572845459,-30.99227523803711]]],"type":"Polygon"}
+}

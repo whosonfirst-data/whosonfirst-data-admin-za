@@ -1,0 +1,69 @@
+{
+  "id": 1343761279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19867,-31.94547,29.19867,-31.94547",
+    "geom:latitude":-31.94547,
+    "geom:longitude":29.19867,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Umtata Mouth",
+    "gn:country_code":"ZA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946057,
+    "gn:latitude":-31.94547,
+    "gn:longitude":29.19867,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Umtata Mouth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946057
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5b916910d00ac683fc18416ea5089107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1343761279,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343761279,
+    "wof:lastmodified":1536809369,
+    "wof:name":"Umtata Mouth",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19867,
+    -31.94547,
+    29.19867,
+    -31.94547
+],
+  "geometry": {"coordinates":[29.19867,-31.94547],"type":"Point"}
+}

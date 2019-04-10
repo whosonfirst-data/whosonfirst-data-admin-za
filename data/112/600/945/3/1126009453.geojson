@@ -1,0 +1,113 @@
+{
+  "id": 1126009453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3085,-32.09694,18.3085,-32.09694",
+    "geom:latitude":-32.09694,
+    "geom:longitude":18.3085,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.09694,
+    "lbl:longitude":18.3085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Lambertsbaai"
+    ],
+    "name:dut_x_preferred":[
+        "Lambertsbaai"
+    ],
+    "name:eng_x_preferred":[
+        "Lambert's Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Lamberts Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30d0\u30fc\u30c4\u30fb\u30d9\u30a4"
+    ],
+    "name:nso_x_preferred":[
+        "Lambert's Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Lambertsbaai"
+    ],
+    "name:unk_x_variant":[
+        "Lambertsbaai"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3364847,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lambert's Bay",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":223,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":223,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":118626,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1583681,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364847,
+        "gp:id":1583681,
+        "qs_pg:id":118626,
+        "wd:id":"Q225041"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300177,
+    "wof:geomhash":"a9ff486cf1db377f90efb15c004c24ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1126009453,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126009453,
+    "wof:lastmodified":1514503945,
+    "wof:name":"Lambert's Bay",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3085,
+    -32.09694,
+    18.3085,
+    -32.09694
+],
+  "geometry": {"coordinates":[18.3085,-32.09694],"type":"Point"}
+}

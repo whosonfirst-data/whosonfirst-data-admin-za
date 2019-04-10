@@ -1,0 +1,128 @@
+{
+  "id": 101928001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001525,
+    "geom:area_square_m":15712612.802243,
+    "geom:bbox":"18.4700374603,-33.5991020203,18.5192756653,-33.537021637",
+    "geom:latitude":-33.568722,
+    "geom:longitude":18.494027,
+    "gn:population":60266,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.56927,
+    "lbl:longitude":18.496452,
+    "mps:latitude":-33.56927,
+    "mps:longitude":18.496452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Atlantis"
+    ],
+    "name:dut_x_preferred":[
+        "Atlantis"
+    ],
+    "name:eng_x_preferred":[
+        "Atlantis"
+    ],
+    "name:fra_x_preferred":[
+        "Atlantis"
+    ],
+    "name:fre_x_preferred":[
+        "Atlantis"
+    ],
+    "name:ger_x_preferred":[
+        "Atlantis"
+    ],
+    "name:ita_x_preferred":[
+        "Atlantis"
+    ],
+    "name:nld_x_preferred":[
+        "Atlantis"
+    ],
+    "name:nso_x_preferred":[
+        "Atlantis"
+    ],
+    "name:pol_x_preferred":[
+        "Atlantis"
+    ],
+    "name:ron_x_preferred":[
+        "Atlantis"
+    ],
+    "name:rum_x_preferred":[
+        "Atlantis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Atlantis"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Atlantis",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-33.566667,
+    "wd:longitude":18.483333,
+    "wd:wordcount":444,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3370352,
+        "gp:id":1579532,
+        "qs:id":409094,
+        "qs_pg:id":409094,
+        "wd:id":"Q3493630",
+        "wk:page":"Atlantis, Western Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2b9628931eb88c6b39d6c12506096b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928001,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101928001,
+    "wof:lastmodified":1527715921,
+    "wof:name":"Atlantis",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:population":60266,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47003746032715,
+    -33.59910202026367,
+    18.5192756652832,
+    -33.53702163696289
+],
+  "geometry": {"coordinates":[[[18.4855842590332,-33.53702163696289],[18.49765586853027,-33.53986740112305],[18.50103950500488,-33.54066848754883],[18.50614547729492,-33.55082702636719],[18.5192756652832,-33.5544548034668],[18.50938606262207,-33.57424163818359],[18.50328254699707,-33.58645629882812],[18.47893333435059,-33.59910202026367],[18.47003746032715,-33.5914306640625],[18.47135543823242,-33.58894348144531],[18.47246360778809,-33.58685302734375],[18.47350692749023,-33.58488464355469],[18.47454833984375,-33.58291244506836],[18.47558784484863,-33.58094024658203],[18.47662734985352,-33.57897186279297],[18.47766494750977,-33.57699966430664],[18.47869873046875,-33.57502746582031],[18.47965049743652,-33.57315444946289],[18.48055458068848,-33.57126235961914],[18.48140525817871,-33.56935501098633],[18.48220443725586,-33.56743240356445],[18.48294830322266,-33.56549453735352],[18.48363494873047,-33.56354522705078],[18.48430252075195,-33.56150436401367],[18.48488998413086,-33.5594482421875],[18.48531723022461,-33.55736541748047],[18.48550033569336,-33.55527114868164],[18.48553657531738,-33.55310821533203],[18.48557472229004,-33.55094528198242],[18.48561096191406,-33.54877853393555],[18.48564910888672,-33.54652786254883],[18.48568725585938,-33.54427337646484],[18.48572731018066,-33.54201889038086],[18.48576545715332,-33.53976440429688],[18.4855842590332,-33.53702163696289]]],"type":"Polygon"}
+}

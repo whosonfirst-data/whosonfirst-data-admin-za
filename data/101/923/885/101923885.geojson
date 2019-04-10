@@ -1,0 +1,95 @@
+{
+  "id": 101923885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000352,
+    "geom:area_square_m":4016435.683673,
+    "geom:bbox":"30.5386123657,-22.8344306946,30.558216095,-22.7997665405",
+    "geom:latitude":-22.818931,
+    "geom:longitude":30.548617,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.819426,
+    "lbl:longitude":30.546835,
+    "mps:latitude":-22.819426,
+    "mps:longitude":30.546835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Makonde"
+    ],
+    "name:deu_x_preferred":[
+        "Makonde"
+    ],
+    "name:fra_x_preferred":[
+        "Makonde"
+    ],
+    "name:ita_x_preferred":[
+        "Makonde"
+    ],
+    "name:por_x_preferred":[
+        "Maconde"
+    ],
+    "name:swe_x_preferred":[
+        "Makonde"
+    ],
+    "name:unk_x_variant":[
+        "Makonda"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makonde",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979968,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eef178364b924e075ad698d2333c00fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923885,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923885,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Makonde",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53861236572266,
+    -22.83443069458008,
+    30.5582160949707,
+    -22.79976654052734
+],
+  "geometry": {"coordinates":[[[30.54713249206543,-22.80140686035156],[30.54678916931152,-22.80027389526367],[30.55686378479004,-22.79976654052734],[30.5582160949707,-22.80300331115723],[30.5521183013916,-22.80631637573242],[30.55303764343262,-22.80996513366699],[30.55086135864258,-22.81120491027832],[30.55724334716797,-22.83227157592773],[30.5445556640625,-22.83443069458008],[30.53861236572266,-22.81335830688477],[30.54909896850586,-22.81040954589844],[30.5496883392334,-22.80984878540039],[30.54713249206543,-22.80140686035156]]],"type":"Polygon"}
+}

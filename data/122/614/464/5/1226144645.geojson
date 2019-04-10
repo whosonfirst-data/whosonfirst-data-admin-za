@@ -1,0 +1,73 @@
+{
+  "id": 1226144645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84946,-26.83893,27.84946,-26.83893",
+    "geom:latitude":-26.83893,
+    "geom:longitude":27.84946,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS204",
+    "gn:asciiname":"Botshabelo",
+    "gn:country_code":"ZA",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016672,
+    "gn:latitude":-26.83893,
+    "gn:longitude":27.84946,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Botshabelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batshabela",
+        "Botshabelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016672
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1b8a7d58cb633a85a50ce81043cf7db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1226144645,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1226144645,
+    "wof:lastmodified":1537716435,
+    "wof:name":"Botshabelo",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84946,
+    -26.83893,
+    27.84946,
+    -26.83893
+],
+  "geometry": {"coordinates":[27.84946,-26.83893],"type":"Point"}
+}

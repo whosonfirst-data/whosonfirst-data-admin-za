@@ -1,0 +1,69 @@
+{
+  "id": 1209820333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.62674,-30.85422,26.62674,-30.85422",
+    "geom:latitude":-30.85422,
+    "geom:longitude":26.62674,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Hillhead",
+    "gn:country_code":"ZA",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996499,
+    "gn:latitude":-30.85422,
+    "gn:longitude":26.62674,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hillhead",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996499
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a4da21a5f3a43444150b2e43cf3d3931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1209820333,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1209820333,
+    "wof:lastmodified":1536379410,
+    "wof:name":"Hillhead",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.62674,
+    -30.85422,
+    26.62674,
+    -30.85422
+],
+  "geometry": {"coordinates":[26.62674,-30.85422],"type":"Point"}
+}

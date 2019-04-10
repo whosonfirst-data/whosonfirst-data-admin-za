@@ -1,0 +1,82 @@
+{
+  "id": 1125961901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.931634,-34.029829,24.931634,-34.029829",
+    "geom:latitude":-34.029829,
+    "geom:longitude":24.931634,
+    "gn:gn_country":"ZA",
+    "iso:country":"ZA",
+    "lbl:latitude":-34.029829,
+    "lbl:longitude":24.931634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:name":"Kabeljousriviermond",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118729,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582579,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582579,
+        "qs_pg:id":1118729
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297830,
+    "wof:geomhash":"edc312d2291d08cbb629111406e906c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1125961901,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125961901,
+    "wof:lastmodified":1509403366,
+    "wof:name":"Kabeljousriviermond",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.931634,
+    -34.029829,
+    24.931634,
+    -34.029829
+],
+  "geometry": {"coordinates":[24.931634,-34.029829],"type":"Point"}
+}

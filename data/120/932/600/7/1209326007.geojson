@@ -1,0 +1,63 @@
+{
+  "id": 1209326007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36505,-30.39259,26.36505,-30.39259",
+    "geom:latitude":-30.39259,
+    "geom:longitude":26.36505,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Lemoenfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983249,
+    "gn:latitude":-30.39259,
+    "gn:longitude":26.36505,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lemoenfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983249
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8781b353dfdfa97de476793bd7da6557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209326007
+        }
+    ],
+    "wof:id":1209326007,
+    "wof:lastmodified":1536290533,
+    "wof:name":"Lemoenfontein",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36505,
+    -30.39259,
+    26.36505,
+    -30.39259
+],
+  "geometry": {"coordinates":[26.36505,-30.39259],"type":"Point"}
+}

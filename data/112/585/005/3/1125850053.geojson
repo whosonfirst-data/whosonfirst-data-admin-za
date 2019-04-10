@@ -1,0 +1,97 @@
+{
+  "id": 1125850053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27274,-24.0397,30.27274,-24.0397",
+    "geom:latitude":-24.0397,
+    "geom:longitude":30.27274,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.0397,
+    "lbl:longitude":30.27274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Shiluvane"
+    ],
+    "name:eng_x_preferred":[
+        "Shiluvane"
+    ],
+    "name:nso_x_preferred":[
+        "Shiluvane"
+    ],
+    "name:unk_x_variant":[
+        "Shilobane"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":956001,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shiluvane",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1237597,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587408,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956001,
+        "gp:id":1587408,
+        "qs_pg:id":1237597,
+        "wd:id":"Q20972618"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293355,
+    "wof:geomhash":"7d5c8d8d6df3f97153dfb9a2f6ea6434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1125850053,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125850053,
+    "wof:lastmodified":1514504530,
+    "wof:name":"Shiluvane",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27274,
+    -24.0397,
+    30.27274,
+    -24.0397
+],
+  "geometry": {"coordinates":[30.27274,-24.0397],"type":"Point"}
+}

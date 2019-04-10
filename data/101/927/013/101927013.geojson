@@ -1,0 +1,73 @@
+{
+  "id": 101927013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000227,
+    "geom:area_square_m":2452194.239168,
+    "geom:bbox":"29.7728366852,-29.0621147156,29.8016929626,-29.0422077179",
+    "geom:latitude":-29.05228,
+    "geom:longitude":29.786264,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.054309,
+    "lbl:longitude":29.78047,
+    "mps:latitude":-29.054309,
+    "mps:longitude":29.78047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wembesi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940509,
+        "gp:id":1588822
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"be704c0ef5c90f57066114ff83b0e626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927013,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927013,
+    "wof:lastmodified":1500027498,
+    "wof:name":"Wembesi",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.77283668518066,
+    -29.06211471557617,
+    29.80169296264648,
+    -29.04220771789551
+],
+  "geometry": {"coordinates":[[[29.77283668518066,-29.0566520690918],[29.77387619018555,-29.05553436279297],[29.77754402160645,-29.04925155639648],[29.78704452514648,-29.04911231994629],[29.7968807220459,-29.04220771789551],[29.80169296264648,-29.04788970947266],[29.77816390991211,-29.06211471557617],[29.77283668518066,-29.0566520690918]]],"type":"Polygon"}
+}

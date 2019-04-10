@@ -1,0 +1,63 @@
+{
+  "id": 1209226091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,-30.15,26.95,-30.15",
+    "geom:latitude":-30.15,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Klipdrift",
+    "gn:country_code":"ZA",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":989746,
+    "gn:latitude":-30.15,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klipdrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":989746
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"625c91d151d5ecf06b71a2d173921205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209226091
+        }
+    ],
+    "wof:id":1209226091,
+    "wof:lastmodified":1536293795,
+    "wof:name":"Klipdrift",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    -30.15,
+    26.95,
+    -30.15
+],
+  "geometry": {"coordinates":[26.95,-30.15],"type":"Point"}
+}

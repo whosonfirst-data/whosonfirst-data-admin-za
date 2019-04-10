@@ -1,0 +1,69 @@
+{
+  "id": 1226426957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10899,-22.97297,30.10899,-22.97297",
+    "geom:latitude":-22.97297,
+    "geom:longitude":30.10899,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Matshavhawe",
+    "gn:country_code":"ZA",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978010,
+    "gn:latitude":-22.97297,
+    "gn:longitude":30.10899,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Matshavhawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978010
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b68d80f6f6e305cc60614bd7f64fabdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1226426957,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226426957,
+    "wof:lastmodified":1536672535,
+    "wof:name":"Matshavhawe",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10899,
+    -22.97297,
+    30.10899,
+    -22.97297
+],
+  "geometry": {"coordinates":[30.10899,-22.97297],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101927789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":424668.190004,
+    "geom:bbox":"31.2521419525,-29.3802776337,31.2626972198,-29.3737258911",
+    "geom:latitude":-29.376891,
+    "geom:longitude":31.256796,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.376555,
+    "lbl:longitude":31.254517,
+    "mps:latitude":-29.376555,
+    "mps:longitude":31.254517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Mellville"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MELVILLE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977096,
+        "gp:id":55880528
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"025345703ba47c8d7d1cb6bc0c902dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":101927789,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927789,
+    "wof:lastmodified":1527715641,
+    "wof:name":"Melville",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25214195251465,
+    -29.38027763366699,
+    31.26269721984863,
+    -29.37372589111328
+],
+  "geometry": {"coordinates":[[[31.25936126708984,-29.37936973571777],[31.25759315490723,-29.38027763366699],[31.2531795501709,-29.37870407104492],[31.25214576721191,-29.37712669372559],[31.25214195251465,-29.37554740905762],[31.25394058227539,-29.37374114990234],[31.25600242614746,-29.37441253662109],[31.25729560852051,-29.37689208984375],[31.25816917419434,-29.37617492675781],[31.26115036010742,-29.37372589111328],[31.26269721984863,-29.37417411804199],[31.25936126708984,-29.37936973571777]]],"type":"Polygon"}
+}

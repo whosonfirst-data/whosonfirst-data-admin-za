@@ -1,0 +1,97 @@
+{
+  "id": 101928971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":1903768.868762,
+    "geom:bbox":"26.8072414398,-32.1448745728,26.8210487366,-32.1277618408",
+    "geom:latitude":-32.13635,
+    "geom:longitude":26.813812,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.136206,
+    "lbl:longitude":26.813812,
+    "mps:latitude":-32.136206,
+    "mps:longitude":26.813812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tambo"
+    ],
+    "name:deu_x_preferred":[
+        "Tambo"
+    ],
+    "name:fra_x_preferred":[
+        "Tambo"
+    ],
+    "name:hrv_x_preferred":[
+        "Tambo"
+    ],
+    "name:nor_x_preferred":[
+        "Tambo"
+    ],
+    "name:por_x_preferred":[
+        "Tambo"
+    ],
+    "name:spa_x_preferred":[
+        "Tambo"
+    ],
+    "name:swe_x_preferred":[
+        "Tambo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tambo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588877
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"79a8959d4e3068510e317116cf18e27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928971,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928971,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Tambo",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80724143981934,
+    -32.14487457275391,
+    26.82104873657227,
+    -32.12776184082031
+],
+  "geometry": {"coordinates":[[[26.8173713684082,-32.12776184082031],[26.82104873657227,-32.14418029785156],[26.80961799621582,-32.14487457275391],[26.80882835388184,-32.1395149230957],[26.80724143981934,-32.12784576416016],[26.8173713684082,-32.12776184082031]]],"type":"Polygon"}
+}

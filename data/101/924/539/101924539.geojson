@@ -1,0 +1,131 @@
+{
+  "id": 101924539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000317,
+    "geom:area_square_m":3562054.070903,
+    "geom:bbox":"31.0906295776,-24.7532844543,31.1264019012,-24.7345294952",
+    "geom:latitude":-24.744098,
+    "geom:longitude":31.109245,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.746995,
+    "lbl:longitude":31.116969,
+    "mps:latitude":-24.746995,
+    "mps:longitude":31.116969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u064a\u0642\u0629 \u0646\u064a\u0648 \u0641\u0648\u0631\u064a\u0633\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "New Forest"
+    ],
+    "name:cym_x_preferred":[
+        "Fforest Newydd"
+    ],
+    "name:deu_x_preferred":[
+        "New Forest"
+    ],
+    "name:fin_x_preferred":[
+        "New Forest"
+    ],
+    "name:fra_x_preferred":[
+        "New Forest"
+    ],
+    "name:hbs_x_preferred":[
+        "New Forest"
+    ],
+    "name:ita_x_preferred":[
+        "New Forest"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30fb\u30d5\u30a9\u30ec\u30b9\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "New Forest"
+    ],
+    "name:nno_x_preferred":[
+        "New Forest"
+    ],
+    "name:nor_x_preferred":[
+        "New Forest"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u06cc\u0648 \u0641\u0627\u0631\u0633\u0679"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e-\u0424\u043e\u0440\u0435\u0441\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "New Forest"
+    ],
+    "name:swe_x_preferred":[
+        "New Forest"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044e-\u0424\u043e\u0440\u0435\u0441\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648 \u0641\u0627\u0631\u0633\u0679"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u68ee\u6797\u56fd\u5bb6\u516c\u56ed"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"New Forest",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":4706,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971393,
+        "gp:id":1585740
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a735892f52c31f3937121f71700d4771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924539,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924539,
+    "wof:lastmodified":1527677689,
+    "wof:name":"New Forest",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09062957763672,
+    -24.7532844543457,
+    31.12640190124512,
+    -24.73452949523926
+],
+  "geometry": {"coordinates":[[[31.10672378540039,-24.74003219604492],[31.10896682739258,-24.74122047424316],[31.11430168151855,-24.74114990234375],[31.11963844299316,-24.7410774230957],[31.1236743927002,-24.7430534362793],[31.12592315673828,-24.74464797973633],[31.12640190124512,-24.74667358398438],[31.12599563598633,-24.74911499023438],[31.12116432189941,-24.75283622741699],[31.11805725097656,-24.7532844543457],[31.11492347717285,-24.75210762023926],[31.0925178527832,-24.74184608459473],[31.09068870544434,-24.73862075805664],[31.09064865112305,-24.73618507385254],[31.09062957763672,-24.73496627807617],[31.09284591674805,-24.73452949523926],[31.09596633911133,-24.73489570617676],[31.09954261779785,-24.73606491088867],[31.10268783569336,-24.7380542755127],[31.10672378540039,-24.74003219604492]]],"type":"Polygon"}
+}

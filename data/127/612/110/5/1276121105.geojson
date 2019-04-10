@@ -1,0 +1,69 @@
+{
+  "id": 1276121105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24075,-28.12907,32.24075,-28.12907",
+    "geom:latitude":-28.12907,
+    "geom:longitude":32.24075,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN275",
+    "gn:asciiname":"Vergelee",
+    "gn:country_code":"ZA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":944364,
+    "gn:latitude":-28.12907,
+    "gn:longitude":32.24075,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vergelee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944364
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c72179aec6e7a1227ee3bf0646a6ba6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1276121105,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276121105,
+    "wof:lastmodified":1537060274,
+    "wof:name":"Vergelee",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24075,
+    -28.12907,
+    32.24075,
+    -28.12907
+],
+  "geometry": {"coordinates":[32.24075,-28.12907],"type":"Point"}
+}

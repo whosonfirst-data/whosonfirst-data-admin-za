@@ -1,0 +1,72 @@
+{
+  "id": 101928911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:area_square_m":1926492.47285,
+    "geom:bbox":"27.8477363586,-31.9792041779,27.8697013855,-31.9627857208",
+    "geom:latitude":-31.970166,
+    "geom:longitude":27.860163,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.970782,
+    "lbl:longitude":27.864905,
+    "mps:latitude":-31.970782,
+    "mps:longitude":27.864905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mnyangula",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588292
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cd637beab88e9765abfeb4096d716c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928911,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928911,
+    "wof:lastmodified":1500027879,
+    "wof:name":"Mnyangula",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84773635864258,
+    -31.97920417785645,
+    27.86970138549805,
+    -31.9627857208252
+],
+  "geometry": {"coordinates":[[[27.85099792480469,-31.96390533447266],[27.85351371765137,-31.9627857208252],[27.86970138549805,-31.96796035766602],[27.86944007873535,-31.97590065002441],[27.86822319030762,-31.97844505310059],[27.86569786071777,-31.97920417785645],[27.8623046875,-31.9788932800293],[27.86139297485352,-31.97565841674805],[27.86131286621094,-31.9716911315918],[27.86042213439941,-31.96953964233398],[27.85662078857422,-31.96995735168457],[27.8515796661377,-31.97183418273926],[27.84819602966309,-31.97188377380371],[27.84773635864258,-31.9700870513916],[27.84893226623535,-31.96646118164062],[27.85099792480469,-31.96390533447266]]],"type":"Polygon"}
+}

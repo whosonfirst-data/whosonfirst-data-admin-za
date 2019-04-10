@@ -1,0 +1,87 @@
+{
+  "id": 101924591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:area_square_m":2151964.40344,
+    "geom:bbox":"31.3574771881,-24.8747062683,31.3817481995,-24.8565940857",
+    "geom:latitude":-24.865004,
+    "geom:longitude":31.368061,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.862266,
+    "lbl:longitude":31.363005,
+    "mps:latitude":-24.862266,
+    "mps:longitude":31.363005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Lillydale"
+    ],
+    "name:dut_x_preferred":[
+        "Lillydale"
+    ],
+    "name:eng_x_preferred":[
+        "Lillydale"
+    ],
+    "name:nso_x_preferred":[
+        "Lillydale"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"LILLYDALE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982806,
+        "gp:id":1583863,
+        "wd:id":"Q6548391"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec56554964c21b530307f84cb859f0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924591,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924591,
+    "wof:lastmodified":1527677689,
+    "wof:name":"Lillydale",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35747718811035,
+    -24.87470626831055,
+    31.38174819946289,
+    -24.85659408569336
+],
+  "geometry": {"coordinates":[[[31.35752105712891,-24.85996246337891],[31.35747718811035,-24.8575267791748],[31.36547470092773,-24.85659408569336],[31.36821746826172,-24.86061477661133],[31.38174819946289,-24.87015914916992],[31.38088607788086,-24.87470626831055],[31.37858009338379,-24.8731803894043],[31.37778663635254,-24.87265777587891],[31.35941886901855,-24.86643409729004],[31.35758018493652,-24.86321258544922],[31.35752105712891,-24.85996246337891]]],"type":"Polygon"}
+}

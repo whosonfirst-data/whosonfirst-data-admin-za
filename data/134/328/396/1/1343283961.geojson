@@ -1,0 +1,69 @@
+{
+  "id": 1343283961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37079,-26.32318,27.37079,-26.32318",
+    "geom:latitude":-26.32318,
+    "geom:longitude":27.37079,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"DC48",
+    "gn:admin3_code":"GT484",
+    "gn:asciiname":"Water's Edge",
+    "gn:country_code":"ZA",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941616,
+    "gn:latitude":-26.32318,
+    "gn:longitude":27.37079,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Water\u2019s Edge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941616
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a7ea0ca495591488016078310ad8cc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1343283961,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1343283961,
+    "wof:lastmodified":1537000290,
+    "wof:name":"Water's Edge",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37079,
+    -26.32318,
+    27.37079,
+    -26.32318
+],
+  "geometry": {"coordinates":[27.37079,-26.32318],"type":"Point"}
+}

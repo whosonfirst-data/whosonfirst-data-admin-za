@@ -1,0 +1,68 @@
+{
+  "id": 1260382967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56466,-24.74672,30.56466,-24.74672",
+    "geom:latitude":-24.74672,
+    "geom:longitude":30.56466,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ohrigstad",
+    "gn:country_code":"ZA",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968424,
+    "gn:latitude":-24.74672,
+    "gn:longitude":30.56466,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ohrigstad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968424,
+        "wk:page":"Ohrigstad"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8cf018c82509d3628f0f7f7f05bf002f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1260382967,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1260382967,
+    "wof:lastmodified":1537576359,
+    "wof:name":"Ohrigstad",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56466,
+    -24.74672,
+    30.56466,
+    -24.74672
+],
+  "geometry": {"coordinates":[30.56466,-24.74672],"type":"Point"}
+}

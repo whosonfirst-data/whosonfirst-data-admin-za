@@ -1,0 +1,73 @@
+{
+  "id": 1293882743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8362,-34.14894,24.8362,-34.14894",
+    "geom:latitude":-34.14894,
+    "geom:longitude":24.8362,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC108",
+    "gn:asciiname":"Marina Glades",
+    "gn:country_code":"ZA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978804,
+    "gn:latitude":-34.14894,
+    "gn:longitude":24.8362,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Marina Glades",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marina Glade",
+        "Marina Glades"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978804
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3d54ed0d1375c45c463c56c89eb76fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1293882743,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293882743,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Marina Glades",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8362,
+    -34.14894,
+    24.8362,
+    -34.14894
+],
+  "geometry": {"coordinates":[24.8362,-34.14894],"type":"Point"}
+}

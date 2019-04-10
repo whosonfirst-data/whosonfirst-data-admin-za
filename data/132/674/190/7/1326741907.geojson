@@ -1,0 +1,69 @@
+{
+  "id": 1326741907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96667,-28.85,24.96667,-28.85",
+    "geom:latitude":-28.85,
+    "geom:longitude":24.96667,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC18",
+    "gn:admin3_code":"FS182",
+    "gn:asciiname":"Kameelpan",
+    "gn:country_code":"ZA",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":992435,
+    "gn:latitude":-28.85,
+    "gn:longitude":24.96667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kameelpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":992435
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"18a8c58fc2ea6843aa3df9a6070934ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":1326741907,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1326741907,
+    "wof:lastmodified":1536681684,
+    "wof:name":"Kameelpan",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96667,
+    -28.85,
+    24.96667,
+    -28.85
+],
+  "geometry": {"coordinates":[24.96667,-28.85],"type":"Point"}
+}

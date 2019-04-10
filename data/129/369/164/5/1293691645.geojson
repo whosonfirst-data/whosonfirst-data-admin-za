@@ -1,0 +1,73 @@
+{
+  "id": 1293691645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71303,-31.33426,28.71303,-31.33426",
+    "geom:latitude":-31.33426,
+    "geom:longitude":28.71303,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Etyeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004910,
+    "gn:latitude":-31.33426,
+    "gn:longitude":28.71303,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Etyeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etyene",
+        "Etyeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004910
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a63b06245d9519f11ef516b47a5a83bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1293691645,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293691645,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Etyeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71303,
+    -31.33426,
+    28.71303,
+    -31.33426
+],
+  "geometry": {"coordinates":[28.71303,-31.33426],"type":"Point"}
+}

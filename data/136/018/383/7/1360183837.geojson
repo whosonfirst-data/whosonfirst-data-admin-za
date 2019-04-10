@@ -1,0 +1,69 @@
+{
+  "id": 1360183837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81485,-31.89123,26.81485,-31.89123",
+    "geom:latitude":-31.89123,
+    "geom:longitude":26.81485,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC134",
+    "gn:asciiname":"Hillcrest",
+    "gn:country_code":"ZA",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996505,
+    "gn:latitude":-31.89123,
+    "gn:longitude":26.81485,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hillcrest",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996505
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3a92d92e0f15d2a8eec9ad9a00ed9048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1360183837,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1360183837,
+    "wof:lastmodified":1536803153,
+    "wof:name":"Hillcrest",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81485,
+    -31.89123,
+    26.81485,
+    -31.89123
+],
+  "geometry": {"coordinates":[26.81485,-31.89123],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293289217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12554,-24.61088,31.12554,-24.61088",
+    "geom:latitude":-24.61088,
+    "geom:longitude":31.12554,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Jameyana",
+    "gn:country_code":"ZA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994057,
+    "gn:latitude":-24.61088,
+    "gn:longitude":31.12554,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Jameyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994057
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fd74e0ad635905adf328ad6fc037f865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1293289217,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1293289217,
+    "wof:lastmodified":1537069819,
+    "wof:name":"Jameyana",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12554,
+    -24.61088,
+    31.12554,
+    -24.61088
+],
+  "geometry": {"coordinates":[31.12554,-24.61088],"type":"Point"}
+}

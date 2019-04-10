@@ -1,0 +1,100 @@
+{
+  "id": 1125788707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69433,-32.86752,18.69433,-32.86752",
+    "geom:latitude":-32.86752,
+    "geom:longitude":18.69433,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.86752,
+    "lbl:longitude":18.69433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Goedverwacht"
+    ],
+    "name:dut_x_preferred":[
+        "Goedverwacht"
+    ],
+    "name:eng_x_preferred":[
+        "Goedverwacht"
+    ],
+    "name:nso_x_preferred":[
+        "Goedverwacht"
+    ],
+    "name:unk_x_variant":[
+        "Goedverwacht"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3367594,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Goedverwag",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193844,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581839,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367594,
+        "gp:id":1581839,
+        "qs_pg:id":193844,
+        "wd:id":"Q1831572"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290777,
+    "wof:geomhash":"2e4943f44315d2e58b94d840e3581bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125788707,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125788707,
+    "wof:lastmodified":1514503909,
+    "wof:name":"Goedverwag",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69433,
+    -32.86752,
+    18.69433,
+    -32.86752
+],
+  "geometry": {"coordinates":[18.69433,-32.86752],"type":"Point"}
+}

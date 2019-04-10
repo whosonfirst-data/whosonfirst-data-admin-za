@@ -1,0 +1,73 @@
+{
+  "id": 1276744427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53523,-33.49035,22.53523,-33.49035",
+    "geom:latitude":-33.49035,
+    "geom:longitude":22.53523,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC045",
+    "gn:asciiname":"De Rust",
+    "gn:country_code":"ZA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010728,
+    "gn:latitude":-33.49035,
+    "gn:longitude":22.53523,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"De Rust",
+    "gn:population":3566,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010728,
+        "wk:page":"De_Rust"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd01f90a48e6c4b5a9403d4b538e86ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1276744427,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1276744427,
+    "wof:lastmodified":1537576368,
+    "wof:name":"De Rust",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:population":3566,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53523,
+    -33.49035,
+    22.53523,
+    -33.49035
+],
+  "geometry": {"coordinates":[22.53523,-33.49035],"type":"Point"}
+}

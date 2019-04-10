@@ -1,0 +1,72 @@
+{
+  "id": 1276434763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93333,-27.83333,23.93333,-27.83333",
+    "geom:latitude":-27.83333,
+    "geom:longitude":23.93333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC9",
+    "gn:admin3_code":"NC092",
+    "gn:asciiname":"Barker",
+    "gn:country_code":"ZA",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1021054,
+    "gn:latitude":-27.83333,
+    "gn:longitude":23.93333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Barker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barker\u2019s Halt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021054
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a30755d3ac35c701a9f7d94eba11587d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1276434763,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276434763,
+    "wof:lastmodified":1537716439,
+    "wof:name":"Barker",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93333,
+    -27.83333,
+    23.93333,
+    -27.83333
+],
+  "geometry": {"coordinates":[23.93333,-27.83333],"type":"Point"}
+}

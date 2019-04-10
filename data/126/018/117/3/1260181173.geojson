@@ -1,0 +1,69 @@
+{
+  "id": 1260181173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.16667,-31.53333,27.16667,-31.53333",
+    "geom:latitude":-31.53333,
+    "geom:longitude":27.16667,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC136",
+    "gn:asciiname":"Ku-Tsolokazi",
+    "gn:country_code":"ZA",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986074,
+    "gn:latitude":-31.53333,
+    "gn:longitude":27.16667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ku-Tsolokazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986074
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"55599ae7416d4885a7b528fa89c88d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1260181173,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1260181173,
+    "wof:lastmodified":1536850051,
+    "wof:name":"Ku-Tsolokazi",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16667,
+    -31.53333,
+    27.16667,
+    -31.53333
+],
+  "geometry": {"coordinates":[27.16667,-31.53333],"type":"Point"}
+}

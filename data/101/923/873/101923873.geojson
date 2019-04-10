@@ -1,0 +1,76 @@
+{
+  "id": 101923873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":1081141.310311,
+    "geom:bbox":"30.828163147,-22.6419219971,30.8427200317,-22.6284351349",
+    "geom:latitude":-22.636306,
+    "geom:longitude":30.836506,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.63636,
+    "lbl:longitude":30.837002,
+    "mps:latitude":-22.63636,
+    "mps:longitude":30.837002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Makuya"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hamakuya",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998167,
+        "gp:id":1582076
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d5a8af9f79f3ebd466e239f7013ebb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923873,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923873,
+    "wof:lastmodified":1501216580,
+    "wof:name":"Hamakuya",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82816314697266,
+    -22.64192199707031,
+    30.84272003173828,
+    -22.6284351348877
+],
+  "geometry": {"coordinates":[[[30.84272003173828,-22.63666725158691],[30.83700180053711,-22.64192199707031],[30.82816314697266,-22.63953971862793],[30.83939170837402,-22.6284351348877],[30.84272003173828,-22.63666725158691]]],"type":"Polygon"}
+}

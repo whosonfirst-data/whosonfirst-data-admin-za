@@ -1,0 +1,63 @@
+{
+  "id": 1209038261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28333,-33.66667,26.28333,-33.66667",
+    "geom:latitude":-33.66667,
+    "geom:longitude":26.28333,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC106",
+    "gn:asciiname":"Klein Camp",
+    "gn:country_code":"ZA",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990573,
+    "gn:latitude":-33.66667,
+    "gn:longitude":26.28333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klein Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990573
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5d61d85e67810be6117dba9441bddb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209038261
+        }
+    ],
+    "wof:id":1209038261,
+    "wof:lastmodified":1536299629,
+    "wof:name":"Klein Camp",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28333,
+    -33.66667,
+    26.28333,
+    -33.66667
+],
+  "geometry": {"coordinates":[26.28333,-33.66667],"type":"Point"}
+}

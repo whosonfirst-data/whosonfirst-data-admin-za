@@ -1,0 +1,69 @@
+{
+  "id": 1292908183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.32028,-30.86186,28.32028,-30.86186",
+    "geom:latitude":-30.86186,
+    "geom:longitude":28.32028,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Sakute",
+    "gn:country_code":"ZA",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":958198,
+    "gn:latitude":-30.86186,
+    "gn:longitude":28.32028,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sakute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958198
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dbc205c1a03d6b1dc966f2331f4b5e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1292908183,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1292908183,
+    "wof:lastmodified":1536626227,
+    "wof:name":"Sakute",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.32028,
+    -30.86186,
+    28.32028,
+    -30.86186
+],
+  "geometry": {"coordinates":[28.32028,-30.86186],"type":"Point"}
+}

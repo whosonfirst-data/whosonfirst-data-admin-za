@@ -1,0 +1,106 @@
+{
+  "id": 85783355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11206475.017838,
+    "geom:bbox":"27.097125,-26.696779,27.097125,-26.696779",
+    "geom:latitude":-26.696779,
+    "geom:longitude":27.097125,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.696779,
+    "lbl:longitude":27.097125,
+    "mps:latitude":-26.693723,
+    "mps:longitude":27.093533,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kanonnierspark"
+    ],
+    "name:unk_x_variant":[
+        "Kanonnierspark"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":964349,
+    "qs:local_max":42,
+    "qs:local_sum":46,
+    "qs:localhoods":2,
+    "qs:name":"Kanonnierspark",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"North-West",
+    "qs:name_adm2":"Dr Kenneth Kaunda",
+    "qs:name_lau":"Potchefstroom",
+    "qs:name_local":"Potchefstroom",
+    "qs:photo_max":10,
+    "qs:photo_sum":42,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346984,
+    "qs:woe_adm2":56189440,
+    "qs:woe_lau":56189657,
+    "qs:woe_local":1586625,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101926447,
+        1108730609,
+        85688931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879674,
+        "qs:id":991997,
+        "qs_pg:id":991997
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cdec25722f5c5ab66576a1d06f93cdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926447,
+            "neighbourhood_id":85783355,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":85783355,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860488,
+    "wof:name":"Kanonnierspark",
+    "wof:parent_id":101926447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.097125,
+    -26.696779,
+    27.097125,
+    -26.696779
+],
+  "geometry": {"coordinates":[27.097125,-26.696779],"type":"Point"}
+}

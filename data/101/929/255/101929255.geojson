@@ -1,0 +1,87 @@
+{
+  "id": 101929255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":465147.497878,
+    "geom:bbox":"25.2220649719,-33.973903656,25.235786438,-33.9661560059",
+    "geom:latitude":-33.970091,
+    "geom:longitude":25.229779,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.970249,
+    "lbl:longitude":25.229779,
+    "mps:latitude":-33.970249,
+    "mps:longitude":25.229779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Van Stadensriviermond"
+    ],
+    "name:dut_x_preferred":[
+        "Van Stadensriviermond"
+    ],
+    "name:eng_x_preferred":[
+        "Van Stadensriviermond"
+    ],
+    "name:nso_x_preferred":[
+        "Van Stadens River Mouth"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Van Stadensriviermond",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944841,
+        "gp:id":55880902,
+        "wd:id":"Q15975788"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c4bfec69eebb0af4b50e6cfaf728939e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":101929255,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929255,
+    "wof:lastmodified":1527715594,
+    "wof:name":"Van Stadensriviermond",
+    "wof:parent_id":1108730527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22206497192383,
+    -33.97390365600586,
+    25.23578643798828,
+    -33.96615600585938
+],
+  "geometry": {"coordinates":[[[25.22206497192383,-33.96875],[25.22206497192383,-33.96875],[25.22560119628906,-33.96615600585938],[25.22823715209961,-33.96774673461914],[25.23578643798828,-33.97031784057617],[25.23578071594238,-33.97326278686523],[25.23546028137207,-33.97390365600586],[25.22905349731445,-33.97201156616211],[25.22454261779785,-33.96946716308594],[25.22420501708984,-33.96927642822266],[25.22388648986816,-33.96909713745117],[25.22206497192383,-33.96875]]],"type":"Polygon"}
+}

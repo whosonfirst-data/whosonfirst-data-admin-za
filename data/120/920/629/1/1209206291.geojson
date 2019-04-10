@@ -1,0 +1,64 @@
+{
+  "id": 1209206291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43526,-26.38939,30.43526,-26.38939",
+    "geom:latitude":-26.38939,
+    "geom:longitude":30.43526,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP302",
+    "gn:asciiname":"Lothair",
+    "gn:country_code":"ZA",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981906,
+    "gn:latitude":-26.38939,
+    "gn:longitude":30.43526,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Lothair",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981906,
+        "wk:page":"Lothair%2C_Mpumalanga"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7d5910bddc8677224788d6d4347da169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209206291
+        }
+    ],
+    "wof:id":1209206291,
+    "wof:lastmodified":1537576363,
+    "wof:name":"Lothair",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43526,
+    -26.38939,
+    30.43526,
+    -26.38939
+],
+  "geometry": {"coordinates":[30.43526,-26.38939],"type":"Point"}
+}

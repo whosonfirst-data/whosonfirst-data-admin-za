@@ -1,0 +1,78 @@
+{
+  "id": 1125271355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91491,-29.45635,17.91491,-29.45635",
+    "geom:latitude":-29.45635,
+    "geom:longitude":17.91491,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":54644,
+    "gn:population":54644,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.45635,
+    "lbl:longitude":17.91491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347495,
+    "qs_pg:gn_pop":54644,
+    "qs_pg:name":"Nama Khoi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764934,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347495,
+        "qs_pg:id":764934
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042141,
+    "wof:geomhash":"b7634620ce077ef3b5c53986e306d96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "localadmin_id":1125271355,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125271355,
+    "wof:lastmodified":1509387030,
+    "wof:name":"Nama Khoi",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"localadmin",
+    "wof:population":54644,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91491,
+    -29.45635,
+    17.91491,
+    -29.45635
+],
+  "geometry": {"coordinates":[17.91491,-29.45635],"type":"Point"}
+}

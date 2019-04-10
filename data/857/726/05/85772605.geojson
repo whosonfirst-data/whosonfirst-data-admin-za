@@ -1,0 +1,113 @@
+{
+  "id": 85772605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17746864.882884,
+    "geom:bbox":"30.879264,-29.960901,30.879264,-29.960901",
+    "geom:latitude":-29.960901,
+    "geom:longitude":30.879264,
+    "gn:latitude":-29.96572,
+    "gn:longitude":30.88639,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.960901,
+    "lbl:longitude":30.879264,
+    "mps:latitude":-29.984924,
+    "mps:longitude":30.887413,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Umlazi"
+    ],
+    "name:unk_x_variant":[
+        "Umlazi"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1007311,
+    "qs:gn_nam_loc":"Durban, Ethekwini, Ethekwini, KwaZulu-Natal, ZA",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Umlazi",
+    "qs:local_max":2059,
+    "qs:local_sum":10687,
+    "qs:localhoods":30,
+    "qs:name":"Umlazi",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Kwazulu Natal",
+    "qs:name_adm2":"eThekwini",
+    "qs:name_lau":"Ethekwini",
+    "qs:name_local":"Durban",
+    "qs:photo_max":27,
+    "qs:photo_sum":69,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346982,
+    "qs:woe_adm2":56189410,
+    "qs:woe_lau":56189708,
+    "qs:woe_local":1580913,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101927987,
+        1108730571,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946103,
+        "gp:id":1588418,
+        "qs:id":7996,
+        "qs_pg:id":7996,
+        "wd:id":"Q183292",
+        "wk:page":"Umlazi"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4c6215dd9f14b3945457ef4de081c063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101927987,
+            "neighbourhood_id":85772605,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":85772605,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859552,
+    "wof:name":"Umlazi",
+    "wof:parent_id":101927987,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.879264,
+    -29.960901,
+    30.879264,
+    -29.960901
+],
+  "geometry": {"coordinates":[30.879264,-29.960901],"type":"Point"}
+}

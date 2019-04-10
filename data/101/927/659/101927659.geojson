@@ -1,0 +1,96 @@
+{
+  "id": 101927659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000238,
+    "geom:area_square_m":2593298.552529,
+    "geom:bbox":"32.1799812317,-28.428527832,32.1993179321,-28.4093284607",
+    "geom:latitude":-28.418478,
+    "geom:longitude":32.188774,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.415546,
+    "lbl:longitude":32.188774,
+    "mps:latitude":-28.415546,
+    "mps:longitude":32.188774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mtubatuba"
+    ],
+    "name:deu_x_preferred":[
+        "Mtubatuba"
+    ],
+    "name:fra_x_preferred":[
+        "Mtubatuba"
+    ],
+    "name:nso_x_preferred":[
+        "Mtubatuba"
+    ],
+    "name:ron_x_preferred":[
+        "Mtubatuba"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5716\u5df4\u5716\u5df4"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mtubatuba",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.416667,
+    "wd:longitude":32.183333,
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972803,
+        "gp:id":1585540,
+        "wd:id":"Q1013531",
+        "wk:page":"Mtubatuba"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5cbd11adb37c73a172a1193163eac801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":101927659,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927659,
+    "wof:lastmodified":1527715635,
+    "wof:name":"Mtubatuba",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.17998123168945,
+    -28.42852783203125,
+    32.19931793212891,
+    -28.40932846069336
+],
+  "geometry": {"coordinates":[[[32.18071746826172,-28.42067718505859],[32.18120956420898,-28.41909217834473],[32.18196105957031,-28.41773223876953],[32.18344879150391,-28.41388511657715],[32.18392181396484,-28.41277122497559],[32.18518829345703,-28.4098072052002],[32.18645858764648,-28.40934562683105],[32.18849945068359,-28.40932846069336],[32.19105529785156,-28.40975570678711],[32.19569396972656,-28.41117477416992],[32.19822692871094,-28.41194725036621],[32.19927597045898,-28.41442108154297],[32.19931793212891,-28.41825485229492],[32.19805526733398,-28.41916847229004],[32.19295120239258,-28.41921424865723],[32.19118118286133,-28.42058372497559],[32.19126129150391,-28.42757606506348],[32.19024658203125,-28.42826271057129],[32.1856575012207,-28.42852783203125],[32.18259048461914,-28.42810440063477],[32.1805305480957,-28.42654418945312],[32.17998123168945,-28.42316436767578],[32.18071746826172,-28.42067718505859]]],"type":"Polygon"}
+}

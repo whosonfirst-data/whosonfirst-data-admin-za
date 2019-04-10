@@ -1,0 +1,96 @@
+{
+  "id": 1125819077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23414,-29.51364,30.23414,-29.51364",
+    "geom:latitude":-29.51364,
+    "geom:longitude":30.23414,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.51364,
+    "lbl:longitude":30.23414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Merrivale"
+    ],
+    "name:dut_x_preferred":[
+        "Merrivale"
+    ],
+    "name:eng_x_preferred":[
+        "Merrivale"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":976927,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Merrivale",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":341427,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1584904,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976927,
+        "gp:id":1584904,
+        "qs_pg:id":341427,
+        "wd:id":"Q6820373"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291971,
+    "wof:geomhash":"d9da461b49e2d6d174001b3a19e7d281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1125819077,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125819077,
+    "wof:lastmodified":1514503961,
+    "wof:name":"Merrivale",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23414,
+    -29.51364,
+    30.23414,
+    -29.51364
+],
+  "geometry": {"coordinates":[30.23414,-29.51364],"type":"Point"}
+}

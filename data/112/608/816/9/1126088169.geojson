@@ -1,0 +1,89 @@
+{
+  "id": 1126088169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23802,-25.77863,28.23802,-25.77863",
+    "geom:latitude":-25.77863,
+    "geom:longitude":28.23802,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.77863,
+    "lbl:longitude":28.23802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Waterkloof"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":941728,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Waterkloof Park",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207703,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55878159,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925471,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941728,
+        "gp:id":55878159,
+        "qs_pg:id":207703
+    },
+    "wof:country":"ZA",
+    "wof:created":1497313147,
+    "wof:geomhash":"5262fce6ea2b3bb00f392b1add9188cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925471,
+            "neighbourhood_id":1126088169,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1126088169,
+    "wof:lastmodified":1509411509,
+    "wof:name":"Waterkloof Park",
+    "wof:parent_id":101925471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23802,
+    -25.77863,
+    28.23802,
+    -25.77863
+],
+  "geometry": {"coordinates":[28.23802,-25.77863],"type":"Point"}
+}

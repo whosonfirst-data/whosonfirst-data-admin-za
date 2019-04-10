@@ -1,0 +1,73 @@
+{
+  "id": 101923287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":2233111.11039,
+    "geom:bbox":"29.2561073303,-23.5186576843,29.2776947021,-23.4999675751",
+    "geom:latitude":-23.509217,
+    "geom:longitude":29.264862,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.509145,
+    "lbl:longitude":29.262327,
+    "mps:latitude":-23.509145,
+    "mps:longitude":29.262327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marowe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978678,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"53a590300a77dec75a4e2dd9d09e4d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923287,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923287,
+    "wof:lastmodified":1500028351,
+    "wof:name":"Marowe",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25610733032227,
+    -23.51865768432617,
+    29.27769470214844,
+    -23.49996757507324
+],
+  "geometry": {"coordinates":[[[29.26183891296387,-23.5137882232666],[29.25610733032227,-23.51217269897461],[29.25828742980957,-23.49997901916504],[29.26445579528809,-23.49996757507324],[29.26534843444824,-23.50565528869629],[29.27769470214844,-23.51010322570801],[29.2755012512207,-23.51457595825195],[29.26668548583984,-23.51337242126465],[29.26493453979492,-23.51865768432617],[29.26184844970703,-23.51825714111328],[29.26183891296387,-23.5137882232666]]],"type":"Polygon"}
+}

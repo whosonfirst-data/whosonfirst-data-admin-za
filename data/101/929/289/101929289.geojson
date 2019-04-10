@@ -1,0 +1,129 @@
+{
+  "id": 101929289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000222,
+    "geom:area_square_m":2371039.078262,
+    "geom:bbox":"30.7878608704,-30.2167301178,30.8096294403,-30.1976509094",
+    "geom:latitude":-30.207731,
+    "geom:longitude":30.798416,
+    "gn:population":20410,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.20881,
+    "lbl:longitude":30.797674,
+    "mps:latitude":-30.20881,
+    "mps:longitude":30.797674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:deu_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:dut_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:eng_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:fra_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:fre_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:ger_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ef\u30ba\u30fc\u30eb\u30fb\u30ca\u30bf\u30fc\u30eb\u5dde"
+    ],
+    "name:nld_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:nso_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:pol_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:ron_x_preferred":[
+        "Umkomaas"
+    ],
+    "name:rum_x_preferred":[
+        "Umkomaas"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umkomaas",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-30.201,
+    "wd:longitude":30.794,
+    "wd:wordcount":1790,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1463c05c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":946128,
+        "gp:id":1588415,
+        "qs:id":7988,
+        "qs_pg:id":7988,
+        "wd:id":"Q2096887",
+        "wk:page":"Umkomaas"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"704c26bbb917f6fddcdf6fc327857625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929289,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929289,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715584,
+    "wof:name":"Umkomaas",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:population":20410,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78786087036133,
+    -30.21673011779785,
+    30.80962944030762,
+    -30.19765090942383
+],
+  "geometry": {"coordinates":[[[30.78816986083984,-30.20564651489258],[30.79022598266602,-30.20530319213867],[30.79176712036133,-30.20501518249512],[30.7992992401123,-30.20254516601562],[30.80299377441406,-30.20036506652832],[30.80501937866211,-30.19804382324219],[30.80962944030762,-30.19765090942383],[30.80917167663574,-30.19895172119141],[30.8088436126709,-30.20046234130859],[30.8086986541748,-30.2020092010498],[30.80852699279785,-30.20354843139648],[30.80812072753906,-30.20503807067871],[30.80713272094727,-30.2064208984375],[30.80575942993164,-30.20761299133301],[30.80447959899902,-30.20886611938477],[30.80351638793945,-30.21013450622559],[30.80258560180664,-30.21142196655273],[30.80167579650879,-30.21271896362305],[30.80077362060547,-30.21402168273926],[30.79986572265625,-30.2153205871582],[30.79884338378906,-30.21673011779785],[30.79641723632812,-30.21629524230957],[30.79200553894043,-30.21561241149902],[30.78863716125488,-30.21245002746582],[30.78786087036133,-30.21042060852051],[30.78816986083984,-30.20564651489258]]],"type":"Polygon"}
+}

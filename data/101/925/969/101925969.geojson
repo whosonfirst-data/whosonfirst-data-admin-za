@@ -1,0 +1,131 @@
+{
+  "id": 101925969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":485614.174086,
+    "geom:bbox":"28.1327514648,-26.2496490479,28.1400413513,-26.2402763367",
+    "geom:latitude":-26.24391,
+    "geom:longitude":28.136173,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.243298,
+    "lbl:longitude":28.135739,
+    "mps:latitude":-26.243298,
+    "mps:longitude":28.135739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Alberton"
+    ],
+    "name:dut_x_preferred":[
+        "Alberton"
+    ],
+    "name:eng_x_preferred":[
+        "Alberton"
+    ],
+    "name:epo_x_preferred":[
+        "Alberton"
+    ],
+    "name:fin_x_preferred":[
+        "Alberton"
+    ],
+    "name:fre_x_preferred":[
+        "Alberton"
+    ],
+    "name:ger_x_preferred":[
+        "Alberton"
+    ],
+    "name:ita_x_preferred":[
+        "Alberton"
+    ],
+    "name:nob_x_preferred":[
+        "Alberton"
+    ],
+    "name:nso_x_preferred":[
+        "Alberton"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062a\u0648\u0646\u060c \u06af\u0627\u0648\u062a\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Alberton"
+    ],
+    "name:por_x_preferred":[
+        "Alberton"
+    ],
+    "name:rum_x_preferred":[
+        "Alberton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Alberton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Alberton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1570.0,
+    "wd:latitude":-26.267222,
+    "wd:longitude":28.121944,
+    "wd:wordcount":843,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1463efc8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1023441,
+        "gp:id":55878744,
+        "wd:id":"Q1637702",
+        "wk:page":"Alberton, Gauteng"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f4479ab3ea5eb5e98f9afde5bf22d13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925969,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925969,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688522,
+    "wof:name":"Alberton",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13275146484375,
+    -26.24964904785156,
+    28.14004135131836,
+    -26.24027633666992
+],
+  "geometry": {"coordinates":[[[28.13444137573242,-26.24693298339844],[28.13350296020508,-26.24638175964355],[28.13291358947754,-26.24611282348633],[28.13278579711914,-26.24184989929199],[28.13275146484375,-26.2407398223877],[28.13896179199219,-26.24030303955078],[28.13944244384766,-26.24027633666992],[28.13987159729004,-26.24096488952637],[28.14004135131836,-26.24137496948242],[28.13967323303223,-26.24285697937012],[28.13872337341309,-26.24435997009277],[28.13785743713379,-26.24508857727051],[28.13861083984375,-26.24964904785156],[28.13821220397949,-26.24934005737305],[28.13513565063477,-26.24734115600586],[28.13444137573242,-26.24693298339844]]],"type":"Polygon"}
+}

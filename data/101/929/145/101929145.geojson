@@ -1,0 +1,77 @@
+{
+  "id": 101929145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000717,
+    "geom:area_square_m":7435842.164894,
+    "geom:bbox":"27.9257240295,-32.982093811,27.9616451263,-32.9548912048",
+    "geom:latitude":-32.967876,
+    "geom:longitude":27.942332,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.968092,
+    "lbl:longitude":27.938398,
+    "mps:latitude":-32.968092,
+    "mps:longitude":27.938398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beacon Bay",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020695,
+        "gp:id":1579679,
+        "qs:id":1143539,
+        "qs_pg:id":1143539
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"710722936b658f6c4e8ac6693179d382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929145,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929145,
+    "wof:lastmodified":1497297410,
+    "wof:name":"Beacon Bay",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92572402954102,
+    -32.98209381103516,
+    27.96164512634277,
+    -32.95489120483398
+],
+  "geometry": {"coordinates":[[[27.92572402954102,-32.95984268188477],[27.92842864990234,-32.9573860168457],[27.93005561828613,-32.95573425292969],[27.94020462036133,-32.95489120483398],[27.94431495666504,-32.95512008666992],[27.94680404663086,-32.95940780639648],[27.94857025146484,-32.96197891235352],[27.9512939453125,-32.96136093139648],[27.95400047302246,-32.95987701416016],[27.95842933654785,-32.95894241333008],[27.96154594421387,-32.96062469482422],[27.96164512634277,-32.96524047851562],[27.9600830078125,-32.97218704223633],[27.95742034912109,-32.97569274902344],[27.95199012756348,-32.9777946472168],[27.93939018249512,-32.98086929321289],[27.93496704101562,-32.98209381103516],[27.92585563659668,-32.97213363647461],[27.92572402954102,-32.95984268188477]]],"type":"Polygon"}
+}

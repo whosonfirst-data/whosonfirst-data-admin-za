@@ -1,0 +1,71 @@
+{
+  "id": 1259672763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.87491,-27.40697,23.87491,-27.40697",
+    "geom:latitude":-27.40697,
+    "geom:longitude":23.87491,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kikafela",
+    "gn:country_code":"ZA",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991017,
+    "gn:latitude":-27.40697,
+    "gn:longitude":23.87491,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kikafela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikahela",
+        "Kikafela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991017
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8b23162d69b812b526df97cb27c75b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1259672763,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259672763,
+    "wof:lastmodified":1537716418,
+    "wof:name":"Kikafela",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87491,
+    -27.40697,
+    23.87491,
+    -27.40697
+],
+  "geometry": {"coordinates":[23.87491,-27.40697],"type":"Point"}
+}

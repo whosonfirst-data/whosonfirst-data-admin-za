@@ -1,0 +1,114 @@
+{
+  "id": 85783397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5254864.621044,
+    "geom:bbox":"18.997498,-34.140352,18.997498,-34.140352",
+    "geom:latitude":-34.140352,
+    "geom:longitude":18.997498,
+    "gn:latitude":-34.15,
+    "gn:longitude":18.15,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.140352,
+    "lbl:longitude":18.997498,
+    "mps:latitude":-34.136814,
+    "mps:longitude":18.995361,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Steenbrasdam"
+    ],
+    "name:eng_x_preferred":[
+        "Steenbras"
+    ],
+    "name:unk_x_variant":[
+        "Steenbras"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3367513,
+    "qs:gn_nam_loc":"grabouw",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Steenbras",
+    "qs:local_max":18,
+    "qs:local_sum":18,
+    "qs:localhoods":1,
+    "qs:name":"Steenbras",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"Overberg",
+    "qs:name_lau":"Theewaterskloof",
+    "qs:name_local":"Grabouw",
+    "qs:photo_max":16,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189456,
+    "qs:woe_lau":56189681,
+    "qs:woe_local":1581911,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730617,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361055,
+        "gp:id":55881514,
+        "qs:id":226047,
+        "wd:id":"Q7605880"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9a76e517715aa0e3ba122d99d957c20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":-1,
+            "neighbourhood_id":85783397,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783397,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860500,
+    "wof:name":"Steenbras",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.997498,
+    -34.140352,
+    18.997498,
+    -34.140352
+],
+  "geometry": {"coordinates":[18.997498,-34.140352],"type":"Point"}
+}

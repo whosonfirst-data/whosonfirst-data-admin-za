@@ -1,0 +1,69 @@
+{
+  "id": 1310227855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.64105,-31.04206,29.64105,-31.04206",
+    "geom:latitude":-31.04206,
+    "geom:longitude":29.64105,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"Wofisi",
+    "gn:country_code":"ZA",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":938537,
+    "gn:latitude":-31.04206,
+    "gn:longitude":29.64105,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Wofisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":938537
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fba7b34865e46ed978479b21c8b5e7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1310227855,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310227855,
+    "wof:lastmodified":1536819180,
+    "wof:name":"Wofisi",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64105,
+    -31.04206,
+    29.64105,
+    -31.04206
+],
+  "geometry": {"coordinates":[29.64105,-31.04206],"type":"Point"}
+}

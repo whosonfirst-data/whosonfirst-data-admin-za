@@ -1,0 +1,72 @@
+{
+  "id": 101925661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":287763.505916,
+    "geom:bbox":"27.5814838409,-26.0430488586,27.5884799957,-26.0375366211",
+    "geom:latitude":-26.040217,
+    "geom:longitude":27.584669,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.039947,
+    "lbl:longitude":27.583903,
+    "mps:latitude":-26.039947,
+    "mps:longitude":27.583903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Orient Aerodrome",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583081
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cf6462d6f2f37abd309754dab6c7ee1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925661,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925661,
+    "wof:lastmodified":1500027690,
+    "wof:name":"Orient Aerodrome",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58148384094238,
+    -26.04304885864258,
+    27.58847999572754,
+    -26.03753662109375
+],
+  "geometry": {"coordinates":[[[27.5825023651123,-26.03753662109375],[27.58847999572754,-26.03891944885254],[27.58793830871582,-26.04162788391113],[27.58786010742188,-26.04202079772949],[27.58507537841797,-26.04146575927734],[27.58465385437012,-26.04304885864258],[27.58148384094238,-26.04213333129883],[27.58157348632812,-26.04009819030762],[27.5825023651123,-26.03753662109375]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310698309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56194,-24.72024,30.56194,-24.72024",
+    "geom:latitude":-24.72024,
+    "geom:longitude":30.56194,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ohrigstad Settlement",
+    "gn:country_code":"ZA",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968418,
+    "gn:latitude":-24.72024,
+    "gn:longitude":30.56194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ohrigstad Settlement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ohrigstad Settement",
+        "Ohrigstad Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968418
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec4bb2076ad4f1ed39e4a418bbd2487b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1310698309,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310698309,
+    "wof:lastmodified":1537716387,
+    "wof:name":"Ohrigstad Settlement",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56194,
+    -24.72024,
+    30.56194,
+    -24.72024
+],
+  "geometry": {"coordinates":[30.56194,-24.72024],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125781431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98905,-30.56223,17.98905,-30.56223",
+    "geom:latitude":-30.56223,
+    "geom:longitude":17.98905,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.56223,
+    "lbl:longitude":17.98905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Garies"
+    ],
+    "name:chi_x_preferred":[
+        "\u52a0\u91cc\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Garies"
+    ],
+    "name:eng_x_preferred":[
+        "Garies"
+    ],
+    "name:fre_x_preferred":[
+        "Garies"
+    ],
+    "name:ger_x_preferred":[
+        "Garies"
+    ],
+    "name:ita_x_preferred":[
+        "Garies"
+    ],
+    "name:nso_x_preferred":[
+        "Garies"
+    ],
+    "name:rum_x_preferred":[
+        "Garies"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3367786,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Garies",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1044164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367786,
+        "qs_pg:id":1044164,
+        "wd:id":"Q667485"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290498,
+    "wof:geomhash":"e07179c430ace2e3559a8e6f1758a9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125781431,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125781431,
+    "wof:lastmodified":1514503876,
+    "wof:name":"Garies",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98905,
+    -30.56223,
+    17.98905,
+    -30.56223
+],
+  "geometry": {"coordinates":[17.98905,-30.56223],"type":"Point"}
+}

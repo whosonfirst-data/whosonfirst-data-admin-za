@@ -1,0 +1,73 @@
+{
+  "id": 101923333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000238,
+    "geom:area_square_m":2691757.960146,
+    "geom:bbox":"29.0984535217,-23.6033210754,29.1160640717,-23.5806102753",
+    "geom:latitude":-23.591979,
+    "geom:longitude":29.107853,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.591935,
+    "lbl:longitude":29.10802,
+    "mps:latitude":-23.591935,
+    "mps:longitude":29.10802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rapitsi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963173,
+        "gp:id":1583945
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b82d99078be93e4d2b18bbc8a4776a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923333,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923333,
+    "wof:lastmodified":1500028426,
+    "wof:name":"Rapitsi",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09845352172852,
+    -23.60332107543945,
+    29.11606407165527,
+    -23.58061027526855
+],
+  "geometry": {"coordinates":[[[29.0993766784668,-23.58465194702148],[29.09845352172852,-23.58183670043945],[29.10414695739746,-23.58061027526855],[29.10590934753418,-23.58101654052734],[29.10679244995117,-23.58223342895508],[29.1089973449707,-23.58304595947266],[29.11076354980469,-23.58507537841797],[29.11597442626953,-23.59506797790527],[29.11562156677246,-23.59523010253906],[29.11606407165527,-23.5976676940918],[29.11518478393555,-23.60132598876953],[29.11254119873047,-23.60295295715332],[29.11033630371094,-23.60295486450195],[29.10681533813477,-23.60332107543945],[29.0993766784668,-23.58465194702148]]],"type":"Polygon"}
+}

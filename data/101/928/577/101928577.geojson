@@ -1,0 +1,72 @@
+{
+  "id": 101928577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1328602.341479,
+    "geom:bbox":"27.1924324036,-31.4477138519,27.2118206024,-31.4381923676",
+    "geom:latitude":-31.442916,
+    "geom:longitude":27.20214,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.443362,
+    "lbl:longitude":27.202324,
+    "mps:latitude":-31.443362,
+    "mps:longitude":27.202324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kaalfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6b5e871b0f9655024706390c154ae125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928577,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928577,
+    "wof:lastmodified":1500027865,
+    "wof:name":"Kaalfontein",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19243240356445,
+    -31.44771385192871,
+    27.21182060241699,
+    -31.43819236755371
+],
+  "geometry": {"coordinates":[[[27.2100944519043,-31.43819236755371],[27.21182060241699,-31.4414234161377],[27.21099853515625,-31.44287490844727],[27.20767974853516,-31.44651412963867],[27.19548988342285,-31.44771385192871],[27.19243240356445,-31.43908309936523],[27.1957893371582,-31.43832969665527],[27.19624328613281,-31.44085121154785],[27.2100944519043,-31.43819236755371]]],"type":"Polygon"}
+}

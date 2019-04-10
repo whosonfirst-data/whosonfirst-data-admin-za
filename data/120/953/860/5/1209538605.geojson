@@ -1,0 +1,63 @@
+{
+  "id": 1209538605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.09766,-31.12535,29.09766,-31.12535",
+    "geom:latitude":-31.12535,
+    "geom:longitude":29.09766,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC156",
+    "gn:asciiname":"Kwa-Nyabeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985348,
+    "gn:latitude":-31.12535,
+    "gn:longitude":29.09766,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kwa-Nyabeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985348
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"191ed1d4c13ba71c12b06ed1e3ed1fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209538605
+        }
+    ],
+    "wof:id":1209538605,
+    "wof:lastmodified":1536284058,
+    "wof:name":"Kwa-Nyabeni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09766,
+    -31.12535,
+    29.09766,
+    -31.12535
+],
+  "geometry": {"coordinates":[29.09766,-31.12535],"type":"Point"}
+}

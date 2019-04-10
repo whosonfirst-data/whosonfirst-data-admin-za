@@ -1,0 +1,71 @@
+{
+  "id": 1327346341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.87997,-30.42268,28.87997,-30.42268",
+    "geom:latitude":-30.42268,
+    "geom:longitude":28.87997,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zwartmodderfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936454,
+    "gn:latitude":-30.42268,
+    "gn:longitude":28.87997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zwartmodderfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wartmodder",
+        "Zwartmodderfontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936454
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7e1c512c3cf531ddeae37fdd33306da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1327346341,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327346341,
+    "wof:lastmodified":1537716366,
+    "wof:name":"Zwartmodderfontein",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87997,
+    -30.42268,
+    28.87997,
+    -30.42268
+],
+  "geometry": {"coordinates":[28.87997,-30.42268],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1175615609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001406,
+    "geom:area_square_m":14491632.597107,
+    "geom:bbox":"28.1851081848,-26.3852615356,28.2356681824,-26.3329315186",
+    "geom:latitude":-26.3563,
+    "geom:longitude":28.208089,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.352743,
+    "lbl:longitude":28.208241,
+    "mps:latitude":-26.352743,
+    "mps:longitude":28.208241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:chi_x_preferred":[
+        "\u798f\u65af\u76e7\u52d2\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:eng_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:fre_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:ger_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:nso_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:por_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:sco_x_preferred":[
+        "Vosloorus"
+    ],
+    "name:swe_x_preferred":[
+        "Vosloorus"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vosloorus",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        101926153,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14621932-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":942789,
+        "gp:id":1588688,
+        "qs:id":912112,
+        "qs_pg:id":912112,
+        "wd:id":"Q3299631",
+        "wk:page":"Vosloorus"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9d5d5ea75e2d3f60d0c5a667249de4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926153,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1175615609,
+    "wof:lastmodified":1534986004,
+    "wof:name":"Vosloorus",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101926159,
+        101926153
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18510818481445,
+    -26.38526153564453,
+    28.23566818237305,
+    -26.33293151855469
+],
+  "geometry": {"coordinates":[[[[28.20674514770508,-26.37092399597168],[28.21360778808594,-26.37628936767578],[28.20808982849121,-26.38047981262207],[28.20699119567871,-26.38446426391602],[28.20599746704102,-26.38526153564453],[28.1995735168457,-26.37800216674805],[28.20310211181641,-26.3729190826416],[28.20674514770508,-26.37092399597168]]],[[[28.19480133056641,-26.36372756958008],[28.19343757629395,-26.37716484069824],[28.18510818481445,-26.37560844421387],[28.18610191345215,-26.35540962219238],[28.19029426574707,-26.34909439086914],[28.19000625610352,-26.34455108642578],[28.19784736633301,-26.34302711486816],[28.19559860229492,-26.3387393951416],[28.19754981994629,-26.33293151855469],[28.21130180358887,-26.33389282226562],[28.21673965454102,-26.33780288696289],[28.22028160095215,-26.34531021118164],[28.2253532409668,-26.34539985656738],[28.22908592224121,-26.35054588317871],[28.23566818237305,-26.36065292358398],[28.22955513000488,-26.37074279785156],[28.21862983703613,-26.37176895141602],[28.22254371643066,-26.36721992492676],[28.22057723999023,-26.36444664001465],[28.21805953979492,-26.36697387695312],[28.20685386657715,-26.36724281311035],[28.19480133056641,-26.36372756958008]]]],"type":"MultiPolygon"}
+}

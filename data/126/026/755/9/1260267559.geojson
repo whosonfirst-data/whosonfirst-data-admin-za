@@ -1,0 +1,69 @@
+{
+  "id": 1260267559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42103,-23.97692,30.42103,-23.97692",
+    "geom:latitude":-23.97692,
+    "geom:longitude":30.42103,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Mahlar'we",
+    "gn:country_code":"ZA",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980304,
+    "gn:latitude":-23.97692,
+    "gn:longitude":30.42103,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mahlar\u2019we",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980304
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cb7f84d3974143ba066b4ed081a0f722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1260267559,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1260267559,
+    "wof:lastmodified":1536733505,
+    "wof:name":"Mahlar'we",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42103,
+    -23.97692,
+    30.42103,
+    -23.97692
+],
+  "geometry": {"coordinates":[30.42103,-23.97692],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310395303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,-22.8,30.75,-22.8",
+    "geom:latitude":-22.8,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Phaswane",
+    "gn:country_code":"ZA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965510,
+    "gn:latitude":-22.8,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Phaswane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965510
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a2666e39fe79193af66a7483b5c51aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1310395303,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310395303,
+    "wof:lastmodified":1537072870,
+    "wof:name":"Phaswane",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    -22.8,
+    30.75,
+    -22.8
+],
+  "geometry": {"coordinates":[30.75,-22.8],"type":"Point"}
+}

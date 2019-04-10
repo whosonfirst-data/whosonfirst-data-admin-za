@@ -1,0 +1,69 @@
+{
+  "id": 1326613873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8038,-26.65174,23.8038,-26.65174",
+    "geom:latitude":-26.65174,
+    "geom:longitude":23.8038,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Morna",
+    "gn:country_code":"ZA",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973853,
+    "gn:latitude":-26.65174,
+    "gn:longitude":23.8038,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Morna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973853
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0c2782944264e7d9d051dee9f1ecda55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1326613873,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1326613873,
+    "wof:lastmodified":1536865019,
+    "wof:name":"Morna",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8038,
+    -26.65174,
+    23.8038,
+    -26.65174
+],
+  "geometry": {"coordinates":[23.8038,-26.65174],"type":"Point"}
+}

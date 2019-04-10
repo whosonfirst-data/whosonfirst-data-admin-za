@@ -1,0 +1,111 @@
+{
+  "id": 101923603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1740515.236425,
+    "geom:bbox":"28.1054363251,-24.3011207581,28.1218242645,-24.2877483368",
+    "geom:latitude":-24.294688,
+    "geom:longitude":28.113369,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.294465,
+    "lbl:longitude":28.113369,
+    "mps:latitude":-24.294465,
+    "mps:longitude":28.113369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:dut_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:eng_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:fra_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:fre_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:nld_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:nso_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:ron_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:rum_x_preferred":[
+        "Vaalwater"
+    ],
+    "name:ven_x_preferred":[
+        "Vaalwater"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalwater",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-24.283333,
+    "wd:longitude":28.1,
+    "wd:wordcount":264,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945141,
+        "gp:id":1591528,
+        "qs:id":482643,
+        "qs_pg:id":482643,
+        "wd:id":"Q2171191"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"32531ab66f18ef1a55f50a8124c0d6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923603,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923603,
+    "wof:lastmodified":1527688299,
+    "wof:name":"Vaalwater",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10543632507324,
+    -24.30112075805664,
+    28.12182426452637,
+    -24.28774833679199
+],
+  "geometry": {"coordinates":[[[28.10806846618652,-24.29016304016113],[28.1161003112793,-24.28774833679199],[28.12182426452637,-24.29346656799316],[28.12135696411133,-24.29712104797363],[28.12046432495117,-24.29792785644531],[28.11610984802246,-24.29956245422363],[28.11513137817383,-24.29993057250977],[28.11024856567383,-24.30112075805664],[28.1067008972168,-24.30110168457031],[28.1067066192627,-24.30028915405273],[28.10671806335449,-24.29866409301758],[28.10673141479492,-24.29663276672363],[28.10674858093262,-24.2941951751709],[28.1063117980957,-24.29337882995605],[28.10543632507324,-24.29174995422363],[28.10633087158203,-24.29053688049316],[28.10806846618652,-24.29016304016113]]],"type":"Polygon"}
+}

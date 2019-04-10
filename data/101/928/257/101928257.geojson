@@ -1,0 +1,73 @@
+{
+  "id": 101928257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000275,
+    "geom:area_square_m":2934811.528967,
+    "geom:bbox":"29.8259868622,-30.4916553497,29.857378006,-30.469783783",
+    "geom:latitude":-30.480625,
+    "geom:longitude":29.840042,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.484099,
+    "lbl:longitude":29.836356,
+    "mps:latitude":-30.484099,
+    "mps:longitude":29.836356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Stafford's Post",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952767,
+        "gp:id":1591125
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1b22be2b44742a61d05da2ff99dad405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928257,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928257,
+    "wof:lastmodified":1500027548,
+    "wof:name":"Stafford's Post",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82598686218262,
+    -30.49165534973145,
+    29.85737800598145,
+    -30.46978378295898
+],
+  "geometry": {"coordinates":[[[29.85737800598145,-30.47615623474121],[29.8483715057373,-30.48004341125488],[29.84256935119629,-30.48254776000977],[29.84282684326172,-30.48707389831543],[29.83468055725098,-30.49165534973145],[29.83026504516602,-30.48827362060547],[29.82607460021973,-30.48506355285645],[29.82598686218262,-30.48290061950684],[29.84067153930664,-30.47522926330566],[29.84047889709473,-30.47054290771484],[29.84169769287109,-30.46978378295898],[29.84507179260254,-30.47076225280762],[29.85737800598145,-30.47615623474121]]],"type":"Polygon"}
+}

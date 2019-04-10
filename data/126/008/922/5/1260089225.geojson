@@ -1,0 +1,70 @@
+{
+  "id": 1260089225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42502,-28.55292,30.42502,-28.55292",
+    "geom:latitude":-28.55292,
+    "geom:longitude":30.42502,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC24",
+    "gn:admin3_code":"KZN244",
+    "gn:asciiname":"Pomeroy",
+    "gn:country_code":"ZA",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":964599,
+    "gn:latitude":-28.55292,
+    "gn:longitude":30.42502,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pomeroy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964599,
+        "wk:page":"Pomeroy%2C_KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7638dfed8efd9b939ce810ba201aa50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":1260089225,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1260089225,
+    "wof:lastmodified":1537576359,
+    "wof:name":"Pomeroy",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42502,
+    -28.55292,
+    30.42502,
+    -28.55292
+],
+  "geometry": {"coordinates":[30.42502,-28.55292],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209114673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,-29.98333,30.3,-29.98333",
+    "geom:latitude":-29.98333,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN227",
+    "gn:asciiname":"Craig Side",
+    "gn:country_code":"ZA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012562,
+    "gn:latitude":-29.98333,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Craig Side",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012562
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cf3b9fbd1dcca1df7034b3158a1911e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209114673
+        }
+    ],
+    "wof:id":1209114673,
+    "wof:lastmodified":1536297293,
+    "wof:name":"Craig Side",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    -29.98333,
+    30.3,
+    -29.98333
+],
+  "geometry": {"coordinates":[30.3,-29.98333],"type":"Point"}
+}

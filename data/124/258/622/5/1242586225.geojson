@@ -1,0 +1,73 @@
+{
+  "id": 1242586225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98773,-27.56306,29.98773,-27.56306",
+    "geom:latitude":-27.56306,
+    "geom:longitude":29.98773,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC25",
+    "gn:admin3_code":"KZN253",
+    "gn:asciiname":"Flentershoek",
+    "gn:country_code":"ZA",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004195,
+    "gn:latitude":-27.56306,
+    "gn:longitude":29.98773,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Flentershoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roodekop",
+        "Flentershoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004195
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"28d81a88598ea413514ec0744116d1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":1242586225,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1242586225,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Flentershoek",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98773,
+    -27.56306,
+    29.98773,
+    -27.56306
+],
+  "geometry": {"coordinates":[29.98773,-27.56306],"type":"Point"}
+}

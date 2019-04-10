@@ -1,0 +1,73 @@
+{
+  "id": 1242864019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,-23.65,30.93333,-23.65",
+    "geom:latitude":-23.65,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM331",
+    "gn:asciiname":"Makuba's Location",
+    "gn:country_code":"ZA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":979937,
+    "gn:latitude":-23.65,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Makuba\u2019s Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makhuvaslokasie",
+        "Makuba\u2019s Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979937
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3f3234e0ec3dd095dd23599208fd1777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1242864019,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1242864019,
+    "wof:lastmodified":1537716407,
+    "wof:name":"Makuba's Location",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    -23.65,
+    30.93333,
+    -23.65
+],
+  "geometry": {"coordinates":[30.93333,-23.65],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 101929299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":536655.666209,
+    "geom:bbox":"30.6790065765,-30.4112358093,30.6879825592,-30.399559021",
+    "geom:latitude":-30.404347,
+    "geom:longitude":30.682659,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.403724,
+    "lbl:longitude":30.682353,
+    "mps:latitude":-30.403724,
+    "mps:longitude":30.682353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Sezela"
+    ],
+    "name:dut_x_preferred":[
+        "Sezela"
+    ],
+    "name:eng_x_preferred":[
+        "Sezela"
+    ],
+    "name:nso_x_preferred":[
+        "Sezela"
+    ],
+    "name:ron_x_preferred":[
+        "Sezela"
+    ],
+    "name:rum_x_preferred":[
+        "Sezela"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sezela",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.416667,
+    "wd:longitude":30.683333,
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956253,
+        "gp:id":1587387,
+        "wd:id":"Q3643565",
+        "wk:page":"Sezela"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"733cc1c415e986742083905c73e19409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":101929299,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929299,
+    "wof:lastmodified":1527715595,
+    "wof:name":"Sezela",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67900657653809,
+    -30.41123580932617,
+    30.6879825592041,
+    -30.39955902099609
+],
+  "geometry": {"coordinates":[[[30.68249130249023,-30.40987205505371],[30.68095588684082,-30.41123580932617],[30.67926025390625,-30.40343475341797],[30.67900657653809,-30.40140533447266],[30.6879825592041,-30.39955902099609],[30.68707084655762,-30.40097236633301],[30.6826229095459,-30.40975570678711],[30.68249130249023,-30.40987205505371]]],"type":"Polygon"}
+}

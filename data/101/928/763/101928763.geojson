@@ -1,0 +1,72 @@
+{
+  "id": 101928763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000355,
+    "geom:area_square_m":3735536.149818,
+    "geom:bbox":"28.6865997314,-31.7206802368,28.7167186737,-31.6854362488",
+    "geom:latitude":-31.702813,
+    "geom:longitude":28.702655,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.698043,
+    "lbl:longitude":28.705393,
+    "mps:latitude":-31.698043,
+    "mps:longitude":28.705393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maqhinebeni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585423
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e36e4185c653e6b58b066c17164c167c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928763,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928763,
+    "wof:lastmodified":1500027929,
+    "wof:name":"Maqhinebeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68659973144531,
+    -31.72068023681641,
+    28.71671867370605,
+    -31.6854362487793
+],
+  "geometry": {"coordinates":[[[28.69975662231445,-31.69106674194336],[28.70212936401367,-31.6854362487793],[28.71022605895996,-31.69221878051758],[28.71671867370605,-31.69493865966797],[28.71670341491699,-31.69692802429199],[28.71631240844727,-31.69822311401367],[28.70969009399414,-31.70269584655762],[28.70031547546387,-31.71408462524414],[28.6975040435791,-31.71867942810059],[28.69333839416504,-31.71987724304199],[28.68659973144531,-31.72068023681641],[28.69644546508789,-31.70773696899414],[28.69881820678711,-31.70227432250977],[28.69975662231445,-31.69106674194336]]],"type":"Polygon"}
+}

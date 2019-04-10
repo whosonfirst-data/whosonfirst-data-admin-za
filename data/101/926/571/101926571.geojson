@@ -1,0 +1,101 @@
+{
+  "id": 101926571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":454618.380756,
+    "geom:bbox":"26.7751121521,-27.0901927948,26.7845191956,-27.0841388702",
+    "geom:latitude":-27.087534,
+    "geom:longitude":26.779498,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.087479,
+    "lbl:longitude":26.779498,
+    "mps:latitude":-27.087479,
+    "mps:longitude":26.779498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:dut_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:hak_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:nso_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:ron_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:rum_x_preferred":[
+        "Vierfontein"
+    ],
+    "name:sot_x_preferred":[
+        "Vierfontein"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vierfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.0972,
+    "wd:longitude":26.7758,
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943991,
+        "gp:id":1588620,
+        "wd:id":"Q3642534"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d159dad97ebbfabc4b379204f0007963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926571,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926571,
+    "wof:lastmodified":1527715818,
+    "wof:name":"Vierfontein",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77511215209961,
+    -27.0901927947998,
+    26.78451919555664,
+    -27.08413887023926
+],
+  "geometry": {"coordinates":[[[26.77625274658203,-27.08413887023926],[26.78451919555664,-27.08617210388184],[26.78338432312012,-27.08987045288086],[26.77511215209961,-27.0901927947998],[26.77625274658203,-27.08413887023926]]],"type":"Polygon"}
+}

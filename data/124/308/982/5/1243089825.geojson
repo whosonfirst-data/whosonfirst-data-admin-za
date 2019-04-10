@@ -1,0 +1,70 @@
+{
+  "id": 1243089825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.676,-29.94313,23.676,-29.94313",
+    "geom:latitude":-29.94313,
+    "geom:longitude":23.676,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC076",
+    "gn:asciiname":"Strydenburg",
+    "gn:country_code":"ZA",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951764,
+    "gn:latitude":-29.94313,
+    "gn:longitude":23.676,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Strydenburg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951764,
+        "wk:page":"Strydenburg"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8da2aef6a601eda837ddeb3ac591c133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1243089825,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1243089825,
+    "wof:lastmodified":1537576357,
+    "wof:name":"Strydenburg",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.676,
+    -29.94313,
+    23.676,
+    -29.94313
+],
+  "geometry": {"coordinates":[23.676,-29.94313],"type":"Point"}
+}

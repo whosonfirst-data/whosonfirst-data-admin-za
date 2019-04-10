@@ -1,0 +1,63 @@
+{
+  "id": 1209611069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,-22.45,30.76667,-22.45",
+    "geom:latitude":-22.45,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM342",
+    "gn:asciiname":"Sigonde",
+    "gn:country_code":"ZA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955738,
+    "gn:latitude":-22.45,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sigonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955738
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c50d9625aa779c37a3efeccbe042f1c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209611069
+        }
+    ],
+    "wof:id":1209611069,
+    "wof:lastmodified":1536281845,
+    "wof:name":"Sigonde",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    -22.45,
+    30.76667,
+    -22.45
+],
+  "geometry": {"coordinates":[30.76667,-22.45],"type":"Point"}
+}

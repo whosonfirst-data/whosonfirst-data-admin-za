@@ -1,0 +1,69 @@
+{
+  "id": 1343275049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48165,-30.40565,29.48165,-30.40565",
+    "geom:latitude":-30.40565,
+    "geom:longitude":29.48165,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN433",
+    "gn:asciiname":"Kruisfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986718,
+    "gn:latitude":-30.40565,
+    "gn:longitude":29.48165,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kruisfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986718
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"88e714d4759f3e16d29c38f306fe2e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1343275049,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343275049,
+    "wof:lastmodified":1537013074,
+    "wof:name":"Kruisfontein",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48165,
+    -30.40565,
+    29.48165,
+    -30.40565
+],
+  "geometry": {"coordinates":[29.48165,-30.40565],"type":"Point"}
+}

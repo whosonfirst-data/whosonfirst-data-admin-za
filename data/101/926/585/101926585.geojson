@@ -1,0 +1,113 @@
+{
+  "id": 101926585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1614448.702908,
+    "geom:bbox":"26.9399318695,-27.2146568298,26.9608135223,-27.1998405457",
+    "geom:latitude":-27.207483,
+    "geom:longitude":26.950256,
+    "gn:population":54955,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.207189,
+    "lbl:longitude":26.950256,
+    "mps:latitude":-27.207189,
+    "mps:longitude":26.950256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:dut_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:eng_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:hak_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:nso_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:pol_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:rum_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u044c\u044e\u043d\u0441\u043a\u0440\u0443\u043d"
+    ],
+    "name:sot_x_preferred":[
+        "Viljoenskroon"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Viljoenskroon",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.216667,
+    "wd:longitude":26.95,
+    "wd:wordcount":814,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943960,
+        "gp:id":1588623,
+        "qs:id":240615,
+        "qs_pg:id":240615,
+        "wd:id":"Q2593872",
+        "wk:page":"Viljoenskroon"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"73db91d9971b7f9bce8410f7131babdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926585,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926585,
+    "wof:lastmodified":1527715818,
+    "wof:name":"Viljoenskroon",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:population":54955,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93993186950684,
+    -27.21465682983398,
+    26.96081352233887,
+    -27.1998405456543
+],
+  "geometry": {"coordinates":[[[26.95380973815918,-27.1998405456543],[26.95490264892578,-27.20096015930176],[26.96081352233887,-27.20718193054199],[26.94505882263184,-27.21465682983398],[26.93993186950684,-27.20900535583496],[26.95380973815918,-27.1998405456543]]],"type":"Polygon"}
+}

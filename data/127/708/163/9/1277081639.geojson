@@ -1,0 +1,69 @@
+{
+  "id": 1277081639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34048,-29.62364,26.34048,-29.62364",
+    "geom:latitude":-29.62364,
+    "geom:longitude":26.34048,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Annex",
+    "gn:country_code":"ZA",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1022748,
+    "gn:latitude":-29.62364,
+    "gn:longitude":26.34048,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Annex",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022748
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64e097c83a9e9cbb9fb2af3f49485d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1277081639,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1277081639,
+    "wof:lastmodified":1536769639,
+    "wof:name":"Annex",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34048,
+    -29.62364,
+    26.34048,
+    -29.62364
+],
+  "geometry": {"coordinates":[26.34048,-29.62364],"type":"Point"}
+}

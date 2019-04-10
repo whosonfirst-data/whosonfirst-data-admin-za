@@ -1,0 +1,73 @@
+{
+  "id": 1344160009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10762,-30.05698,29.10762,-30.05698",
+    "geom:latitude":-30.05698,
+    "geom:longitude":29.10762,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN433",
+    "gn:asciiname":"Middle Valley",
+    "gn:country_code":"ZA",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975985,
+    "gn:latitude":-30.05698,
+    "gn:longitude":29.10762,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Middle Valley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elanga",
+        "Middle Valley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975985
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"baa4e80acc8fe6eb6c2a7ee556b74520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1344160009,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1344160009,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Middle Valley",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10762,
+    -30.05698,
+    29.10762,
+    -30.05698
+],
+  "geometry": {"coordinates":[29.10762,-30.05698],"type":"Point"}
+}

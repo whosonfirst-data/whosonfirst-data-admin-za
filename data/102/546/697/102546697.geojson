@@ -1,0 +1,65 @@
+{
+  "id": 102546697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97,-32.963333,17.97,-32.963333",
+    "geom:latitude":-32.963333,
+    "geom:longitude":17.97,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"50",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189457,
+        "localadmin_id":56189500,
+        "planet_id":1,
+        "state_id":2346987
+    },
+    "wof:belongsto":[
+        85633813,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517474,
+        "icao:code":"FASD",
+        "oa:id":"2836",
+        "wd:id":"Q20453545"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"754a5ccab4b863eb69ef5537e3057d7b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546697,
+            "country_id":85633813,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":102546697,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Saldanha Vredenburg Airport",
+    "wof:parent_id":85688905,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.97,
+    -32.963333,
+    17.97,
+    -32.963333
+],
+  "geometry": {"coordinates":[17.97,-32.963333],"type":"Point"}
+}

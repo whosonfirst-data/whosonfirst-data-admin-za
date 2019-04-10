@@ -1,0 +1,74 @@
+{
+  "id": 1309711281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.59288,-31.2714,29.59288,-31.2714",
+    "geom:latitude":-31.2714,
+    "geom:longitude":29.59288,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Qawukeni",
+    "gn:country_code":"ZA",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":963728,
+    "gn:latitude":-31.2714,
+    "gn:longitude":29.59288,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Qawukeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oaukeni",
+        "Qauken",
+        "Qawukeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963728
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6dadba8ce0b7fac70d7f2976566d0c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1309711281,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309711281,
+    "wof:lastmodified":1537716384,
+    "wof:name":"Qawukeni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.59288,
+    -31.2714,
+    29.59288,
+    -31.2714
+],
+  "geometry": {"coordinates":[29.59288,-31.2714],"type":"Point"}
+}

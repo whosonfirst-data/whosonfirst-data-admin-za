@@ -1,0 +1,75 @@
+{
+  "id": 1259377003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55,-26.21667,23.55,-26.21667",
+    "geom:latitude":-26.21667,
+    "geom:longitude":23.55,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Ewbank's Store",
+    "gn:country_code":"ZA",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004819,
+    "gn:latitude":-26.21667,
+    "gn:longitude":23.55,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ewbank\u2019s Store",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ewbankswinkel",
+        "Ewbank",
+        "Ewbanks",
+        "Ewbank\u2019s Store"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004819
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"019defd67c15a2c0c8b81363aafea375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1259377003,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1259377003,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Ewbank's Store",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55,
+    -26.21667,
+    23.55,
+    -26.21667
+],
+  "geometry": {"coordinates":[23.55,-26.21667],"type":"Point"}
+}

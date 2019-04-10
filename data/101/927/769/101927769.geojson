@@ -1,0 +1,90 @@
+{
+  "id": 101927769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":869128.648803,
+    "geom:bbox":"31.3599224091,-29.2706928253,31.3771114349,-29.2629680634",
+    "geom:latitude":-29.266498,
+    "geom:longitude":31.368683,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.26654,
+    "lbl:longitude":31.368683,
+    "mps:latitude":-29.26654,
+    "mps:longitude":31.368683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Darnall"
+    ],
+    "name:dut_x_preferred":[
+        "Darnall"
+    ],
+    "name:eng_x_preferred":[
+        "Darnall"
+    ],
+    "name:rum_x_preferred":[
+        "Darnall"
+    ],
+    "name:unk_x_variant":[
+        "Dernali Station"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Darnall",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":548,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011824,
+        "gp:id":1580571,
+        "wd:id":"Q5224095"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0087a30319fd26eaff8f5f1ded3bb492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":101927769,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927769,
+    "wof:lastmodified":1527715638,
+    "wof:name":"Darnall",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35992240905762,
+    -29.27069282531738,
+    31.37711143493652,
+    -29.26296806335449
+],
+  "geometry": {"coordinates":[[[31.37391662597656,-29.27042388916016],[31.37374496459961,-29.27069282531738],[31.36507415771484,-29.26860046386719],[31.35992240905762,-29.26680946350098],[31.36248207092285,-29.26296806335449],[31.37097358703613,-29.26384735107422],[31.37711143493652,-29.26541709899902],[31.37391662597656,-29.27042388916016]]],"type":"Polygon"}
+}

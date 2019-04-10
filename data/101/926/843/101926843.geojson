@@ -1,0 +1,72 @@
+{
+  "id": 101926843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":592103.782013,
+    "geom:bbox":"29.9589347839,-28.3658275604,29.967048645,-28.3538913727",
+    "geom:latitude":-28.359982,
+    "geom:longitude":29.962421,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.359396,
+    "lbl:longitude":29.962821,
+    "mps:latitude":-28.359396,
+    "mps:longitude":29.962821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"NEWCASTLE-PLATBERG COLLIERY",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583674
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d2cfb27772dfd728d7d69c2d48d881db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926843,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926843,
+    "wof:lastmodified":1500027538,
+    "wof:name":"Newcastle-Platberg Colliery",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95893478393555,
+    -28.3658275604248,
+    29.96704864501953,
+    -28.35389137268066
+],
+  "geometry": {"coordinates":[[[29.95893478393555,-28.35930252075195],[29.96267890930176,-28.35389137268066],[29.96579933166504,-28.35753059387207],[29.96704864501953,-28.36024856567383],[29.96627235412598,-28.36137008666992],[29.96499061584473,-28.36203765869141],[29.96319770812988,-28.36269950866699],[29.96138572692871,-28.36539268493652],[29.95934104919434,-28.3658275604248],[29.95893478393555,-28.35930252075195]]],"type":"Polygon"}
+}

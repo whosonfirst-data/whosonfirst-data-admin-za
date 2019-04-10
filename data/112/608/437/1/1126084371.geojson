@@ -1,0 +1,92 @@
+{
+  "id": 1126084371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79987,-29.79706,30.79987,-29.79706",
+    "geom:latitude":-29.79706,
+    "geom:longitude":30.79987,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.79706,
+    "lbl:longitude":30.79987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gillitts-Emberton"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1001875,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gillitts",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1316573,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581730,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730571,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001875,
+        "gp:id":1581730,
+        "qs_pg:id":1316573
+    },
+    "wof:country":"ZA",
+    "wof:created":1497312502,
+    "wof:geomhash":"0a646a1a0b1d07d648d228db6e701dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":-1,
+            "neighbourhood_id":1126084371,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1126084371,
+    "wof:lastmodified":1509411328,
+    "wof:name":"Gillitts",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79987,
+    -29.79706,
+    30.79987,
+    -29.79706
+],
+  "geometry": {"coordinates":[30.79987,-29.79706],"type":"Point"}
+}

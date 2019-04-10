@@ -1,0 +1,72 @@
+{
+  "id": 101929229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1657006.493021,
+    "geom:bbox":"27.0716762543,-33.4000320435,27.0940418243,-33.3864593506",
+    "geom:latitude":-33.392385,
+    "geom:longitude":27.081935,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.391696,
+    "lbl:longitude":27.081766,
+    "mps:latitude":-33.391696,
+    "mps:longitude":27.081766,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dabi Dam",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582509
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2adfd3d7e4a19866ea5f34f40b2e7eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929229,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929229,
+    "wof:lastmodified":1500027852,
+    "wof:name":"Dabi Dam",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07167625427246,
+    -33.40003204345703,
+    27.09404182434082,
+    -33.38645935058594
+],
+  "geometry": {"coordinates":[[[27.09222030639648,-33.38645935058594],[27.09404182434082,-33.38892364501953],[27.09177207946777,-33.39205932617188],[27.08946228027344,-33.39337921142578],[27.08560180664062,-33.39471054077148],[27.08057594299316,-33.39605331420898],[27.07558250427246,-33.39999771118164],[27.07170677185059,-33.40003204345703],[27.07167625427246,-33.39743041992188],[27.07318687438965,-33.3941650390625],[27.0750789642334,-33.3902473449707],[27.07931709289551,-33.38793563842773],[27.09222030639648,-33.38645935058594]]],"type":"Polygon"}
+}

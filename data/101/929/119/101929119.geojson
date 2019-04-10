@@ -1,0 +1,72 @@
+{
+  "id": 101929119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1614190.498214,
+    "geom:bbox":"26.9431381226,-32.8986129761,26.9575271606,-32.8714256287",
+    "geom:latitude":-32.884734,
+    "geom:longitude":26.951371,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.877133,
+    "lbl:longitude":26.953769,
+    "mps:latitude":-32.877133,
+    "mps:longitude":26.953769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mavuvumezini",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582920
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8e29aebbfbcd8ffa145be3807450adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929119,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929119,
+    "wof:lastmodified":1500027834,
+    "wof:name":"Mavuvumezini",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94313812255859,
+    -32.89861297607422,
+    26.95752716064453,
+    -32.87142562866211
+],
+  "geometry": {"coordinates":[[[26.95003128051758,-32.87711334228516],[26.94925117492676,-32.87396621704102],[26.95109367370605,-32.87142562866211],[26.95446586608887,-32.87203216552734],[26.95749092102051,-32.87516403198242],[26.95752716064453,-32.87863540649414],[26.95460891723633,-32.88560104370117],[26.94913291931152,-32.89858245849609],[26.94501876831055,-32.89861297607422],[26.94313812255859,-32.89767837524414],[26.95121955871582,-32.88341903686523],[26.95003128051758,-32.87711334228516]]],"type":"Polygon"}
+}

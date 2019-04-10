@@ -1,0 +1,69 @@
+{
+  "id": 1293101781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-28.31667,32.1,-28.31667",
+    "geom:latitude":-28.31667,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN275",
+    "gn:asciiname":"Somkele",
+    "gn:country_code":"ZA",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954137,
+    "gn:latitude":-28.31667,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Somkele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954137
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"83076cb8159f8e02d2f2d9a9fb4ef019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1293101781,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293101781,
+    "wof:lastmodified":1536845028,
+    "wof:name":"Somkele",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -28.31667,
+    32.1,
+    -28.31667
+],
+  "geometry": {"coordinates":[32.1,-28.31667],"type":"Point"}
+}

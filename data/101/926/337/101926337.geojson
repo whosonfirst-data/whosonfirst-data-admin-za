@@ -1,0 +1,89 @@
+{
+  "id": 101926337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:area_square_m":2376490.499968,
+    "geom:bbox":"25.2982215881,-26.543466568,25.3205738068,-26.5275878906",
+    "geom:latitude":-26.534883,
+    "geom:longitude":25.308846,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.535345,
+    "lbl:longitude":25.309751,
+    "mps:latitude":-26.535345,
+    "mps:longitude":25.309751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Geysdorp"
+    ],
+    "name:dut_x_preferred":[
+        "Geysdorp"
+    ],
+    "name:eng_x_preferred":[
+        "Geysdorp"
+    ],
+    "name:nso_x_preferred":[
+        "Geysdorp"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Geysdorp",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.533,
+    "wd:longitude":25.3,
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002044,
+        "gp:id":1581723,
+        "wd:id":"Q13034808"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cd7abccaa10d3a842192d3f3dec6a746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":101926337,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926337,
+    "wof:lastmodified":1527715812,
+    "wof:name":"Geysdorp",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29822158813477,
+    -26.54346656799316,
+    25.3205738067627,
+    -26.527587890625
+],
+  "geometry": {"coordinates":[[[25.30880546569824,-26.54346656799316],[25.30072021484375,-26.53755187988281],[25.29822158813477,-26.53196907043457],[25.2995548248291,-26.53016471862793],[25.30288314819336,-26.52865791320801],[25.30455017089844,-26.52865409851074],[25.30655097961426,-26.52894973754883],[25.31016731262207,-26.52759170532227],[25.31221580505371,-26.527587890625],[25.3205738067627,-26.53641700744629],[25.31391716003418,-26.54063034057617],[25.30880546569824,-26.54346656799316]]],"type":"Polygon"}
+}

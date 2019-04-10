@@ -1,0 +1,119 @@
+{
+  "id": 101926783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000748,
+    "geom:area_square_m":8156278.658288,
+    "geom:bbox":"26.8432064056,-28.1170425415,26.8915424347,-28.0904045105",
+    "geom:latitude":-28.104894,
+    "geom:longitude":26.866863,
+    "gn:population":122502,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.107312,
+    "lbl:longitude":26.86851,
+    "mps:latitude":-28.107312,
+    "mps:longitude":26.86851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Virginia"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u5409\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Virginia"
+    ],
+    "name:eng_x_preferred":[
+        "Virginia"
+    ],
+    "name:epo_x_preferred":[
+        "Virginia"
+    ],
+    "name:fre_x_preferred":[
+        "Virginia"
+    ],
+    "name:ger_x_preferred":[
+        "Virginia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2"
+    ],
+    "name:nso_x_preferred":[
+        "Virginia"
+    ],
+    "name:pol_x_preferred":[
+        "Virginia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Virginia",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.116667,
+    "wd:longitude":26.9,
+    "wd:wordcount":280,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943882,
+        "gp:id":55880342,
+        "wd:id":"Q1027286",
+        "wk:page":"Virginia, Free State"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"daf849cf039b82748e5cb86d34eaf214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926783,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926783,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Virginia",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:population":122502,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615653
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84320640563965,
+    -28.11704254150391,
+    26.89154243469238,
+    -28.09040451049805
+],
+  "geometry": {"coordinates":[[[26.88189697265625,-28.09377861022949],[26.88697814941406,-28.09159088134766],[26.89100646972656,-28.09040451049805],[26.89154243469238,-28.09064292907715],[26.89154243469238,-28.09207153320312],[26.89045906066895,-28.10064125061035],[26.88669586181641,-28.10492324829102],[26.88078880310059,-28.10563087463379],[26.88131904602051,-28.11086845397949],[26.87809562683105,-28.11205673217773],[26.8748722076416,-28.11324310302734],[26.87460136413574,-28.11491012573242],[26.87272262573242,-28.11562156677246],[26.86896324157715,-28.1158561706543],[26.86493301391602,-28.11704254150391],[26.85392570495605,-28.11703109741211],[26.84668731689453,-28.10892868041992],[26.84346580505371,-28.10892486572266],[26.84320640563965,-28.10321044921875],[26.8437442779541,-28.10249710083008],[26.84535789489746,-28.10107040405273],[26.84697151184082,-28.09916877746582],[26.84858322143555,-28.09750366210938],[26.85019683837891,-28.09655380249023],[26.85771369934082,-28.09513282775879],[26.85770988464355,-28.09775161743164],[26.85770988464355,-28.09894180297852],[26.85985565185547,-28.10013580322266],[26.86334419250488,-28.10017776489258],[26.86443328857422,-28.10017967224121],[26.87713241577148,-28.09536933898926],[26.87919235229492,-28.09468269348145],[26.88189697265625,-28.09377861022949]]],"type":"Polygon"}
+}

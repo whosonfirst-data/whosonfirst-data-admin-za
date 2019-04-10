@@ -1,0 +1,72 @@
+{
+  "id": 101925947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":187766.762859,
+    "geom:bbox":"28.33319664,-26.234834671,28.3381671906,-26.2278594971",
+    "geom:latitude":-26.231366,
+    "geom:longitude":28.335567,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.231448,
+    "lbl:longitude":28.335604,
+    "mps:latitude":-26.231448,
+    "mps:longitude":28.335604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leachville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878636
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2ee153c198dfdd61349072cfcd615428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925947,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925947,
+    "wof:lastmodified":1500027727,
+    "wof:name":"Leachville",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33319664001465,
+    -26.23483467102051,
+    28.33816719055176,
+    -26.22785949707031
+],
+  "geometry": {"coordinates":[[[28.33524894714355,-26.22785949707031],[28.33816719055176,-26.23384666442871],[28.33539009094238,-26.23483467102051],[28.33319664001465,-26.22808265686035],[28.33524894714355,-26.22785949707031]]],"type":"Polygon"}
+}

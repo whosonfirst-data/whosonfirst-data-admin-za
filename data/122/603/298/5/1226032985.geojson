@@ -1,0 +1,74 @@
+{
+  "id": 1226032985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64887,-33.57316,18.64887,-33.57316",
+    "geom:latitude":-33.57316,
+    "geom:longitude":18.64887,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC015",
+    "gn:asciiname":"Kalbaskraal",
+    "gn:country_code":"ZA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366317,
+    "gn:latitude":-33.57316,
+    "gn:longitude":18.64887,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kalbaskraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalabaskraal",
+        "Kalbaskraal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366317,
+        "wk:page":"Kalbaskraal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"56dc9b7014eb4a538a729396a047f319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1226032985,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226032985,
+    "wof:lastmodified":1537716444,
+    "wof:name":"Kalbaskraal",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64887,
+    -33.57315999999999,
+    18.64887,
+    -33.57315999999999
+],
+  "geometry": {"coordinates":[18.64887,-33.57315999999999],"type":"Point"}
+}

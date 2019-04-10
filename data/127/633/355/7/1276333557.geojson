@@ -1,0 +1,73 @@
+{
+  "id": 1276333557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.22321,-31.42043,29.22321,-31.42043",
+    "geom:latitude":-31.42043,
+    "geom:longitude":29.22321,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Lukuni",
+    "gn:country_code":"ZA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981400,
+    "gn:latitude":-31.42043,
+    "gn:longitude":29.22321,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lukuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukeni",
+        "Lukuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981400
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"271bce3a4dda5e32e34325c804933805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1276333557,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276333557,
+    "wof:lastmodified":1537716410,
+    "wof:name":"Lukuni",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.22321,
+    -31.42043,
+    29.22321,
+    -31.42043
+],
+  "geometry": {"coordinates":[29.22321,-31.42043],"type":"Point"}
+}

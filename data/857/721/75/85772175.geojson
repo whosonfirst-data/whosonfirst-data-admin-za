@@ -1,0 +1,114 @@
+{
+  "id": 85772175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":846229.082854,
+    "geom:bbox":"18.4011538007,-33.9182923439,18.4130859375,-33.9068955431",
+    "geom:latitude":-33.912248,
+    "geom:longitude":18.407621,
+    "gn:latitude":-33.90504,
+    "gn:longitude":18.40725,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.903747,
+    "lbl:longitude":18.404732,
+    "mps:latitude":-33.912477,
+    "mps:longitude":18.407507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Green Point"
+    ],
+    "name:unk_x_variant":[
+        "Groenpunt",
+        "Green Point"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Green Point",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Green Point",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":222,
+    "qs:photo_sum":547,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367445,
+        "gp:id":1581931,
+        "qs:id":183823,
+        "qs_pg:id":183823,
+        "wd:id":"Q2282472",
+        "wk:page":"Green Point, Cape Town"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"52f93dfec2690a3aba93ef0ce93f9603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772175,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772175,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497312313,
+    "wof:name":"Green Point",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40115380072513,
+    -33.91829234388742,
+    18.41308593750011,
+    -33.90689554305316
+],
+  "geometry": {"coordinates":[[[18.40701297047787,-33.90689554419491],[18.4075927734001,-33.90689555129998],[18.41033935550007,-33.90689555129998],[18.41033935548347,-33.90759415280765],[18.41033935548347,-33.90917502567484],[18.41033935548654,-33.91145444540416],[18.4125061598499,-33.91145444718327],[18.41308593750011,-33.91145445429998],[18.41308593750011,-33.91215306266864],[18.41308593750011,-33.9137338060531],[18.41308593750011,-33.91601310346436],[18.41033935548103,-33.91601310759048],[18.41033935548654,-33.91829234261875],[18.40759277341402,-33.91829234388742],[18.40759277341925,-33.91601310759048],[18.40484619140011,-33.91601310450415],[18.40484619140022,-33.91373380850003],[18.40209960938586,-33.91373380618002],[18.40115380072513,-33.91259410382495],[18.40209960720262,-33.9114544448574],[18.40209960938103,-33.90917502749036],[18.40484619140011,-33.90917502336424],[18.40484619140011,-33.90689554305316],[18.40701297047787,-33.90689554419491]]],"type":"Polygon"}
+}

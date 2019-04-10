@@ -1,0 +1,67 @@
+{
+  "id": 1259868749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89384,-27.15851,23.89384,-27.15851",
+    "geom:latitude":-27.15851,
+    "geom:longitude":23.89384,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ramokikwana",
+    "gn:country_code":"ZA",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":963270,
+    "gn:latitude":-27.15851,
+    "gn:longitude":23.89384,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ramokikwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963270
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6188a76b2196ebcff984e80e2b8547e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1259868749,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259868749,
+    "wof:lastmodified":1536800468,
+    "wof:name":"Ramokikwana",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89384,
+    -27.15851,
+    23.89384,
+    -27.15851
+],
+  "geometry": {"coordinates":[23.89384,-27.15851],"type":"Point"}
+}

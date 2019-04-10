@@ -1,0 +1,74 @@
+{
+  "id": 101926145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00016,
+    "geom:area_square_m":1774216.450167,
+    "geom:bbox":"27.8904361725,-26.3734264374,27.908121109,-26.3573150635",
+    "geom:latitude":-26.364844,
+    "geom:longitude":27.89796,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.364698,
+    "lbl:longitude":27.897089,
+    "mps:latitude":-26.364698,
+    "mps:longitude":27.897089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zakariyya Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"b29116a4e2d659161dde7a88842d9d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101926145,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926145,
+    "wof:lastmodified":1534986001,
+    "wof:name":"Zakariyya Park",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615537
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.89043617248535,
+    -26.37342643737793,
+    27.90812110900879,
+    -26.35731506347656
+],
+  "geometry": {"coordinates":[[[27.89268493652344,-26.36042976379395],[27.89978218078613,-26.35731506347656],[27.90812110900879,-26.36135673522949],[27.90573501586914,-26.36336708068848],[27.90369606018066,-26.36534118652344],[27.90175437927246,-26.36762237548828],[27.89975547790527,-26.37040328979492],[27.8982105255127,-26.37326812744141],[27.89407730102539,-26.37342643737793],[27.89043617248535,-26.3658504486084],[27.89268493652344,-26.36042976379395]]],"type":"Polygon"}
+}

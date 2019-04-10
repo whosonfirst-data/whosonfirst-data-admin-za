@@ -1,0 +1,72 @@
+{
+  "id": 101928705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1448511.250951,
+    "geom:bbox":"27.0499839783,-31.6549987793,27.0648212433,-31.640499115",
+    "geom:latitude":-31.648919,
+    "geom:longitude":27.05759,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.650398,
+    "lbl:longitude":27.058473,
+    "mps:latitude":-31.650398,
+    "mps:longitude":27.058473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zitapileni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7a753934e6789ee9a3a5fba679ee2575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928705,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928705,
+    "wof:lastmodified":1500027870,
+    "wof:name":"Zitapileni",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04998397827148,
+    -31.65499877929688,
+    27.06482124328613,
+    -31.64049911499023
+],
+  "geometry": {"coordinates":[[[27.06002044677734,-31.64050483703613],[27.06086540222168,-31.64049911499023],[27.06387901306152,-31.64588356018066],[27.06221771240234,-31.64806365966797],[27.06482124328613,-31.6545352935791],[27.05764770507812,-31.65423393249512],[27.0525951385498,-31.65499877929688],[27.0500373840332,-31.65249443054199],[27.04998397827148,-31.64780426025391],[27.05250549316406,-31.64706230163574],[27.05546569824219,-31.64775848388672],[27.0545768737793,-31.643798828125],[27.06002044677734,-31.64050483703613]]],"type":"Polygon"}
+}

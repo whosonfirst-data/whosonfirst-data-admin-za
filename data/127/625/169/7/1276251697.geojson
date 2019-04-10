@@ -1,0 +1,69 @@
+{
+  "id": 1276251697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.47179,-30.64616,28.47179,-30.64616",
+    "geom:latitude":-30.64616,
+    "geom:longitude":28.47179,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Mahemeng",
+    "gn:country_code":"ZA",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980344,
+    "gn:latitude":-30.64616,
+    "gn:longitude":28.47179,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mahemeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980344
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b35d8885ca32a5624123f474f90308b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1276251697,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276251697,
+    "wof:lastmodified":1536887700,
+    "wof:name":"Mahemeng",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47179,
+    -30.64616,
+    28.47179,
+    -30.64616
+],
+  "geometry": {"coordinates":[28.47179,-30.64616],"type":"Point"}
+}

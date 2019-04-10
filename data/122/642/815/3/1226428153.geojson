@@ -1,0 +1,69 @@
+{
+  "id": 1226428153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41759,-29.40475,22.41759,-29.40475",
+    "geom:latitude":-29.40475,
+    "geom:longitude":22.41759,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC077",
+    "gn:asciiname":"Groendal",
+    "gn:country_code":"ZA",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":999938,
+    "gn:latitude":-29.40475,
+    "gn:longitude":22.41759,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Groendal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999938
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a8da8043116443cfd273fcb013c8fc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1226428153,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1226428153,
+    "wof:lastmodified":1536670820,
+    "wof:name":"Groendal",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41759,
+    -29.40475,
+    22.41759,
+    -29.40475
+],
+  "geometry": {"coordinates":[22.41759,-29.40475],"type":"Point"}
+}

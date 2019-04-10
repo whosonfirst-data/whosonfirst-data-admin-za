@@ -1,0 +1,109 @@
+{
+  "id": 101927143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000195,
+    "geom:area_square_m":2095142.844362,
+    "geom:bbox":"29.5083580017,-29.7559585571,29.5255413055,-29.7381458282",
+    "geom:latitude":-29.748038,
+    "geom:longitude":29.516821,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.748099,
+    "lbl:longitude":29.516984,
+    "mps:latitude":-29.748099,
+    "mps:longitude":29.516984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Himeville"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d77\u59c6\u7dad\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "Himeville"
+    ],
+    "name:dut_x_preferred":[
+        "Himeville"
+    ],
+    "name:eng_x_preferred":[
+        "Himeville"
+    ],
+    "name:fre_x_preferred":[
+        "Himeville"
+    ],
+    "name:ger_x_preferred":[
+        "Himeville"
+    ],
+    "name:nso_x_preferred":[
+        "Himeville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u59c6\u7dad\u723e"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Himeville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.75,
+    "wd:longitude":29.5,
+    "wd:wordcount":527,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996409,
+        "gp:id":1582258,
+        "qs:id":244420,
+        "qs_pg:id":244420,
+        "wd:id":"Q1619054",
+        "wk:page":"Himeville"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c4a8e26612da7060570c5223e9f6b84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101927143,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927143,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Himeville",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.50835800170898,
+    -29.75595855712891,
+    29.52554130554199,
+    -29.73814582824707
+],
+  "geometry": {"coordinates":[[[29.50838470458984,-29.75024032592773],[29.50970840454102,-29.74799919128418],[29.51156616210938,-29.74463653564453],[29.51266479492188,-29.74013710021973],[29.5160083770752,-29.74130249023438],[29.51605415344238,-29.73814582824707],[29.51992034912109,-29.73886489868164],[29.51987075805664,-29.74224662780762],[29.52554130554199,-29.74343681335449],[29.52367401123047,-29.74747657775879],[29.52257537841797,-29.75197410583496],[29.52253341674805,-29.75490570068359],[29.52096939086914,-29.75579261779785],[29.51553916931152,-29.75595855712891],[29.51091384887695,-29.75410270690918],[29.50835800170898,-29.75204467773438],[29.50838470458984,-29.75024032592773]]],"type":"Polygon"}
+}

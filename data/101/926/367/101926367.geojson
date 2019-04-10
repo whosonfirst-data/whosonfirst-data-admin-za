@@ -1,0 +1,73 @@
+{
+  "id": 101926367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":987100.882818,
+    "geom:bbox":"27.9886837006,-26.6089706421,28.0036506653,-26.5931835175",
+    "geom:latitude":-26.602303,
+    "geom:longitude":27.99573,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.602931,
+    "lbl:longitude":27.995106,
+    "mps:latitude":-26.602931,
+    "mps:longitude":27.995106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rothdene",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959079,
+        "gp:id":1587048
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7a9091511b1b15bcf5be3178124279c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926367,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926367,
+    "wof:lastmodified":1500027686,
+    "wof:name":"Rothdene",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98868370056152,
+    -26.60897064208984,
+    28.0036506652832,
+    -26.59318351745605
+],
+  "geometry": {"coordinates":[[[27.99370002746582,-26.59720039367676],[27.9976806640625,-26.60172080993652],[28.00008964538574,-26.60454559326172],[28.0036506652832,-26.60501670837402],[28.0036506652832,-26.60887718200684],[27.99862289428711,-26.60737037658691],[27.99684143066406,-26.60897064208984],[27.99212837219238,-26.60379219055176],[27.99170875549316,-26.60153198242188],[27.98868370056152,-26.59885406494141],[27.98904800415039,-26.59817123413086],[27.98998069763184,-26.5964241027832],[27.99065589904785,-26.59626960754395],[27.99131011962891,-26.59624862670898],[27.9951057434082,-26.59365081787109],[27.99607276916504,-26.59318351745605],[27.99663352966309,-26.59428024291992],[27.99370002746582,-26.59720039367676]]],"type":"Polygon"}
+}

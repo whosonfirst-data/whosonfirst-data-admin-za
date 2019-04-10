@@ -1,0 +1,90 @@
+{
+  "id": 101928317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000033,
+    "geom:area_square_m":347968.39331,
+    "geom:bbox":"25.5076446533,-30.5848579407,25.5151233673,-30.5795669556",
+    "geom:latitude":-30.582196,
+    "geom:longitude":25.51166,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.582206,
+    "lbl:longitude":25.51166,
+    "mps:latitude":-30.582206,
+    "mps:longitude":25.51166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Oranjekrag"
+    ],
+    "name:dut_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:eng_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:nso_x_preferred":[
+        "Gariep Dam"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gariep Dam",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":439,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880122,
+        "wd:id":"Q7099887"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cda90423d6ee875f0a3f8c54b0488cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928317,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928317,
+    "wof:lastmodified":1534986000,
+    "wof:name":"Gariep Dam",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615525
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50764465332031,
+    -30.58485794067383,
+    25.51512336730957,
+    -30.57956695556641
+],
+  "geometry": {"coordinates":[[[25.5090160369873,-30.58481025695801],[25.50764465332031,-30.58076477050781],[25.51124382019043,-30.57956695556641],[25.51482582092285,-30.5796070098877],[25.51512336730957,-30.58363914489746],[25.51331329345703,-30.58485794067383],[25.51116561889648,-30.58483505249023],[25.5090160369873,-30.58481025695801]]],"type":"Polygon"}
+}

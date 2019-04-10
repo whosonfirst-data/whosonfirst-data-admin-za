@@ -1,0 +1,124 @@
+{
+  "id": 1175615621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000381,
+    "geom:area_square_m":1459111.993741,
+    "geom:bbox":"29.464887619,-24.3167438507,29.5521736145,-24.2894458771",
+    "geom:latitude":-24.303336,
+    "geom:longitude":29.519302,
+    "gn:population":33308,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.309548,
+    "lbl:longitude":29.472536,
+    "mps:latitude":-24.309548,
+    "mps:longitude":29.472536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0628\u0648\u0627\u0643\u063a\u0648\u0645\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:eng_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:fre_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:ger_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:ita_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:nso_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:pol_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:por_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:rum_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "name:spa_x_preferred":[
+        "Lebowakgomo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lebowakgomo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-24.305,
+    "wd:longitude":29.565,
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191573,
+        101923613,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984087,
+        "gp:id":55881587,
+        "qs:id":355364,
+        "qs_pg:id":355364,
+        "wd:id":"Q544201",
+        "wk:page":"Lebowakgomo"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d0d6c557392f3351bb68c159794cbcdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923613,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1175615621,
+    "wof:lastmodified":1534986005,
+    "wof:name":"Lebowakgomo",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:population":33308,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101923609,
+        101923613
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46488761901855,
+    -24.31674385070801,
+    29.55217361450195,
+    -24.2894458770752
+],
+  "geometry": {"coordinates":[[[[29.46667861938477,-24.31148338317871],[29.46488761901855,-24.30620765686035],[29.47462463378906,-24.30211448669434],[29.47640609741211,-24.30454635620117],[29.47815895080566,-24.30976104736328],[29.47954368591309,-24.31388092041016],[29.47334671020508,-24.31674385070801],[29.46829032897949,-24.31275367736816],[29.46667861938477,-24.31148338317871]]],[[[29.53575897216797,-24.29418563842773],[29.53886222839355,-24.29337692260742],[29.54549980163574,-24.2905101776123],[29.54780006408691,-24.2894458770752],[29.55083084106445,-24.2933349609375],[29.55216598510742,-24.29495429992676],[29.55217361450195,-24.29657936096191],[29.54953002929688,-24.30024528503418],[29.55000877380371,-24.30877494812012],[29.53582382202148,-24.30923080444336],[29.53575897216797,-24.29418563842773]]]],"type":"MultiPolygon"}
+}

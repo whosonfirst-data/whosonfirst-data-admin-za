@@ -1,0 +1,97 @@
+{
+  "id": 1125788845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70288,-30.36972,30.70288,-30.36972",
+    "geom:latitude":-30.36972,
+    "geom:longitude":30.70288,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.36972,
+    "lbl:longitude":30.70288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Kelso"
+    ],
+    "name:dut_x_preferred":[
+        "Kelso"
+    ],
+    "name:eng_x_preferred":[
+        "Kelso"
+    ],
+    "name:nso_x_preferred":[
+        "Kelso"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":991447,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kelso",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193861,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582702,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991447,
+        "gp:id":1582702,
+        "qs_pg:id":193861,
+        "wd:id":"Q6386525"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290782,
+    "wof:geomhash":"33180b3d17594b1c2f3ee73b491083d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1125788845,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125788845,
+    "wof:lastmodified":1514503935,
+    "wof:name":"Kelso",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70288,
+    -30.36972,
+    30.70288,
+    -30.36972
+],
+  "geometry": {"coordinates":[30.70288,-30.36972],"type":"Point"}
+}

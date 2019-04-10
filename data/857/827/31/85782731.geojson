@@ -1,0 +1,110 @@
+{
+  "id": 85782731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8414632.20653,
+    "geom:bbox":"28.110685,-26.173496,28.110685,-26.173496",
+    "geom:latitude":-26.173496,
+    "geom:longitude":28.110685,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.173496,
+    "lbl:longitude":28.110685,
+    "mps:latitude":-26.133401,
+    "mps:longitude":28.153501,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bruma"
+    ],
+    "name:unk_x_variant":[
+        "Bruma"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:id":0,
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Bruma",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":22,
+    "qs:photo_sum":37,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925779,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870422,
+        "gp:id":55877926,
+        "qs_pg:id":489187
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b04e7b29787b8325a8884bf2fb9ee01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925779,
+            "neighbourhood_id":85782731,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85782731,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860403,
+    "wof:name":"Bruma",
+    "wof:parent_id":101925779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.110685,
+    -26.173496,
+    28.110685,
+    -26.173496
+],
+  "geometry": {"coordinates":[28.110685,-26.173496],"type":"Point"}
+}

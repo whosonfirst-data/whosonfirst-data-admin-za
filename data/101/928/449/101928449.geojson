@@ -1,0 +1,74 @@
+{
+  "id": 101928449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":821638.681247,
+    "geom:bbox":"29.7936038971,-30.8740158081,29.8071842194,-30.8620510101",
+    "geom:latitude":-30.86748,
+    "geom:longitude":29.801049,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.867372,
+    "lbl:longitude":29.801512,
+    "mps:latitude":-30.867372,
+    "mps:longitude":29.801512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mbizana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019264,
+        "gp:id":1589242,
+        "qs:id":276206
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6797e22ec2d2504eba1ab5ef317fd00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928449,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928449,
+    "wof:lastmodified":1500027914,
+    "wof:name":"Mbizana",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79360389709473,
+    -30.87401580810547,
+    29.80718421936035,
+    -30.86205101013184
+],
+  "geometry": {"coordinates":[[[29.80167961120605,-30.86270141601562],[29.80460357666016,-30.86795043945312],[29.80718421936035,-30.86967658996582],[29.80694389343262,-30.87401580810547],[29.80230140686035,-30.87307548522949],[29.80009460449219,-30.87025451660156],[29.79916954040527,-30.86811637878418],[29.79787254333496,-30.86707305908203],[29.79360389709473,-30.86503791809082],[29.7939338684082,-30.86286163330078],[29.79683113098145,-30.86205101013184],[29.80167961120605,-30.86270141601562]]],"type":"Polygon"}
+}

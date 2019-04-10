@@ -1,0 +1,112 @@
+{
+  "id": 101926603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00032,
+    "geom:area_square_m":3521103.174369,
+    "geom:bbox":"28.490398407,-27.289440155,28.5157165527,-27.2640419006",
+    "geom:latitude":-27.276412,
+    "geom:longitude":28.501804,
+    "gn:population":1900,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.274499,
+    "lbl:longitude":28.502859,
+    "mps:latitude":-27.274499,
+    "mps:longitude":28.502859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Frankfort"
+    ],
+    "name:chi_x_preferred":[
+        "\u6cd5\u862d\u514b\u798f"
+    ],
+    "name:dut_x_preferred":[
+        "Frankfort"
+    ],
+    "name:eng_x_preferred":[
+        "Frankfort"
+    ],
+    "name:fre_x_preferred":[
+        "Frankfort"
+    ],
+    "name:ger_x_preferred":[
+        "Frankfort"
+    ],
+    "name:ita_x_preferred":[
+        "Frankfort"
+    ],
+    "name:nso_x_preferred":[
+        "Frankfort"
+    ],
+    "name:pol_x_preferred":[
+        "Frankfort"
+    ],
+    "name:rum_x_preferred":[
+        "Frankfort"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Frankfort",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003763,
+        "gp:id":1589621,
+        "qs:id":370244,
+        "qs_pg:id":370244,
+        "wd:id":"Q3642328"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"05c6e0f5da415b0438b2bd682f8f33f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926603,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926603,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Frankfort",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:population":1900,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.49039840698242,
+    -27.2894401550293,
+    28.51571655273438,
+    -27.26404190063477
+],
+  "geometry": {"coordinates":[[[28.49322700500488,-27.26778793334961],[28.4935474395752,-27.26542472839355],[28.49964904785156,-27.27006721496582],[28.50604629516602,-27.26965522766113],[28.51024436950684,-27.2711238861084],[28.5112419128418,-27.2694034576416],[28.51435089111328,-27.26404190063477],[28.51571655273438,-27.27537155151367],[28.51277351379395,-27.2791576385498],[28.50606727600098,-27.2830638885498],[28.50568580627441,-27.2807674407959],[28.50567245483398,-27.27985572814941],[28.50580787658691,-27.27955627441406],[28.50053024291992,-27.27880668640137],[28.4986629486084,-27.27983856201172],[28.49868774414062,-27.28152275085449],[28.49871635437012,-27.28354072570801],[28.50021171569824,-27.28647422790527],[28.49914741516113,-27.28709411621094],[28.49093246459961,-27.28923606872559],[28.49039840698242,-27.2894401550293],[28.49086380004883,-27.28527450561523],[28.49322700500488,-27.26778793334961]]],"type":"Polygon"}
+}

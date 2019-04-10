@@ -1,0 +1,63 @@
+{
+  "id": 1209246511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71987,-32.01094,28.71987,-32.01094",
+    "geom:latitude":-32.01094,
+    "geom:longitude":28.71987,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"KwaVelelo",
+    "gn:country_code":"ZA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985197,
+    "gn:latitude":-32.01094,
+    "gn:longitude":28.71987,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaVelelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985197
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"803b8afb5817b928fe534cae779cfd2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246511
+        }
+    ],
+    "wof:id":1209246511,
+    "wof:lastmodified":1536293146,
+    "wof:name":"KwaVelelo",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71987,
+    -32.010940000000005,
+    28.71987,
+    -32.010940000000005
+],
+  "geometry": {"coordinates":[28.71987,-32.01094000000001],"type":"Point"}
+}

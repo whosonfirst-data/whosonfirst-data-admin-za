@@ -1,0 +1,73 @@
+{
+  "id": 1242676831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7361,-33.64802,26.7361,-33.64802",
+    "geom:latitude":-33.64802,
+    "geom:longitude":26.7361,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC105",
+    "gn:asciiname":"Kasouga",
+    "gn:country_code":"ZA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991725,
+    "gn:latitude":-33.64802,
+    "gn:longitude":26.7361,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kasouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasuka",
+        "Kasouga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991725
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"744346bc42f8420011deb4224df48f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1242676831,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242676831,
+    "wof:lastmodified":1537716419,
+    "wof:name":"Kasouga",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7361,
+    -33.64802,
+    26.7361,
+    -33.64802
+],
+  "geometry": {"coordinates":[26.7361,-33.64802],"type":"Point"}
+}

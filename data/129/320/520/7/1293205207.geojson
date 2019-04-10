@@ -1,0 +1,71 @@
+{
+  "id": 1293205207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.64662,-30.38617,29.64662,-30.38617",
+    "geom:latitude":-30.38617,
+    "geom:longitude":29.64662,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mieliefontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975957,
+    "gn:latitude":-30.38617,
+    "gn:longitude":29.64662,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mieliefontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mealiefontein",
+        "Mieliefontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975957
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ad7a7a7059e2c8779ec82499730c7873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1293205207,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293205207,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Mieliefontein",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64662,
+    -30.38617,
+    29.64662,
+    -30.38617
+],
+  "geometry": {"coordinates":[29.64662,-30.38617],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101926823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000205,
+    "geom:area_square_m":2236330.538643,
+    "geom:bbox":"27.9439487457,-28.3047294617,27.9630298615,-28.2849731445",
+    "geom:latitude":-28.294941,
+    "geom:longitude":27.953721,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.295201,
+    "lbl:longitude":27.954372,
+    "mps:latitude":-28.295201,
+    "mps:longitude":27.954372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:dan_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:dut_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:eng_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:fre_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:ger_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:gla_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ec\u30f3\u30b8\u81ea\u7531\u5dde"
+    ],
+    "name:nso_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:rum_x_preferred":[
+        "Paul Roux"
+    ],
+    "name:slv_x_preferred":[
+        "Paul Roux"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Paul Roux",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.3,
+    "wd:longitude":27.95,
+    "wd:wordcount":378,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966058,
+        "gp:id":1586445,
+        "wd:id":"Q862008",
+        "wk:page":"Paul Roux"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"628b235ccf7e2c1338664f4658e572f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926823,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926823,
+    "wof:lastmodified":1527715817,
+    "wof:name":"Paul Roux",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94394874572754,
+    -28.30472946166992,
+    27.9630298614502,
+    -28.28497314453125
+],
+  "geometry": {"coordinates":[[[27.9630298614502,-28.29539108276367],[27.96228218078613,-28.29616165161133],[27.95566558837891,-28.30053329467773],[27.94682312011719,-28.30452728271484],[27.94567108154297,-28.30472946166992],[27.94394874572754,-28.29776763916016],[27.95244789123535,-28.28975486755371],[27.95241546630859,-28.28614044189453],[27.9594612121582,-28.28497314453125],[27.96024513244629,-28.28714942932129],[27.9630298614502,-28.29539108276367]]],"type":"Polygon"}
+}

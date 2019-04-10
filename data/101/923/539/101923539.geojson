@@ -1,0 +1,73 @@
+{
+  "id": 101923539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":853211.713312,
+    "geom:bbox":"29.6353931427,-24.0025196075,29.644695282,-23.9917297363",
+    "geom:latitude":-23.997877,
+    "geom:longitude":29.640612,
+    "geonames:id":"979291,979292",
+    "iso:country":"ZA",
+    "lbl:latitude":-23.998785,
+    "lbl:longitude":29.641166,
+    "mps:latitude":-23.998785,
+    "mps:longitude":29.641166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manthorwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"87ed5552f65df1ca5674750ba645c05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923539,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923539,
+    "wof:lastmodified":1500028361,
+    "wof:name":"Manthorwane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6353931427002,
+    -24.00251960754395,
+    29.64469528198242,
+    -23.99172973632812
+],
+  "geometry": {"coordinates":[[[29.64430618286133,-23.99711418151855],[29.64469528198242,-24.00086402893066],[29.64381790161133,-24.00249290466309],[29.6416072845459,-24.00250244140625],[29.63762664794922,-24.00251770019531],[29.63718414306641,-24.00251960754395],[29.63541221618652,-24.0017147064209],[29.6353931427002,-23.99765205383301],[29.6382884979248,-23.99724006652832],[29.63869094848633,-23.99377822875977],[29.6400089263916,-23.99214744567871],[29.64177703857422,-23.99173545837402],[29.64310264587402,-23.99172973632812],[29.64443778991699,-23.99334907531738],[29.64445495605469,-23.99700546264648],[29.64430618286133,-23.99711418151855]]],"type":"Polygon"}
+}

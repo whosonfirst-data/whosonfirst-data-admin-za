@@ -1,0 +1,72 @@
+{
+  "id": 101925085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1292063.707536,
+    "geom:bbox":"28.008523941,-25.2384719849,28.0182628632,-25.2229881287",
+    "geom:latitude":-25.231545,
+    "geom:longitude":28.013771,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.231546,
+    "lbl:longitude":28.013377,
+    "mps:latitude":-25.231546,
+    "mps:longitude":28.013377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Makapaanstad",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587991
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"efc4bfbbec43fe134e49932d4253b1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925085,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925085,
+    "wof:lastmodified":1500028262,
+    "wof:name":"Makapaanstad",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00852394104004,
+    -25.23847198486328,
+    28.01826286315918,
+    -25.22298812866211
+],
+  "geometry": {"coordinates":[[[28.01792907714844,-25.22298812866211],[28.01826286315918,-25.22698020935059],[28.01782989501953,-25.23709297180176],[28.01692008972168,-25.23774337768555],[28.01600074768066,-25.23797225952148],[28.01231002807617,-25.23847198486328],[28.0092716217041,-25.23727416992188],[28.00852394104004,-25.23518562316895],[28.00870704650879,-25.23328590393066],[28.00886154174805,-25.23033714294434],[28.00949096679688,-25.22779846191406],[28.01107788085938,-25.22650146484375],[28.01792907714844,-25.22298812866211]]],"type":"Polygon"}
+}

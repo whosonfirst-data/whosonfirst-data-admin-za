@@ -1,0 +1,63 @@
+{
+  "id": 1209096067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21576,-23.52497,27.21576,-23.52497",
+    "geom:latitude":-23.52497,
+    "geom:longitude":27.21576,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM362",
+    "gn:asciiname":"Hardekraaltjie",
+    "gn:country_code":"ZA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997882,
+    "gn:latitude":-23.52497,
+    "gn:longitude":27.21576,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hardekraaltjie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997882
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2eb7c5d409ea1129be596e36b36c10ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209096067
+        }
+    ],
+    "wof:id":1209096067,
+    "wof:lastmodified":1536297883,
+    "wof:name":"Hardekraaltjie",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21576,
+    -23.52497,
+    27.21576,
+    -23.52497
+],
+  "geometry": {"coordinates":[27.21576,-23.52497],"type":"Point"}
+}

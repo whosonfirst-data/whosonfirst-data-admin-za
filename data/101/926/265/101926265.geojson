@@ -1,0 +1,72 @@
+{
+  "id": 101926265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":506899.060889,
+    "geom:bbox":"27.5646762848,-26.4488601685,27.5734386444,-26.4409561157",
+    "geom:latitude":-26.444903,
+    "geom:longitude":27.568852,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.443684,
+    "lbl:longitude":27.56833,
+    "mps:latitude":-26.443684,
+    "mps:longitude":27.56833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leeudoorn Gold Mine",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"62b8f08a649b60f2b2651051563b73e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926265,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926265,
+    "wof:lastmodified":1500027708,
+    "wof:name":"Leeudoorn Gold Mine",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56467628479004,
+    -26.44886016845703,
+    27.57343864440918,
+    -26.44095611572266
+],
+  "geometry": {"coordinates":[[[27.57098770141602,-26.44095611572266],[27.57060050964355,-26.44576644897461],[27.5733470916748,-26.44586181640625],[27.57343864440918,-26.44886016845703],[27.56790733337402,-26.44884490966797],[27.56772613525391,-26.44609642028809],[27.56467628479004,-26.44591522216797],[27.5650749206543,-26.44111061096191],[27.57098770141602,-26.44095611572266]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327355891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08042,-30.11089,22.08042,-30.11089",
+    "geom:latitude":-30.11089,
+    "geom:longitude":22.08042,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC074",
+    "gn:asciiname":"Farview",
+    "gn:country_code":"ZA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004432,
+    "gn:latitude":-30.11089,
+    "gn:longitude":22.08042,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Farview",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004432
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7cf4fdd926e1a68ff73710f1cc4858f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1327355891,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1327355891,
+    "wof:lastmodified":1536791723,
+    "wof:name":"Farview",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08042,
+    -30.11089,
+    22.08042,
+    -30.11089
+],
+  "geometry": {"coordinates":[22.08042,-30.11089],"type":"Point"}
+}

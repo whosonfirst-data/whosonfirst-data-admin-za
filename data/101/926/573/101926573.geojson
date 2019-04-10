@@ -1,0 +1,97 @@
+{
+  "id": 101926573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":1206314.008441,
+    "geom:bbox":"29.6203231812,-27.1736564636,29.6318569183,-27.1603870392",
+    "geom:latitude":-27.166582,
+    "geom:longitude":29.626052,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.166378,
+    "lbl:longitude":29.626163,
+    "mps:latitude":-27.166378,
+    "mps:longitude":29.626163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Perdekop"
+    ],
+    "name:dut_x_preferred":[
+        "Perdekop"
+    ],
+    "name:eng_x_preferred":[
+        "Perdekop"
+    ],
+    "name:nld_x_preferred":[
+        "Perdekop"
+    ],
+    "name:nso_x_preferred":[
+        "Perdekop"
+    ],
+    "name:unk_x_variant":[
+        "Paardekop"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Perdekop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1889.0,
+    "wd:latitude":-27.166667,
+    "wd:longitude":29.633333,
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965722,
+        "gp:id":1586473,
+        "wd:id":"Q2728432",
+        "wk:page":"Perdekop"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d7e809ece61e49963bc346da95b11a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926573,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926573,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Perdekop",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.62032318115234,
+    -27.17365646362305,
+    29.63185691833496,
+    -27.16038703918457
+],
+  "geometry": {"coordinates":[[[29.63079833984375,-27.16899871826172],[29.62999725341797,-27.17017555236816],[29.62374496459961,-27.17365646362305],[29.62314414978027,-27.17341232299805],[29.62197303771973,-27.17288780212402],[29.62142181396484,-27.1726131439209],[29.62122917175293,-27.1710205078125],[29.62108039855957,-27.1680736541748],[29.62105178833008,-27.16750335693359],[29.6209602355957,-27.16694068908691],[29.62080955505371,-27.1663875579834],[29.6205997467041,-27.16584968566895],[29.62033271789551,-27.16533279418945],[29.62032318115234,-27.16531944274902],[29.62088203430176,-27.16421699523926],[29.62094116210938,-27.16401290893555],[29.62110710144043,-27.16347694396973],[29.62128067016602,-27.16294288635254],[29.62136650085449,-27.16269111633301],[29.62563133239746,-27.16119766235352],[29.63022613525391,-27.16038703918457],[29.63066482543945,-27.16060256958008],[29.63118362426758,-27.16110420227051],[29.63166046142578,-27.16185569763184],[29.63177871704102,-27.16250038146973],[29.63185691833496,-27.16300010681152],[29.63108253479004,-27.16785621643066],[29.63079833984375,-27.16899871826172]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 101926147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000032,
+    "geom:area_square_m":351454.017053,
+    "geom:bbox":"27.6257858276,-26.3738212585,27.6339664459,-26.3692493439",
+    "geom:latitude":-26.371421,
+    "geom:longitude":27.63007,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.37156,
+    "lbl:longitude":27.63007,
+    "mps:latitude":-26.37156,
+    "mps:longitude":27.63007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wagterskop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580285
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b980298f90bb88afe141c6e07e14daa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926147,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926147,
+    "wof:lastmodified":1534986008,
+    "wof:name":"Wagterskop",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615697
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.62578582763672,
+    -26.37382125854492,
+    27.63396644592285,
+    -26.36924934387207
+],
+  "geometry": {"coordinates":[[[27.62613868713379,-26.37274932861328],[27.62578582763672,-26.36963653564453],[27.63396644592285,-26.36924934387207],[27.63395500183105,-26.37317848205566],[27.6290454864502,-26.37382125854492],[27.62613868713379,-26.37274932861328]]],"type":"Polygon"}
+}

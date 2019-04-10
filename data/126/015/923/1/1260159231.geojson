@@ -1,0 +1,69 @@
+{
+  "id": 1260159231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66043,-33.13945,18.66043,-33.13945",
+    "geom:latitude":-33.13945,
+    "geom:longitude":18.66043,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC015",
+    "gn:asciiname":"Hooikraal",
+    "gn:country_code":"ZA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366703,
+    "gn:latitude":-33.13945,
+    "gn:longitude":18.66043,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hooikraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366703
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dafc270d92ee593681c1c6ffd15c77a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1260159231,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1260159231,
+    "wof:lastmodified":1536880560,
+    "wof:name":"Hooikraal",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66043,
+    -33.13945,
+    18.66043,
+    -33.13945
+],
+  "geometry": {"coordinates":[18.66043,-33.13945],"type":"Point"}
+}

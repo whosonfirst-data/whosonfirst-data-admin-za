@@ -1,0 +1,72 @@
+{
+  "id": 101926077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":165683.931915,
+    "geom:bbox":"27.7365646362,-26.3222465515,27.7409248352,-26.3177242279",
+    "geom:latitude":-26.319775,
+    "geom:longitude":27.738666,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.319796,
+    "lbl:longitude":27.738666,
+    "mps:latitude":-26.319796,
+    "mps:longitude":27.738666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"West Rand Agricultural Holdings",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"525e77ef8e5ea29cc12b34fb85125bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926077,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926077,
+    "wof:lastmodified":1500027698,
+    "wof:name":"West Rand Agricultural Holdings",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73656463623047,
+    -26.32224655151367,
+    27.74092483520508,
+    -26.31772422790527
+],
+  "geometry": {"coordinates":[[[27.73709487915039,-26.32224655151367],[27.73656463623047,-26.31796264648438],[27.74038124084473,-26.31772422790527],[27.74092483520508,-26.32106018066406],[27.73709487915039,-26.32224655151367]]],"type":"Polygon"}
+}

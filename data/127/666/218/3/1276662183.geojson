@@ -1,0 +1,73 @@
+{
+  "id": 1276662183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96895,-30.9552,29.96895,-30.9552",
+    "geom:latitude":-30.9552,
+    "geom:longitude":29.96895,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC443",
+    "gn:asciiname":"KuMabula",
+    "gn:country_code":"ZA",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986405,
+    "gn:latitude":-30.9552,
+    "gn:longitude":29.96895,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuMabula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabula",
+        "KuMabula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986405
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fcce4cba07b4ba4c5bd21012d95b64e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1276662183,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276662183,
+    "wof:lastmodified":1537716415,
+    "wof:name":"KuMabula",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96895,
+    -30.9552,
+    29.96895,
+    -30.9552
+],
+  "geometry": {"coordinates":[29.96895,-30.9552],"type":"Point"}
+}

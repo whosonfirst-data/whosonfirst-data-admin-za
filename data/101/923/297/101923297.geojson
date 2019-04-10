@@ -1,0 +1,74 @@
+{
+  "id": 101923297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":1044421.935713,
+    "geom:bbox":"29.2362937927,-23.5325107574,29.2464485168,-23.518693924",
+    "geom:latitude":-23.524957,
+    "geom:longitude":29.241778,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.524546,
+    "lbl:longitude":29.241874,
+    "mps:latitude":-23.524546,
+    "mps:longitude":29.241874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Palmietfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":612,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966466,
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"40830fc31810195ec1af2b2e81f5b47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923297,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923297,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Palmietfontein",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23629379272461,
+    -23.53251075744629,
+    29.2464485168457,
+    -23.5186939239502
+],
+  "geometry": {"coordinates":[[[29.24069786071777,-23.51869773864746],[29.24290084838867,-23.5186939239502],[29.24599647521973,-23.52478408813477],[29.2464485168457,-23.5308780670166],[29.24468803405762,-23.53169441223145],[29.24248504638672,-23.53251075744629],[29.24116325378418,-23.53170013427734],[29.23806381225586,-23.52439117431641],[29.23629760742188,-23.52154922485352],[29.23629379272461,-23.51992416381836],[29.23673248291016,-23.51870346069336],[29.24069786071777,-23.51869773864746]]],"type":"Polygon"}
+}

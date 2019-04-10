@@ -1,0 +1,113 @@
+{
+  "id": 101927255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1335115.824012,
+    "geom:bbox":"30.242729187,-25.6736564636,30.2541236877,-25.6562995911",
+    "geom:latitude":-25.664603,
+    "geom:longitude":30.24854,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.664689,
+    "lbl:longitude":30.24854,
+    "mps:latitude":-25.664689,
+    "mps:longitude":30.24854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u0434\u043e\u0434\u043e\u0440\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:eng_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:fre_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:ger_x_preferred":[
+        "ENtokozweni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30c9\u30c9\u30eb\u30d7"
+    ],
+    "name:nso_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:rum_x_preferred":[
+        "Machadodorp"
+    ],
+    "name:swe_x_preferred":[
+        "Machadodorp"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Machadodorp",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1550.0,
+    "wd:latitude":-25.666667,
+    "wd:longitude":30.25,
+    "wd:wordcount":676,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980845,
+        "gp:id":1584156,
+        "qs:id":383921,
+        "qs_pg:id":383921,
+        "wd:id":"Q3070774",
+        "wk:page":"Machadodorp"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4111d91af9f76f4fb9952d81f000cb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101927255,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927255,
+    "wof:lastmodified":1527715640,
+    "wof:name":"Machadodorp",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24272918701172,
+    -25.67365646362305,
+    30.25412368774414,
+    -25.65629959106445
+],
+  "geometry": {"coordinates":[[[30.24400901794434,-25.66913032531738],[30.24272918701172,-25.66283416748047],[30.24289894104004,-25.66259384155273],[30.24343490600586,-25.66160583496094],[30.24384498596191,-25.66056823730469],[30.24418258666992,-25.65956115722656],[30.24847221374512,-25.65955352783203],[30.24926948547363,-25.65937042236328],[30.2508602142334,-25.65873718261719],[30.2524242401123,-25.65711784362793],[30.2529182434082,-25.65677452087402],[30.25344657897949,-25.65647506713867],[30.25388145446777,-25.65629959106445],[30.25393867492676,-25.65682029724121],[30.25396156311035,-25.65736961364746],[30.25394630432129,-25.65791893005371],[30.25411415100098,-25.66314315795898],[30.25412368774414,-25.66367721557617],[30.25408554077148,-25.66420936584473],[30.25399971008301,-25.66473770141602],[30.25386619567871,-25.66525650024414],[30.25368690490723,-25.66576385498047],[30.25346183776855,-25.66625785827637],[30.25319290161133,-25.6667308807373],[30.25288200378418,-25.66718482971191],[30.25253295898438,-25.6676139831543],[30.25214385986328,-25.66801452636719],[30.25172233581543,-25.66838645935059],[30.24919128417969,-25.67057800292969],[30.24563980102539,-25.67365646362305],[30.24400901794434,-25.66913032531738]]],"type":"Polygon"}
+}

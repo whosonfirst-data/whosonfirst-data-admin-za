@@ -1,0 +1,63 @@
+{
+  "id": 1209538447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.64432,-31.48084,28.64432,-31.48084",
+    "geom:latitude":-31.48084,
+    "geom:longitude":28.64432,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC157",
+    "gn:asciiname":"Ku-Nongcwengana",
+    "gn:country_code":"ZA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986200,
+    "gn:latitude":-31.48084,
+    "gn:longitude":28.64432,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ku-Nongcwengana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7eb216477f39d9d97aa2e09b3019c626",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209538447
+        }
+    ],
+    "wof:id":1209538447,
+    "wof:lastmodified":1536284062,
+    "wof:name":"Ku-Nongcwengana",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.64432,
+    -31.48084,
+    28.64432,
+    -31.48084
+],
+  "geometry": {"coordinates":[28.64432,-31.48084],"type":"Point"}
+}

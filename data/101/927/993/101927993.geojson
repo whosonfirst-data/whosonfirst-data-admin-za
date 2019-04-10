@@ -1,0 +1,112 @@
+{
+  "id": 101927993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000717,
+    "geom:area_square_m":7440114.489629,
+    "geom:bbox":"17.9833431244,-32.917552948,18.0265369415,-32.88904953",
+    "geom:latitude":-32.9065,
+    "geom:longitude":18.003147,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.905205,
+    "lbl:longitude":17.999875,
+    "mps:latitude":-32.905205,
+    "mps:longitude":17.999875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u91cc\u767b\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:eng_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:ger_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d3\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c7\u30f3\u30d0\u30fc\u30b0"
+    ],
+    "name:nso_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:rum_x_preferred":[
+        "Vredenburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0438\u0434\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vredenburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-32.9,
+    "wd:longitude":17.983333,
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359741,
+        "gp:id":1588696,
+        "qs:id":848243,
+        "qs_pg:id":1118993,
+        "wd:id":"Q2620432",
+        "wk:page":"Vredenburg"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"093154be90302d1dcf9301c6a698c2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":101927993,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101927993,
+    "wof:lastmodified":1527715638,
+    "wof:name":"Vredenburg",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98334312438965,
+    -32.91755294799805,
+    18.02653694152832,
+    -32.8890495300293
+],
+  "geometry": {"coordinates":[[[17.98484039306641,-32.91604614257812],[17.98334312438965,-32.91601943969727],[17.98780822753906,-32.9006233215332],[17.99442863464355,-32.8890495300293],[18.00964546203613,-32.89856719970703],[18.02653694152832,-32.90913009643555],[18.02439498901367,-32.91755294799805],[18.01918411254883,-32.91636276245117],[18.0184154510498,-32.91624069213867],[18.01604461669922,-32.9160041809082],[18.01366233825684,-32.91587448120117],[18.01079368591309,-32.91588592529297],[18.01042366027832,-32.91595458984375],[17.99722862243652,-32.91600036621094],[17.98484039306641,-32.91604614257812]]],"type":"Polygon"}
+}

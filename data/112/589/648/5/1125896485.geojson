@@ -1,0 +1,130 @@
+{
+  "id": 1125896485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.777694,-32.896308,18.777694,-32.896308",
+    "geom:latitude":-32.896308,
+    "geom:longitude":18.777694,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.896308,
+    "lbl:longitude":18.777694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Piketberg"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u51f1\u7279\u8c9d\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "Piketberg"
+    ],
+    "name:eng_x_preferred":[
+        "Piketberg"
+    ],
+    "name:fre_x_preferred":[
+        "Piketberg"
+    ],
+    "name:ger_x_preferred":[
+        "Piketberg"
+    ],
+    "name:ita_x_preferred":[
+        "Piketberg"
+    ],
+    "name:nso_x_preferred":[
+        "Piketberg"
+    ],
+    "name:rum_x_preferred":[
+        "Piketberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0435\u0442\u0431\u0435\u0440\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Piketberg"
+    ],
+    "name:unk_x_variant":[
+        "Piketburg"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3362870,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Piketberg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118888,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586554,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3362870,
+        "gp:id":1586554,
+        "qs_pg:id":1118888,
+        "wd:id":"Q2006534"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152362
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295594,
+    "wof:geomhash":"e625a70529a5985742e36db265f1df30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125896485,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125896485,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Piketberg",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125890889
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.777694,
+    -32.896308,
+    18.777694,
+    -32.896308
+],
+  "geometry": {"coordinates":[18.777694,-32.896308],"type":"Point"}
+}

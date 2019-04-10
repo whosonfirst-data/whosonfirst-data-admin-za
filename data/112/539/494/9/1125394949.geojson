@@ -1,0 +1,116 @@
+{
+  "id": 1125394949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22154,-33.59261,22.22154,-33.59261",
+    "geom:latitude":-33.59261,
+    "geom:longitude":22.22154,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":79606,
+    "gn:population":79606,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.59261,
+    "lbl:longitude":22.22154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Oudtshoorn"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0443\u0434\u0441\u0445\u043e\u0440\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Oudtshoorn"
+    ],
+    "name:eng_x_preferred":[
+        "Oudtshoorn"
+    ],
+    "name:fra_x_preferred":[
+        "Oudtshoorn"
+    ],
+    "name:ita_x_preferred":[
+        "Oudtshoorn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0443\u0434\u0441\u0445\u043e\u0440\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u8328\u80e1\u6069"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347634,
+    "qs_pg:gn_pop":79606,
+    "qs_pg:name":"Oudtshoorn",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1799,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1042694,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189533,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347634,
+        "gp:id":56189533,
+        "qs_pg:id":1042694
+    },
+    "wof:concordances_alt":{
+        "gn:id":967106,
+        "qs_pg:id":894172
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048949,
+    "wof:geomhash":"c2af7f71f3593b87201bcb247c10a697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "localadmin_id":1125394949,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125394949,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Oudtshoorn",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"localadmin",
+    "wof:population":79606,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125346967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22154,
+    -33.59261,
+    22.22154,
+    -33.59261
+],
+  "geometry": {"coordinates":[22.22154,-33.59261],"type":"Point"}
+}

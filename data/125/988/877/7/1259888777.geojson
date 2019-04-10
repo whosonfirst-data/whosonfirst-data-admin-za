@@ -1,0 +1,73 @@
+{
+  "id": 1259888777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71878,-28.63758,29.71878,-28.63758",
+    "geom:latitude":-28.63758,
+    "geom:longitude":29.71878,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN232",
+    "gn:asciiname":"Roosboom",
+    "gn:country_code":"ZA",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":959302,
+    "gn:latitude":-28.63758,
+    "gn:longitude":29.71878,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Roosboom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosboom",
+        "Roosboom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959302
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee82957684c64ab6ec652327274bf894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1259888777,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259888777,
+    "wof:lastmodified":1537716382,
+    "wof:name":"Roosboom",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71878,
+    -28.63758,
+    29.71878,
+    -28.63758
+],
+  "geometry": {"coordinates":[29.71878,-28.63758],"type":"Point"}
+}

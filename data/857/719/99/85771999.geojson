@@ -1,0 +1,112 @@
+{
+  "id": 85771999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7248404.644267,
+    "geom:bbox":"30.981528,-29.877383,30.981528,-29.877383",
+    "geom:latitude":-29.877383,
+    "geom:longitude":30.981528,
+    "gn:latitude":-29.89168,
+    "gn:longitude":30.98996,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.877383,
+    "lbl:longitude":30.981528,
+    "mps:latitude":-29.882945,
+    "mps:longitude":30.977319,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Bayhead"
+    ],
+    "name:unk_x_variant":[
+        "Bayhead"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1007311,
+    "qs:gn_nam_loc":"Durban, Ethekwini, Ethekwini, KwaZulu-Natal, ZA",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Bayhead",
+    "qs:local_max":2059,
+    "qs:local_sum":10687,
+    "qs:localhoods":30,
+    "qs:name":"Bayhead",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Kwazulu Natal",
+    "qs:name_adm2":"eThekwini",
+    "qs:name_lau":"Ethekwini",
+    "qs:name_local":"Durban",
+    "qs:photo_max":14,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346982,
+    "qs:woe_adm2":56189410,
+    "qs:woe_lau":56189708,
+    "qs:woe_local":1580913,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730571,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020733,
+        "gp:id":1579672,
+        "qs:id":1187838,
+        "qs_pg:id":1187838,
+        "wd:id":"Q4874532"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c2439fb3bbafe6f4a01339ce27b75c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":-1,
+            "neighbourhood_id":85771999,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":85771999,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859498,
+    "wof:name":"Bayhead",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.981528,
+    -29.877383,
+    30.981528,
+    -29.877383
+],
+  "geometry": {"coordinates":[30.981528,-29.877383],"type":"Point"}
+}

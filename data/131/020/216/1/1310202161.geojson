@@ -1,0 +1,69 @@
+{
+  "id": 1310202161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56264,-30.57091,21.56264,-30.57091",
+    "geom:latitude":-30.57091,
+    "geom:longitude":21.56264,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC074",
+    "gn:asciiname":"Karringmelkskolk",
+    "gn:country_code":"ZA",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991755,
+    "gn:latitude":-30.57091,
+    "gn:longitude":21.56264,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Karringmelkskolk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991755
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bb8c3c8f99c2290e80bacb0cfe8c108f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1310202161,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310202161,
+    "wof:lastmodified":1536855918,
+    "wof:name":"Karringmelkskolk",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56264,
+    -30.57091,
+    21.56264,
+    -30.57091
+],
+  "geometry": {"coordinates":[21.56264,-30.57091],"type":"Point"}
+}

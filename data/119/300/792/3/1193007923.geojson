@@ -1,0 +1,73 @@
+{
+  "id": 1193007923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16399,-22.78967,30.16399,-22.78967",
+    "geom:latitude":-22.78967,
+    "geom:longitude":30.16399,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Tshitwi",
+    "gn:country_code":"ZA",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947845,
+    "gn:latitude":-22.78967,
+    "gn:longitude":30.16399,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tshitwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shitwi",
+        "Tshitwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947845
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"557902c8d273c4aa9f165681d6fe0acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1193007923,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1193007923,
+    "wof:lastmodified":1537716373,
+    "wof:name":"Tshitwi",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16399,
+    -22.78967,
+    30.16399,
+    -22.78967
+],
+  "geometry": {"coordinates":[30.16399,-22.78967],"type":"Point"}
+}

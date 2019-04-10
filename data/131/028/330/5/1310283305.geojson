@@ -1,0 +1,73 @@
+{
+  "id": 1310283305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22574,-34.04368,22.22574,-34.04368",
+    "geom:latitude":-34.04368,
+    "geom:longitude":22.22574,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC043",
+    "gn:asciiname":"Groot-Brakrivier",
+    "gn:country_code":"ZA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":999602,
+    "gn:latitude":-34.04368,
+    "gn:longitude":22.22574,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Groot-Brakrivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Great Brak River",
+        "Groot-Brakrivier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":999602
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"938b8aedb647d714ea0d3e1014fbed50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1310283305,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1310283305,
+    "wof:lastmodified":1537716423,
+    "wof:name":"Groot-Brakrivier",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22574,
+    -34.04368,
+    22.22574,
+    -34.04368
+],
+  "geometry": {"coordinates":[22.22574,-34.04368],"type":"Point"}
+}

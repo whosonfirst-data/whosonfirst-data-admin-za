@@ -1,0 +1,74 @@
+{
+  "id": 1293791297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95,-26.76667,27.95,-26.76667",
+    "geom:latitude":-26.76667,
+    "geom:longitude":27.95,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS204",
+    "gn:asciiname":"Vaal",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":945771,
+    "gn:latitude":-26.76667,
+    "gn:longitude":27.95,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vaal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaal Power Station Village",
+        "Vaal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945771
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"450bd60c8d4f09a5e79bdcf19ee4cb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1293791297,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293791297,
+    "wof:lastmodified":1537716371,
+    "wof:name":"Vaal",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95,
+    -26.76667,
+    27.95,
+    -26.76667
+],
+  "geometry": {"coordinates":[27.95,-26.76667],"type":"Point"}
+}

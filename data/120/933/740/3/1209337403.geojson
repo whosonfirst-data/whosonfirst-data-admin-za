@@ -1,0 +1,63 @@
+{
+  "id": 1209337403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09251,-30.98117,26.09251,-30.98117",
+    "geom:latitude":-30.98117,
+    "geom:longitude":26.09251,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Pie Hock",
+    "gn:country_code":"ZA",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965375,
+    "gn:latitude":-30.98117,
+    "gn:longitude":26.09251,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pie Hock",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965375
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"97f921834c4d84b1544420075d9a3c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209337403
+        }
+    ],
+    "wof:id":1209337403,
+    "wof:lastmodified":1536290174,
+    "wof:name":"Pie Hock",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09251,
+    -30.98117,
+    26.09251,
+    -30.98117
+],
+  "geometry": {"coordinates":[26.09251,-30.98117],"type":"Point"}
+}

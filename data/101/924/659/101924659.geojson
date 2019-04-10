@@ -1,0 +1,76 @@
+{
+  "id": 101924659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000795,
+    "geom:area_square_m":8798856.443966,
+    "geom:bbox":"24.3301753998,-26.4888362885,24.3502750397,-26.4299983978",
+    "geom:latitude":-26.458916,
+    "geom:longitude":24.341668,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.456288,
+    "lbl:longitude":24.341859,
+    "mps:latitude":-26.456288,
+    "mps:longitude":24.341859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tlhakmeng"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tlhakgameng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948649,
+        "gp:id":1588152
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"accec323343d00453a2ec2fcdb8bb4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101924659,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924659,
+    "wof:lastmodified":1501216558,
+    "wof:name":"Tlhakgameng",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33017539978027,
+    -26.48883628845215,
+    24.35027503967285,
+    -26.42999839782715
+],
+  "geometry": {"coordinates":[[[24.33738899230957,-26.42999839782715],[24.33863258361816,-26.43121719360352],[24.34392738342285,-26.43640327453613],[24.34965515136719,-26.44597244262695],[24.35027503967285,-26.48883628845215],[24.33917808532715,-26.48692512512207],[24.33017539978027,-26.43503952026367],[24.33738899230957,-26.42999839782715]]],"type":"Polygon"}
+}

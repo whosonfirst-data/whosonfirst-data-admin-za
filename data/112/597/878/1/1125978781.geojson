@@ -1,0 +1,101 @@
+{
+  "id": 1125978781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60278,-29.03801,24.60278,-29.03801",
+    "geom:latitude":-29.03801,
+    "geom:longitude":24.60278,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9960,
+    "gn:population":9960,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.03801,
+    "lbl:longitude":24.60278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Ritchie"
+    ],
+    "name:dut_x_preferred":[
+        "Ritchie"
+    ],
+    "name:eng_x_preferred":[
+        "Ritchie"
+    ],
+    "name:rum_x_preferred":[
+        "Ritchie"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":961226,
+    "qs_pg:gn_pop":9960,
+    "qs_pg:name":"Ritchie",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1300489,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961226,
+        "gp:id":1586910,
+        "qs_pg:id":1300489,
+        "wd:id":"Q2152772"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298460,
+    "wof:geomhash":"a3183571c3d6ba76f7fc4ff13cf2c303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1125978781,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125978781,
+    "wof:lastmodified":1514504519,
+    "wof:name":"Ritchie",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:population":9960,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60278,
+    -29.03801,
+    24.60278,
+    -29.03801
+],
+  "geometry": {"coordinates":[24.60278,-29.03801],"type":"Point"}
+}

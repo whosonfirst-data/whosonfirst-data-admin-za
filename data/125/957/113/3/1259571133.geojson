@@ -1,0 +1,69 @@
+{
+  "id": 1259571133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00356,-34.15696,19.00356,-34.15696",
+    "geom:latitude":-34.15696,
+    "geom:longitude":19.00356,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC031",
+    "gn:asciiname":"Pineview",
+    "gn:country_code":"ZA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3362862,
+    "gn:latitude":-34.15696,
+    "gn:longitude":19.00356,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Pineview",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3362862
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a1c59d9a75a53977c0a0400fa90d9afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1259571133,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1259571133,
+    "wof:lastmodified":1536732930,
+    "wof:name":"Pineview",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00356,
+    -34.15696,
+    19.00356,
+    -34.15696
+],
+  "geometry": {"coordinates":[19.00356,-34.15696],"type":"Point"}
+}

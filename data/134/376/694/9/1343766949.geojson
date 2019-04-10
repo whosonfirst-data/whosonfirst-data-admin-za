@@ -1,0 +1,73 @@
+{
+  "id": 1343766949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0576,-30.99532,27.0576,-30.99532",
+    "geom:latitude":-30.99532,
+    "geom:longitude":27.0576,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Floukraal",
+    "gn:country_code":"ZA",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004120,
+    "gn:latitude":-30.99532,
+    "gn:longitude":27.0576,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Floukraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flaauwkraal",
+        "Floukraal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004120
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"35691c2db5a819f78b8fed307553423c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1343766949,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343766949,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Floukraal",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0576,
+    -30.99532,
+    27.0576,
+    -30.99532
+],
+  "geometry": {"coordinates":[27.0576,-30.99532],"type":"Point"}
+}

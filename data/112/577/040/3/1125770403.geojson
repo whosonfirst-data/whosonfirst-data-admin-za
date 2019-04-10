@@ -1,0 +1,140 @@
+{
+  "id": 1125770403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58308,-33.99241,22.58308,-33.99241",
+    "geom:latitude":-33.99241,
+    "geom:longitude":22.58308,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.99241,
+    "lbl:longitude":22.58308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Wildernis"
+    ],
+    "name:dan_x_preferred":[
+        "Wilderness"
+    ],
+    "name:dut_x_preferred":[
+        "Wildernis"
+    ],
+    "name:eng_x_preferred":[
+        "Wilderness"
+    ],
+    "name:fre_x_preferred":[
+        "Wilderness"
+    ],
+    "name:ger_x_preferred":[
+        "Wilderness"
+    ],
+    "name:gla_x_preferred":[
+        "Wildernis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d3\u05e8\u05e0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Wilderness"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u30b1\u30fc\u30d7\u5dde"
+    ],
+    "name:nso_x_preferred":[
+        "Wilderness"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u06cc\u0644\u062f\u0631\u0646\u0633\u060c \u06a9\u06cc\u067e \u063a\u0631\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Wilderness"
+    ],
+    "name:rum_x_preferred":[
+        "Wilderness"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043b\u0434\u0435\u0440\u043d\u0435\u0441\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Wilderness"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u0456\u043d\u043a\u0440\u0430\u043d\u0442\u0437"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":939928,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wilderness East",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":84,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":979696,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588891,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939928,
+        "gp:id":1588891,
+        "qs_pg:id":979696,
+        "wd:id":"Q2038395"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290041,
+    "wof:geomhash":"a1ebba17919bd0aaa53a0d29feb065ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125770403,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125770403,
+    "wof:lastmodified":1514505116,
+    "wof:name":"Wilderness East",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58308,
+    -33.99241,
+    22.58308,
+    -33.99241
+],
+  "geometry": {"coordinates":[22.58308,-33.99241],"type":"Point"}
+}

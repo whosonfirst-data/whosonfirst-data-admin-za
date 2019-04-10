@@ -1,0 +1,81 @@
+{
+  "id": 1125271173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59418,-33.89267,18.59418,-33.89267",
+    "geom:latitude":-33.89267,
+    "geom:longitude":18.59418,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3497097,
+    "gn:population":3497097,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.89267,
+    "lbl:longitude":18.59418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347437,
+    "qs_pg:gn_pop":3497097,
+    "qs_pg:name":"City of Cape Town",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":764892,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347437,
+        "qs_pg:id":764892
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042134,
+    "wof:geomhash":"eca12b6f7924c557744f70b07ef8dbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1125271173,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125271173,
+    "wof:lastmodified":1510790365,
+    "wof:name":"City of Cape Town",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"localadmin",
+    "wof:population":3497097,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        101928027
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59418,
+    -33.89267,
+    18.59418,
+    -33.89267
+],
+  "geometry": {"coordinates":[18.59418,-33.89267],"type":"Point"}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 101924503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":2124542.177535,
+    "geom:bbox":"31.0517654419,-24.6728076935,31.0689888,-24.656085968",
+    "geom:latitude":-24.662992,
+    "geom:longitude":31.058701,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.660443,
+    "lbl:longitude":31.058003,
+    "mps:latitude":-24.660443,
+    "mps:longitude":31.058003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:ceb_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:ces_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:deu_x_preferred":[
+        "Arthur\u2019s Seat"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b8\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0391\u03c1\u03b8\u03bf\u03cd\u03c1\u03bf\u03c5"
+    ],
+    "name:epo_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:eus_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:fin_x_preferred":[
+        "Arthur\u2019s Seat"
+    ],
+    "name:fra_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:gla_x_preferred":[
+        "Aird nan Saighead"
+    ],
+    "name:gle_x_preferred":[
+        "Aird nan Saighead"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05ea\u05d5\u05e8\u05e1 \u05e1\u05d9\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:ita_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30fc\u30b5\u30fc\u306e\u7389\u5ea7"
+    ],
+    "name:nno_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:pms_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:pol_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:por_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:spa_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:swe_x_preferred":[
+        "Arthur's Seat"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u745f\u738b\u5ea7"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Arthur's Seat",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1913,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022210,
+        "gp:id":1586986
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"019ae66861200755b5167e6df024e657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924503,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924503,
+    "wof:lastmodified":1527670488,
+    "wof:name":"Arthur's Seat",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05176544189453,
+    -24.67280769348145,
+    31.06898880004883,
+    -24.65608596801758
+],
+  "geometry": {"coordinates":[[[31.05988883972168,-24.66436195373535],[31.0588436126709,-24.66510963439941],[31.05885696411133,-24.66592025756836],[31.05887031555176,-24.66673278808594],[31.06245803833008,-24.6687183380127],[31.06205749511719,-24.67156600952148],[31.06029891967773,-24.67280769348145],[31.05673599243164,-24.67244911193848],[31.0536003112793,-24.67086410522461],[31.05176544189453,-24.66723251342773],[31.05203819274902,-24.6562614440918],[31.05337142944336,-24.65624237060547],[31.05648231506348,-24.65620231628418],[31.06048202514648,-24.65615081787109],[31.0635929107666,-24.65610885620117],[31.06537055969238,-24.65608596801758],[31.06716156005859,-24.65687561035156],[31.06898880004883,-24.66010093688965],[31.06681251525879,-24.66297340393066],[31.05988883972168,-24.66436195373535]]],"type":"Polygon"}
+}

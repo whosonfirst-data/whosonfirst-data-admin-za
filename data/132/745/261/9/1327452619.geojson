@@ -1,0 +1,73 @@
+{
+  "id": 1327452619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12195,-23.72827,29.12195,-23.72827",
+    "geom:latitude":-23.72827,
+    "geom:longitude":29.12195,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM352",
+    "gn:asciiname":"Sandfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":957950,
+    "gn:latitude":-23.72827,
+    "gn:longitude":29.12195,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sandfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zandfontein",
+        "Sandfontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":957950
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5a80d59715bac1bfec4bb2315edac5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1327452619,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1327452619,
+    "wof:lastmodified":1537716381,
+    "wof:name":"Sandfontein",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12195,
+    -23.72827,
+    29.12195,
+    -23.72827
+],
+  "geometry": {"coordinates":[29.12195,-23.72827],"type":"Point"}
+}

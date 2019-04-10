@@ -1,0 +1,84 @@
+{
+  "id": 101926523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":313980.075115,
+    "geom:bbox":"27.8833370209,-26.9052639008,27.8893432617,-26.8995800018",
+    "geom:latitude":-26.902593,
+    "geom:longitude":27.886371,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.902501,
+    "lbl:longitude":27.886371,
+    "mps:latitude":-26.902501,
+    "mps:longitude":27.886371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kragbron"
+    ],
+    "name:eng_x_preferred":[
+        "Kragbron"
+    ],
+    "name:nso_x_preferred":[
+        "Kragbron"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kragbron",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":987458,
+        "gp:id":1587210,
+        "wd:id":"Q15975778"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c126df26e651dc89c18670a67e2dfc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926523,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926523,
+    "wof:lastmodified":1527715819,
+    "wof:name":"Kragbron",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88333702087402,
+    -26.90526390075684,
+    27.88934326171875,
+    -26.89958000183105
+],
+  "geometry": {"coordinates":[[[27.88892555236816,-26.90021896362305],[27.88934326171875,-26.90526390075684],[27.88333702087402,-26.90496826171875],[27.88404083251953,-26.89958000183105],[27.88892555236816,-26.90021896362305]]],"type":"Polygon"}
+}

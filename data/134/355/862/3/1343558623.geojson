@@ -1,0 +1,69 @@
+{
+  "id": 1343558623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81454,-26.55974,27.81454,-26.55974",
+    "geom:latitude":-26.55974,
+    "geom:longitude":27.81454,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"DC42",
+    "gn:admin3_code":"GT421",
+    "gn:asciiname":"Boitumelo",
+    "gn:country_code":"ZA",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203951,
+    "gn:latitude":-26.55974,
+    "gn:longitude":27.81454,
+    "gn:modification_date":"2016-07-12",
+    "gn:name":"Boitumelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203951
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"126b1ed3f469deaa85b7b70eee2afa6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":1343558623,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1343558623,
+    "wof:lastmodified":1536601450,
+    "wof:name":"Boitumelo",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81454,
+    -26.55974,
+    27.81454,
+    -26.55974
+],
+  "geometry": {"coordinates":[27.81454,-26.55974],"type":"Point"}
+}

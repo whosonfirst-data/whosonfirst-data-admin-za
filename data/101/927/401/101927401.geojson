@@ -1,0 +1,72 @@
+{
+  "id": 101927401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1137716.983176,
+    "geom:bbox":"31.326499939,-27.27602005,31.3411750793,-27.2642040253",
+    "geom:latitude":-27.270549,
+    "geom:longitude":31.332499,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.271067,
+    "lbl:longitude":31.33236,
+    "mps:latitude":-27.271067,
+    "mps:longitude":31.33236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Itshelejuba Mission Station",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122502
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0e09537a52f908239d636c78991b322e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927401,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927401,
+    "wof:lastmodified":1500027502,
+    "wof:name":"Itshelejuba Mission Station",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32649993896484,
+    -27.27602005004883,
+    31.3411750793457,
+    -27.26420402526855
+],
+  "geometry": {"coordinates":[[[31.32693481445312,-27.26420402526855],[31.32914924621582,-27.26513481140137],[31.33414268493652,-27.26675796508789],[31.3411750793457,-27.27006149291992],[31.33736419677734,-27.27341461181641],[31.33547782897949,-27.27567481994629],[31.33434295654297,-27.27601623535156],[31.33270263671875,-27.27602005004883],[31.33093452453613,-27.27568626403809],[31.32941627502441,-27.27478790283203],[31.32777214050293,-27.27343940734863],[31.32649993896484,-27.27017211914062],[31.32693481445312,-27.26420402526855]]],"type":"Polygon"}
+}

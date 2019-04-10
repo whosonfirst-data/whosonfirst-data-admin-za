@@ -1,0 +1,67 @@
+{
+  "id": 1276344319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25744,-30.3387,29.25744,-30.3387",
+    "geom:latitude":-30.3387,
+    "geom:longitude":29.25744,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Convention",
+    "gn:country_code":"ZA",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012817,
+    "gn:latitude":-30.3387,
+    "gn:longitude":29.25744,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Convention",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012817
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"14b157d71edaf8ab599bbe40718979db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1276344319,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276344319,
+    "wof:lastmodified":1536763982,
+    "wof:name":"Convention",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25744000000001,
+    -30.3387,
+    29.25744000000001,
+    -30.3387
+],
+  "geometry": {"coordinates":[29.25744000000001,-30.3387],"type":"Point"}
+}

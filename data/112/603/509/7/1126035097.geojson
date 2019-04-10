@@ -1,0 +1,98 @@
+{
+  "id": 1126035097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73975,-29.75134,30.73975,-29.75134",
+    "geom:latitude":-29.75134,
+    "geom:longitude":30.73975,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.75134,
+    "lbl:longitude":30.73975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Botha's Hill"
+    ],
+    "name:dut_x_preferred":[
+        "Botha's Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Botha's Hill"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7871274,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bothas Hill",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":964634,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55878420,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871274,
+        "gp:id":55878420,
+        "qs_pg:id":964634,
+        "wd:id":"Q4948615"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497301737,
+    "wof:geomhash":"28eefcec0c48f9013810ef08ee80abab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1126035097,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1126035097,
+    "wof:lastmodified":1514503486,
+    "wof:name":"Bothas Hill",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73975,
+    -29.75134,
+    30.73975,
+    -29.75134
+],
+  "geometry": {"coordinates":[30.73975,-29.75134],"type":"Point"}
+}

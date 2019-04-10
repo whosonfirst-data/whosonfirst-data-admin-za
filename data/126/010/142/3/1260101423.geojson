@@ -1,0 +1,69 @@
+{
+  "id": 1260101423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20451,-26.07098,29.20451,-26.07098",
+    "geom:latitude":-26.07098,
+    "geom:longitude":29.20451,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP312",
+    "gn:asciiname":"Phoenix",
+    "gn:country_code":"ZA",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965447,
+    "gn:latitude":-26.07098,
+    "gn:longitude":29.20451,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Phoenix",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965447
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6e6b64c5006d0bc5057f04b4a1c8ac39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1260101423,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1260101423,
+    "wof:lastmodified":1536962179,
+    "wof:name":"Phoenix",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20451,
+    -26.07098,
+    29.20451,
+    -26.07098
+],
+  "geometry": {"coordinates":[29.20451,-26.07098],"type":"Point"}
+}

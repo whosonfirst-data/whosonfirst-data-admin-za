@@ -1,0 +1,72 @@
+{
+  "id": 101926939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":1028867.049431,
+    "geom:bbox":"29.0240745544,-28.6920757294,29.0368976593,-28.6779403687",
+    "geom:latitude":-28.685804,
+    "geom:longitude":29.031371,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.687046,
+    "lbl:longitude":29.030934,
+    "mps:latitude":-28.687046,
+    "mps:longitude":29.030934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kwamiya",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579755
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e3719bc4cd9bdfae91550e5d7300ef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926939,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926939,
+    "wof:lastmodified":1500027548,
+    "wof:name":"Kwamiya",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02407455444336,
+    -28.69207572937012,
+    29.03689765930176,
+    -28.67794036865234
+],
+  "geometry": {"coordinates":[[[29.02407455444336,-28.68303108215332],[29.02535057067871,-28.68321418762207],[29.02737045288086,-28.68343353271484],[29.02913475036621,-28.68316650390625],[29.03071784973145,-28.68235397338867],[29.03199005126953,-28.68145370483398],[29.0332088470459,-28.68049812316895],[29.03435325622559,-28.67947578430176],[29.03586959838867,-28.67794036865234],[29.03689765930176,-28.68018913269043],[29.03549575805664,-28.68671226501465],[29.03439140319824,-28.69098281860352],[29.03310012817383,-28.69164085388184],[29.03206825256348,-28.69207572937012],[29.03053855895996,-28.69182777404785],[29.02775382995605,-28.69020843505859],[29.02601051330566,-28.68770027160645],[29.02407455444336,-28.68303108215332]]],"type":"Polygon"}
+}

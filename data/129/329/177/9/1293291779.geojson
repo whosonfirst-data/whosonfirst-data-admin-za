@@ -1,0 +1,69 @@
+{
+  "id": 1293291779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57036,-30.48878,28.57036,-30.48878",
+    "geom:latitude":-30.48878,
+    "geom:longitude":28.57036,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Lehlakaneng",
+    "gn:country_code":"ZA",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983431,
+    "gn:latitude":-30.48878,
+    "gn:longitude":28.57036,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lehlakaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983431
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a9f7f8848755afcbe56304778a9da6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293291779,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293291779,
+    "wof:lastmodified":1537066251,
+    "wof:name":"Lehlakaneng",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57036,
+    -30.48878,
+    28.57036,
+    -30.48878
+],
+  "geometry": {"coordinates":[28.57036,-30.48878],"type":"Point"}
+}

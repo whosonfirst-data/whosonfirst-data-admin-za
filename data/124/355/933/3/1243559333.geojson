@@ -1,0 +1,73 @@
+{
+  "id": 1243559333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24848,-30.99262,29.24848,-30.99262",
+    "geom:latitude":-30.99262,
+    "geom:longitude":29.24848,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC444",
+    "gn:asciiname":"Cola",
+    "gn:country_code":"ZA",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1013114,
+    "gn:latitude":-30.99262,
+    "gn:longitude":29.24848,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Cola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xola",
+        "Cola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013114
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1e7ade3c32774fada80d7fbd9f1db58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1243559333,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243559333,
+    "wof:lastmodified":1537716432,
+    "wof:name":"Cola",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24848,
+    -30.99262,
+    29.24848,
+    -30.99262
+],
+  "geometry": {"coordinates":[29.24848,-30.99262],"type":"Point"}
+}

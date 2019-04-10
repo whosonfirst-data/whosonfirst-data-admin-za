@@ -1,0 +1,72 @@
+{
+  "id": 101925483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":2268004.932409,
+    "geom:bbox":"28.0809993744,-25.7570476532,28.096206665,-25.7325458527",
+    "geom:latitude":-25.74599,
+    "geom:longitude":28.088737,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.746809,
+    "lbl:longitude":28.088219,
+    "mps:latitude":-25.746809,
+    "mps:longitude":28.088219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lotus Gardens",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1589030
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"46c16859e75f437587571ec55f3678f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925483,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925483,
+    "wof:lastmodified":1500027713,
+    "wof:name":"Lotus Gardens",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08099937438965,
+    -25.75704765319824,
+    28.09620666503906,
+    -25.73254585266113
+],
+  "geometry": {"coordinates":[[[28.09620666503906,-25.73622512817383],[28.09163665771484,-25.74113845825195],[28.0943489074707,-25.75473976135254],[28.08099937438965,-25.75704765319824],[28.08503150939941,-25.74098777770996],[28.0882453918457,-25.73500442504883],[28.09518814086914,-25.73254585266113],[28.09620666503906,-25.73622512817383]]],"type":"Polygon"}
+}

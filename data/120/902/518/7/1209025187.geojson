@@ -1,0 +1,63 @@
+{
+  "id": 1209025187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.74547,-23.10616,28.74547,-23.10616",
+    "geom:latitude":-23.10616,
+    "geom:longitude":28.74547,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM351",
+    "gn:asciiname":"Lebu",
+    "gn:country_code":"ZA",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984083,
+    "gn:latitude":-23.10616,
+    "gn:longitude":28.74547,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984083
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c109709c9fb74a420708372b1656038e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209025187
+        }
+    ],
+    "wof:id":1209025187,
+    "wof:lastmodified":1536300022,
+    "wof:name":"Lebu",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74547,
+    -23.10616,
+    28.74547,
+    -23.10616
+],
+  "geometry": {"coordinates":[28.74547,-23.10616],"type":"Point"}
+}

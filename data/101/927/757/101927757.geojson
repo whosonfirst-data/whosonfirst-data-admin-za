@@ -1,0 +1,83 @@
+{
+  "id": 101927757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":1026685.870381,
+    "geom:bbox":"31.4179592133,-29.1933670044,31.4276103973,-29.1733608246",
+    "geom:latitude":-29.185138,
+    "geom:longitude":31.421934,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.186879,
+    "lbl:longitude":31.422007,
+    "mps:latitude":-29.186879,
+    "mps:longitude":31.422007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Tugela"
+    ],
+    "name:dut_x_preferred":[
+        "Tugela"
+    ],
+    "name:eng_x_preferred":[
+        "Tugela"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tugela",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947679,
+        "gp:id":1591465,
+        "wd:id":"Q7851621"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1d8b3272142d60acd3959c983d762d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":101927757,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927757,
+    "wof:lastmodified":1514504562,
+    "wof:name":"Tugela",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41795921325684,
+    -29.19336700439453,
+    31.42761039733887,
+    -29.17336082458496
+],
+  "geometry": {"coordinates":[[[31.42444610595703,-29.19263648986816],[31.4240665435791,-29.19336700439453],[31.41852378845215,-29.1899471282959],[31.41800308227539,-29.18814468383789],[31.41799163818359,-29.18543815612793],[31.41952514648438,-29.18340301513672],[31.42055130004883,-29.1827220916748],[31.41873931884766,-29.17979621887207],[31.41795921325684,-29.17731666564941],[31.41959571838379,-29.17336082458496],[31.41969871520996,-29.17350387573242],[31.42026329040527,-29.1750545501709],[31.42337226867676,-29.18136024475098],[31.42761039733887,-29.1880054473877],[31.42640686035156,-29.18957710266113],[31.42538452148438,-29.19108581542969],[31.42444610595703,-29.19263648986816]]],"type":"Polygon"}
+}

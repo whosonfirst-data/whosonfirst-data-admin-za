@@ -1,0 +1,72 @@
+{
+  "id": 101928989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1813749.537532,
+    "geom:bbox":"28.5583133698,-32.1697235107,28.5795936584,-32.156627655",
+    "geom:latitude":-32.163481,
+    "geom:longitude":28.569025,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.163381,
+    "lbl:longitude":28.569228,
+    "mps:latitude":-32.163381,
+    "mps:longitude":28.569228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ngolela",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581317
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ff581fe9be65f58ef20ff739049a42df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101928989,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928989,
+    "wof:lastmodified":1500027890,
+    "wof:name":"Ngolela",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55831336975098,
+    -32.16972351074219,
+    28.57959365844727,
+    -32.1566276550293
+],
+  "geometry": {"coordinates":[[[28.56261444091797,-32.16622161865234],[28.55831336975098,-32.16414260864258],[28.56239128112793,-32.15828704833984],[28.57295036315918,-32.1566276550293],[28.5756664276123,-32.1627082824707],[28.57959365844727,-32.16659545898438],[28.57837295532227,-32.16842651367188],[28.56780242919922,-32.16972351074219],[28.56261444091797,-32.16622161865234]]],"type":"Polygon"}
+}

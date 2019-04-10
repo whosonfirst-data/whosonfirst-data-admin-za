@@ -1,0 +1,69 @@
+{
+  "id": 1277095171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97443,-23.66211,28.97443,-23.66211",
+    "geom:latitude":-23.66211,
+    "geom:longitude":28.97443,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM352",
+    "gn:asciiname":"Moetagare",
+    "gn:country_code":"ZA",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975003,
+    "gn:latitude":-23.66211,
+    "gn:longitude":28.97443,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Moetagare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975003
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"812060926a8c2dc3a579d60562a32c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1277095171,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1277095171,
+    "wof:lastmodified":1536749617,
+    "wof:name":"Moetagare",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97443,
+    -23.66211,
+    28.97443,
+    -23.66211
+],
+  "geometry": {"coordinates":[28.97443,-23.66211],"type":"Point"}
+}

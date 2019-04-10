@@ -1,0 +1,81 @@
+{
+  "id": 101924795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":294377.58242,
+    "geom:bbox":"24.7536144257,-29.1219348907,24.7596549988,-29.1160812378",
+    "geom:latitude":-29.118942,
+    "geom:longitude":24.756707,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.118975,
+    "lbl:longitude":24.75665,
+    "mps:latitude":-29.118975,
+    "mps:longitude":24.75665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ratanang"
+    ],
+    "name:eng_x_preferred":[
+        "Ratanang"
+    ],
+    "name:fre_x_preferred":[
+        "Ratanang"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ratanang",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7295470"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a18f74f375d71d4675e649c38eb8ac07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101924795,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101924795,
+    "wof:lastmodified":1514504517,
+    "wof:name":"Ratanang",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75361442565918,
+    -29.12193489074707,
+    24.7596549987793,
+    -29.11608123779297
+],
+  "geometry": {"coordinates":[[[24.75502395629883,-29.12107276916504],[24.75448608398438,-29.12058067321777],[24.75361442565918,-29.11846923828125],[24.75363540649414,-29.11750411987305],[24.75458335876465,-29.11623001098633],[24.75531959533691,-29.11608123779297],[24.75697135925293,-29.11610984802246],[24.75788879394531,-29.11612510681152],[24.7596549987793,-29.11921882629395],[24.75962257385254,-29.12066841125488],[24.75941467285156,-29.12179374694824],[24.75831031799316,-29.12193489074707],[24.75502395629883,-29.12107276916504]]],"type":"Polygon"}
+}

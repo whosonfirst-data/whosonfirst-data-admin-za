@@ -1,0 +1,69 @@
+{
+  "id": 1360074757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00126,-23.87673,30.00126,-23.87673",
+    "geom:latitude":-23.87673,
+    "geom:longitude":30.00126,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Magoebaskloof",
+    "gn:country_code":"ZA",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9408086,
+    "gn:latitude":-23.87673,
+    "gn:longitude":30.00126,
+    "gn:modification_date":"2014-08-22",
+    "gn:name":"Magoebaskloof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9408086
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a25597f6bff15478365b881ad864af59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1360074757,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1360074757,
+    "wof:lastmodified":1536960524,
+    "wof:name":"Magoebaskloof",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00126,
+    -23.87673,
+    30.00126,
+    -23.87673
+],
+  "geometry": {"coordinates":[30.00126,-23.87673],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101927819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000364,
+    "geom:area_square_m":3913628.811705,
+    "geom:bbox":"30.2824211121,-29.5598239899,30.3172874451,-29.5369148254",
+    "geom:latitude":-29.549377,
+    "geom:longitude":30.300758,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.551707,
+    "lbl:longitude":30.301946,
+    "mps:latitude":-29.551707,
+    "mps:longitude":30.301946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hilton"
+    ],
+    "name:dut_x_preferred":[
+        "Hilton"
+    ],
+    "name:eng_x_preferred":[
+        "Hilton"
+    ],
+    "name:nso_x_preferred":[
+        "Hilton"
+    ],
+    "name:unk_x_variant":[
+        "Hilton Road"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hilton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.55,
+    "wd:longitude":30.3,
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996419,
+        "gp:id":1582256,
+        "qs:id":998740,
+        "qs_pg:id":998740,
+        "wd:id":"Q5764449",
+        "wk:page":"Hilton, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"728c87336cf8fc63f02a9fce395bf5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927819,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927819,
+    "wof:lastmodified":1527715634,
+    "wof:name":"Hilton",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28242111206055,
+    -29.55982398986816,
+    30.31728744506836,
+    -29.53691482543945
+],
+  "geometry": {"coordinates":[[[30.28242111206055,-29.53709411621094],[30.28267860412598,-29.53709602355957],[30.28885269165039,-29.53691482543945],[30.29654502868652,-29.54619026184082],[30.29990196228027,-29.54575729370117],[30.30521965026855,-29.541748046875],[30.30740165710449,-29.54286193847656],[30.31124877929688,-29.54603958129883],[30.31559753417969,-29.55147552490234],[30.31728744506836,-29.55458068847656],[30.30729103088379,-29.55932807922363],[30.30471992492676,-29.55796051025391],[30.3005428314209,-29.55982398986816],[30.30032348632812,-29.55974197387695],[30.29570770263672,-29.55543327331543],[30.28879356384277,-29.54795455932617],[30.28667831420898,-29.54434967041016],[30.28242111206055,-29.53709411621094]]],"type":"Polygon"}
+}

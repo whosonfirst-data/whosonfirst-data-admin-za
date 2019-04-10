@@ -1,0 +1,116 @@
+{
+  "id": 101926779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000327,
+    "geom:area_square_m":3570924.271837,
+    "geom:bbox":"27.1212310791,-28.0983104706,27.1554374695,-28.0763130188",
+    "geom:latitude":-28.086099,
+    "geom:longitude":27.138491,
+    "gn:population":10698,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.086055,
+    "lbl:longitude":27.137324,
+    "mps:latitude":-28.086055,
+    "mps:longitude":27.137324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0435\u0440\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:chi_x_preferred":[
+        "\u82ac\u7279\u723e\u65af\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:eng_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:ger_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:hak_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:nso_x_preferred":[
+        "Ventersburg"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u062a\u0631\u0633\u0628\u0648\u0631\u06af"
+    ],
+    "name:rum_x_preferred":[
+        "Ventersburg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ventersburg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.083333,
+    "wd:longitude":27.133333,
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944540,
+        "gp:id":1588571,
+        "qs:id":1300583,
+        "qs_pg:id":1300583,
+        "wd:id":"Q3642271",
+        "wk:page":"Ventersburg"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7e0b21c28bee791f8814056869d592d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926779,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926779,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Ventersburg",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:population":10698,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12123107910156,
+    -28.09831047058105,
+    27.15543746948242,
+    -28.07631301879883
+],
+  "geometry": {"coordinates":[[[27.13723945617676,-28.09195709228516],[27.13601303100586,-28.09128379821777],[27.12123107910156,-28.08316612243652],[27.12701416015625,-28.07631301879883],[27.13474273681641,-28.08095169067383],[27.13557052612305,-28.08095169067383],[27.13749885559082,-28.07997131347656],[27.14053916931152,-28.07650566101074],[27.14567375183105,-28.0777645111084],[27.14658164978027,-28.07818794250488],[27.14645195007324,-28.07844543457031],[27.14222526550293,-28.084228515625],[27.14605903625488,-28.08754348754883],[27.15295028686523,-28.0848445892334],[27.15543746948242,-28.08777809143066],[27.14303970336914,-28.09831047058105],[27.13723945617676,-28.09195709228516]]],"type":"Polygon"}
+}

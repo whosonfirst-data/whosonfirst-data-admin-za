@@ -1,0 +1,73 @@
+{
+  "id": 101929181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":683640.935877,
+    "geom:bbox":"27.4684638977,-33.1696739197,27.4838829041,-33.161605835",
+    "geom:latitude":-33.165429,
+    "geom:longitude":27.475266,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.165778,
+    "lbl:longitude":27.472813,
+    "mps:latitude":-33.165778,
+    "mps:longitude":27.472813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"iKhiwane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991108,
+        "gp:id":1589551
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e0103de2fbed17765e7b7ab0014d7bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929181,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929181,
+    "wof:lastmodified":1500027842,
+    "wof:name":"iKhiwane",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46846389770508,
+    -33.16967391967773,
+    27.48388290405273,
+    -33.16160583496094
+],
+  "geometry": {"coordinates":[[[27.47105979919434,-33.16160583496094],[27.47516059875488,-33.16298675537109],[27.48388290405273,-33.16359710693359],[27.48276138305664,-33.16664123535156],[27.47696113586426,-33.16670608520508],[27.4735279083252,-33.16967391967773],[27.46846389770508,-33.16745376586914],[27.47105979919434,-33.16160583496094]]],"type":"Polygon"}
+}

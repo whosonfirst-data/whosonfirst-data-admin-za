@@ -1,0 +1,69 @@
+{
+  "id": 1243466191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00401,-30.08537,27.00401,-30.08537",
+    "geom:latitude":-30.08537,
+    "geom:longitude":27.00401,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Swartfontein (1)",
+    "gn:country_code":"ZA",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951064,
+    "gn:latitude":-30.08537,
+    "gn:longitude":27.00401,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Swartfontein (1)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951064
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e236c683892c8ca65994fb52eccbf209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1243466191,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1243466191,
+    "wof:lastmodified":1536777562,
+    "wof:name":"Swartfontein (1)",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00401,
+    -30.08537,
+    27.00401,
+    -30.08537
+],
+  "geometry": {"coordinates":[27.00401,-30.08537],"type":"Point"}
+}

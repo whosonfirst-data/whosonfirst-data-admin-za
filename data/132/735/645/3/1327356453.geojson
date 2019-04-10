@@ -1,0 +1,69 @@
+{
+  "id": 1327356453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20961,-30.76108,29.20961,-30.76108",
+    "geom:latitude":-30.76108,
+    "geom:longitude":29.20961,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Natala",
+    "gn:country_code":"ZA",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972058,
+    "gn:latitude":-30.76108,
+    "gn:longitude":29.20961,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Natala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972058
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"166e86ba91fc47eab8835099b56ec87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1327356453,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327356453,
+    "wof:lastmodified":1536790930,
+    "wof:name":"Natala",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20961,
+    -30.76108,
+    29.20961,
+    -30.76108
+],
+  "geometry": {"coordinates":[29.20961,-30.76108],"type":"Point"}
+}

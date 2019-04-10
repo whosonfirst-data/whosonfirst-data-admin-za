@@ -1,0 +1,139 @@
+{
+  "id": 101928017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000607,
+    "geom:area_square_m":6242071.780773,
+    "geom:bbox":"19.8729419708,-33.8179893494,19.904586792,-33.7823944092",
+    "geom:latitude":-33.801764,
+    "geom:longitude":19.89107,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.803351,
+    "lbl:longitude":19.89131,
+    "mps:latitude":-33.803351,
+    "mps:longitude":19.89131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Robertson"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u4f2f\u7279\u68ee"
+    ],
+    "name:deu_x_preferred":[
+        "Robertson"
+    ],
+    "name:dut_x_preferred":[
+        "Robertson"
+    ],
+    "name:eng_x_preferred":[
+        "Robertson"
+    ],
+    "name:fra_x_preferred":[
+        "Robertson"
+    ],
+    "name:fre_x_preferred":[
+        "Robertson"
+    ],
+    "name:ger_x_preferred":[
+        "Robertson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05e8\u05d8\u05e1\u05d5\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30d0\u30fc\u30c8\u30bd\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Robertson"
+    ],
+    "name:nso_x_preferred":[
+        "Robertson"
+    ],
+    "name:pol_x_preferred":[
+        "Robertson"
+    ],
+    "name:ron_x_preferred":[
+        "Robertson"
+    ],
+    "name:rum_x_preferred":[
+        "Robertson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Robertson"
+    ],
+    "name:swa_x_preferred":[
+        "Robertson"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u4f2f\u7279\u68ee"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Robertson",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-33.8,
+    "wd:longitude":19.883333,
+    "wd:wordcount":546,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3362349,
+        "gp:id":1586935,
+        "qs:id":261315,
+        "qs_pg:id":261315,
+        "wd:id":"Q2096823",
+        "wk:page":"Robertson, Western Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"67fc2a72851155fa7967a9bbad8b63f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":101928017,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101928017,
+    "wof:lastmodified":1553815588,
+    "wof:name":"Robertson",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8729419708252,
+    -33.81798934936523,
+    19.90458679199219,
+    -33.78239440917969
+],
+  "geometry": {"coordinates":[[[19.8729419708252,-33.80672454833984],[19.89596176147461,-33.78239440917969],[19.90458679199219,-33.7934455871582],[19.90106010437012,-33.80944442749023],[19.8916015625,-33.81798934936523],[19.89124298095703,-33.81794357299805],[19.88917541503906,-33.81735229492188],[19.88724708557129,-33.81645584106445],[19.88552284240723,-33.81532287597656],[19.87775421142578,-33.81026840209961],[19.8729419708252,-33.80672454833984]]],"type":"Polygon"}
+}

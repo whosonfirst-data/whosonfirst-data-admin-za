@@ -1,0 +1,109 @@
+{
+  "id": 85783253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15916462.718442,
+    "geom:bbox":"18.85154,-33.963309,18.85154,-33.963309",
+    "geom:latitude":-33.963309,
+    "geom:longitude":18.85154,
+    "gn:latitude":-33.96728,
+    "gn:longitude":18.84876,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.963309,
+    "lbl:longitude":18.85154,
+    "mps:latitude":-33.972062,
+    "mps:longitude":18.841799,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Paradyskloof"
+    ],
+    "name:unk_x_variant":[
+        "Paradyskloof"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Paradyskloof",
+    "qs:local_max":1099,
+    "qs:local_sum":3108,
+    "qs:localhoods":9,
+    "qs:name":"Paradyskloof",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"Cape Winelands",
+    "qs:name_lau":"Stellenbosch",
+    "qs:name_local":"Stellenbosch",
+    "qs:photo_max":38,
+    "qs:photo_sum":153,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189424,
+    "qs:woe_lau":56189563,
+    "qs:woe_local":1587741,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730615,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626702,
+        "gp:id":55879078,
+        "qs:id":72697,
+        "qs_pg:id":72697
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f641f15bbebff026c3f741c2d102083d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":-1,
+            "neighbourhood_id":85783253,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783253,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860476,
+    "wof:name":"Paradyskloof",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85154,
+    -33.963309,
+    18.85154,
+    -33.963309
+],
+  "geometry": {"coordinates":[18.85154,-33.963309],"type":"Point"}
+}

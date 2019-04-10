@@ -1,0 +1,73 @@
+{
+  "id": 101925125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00027,
+    "geom:area_square_m":3022522.130166,
+    "geom:bbox":"27.1922702789,-25.2873668671,27.2233066559,-25.2631587982",
+    "geom:latitude":-25.276574,
+    "geom:longitude":27.208239,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.276783,
+    "lbl:longitude":27.208239,
+    "mps:latitude":-25.276783,
+    "mps:longitude":27.208239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mabele-a-podi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980984,
+        "gp:id":56122612
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"db089aeecd1d340e9b672f0bd7f2aa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925125,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925125,
+    "wof:lastmodified":1500028272,
+    "wof:name":"Mabele-a-podi",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19227027893066,
+    -25.28736686706543,
+    27.22330665588379,
+    -25.26315879821777
+],
+  "geometry": {"coordinates":[[[27.20438194274902,-25.27438163757324],[27.22261619567871,-25.26315879821777],[27.22330665588379,-25.27141380310059],[27.2048282623291,-25.28385543823242],[27.20086288452148,-25.28634834289551],[27.19794082641602,-25.28736686706543],[27.19392776489258,-25.28718566894531],[27.19283676147461,-25.28598594665527],[27.19227027893066,-25.28429412841797],[27.19302558898926,-25.28185081481934],[27.19592475891113,-25.27961921691895],[27.20438194274902,-25.27438163757324]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126004727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.030639,-28.755449,32.030639,-28.755449",
+    "geom:latitude":-28.755449,
+    "geom:longitude":32.030639,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.755449,
+    "lbl:longitude":32.030639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alton North",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":56277,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879840,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879840,
+        "qs_pg:id":56277
+    },
+    "wof:country":"ZA",
+    "wof:created":1497299869,
+    "wof:geomhash":"696ac7bbd3ceead9f8a5c93e56f5b006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":1126004727,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1126004727,
+    "wof:lastmodified":1509406353,
+    "wof:name":"Alton North",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.030639,
+    -28.755449,
+    32.030639,
+    -28.755449
+],
+  "geometry": {"coordinates":[32.030639,-28.755449],"type":"Point"}
+}

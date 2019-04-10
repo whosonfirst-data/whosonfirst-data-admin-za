@@ -1,0 +1,88 @@
+{
+  "id": 101923771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":1209072.885854,
+    "geom:bbox":"29.7908535004,-24.8569030762,29.8006877899,-24.8418865204",
+    "geom:latitude":-24.849454,
+    "geom:longitude":29.796215,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.849344,
+    "lbl:longitude":29.795817,
+    "mps:latitude":-24.849344,
+    "mps:longitude":29.795817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Glen Cowie"
+    ],
+    "name:dut_x_preferred":[
+        "Glen Cowie"
+    ],
+    "name:eng_x_preferred":[
+        "Glen Cowie"
+    ],
+    "name:nso_x_preferred":[
+        "Glen Cowie"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glen Cowie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-24.84,
+    "wd:longitude":29.804,
+    "wd:wordcount":507,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581954,
+        "wd:id":"Q15221744"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"990805589f45dc23f142b9aaf53d9262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923771,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923771,
+    "wof:lastmodified":1527688299,
+    "wof:name":"Glen Cowie",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79085350036621,
+    -24.85690307617188,
+    29.80068778991699,
+    -24.84188652038574
+],
+  "geometry": {"coordinates":[[[29.80062866210938,-24.8451099395752],[29.80068778991699,-24.85485649108887],[29.79758453369141,-24.85690307617188],[29.79401016235352,-24.85489082336426],[29.79266738891602,-24.85367965698242],[29.79131507873535,-24.85084342956543],[29.79085350036621,-24.84800148010254],[29.79172897338867,-24.84556007385254],[29.79526710510254,-24.84188652038574],[29.80062866210938,-24.8451099395752]]],"type":"Polygon"}
+}

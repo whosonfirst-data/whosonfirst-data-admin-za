@@ -1,0 +1,73 @@
+{
+  "id": 101923193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":940078.316543,
+    "geom:bbox":"28.700466156,-23.2278652191,28.7136688232,-23.2185249329",
+    "geom:latitude":-23.223367,
+    "geom:longitude":28.706876,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.223051,
+    "lbl:longitude":28.70675,
+    "mps:latitude":-23.223051,
+    "mps:longitude":28.70675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Driekoppies",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4428ee05e2a9ce4716f98baed145ad17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923193,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923193,
+    "wof:lastmodified":1527688297,
+    "wof:name":"Driekoppies",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70046615600586,
+    -23.22786521911621,
+    28.71366882324219,
+    -23.21852493286133
+],
+  "geometry": {"coordinates":[[[28.71366882324219,-23.22016525268555],[28.71211814880371,-23.22664260864258],[28.71013832092285,-23.22625350952148],[28.70618057250977,-23.22665214538574],[28.70486068725586,-23.22746276855469],[28.70265960693359,-23.22786521911621],[28.70090293884277,-23.22704887390137],[28.70046615600586,-23.22623443603516],[28.70091247558594,-23.22339248657227],[28.70355796813965,-23.22014617919922],[28.70619773864746,-23.21852493286133],[28.71015167236328,-23.22015762329102],[28.71366882324219,-23.22016525268555]]],"type":"Polygon"}
+}

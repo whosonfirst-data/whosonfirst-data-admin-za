@@ -1,0 +1,69 @@
+{
+  "id": 1326843283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02829,-26.93936,32.02829,-26.93936",
+    "geom:latitude":-26.93936,
+    "geom:longitude":32.02829,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN272",
+    "gn:asciiname":"Ndabeni",
+    "gn:country_code":"ZA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971845,
+    "gn:latitude":-26.93936,
+    "gn:longitude":32.02829,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ndabeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971845
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e3c65d11dd8dad81db7a19b52cb1f14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1326843283,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1326843283,
+    "wof:lastmodified":1537031400,
+    "wof:name":"Ndabeni",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02829000000001,
+    -26.93936,
+    32.02829000000001,
+    -26.93936
+],
+  "geometry": {"coordinates":[32.02829000000001,-26.93936],"type":"Point"}
+}

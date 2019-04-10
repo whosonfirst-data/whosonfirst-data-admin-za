@@ -1,0 +1,78 @@
+{
+  "id": 1125382591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35116,-29.15627,26.35116,-29.15627",
+    "geom:latitude":-29.15627,
+    "geom:longitude":26.35116,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":752906,
+    "gn:population":752906,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.15627,
+    "lbl:longitude":26.35116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347445,
+    "qs_pg:gn_pop":752906,
+    "qs_pg:name":"Mangaung",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":381650,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347445,
+        "qs_pg:id":381650
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048142,
+    "wof:geomhash":"9823e4f77d2da5150b6cfaf0ba31b7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "localadmin_id":1125382591,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125382591,
+    "wof:lastmodified":1509389627,
+    "wof:name":"Mangaung",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"localadmin",
+    "wof:population":752906,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35116,
+    -29.15627,
+    26.35116,
+    -29.15627
+],
+  "geometry": {"coordinates":[26.35116,-29.15627],"type":"Point"}
+}

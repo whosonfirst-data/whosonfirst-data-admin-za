@@ -1,0 +1,74 @@
+{
+  "id": 1343351307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94216,-23.49246,29.94216,-23.49246",
+    "geom:latitude":-23.49246,
+    "geom:longitude":29.94216,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM353",
+    "gn:asciiname":"Soekmekaar",
+    "gn:country_code":"ZA",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954286,
+    "gn:latitude":-23.49246,
+    "gn:longitude":29.94216,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Soekmekaar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoekmakaar",
+        "Zoekmekaar",
+        "Soekmekaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954286
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f8dd87103840aca4a9a621df464ddac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1343351307,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343351307,
+    "wof:lastmodified":1537716377,
+    "wof:name":"Soekmekaar",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94216,
+    -23.49246,
+    29.94216,
+    -23.49246
+],
+  "geometry": {"coordinates":[29.94216,-23.49246],"type":"Point"}
+}

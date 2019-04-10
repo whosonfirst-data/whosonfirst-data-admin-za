@@ -1,0 +1,83 @@
+{
+  "id": 101923115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":2444078.699434,
+    "geom:bbox":"28.8979492188,-22.8559112549,28.9172439575,-22.8364086151",
+    "geom:latitude":-22.846186,
+    "geom:longitude":28.907852,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.846089,
+    "lbl:longitude":28.907998,
+    "mps:latitude":-22.846089,
+    "mps:longitude":28.907998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Taaiboschgroet"
+    ],
+    "name:eng_x_preferred":[
+        "Taaiboschgroet"
+    ],
+    "name:nso_x_preferred":[
+        "Taaiboschgroet"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taaiboschgroet",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579922,
+        "wd:id":"Q15975742"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2f0f2dd36fbe564e0256269b218a24a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923115,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923115,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Taaiboschgroet",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89794921875,
+    -22.85591125488281,
+    28.91724395751953,
+    -22.8364086151123
+],
+  "geometry": {"coordinates":[[[28.90583801269531,-22.85591125488281],[28.89794921875,-22.85062408447266],[28.90584945678711,-22.83762550354004],[28.90892028808594,-22.8364086151123],[28.91636848449707,-22.84128952026367],[28.91724395751953,-22.8441333770752],[28.91153907775879,-22.85225677490234],[28.90583801269531,-22.85591125488281]]],"type":"Polygon"}
+}

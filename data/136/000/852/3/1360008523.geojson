@@ -1,0 +1,69 @@
+{
+  "id": 1360008523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28159,-31.69831,28.28159,-31.69831",
+    "geom:latitude":-31.69831,
+    "geom:longitude":28.28159,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"KuMtukuma",
+    "gn:country_code":"ZA",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986299,
+    "gn:latitude":-31.69831,
+    "gn:longitude":28.28159,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuMtukuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986299
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"211b7b1051c13e25051878e60035c1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1360008523,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1360008523,
+    "wof:lastmodified":1537053794,
+    "wof:name":"KuMtukuma",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28159,
+    -31.69831,
+    28.28159,
+    -31.69831
+],
+  "geometry": {"coordinates":[28.28159,-31.69831],"type":"Point"}
+}

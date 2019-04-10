@@ -1,0 +1,63 @@
+{
+  "id": 1209100629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8,-26.96667,29.8,-26.96667",
+    "geom:latitude":-26.96667,
+    "geom:longitude":29.8,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP304",
+    "gn:asciiname":"Kafferfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":993273,
+    "gn:latitude":-26.96667,
+    "gn:longitude":29.8,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kafferfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":993273
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3c1177ac565fa34fb3bbdab0aad7218a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209100629
+        }
+    ],
+    "wof:id":1209100629,
+    "wof:lastmodified":1536297745,
+    "wof:name":"Kafferfontein",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8,
+    -26.96667,
+    29.8,
+    -26.96667
+],
+  "geometry": {"coordinates":[29.8,-26.96667],"type":"Point"}
+}

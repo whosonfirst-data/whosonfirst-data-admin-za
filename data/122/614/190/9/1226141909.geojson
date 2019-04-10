@@ -1,0 +1,73 @@
+{
+  "id": 1226141909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10268,-31.52573,29.10268,-31.52573",
+    "geom:latitude":-31.52573,
+    "geom:longitude":29.10268,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Gosshill",
+    "gn:country_code":"ZA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1000737,
+    "gn:latitude":-31.52573,
+    "gn:longitude":29.10268,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Gosshill",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gass Hill",
+        "Gosshill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000737
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0079a107760540196011f19bb826d9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1226141909,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226141909,
+    "wof:lastmodified":1537716424,
+    "wof:name":"Gosshill",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10268,
+    -31.52573,
+    29.10268,
+    -31.52573
+],
+  "geometry": {"coordinates":[29.10268,-31.52573],"type":"Point"}
+}

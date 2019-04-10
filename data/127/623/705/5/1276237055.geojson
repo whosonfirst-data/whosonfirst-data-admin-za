@@ -1,0 +1,69 @@
+{
+  "id": 1276237055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35828,-29.22284,30.35828,-29.22284",
+    "geom:latitude":-29.22284,
+    "geom:longitude":30.35828,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN221",
+    "gn:asciiname":"Kildare",
+    "gn:country_code":"ZA",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990992,
+    "gn:latitude":-29.22284,
+    "gn:longitude":30.35828,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kildare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990992
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2a42868e1c08e32f15b74693e7b11e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1276237055,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276237055,
+    "wof:lastmodified":1536907869,
+    "wof:name":"Kildare",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35828,
+    -29.22284,
+    30.35828,
+    -29.22284
+],
+  "geometry": {"coordinates":[30.35828,-29.22284],"type":"Point"}
+}

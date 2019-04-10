@@ -1,0 +1,76 @@
+{
+  "id": 101926277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000104,
+    "geom:area_square_m":1156194.445136,
+    "geom:bbox":"27.312587738,-26.4638900757,27.3339710236,-26.453578949",
+    "geom:latitude":-26.45872,
+    "geom:longitude":27.323278,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.458833,
+    "lbl:longitude":27.323116,
+    "mps:latitude":-26.458833,
+    "mps:longitude":27.323116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deelkraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580285
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c9b15bfbfb34593745d5337570f96ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926277,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926277,
+    "wof:lastmodified":1534986006,
+    "wof:name":"Deelkraal",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615651
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31258773803711,
+    -26.46389007568359,
+    27.33397102355957,
+    -26.45357894897461
+],
+  "geometry": {"coordinates":[[[27.32588768005371,-26.46003150939941],[27.3254337310791,-26.46194458007812],[27.31478118896484,-26.46389007568359],[27.31258773803711,-26.45988845825195],[27.31303787231445,-26.45885467529297],[27.3144588470459,-26.45862197875977],[27.31791114807129,-26.45951461791992],[27.31879997253418,-26.45919990539551],[27.31978034973145,-26.45816802978516],[27.32085800170898,-26.45601844787598],[27.3284969329834,-26.45357894897461],[27.32955932617188,-26.45374298095703],[27.33380317687988,-26.45583915710449],[27.33397102355957,-26.45775413513184],[27.3329029083252,-26.45830917358398],[27.32855606079102,-26.4586067199707],[27.32588768005371,-26.46003150939941]]],"type":"Polygon"}
+}

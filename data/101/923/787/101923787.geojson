@@ -1,0 +1,136 @@
+{
+  "id": 101923787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000651,
+    "geom:area_square_m":7302297.033679,
+    "geom:bbox":"28.2630386353,-24.8903923035,28.3235721588,-24.8678703308",
+    "geom:latitude":-24.88138,
+    "geom:longitude":28.29259,
+    "gn:population":90210,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.879835,
+    "lbl:longitude":28.290526,
+    "mps:latitude":-24.879835,
+    "mps:longitude":28.290526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Warmbad"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u62c9\u8c9d\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:eng_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:epo_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:fre_x_preferred":[
+        "Warm Baths"
+    ],
+    "name:ger_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d4-\u05d1\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30e9\u30fb\u30d9\u30e9"
+    ],
+    "name:nso_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:pol_x_preferred":[
+        "Bela Bela"
+    ],
+    "name:rum_x_preferred":[
+        "Warmbaths"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430-\u0411\u0435\u043b\u0430"
+    ],
+    "name:sot_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:swe_x_preferred":[
+        "Bela-Bela"
+    ],
+    "name:unk_x_variant":[
+        "Warmbaths"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Warmbad",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941966,
+        "gp:id":1588750,
+        "qs:id":948521,
+        "qs_pg:id":1118998,
+        "wd:id":"Q815085"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d5ec675d8ddcf73528c4665f7ec60b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923787,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923787,
+    "wof:lastmodified":1514504632,
+    "wof:name":"Warmbad",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:population":90210,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.26303863525391,
+    -24.8903923034668,
+    28.32357215881348,
+    -24.86787033081055
+],
+  "geometry": {"coordinates":[[[28.30163955688477,-24.8903923034668],[28.2978630065918,-24.88828468322754],[28.28640937805176,-24.8889045715332],[28.27812576293945,-24.88935279846191],[28.27683448791504,-24.8812255859375],[28.26303863525391,-24.87994194030762],[28.26306533813477,-24.87547492980957],[28.27909660339355,-24.87473678588867],[28.2835578918457,-24.87313270568848],[28.28534698486328,-24.87151718139648],[28.28535652160645,-24.86989212036133],[28.28580665588379,-24.86867523193359],[28.2862548828125,-24.86827087402344],[28.2875919342041,-24.86787033081055],[28.28937339782715,-24.86787986755371],[28.29070663452148,-24.8682918548584],[28.30434799194336,-24.87936210632324],[28.30932426452637,-24.88340187072754],[28.32357215881348,-24.88346290588379],[28.32265090942383,-24.88955116271973],[28.30163955688477,-24.8903923034668]]],"type":"Polygon"}
+}

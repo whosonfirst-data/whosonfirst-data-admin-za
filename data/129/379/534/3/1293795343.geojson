@@ -1,0 +1,69 @@
+{
+  "id": 1293795343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80914,-29.78492,26.80914,-29.78492",
+    "geom:latitude":-29.78492,
+    "geom:longitude":26.80914,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS164",
+    "gn:asciiname":"Sterkfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":952403,
+    "gn:latitude":-29.78492,
+    "gn:longitude":26.80914,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sterkfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952403
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f11aa270940bb3f33365649fd7de9166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1293795343,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293795343,
+    "wof:lastmodified":1536839270,
+    "wof:name":"Sterkfontein",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80914000000001,
+    -29.78492,
+    26.80914000000001,
+    -29.78492
+],
+  "geometry": {"coordinates":[26.80914000000001,-29.78492],"type":"Point"}
+}

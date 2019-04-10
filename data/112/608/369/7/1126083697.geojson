@@ -1,0 +1,93 @@
+{
+  "id": 1126083697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40898,-33.94253,18.40898,-33.94253",
+    "geom:latitude":-33.94253,
+    "geom:longitude":18.40898,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.94253,
+    "lbl:longitude":18.40898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3363257,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oranjezicht",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":4607,
+    "qs_pg:photos_1k":934,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4607,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189342,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586321,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363257,
+        "gp:id":1586321,
+        "qs_pg:id":189342
+    },
+    "wof:country":"ZA",
+    "wof:created":1497312370,
+    "wof:geomhash":"c878b2379de1c7ac5f46304ca126bac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":-1,
+            "neighbourhood_id":1126083697,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126083697,
+    "wof:lastmodified":1534379837,
+    "wof:name":"Oranjezicht",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        85772415
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40898,
+    -33.94253,
+    18.40898,
+    -33.94253
+],
+  "geometry": {"coordinates":[18.40898,-33.94253],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293699587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29746,-30.9265,30.29746,-30.9265",
+    "geom:latitude":-30.9265,
+    "geom:longitude":30.29746,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN216",
+    "gn:asciiname":"Mpenjati",
+    "gn:country_code":"ZA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973261,
+    "gn:latitude":-30.9265,
+    "gn:longitude":30.29746,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mpenjati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Police Post",
+        "Impenjati",
+        "Mdoni",
+        "Mpenjathi",
+        "Mpenjati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973261
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5b5aab6ee0b4b102b4b8fd78f96d4fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1293699587,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293699587,
+    "wof:lastmodified":1537716397,
+    "wof:name":"Mpenjati",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29746,
+    -30.9265,
+    30.29746,
+    -30.9265
+],
+  "geometry": {"coordinates":[30.29746,-30.9265],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":364530.029149,
+    "geom:bbox":"28.0660400391,-26.486618042,28.0729598999,-26.477180481",
+    "geom:latitude":-26.482046,
+    "geom:longitude":28.069561,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.482059,
+    "lbl:longitude":28.069613,
+    "mps:latitude":-26.482059,
+    "mps:longitude":28.069613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Witkop Blockhouse",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189480
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd8ad1d90cc37fdeab2288ba02dd3202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926299,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926299,
+    "wof:lastmodified":1500027708,
+    "wof:name":"Witkop Blockhouse",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0660400390625,
+    -26.48661804199219,
+    28.07295989990234,
+    -26.47718048095703
+],
+  "geometry": {"coordinates":[[[28.07295989990234,-26.47891807556152],[28.06973075866699,-26.48661804199219],[28.0660400390625,-26.48544692993164],[28.06813621520996,-26.48069763183594],[28.06925964355469,-26.47785568237305],[28.06952857971191,-26.47718048095703],[28.07295989990234,-26.47891807556152]]],"type":"Polygon"}
+}

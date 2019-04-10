@@ -1,0 +1,63 @@
+{
+  "id": 1209414187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.27802,-32.65102,28.27802,-32.65102",
+    "geom:latitude":-32.65102,
+    "geom:longitude":28.27802,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC123",
+    "gn:asciiname":"Ewanrigg",
+    "gn:country_code":"ZA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004823,
+    "gn:latitude":-32.65102,
+    "gn:longitude":28.27802,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ewanrigg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004823
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b53cdf015b8066ba64177770a2b4e853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209414187
+        }
+    ],
+    "wof:id":1209414187,
+    "wof:lastmodified":1536287742,
+    "wof:name":"Ewanrigg",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27802,
+    -32.65102,
+    28.27802,
+    -32.65102
+],
+  "geometry": {"coordinates":[28.27802,-32.65102],"type":"Point"}
+}

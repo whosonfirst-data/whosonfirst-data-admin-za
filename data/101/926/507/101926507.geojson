@@ -1,0 +1,91 @@
+{
+  "id": 101926507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":1245452.107774,
+    "geom:bbox":"26.7438468933,-26.8748664856,26.7583694458,-26.8629951477",
+    "geom:latitude":-26.86896,
+    "geom:longitude":26.751226,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.868994,
+    "lbl:longitude":26.751225,
+    "mps:latitude":-26.868994,
+    "mps:longitude":26.751225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "name:dut_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "name:nso_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "name:rum_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "name:ven_x_preferred":[
+        "Hartbeesfontein"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hartbeesfontien",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582882,
+        "wd:id":"Q2647523"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"be98fc700114198c6f080eba41a63941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":101926507,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926507,
+    "wof:lastmodified":1514503913,
+    "wof:name":"Hartbeesfontien",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74384689331055,
+    -26.8748664855957,
+    26.75836944580078,
+    -26.86299514770508
+],
+  "geometry": {"coordinates":[[[26.74664306640625,-26.8748664855957],[26.74602127075195,-26.87353706359863],[26.74384689331055,-26.8663330078125],[26.75623893737793,-26.86299514770508],[26.75836944580078,-26.87173461914062],[26.74664306640625,-26.8748664855957]]],"type":"Polygon"}
+}

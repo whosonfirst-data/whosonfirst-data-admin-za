@@ -1,0 +1,69 @@
+{
+  "id": 1242782557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4,-33.56667,26.4,-33.56667",
+    "geom:latitude":-33.56667,
+    "geom:longitude":26.4,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC105",
+    "gn:asciiname":"Glenview",
+    "gn:country_code":"ZA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001497,
+    "gn:latitude":-33.56667,
+    "gn:longitude":26.4,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Glenview",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001497
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a7f25e108ffed3229248a25616e5a238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":1242782557,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242782557,
+    "wof:lastmodified":1536768875,
+    "wof:name":"Glenview",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4,
+    -33.56667,
+    26.4,
+    -33.56667
+],
+  "geometry": {"coordinates":[26.4,-33.56667],"type":"Point"}
+}

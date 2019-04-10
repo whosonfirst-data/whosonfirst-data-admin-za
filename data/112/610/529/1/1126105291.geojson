@@ -1,0 +1,93 @@
+{
+  "id": 1126105291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57432,-33.87593,25.57432,-33.87593",
+    "geom:latitude":-33.87593,
+    "geom:longitude":25.57432,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.87593,
+    "lbl:longitude":25.57432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Zwa-Zakele"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":985177,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kwazakhele",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":432708,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1583641,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101929259,
+        1108730527,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985177,
+        "gp:id":1583641,
+        "qs_pg:id":432708
+    },
+    "wof:country":"ZA",
+    "wof:created":1497316817,
+    "wof:geomhash":"5b576ec0c91e6a00784e7e737db24c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":101929259,
+            "neighbourhood_id":1126105291,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1126105291,
+    "wof:lastmodified":1509412340,
+    "wof:name":"Kwazakhele",
+    "wof:parent_id":101929259,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57432,
+    -33.87593,
+    25.57432,
+    -33.87593
+],
+  "geometry": {"coordinates":[25.57432,-33.87593],"type":"Point"}
+}

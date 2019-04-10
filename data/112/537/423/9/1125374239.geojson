@@ -1,0 +1,78 @@
+{
+  "id": 1125374239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86546,-25.13342,26.86546,-25.13342",
+    "geom:latitude":-25.13342,
+    "geom:longitude":26.86546,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":227426,
+    "gn:population":227426,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.13342,
+    "lbl:longitude":26.86546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347508,
+    "qs_pg:gn_pop":227426,
+    "qs_pg:name":"Moses Kotane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":109956,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347508,
+        "qs_pg:id":109956
+    },
+    "wof:country":"ZA",
+    "wof:created":1497047617,
+    "wof:geomhash":"0c5cf831e4d8dba30b781562de5c6374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "localadmin_id":1125374239,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1125374239,
+    "wof:lastmodified":1509389414,
+    "wof:name":"Moses Kotane",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"localadmin",
+    "wof:population":227426,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86546,
+    -25.13342,
+    26.86546,
+    -25.13342
+],
+  "geometry": {"coordinates":[26.86546,-25.13342],"type":"Point"}
+}

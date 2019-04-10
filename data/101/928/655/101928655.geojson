@@ -1,0 +1,72 @@
+{
+  "id": 101928655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1455009.175945,
+    "geom:bbox":"27.6559677124,-31.5753250122,27.6768455505,-31.5549316406",
+    "geom:latitude":-31.566609,
+    "geom:longitude":27.665169,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.568252,
+    "lbl:longitude":27.664458,
+    "mps:latitude":-31.568252,
+    "mps:longitude":27.664458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eLalini",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189667
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7559058cecf22c94e0ae8649c0026b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928655,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928655,
+    "wof:lastmodified":1500027866,
+    "wof:name":"eLalini",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65596771240234,
+    -31.57532501220703,
+    27.67684555053711,
+    -31.554931640625
+],
+  "geometry": {"coordinates":[[[27.65596771240234,-31.56038665771484],[27.65923881530762,-31.554931640625],[27.66353607177734,-31.55956649780273],[27.6614818572998,-31.56247901916504],[27.66238403320312,-31.56571578979492],[27.66914939880371,-31.56706809997559],[27.67379188537598,-31.56736755371094],[27.67684555053711,-31.57309913635254],[27.67519950866699,-31.57528686523438],[27.67224884033203,-31.57532501220703],[27.66922187805176,-31.57103729248047],[27.65739250183105,-31.56938934326172],[27.65859222412109,-31.56576538085938],[27.65596771240234,-31.56038665771484]]],"type":"Polygon"}
+}

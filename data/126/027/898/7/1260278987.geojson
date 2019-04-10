@@ -1,0 +1,73 @@
+{
+  "id": 1260278987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08422,-29.65113,17.08422,-29.65113",
+    "geom:latitude":-29.65113,
+    "geom:longitude":17.08422,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC062",
+    "gn:asciiname":"Grootmis",
+    "gn:country_code":"ZA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3367239,
+    "gn:latitude":-29.65113,
+    "gn:longitude":17.08422,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Grootmis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grootmist",
+        "Grootmis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367239
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eaa348df9428d0c690bdae754db5e6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1260278987,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1260278987,
+    "wof:lastmodified":1537716445,
+    "wof:name":"Grootmis",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08422,
+    -29.65113,
+    17.08422,
+    -29.65113
+],
+  "geometry": {"coordinates":[17.08422,-29.65113],"type":"Point"}
+}

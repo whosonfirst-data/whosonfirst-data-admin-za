@@ -1,0 +1,73 @@
+{
+  "id": 101927289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000456,
+    "geom:area_square_m":5084396.415976,
+    "geom:bbox":"31.7990036011,-25.7651557922,31.8393688202,-25.7174625397",
+    "geom:latitude":-25.741991,
+    "geom:longitude":31.819031,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.742121,
+    "lbl:longitude":31.819032,
+    "mps:latitude":-25.742121,
+    "mps:longitude":31.819032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eMangweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979395,
+        "gp:id":1581272
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a002c72714e7e469097fb2f013b29b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927289,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927289,
+    "wof:lastmodified":1500026367,
+    "wof:name":"eMangweni",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79900360107422,
+    -25.76515579223633,
+    31.83936882019043,
+    -25.71746253967285
+],
+  "geometry": {"coordinates":[[[31.79900360107422,-25.72294807434082],[31.80469703674316,-25.71746253967285],[31.83936882019043,-25.76064872741699],[31.83154487609863,-25.76515579223633],[31.79900360107422,-25.72294807434082]]],"type":"Polygon"}
+}

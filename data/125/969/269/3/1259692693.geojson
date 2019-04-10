@@ -1,0 +1,69 @@
+{
+  "id": 1259692693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02296,-30.79011,30.02296,-30.79011",
+    "geom:latitude":-30.79011,
+    "geom:longitude":30.02296,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN215",
+    "gn:asciiname":"KwaHlomendlini",
+    "gn:country_code":"ZA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985786,
+    "gn:latitude":-30.79011,
+    "gn:longitude":30.02296,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaHlomendlini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985786
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3570f9d38ab30886fa4df4520bb41d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1259692693,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259692693,
+    "wof:lastmodified":1537051493,
+    "wof:name":"KwaHlomendlini",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02296,
+    -30.79011,
+    30.02296,
+    -30.79011
+],
+  "geometry": {"coordinates":[30.02296,-30.79011],"type":"Point"}
+}

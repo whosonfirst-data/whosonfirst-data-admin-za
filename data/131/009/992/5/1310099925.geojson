@@ -1,0 +1,74 @@
+{
+  "id": 1310099925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91667,-23.71667,30.91667,-23.71667",
+    "geom:latitude":-23.71667,
+    "geom:longitude":30.91667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM334",
+    "gn:asciiname":"Silwana's Location",
+    "gn:country_code":"ZA",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":955568,
+    "gn:latitude":-23.71667,
+    "gn:longitude":30.91667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Silwana\u2019s Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selwaneslokasie",
+        "Silwansslokasie",
+        "Silwana\u2019s Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955568
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"026671669ece9e48de0f6e9bfc37ec21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1310099925,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310099925,
+    "wof:lastmodified":1537716378,
+    "wof:name":"Silwana's Location",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91667,
+    -23.71667,
+    30.91667,
+    -23.71667
+],
+  "geometry": {"coordinates":[30.91667,-23.71667],"type":"Point"}
+}

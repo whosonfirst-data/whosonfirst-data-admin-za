@@ -1,0 +1,111 @@
+{
+  "id": 1125311421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14107,-23.94299,31.14107,-23.94299",
+    "geom:latitude":-23.94299,
+    "geom:longitude":31.14107,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":109468,
+    "gn:population":109468,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.94299,
+    "lbl:longitude":31.14107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Phalaborwa"
+    ],
+    "name:deu_x_preferred":[
+        "Phalaborwa"
+    ],
+    "name:eng_x_preferred":[
+        "Phalaborwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0431\u043e\u0440\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0445\u0430\u043b\u0430\u0431\u043e\u0440\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Palabora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u535a\u9b6f\u74e6"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":965528,
+    "qs_pg:gn_pop":109468,
+    "qs_pg:name":"Ba-Phalaborwa",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":308,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":760692,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":56189645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965528,
+        "gp:id":56189645,
+        "qs_pg:id":760692
+    },
+    "wof:country":"ZA",
+    "wof:created":1497044008,
+    "wof:geomhash":"eeed80cea4a86a304470aef1ba034be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "localadmin_id":1125311421,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125311421,
+    "wof:lastmodified":1509387898,
+    "wof:name":"Ba-Phalaborwa",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"localadmin",
+    "wof:population":109468,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14107,
+    -23.94299,
+    31.14107,
+    -23.94299
+],
+  "geometry": {"coordinates":[31.14107,-23.94299],"type":"Point"}
+}

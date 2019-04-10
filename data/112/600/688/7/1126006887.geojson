@@ -1,0 +1,103 @@
+{
+  "id": 1126006887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83656,-30.41827,26.83656,-30.41827",
+    "geom:latitude":-30.41827,
+    "geom:longitude":26.83656,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.41827,
+    "lbl:longitude":26.83656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Rouxville"
+    ],
+    "name:dut_x_preferred":[
+        "Rouxville"
+    ],
+    "name:eng_x_preferred":[
+        "Rouxville"
+    ],
+    "name:fre_x_preferred":[
+        "Rouxville"
+    ],
+    "name:nso_x_preferred":[
+        "Rouxville"
+    ],
+    "name:rum_x_preferred":[
+        "Rouxville"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":959018,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rouxville",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Free State",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":244889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587054,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Free State",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959018,
+        "gp:id":1587054,
+        "qs_pg:id":244889,
+        "wd:id":"Q862002"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300020,
+    "wof:geomhash":"727364926dda080c950cb0759d0da8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1126006887,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1126006887,
+    "wof:lastmodified":1514504522,
+    "wof:name":"Rouxville",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83656,
+    -30.41827,
+    26.83656,
+    -30.41827
+],
+  "geometry": {"coordinates":[26.83656,-30.41827],"type":"Point"}
+}

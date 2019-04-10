@@ -1,0 +1,72 @@
+{
+  "id": 101926369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":546216.325891,
+    "geom:bbox":"27.8454113007,-26.6146354675,27.8535575867,-26.6035652161",
+    "geom:latitude":-26.607725,
+    "geom:longitude":27.848903,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.607453,
+    "lbl:longitude":27.848965,
+    "mps:latitude":-26.607453,
+    "mps:longitude":27.848965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Houtheuwel",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587269
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"72b268c96b46eaf85d44db429fa14a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926369,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926369,
+    "wof:lastmodified":1500027712,
+    "wof:name":"Houtheuwel",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84541130065918,
+    -26.6146354675293,
+    27.85355758666992,
+    -26.60356521606445
+],
+  "geometry": {"coordinates":[[[27.84541130065918,-26.60406112670898],[27.84625434875488,-26.60394096374512],[27.8488826751709,-26.60356521606445],[27.85046195983887,-26.60378646850586],[27.85177230834961,-26.60437965393066],[27.85355758666992,-26.60603332519531],[27.84914398193359,-26.61221694946289],[27.84720802307129,-26.6146354675293],[27.84700584411621,-26.61347961425781],[27.84541130065918,-26.60406112670898]]],"type":"Polygon"}
+}

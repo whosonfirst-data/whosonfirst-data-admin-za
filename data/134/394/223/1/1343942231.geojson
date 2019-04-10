@@ -1,0 +1,69 @@
+{
+  "id": 1343942231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84286,-24.26213,29.84286,-24.26213",
+    "geom:latitude":-24.26213,
+    "geom:longitude":29.84286,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM474",
+    "gn:asciiname":"Serokolo",
+    "gn:country_code":"ZA",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956400,
+    "gn:latitude":-24.26213,
+    "gn:longitude":29.84286,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Serokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956400
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c96dfd38117f1a5402c638764f3bc33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1343942231,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343942231,
+    "wof:lastmodified":1537044530,
+    "wof:name":"Serokolo",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84286,
+    -24.26213,
+    29.84286,
+    -24.26213
+],
+  "geometry": {"coordinates":[29.84286,-24.26213],"type":"Point"}
+}

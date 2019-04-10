@@ -1,0 +1,78 @@
+{
+  "id": 1125382587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25513,-29.356,31.25513,-29.356",
+    "geom:latitude":-29.356,
+    "geom:longitude":31.25513,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":162055,
+    "gn:population":162055,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.356,
+    "lbl:longitude":31.25513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347432,
+    "qs_pg:gn_pop":162055,
+    "qs_pg:name":"KwaDukuza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":381649,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347432,
+        "qs_pg:id":381649
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048142,
+    "wof:geomhash":"9590dbcb9646b971424ae40d625a3a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "localadmin_id":1125382587,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125382587,
+    "wof:lastmodified":1509389626,
+    "wof:name":"KwaDukuza",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"localadmin",
+    "wof:population":162055,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25513,
+    -29.356,
+    31.25513,
+    -29.356
+],
+  "geometry": {"coordinates":[31.25513,-29.356],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101924725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000851,
+    "geom:area_square_m":9332070.405672,
+    "geom:bbox":"24.7586936951,-27.5419960022,24.8002891541,-27.5048885345",
+    "geom:latitude":-27.524316,
+    "geom:longitude":24.777262,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.524548,
+    "lbl:longitude":24.774111,
+    "mps:latitude":-27.524548,
+    "mps:longitude":24.774111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Taung"
+    ],
+    "name:arm_x_preferred":[
+        "\u0539\u0561\u0578\u0582\u0576\u0563"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "Taung"
+    ],
+    "name:eng_x_preferred":[
+        "Taung"
+    ],
+    "name:fre_x_preferred":[
+        "Taung"
+    ],
+    "name:ger_x_preferred":[
+        "Taung"
+    ],
+    "name:ita_x_preferred":[
+        "Taung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30a6\u30f3\u30b0"
+    ],
+    "name:nob_x_preferred":[
+        "Taung"
+    ],
+    "name:nso_x_preferred":[
+        "Taung"
+    ],
+    "name:pol_x_preferred":[
+        "Taung"
+    ],
+    "name:rum_x_preferred":[
+        "Taung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Taung"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422a\u0443\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Taungs"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taung",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.5325,
+    "wd:longitude":24.785556,
+    "wd:wordcount":507,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950002,
+        "gp:id":1587978,
+        "qs:id":1029473,
+        "qs_pg:id":1029473,
+        "wd:id":"Q2096879"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"95d2fb680fbd0e6d673a476ee4468693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101924725,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924725,
+    "wof:lastmodified":1527670489,
+    "wof:name":"Taung",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75869369506836,
+    -27.54199600219727,
+    24.80028915405273,
+    -27.5048885345459
+],
+  "geometry": {"coordinates":[[[24.75869369506836,-27.52318000793457],[24.76030731201172,-27.50628089904785],[24.77084159851074,-27.5048885345459],[24.78082466125488,-27.51570320129395],[24.783447265625,-27.52181053161621],[24.79766273498535,-27.52323913574219],[24.80028915405273,-27.52699851989746],[24.79816627502441,-27.53638648986816],[24.79658126831055,-27.53873062133789],[24.79184532165527,-27.53684616088867],[24.78763008117676,-27.53730964660645],[24.78552055358887,-27.53965377807617],[24.78182792663574,-27.54199600219727],[24.77919769287109,-27.54105377197266],[24.77288627624512,-27.53587913513184],[24.76289558410645,-27.52788162231445],[24.75869369506836,-27.52318000793457]]],"type":"Polygon"}
+}

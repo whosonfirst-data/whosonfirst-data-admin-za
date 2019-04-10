@@ -1,0 +1,97 @@
+{
+  "id": 1125789443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85583,-30.09626,30.85583,-30.09626",
+    "geom:latitude":-30.09626,
+    "geom:longitude":30.85583,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.09626,
+    "lbl:longitude":30.85583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Winkelspruit"
+    ],
+    "name:dut_x_preferred":[
+        "Winkelspruit"
+    ],
+    "name:eng_x_preferred":[
+        "Winklespruit"
+    ],
+    "name:unk_x_variant":[
+        "Winkelspruit"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":939455,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Winklespruit",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":193929,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588942,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939455,
+        "gp:id":1588942,
+        "qs_pg:id":193929,
+        "wd:id":"Q8025492"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290809,
+    "wof:geomhash":"d1d38e06fafb4a9d95ee1f2f8f98bc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1125789443,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125789443,
+    "wof:lastmodified":1514505117,
+    "wof:name":"Winklespruit",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85583,
+    -30.09626,
+    30.85583,
+    -30.09626
+],
+  "geometry": {"coordinates":[30.85583,-30.09626],"type":"Point"}
+}

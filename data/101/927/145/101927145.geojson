@@ -1,0 +1,107 @@
+{
+  "id": 101927145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":1089321.876152,
+    "geom:bbox":"25.4241065979,-29.7731895447,25.4431266785,-29.7567863464",
+    "geom:latitude":-29.764751,
+    "geom:longitude":25.43511,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.764188,
+    "lbl:longitude":25.435254,
+    "mps:latitude":-29.764188,
+    "mps:longitude":25.435254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:dut_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:hak_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:nso_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:rum_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0445\u0435\u0440\u0441\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:swe_x_preferred":[
+        "Jagersfontein"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0631\u0633\u0641\u0648\u0646\u062a\u06cc\u0646"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jagersfontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.766667,
+    "wd:longitude":25.416667,
+    "wd:wordcount":434,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994257,
+        "wd:id":"Q2460233",
+        "wk:page":"Jagersfontein"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"34a6f15bad5e009a5757b9d9ac4df0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101927145,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927145,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Jagersfontein",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42410659790039,
+    -29.77318954467773,
+    25.4431266784668,
+    -29.75678634643555
+],
+  "geometry": {"coordinates":[[[25.42823600769043,-29.76072883605957],[25.42410659790039,-29.75912475585938],[25.42917442321777,-29.75693321228027],[25.43209266662598,-29.75678634643555],[25.43207359313965,-29.75805854797363],[25.43204116821289,-29.76005744934082],[25.4328670501709,-29.76061248779297],[25.43454170227051,-29.76008605957031],[25.43495750427246,-29.76009178161621],[25.44293785095215,-29.76927375793457],[25.4431266784668,-29.77054786682129],[25.44289588928223,-29.77199935913086],[25.43838691711426,-29.77318954467773],[25.43522262573242,-29.76789093017578],[25.42823600769043,-29.76072883605957]]],"type":"Polygon"}
+}

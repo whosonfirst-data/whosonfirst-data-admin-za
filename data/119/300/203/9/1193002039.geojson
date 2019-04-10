@@ -1,0 +1,67 @@
+{
+  "id": 1193002039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76009,-27.11644,23.76009,-27.11644",
+    "geom:latitude":-27.11644,
+    "geom:longitude":23.76009,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vlakpan",
+    "gn:country_code":"ZA",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943493,
+    "gn:latitude":-27.11644,
+    "gn:longitude":23.76009,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Vlakpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943493
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"95038e5241d1b3b8ce059afd9bdac62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1193002039,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1193002039,
+    "wof:lastmodified":1536369476,
+    "wof:name":"Vlakpan",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76009,
+    -27.11644,
+    23.76009,
+    -27.11644
+],
+  "geometry": {"coordinates":[23.76009,-27.11644],"type":"Point"}
+}

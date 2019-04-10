@@ -1,0 +1,72 @@
+{
+  "id": 101926919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":301620.934167,
+    "geom:bbox":"25.7697200775,-28.6609783173,25.7768306732,-28.6549091339",
+    "geom:latitude":-28.657738,
+    "geom:longitude":25.773422,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.657866,
+    "lbl:longitude":25.773422,
+    "mps:latitude":-28.657866,
+    "mps:longitude":25.773422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tswaraganang",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880255
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64c90587fe65a96cf6fec6f54532828a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926919,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926919,
+    "wof:lastmodified":1500027667,
+    "wof:name":"Tswaraganang",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76972007751465,
+    -28.66097831726074,
+    25.77683067321777,
+    -28.65490913391113
+],
+  "geometry": {"coordinates":[[[25.77683067321777,-28.65920829772949],[25.77186393737793,-28.66097831726074],[25.76972007751465,-28.65596008300781],[25.77569389343262,-28.65490913391113],[25.77683067321777,-28.65920829772949]]],"type":"Polygon"}
+}

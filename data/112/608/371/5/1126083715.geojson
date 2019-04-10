@@ -1,0 +1,92 @@
+{
+  "id": 1126083715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11667,-25.8,28.11667,-25.8",
+    "geom:latitude":-25.8,
+    "geom:longitude":28.11667,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.8,
+    "lbl:longitude":28.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Roberts Heights"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":942851,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Voortrekkerhoogte",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos":396,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":396,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189366,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588682,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":942851,
+        "gp:id":1588682,
+        "qs_pg:id":189366
+    },
+    "wof:country":"ZA",
+    "wof:created":1497312373,
+    "wof:geomhash":"c1e7fabb7026ca88a8da18efb269e798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":-1,
+            "neighbourhood_id":1126083715,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1126083715,
+    "wof:lastmodified":1509411291,
+    "wof:name":"Voortrekkerhoogte",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11667,
+    -25.8,
+    28.11667,
+    -25.8
+],
+  "geometry": {"coordinates":[28.11667,-25.8],"type":"Point"}
+}

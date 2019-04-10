@@ -1,0 +1,92 @@
+{
+  "id": 101925883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":2596135.173484,
+    "geom:bbox":"28.0028896332,-26.2176685333,28.0348453522,-26.2054481506",
+    "geom:latitude":-26.211655,
+    "geom:longitude":28.018549,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.21172,
+    "lbl:longitude":28.018549,
+    "mps:latitude":-26.21172,
+    "mps:longitude":28.018549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Amalgam"
+    ],
+    "name:bos_x_preferred":[
+        "Amalgam"
+    ],
+    "name:dut_x_preferred":[
+        "Amalgam"
+    ],
+    "name:eng_x_preferred":[
+        "Amalgam"
+    ],
+    "name:ita_x_preferred":[
+        "Amalgam"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0627\u0644\u06af\u0627\u0645\u060c \u06af\u0627\u0626\u062a\u0646\u06af"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Amalgam",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582504,
+        "wd:id":"Q4739332"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"74c3f482770a04ceb77d035b6b8d0f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925883,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925883,
+    "wof:lastmodified":1527688522,
+    "wof:name":"Amalgam",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00288963317871,
+    -26.2176685333252,
+    28.03484535217285,
+    -26.20544815063477
+],
+  "geometry": {"coordinates":[[[28.03319931030273,-26.20704650878906],[28.03335189819336,-26.20879173278809],[28.03353881835938,-26.21092224121094],[28.03484535217285,-26.21289443969727],[28.03438949584961,-26.21288681030273],[28.02630615234375,-26.2137451171875],[28.02464485168457,-26.21392250061035],[28.02119636535645,-26.21661949157715],[28.01190185546875,-26.2176685333252],[28.01186561584473,-26.21631813049316],[28.00984764099121,-26.2167854309082],[28.0074634552002,-26.21656227111816],[28.00515937805176,-26.21604347229004],[28.00349426269531,-26.21523666381836],[28.00288963317871,-26.21069526672363],[28.01326751708984,-26.21106910705566],[28.01351737976074,-26.21012878417969],[28.01193618774414,-26.2088508605957],[28.01139640808105,-26.20739364624023],[28.01128959655762,-26.20544815063477],[28.01460647583008,-26.20604515075684],[28.01602745056152,-26.20630264282227],[28.02437782287598,-26.20702934265137],[28.03319931030273,-26.20704650878906]]],"type":"Polygon"}
+}

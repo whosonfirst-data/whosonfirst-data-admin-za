@@ -1,0 +1,98 @@
+{
+  "id": 101926011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1148724.784245,
+    "geom:bbox":"27.6161518097,-26.2759475708,27.6319274902,-26.2605876923",
+    "geom:latitude":-26.268594,
+    "geom:longitude":27.623351,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.263962,
+    "lbl:longitude":27.622155,
+    "mps:latitude":-26.263962,
+    "mps:longitude":27.622155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Venterspos"
+    ],
+    "name:dut_x_preferred":[
+        "Venterspos"
+    ],
+    "name:eng_x_preferred":[
+        "Venterspos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u062a\u0631\u0633\u067e\u0633"
+    ],
+    "name:nso_x_preferred":[
+        "Venterspos"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u062a\u0631\u0633\u067e\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Venterspost"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Venterspos",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.2667,
+    "wd:longitude":27.6333,
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944499,
+        "gp:id":1588577,
+        "wd:id":"Q10954427"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"158312e8ed3f58d77df41c05145b11ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926011,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926011,
+    "wof:lastmodified":1527715817,
+    "wof:name":"Venterspos",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61615180969238,
+    -26.27594757080078,
+    27.63192749023438,
+    -26.26058769226074
+],
+  "geometry": {"coordinates":[[[27.6182975769043,-26.27287673950195],[27.62252235412598,-26.27178192138672],[27.62117767333984,-26.26674461364746],[27.61967849731445,-26.2669849395752],[27.61628150939941,-26.26415252685547],[27.61615180969238,-26.26243209838867],[27.62447357177734,-26.26058769226074],[27.62576103210449,-26.26703262329102],[27.62322044372559,-26.26744651794434],[27.62469482421875,-26.2697696685791],[27.62879371643066,-26.26942253112793],[27.63050842285156,-26.2701416015625],[27.63142967224121,-26.27109718322754],[27.63149642944336,-26.27134704589844],[27.63192749023438,-26.27300262451172],[27.61896896362305,-26.27594757080078],[27.6182975769043,-26.27287673950195]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125271851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95587,-27.1285,29.95587,-27.1285",
+    "geom:latitude":-27.1285,
+    "geom:longitude":29.95587,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":65932,
+    "gn:population":65932,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.1285,
+    "lbl:longitude":29.95587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347626,
+    "qs_pg:gn_pop":65932,
+    "qs_pg:name":"Pixley Ka Seme",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":765018,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347626,
+        "qs_pg:id":765018
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042158,
+    "wof:geomhash":"16879f3bcc97ee989b75bf71feefd473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "localadmin_id":1125271851,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1125271851,
+    "wof:lastmodified":1509387049,
+    "wof:name":"Pixley Ka Seme",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"localadmin",
+    "wof:population":65932,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95587,
+    -27.1285,
+    29.95587,
+    -27.1285
+],
+  "geometry": {"coordinates":[29.95587,-27.1285],"type":"Point"}
+}

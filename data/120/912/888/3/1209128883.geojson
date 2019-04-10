@@ -1,0 +1,63 @@
+{
+  "id": 1209128883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36776,-31.30018,29.36776,-31.30018",
+    "geom:latitude":-31.30018,
+    "geom:longitude":29.36776,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC154",
+    "gn:asciiname":"Mbozizeni",
+    "gn:country_code":"ZA",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977553,
+    "gn:latitude":-31.30018,
+    "gn:longitude":29.36776,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mbozizeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977553
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8f7ec85678bea379af6fd369e8d1e9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209128883
+        }
+    ],
+    "wof:id":1209128883,
+    "wof:lastmodified":1536296869,
+    "wof:name":"Mbozizeni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36776,
+    -31.30018,
+    29.36776,
+    -31.30018
+],
+  "geometry": {"coordinates":[29.36776,-31.30018],"type":"Point"}
+}

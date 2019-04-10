@@ -1,0 +1,102 @@
+{
+  "id": 101929137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000323,
+    "geom:area_square_m":3347736.594762,
+    "geom:bbox":"28.002161026,-32.9526748657,28.0325050354,-32.9375915527",
+    "geom:latitude":-32.94395,
+    "geom:longitude":28.014927,
+    "geonames:id":"1000936,1000937",
+    "iso:country":"ZA",
+    "lbl:latitude":-32.944738,
+    "lbl:longitude":28.013121,
+    "mps:latitude":-32.944738,
+    "mps:longitude":28.013121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Gonubie"
+    ],
+    "name:dut_x_preferred":[
+        "Gonubie"
+    ],
+    "name:eng_x_preferred":[
+        "Gonubie"
+    ],
+    "name:nso_x_preferred":[
+        "Gonubie"
+    ],
+    "name:ron_x_preferred":[
+        "Gonubie"
+    ],
+    "name:rum_x_preferred":[
+        "Gonubie"
+    ],
+    "name:unk_x_variant":[
+        "Conubie Mouth"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gonubie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-32.943,
+    "wd:longitude":28.008,
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000937,
+        "gp:id":1589722,
+        "qs_pg:id":1269131,
+        "wd:id":"Q5582119"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e44076d073114d10db80a5f867800103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929137,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929137,
+    "wof:lastmodified":1527715591,
+    "wof:name":"Gonubie",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00216102600098,
+    -32.95267486572266,
+    28.03250503540039,
+    -32.93759155273438
+],
+  "geometry": {"coordinates":[[[28.03250503540039,-32.93759155273438],[28.03195190429688,-32.94105911254883],[28.03145217895508,-32.94209671020508],[28.0289306640625,-32.94370651245117],[28.02488327026367,-32.94636535644531],[28.01472473144531,-32.95114135742188],[28.00894165039062,-32.95267486572266],[28.00517082214355,-32.95244598388672],[28.00235176086426,-32.9487419128418],[28.00216102600098,-32.94008636474609],[28.00485229492188,-32.93802642822266],[28.00929260253906,-32.93766784667969],[28.0202579498291,-32.93836212158203],[28.03250503540039,-32.93759155273438]]],"type":"Polygon"}
+}

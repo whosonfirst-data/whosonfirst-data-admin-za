@@ -1,0 +1,73 @@
+{
+  "id": 1344179851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41927,-31.33868,28.41927,-31.33868",
+    "geom:latitude":-31.33868,
+    "geom:longitude":28.41927,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Mdilingwa",
+    "gn:country_code":"ZA",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977407,
+    "gn:latitude":-31.33868,
+    "gn:longitude":28.41927,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mdilingwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mowilinga",
+        "Mdilingwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977407
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"94a80f84dcedd7fb6585b3641af64304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1344179851,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1344179851,
+    "wof:lastmodified":1537716403,
+    "wof:name":"Mdilingwa",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41927,
+    -31.33868,
+    28.41927,
+    -31.33868
+],
+  "geometry": {"coordinates":[28.41927,-31.33868],"type":"Point"}
+}

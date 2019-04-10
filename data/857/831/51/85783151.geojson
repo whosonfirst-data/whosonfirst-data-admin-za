@@ -1,0 +1,113 @@
+{
+  "id": 85783151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5292371.901497,
+    "geom:bbox":"28.130808,-26.186328,28.130808,-26.186328",
+    "geom:latitude":-26.186328,
+    "geom:longitude":28.130808,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.186328,
+    "lbl:longitude":28.130808,
+    "mps:latitude":-26.184964,
+    "mps:longitude":28.137772,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Oriel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0438\u044d\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Oriel"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":1020590,
+    "qs:gn_nam_loc":"Bedfordview, Ekurhuleni, Ekurhuleni, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":82,
+    "qs:local_sum":157,
+    "qs:localhoods":3,
+    "qs:name":"Oriel",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"Ekurhuleni",
+    "qs:name_lau":"Ekurhuleni",
+    "qs:name_local":"Bedfordview",
+    "qs:photo_max":18,
+    "qs:photo_sum":41,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189451,
+    "qs:woe_lau":56189689,
+    "qs:woe_local":1579697,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925831,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878592,
+        "qs:id":56184,
+        "qs_pg:id":56184
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e535f9f2e0f45d4bbde790b5b957ebc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925831,
+            "neighbourhood_id":85783151,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85783151,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860460,
+    "wof:name":"Oriel",
+    "wof:parent_id":101925831,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.130808,
+    -26.186328,
+    28.130808,
+    -26.186328
+],
+  "geometry": {"coordinates":[28.130808,-26.186328],"type":"Point"}
+}

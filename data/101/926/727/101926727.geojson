@@ -1,0 +1,119 @@
+{
+  "id": 101926727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000298,
+    "geom:area_square_m":3259927.680621,
+    "geom:bbox":"25.1456279755,-27.926574707,25.1734027863,-27.9066371918",
+    "geom:latitude":-27.917273,
+    "geom:longitude":25.158692,
+    "gn:population":17523,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.918325,
+    "lbl:longitude":25.158477,
+    "mps:latitude":-27.918325,
+    "mps:longitude":25.158477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Christiana"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u5a1c"
+    ],
+    "name:dut_x_preferred":[
+        "Christiana"
+    ],
+    "name:eng_x_preferred":[
+        "Christiana"
+    ],
+    "name:ger_x_preferred":[
+        "Christiana"
+    ],
+    "name:hak_x_preferred":[
+        "Christiana"
+    ],
+    "name:ita_x_preferred":[
+        "Christiana"
+    ],
+    "name:nso_x_preferred":[
+        "Christiana"
+    ],
+    "name:pol_x_preferred":[
+        "Christiana"
+    ],
+    "name:rum_x_preferred":[
+        "Christiana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0430"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Christiana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.933333,
+    "wd:longitude":25.15,
+    "wd:wordcount":433,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013550,
+        "gp:id":1580352,
+        "qs:id":130257,
+        "qs_pg:id":130257,
+        "wd:id":"Q1082602",
+        "wk:page":"Christiana, North West"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7f03732ec039076370b29638001e5a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101926727,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926727,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Christiana",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:population":17523,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14562797546387,
+    -27.92657470703125,
+    25.17340278625488,
+    -27.90663719177246
+],
+  "geometry": {"coordinates":[[[25.15030097961426,-27.92599678039551],[25.14562797546387,-27.9212760925293],[25.14871978759766,-27.91852378845215],[25.1467456817627,-27.91552543640137],[25.15208625793457,-27.91127014160156],[25.15462303161621,-27.91351890563965],[25.16549682617188,-27.90663719177246],[25.16834831237793,-27.9101734161377],[25.17340278625488,-27.9146671295166],[25.17324066162109,-27.91480827331543],[25.16458511352539,-27.92101097106934],[25.15932083129883,-27.92527198791504],[25.15563583374023,-27.92657470703125],[25.15386009216309,-27.92644309997559],[25.15030097961426,-27.92599678039551]]],"type":"Polygon"}
+}

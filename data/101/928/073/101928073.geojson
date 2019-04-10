@@ -1,0 +1,122 @@
+{
+  "id": 101928073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000547,
+    "geom:area_square_m":5600828.607589,
+    "geom:bbox":"23.3621883392,-34.0831222534,23.3826141357,-34.0336837769",
+    "geom:latitude":-34.057449,
+    "geom:longitude":23.373254,
+    "gn:population":19445,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.050045,
+    "lbl:longitude":23.374956,
+    "mps:latitude":-34.050045,
+    "mps:longitude":23.374956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Plettenbergbaai"
+    ],
+    "name:chi_x_preferred":[
+        "\u666e\u5229\u767b\u5821\u7063"
+    ],
+    "name:dut_x_preferred":[
+        "Plettenbergbaai"
+    ],
+    "name:eng_x_preferred":[
+        "Plettenberg"
+    ],
+    "name:eng_x_variant":[
+        "Plettenberg Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Plettenberg Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Plettenberg Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Plettenberg Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30c3\u30c6\u30f3\u30d0\u30fc\u30b0\u30fb\u30d9\u30a4"
+    ],
+    "name:nso_x_preferred":[
+        "Plettenberg Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Plettenbergbaai"
+    ],
+    "name:unk_x_variant":[
+        "Formosa"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Plettenberg Bay",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-34.05,
+    "wd:longitude":23.366667,
+    "wd:wordcount":1349,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964712,
+        "gp:id":1586589,
+        "qs:id":1030260,
+        "qs_pg:id":1030260,
+        "wd:id":"Q922360",
+        "wk:page":"Plettenberg Bay"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f8d359b11dbe5c953ca5b455ceea5d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":101928073,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":101928073,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Plettenberg Bay",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:population":19445,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3621883392334,
+    -34.08312225341797,
+    23.38261413574219,
+    -34.03368377685547
+],
+  "geometry": {"coordinates":[[[23.37114524841309,-34.03891754150391],[23.3721752166748,-34.03802871704102],[23.3734188079834,-34.03693008422852],[23.37466812133789,-34.03584289550781],[23.37716293334961,-34.03368377685547],[23.38030815124512,-34.04226684570312],[23.38028335571289,-34.04241180419922],[23.38064193725586,-34.04318237304688],[23.3824520111084,-34.04812622070312],[23.3825511932373,-34.04917144775391],[23.38259506225586,-34.04992294311523],[23.38261413574219,-34.05056381225586],[23.38258743286133,-34.0518913269043],[23.38256454467773,-34.05231475830078],[23.38249778747559,-34.05286407470703],[23.38243675231934,-34.0533561706543],[23.38222694396973,-34.05450439453125],[23.38197135925293,-34.05564498901367],[23.38130950927734,-34.05789566040039],[23.38057899475098,-34.05991744995117],[23.38017463684082,-34.06091690063477],[23.37981033325195,-34.06172943115234],[23.37860870361328,-34.0637321472168],[23.37646675109863,-34.06722259521484],[23.37637710571289,-34.06745910644531],[23.37528419494629,-34.07032012939453],[23.37545776367188,-34.07424163818359],[23.37576675415039,-34.08123016357422],[23.37581062316895,-34.08221054077148],[23.37583160400391,-34.08267593383789],[23.37585067749023,-34.08312225341797],[23.36577987670898,-34.08247756958008],[23.36907005310059,-34.05515289306641],[23.3621883392334,-34.04375457763672],[23.363037109375,-34.04350662231445],[23.36496162414551,-34.0428352355957],[23.36677932739258,-34.0420036315918],[23.37114524841309,-34.03891754150391]]],"type":"Polygon"}
+}

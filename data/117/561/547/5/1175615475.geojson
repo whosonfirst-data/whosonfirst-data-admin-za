@@ -1,0 +1,116 @@
+{
+  "id": 1175615475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":727022.017467,
+    "geom:bbox":"31.6451301575,-27.9299907684,31.6569156647,-27.9006690979",
+    "geom:latitude":-27.915665,
+    "geom:longitude":31.650949,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.924936,
+    "lbl:longitude":31.651185,
+    "mps:latitude":-27.924936,
+    "mps:longitude":31.651185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Nongoma"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fb2\u6208\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "Nongoma"
+    ],
+    "name:eng_x_preferred":[
+        "Nongoma"
+    ],
+    "name:ger_x_preferred":[
+        "Nongoma"
+    ],
+    "name:ita_x_preferred":[
+        "Nongoma"
+    ],
+    "name:nso_x_preferred":[
+        "Nongoma"
+    ],
+    "name:rum_x_preferred":[
+        "Nongoma"
+    ],
+    "name:spa_x_preferred":[
+        "Nongoma"
+    ],
+    "name:swe_x_preferred":[
+        "Nongoma"
+    ],
+    "name:war_x_preferred":[
+        "Nongoma"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nongoma",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":802.0,
+    "wd:latitude":-27.883333,
+    "wd:longitude":31.633333,
+    "wd:wordcount":320,
+    "wof:belongsto":[
+        102191573,
+        101927557,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970133,
+        "gp:id":1590898,
+        "wd:id":"Q1996236",
+        "wk:page":"Nongoma"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"326b5b6f89ad20b74c1ae7a3027e7419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927557,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1175615475,
+    "wof:lastmodified":1534985998,
+    "wof:name":"Nongoma",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101927555,
+        101927557
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6451301574707,
+    -27.92999076843262,
+    31.65691566467285,
+    -27.90066909790039
+],
+  "geometry": {"coordinates":[[[[31.64958190917969,-27.92999076843262],[31.64779853820801,-27.92909812927246],[31.64703178405762,-27.92842483520508],[31.64600372314453,-27.92639923095703],[31.64649772644043,-27.92414093017578],[31.64998817443848,-27.92100715637207],[31.6502857208252,-27.92073822021484],[31.65307998657227,-27.92072486877441],[31.65665435791016,-27.92363929748535],[31.65691566467285,-27.92499160766602],[31.6551513671875,-27.92703056335449],[31.65217208862305,-27.92861366271973],[31.64958190917969,-27.92999076843262]]],[[[31.64638328552246,-27.90541839599609],[31.6489200592041,-27.90495491027832],[31.64889335632324,-27.90066909790039],[31.65219688415527,-27.90110397338867],[31.65322113037109,-27.90267753601074],[31.65324211120605,-27.90606117248535],[31.65402030944824,-27.90853881835938],[31.65505409240723,-27.91146659851074],[31.65532684326172,-27.91439819335938],[31.6535587310791,-27.91598510742188],[31.6496467590332,-27.91802787780762],[31.64918899536133,-27.91148376464844],[31.64590072631836,-27.90970611572266],[31.6451301574707,-27.90813064575195],[31.64537620544434,-27.90677642822266],[31.64638328552246,-27.90541839599609]]]],"type":"MultiPolygon"}
+}

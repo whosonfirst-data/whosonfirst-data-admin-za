@@ -1,0 +1,72 @@
+{
+  "id": 101923775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":2479622.281694,
+    "geom:bbox":"29.7552757263,-24.8742618561,29.7725963593,-24.8444499969",
+    "geom:latitude":-24.858525,
+    "geom:longitude":29.76392,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.860352,
+    "lbl:longitude":29.760443,
+    "mps:latitude":-24.860352,
+    "mps:longitude":29.760443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tlame",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581954
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1c59f9a68646fb6b896e34b3c0d88914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923775,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923775,
+    "wof:lastmodified":1500028376,
+    "wof:name":"Tlame",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75527572631836,
+    -24.8742618560791,
+    29.77259635925293,
+    -24.84444999694824
+],
+  "geometry": {"coordinates":[[[29.76362419128418,-24.8742618560791],[29.75527572631836,-24.85997200012207],[29.75929260253906,-24.85546875],[29.76325798034668,-24.84854507446289],[29.76680374145508,-24.84568405151367],[29.76946640014648,-24.84445190429688],[29.76991081237793,-24.84444999694824],[29.77169418334961,-24.84484672546387],[29.77259635925293,-24.84687423706055],[29.77083969116211,-24.85094451904297],[29.76774978637695,-24.85542678833008],[29.76420593261719,-24.8582878112793],[29.76646614074707,-24.8643684387207],[29.76827812194824,-24.8696403503418],[29.76362419128418,-24.8742618560791]]],"type":"Polygon"}
+}

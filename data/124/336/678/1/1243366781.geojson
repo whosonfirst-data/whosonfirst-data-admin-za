@@ -1,0 +1,74 @@
+{
+  "id": 1243366781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37854,-30.62243,30.37854,-30.62243",
+    "geom:latitude":-30.62243,
+    "geom:longitude":30.37854,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN213",
+    "gn:asciiname":"Frankland",
+    "gn:country_code":"ZA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003756,
+    "gn:latitude":-30.62243,
+    "gn:longitude":30.37854,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Frankland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franklin\u2019s Store",
+        "Franklins",
+        "Frankland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003756
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"678ecfe9a60b43e1085bd5ab13eb0114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1243366781,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1243366781,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Frankland",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37854,
+    -30.62243,
+    30.37854,
+    -30.62243
+],
+  "geometry": {"coordinates":[30.37854,-30.62243],"type":"Point"}
+}

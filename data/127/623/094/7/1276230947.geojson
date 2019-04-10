@@ -1,0 +1,73 @@
+{
+  "id": 1276230947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86478,-29.33454,30.86478,-29.33454",
+    "geom:latitude":-29.33454,
+    "geom:longitude":30.86478,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN221",
+    "gn:asciiname":"KwaNdlovu",
+    "gn:country_code":"ZA",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985484,
+    "gn:latitude":-29.33454,
+    "gn:longitude":30.86478,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaNdlovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noodsberg",
+        "KwaNdlovu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985484
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5dda8ee05deb5fe2b460b521dad11767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1276230947,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276230947,
+    "wof:lastmodified":1537716413,
+    "wof:name":"KwaNdlovu",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86478,
+    -29.33454,
+    30.86478,
+    -29.33454
+],
+  "geometry": {"coordinates":[30.86478,-29.33454],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310410579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6572,-33.99177,25.6572,-33.99177",
+    "geom:latitude":-33.99177,
+    "geom:longitude":25.6572,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"NMA",
+    "gn:admin3_code":"NMA",
+    "gn:asciiname":"Summerstrand",
+    "gn:country_code":"ZA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951466,
+    "gn:latitude":-33.99177,
+    "gn:longitude":25.6572,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Summerstrand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951466
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8e329a90ee2081d5577a865b3b90d602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730527,
+            "locality_id":1310410579,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310410579,
+    "wof:lastmodified":1537051723,
+    "wof:name":"Summerstrand",
+    "wof:parent_id":1108730527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6572,
+    -33.99177,
+    25.6572,
+    -33.99177
+],
+  "geometry": {"coordinates":[25.6572,-33.99177],"type":"Point"}
+}

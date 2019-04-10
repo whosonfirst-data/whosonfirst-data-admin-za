@@ -1,0 +1,91 @@
+{
+  "id": 101924999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":629489.822234,
+    "geom:bbox":"28.8374862671,-25.1635570526,28.8510379791,-25.1570549011",
+    "geom:latitude":-25.159789,
+    "geom:longitude":28.84434,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.159572,
+    "lbl:longitude":28.844211,
+    "mps:latitude":-25.159572,
+    "mps:longitude":28.844211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vaalbank"
+    ],
+    "name:dut_x_preferred":[
+        "Vaalbank"
+    ],
+    "name:eng_x_preferred":[
+        "Vaalbank"
+    ],
+    "name:nld_x_preferred":[
+        "Vaalbank"
+    ],
+    "name:nso_x_preferred":[
+        "Vaalbank"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vaalbank",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.155556,
+    "wd:longitude":28.846944,
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881049,
+        "wd:id":"Q2127917"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c334d0b6060da5c67d02c16d2bb6047b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924999,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924999,
+    "wof:lastmodified":1527670488,
+    "wof:name":"Vaalbank",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.83748626708984,
+    -25.1635570526123,
+    28.85103797912598,
+    -25.15705490112305
+],
+  "geometry": {"coordinates":[[[28.8416748046875,-25.15718650817871],[28.85103797912598,-25.15705490112305],[28.85103034973145,-25.16039085388184],[28.83788108825684,-25.16347885131836],[28.83748626708984,-25.1635570526123],[28.83806228637695,-25.1607608795166],[28.8416748046875,-25.15718650817871]]],"type":"Polygon"}
+}

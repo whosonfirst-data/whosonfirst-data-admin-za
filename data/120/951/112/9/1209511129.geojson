@@ -1,0 +1,63 @@
+{
+  "id": 1209511129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61873,-24.68975,29.61873,-24.68975",
+    "geom:latitude":-24.68975,
+    "geom:longitude":29.61873,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM473",
+    "gn:asciiname":"Mphake",
+    "gn:country_code":"ZA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973240,
+    "gn:latitude":-24.68975,
+    "gn:longitude":29.61873,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mphake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973240
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"66e63a9c76ecb5c41ed1c4e444f2cbf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209511129
+        }
+    ],
+    "wof:id":1209511129,
+    "wof:lastmodified":1536284878,
+    "wof:name":"Mphake",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61873,
+    -24.68975,
+    29.61873,
+    -24.68975
+],
+  "geometry": {"coordinates":[29.61873,-24.68975],"type":"Point"}
+}

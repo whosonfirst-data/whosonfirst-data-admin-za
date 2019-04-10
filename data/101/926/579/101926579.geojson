@@ -1,0 +1,131 @@
+{
+  "id": 101926579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:area_square_m":1711901.979557,
+    "geom:bbox":"25.3210639954,-27.1978130341,25.3384037018,-27.1784858704",
+    "geom:latitude":-27.18813,
+    "geom:longitude":25.329747,
+    "gn:population":70214,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.190826,
+    "lbl:longitude":25.331915,
+    "mps:latitude":-27.190826,
+    "mps:longitude":25.331915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:chi_x_preferred":[
+        "\u65bd\u97cb\u7b56\u723e\u96f7\u5167\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Schweizer Reneke"
+    ],
+    "name:eng_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:fre_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:ger_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:ita_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:nso_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:pol_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:rum_x_preferred":[
+        "Schweizer Reneke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0435\u0439\u0446\u0435\u0440-\u0420\u0435\u043d\u0435\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:unk_x_variant":[
+        "Schweizer-Reineke"
+    ],
+    "name:ven_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "name:wel_x_preferred":[
+        "Schweizer-Reneke"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Schweizer-Reneke",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.183333,
+    "wd:longitude":25.333333,
+    "wd:wordcount":490,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956907,
+        "gp:id":1587247,
+        "qs:id":84010,
+        "qs_pg:id":84010,
+        "wd:id":"Q2568047",
+        "wk:page":"Schweizer-Reneke"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"852ed05497f7ce5d8de73b3bf192caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101926579,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926579,
+    "wof:lastmodified":1527715819,
+    "wof:name":"Schweizer-Reneke",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:population":70214,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32106399536133,
+    -27.19781303405762,
+    25.33840370178223,
+    -27.17848587036133
+],
+  "geometry": {"coordinates":[[[25.32394218444824,-27.19781303405762],[25.32380485534668,-27.19727325439453],[25.32413864135742,-27.19667434692383],[25.32458114624023,-27.1955738067627],[25.32558441162109,-27.19447326660156],[25.32658576965332,-27.19297218322754],[25.32747650146484,-27.19167137145996],[25.3285083770752,-27.19045639038086],[25.32768630981445,-27.18899726867676],[25.324462890625,-27.18612861633301],[25.32106399536133,-27.18485832214355],[25.32141876220703,-27.18289375305176],[25.32186126708984,-27.18169403076172],[25.32263946533203,-27.18009376525879],[25.32353019714355,-27.17889213562012],[25.32520484924316,-27.1785888671875],[25.32665634155273,-27.17848587036133],[25.32777214050293,-27.1790828704834],[25.32807350158691,-27.18519401550293],[25.33047676086426,-27.18636894226074],[25.33051872253418,-27.1863956451416],[25.33204460144043,-27.18736457824707],[25.33304977416992,-27.18756294250488],[25.33438682556152,-27.18626022338867],[25.33516120910645,-27.18386077880859],[25.33549118041992,-27.18206214904785],[25.33593559265137,-27.18116188049316],[25.33649253845215,-27.18086051940918],[25.33705139160156,-27.18075942993164],[25.33783340454102,-27.18095779418945],[25.3383960723877,-27.18185615539551],[25.33839797973633,-27.18305397033691],[25.33840370178223,-27.18485260009766],[25.33785247802734,-27.18705177307129],[25.33674049377441,-27.18875312805176],[25.33573722839355,-27.18975448608398],[25.33540534973145,-27.19075393676758],[25.33588981628418,-27.19288444519043],[25.33157920837402,-27.19620513916016],[25.33074951171875,-27.19684600830078],[25.32394218444824,-27.19781303405762]]],"type":"Polygon"}
+}

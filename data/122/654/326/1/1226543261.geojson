@@ -1,0 +1,67 @@
+{
+  "id": 1226543261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09875,-30.92949,30.09875,-30.92949",
+    "geom:latitude":-30.92949,
+    "geom:longitude":30.09875,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kwanyana",
+    "gn:country_code":"ZA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985346,
+    "gn:latitude":-30.92949,
+    "gn:longitude":30.09875,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kwanyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985346
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fe81dbd27625c5017486402ca56898a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1226543261,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1226543261,
+    "wof:lastmodified":1537000835,
+    "wof:name":"Kwanyana",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09875,
+    -30.92949,
+    30.09875,
+    -30.92949
+],
+  "geometry": {"coordinates":[30.09875,-30.92949],"type":"Point"}
+}

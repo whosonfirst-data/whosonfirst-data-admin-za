@@ -1,0 +1,73 @@
+{
+  "id": 1242776975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74407,-31.28164,29.74407,-31.28164",
+    "geom:latitude":-31.28164,
+    "geom:longitude":29.74407,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Mjombela",
+    "gn:country_code":"ZA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975611,
+    "gn:latitude":-31.28164,
+    "gn:longitude":29.74407,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mjombela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlobela",
+        "Mjombela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975611
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"32ce640efddbc26efba37a59537f3052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1242776975,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1242776975,
+    "wof:lastmodified":1537716400,
+    "wof:name":"Mjombela",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74407,
+    -31.28164,
+    29.74407,
+    -31.28164
+],
+  "geometry": {"coordinates":[29.74407,-31.28164],"type":"Point"}
+}

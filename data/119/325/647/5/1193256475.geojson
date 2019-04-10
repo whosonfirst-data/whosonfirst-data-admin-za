@@ -1,0 +1,73 @@
+{
+  "id": 1193256475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24398,-31.53758,18.24398,-31.53758",
+    "geom:latitude":-31.53758,
+    "geom:longitude":18.24398,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC011",
+    "gn:asciiname":"Tahiti",
+    "gn:country_code":"ZA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3360652,
+    "gn:latitude":-31.53758,
+    "gn:longitude":18.24398,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tahiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Voorbeeld Nedersetting",
+        "Tahiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360652
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d7bedc4b49cf19043dbe62ec7c21a875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1193256475,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1193256475,
+    "wof:lastmodified":1537716441,
+    "wof:name":"Tahiti",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24398,
+    -31.53758,
+    18.24398,
+    -31.53758
+],
+  "geometry": {"coordinates":[18.24398,-31.53758],"type":"Point"}
+}

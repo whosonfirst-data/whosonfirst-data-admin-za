@@ -1,0 +1,69 @@
+{
+  "id": 1309790291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36224,-23.79547,29.36224,-23.79547",
+    "geom:latitude":-23.79547,
+    "geom:longitude":29.36224,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Kgohlwane",
+    "gn:country_code":"ZA",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991205,
+    "gn:latitude":-23.79547,
+    "gn:longitude":29.36224,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kgohlwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991205
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0991a059434b211bd35a58b3f0e24f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1309790291,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1309790291,
+    "wof:lastmodified":1536953543,
+    "wof:name":"Kgohlwane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36224,
+    -23.79547,
+    29.36224,
+    -23.79547
+],
+  "geometry": {"coordinates":[29.36224,-23.79547],"type":"Point"}
+}

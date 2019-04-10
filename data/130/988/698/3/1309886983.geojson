@@ -1,0 +1,73 @@
+{
+  "id": 1309886983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74232,-33.72327,22.74232,-33.72327",
+    "geom:latitude":-33.72327,
+    "geom:longitude":22.74232,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Rusoord",
+    "gn:country_code":"ZA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":958780,
+    "gn:latitude":-33.72327,
+    "gn:longitude":22.74232,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rusoord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rustoord",
+        "Rusoord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958780
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4f02e359c8868e91db23e9ed3f74e8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1309886983,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1309886983,
+    "wof:lastmodified":1537716381,
+    "wof:name":"Rusoord",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74232,
+    -33.72327,
+    22.74232,
+    -33.72327
+],
+  "geometry": {"coordinates":[22.74232,-33.72327],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101928209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1270567.514211,
+    "geom:bbox":"29.8047409058,-30.3634243011,29.8198661804,-30.3504085541",
+    "geom:latitude":-30.356585,
+    "geom:longitude":29.81219,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.355757,
+    "lbl:longitude":29.812334,
+    "mps:latitude":-30.355757,
+    "mps:longitude":29.812334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chancele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588433
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f5941138449e0d35c10c8d6ec5fafcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928209,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928209,
+    "wof:lastmodified":1500027563,
+    "wof:name":"Chancele",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80474090576172,
+    -30.36342430114746,
+    29.81986618041992,
+    -30.35040855407715
+],
+  "geometry": {"coordinates":[[[29.8070125579834,-30.35711097717285],[29.8048210144043,-30.35562705993652],[29.80902862548828,-30.35149192810059],[29.81398010253906,-30.35040855407715],[29.81631278991699,-30.35110473632812],[29.81732177734375,-30.35381889343262],[29.81756591796875,-30.35517311096191],[29.81963729858398,-30.35586738586426],[29.81986618041992,-30.35857582092285],[29.8193302154541,-30.35992431640625],[29.81308555603027,-30.36032104492188],[29.81072998046875,-30.36165237426758],[29.80706977844238,-30.36342430114746],[29.80474090576172,-30.36250305175781],[29.80527877807617,-30.36092948913574],[29.80867958068848,-30.35915565490723],[29.8070125579834,-30.35711097717285]]],"type":"Polygon"}
+}

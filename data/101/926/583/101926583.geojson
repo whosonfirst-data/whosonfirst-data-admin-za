@@ -1,0 +1,73 @@
+{
+  "id": 101926583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":645434.145262,
+    "geom:bbox":"25.2987728119,-27.2065067291,25.3088474274,-27.1970920563",
+    "geom:latitude":-27.200953,
+    "geom:longitude":25.304585,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.200675,
+    "lbl:longitude":25.304993,
+    "mps:latitude":-27.200675,
+    "mps:longitude":25.304993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ipelegeng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881061
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"aecb21bac4f07dd714128f96f4cc7934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101926583,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101926583,
+    "wof:lastmodified":1527715819,
+    "wof:name":"Ipelegeng",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29877281188965,
+    -27.20650672912598,
+    25.30884742736816,
+    -27.19709205627441
+],
+  "geometry": {"coordinates":[[[25.29877281188965,-27.19740295410156],[25.30758285522461,-27.19709205627441],[25.30884552001953,-27.20150184631348],[25.30884742736816,-27.20240211486816],[25.30840301513672,-27.20320129394531],[25.30561828613281,-27.20640563964844],[25.30461120605469,-27.20650672912598],[25.30393981933594,-27.20580863952637],[25.29877281188965,-27.19740295410156]]],"type":"Polygon"}
+}

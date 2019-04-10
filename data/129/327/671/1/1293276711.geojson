@@ -1,0 +1,72 @@
+{
+  "id": 1293276711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.62202,-24.30971,29.62202,-24.30971",
+    "geom:latitude":-24.30971,
+    "geom:longitude":29.62202,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Mphahlele 2",
+    "gn:country_code":"ZA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003116,
+    "gn:latitude":-24.30971,
+    "gn:longitude":29.62202,
+    "gn:modification_date":"2014-11-08",
+    "gn:name":"Mphahlele 2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ga-Mphahlele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003116
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8e5ef755f0dc5a93d1aa0747bbcae4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1293276711,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1293276711,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Mphahlele 2",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.62202000000001,
+    -24.30971,
+    29.62202000000001,
+    -24.30971
+],
+  "geometry": {"coordinates":[29.62202000000001,-24.30971],"type":"Point"}
+}

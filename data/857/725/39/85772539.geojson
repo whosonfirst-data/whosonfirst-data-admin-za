@@ -1,0 +1,114 @@
+{
+  "id": 85772539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00073,
+    "geom:area_square_m":7484317.870095,
+    "geom:bbox":"18.4721404677,-34.0545764913,18.5012899169,-34.0185182907",
+    "geom:latitude":-34.03557,
+    "geom:longitude":18.486619,
+    "gn:latitude":-34.03387,
+    "gn:longitude":18.48593,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.034487,
+    "lbl:longitude":18.482876,
+    "mps:latitude":-34.036039,
+    "mps:longitude":18.486342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Southfield"
+    ],
+    "name:pol_x_preferred":[
+        "Southfield"
+    ],
+    "name:unk_x_variant":[
+        "Southfield"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Southfield",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Southfield",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":24,
+    "qs:photo_sum":36,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361324,
+        "gp:id":1587668,
+        "qs:id":189353,
+        "qs_pg:id":189353
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d4789d96b7b3df9e3a3ecc302a5893b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772539,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772539,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497312372,
+    "wof:name":"Southfield",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47214046773564,
+    -34.05457649133708,
+    18.50128991694453,
+    -34.01851829072487
+],
+  "geometry": {"coordinates":[[[18.50128991694453,-34.03617075319868],[18.49540158659249,-34.05038326447499],[18.49007204624559,-34.05038326447499],[18.48999023437506,-34.05044909394326],[18.47973129988674,-34.05457649133708],[18.47625732422512,-34.05038363097488],[18.47625732422512,-34.03900437367489],[18.47250674536093,-34.03598697707547],[18.47216014331059,-34.03484438324099],[18.47214046773564,-34.0348605305682],[18.47308074721462,-34.03145678606275],[18.47437076676783,-34.02990023494986],[18.47797213071482,-34.02120958106941],[18.47900390627501,-34.02079463072492],[18.48072355059156,-34.02079463072492],[18.48449707032512,-34.01851829072487],[18.49609427927339,-34.01851829072487],[18.49648244767519,-34.01924450272634],[18.49705150515427,-34.02112043382977],[18.49724365235011,-34.0230713370499],[18.49705150515427,-34.02502224027003],[18.49695278498632,-34.02534767704977],[18.49705150515427,-34.0256731138297],[18.49724365235011,-34.02762401704982],[18.49705150515427,-34.02957492027013],[18.49648244767519,-34.03145085137356],[18.49622198026469,-34.0319381516242],[18.49623263951435,-34.0319413850722],[18.49656365072383,-34.03204179622484],[18.49829251873035,-34.03296589542698],[18.49980788421198,-34.03420952373806],[18.50105151252308,-34.03572488921987],[18.50128984366643,-34.03617077542729],[18.50128991694453,-34.03617075319868]]],"type":"Polygon"}
+}

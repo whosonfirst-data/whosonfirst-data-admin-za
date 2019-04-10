@@ -1,0 +1,100 @@
+{
+  "id": 101925373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":2607698.951692,
+    "geom:bbox":"26.6784610748,-25.650220871,26.7024002075,-25.6354694366",
+    "geom:latitude":-25.643465,
+    "geom:longitude":26.690433,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.644111,
+    "lbl:longitude":26.694252,
+    "mps:latitude":-25.644111,
+    "mps:longitude":26.694252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:dut_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:eng_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:ger_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:nso_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:rum_x_preferred":[
+        "Swartruggens"
+    ],
+    "name:unk_x_variant":[
+        "Rodeon"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Swartruggens",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-25.65,
+    "wd:longitude":26.7,
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950833,
+        "gp:id":1589168,
+        "qs:id":383934,
+        "wd:id":"Q3643036",
+        "wk:page":"Swartruggens"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a6085b85d49ea939d2922591f2bb8ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925373,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925373,
+    "wof:lastmodified":1527688524,
+    "wof:name":"Swartruggens",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6784610748291,
+    -25.65022087097168,
+    26.70240020751953,
+    -25.63546943664551
+],
+  "geometry": {"coordinates":[[[26.6852912902832,-25.64861869812012],[26.68048095703125,-25.65022087097168],[26.6784610748291,-25.64692115783691],[26.68188285827637,-25.64097595214844],[26.67981719970703,-25.63668441772461],[26.68656349182129,-25.63546943664551],[26.69017601013184,-25.6426944732666],[26.69311332702637,-25.63788986206055],[26.70240020751953,-25.63914108276367],[26.70134353637695,-25.64924240112305],[26.69902420043945,-25.64900779724121],[26.6938362121582,-25.64879417419434],[26.69207572937012,-25.64862823486328],[26.68864250183105,-25.64830207824707],[26.6852912902832,-25.64861869812012]]],"type":"Polygon"}
+}

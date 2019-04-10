@@ -1,0 +1,63 @@
+{
+  "id": 1209310267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25264,-22.83531,30.25264,-22.83531",
+    "geom:latitude":-22.83531,
+    "geom:longitude":30.25264,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM342",
+    "gn:asciiname":"Makuleni",
+    "gn:country_code":"ZA",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979928,
+    "gn:latitude":-22.83531,
+    "gn:longitude":30.25264,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Makuleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979928
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"50a791694992616f4eb3e1ef24cda0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209310267
+        }
+    ],
+    "wof:id":1209310267,
+    "wof:lastmodified":1536291053,
+    "wof:name":"Makuleni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.252640000000003,
+    -22.83531,
+    30.252640000000003,
+    -22.83531
+],
+  "geometry": {"coordinates":[30.25264,-22.83531],"type":"Point"}
+}

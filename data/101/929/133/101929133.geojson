@@ -1,0 +1,72 @@
+{
+  "id": 101929133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":1677298.545376,
+    "geom:bbox":"27.3223457336,-32.9436950684,27.3422031403,-32.9307975769",
+    "geom:latitude":-32.937836,
+    "geom:longitude":27.332881,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.938711,
+    "lbl:longitude":27.33307,
+    "mps:latitude":-32.938711,
+    "mps:longitude":27.33307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaMasele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584639
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e845efd1cddcdb38d6d9ad4b73915249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929133,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929133,
+    "wof:lastmodified":1500027835,
+    "wof:name":"KwaMasele",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32234573364258,
+    -32.94369506835938,
+    27.34220314025879,
+    -32.9307975769043
+],
+  "geometry": {"coordinates":[[[27.32534980773926,-32.94099426269531],[27.32234573364258,-32.94039535522461],[27.32412147521973,-32.93375015258789],[27.32598686218262,-32.93341445922852],[27.33123016357422,-32.93367385864258],[27.33312034606934,-32.93491744995117],[27.33460807800293,-32.93426895141602],[27.33455657958984,-32.9307975769043],[27.33981323242188,-32.9320068359375],[27.33987045288086,-32.93579483032227],[27.3410472869873,-32.93956756591797],[27.34220314025879,-32.94176483154297],[27.34184837341309,-32.94303131103516],[27.33886337280273,-32.94369506835938],[27.32534980773926,-32.94099426269531]]],"type":"Polygon"}
+}

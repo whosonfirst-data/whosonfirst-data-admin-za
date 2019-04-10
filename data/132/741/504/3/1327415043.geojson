@@ -1,0 +1,69 @@
+{
+  "id": 1327415043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56707,-32.29173,18.56707,-32.29173",
+    "geom:latitude":-32.29173,
+    "geom:longitude":18.56707,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC1",
+    "gn:admin3_code":"WC012",
+    "gn:asciiname":"Sandberg",
+    "gn:country_code":"ZA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3361904,
+    "gn:latitude":-32.29173,
+    "gn:longitude":18.56707,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Sandberg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361904
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c6c6defe4db9a6ce154f9b6eb287f3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1327415043,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1327415043,
+    "wof:lastmodified":1536706130,
+    "wof:name":"Sandberg",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56707,
+    -32.29173,
+    18.56707,
+    -32.29173
+],
+  "geometry": {"coordinates":[18.56707,-32.29173],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259788151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35019,-31.89806,27.35019,-31.89806",
+    "geom:latitude":-31.89806,
+    "geom:longitude":27.35019,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC135",
+    "gn:asciiname":"KuDudumashe",
+    "gn:country_code":"ZA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":986566,
+    "gn:latitude":-31.89806,
+    "gn:longitude":27.35019,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KuDudumashe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dudumashe",
+        "KuDudumashe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":986566
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3c2e4d57ead660567c0ff45934010617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1259788151,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259788151,
+    "wof:lastmodified":1537716416,
+    "wof:name":"KuDudumashe",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35019,
+    -31.89806,
+    27.35019,
+    -31.89806
+],
+  "geometry": {"coordinates":[27.35019,-31.89806],"type":"Point"}
+}

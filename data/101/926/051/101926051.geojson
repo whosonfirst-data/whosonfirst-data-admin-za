@@ -1,0 +1,70 @@
+{
+  "id": 101926051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":374127.907489,
+    "geom:bbox":"28.0965080261,-26.3018054962,28.1068305969,-26.2962493896",
+    "geom:latitude":-26.29955,
+    "geom:longitude":28.101934,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.299394,
+    "lbl:longitude":28.102032,
+    "mps:latitude":-26.299394,
+    "mps:longitude":28.102032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Meyersdal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"1b7a41fe5120bd01984ab46fec8e656d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926051,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926051,
+    "wof:lastmodified":1500027694,
+    "wof:name":"Meyersdal",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09650802612305,
+    -26.30180549621582,
+    28.10683059692383,
+    -26.29624938964844
+],
+  "geometry": {"coordinates":[[[28.09650802612305,-26.29963684082031],[28.1047420501709,-26.29624938964844],[28.10683059692383,-26.30102729797363],[28.09744453430176,-26.30180549621582],[28.09724044799805,-26.30133247375488],[28.09650802612305,-26.29963684082031]]],"type":"Polygon"}
+}

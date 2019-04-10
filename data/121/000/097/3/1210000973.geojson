@@ -1,0 +1,73 @@
+{
+  "id": 1210000973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.89208,-23.80169,28.89208,-23.80169",
+    "geom:latitude":-23.80169,
+    "geom:longitude":28.89208,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM352",
+    "gn:asciiname":"Limburg",
+    "gn:country_code":"ZA",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":982775,
+    "gn:latitude":-23.80169,
+    "gn:longitude":28.89208,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Limburg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limberg",
+        "Limburg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982775
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2cd668189b45770517af78aaba2898e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1210000973,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1210000973,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Limburg",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89208,
+    -23.80169,
+    28.89208,
+    -23.80169
+],
+  "geometry": {"coordinates":[28.89208,-23.80169],"type":"Point"}
+}

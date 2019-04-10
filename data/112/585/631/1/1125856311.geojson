@@ -1,0 +1,105 @@
+{
+  "id": 1125856311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58045,-32.00115,27.58045,-32.00115",
+    "geom:latitude":-32.00115,
+    "geom:longitude":27.58045,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.00115,
+    "lbl:longitude":27.58045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:cat_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u83f2\u59c6\u6cd5\u5df4"
+    ],
+    "name:dut_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:eng_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:ita_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d5\u30a3\u30f3\u30d0\u30d0"
+    ],
+    "name:nso_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:rum_x_preferred":[
+        "Cofimvaba"
+    ],
+    "name:ven_x_preferred":[
+        "Cofimvaba"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1013125,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cofimvaba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":274982,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013125,
+        "qs_pg:id":274982,
+        "wd:id":"Q3643067"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293635,
+    "wof:geomhash":"a5fe49764699ce9f46c8002f336b359a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125856311,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125856311,
+    "wof:lastmodified":1514503546,
+    "wof:name":"Cofimvaba",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58045,
+    -32.00115,
+    27.58045,
+    -32.00115
+],
+  "geometry": {"coordinates":[27.58045,-32.00115],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276447207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12342,-30.75551,29.12342,-30.75551",
+    "geom:latitude":-30.75551,
+    "geom:longitude":29.12342,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Ngwekazana",
+    "gn:country_code":"ZA",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970893,
+    "gn:latitude":-30.75551,
+    "gn:longitude":29.12342,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngwekazana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engwekazana",
+        "Ngwenyazana",
+        "Ngwekazana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970893
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8a60b4c2e942845fa3630ff1d8e6b009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1276447207,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276447207,
+    "wof:lastmodified":1537716392,
+    "wof:name":"Ngwekazana",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12342,
+    -30.75551,
+    29.12342,
+    -30.75551
+],
+  "geometry": {"coordinates":[29.12342,-30.75551],"type":"Point"}
+}

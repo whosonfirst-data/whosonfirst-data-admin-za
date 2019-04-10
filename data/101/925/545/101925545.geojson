@@ -1,0 +1,72 @@
+{
+  "id": 101925545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":609054.11019,
+    "geom:bbox":"29.2000083923,-25.8368339539,29.2101860046,-25.8276443481",
+    "geom:latitude":-25.832323,
+    "geom:longitude":29.205005,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.832376,
+    "lbl:longitude":29.204928,
+    "mps:latitude":-25.832376,
+    "mps:longitude":29.204928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Witbank Aerodrome",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591643
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d38bbd70d5b69678fc89df1872c209f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925545,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925545,
+    "wof:lastmodified":1500026373,
+    "wof:name":"Witbank Aerodrome",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20000839233398,
+    -25.83683395385742,
+    29.21018600463867,
+    -25.82764434814453
+],
+  "geometry": {"coordinates":[[[29.20000839233398,-25.83077621459961],[29.2069263458252,-25.82764434814453],[29.21018600463867,-25.83262825012207],[29.20497131347656,-25.83666038513184],[29.2034740447998,-25.83683395385742],[29.20130348205566,-25.83514976501465],[29.20134735107422,-25.83474349975586],[29.20134925842285,-25.83419799804688],[29.2012996673584,-25.83365631103516],[29.20119667053223,-25.8331184387207],[29.20104026794434,-25.83259201049805],[29.20083236694336,-25.83207893371582],[29.20057678222656,-25.83158493041992],[29.20027351379395,-25.83111381530762],[29.20000839233398,-25.83077621459961]]],"type":"Polygon"}
+}

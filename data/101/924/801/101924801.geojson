@@ -1,0 +1,72 @@
+{
+  "id": 101924801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":137410.591102,
+    "geom:bbox":"24.9953651428,-29.4117279053,25.0,-29.4062232971",
+    "geom:latitude":-29.409539,
+    "geom:longitude":24.998455,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.409737,
+    "lbl:longitude":24.99849,
+    "mps:latitude":-29.409737,
+    "mps:longitude":24.99849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ditlhake",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582945
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fbdc9459a00d962766f213d931266f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101924801,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101924801,
+    "wof:lastmodified":1500027649,
+    "wof:name":"Ditlhake",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99536514282227,
+    -29.41172790527344,
+    25.0,
+    -29.40622329711914
+],
+  "geometry": {"coordinates":[[[25.0,-29.40622329711914],[25.0,-29.41172790527344],[24.99536514282227,-29.41066551208496],[25.0,-29.40622329711914]]],"type":"Polygon"}
+}

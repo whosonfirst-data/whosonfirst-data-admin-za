@@ -1,0 +1,63 @@
+{
+  "id": 1209209461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33533,-24.18674,29.33533,-24.18674",
+    "geom:latitude":-24.18674,
+    "geom:longitude":29.33533,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Bergnek",
+    "gn:country_code":"ZA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019995,
+    "gn:latitude":-24.18674,
+    "gn:longitude":29.33533,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Bergnek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019995
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0efe147ab98701dfcade4be4c3e5f9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209209461
+        }
+    ],
+    "wof:id":1209209461,
+    "wof:lastmodified":1536294338,
+    "wof:name":"Bergnek",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33533,
+    -24.18674,
+    29.33533,
+    -24.18674
+],
+  "geometry": {"coordinates":[29.33533,-24.18674],"type":"Point"}
+}

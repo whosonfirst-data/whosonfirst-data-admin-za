@@ -1,0 +1,122 @@
+{
+  "id": 101927759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000068,
+    "geom:area_square_m":734361.325312,
+    "geom:bbox":"30.0,-29.2150325775,30.0053215027,-29.1988716125",
+    "geom:latitude":-29.207371,
+    "geom:longitude":30.002148,
+    "gn:population":10132,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.207412,
+    "lbl:longitude":30.002097,
+    "mps:latitude":-29.207412,
+    "mps:longitude":30.002097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:dut_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:eng_x_preferred":[
+        "Mooi River"
+    ],
+    "name:fre_x_preferred":[
+        "Mooi River"
+    ],
+    "name:ger_x_preferred":[
+        "Mooi River"
+    ],
+    "name:ita_x_preferred":[
+        "Mooi River"
+    ],
+    "name:nso_x_preferred":[
+        "Mooi River"
+    ],
+    "name:pol_x_preferred":[
+        "Mooi River"
+    ],
+    "name:rum_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:sot_x_preferred":[
+        "Mooi River"
+    ],
+    "name:swe_x_preferred":[
+        "Mooi River"
+    ],
+    "name:tsn_x_preferred":[
+        "Mooi River"
+    ],
+    "name:unk_x_variant":[
+        "Mooirivier"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mooi River",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974222,
+        "gp:id":1585313,
+        "wd:id":"Q1946653",
+        "wk:page":"Mooi River (town)"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c18b503b0a94eb292b8c4e20288c7ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927759,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927759,
+    "wof:lastmodified":1553815588,
+    "wof:name":"Mooi River",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:population":10132,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615735
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0,
+    -29.21503257751465,
+    30.00532150268555,
+    -29.19887161254883
+],
+  "geometry": {"coordinates":[[[30.0,-29.19903755187988],[30.0037727355957,-29.19887161254883],[30.0040168762207,-29.20563888549805],[30.00471687316895,-29.21308708190918],[30.00532150268555,-29.21503257751465],[30.0,-29.21492195129395],[30.0,-29.19903755187988]]],"type":"Polygon"}
+}

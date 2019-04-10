@@ -1,0 +1,72 @@
+{
+  "id": 101926903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:area_square_m":2334554.572848,
+    "geom:bbox":"28.8891963959,-28.6325969696,28.9032707214,-28.6158885956",
+    "geom:latitude":-28.624191,
+    "geom:longitude":28.896457,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.624058,
+    "lbl:longitude":28.896363,
+    "mps:latitude":-28.624058,
+    "mps:longitude":28.896363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tsheseng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582113
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d53a371f9cda74ed93fe0985964cc5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926903,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926903,
+    "wof:lastmodified":1500027667,
+    "wof:name":"Tsheseng",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.88919639587402,
+    -28.63259696960449,
+    28.90327072143555,
+    -28.61588859558105
+],
+  "geometry": {"coordinates":[[[28.88952255249023,-28.62798118591309],[28.88919639587402,-28.627197265625],[28.89004707336426,-28.61641502380371],[28.90327072143555,-28.61588859558105],[28.90281105041504,-28.63157844543457],[28.90169525146484,-28.63259696960449],[28.89139556884766,-28.63243865966797],[28.88983726501465,-28.62873649597168],[28.88952255249023,-28.62798118591309]]],"type":"Polygon"}
+}

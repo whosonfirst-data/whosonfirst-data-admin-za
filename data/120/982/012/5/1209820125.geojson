@@ -1,0 +1,73 @@
+{
+  "id": 1209820125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0608,-31.47228,28.0608,-31.47228",
+    "geom:latitude":-31.47228,
+    "geom:longitude":28.0608,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Sundwane",
+    "gn:country_code":"ZA",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951439,
+    "gn:latitude":-31.47228,
+    "gn:longitude":28.0608,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sundwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sundwana",
+        "Sundwane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951439
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9a076cf0203eb76bb8b308ecb50c78f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1209820125,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1209820125,
+    "wof:lastmodified":1537716376,
+    "wof:name":"Sundwane",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0608,
+    -31.47228,
+    28.0608,
+    -31.47228
+],
+  "geometry": {"coordinates":[28.0608,-31.47228],"type":"Point"}
+}

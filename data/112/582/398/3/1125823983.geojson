@@ -1,0 +1,110 @@
+{
+  "id": 1125823983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.99471,-25.61692,27.99471,-25.61692",
+    "geom:latitude":-25.61692,
+    "geom:longitude":27.99471,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":68767,
+    "gn:population":68767,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.61692,
+    "lbl:longitude":27.99471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "name:dut_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "name:eng_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "name:fre_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "name:ger_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "name:pol_x_preferred":[
+        "Garankuwa"
+    ],
+    "name:rum_x_preferred":[
+        "Ga-Rankuwa"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1002851,
+    "qs_pg:gn_pop":68767,
+    "qs_pg:name":"Ga-Rankuwa",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":193849,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581578,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002851,
+        "gp:id":1581578,
+        "qs_pg:id":193849,
+        "wd:id":"Q2468130"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292191,
+    "wof:geomhash":"367019e9a8c284291e5c61b599dab98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1125823983,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125823983,
+    "wof:lastmodified":1514503876,
+    "wof:name":"Ga-Rankuwa",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:population":68767,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.99471,
+    -25.61692,
+    27.99471,
+    -25.61692
+],
+  "geometry": {"coordinates":[27.99471,-25.61692],"type":"Point"}
+}

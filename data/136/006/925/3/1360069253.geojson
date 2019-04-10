@@ -1,0 +1,73 @@
+{
+  "id": 1360069253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.12287,-27.13844,23.12287,-27.13844",
+    "geom:latitude":-27.13844,
+    "geom:longitude":23.12287,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maipeeng",
+    "gn:country_code":"ZA",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980204,
+    "gn:latitude":-27.13844,
+    "gn:longitude":23.12287,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maipeeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maipeng",
+        "Maipin",
+        "Maipeing",
+        "Maipeeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980204
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"42ff7fec6d29c38cb3f67fed63d648ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1360069253,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1360069253,
+    "wof:lastmodified":1537716407,
+    "wof:name":"Maipeeng",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12287,
+    -27.13844000000001,
+    23.12287,
+    -27.13844000000001
+],
+  "geometry": {"coordinates":[23.12287,-27.13844000000001],"type":"Point"}
+}

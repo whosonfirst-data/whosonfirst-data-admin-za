@@ -1,0 +1,73 @@
+{
+  "id": 1277165451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12023,-34.58022,20.12023,-34.58022",
+    "geom:latitude":-34.58022,
+    "geom:longitude":20.12023,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC033",
+    "gn:asciiname":"Nacht Wacht",
+    "gn:country_code":"ZA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972200,
+    "gn:latitude":-34.58022,
+    "gn:longitude":20.12023,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nacht Wacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag Wag",
+        "Nacht Wacht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fb014b155563fc45845b6847f998bdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1277165451,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1277165451,
+    "wof:lastmodified":1537716395,
+    "wof:name":"Nacht Wacht",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12023,
+    -34.58022,
+    20.12023,
+    -34.58022
+],
+  "geometry": {"coordinates":[20.12023,-34.58022],"type":"Point"}
+}

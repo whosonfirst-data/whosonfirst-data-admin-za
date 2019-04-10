@@ -1,0 +1,69 @@
+{
+  "id": 1259957967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,-33.38333,19.5,-33.38333",
+    "geom:latitude":-33.38333,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC2",
+    "gn:admin3_code":"WC022",
+    "gn:asciiname":"Grootrivier",
+    "gn:country_code":"ZA",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3367215,
+    "gn:latitude":-33.38333,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Grootrivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367215
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"371c2ae794ee50a2399c36d385195ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1259957967,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1259957967,
+    "wof:lastmodified":1536671869,
+    "wof:name":"Grootrivier",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    -33.38333,
+    19.5,
+    -33.38333
+],
+  "geometry": {"coordinates":[19.5,-33.38333],"type":"Point"}
+}

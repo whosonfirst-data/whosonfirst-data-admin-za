@@ -1,0 +1,74 @@
+{
+  "id": 1175615587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1041943.641965,
+    "geom:bbox":"28.1729927063,-26.3875751495,28.1944923401,-26.3738498688",
+    "geom:latitude":-26.381841,
+    "geom:longitude":28.181562,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.381701,
+    "lbl:longitude":28.177443,
+    "mps:latitude":-26.381701,
+    "mps:longitude":28.177443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MOLELEKI",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        101926167,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"e41e422c916d5ba9e25013d67a1ab28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926167,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1175615587,
+    "wof:lastmodified":1534986003,
+    "wof:name":"Moleleki",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101926169,
+        101926167
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17299270629883,
+    -26.38757514953613,
+    28.19449234008789,
+    -26.37384986877441
+],
+  "geometry": {"coordinates":[[[[28.18842315673828,-26.38757514953613],[28.18609237670898,-26.38100814819336],[28.19449234008789,-26.38079643249512],[28.19328689575195,-26.38747024536133],[28.18842315673828,-26.38757514953613]]],[[[28.17635345458984,-26.37384986877441],[28.1819953918457,-26.37653160095215],[28.18024253845215,-26.38748741149902],[28.17438316345215,-26.38749313354492],[28.17338180541992,-26.38311386108398],[28.17326927185059,-26.38162040710449],[28.17448234558105,-26.3796272277832],[28.17299270629883,-26.37677192687988],[28.17329788208008,-26.37554359436035],[28.17635345458984,-26.37384986877441]]]],"type":"MultiPolygon"}
+}

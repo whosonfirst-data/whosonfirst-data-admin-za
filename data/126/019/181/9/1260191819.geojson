@@ -1,0 +1,73 @@
+{
+  "id": 1260191819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82143,-29.99146,30.82143,-29.99146",
+    "geom:latitude":-29.99146,
+    "geom:longitude":30.82143,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Gologodo",
+    "gn:country_code":"ZA",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1000981,
+    "gn:latitude":-29.99146,
+    "gn:longitude":30.82143,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Gologodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golokodo",
+        "Gologodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1000981
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c8010e44437e1ac4abba947f4699f6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1260191819,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1260191819,
+    "wof:lastmodified":1537716425,
+    "wof:name":"Gologodo",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82143,
+    -29.99146,
+    30.82143,
+    -29.99146
+],
+  "geometry": {"coordinates":[30.82143,-29.99146],"type":"Point"}
+}

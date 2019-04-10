@@ -1,0 +1,69 @@
+{
+  "id": 1193002063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8438,-25.81555,25.8438,-25.81555",
+    "geom:latitude":-25.81555,
+    "geom:longitude":25.8438,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Slurry",
+    "gn:country_code":"ZA",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":954626,
+    "gn:latitude":-25.81555,
+    "gn:longitude":25.8438,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Slurry",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":954626
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f41847b4d4c654dcd758e4acd9ab4240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1193002063,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1193002063,
+    "wof:lastmodified":1536369447,
+    "wof:name":"Slurry",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8438,
+    -25.81555,
+    25.8438,
+    -25.81555
+],
+  "geometry": {"coordinates":[25.8438,-25.81555],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243374949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20812,-29.28161,27.20812,-29.28161",
+    "geom:latitude":-29.28161,
+    "geom:longitude":27.20812,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Sibylia",
+    "gn:country_code":"ZA",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955838,
+    "gn:latitude":-29.28161,
+    "gn:longitude":27.20812,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sibylia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955838
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4184da0468d75044f7076a1df3aec7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1243374949,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1243374949,
+    "wof:lastmodified":1536908956,
+    "wof:name":"Sibylia",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20812,
+    -29.28161,
+    27.20812,
+    -29.28161
+],
+  "geometry": {"coordinates":[27.20812,-29.28161],"type":"Point"}
+}

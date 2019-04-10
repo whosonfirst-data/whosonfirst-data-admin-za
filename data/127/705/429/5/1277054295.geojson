@@ -1,0 +1,73 @@
+{
+  "id": 1277054295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57253,-33.81507,22.57253,-33.81507",
+    "geom:latitude":-33.81507,
+    "geom:longitude":22.57253,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Eseljag",
+    "gn:country_code":"ZA",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005075,
+    "gn:latitude":-33.81507,
+    "gn:longitude":22.57253,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Eseljag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezeljacht",
+        "Eseljag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005075
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1383e1693f7a54ffbe138fbda70e3ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1277054295,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1277054295,
+    "wof:lastmodified":1537716427,
+    "wof:name":"Eseljag",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57253,
+    -33.81507,
+    22.57253,
+    -33.81507
+],
+  "geometry": {"coordinates":[22.57253,-33.81507],"type":"Point"}
+}

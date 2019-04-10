@@ -1,0 +1,64 @@
+{
+  "id": 1209102765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61143,-31.21581,23.61143,-31.21581",
+    "geom:latitude":-31.21581,
+    "geom:longitude":23.61143,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC071",
+    "gn:asciiname":"Merriman",
+    "gn:country_code":"ZA",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976930,
+    "gn:latitude":-31.21581,
+    "gn:longitude":23.61143,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Merriman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976930,
+        "wk:page":"Merriman%2C_Northern_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"61b0e684d8684f8533d9bd9defdeee09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209102765
+        }
+    ],
+    "wof:id":1209102765,
+    "wof:lastmodified":1537576362,
+    "wof:name":"Merriman",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61143,
+    -31.21581,
+    23.61143,
+    -31.21581
+],
+  "geometry": {"coordinates":[23.61143,-31.21581],"type":"Point"}
+}

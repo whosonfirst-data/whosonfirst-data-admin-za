@@ -1,0 +1,70 @@
+{
+  "id": 101925895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":297288.425629,
+    "geom:bbox":"27.9502353668,-26.2100257874,27.9570655823,-26.2038249969",
+    "geom:latitude":-26.207023,
+    "geom:longitude":27.953147,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.206891,
+    "lbl:longitude":27.953147,
+    "mps:latitude":-26.206891,
+    "mps:longitude":27.953147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Stormill",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"91d394294c86da72ab7d4f9d412405dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925895,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925895,
+    "wof:lastmodified":1500027727,
+    "wof:name":"Stormill",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95023536682129,
+    -26.21002578735352,
+    27.95706558227539,
+    -26.20382499694824
+],
+  "geometry": {"coordinates":[[[27.95023536682129,-26.20923042297363],[27.95080375671387,-26.20382499694824],[27.9561653137207,-26.20564651489258],[27.95706558227539,-26.20796012878418],[27.95363998413086,-26.2091178894043],[27.95349502563477,-26.21002578735352],[27.95023536682129,-26.20923042297363]]],"type":"Polygon"}
+}

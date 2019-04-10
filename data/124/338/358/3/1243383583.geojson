@@ -1,0 +1,72 @@
+{
+  "id": 1243383583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41762,-29.44347,21.41762,-29.44347",
+    "geom:latitude":-29.44347,
+    "geom:longitude":21.41762,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC084",
+    "gn:asciiname":"Sidi Barrani",
+    "gn:country_code":"ZA",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955810,
+    "gn:latitude":-29.44347,
+    "gn:longitude":21.41762,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sidi Barrani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Sidi-Barani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955810
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b656a9511508e6cc3b3f7e4b4ccd4992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1243383583,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1243383583,
+    "wof:lastmodified":1537716379,
+    "wof:name":"Sidi Barrani",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41762,
+    -29.44347,
+    21.41762,
+    -29.44347
+],
+  "geometry": {"coordinates":[21.41762,-29.44347],"type":"Point"}
+}

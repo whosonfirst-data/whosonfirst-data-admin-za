@@ -1,0 +1,72 @@
+{
+  "id": 101926681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1622676.923201,
+    "geom:bbox":"29.9667396545,-27.7913360596,29.9835090637,-27.77617836",
+    "geom:latitude":-27.783801,
+    "geom:longitude":29.976204,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.784178,
+    "lbl:longitude":29.976331,
+    "mps:latitude":-27.784178,
+    "mps:longitude":29.976331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rooipunt",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517453
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fe0ba673e0694fed318f2a385ef81317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101926681,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926681,
+    "wof:lastmodified":1500027521,
+    "wof:name":"Rooipunt",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96673965454102,
+    -27.79133605957031,
+    29.9835090637207,
+    -27.77617835998535
+],
+  "geometry": {"coordinates":[[[29.96707916259766,-27.78591918945312],[29.96673965454102,-27.78443336486816],[29.97874069213867,-27.77617835998535],[29.98176956176758,-27.77755546569824],[29.98328018188477,-27.77869606018066],[29.9835090637207,-27.78140449523926],[29.98209190368652,-27.78660583496094],[29.98167991638184,-27.78680419921875],[29.97626686096191,-27.79133605957031],[29.96798515319824,-27.78669929504395],[29.96707916259766,-27.78591918945312]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101927663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000138,
+    "geom:area_square_m":1503356.884282,
+    "geom:bbox":"30.2430381775,-28.4465770721,30.2573242188,-28.4314155579",
+    "geom:latitude":-28.439003,
+    "geom:longitude":30.249535,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.439092,
+    "lbl:longitude":30.249535,
+    "mps:latitude":-28.439092,
+    "mps:longitude":30.249535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Limehill",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982766,
+        "gp:id":56189574
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1152d972bed954641855091634ea5410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927663,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927663,
+    "wof:lastmodified":1534986006,
+    "wof:name":"Limehill",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615641
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24303817749023,
+    -28.44657707214355,
+    30.25732421875,
+    -28.43141555786133
+],
+  "geometry": {"coordinates":[[[30.24303817749023,-28.4417839050293],[30.24330902099609,-28.43952941894531],[30.24359321594238,-28.43569755554199],[30.24413108825684,-28.43186569213867],[30.24464416503906,-28.43141555786133],[30.24719619750977,-28.43143081665039],[30.24923324584961,-28.43211936950684],[30.25152206420898,-28.43325996398926],[30.25581550598145,-28.43959999084473],[30.25732421875,-28.4427661895752],[30.25552940368652,-28.44388580322266],[30.25295829772949,-28.44657707214355],[30.25168228149414,-28.44657135009766],[30.25066184997559,-28.44633865356445],[30.24989700317383,-28.44633483886719],[30.24736595153809,-28.44338798522949],[30.2455883026123,-28.44202423095703],[30.24303817749023,-28.4417839050293]]],"type":"Polygon"}
+}

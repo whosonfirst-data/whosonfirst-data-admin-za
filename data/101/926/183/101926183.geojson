@@ -1,0 +1,75 @@
+{
+  "id": 101926183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":203847.111509,
+    "geom:bbox":"27.596534729,-26.3926734924,27.6035423279,-26.3889636993",
+    "geom:latitude":-26.3906,
+    "geom:longitude":27.599919,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.390773,
+    "lbl:longitude":27.599986,
+    "mps:latitude":-26.390773,
+    "mps:longitude":27.599986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kloof",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.783333,
+    "wd:longitude":30.833333,
+    "wd:wordcount":1330,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3f0200191a813510b14acd9ba74358ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926183,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926183,
+    "wof:lastmodified":1527715818,
+    "wof:name":"Kloof",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59653472900391,
+    -26.39267349243164,
+    27.60354232788086,
+    -26.38896369934082
+],
+  "geometry": {"coordinates":[[[27.60348510742188,-26.39004325866699],[27.60345268249512,-26.3903694152832],[27.60290908813477,-26.39119911193848],[27.60201454162598,-26.39208602905273],[27.60108757019043,-26.39267349243164],[27.59653472900391,-26.39125633239746],[27.59663391113281,-26.38896369934082],[27.60354232788086,-26.38948059082031],[27.60348510742188,-26.39004325866699]]],"type":"Polygon"}
+}

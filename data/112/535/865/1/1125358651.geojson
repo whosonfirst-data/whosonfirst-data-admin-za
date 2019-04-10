@@ -1,0 +1,78 @@
+{
+  "id": 1125358651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60779,-27.26964,28.60779,-27.26964",
+    "geom:latitude":-27.26964,
+    "geom:longitude":28.60779,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":53722,
+    "gn:population":53722,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.26964,
+    "lbl:longitude":28.60779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347461,
+    "qs_pg:gn_pop":53722,
+    "qs_pg:name":"Mafube",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":764906,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347461,
+        "qs_pg:id":764906
+    },
+    "wof:country":"ZA",
+    "wof:created":1497046636,
+    "wof:geomhash":"c40ffb350fb0c177862690bf9f69a846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "localadmin_id":1125358651,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125358651,
+    "wof:lastmodified":1509389015,
+    "wof:name":"Mafube",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"localadmin",
+    "wof:population":53722,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60779,
+    -27.26964,
+    28.60779,
+    -27.26964
+],
+  "geometry": {"coordinates":[28.60779,-27.26964],"type":"Point"}
+}

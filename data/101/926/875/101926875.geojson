@@ -1,0 +1,86 @@
+{
+  "id": 101926875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000087,
+    "geom:area_square_m":948429.940699,
+    "geom:bbox":"29.8105754852,-28.5495281219,29.8263664246,-28.541343689",
+    "geom:latitude":-28.545184,
+    "geom:longitude":29.818743,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.544949,
+    "lbl:longitude":29.818743,
+    "mps:latitude":-28.544949,
+    "mps:longitude":29.818743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:dut_x_preferred":[
+        "Danskraal"
+    ],
+    "name:eng_x_preferred":[
+        "Danskraal"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"DANSKRAAL",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.537,
+    "wd:longitude":29.795,
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880495,
+        "wd:id":"Q15212766"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7d24d6cf912ca8c86038b32bac4bfb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926875,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926875,
+    "wof:lastmodified":1534986006,
+    "wof:name":"Danskraal",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615657
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81057548522949,
+    -28.54952812194824,
+    29.82636642456055,
+    -28.54134368896484
+],
+  "geometry": {"coordinates":[[[29.82529830932617,-28.54952812194824],[29.82278633117676,-28.54878807067871],[29.82121658325195,-28.54859924316406],[29.81560516357422,-28.54764747619629],[29.8117847442627,-28.54671287536621],[29.81057548522949,-28.54594802856445],[29.8108024597168,-28.54309463500977],[29.81132507324219,-28.54219627380371],[29.81362342834473,-28.54221725463867],[29.81566619873047,-28.54223442077637],[29.81695365905762,-28.54134368896484],[29.82256126403809,-28.54252052307129],[29.82536125183105,-28.54344749450684],[29.82636642456055,-28.54503631591797],[29.82529830932617,-28.54952812194824]]],"type":"Polygon"}
+}

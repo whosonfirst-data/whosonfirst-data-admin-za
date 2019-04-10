@@ -1,0 +1,73 @@
+{
+  "id": 101929069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":1962157.416144,
+    "geom:bbox":"27.3074207306,-32.7814941406,27.3298435211,-32.7591667175",
+    "geom:latitude":-32.767716,
+    "geom:longitude":27.320259,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.763654,
+    "lbl:longitude":27.315418,
+    "mps:latitude":-32.763654,
+    "mps:longitude":27.315418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tyusha",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946981,
+        "gp:id":1588366
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d93ee66f94a9ae4ab7a761828d4c0e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929069,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929069,
+    "wof:lastmodified":1500027829,
+    "wof:name":"Tyusha",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30742073059082,
+    -32.781494140625,
+    27.32984352111816,
+    -32.7591667175293
+],
+  "geometry": {"coordinates":[[[27.31160354614258,-32.75935745239258],[27.31345176696777,-32.7591667175293],[27.31881141662598,-32.75980758666992],[27.32232666015625,-32.760986328125],[27.32317543029785,-32.76271820068359],[27.32566452026367,-32.76408386230469],[27.32984352111816,-32.76838684082031],[27.32683372497559,-32.77363204956055],[27.32673835754395,-32.78128433227539],[27.3232421875,-32.781494140625],[27.32315254211426,-32.77523422241211],[27.3210391998291,-32.77143096923828],[27.32117652893066,-32.7667350769043],[27.31849670410156,-32.76641845703125],[27.31563568115234,-32.76783752441406],[27.31051445007324,-32.76945495605469],[27.30742073059082,-32.76896667480469],[27.31106948852539,-32.76510238647461],[27.31160354614258,-32.75935745239258]]],"type":"Polygon"}
+}

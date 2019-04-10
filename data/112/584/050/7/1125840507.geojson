@@ -1,0 +1,106 @@
+{
+  "id": 1125840507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2329,-31.70312,27.2329,-31.70312",
+    "geom:latitude":-31.70312,
+    "geom:longitude":27.2329,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":25041,
+    "gn:population":25041,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.70312,
+    "lbl:longitude":27.2329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Cacadu"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u91cc\u723e\u592b\u4eba\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:eng_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:ger_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:ita_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:nso_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:rum_x_preferred":[
+        "Lady Frere"
+    ],
+    "name:ven_x_preferred":[
+        "Lady Frere"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":985011,
+    "qs_pg:gn_pop":25041,
+    "qs_pg:name":"Lady Frere",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":84025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985011,
+        "qs_pg:id":84025,
+        "wd:id":"Q3642180"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292912,
+    "wof:geomhash":"63c045174ed8842e9e82b86a61827e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125840507,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125840507,
+    "wof:lastmodified":1514503943,
+    "wof:name":"Lady Frere",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:population":25041,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2329,
+    -31.70312,
+    27.2329,
+    -31.70312
+],
+  "geometry": {"coordinates":[27.2329,-31.70312],"type":"Point"}
+}

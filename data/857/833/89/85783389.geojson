@@ -1,0 +1,102 @@
+{
+  "id": 85783389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6131296.962021,
+    "geom:bbox":"20.91741,-31.342506,20.91741,-31.342506",
+    "geom:latitude":-31.342506,
+    "geom:longitude":20.91741,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-31.342506,
+    "lbl:longitude":20.91741,
+    "mps:latitude":-31.341526,
+    "mps:longitude":20.91342,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Amandelboom"
+    ],
+    "name:unk_x_variant":[
+        "Amandelboom"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":59,
+    "qs:local_sum":59,
+    "qs:localhoods":1,
+    "qs:name":"Amandelboom",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Northern Cape",
+    "qs:name_adm2":"Namakwa",
+    "qs:name_lau":"Karoo Hoogland",
+    "qs:name_local":"Williston",
+    "qs:photo_max":34,
+    "qs:photo_sum":59,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346985,
+    "qs:woe_adm2":56189407,
+    "qs:woe_lau":56189550,
+    "qs:woe_local":1588909,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730593,
+        85688899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880791,
+        "qs:id":1339835
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eace0e3e8e681d58cbacc64f50c160d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":-1,
+            "neighbourhood_id":85783389,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":85783389,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860498,
+    "wof:name":"Amandelboom",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91741,
+    -31.342506,
+    20.91741,
+    -31.342506
+],
+  "geometry": {"coordinates":[20.91741,-31.342506],"type":"Point"}
+}

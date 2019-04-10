@@ -1,0 +1,69 @@
+{
+  "id": 1326837791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.31667,-29.1,27.31667,-29.1",
+    "geom:latitude":-29.1,
+    "geom:longitude":27.31667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Welbedacht",
+    "gn:country_code":"ZA",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941241,
+    "gn:latitude":-29.1,
+    "gn:longitude":27.31667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Welbedacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941241
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"eac8c3356c682c1f4648c34be4038656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1326837791,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1326837791,
+    "wof:lastmodified":1537039019,
+    "wof:name":"Welbedacht",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31667,
+    -29.1,
+    27.31667,
+    -29.1
+],
+  "geometry": {"coordinates":[27.31667,-29.1],"type":"Point"}
+}

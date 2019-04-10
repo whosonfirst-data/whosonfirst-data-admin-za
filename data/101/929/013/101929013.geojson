@@ -1,0 +1,72 @@
+{
+  "id": 101929013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1175086.885559,
+    "geom:bbox":"26.6993846893,-32.2370605469,26.7119350433,-32.2222061157",
+    "geom:latitude":-32.229861,
+    "geom:longitude":26.705511,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.229844,
+    "lbl:longitude":26.70563,
+    "mps:latitude":-32.229844,
+    "mps:longitude":26.70563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaMarepula",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586177
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6dfed483efa0f94e5bc3b9a0ba969658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101929013,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929013,
+    "wof:lastmodified":1500027826,
+    "wof:name":"KwaMarepula",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69938468933105,
+    -32.237060546875,
+    26.71193504333496,
+    -32.22220611572266
+],
+  "geometry": {"coordinates":[[[26.7048454284668,-32.22220611572266],[26.70856285095215,-32.22281646728516],[26.71042633056641,-32.22375106811523],[26.71193504333496,-32.22658538818359],[26.71047592163086,-32.23006439208984],[26.70753479003906,-32.23386764526367],[26.70458793640137,-32.23704147338867],[26.70124626159668,-32.237060546875],[26.69938468933105,-32.2364387512207],[26.69973182678223,-32.23328018188477],[26.70045280456543,-32.23043441772461],[26.70412635803223,-32.22536468505859],[26.7048454284668,-32.22220611572266]]],"type":"Polygon"}
+}

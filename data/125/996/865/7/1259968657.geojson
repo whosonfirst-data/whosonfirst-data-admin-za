@@ -1,0 +1,73 @@
+{
+  "id": 1259968657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79016,-25.91443,25.79016,-25.91443",
+    "geom:latitude":-25.91443,
+    "geom:longitude":25.79016,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"Rooigrond",
+    "gn:country_code":"ZA",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":959974,
+    "gn:latitude":-25.91443,
+    "gn:longitude":25.79016,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rooigrond",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roodegrond",
+        "Rooigrond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959974
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ed86b0f4ffd5b9f6d05f07acc2e2135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1259968657,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1259968657,
+    "wof:lastmodified":1537716382,
+    "wof:name":"Rooigrond",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79016,
+    -25.91443,
+    25.79016,
+    -25.91443
+],
+  "geometry": {"coordinates":[25.79016,-25.91443],"type":"Point"}
+}

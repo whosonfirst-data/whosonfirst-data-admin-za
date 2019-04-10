@@ -1,0 +1,69 @@
+{
+  "id": 1293203725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75,-30.63333,29.75,-30.63333",
+    "geom:latitude":-30.63333,
+    "geom:longitude":29.75,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN214",
+    "gn:asciiname":"Ngqolo",
+    "gn:country_code":"ZA",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":971006,
+    "gn:latitude":-30.63333,
+    "gn:longitude":29.75,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngqolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":971006
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ae1d59617e24ba31808c6b084369c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1293203725,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293203725,
+    "wof:lastmodified":1536699408,
+    "wof:name":"Ngqolo",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75,
+    -30.63333,
+    29.75,
+    -30.63333
+],
+  "geometry": {"coordinates":[29.75,-30.63333],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 101924331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000829,
+    "geom:area_square_m":9365584.555592,
+    "geom:bbox":"31.0117874146,-23.9513912201,31.0499229431,-23.9165496826",
+    "geom:latitude":-23.934405,
+    "geom:longitude":31.029773,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.935336,
+    "lbl:longitude":31.02941,
+    "mps:latitude":-23.935336,
+    "mps:longitude":31.02941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Namakgale"
+    ],
+    "name:deu_x_preferred":[
+        "Namakgale"
+    ],
+    "name:dut_x_preferred":[
+        "Namakgale"
+    ],
+    "name:eng_x_preferred":[
+        "Namakgale"
+    ],
+    "name:fre_x_preferred":[
+        "Namakgale"
+    ],
+    "name:ger_x_preferred":[
+        "Namakgale"
+    ],
+    "name:nld_x_preferred":[
+        "Namakgale"
+    ],
+    "name:nso_x_preferred":[
+        "Namakgale"
+    ],
+    "name:ron_x_preferred":[
+        "Namakgale"
+    ],
+    "name:rum_x_preferred":[
+        "Namakgale"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Namakgale",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-23.938,
+    "wd:longitude":31.028,
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972147,
+        "wd:id":"Q250300"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"11e63fb58dad1c7802156ff99fc66573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924331,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924331,
+    "wof:lastmodified":1527670487,
+    "wof:name":"Namakgale",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01178741455078,
+    -23.95139122009277,
+    31.04992294311523,
+    -23.91654968261719
+],
+  "geometry": {"coordinates":[[[31.0120906829834,-23.91654968261719],[31.02805328369141,-23.91908836364746],[31.03651237487793,-23.92737579345703],[31.04364013671875,-23.93094062805176],[31.04809761047363,-23.93331909179688],[31.04989624023438,-23.93532752990723],[31.04992294311523,-23.93695259094238],[31.04742050170898,-23.94673728942871],[31.04701042175293,-23.94877433776855],[31.04214286804199,-23.94843101501465],[31.04037475585938,-23.94845581054688],[31.03730392456055,-23.95012092590332],[31.03334426879883,-23.95139122009277],[31.0297966003418,-23.95062446594238],[31.01678466796875,-23.93819618225098],[31.01317405700684,-23.9333667755127],[31.01178741455078,-23.9293212890625],[31.0120906829834,-23.91654968261719]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85772069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7647523.396734,
+    "geom:bbox":"27.900124,-33.016759,27.900124,-33.016759",
+    "geom:latitude":-33.016759,
+    "geom:longitude":27.900124,
+    "gn:latitude":-33.03109,
+    "gn:longitude":27.90985,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.016759,
+    "lbl:longitude":27.900124,
+    "mps:latitude":-33.019163,
+    "mps:longitude":27.897186,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Buffalo Harbor"
+    ],
+    "name:unk_x_variant":[
+        "Buffalo Harbor"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1006984,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Buffalo Harbor",
+    "qs:local_max":135,
+    "qs:local_sum":372,
+    "qs:localhoods":5,
+    "qs:name":"Buffalo Harbor",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Eastern Cape",
+    "qs:name_adm2":"Amathole",
+    "qs:name_lau":"Buffalo City",
+    "qs:name_local":"East London",
+    "qs:photo_max":40,
+    "qs:photo_sum":135,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346979,
+    "qs:woe_adm2":56189418,
+    "qs:woe_lau":56189572,
+    "qs:woe_local":1589551,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101929165,
+        1108730513,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015245,
+        "gp:id":1580177,
+        "qs:id":189307,
+        "qs_pg:id":189307
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"92c7cc28c8942a33d37145bd23c62de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929165,
+            "neighbourhood_id":85772069,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":85772069,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859503,
+    "wof:name":"Buffalo Harbor",
+    "wof:parent_id":101929165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.900124,
+    -33.016759,
+    27.900124,
+    -33.016759
+],
+  "geometry": {"coordinates":[27.900124,-33.016759],"type":"Point"}
+}

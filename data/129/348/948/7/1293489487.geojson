@@ -1,0 +1,74 @@
+{
+  "id": 1293489487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15,-27.16667,29.15,-27.16667",
+    "geom:latitude":-27.16667,
+    "geom:longitude":29.15,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS195",
+    "gn:asciiname":"Mooidraai",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974489,
+    "gn:latitude":-27.16667,
+    "gn:longitude":29.15,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mooidraai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moordraai",
+        "Mooidraai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974489
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4489d58061f5606db2e93708dce076e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1293489487,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293489487,
+    "wof:lastmodified":1537716399,
+    "wof:name":"Mooidraai",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15,
+    -27.16667,
+    29.15,
+    -27.16667
+],
+  "geometry": {"coordinates":[29.15,-27.16667],"type":"Point"}
+}

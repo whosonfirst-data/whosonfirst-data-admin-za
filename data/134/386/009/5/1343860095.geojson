@@ -1,0 +1,69 @@
+{
+  "id": 1343860095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4752,-28.55548,28.4752,-28.55548",
+    "geom:latitude":-28.55548,
+    "geom:longitude":28.4752,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS192",
+    "gn:asciiname":"Die Ark",
+    "gn:country_code":"ZA",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010479,
+    "gn:latitude":-28.55548,
+    "gn:longitude":28.4752,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Die Ark",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010479
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ea8d3f4b97ea4ceaf35e3f8b9ac6a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1343860095,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1343860095,
+    "wof:lastmodified":1536667150,
+    "wof:name":"Die Ark",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4752,
+    -28.55548,
+    28.4752,
+    -28.55548
+],
+  "geometry": {"coordinates":[28.4752,-28.55548],"type":"Point"}
+}

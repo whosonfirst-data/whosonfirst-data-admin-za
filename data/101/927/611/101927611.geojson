@@ -1,0 +1,119 @@
+{
+  "id": 101927611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000495,
+    "geom:area_square_m":5399520.045932,
+    "geom:bbox":"30.1462402344,-28.1888217926,30.1827640533,-28.164182663",
+    "geom:latitude":-28.17571,
+    "geom:longitude":30.161613,
+    "gn:population":13547,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.175266,
+    "lbl:longitude":30.155249,
+    "mps:latitude":-28.175266,
+    "mps:longitude":30.155249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Glencoe"
+    ],
+    "name:deu_x_preferred":[
+        "Glencoe"
+    ],
+    "name:dut_x_preferred":[
+        "Glencoe"
+    ],
+    "name:eng_x_preferred":[
+        "Glencoe"
+    ],
+    "name:ger_x_preferred":[
+        "Glencoe"
+    ],
+    "name:nld_x_preferred":[
+        "Glencoe"
+    ],
+    "name:nso_x_preferred":[
+        "Glencoe"
+    ],
+    "name:pol_x_preferred":[
+        "Glencoe"
+    ],
+    "name:ron_x_preferred":[
+        "Glencoe"
+    ],
+    "name:rum_x_preferred":[
+        "Glencoe"
+    ],
+    "name:spa_x_preferred":[
+        "Glencoe"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glencoe",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.183333,
+    "wd:longitude":30.15,
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001736,
+        "gp:id":1581777,
+        "qs:id":1029503,
+        "qs_pg:id":1029503,
+        "wd:id":"Q285782",
+        "wk:page":"Glencoe, KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b1fb680e5ace9b39af8560fa7194ccb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730555,
+            "locality_id":101927611,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927611,
+    "wof:lastmodified":1527715635,
+    "wof:name":"Glencoe",
+    "wof:parent_id":1108730555,
+    "wof:placetype":"locality",
+    "wof:population":13547,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.146240234375,
+    -28.18882179260254,
+    30.18276405334473,
+    -28.16418266296387
+],
+  "geometry": {"coordinates":[[[30.16027641296387,-28.18102645874023],[30.15461921691895,-28.18695831298828],[30.15181541442871,-28.18739128112793],[30.14826202392578,-28.18601608276367],[30.146240234375,-28.1841983795166],[30.14779090881348,-28.18127632141113],[30.14708137512207,-28.17472839355469],[30.14787864685059,-28.17067337036133],[30.14967727661133,-28.16842842102051],[30.15352821350098,-28.16439247131348],[30.15582084655762,-28.16418266296387],[30.15760040283203,-28.16464424133301],[30.1624698638916,-28.17285919189453],[30.16295623779297,-28.17385864257812],[30.17363548278809,-28.16474533081055],[30.17619323730469,-28.16602325439453],[30.18276405334473,-28.1693115234375],[30.18249893188477,-28.17066383361816],[30.17328453063965,-28.17692375183105],[30.17148780822754,-28.1789436340332],[30.17094802856445,-28.18277549743652],[30.16402626037598,-28.18882179260254],[30.16253280639648,-28.18452644348145],[30.16178131103516,-28.18294334411621],[30.16027641296387,-28.18102645874023]]],"type":"Polygon"}
+}

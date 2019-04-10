@@ -1,0 +1,73 @@
+{
+  "id": 101928111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000287,
+    "geom:area_square_m":3066735.338485,
+    "geom:bbox":"29.0566482544,-30.1162834167,29.0791358948,-30.0931053162",
+    "geom:latitude":-30.106296,
+    "geom:longitude":29.067011,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.105274,
+    "lbl:longitude":29.067011,
+    "mps:latitude":-30.105274,
+    "mps:longitude":29.067011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pamlaville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":966383,
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d69737479f89b0712cc64dc60897391f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928111,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928111,
+    "wof:lastmodified":1500027818,
+    "wof:name":"Pamlaville",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05664825439453,
+    -30.11628341674805,
+    29.07913589477539,
+    -30.09310531616211
+],
+  "geometry": {"coordinates":[[[29.06303787231445,-30.09382438659668],[29.06632041931152,-30.09310531616211],[29.06826019287109,-30.09625053405762],[29.07354545593262,-30.1005916595459],[29.07368087768555,-30.10474014282227],[29.07905197143555,-30.11163520812988],[29.07913589477539,-30.11418914794922],[29.07625007629395,-30.1158561706543],[29.07250595092773,-30.11371421813965],[29.07022094726562,-30.11121559143066],[29.06694793701172,-30.11225509643555],[29.05899620056152,-30.11628341674805],[29.05749702453613,-30.1153621673584],[29.05664825439453,-30.11186981201172],[29.05726623535156,-30.10834121704102],[29.05867385864258,-30.10638999938965],[29.06111717224121,-30.10249710083008],[29.06203079223633,-30.09672546386719],[29.06303787231445,-30.09382438659668]]],"type":"Polygon"}
+}

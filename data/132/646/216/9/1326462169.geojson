@@ -1,0 +1,69 @@
+{
+  "id": 1326462169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8,-30.26667,28.8,-30.26667",
+    "geom:latitude":-30.26667,
+    "geom:longitude":28.8,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC441",
+    "gn:asciiname":"Hlakoane",
+    "gn:country_code":"ZA",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":996371,
+    "gn:latitude":-30.26667,
+    "gn:longitude":28.8,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hlakoane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996371
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dd4369079864775deac71e91520cbe73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1326462169,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326462169,
+    "wof:lastmodified":1537081831,
+    "wof:name":"Hlakoane",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8,
+    -30.26667,
+    28.8,
+    -30.26667
+],
+  "geometry": {"coordinates":[28.8,-30.26667],"type":"Point"}
+}

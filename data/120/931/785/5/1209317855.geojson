@@ -1,0 +1,63 @@
+{
+  "id": 1209317855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25474,-28.47091,30.25474,-28.47091",
+    "geom:latitude":-28.47091,
+    "geom:longitude":30.25474,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN233",
+    "gn:asciiname":"Uitval",
+    "gn:country_code":"ZA",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946448,
+    "gn:latitude":-28.47091,
+    "gn:longitude":30.25474,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uitval",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946448
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c4f1f0a243c64b8502b7d0c94f96ab7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209317855
+        }
+    ],
+    "wof:id":1209317855,
+    "wof:lastmodified":1536290801,
+    "wof:name":"Uitval",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25474,
+    -28.47091,
+    30.25474,
+    -28.47091
+],
+  "geometry": {"coordinates":[30.25474,-28.47091],"type":"Point"}
+}

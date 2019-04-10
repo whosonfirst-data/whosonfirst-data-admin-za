@@ -1,0 +1,75 @@
+{
+  "id": 101929265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000005,
+    "geom:area_square_m":52209.463354,
+    "geom:bbox":"30.8250331879,-30.000995636,30.8319740295,-30.0",
+    "geom:latitude":-30.000406,
+    "geom:longitude":30.828213,
+    "geonames:id":"1000981,1006532",
+    "iso:country":"ZA",
+    "lbl:latitude":-30.00046,
+    "lbl:longitude":30.828213,
+    "mps:latitude":-30.00046,
+    "mps:longitude":30.828213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GOLOKODO",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"fc631fe016413046fd519e993a70bcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929265,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929265,
+    "wof:lastmodified":1534986005,
+    "wof:name":"Golokodo",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615627
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82503318786621,
+    -30.00099563598633,
+    30.83197402954102,
+    -30.0
+],
+  "geometry": {"coordinates":[[[30.83197402954102,-30.0],[30.82948684692383,-30.00099563598633],[30.82560157775879,-30.00076484680176],[30.82503318786621,-30.0],[30.83197402954102,-30.0]]],"type":"Polygon"}
+}

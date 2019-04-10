@@ -1,0 +1,71 @@
+{
+  "id": 101925919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1246713.536027,
+    "geom:bbox":"27.968000412,-26.2207870483,27.9853382111,-26.2096252441",
+    "geom:latitude":-26.215247,
+    "geom:longitude":27.977467,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.215021,
+    "lbl:longitude":27.977467,
+    "mps:latitude":-26.215021,
+    "mps:longitude":27.977467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Riverlea",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"7504937e2db057c3241a62ce8b25a764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925919,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925919,
+    "wof:lastmodified":1527688524,
+    "wof:name":"Riverlea",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9680004119873,
+    -26.22078704833984,
+    27.98533821105957,
+    -26.20962524414062
+],
+  "geometry": {"coordinates":[[[27.9751091003418,-26.20962524414062],[27.98318481445312,-26.21244239807129],[27.98533821105957,-26.21331787109375],[27.98460960388184,-26.21724128723145],[27.98284912109375,-26.21815872192383],[27.98196983337402,-26.21997451782227],[27.9818286895752,-26.22078704833984],[27.9680004119873,-26.21700668334961],[27.96855354309082,-26.21472549438477],[27.9689826965332,-26.2148265838623],[27.97155952453613,-26.2154369354248],[27.97306251525879,-26.21040153503418],[27.9751091003418,-26.20962524414062]]],"type":"Polygon"}
+}

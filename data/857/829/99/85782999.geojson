@@ -1,0 +1,108 @@
+{
+  "id": 85782999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":42300507.898466,
+    "geom:bbox":"28.015162,-25.929405,28.015162,-25.929405",
+    "geom:latitude":-25.929405,
+    "geom:longitude":28.015162,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-25.929405,
+    "lbl:longitude":28.015162,
+    "mps:latitude":-25.936487,
+    "mps:longitude":28.017992,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Diepsloot"
+    ],
+    "name:unk_x_variant":[
+        "Diepsloot"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":993800,
+    "qs:gn_nam_loc":"Johannesburg, Johannesburg, City of Johannesburg, Gauteng, ZA",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":2766,
+    "qs:local_sum":31655,
+    "qs:localhoods":69,
+    "qs:name":"Diepsloot",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Gauteng",
+    "qs:name_adm2":"City of Johannesburg",
+    "qs:name_lau":"Johannesburg",
+    "qs:name_local":"Johannesburg",
+    "qs:photo_max":47,
+    "qs:photo_sum":162,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346981,
+    "qs:woe_adm2":56189422,
+    "qs:woe_lau":56189710,
+    "qs:woe_local":1582504,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55877958,
+        "qs:id":230839,
+        "qs_pg:id":230839
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d2decab6bec538c8a953a082bae4143c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":-1,
+            "neighbourhood_id":85782999,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":85782999,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860440,
+    "wof:name":"Diepsloot",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.015162,
+    -25.929405,
+    28.015162,
+    -25.929405
+],
+  "geometry": {"coordinates":[28.015162,-25.929405],"type":"Point"}
+}

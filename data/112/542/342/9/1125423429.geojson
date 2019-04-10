@@ -1,0 +1,78 @@
+{
+  "id": 1125423429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64113,-29.97592,25.64113,-29.97592",
+    "geom:latitude":-29.97592,
+    "geom:longitude":25.64113,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":49422,
+    "gn:population":49422,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.97592,
+    "lbl:longitude":25.64113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347553,
+    "qs_pg:gn_pop":49422,
+    "qs_pg:name":"Kopanong",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":109958,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347553,
+        "qs_pg:id":109958
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052690,
+    "wof:geomhash":"f6f635de88309ef77e4fa7b37dff2663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "localadmin_id":1125423429,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125423429,
+    "wof:lastmodified":1509390541,
+    "wof:name":"Kopanong",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"localadmin",
+    "wof:population":49422,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64113,
+    -29.97592,
+    25.64113,
+    -29.97592
+],
+  "geometry": {"coordinates":[25.64113,-29.97592],"type":"Point"}
+}

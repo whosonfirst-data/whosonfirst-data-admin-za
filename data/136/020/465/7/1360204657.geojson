@@ -1,0 +1,70 @@
+{
+  "id": 1360204657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76184,-27.97001,24.76184,-27.97001",
+    "geom:latitude":-27.97001,
+    "geom:longitude":24.76184,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC9",
+    "gn:admin3_code":"NC094",
+    "gn:asciiname":"Ganspan",
+    "gn:country_code":"ZA",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002947,
+    "gn:latitude":-27.97001,
+    "gn:longitude":24.76184,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ganspan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002947,
+        "wk:page":"Ganspan"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"839fc1ff16987f1e5e08fe9b6e71147c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1360204657,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1360204657,
+    "wof:lastmodified":1537576367,
+    "wof:name":"Ganspan",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76184,
+    -27.97001,
+    24.76184,
+    -27.97001
+],
+  "geometry": {"coordinates":[24.76184,-27.97001],"type":"Point"}
+}

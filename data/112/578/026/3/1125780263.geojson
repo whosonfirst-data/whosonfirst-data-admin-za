@@ -1,0 +1,108 @@
+{
+  "id": 1125780263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11461,-31.40364,23.11461,-31.40364",
+    "geom:latitude":-31.40364,
+    "geom:longitude":23.11461,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.40364,
+    "lbl:longitude":23.11461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Victoria-Wes"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u7dad\u591a\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Victoria-Wes"
+    ],
+    "name:eng_x_preferred":[
+        "Victoria West"
+    ],
+    "name:fre_x_preferred":[
+        "Victoria West"
+    ],
+    "name:ger_x_preferred":[
+        "Victoria West"
+    ],
+    "name:ita_x_preferred":[
+        "Victoria West"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30af\u30c8\u30ea\u30a2\u30fb\u30a6\u30a7\u30b9\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "Victoria West"
+    ],
+    "name:rum_x_preferred":[
+        "Victoria-Wes"
+    ],
+    "name:unk_x_variant":[
+        "Victoria-Wes"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":944024,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Victoria West",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":276177,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944024,
+        "qs_pg:id":276177,
+        "wd:id":"Q3642193"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290435,
+    "wof:geomhash":"124f20246636a1f5bb75bdeec8bfb69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1125780263,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125780263,
+    "wof:lastmodified":1514504629,
+    "wof:name":"Victoria West",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11461,
+    -31.40364,
+    23.11461,
+    -31.40364
+],
+  "geometry": {"coordinates":[23.11461,-31.40364],"type":"Point"}
+}

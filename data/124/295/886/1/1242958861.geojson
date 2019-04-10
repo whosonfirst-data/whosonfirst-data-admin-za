@@ -1,0 +1,73 @@
+{
+  "id": 1242958861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76843,-29.2508,20.76843,-29.2508",
+    "geom:latitude":-29.2508,
+    "geom:longitude":20.76843,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Uitzicht",
+    "gn:country_code":"ZA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946321,
+    "gn:latitude":-29.2508,
+    "gn:longitude":20.76843,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uitzicht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uitsig",
+        "Uitzicht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946321
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"576f0ae53d61911abf215572724408c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1242958861,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1242958861,
+    "wof:lastmodified":1537716372,
+    "wof:name":"Uitzicht",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76843,
+    -29.2508,
+    20.76843,
+    -29.2508
+],
+  "geometry": {"coordinates":[20.76843,-29.2508],"type":"Point"}
+}

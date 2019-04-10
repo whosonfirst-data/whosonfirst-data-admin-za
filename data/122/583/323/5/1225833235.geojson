@@ -1,0 +1,69 @@
+{
+  "id": 1225833235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40901,-34.60251,19.40901,-34.60251",
+    "geom:latitude":-34.60251,
+    "geom:longitude":19.40901,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC032",
+    "gn:asciiname":"Uilkraalmond",
+    "gn:country_code":"ZA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3360294,
+    "gn:latitude":-34.60251,
+    "gn:longitude":19.40901,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Uilkraalmond",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360294
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d3b12d1bf25b0c69874c0bdc6052b48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1225833235,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1225833235,
+    "wof:lastmodified":1537030406,
+    "wof:name":"Uilkraalmond",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40901,
+    -34.60251,
+    19.40901,
+    -34.60251
+],
+  "geometry": {"coordinates":[19.40901,-34.60251],"type":"Point"}
+}

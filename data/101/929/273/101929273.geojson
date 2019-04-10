@@ -1,0 +1,104 @@
+{
+  "id": 101929273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000611,
+    "geom:area_square_m":6540055.904502,
+    "geom:bbox":"30.8572998047,-30.0712814331,30.904624939,-30.0342063904",
+    "geom:latitude":-30.050483,
+    "geom:longitude":30.880439,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.047031,
+    "lbl:longitude":30.884025,
+    "mps:latitude":-30.047031,
+    "mps:longitude":30.884025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:dut_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:eng_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:fre_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:ger_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:nso_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0627\u0646\u0632\u06cc\u0645\u062a\u0627\u062a\u06cc"
+    ],
+    "name:rum_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:sot_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"AMANZIMTOTI",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.05,
+    "wd:longitude":30.883333,
+    "wd:wordcount":2088,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022953,
+        "wd:id":"Q454587",
+        "wk:page":"Amanzimtoti"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bfd3d7aa0516cee4208a2cdcb6111624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929273,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929273,
+    "wof:lastmodified":1527715584,
+    "wof:name":"Amanzimtoti",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8572998046875,
+    -30.07128143310547,
+    30.90462493896484,
+    -30.03420639038086
+],
+  "geometry": {"coordinates":[[[30.8572998046875,-30.06615447998047],[30.8577995300293,-30.06546783447266],[30.85841751098633,-30.06461906433105],[30.8662109375,-30.05245018005371],[30.86708831787109,-30.05074501037598],[30.8685474395752,-30.04952239990234],[30.870361328125,-30.04929733276367],[30.87321281433105,-30.04952621459961],[30.87450981140137,-30.04862594604492],[30.8765869140625,-30.04637145996094],[30.87788581848145,-30.04389190673828],[30.87834930419922,-30.0424919128418],[30.87893867492676,-30.0411262512207],[30.87970352172852,-30.03983497619629],[30.88044166564941,-30.03890991210938],[30.88748550415039,-30.03510665893555],[30.89007759094238,-30.03420639038086],[30.89422416687012,-30.03421020507812],[30.90462493896484,-30.03536987304688],[30.8999195098877,-30.04030227661133],[30.89343452453613,-30.04638671875],[30.88253402709961,-30.05878067016602],[30.87734031677246,-30.06576538085938],[30.87232398986816,-30.07128143310547],[30.87164115905762,-30.06215286254883],[30.86723709106445,-30.06101989746094],[30.86230278015137,-30.06778144836426],[30.8572998046875,-30.06615447998047]]],"type":"Polygon"}
+}

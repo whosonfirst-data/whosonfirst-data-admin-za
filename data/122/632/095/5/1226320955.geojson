@@ -1,0 +1,70 @@
+{
+  "id": 1226320955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35065,-34.61561,19.35065,-34.61561",
+    "geom:latitude":-34.61561,
+    "geom:longitude":19.35065,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC032",
+    "gn:asciiname":"Kleinbaai",
+    "gn:country_code":"ZA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3365905,
+    "gn:latitude":-34.61561,
+    "gn:longitude":19.35065,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Kleinbaai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3365905,
+        "wk:page":"Kleinbaai"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3eef02d924d452617a8d1be2a99b2ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1226320955,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226320955,
+    "wof:lastmodified":1537576372,
+    "wof:name":"Kleinbaai",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35065,
+    -34.61561,
+    19.35065,
+    -34.61561
+],
+  "geometry": {"coordinates":[19.35065,-34.61561],"type":"Point"}
+}

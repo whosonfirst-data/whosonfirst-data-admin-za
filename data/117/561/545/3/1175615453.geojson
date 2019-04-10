@@ -1,0 +1,77 @@
+{
+  "id": 1175615453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":452671.157989,
+    "geom:bbox":"27.93542099,-26.7628993988,27.9517669678,-26.7484455109",
+    "geom:latitude":-26.755407,
+    "geom:longitude":27.944159,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.758213,
+    "lbl:longitude":27.947546,
+    "mps:latitude":-26.758213,
+    "mps:longitude":27.947546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bertha Shaft Village",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        101926461,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019847,
+        "gp:id":1587210
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3b73625e7cdebecdaa5d094608f3f779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926461,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1175615453,
+    "wof:lastmodified":1534985997,
+    "wof:name":"Bertha Shaft Village",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101926457,
+        101926461
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93542098999023,
+    -26.76289939880371,
+    27.95176696777344,
+    -26.74844551086426
+],
+  "geometry": {"coordinates":[[[[27.94757270812988,-26.76289939880371],[27.94307899475098,-26.75997924804688],[27.94761276245117,-26.75344657897949],[27.95176696777344,-26.75678062438965],[27.94757270812988,-26.76289939880371]]],[[[27.93743133544922,-26.75570869445801],[27.93542098999023,-26.75297927856445],[27.94157218933105,-26.74844551086426],[27.94457244873047,-26.74876022338867],[27.94273948669434,-26.75314712524414],[27.93743133544922,-26.75570869445801]]]],"type":"MultiPolygon"}
+}

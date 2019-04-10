@@ -1,0 +1,69 @@
+{
+  "id": 1209805305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28179,-22.85019,30.28179,-22.85019",
+    "geom:latitude":-22.85019,
+    "geom:longitude":30.28179,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Ha-Madala",
+    "gn:country_code":"ZA",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":998176,
+    "gn:latitude":-22.85019,
+    "gn:longitude":30.28179,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ha-Madala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":998176
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d7dd2701cd2d54b9cc6e4215813a84a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1209805305,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1209805305,
+    "wof:lastmodified":1536388872,
+    "wof:name":"Ha-Madala",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28179,
+    -22.85019,
+    30.28179,
+    -22.85019
+],
+  "geometry": {"coordinates":[30.28179,-22.85019],"type":"Point"}
+}

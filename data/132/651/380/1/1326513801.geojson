@@ -1,0 +1,69 @@
+{
+  "id": 1326513801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30098,-25.57914,26.30098,-25.57914",
+    "geom:latitude":-25.57914,
+    "geom:longitude":26.30098,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW385",
+    "gn:asciiname":"Wilgeboomspruit",
+    "gn:country_code":"ZA",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939887,
+    "gn:latitude":-25.57914,
+    "gn:longitude":26.30098,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Wilgeboomspruit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939887
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fd0b2c4f6b6236d975fb7742c6a22674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1326513801,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1326513801,
+    "wof:lastmodified":1537009955,
+    "wof:name":"Wilgeboomspruit",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30098,
+    -25.57914,
+    26.30098,
+    -25.57914
+],
+  "geometry": {"coordinates":[26.30098,-25.57914],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1292985497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04074,-22.34881,30.04074,-22.34881",
+    "geom:latitude":-22.34881,
+    "geom:longitude":30.04074,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM341",
+    "gn:asciiname":"Musina",
+    "gn:country_code":"ZA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8030223,
+    "gn:latitude":-22.34881,
+    "gn:longitude":30.04074,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Musina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Messina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b7\u30ca"
+    ],
+    "name:ltz_x_preferred":[
+        "Messina"
+    ],
+    "name:pdc_x_preferred":[
+        "Messina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0438\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u897f\u7d0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030223,
+        "wk:page":"Musina"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0ae0a5826009d7d158551e397e0c0a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1292985497,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292985497,
+    "wof:lastmodified":1537716446,
+    "wof:name":"Musina",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04074,
+    -22.34881,
+    30.04074,
+    -22.34881
+],
+  "geometry": {"coordinates":[30.04074,-22.34881],"type":"Point"}
+}

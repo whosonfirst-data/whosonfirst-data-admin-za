@@ -1,0 +1,74 @@
+{
+  "id": 1360273355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03486,-33.94591,22.03486,-33.94591",
+    "geom:latitude":-33.94591,
+    "geom:longitude":22.03486,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC043",
+    "gn:asciiname":"Ruitersbos",
+    "gn:country_code":"ZA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":958878,
+    "gn:latitude":-33.94591,
+    "gn:longitude":22.03486,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ruitersbos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruytersbosch",
+        "Ruiterbosch",
+        "Ruitersbos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958878
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e55f304aa4573657e7a3f6de6bf2b640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1360273355,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1360273355,
+    "wof:lastmodified":1537716381,
+    "wof:name":"Ruitersbos",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03486,
+    -33.94591,
+    22.03486,
+    -33.94591
+],
+  "geometry": {"coordinates":[22.03486,-33.94591],"type":"Point"}
+}

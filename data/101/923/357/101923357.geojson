@@ -1,0 +1,73 @@
+{
+  "id": 101923357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1773307.181127,
+    "geom:bbox":"29.3401546478,-23.6485309601,29.359998703,-23.6371154785",
+    "geom:latitude":-23.642542,
+    "geom:longitude":29.349621,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.643073,
+    "lbl:longitude":29.34981,
+    "mps:latitude":-23.643073,
+    "mps:longitude":29.34981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ga-Kobo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003452,
+        "gp:id":56189527
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d157ef03f3d16934c119647b0bf93b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923357,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923357,
+    "wof:lastmodified":1500028424,
+    "wof:name":"Ga-Kobo",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34015464782715,
+    -23.64853096008301,
+    29.35999870300293,
+    -23.63711547851562
+],
+  "geometry": {"coordinates":[[[29.35340690612793,-23.64769554138184],[29.35076141357422,-23.64810752868652],[29.34723091125488,-23.64730262756348],[29.34282302856445,-23.64853096008301],[29.34193992614746,-23.64812660217285],[29.34015464782715,-23.64000511169434],[29.34147644042969,-23.63918876647949],[29.35999488830566,-23.63711547851562],[29.35999870300293,-23.63833427429199],[29.35956573486328,-23.64158630371094],[29.3556022644043,-23.64403343200684],[29.3547248840332,-23.64566040039062],[29.35340690612793,-23.64769554138184]]],"type":"Polygon"}
+}

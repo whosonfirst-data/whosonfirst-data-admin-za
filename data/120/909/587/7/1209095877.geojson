@@ -1,0 +1,63 @@
+{
+  "id": 1209095877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86667,-22.81667,30.86667,-22.81667",
+    "geom:latitude":-22.81667,
+    "geom:longitude":30.86667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Majika",
+    "gn:country_code":"ZA",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980164,
+    "gn:latitude":-22.81667,
+    "gn:longitude":30.86667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Majika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980164
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7b2599eae5076ab97a5a7a6fb6da11e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209095877
+        }
+    ],
+    "wof:id":1209095877,
+    "wof:lastmodified":1536297888,
+    "wof:name":"Majika",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.866670000000006,
+    -22.81667,
+    30.866670000000006,
+    -22.81667
+],
+  "geometry": {"coordinates":[30.86667000000001,-22.81667],"type":"Point"}
+}

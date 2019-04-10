@@ -1,0 +1,113 @@
+{
+  "id": 101928181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000261,
+    "geom:area_square_m":2781156.726627,
+    "geom:bbox":"27.0737762451,-30.3107337952,27.0937290192,-30.2896461487",
+    "geom:latitude":-30.300079,
+    "geom:longitude":27.084091,
+    "gn:population":12449,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.300096,
+    "lbl:longitude":27.084091,
+    "mps:latitude":-30.300096,
+    "mps:longitude":27.084091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Zastron"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0441\u0442\u0440\u043e\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u624e\u65af\u7279\u9f8d"
+    ],
+    "name:dut_x_preferred":[
+        "Zastron"
+    ],
+    "name:eng_x_preferred":[
+        "Zastron"
+    ],
+    "name:fre_x_preferred":[
+        "Zastron"
+    ],
+    "name:ger_x_preferred":[
+        "Zastron"
+    ],
+    "name:nso_x_preferred":[
+        "Zastron"
+    ],
+    "name:rum_x_preferred":[
+        "Zastron"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zastron",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-30.3,
+    "wd:longitude":27.083333,
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937246,
+        "gp:id":1589100,
+        "qs:id":84003,
+        "qs_pg:id":84003,
+        "wd:id":"Q148289",
+        "wk:page":"Zastron"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"040f34e30351168d492a9883f9763437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928181,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928181,
+    "wof:lastmodified":1527715922,
+    "wof:name":"Zastron",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:population":12449,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07377624511719,
+    -30.31073379516602,
+    27.09372901916504,
+    -30.28964614868164
+],
+  "geometry": {"coordinates":[[[27.08919715881348,-30.29481506347656],[27.09031867980957,-30.29615020751953],[27.09209442138672,-30.29856872558594],[27.09272766113281,-30.29942893981934],[27.09341812133789,-30.30330657958984],[27.09361839294434,-30.30554008483887],[27.09372901916504,-30.30677032470703],[27.08348274230957,-30.31073379516602],[27.0777759552002,-30.30381202697754],[27.07377624511719,-30.29268264770508],[27.08182716369629,-30.28964614868164],[27.08264923095703,-30.29209518432617],[27.08736991882324,-30.29169464111328],[27.08756446838379,-30.29286956787109],[27.0886287689209,-30.29413795471191],[27.08919715881348,-30.29481506347656]]],"type":"Polygon"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1125825467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04929,-27.69569,23.04929,-27.69569",
+    "geom:latitude":-27.69569,
+    "geom:longitude":23.04929,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":9219,
+    "gn:population":9219,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.69569,
+    "lbl:longitude":23.04929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Kathu"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u5716"
+    ],
+    "name:dut_x_preferred":[
+        "Kathu"
+    ],
+    "name:eng_x_preferred":[
+        "Kathu"
+    ],
+    "name:ger_x_preferred":[
+        "Kathu"
+    ],
+    "name:ita_x_preferred":[
+        "Kathu"
+    ],
+    "name:nob_x_preferred":[
+        "Kathu"
+    ],
+    "name:pol_x_preferred":[
+        "Kathu"
+    ],
+    "name:spa_x_preferred":[
+        "Kathu"
+    ],
+    "name:ven_x_preferred":[
+        "Kathu"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":991664,
+    "qs_pg:gn_pop":9219,
+    "qs_pg:name":"Kathu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":130241,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991664,
+        "qs_pg:id":130241,
+        "wd:id":"Q1736557"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292255,
+    "wof:geomhash":"7e20e4176ce9cb834d6ef2f32f69fbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1125825467,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125825467,
+    "wof:lastmodified":1553816556,
+    "wof:name":"Kathu",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:population":9219,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04929,
+    -27.69569,
+    23.04929,
+    -27.69569
+],
+  "geometry": {"coordinates":[23.04929,-27.69569],"type":"Point"}
+}

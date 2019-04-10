@@ -1,0 +1,82 @@
+{
+  "id": 1125977825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.192832,-29.496912,30.192832,-29.496912",
+    "geom:latitude":-29.496912,
+    "geom:longitude":30.192832,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.496912,
+    "lbl:longitude":30.192832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tweedie",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1339794,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879701,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879701,
+        "qs_pg:id":1339794
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298419,
+    "wof:geomhash":"a460ace636fe45292e01c5f5d322d080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1125977825,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125977825,
+    "wof:lastmodified":1509404550,
+    "wof:name":"Tweedie",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.192832,
+    -29.496912,
+    30.192832,
+    -29.496912
+],
+  "geometry": {"coordinates":[30.192832,-29.496912],"type":"Point"}
+}

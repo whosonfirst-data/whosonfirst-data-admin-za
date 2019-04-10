@@ -1,0 +1,74 @@
+{
+  "id": 1243438595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74769,-22.80072,30.74769,-22.80072",
+    "geom:latitude":-22.80072,
+    "geom:longitude":30.74769,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Tshaulu",
+    "gn:country_code":"ZA",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947944,
+    "gn:latitude":-22.80072,
+    "gn:longitude":30.74769,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tshaulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshaula Mission",
+        "Tshaula",
+        "Tshaulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947944
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7b15724344c5d35a0b7b7341db469387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1243438595,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243438595,
+    "wof:lastmodified":1537716373,
+    "wof:name":"Tshaulu",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74769,
+    -22.80072,
+    30.74769,
+    -22.80072
+],
+  "geometry": {"coordinates":[30.74769,-22.80072],"type":"Point"}
+}

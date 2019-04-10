@@ -1,0 +1,73 @@
+{
+  "id": 1292984737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80696,-26.88968,26.80696,-26.88968",
+    "geom:latitude":-26.88968,
+    "geom:longitude":26.80696,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC40",
+    "gn:admin3_code":"NW403",
+    "gn:asciiname":"Hartebeesfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997609,
+    "gn:latitude":-26.88968,
+    "gn:longitude":26.80696,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hartebeesfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hartebeestfontein",
+        "Hartebeesfontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997609
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6f3d4d7626ad3c6bd71f675059fc1ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":1292984737,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1292984737,
+    "wof:lastmodified":1537716422,
+    "wof:name":"Hartebeesfontein",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80696,
+    -26.88968,
+    26.80696,
+    -26.88968
+],
+  "geometry": {"coordinates":[26.80696,-26.88968],"type":"Point"}
+}

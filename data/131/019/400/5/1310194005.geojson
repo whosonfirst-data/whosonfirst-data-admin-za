@@ -1,0 +1,69 @@
+{
+  "id": 1310194005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08333,-25.36667,26.08333,-25.36667",
+    "geom:latitude":-25.36667,
+    "geom:longitude":26.08333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW385",
+    "gn:asciiname":"Wykeham",
+    "gn:country_code":"ZA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":937860,
+    "gn:latitude":-25.36667,
+    "gn:longitude":26.08333,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Wykeham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":937860
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b51ce76649efb78017f4eb459699db83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1310194005,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1310194005,
+    "wof:lastmodified":1536867648,
+    "wof:name":"Wykeham",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08333,
+    -25.36667000000001,
+    26.08333,
+    -25.36667000000001
+],
+  "geometry": {"coordinates":[26.08333,-25.36667000000001],"type":"Point"}
+}

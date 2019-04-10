@@ -1,0 +1,73 @@
+{
+  "id": 1210025243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80954,-29.43968,30.80954,-29.43968",
+    "geom:latitude":-29.43968,
+    "geom:longitude":30.80954,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC29",
+    "gn:admin3_code":"KZN293",
+    "gn:asciiname":"Montebello",
+    "gn:country_code":"ZA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974587,
+    "gn:latitude":-29.43968,
+    "gn:longitude":30.80954,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Montebello",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montobella",
+        "Montebello"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974587
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"70f6cc930f45c20dde3c4f73653317c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730567,
+            "locality_id":1210025243,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1210025243,
+    "wof:lastmodified":1537716399,
+    "wof:name":"Montebello",
+    "wof:parent_id":1108730567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80954,
+    -29.43968,
+    30.80954,
+    -29.43968
+],
+  "geometry": {"coordinates":[30.80954,-29.43968],"type":"Point"}
+}

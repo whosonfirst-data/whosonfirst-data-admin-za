@@ -1,0 +1,69 @@
+{
+  "id": 1293304469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21088,-29.62436,26.21088,-29.62436",
+    "geom:latitude":-29.62436,
+    "geom:longitude":26.21088,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS162",
+    "gn:asciiname":"Vogelfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":943129,
+    "gn:latitude":-29.62436,
+    "gn:longitude":26.21088,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Vogelfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":943129
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"796055c4ca1caf5c7f700c75612dce55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1293304469,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293304469,
+    "wof:lastmodified":1537048754,
+    "wof:name":"Vogelfontein",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21088,
+    -29.62436,
+    26.21088,
+    -29.62436
+],
+  "geometry": {"coordinates":[26.21088,-29.62436],"type":"Point"}
+}

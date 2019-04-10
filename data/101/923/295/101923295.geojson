@@ -1,0 +1,73 @@
+{
+  "id": 101923295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":2068104.50294,
+    "geom:bbox":"28.8734169006,-23.5320510864,28.8950042725,-23.5170116425",
+    "geom:latitude":-23.524656,
+    "geom:longitude":28.883989,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.523128,
+    "lbl:longitude":28.882027,
+    "mps:latitude":-23.523128,
+    "mps:longitude":28.882027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ga-Ramela",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002874,
+        "gp:id":1587298
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e54cdea0479dcbcb93d0d1e44ae294e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923295,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923295,
+    "wof:lastmodified":1500028351,
+    "wof:name":"Ga-Ramela",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87341690063477,
+    -23.53205108642578,
+    28.89500427246094,
+    -23.51701164245605
+],
+  "geometry": {"coordinates":[[[28.88134002685547,-23.53041839599609],[28.87796592712402,-23.5291633605957],[28.87341690063477,-23.52187919616699],[28.87429809570312,-23.52066040039062],[28.88267517089844,-23.51701164245605],[28.88443756103516,-23.51701164245605],[28.88663864135742,-23.51985740661621],[28.89500427246094,-23.52758407592773],[28.89456176757812,-23.53002166748047],[28.89323806762695,-23.53083419799805],[28.88971138000488,-23.53205108642578],[28.88838958740234,-23.53164291381836],[28.88751029968262,-23.52920341491699],[28.88486862182617,-23.52798271179199],[28.88134002685547,-23.53041839599609]]],"type":"Polygon"}
+}

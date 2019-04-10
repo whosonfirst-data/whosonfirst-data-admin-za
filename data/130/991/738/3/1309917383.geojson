@@ -1,0 +1,73 @@
+{
+  "id": 1309917383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55207,-27.23075,27.55207,-27.23075",
+    "geom:latitude":-27.23075,
+    "geom:longitude":27.55207,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS203",
+    "gn:asciiname":"Weltevrede Nedersetting",
+    "gn:country_code":"ZA",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":940605,
+    "gn:latitude":-27.23075,
+    "gn:longitude":27.55207,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Weltevrede Nedersetting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weltevreden Settlement",
+        "Weltevrede Nedersetting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940605
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4fe3c0342768c1bac6f2d2ae46482a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1309917383,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1309917383,
+    "wof:lastmodified":1537716369,
+    "wof:name":"Weltevrede Nedersetting",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55207,
+    -27.23075,
+    27.55207,
+    -27.23075
+],
+  "geometry": {"coordinates":[27.55207,-27.23075],"type":"Point"}
+}

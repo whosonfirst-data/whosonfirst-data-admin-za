@@ -1,0 +1,79 @@
+{
+  "id": 101926049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":387430.836348,
+    "geom:bbox":"27.6447811127,-26.3001155853,27.6604480743,-26.2955684662",
+    "geom:latitude":-26.297682,
+    "geom:longitude":27.652782,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.297791,
+    "lbl:longitude":27.652782,
+    "mps:latitude":-26.297791,
+    "mps:longitude":27.652782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "West Rand Garden"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"West Rand Garden Estate",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940432,
+        "gp:id":55881395,
+        "qs_pg:id":901590
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c4f9adcb644731596a41b3136776088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926049,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926049,
+    "wof:lastmodified":1497290119,
+    "wof:name":"West Rand Garden Estate",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6447811126709,
+    -26.30011558532715,
+    27.66044807434082,
+    -26.29556846618652
+],
+  "geometry": {"coordinates":[[[27.65677833557129,-26.29556846618652],[27.66044807434082,-26.29889297485352],[27.65853691101074,-26.30011558532715],[27.65636253356934,-26.29790115356445],[27.65417861938477,-26.29949188232422],[27.6507740020752,-26.29911613464355],[27.65077590942383,-26.29813385009766],[27.64500999450684,-26.29846954345703],[27.64505958557129,-26.29764938354492],[27.6447811126709,-26.29617691040039],[27.65105438232422,-26.29665946960449],[27.65214538574219,-26.29617118835449],[27.65541458129883,-26.29654693603516],[27.65677833557129,-26.29556846618652]]],"type":"Polygon"}
+}

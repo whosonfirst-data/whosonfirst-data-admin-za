@@ -1,0 +1,141 @@
+{
+  "id": 1125994361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54477,-31.62291,29.54477,-31.62291",
+    "geom:latitude":-31.62291,
+    "geom:longitude":29.54477,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5939,
+    "gn:population":5939,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.62291,
+    "lbl:longitude":29.54477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0633\u0627\u0646\u062a \u062c\u0648\u0646\u0632"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7d04\u7ff0\u65af\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:eng_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:fre_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:ger_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:ita_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u30ba"
+    ],
+    "name:nov_x_preferred":[
+        "Port St Johns Komunie"
+    ],
+    "name:nso_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:pol_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:por_x_preferred":[
+        "Port St Johns"
+    ],
+    "name:rum_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:unk_x_variant":[
+        "Umzimvubu"
+    ],
+    "name:xho_x_preferred":[
+        "Port St Johns"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":964408,
+    "qs_pg:gn_pop":5939,
+    "qs_pg:name":"Port Saint Johns",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":355,
+    "qs_pg:photos_1k":72,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":355,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":7904,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586617,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964408,
+        "gp:id":1586617,
+        "qs_pg:id":7904,
+        "wd:id":"Q2604557"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497299219,
+    "wof:geomhash":"b7b32076dd948eedcfe9a190f5fb1189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1125994361,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125994361,
+    "wof:lastmodified":1514504512,
+    "wof:name":"Port Saint Johns",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:population":5939,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54477,
+    -31.62291,
+    29.54477,
+    -31.62291
+],
+  "geometry": {"coordinates":[29.54477,-31.62291],"type":"Point"}
+}

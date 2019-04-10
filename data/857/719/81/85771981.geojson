@@ -1,0 +1,112 @@
+{
+  "id": 85771981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":41703504.414215,
+    "geom:bbox":"30.869792,-30.077915,30.869792,-30.077915",
+    "geom:latitude":-30.077915,
+    "geom:longitude":30.869792,
+    "gn:latitude":-30.05219,
+    "gn:longitude":30.88527,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.077915,
+    "lbl:longitude":30.869792,
+    "mps:latitude":-30.071488,
+    "mps:longitude":30.871317,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Amanzimtoti"
+    ],
+    "name:unk_x_variant":[
+        "Amanzimtoti"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1007311,
+    "qs:gn_nam_loc":"Durban, Ethekwini, Ethekwini, KwaZulu-Natal, ZA",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Amanzimtoti",
+    "qs:local_max":2059,
+    "qs:local_sum":10687,
+    "qs:localhoods":30,
+    "qs:name":"Amanzimtoti",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Kwazulu Natal",
+    "qs:name_adm2":"eThekwini",
+    "qs:name_lau":"Ethekwini",
+    "qs:name_local":"Durban",
+    "qs:photo_max":32,
+    "qs:photo_sum":132,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346982,
+    "qs:woe_adm2":56189410,
+    "qs:woe_lau":56189708,
+    "qs:woe_local":1580913,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730571,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022953,
+        "gp:id":1579448,
+        "qs:id":1090440,
+        "qs_pg:id":1090440,
+        "wd:id":"Q454587",
+        "wk:page":"Amanzimtoti"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81ee843ebcae2e4834db81aa3915c5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":-1,
+            "neighbourhood_id":85771981,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":85771981,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859496,
+    "wof:name":"Amanzimtoti",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.869792,
+    -30.077915,
+    30.869792,
+    -30.077915
+],
+  "geometry": {"coordinates":[30.869792,-30.077915],"type":"Point"}
+}

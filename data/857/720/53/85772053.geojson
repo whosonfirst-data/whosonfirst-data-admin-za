@@ -1,0 +1,111 @@
+{
+  "id": 85772053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1328658.951551,
+    "geom:bbox":"18.5284423828,-33.9433599466,18.5462931258,-33.9321643149",
+    "geom:latitude":-33.938635,
+    "geom:longitude":18.537077,
+    "gn:latitude":-33.95,
+    "gn:longitude":18.53333,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.956989,
+    "lbl:longitude":18.530591,
+    "mps:latitude":-33.938995,
+    "mps:longitude":18.537077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bridgetown"
+    ],
+    "name:unk_x_variant":[
+        "Bridgetown"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Bridgetown",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Bridgetown",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":8,
+    "qs:photo_sum":12,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369317,
+        "gp:id":1580121,
+        "qs:id":1164517,
+        "qs_pg:id":1164517
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0b93d40a97965ce113112a302dfe1cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772053,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772053,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497308607,
+    "wof:name":"Bridgetown",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52844238280005,
+    -33.94335994660003,
+    18.54629312579033,
+    -33.93216431488287
+],
+  "geometry": {"coordinates":[[[18.54592092422536,-33.93725451437624],[18.54627360037347,-33.93841713182762],[18.54629312579033,-33.93840110773215],[18.54604320199604,-33.93930489323157],[18.53942871090004,-33.94196259271179],[18.53942871090004,-33.94335994660003],[18.53393554690001,-33.94335994660003],[18.52844238280005,-33.94335994660003],[18.52844238280005,-33.94196259267164],[18.52844238280005,-33.93880275079993],[18.52844238280005,-33.93652390904978],[18.53393554687523,-33.93652390904978],[18.54116947877094,-33.93216431488287],[18.54116655096965,-33.93219404134789],[18.54223783123052,-33.9327666525769],[18.54375319671215,-33.93401028088799],[18.54499682502313,-33.9355256463698],[18.54592092422536,-33.93725451437624]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101926331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000021,
+    "geom:area_square_m":235149.413324,
+    "geom:bbox":"29.9945640564,-26.5432491302,30.0,-26.5375709534",
+    "geom:latitude":-26.539963,
+    "geom:longitude":29.997786,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.539794,
+    "lbl:longitude":29.997838,
+    "mps:latitude":-26.539794,
+    "mps:longitude":29.997838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nederland Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":5.0,
+    "wd:latitude":29.9731,
+    "wd:longitude":-93.9967,
+    "wd:wordcount":3299,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"c66677c577a1f728688c1eb0f424ac3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926331,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926331,
+    "wof:lastmodified":1534986001,
+    "wof:name":"Nederland Park",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615533
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99456405639648,
+    -26.54324913024902,
+    30.0,
+    -26.53757095336914
+],
+  "geometry": {"coordinates":[[[29.99677085876465,-26.54173851013184],[29.99476432800293,-26.54011344909668],[29.99456405639648,-26.53957176208496],[29.99456405639648,-26.53911972045898],[29.99466514587402,-26.5385799407959],[29.99747467041016,-26.53767585754395],[30.0,-26.53757095336914],[30.0,-26.54324913024902],[29.99677085876465,-26.54173851013184]]],"type":"Polygon"}
+}

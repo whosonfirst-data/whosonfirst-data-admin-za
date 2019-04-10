@@ -1,0 +1,69 @@
+{
+  "id": 1326839097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,-29.55,30.3,-29.55",
+    "geom:latitude":-29.55,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN222",
+    "gn:asciiname":"Saint Annes College",
+    "gn:country_code":"ZA",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":958368,
+    "gn:latitude":-29.55,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Saint Annes College",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958368
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1d4ae7194afc2bb4a1ed0be4c97e7b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1326839097,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1326839097,
+    "wof:lastmodified":1537037182,
+    "wof:name":"Saint Annes College",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    -29.55,
+    30.3,
+    -29.55
+],
+  "geometry": {"coordinates":[30.3,-29.55],"type":"Point"}
+}

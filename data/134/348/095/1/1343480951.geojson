@@ -1,0 +1,74 @@
+{
+  "id": 1343480951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1138,-26.70903,20.1138,-26.70903",
+    "geom:latitude":-26.70903,
+    "geom:longitude":20.1138,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC081",
+    "gn:asciiname":"Leeu Bos",
+    "gn:country_code":"ZA",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984017,
+    "gn:latitude":-26.70903,
+    "gn:longitude":20.1138,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Leeu Bos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Louwbosch Coloured Settlement",
+        "Louwbos Coloured Settlement",
+        "Leeu Bos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984017
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"68e7f77543fe449a4d7eb6c5c7a18b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1343480951,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1343480951,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leeu Bos",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1138,
+    -26.70903,
+    20.1138,
+    -26.70903
+],
+  "geometry": {"coordinates":[20.1138,-26.70903],"type":"Point"}
+}

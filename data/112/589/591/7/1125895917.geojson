@@ -1,0 +1,121 @@
+{
+  "id": 1125895917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.358539,-31.094729,28.358539,-31.094729",
+    "geom:latitude":-31.094729,
+    "geom:longitude":28.358539,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.094729,
+    "lbl:longitude":28.358539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Maclear"
+    ],
+    "name:chi_x_preferred":[
+        "\u9ea5\u514b\u5229\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Maclear"
+    ],
+    "name:eng_x_preferred":[
+        "Maclear"
+    ],
+    "name:ger_x_preferred":[
+        "Maclear"
+    ],
+    "name:ita_x_preferred":[
+        "Maclear"
+    ],
+    "name:nso_x_preferred":[
+        "Maclear"
+    ],
+    "name:rum_x_preferred":[
+        "Maclear"
+    ],
+    "name:ven_x_preferred":[
+        "Maclear"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":980798,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Maclear",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Eastern Cape",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118791,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1584165,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Eastern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980798,
+        "gp:id":1584165,
+        "qs_pg:id":1118791,
+        "wd:id":"Q3643094"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":130228
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295560,
+    "wof:geomhash":"5976749decce5d5ed6e59a5ec1d5515d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1125895917,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125895917,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Maclear",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125780383
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.358539,
+    -31.094729,
+    28.358539,
+    -31.094729
+],
+  "geometry": {"coordinates":[28.358539,-31.094729],"type":"Point"}
+}

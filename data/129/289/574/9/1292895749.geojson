@@ -1,0 +1,73 @@
+{
+  "id": 1292895749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09578,-23.20163,30.09578,-23.20163",
+    "geom:latitude":-23.20163,
+    "geom:longitude":30.09578,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Mbokota",
+    "gn:country_code":"ZA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977605,
+    "gn:latitude":-23.20163,
+    "gn:longitude":30.09578,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mbokota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbhokota",
+        "Mbokota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977605
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"94c849cf541500bcdc226a307e26690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1292895749,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292895749,
+    "wof:lastmodified":1537716403,
+    "wof:name":"Mbokota",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09578,
+    -23.20163,
+    30.09578,
+    -23.20163
+],
+  "geometry": {"coordinates":[30.09578,-23.20163],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101929213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000094,
+    "geom:area_square_m":969128.934541,
+    "geom:bbox":"27.1110115051,-33.2952842712,27.1246166229,-33.2838859558",
+    "geom:latitude":-33.289384,
+    "geom:longitude":27.117219,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.289156,
+    "lbl:longitude":27.11709,
+    "mps:latitude":-33.289156,
+    "mps:longitude":27.11709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Gwalana"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mgwalana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976590,
+        "gp:id":1584715
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"677ea52a3fd7b0f48416a1ff12218611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":101929213,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101929213,
+    "wof:lastmodified":1534986003,
+    "wof:name":"Mgwalana",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615585
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11101150512695,
+    -33.29528427124023,
+    27.1246166229248,
+    -33.28388595581055
+],
+  "geometry": {"coordinates":[[[27.11953353881836,-33.28579330444336],[27.12381744384766,-33.2877082824707],[27.1246166229248,-33.28964996337891],[27.12348175048828,-33.29193878173828],[27.11884307861328,-33.29262924194336],[27.11616134643555,-33.29492950439453],[27.11268043518066,-33.29528427124023],[27.11300277709961,-33.29007720947266],[27.11181259155273,-33.28781127929688],[27.11101150512695,-33.28554153442383],[27.11447525024414,-33.28388595581055],[27.11758995056152,-33.28516006469727],[27.11953353881836,-33.28579330444336]]],"type":"Polygon"}
+}

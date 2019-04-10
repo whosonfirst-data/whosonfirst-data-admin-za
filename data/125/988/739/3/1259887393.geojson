@@ -1,0 +1,73 @@
+{
+  "id": 1259887393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20721,-29.25969,27.20721,-29.25969",
+    "geom:latitude":-29.25969,
+    "geom:longitude":27.20721,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Leeurivier",
+    "gn:country_code":"ZA",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983849,
+    "gn:latitude":-29.25969,
+    "gn:longitude":27.20721,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Leeurivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leeuw Rivier",
+        "Leeurivier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983849
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"519f94c83a5cc1aa66338b523801a3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1259887393,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1259887393,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leeurivier",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20721,
+    -29.25969000000001,
+    27.20721,
+    -29.25969000000001
+],
+  "geometry": {"coordinates":[27.20721,-29.25969000000001],"type":"Point"}
+}

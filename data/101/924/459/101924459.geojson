@@ -1,0 +1,73 @@
+{
+  "id": 101924459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1651825.744324,
+    "geom:bbox":"30.9904689789,-24.6030426025,31.0046482086,-24.5891056061",
+    "geom:latitude":-24.596606,
+    "geom:longitude":30.997925,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.596831,
+    "lbl:longitude":30.997925,
+    "mps:latitude":-24.596831,
+    "mps:longitude":30.997925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ga-Maotole",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003297,
+        "gp:id":56122613
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0f1f18a57ed2611bda230c853a2ae851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924459,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924459,
+    "wof:lastmodified":1500026347,
+    "wof:name":"Ga-Maotole",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99046897888184,
+    -24.60304260253906,
+    31.00464820861816,
+    -24.5891056060791
+],
+  "geometry": {"coordinates":[[[31.00387573242188,-24.60244750976562],[30.9927806854248,-24.60304260253906],[30.9918384552002,-24.59975624084473],[30.99046897888184,-24.59733581542969],[30.99308013916016,-24.59364700317383],[30.99393081665039,-24.5911979675293],[30.99435615539551,-24.58997344970703],[30.9965705871582,-24.58954048156738],[30.99878692626953,-24.5891056060791],[31.00058174133301,-24.59030151367188],[31.00282096862793,-24.59149169921875],[31.00372123718262,-24.59229278564453],[31.00464820861816,-24.59471893310547],[31.0037899017334,-24.59675979614258],[31.00383377075195,-24.5996036529541],[31.00385856628418,-24.60122871398926],[31.00387573242188,-24.60244750976562]]],"type":"Polygon"}
+}

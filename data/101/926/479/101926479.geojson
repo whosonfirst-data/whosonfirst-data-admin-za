@@ -1,0 +1,72 @@
+{
+  "id": 101926479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":2322956.330468,
+    "geom:bbox":"27.8449363708,-26.810251236,27.8621959686,-26.7924900055",
+    "geom:latitude":-26.800903,
+    "geom:longitude":27.853894,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.800828,
+    "lbl:longitude":27.854058,
+    "mps:latitude":-26.800828,
+    "mps:longitude":27.854058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Welgelegen-Wes",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587210
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fe04fb9494b1286652be20ac14afdcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926479,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926479,
+    "wof:lastmodified":1500027649,
+    "wof:name":"Welgelegen-Wes",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84493637084961,
+    -26.81025123596191,
+    27.86219596862793,
+    -26.79249000549316
+],
+  "geometry": {"coordinates":[[[27.8487434387207,-26.79355049133301],[27.84866142272949,-26.79312324523926],[27.85113525390625,-26.79250717163086],[27.85368919372559,-26.79249000549316],[27.86124801635742,-26.79519081115723],[27.86189079284668,-26.7957592010498],[27.86215400695801,-26.79667472839355],[27.86140060424805,-26.79828453063965],[27.86140823364258,-26.79920196533203],[27.86192893981934,-26.80023002624512],[27.86219024658203,-26.8009147644043],[27.86219596862793,-26.80171775817871],[27.85588073730469,-26.81024169921875],[27.8544750213623,-26.81025123596191],[27.84493637084961,-26.80495262145996],[27.84561729431152,-26.80309295654297],[27.84887313842773,-26.79421997070312],[27.8487434387207,-26.79355049133301]]],"type":"Polygon"}
+}

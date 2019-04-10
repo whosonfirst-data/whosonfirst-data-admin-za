@@ -1,0 +1,102 @@
+{
+  "id": 101929269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000159,
+    "geom:area_square_m":1699971.099513,
+    "geom:bbox":"30.9192028046,-30.018032074,30.9493618011,-30.0",
+    "geom:latitude":-30.006478,
+    "geom:longitude":30.934122,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.004728,
+    "lbl:longitude":30.93515,
+    "mps:latitude":-30.004728,
+    "mps:longitude":30.93515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Isipingo"
+    ],
+    "name:dut_x_preferred":[
+        "Isipingo"
+    ],
+    "name:eng_x_preferred":[
+        "Isipingo Beach"
+    ],
+    "name:eng_x_variant":[
+        "Isipingo Village",
+        "Isipingo"
+    ],
+    "name:rum_x_preferred":[
+        "Isipingo"
+    ],
+    "name:unk_x_variant":[
+        "Isipingo Village"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Isipingo Beach",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1462dde0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":994490,
+        "gp:id":1582447,
+        "wd:id":"Q6081161",
+        "wk:page":"Isipingo"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4afc1738f0044cf08c96fa4db6823739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":101929269,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101929269,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534986005,
+    "wof:name":"Isipingo Beach",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615619
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91920280456543,
+    -30.01803207397461,
+    30.94936180114746,
+    -30.0
+],
+  "geometry": {"coordinates":[[[30.94936180114746,-30.0],[30.945556640625,-30.00289535522461],[30.93933486938477,-30.00672721862793],[30.93311500549316,-30.01078224182129],[30.91920280456543,-30.01803207397461],[30.92079734802246,-30.01544761657715],[30.92145156860352,-30.01438331604004],[30.92663764953613,-30.00920104980469],[30.93078804016113,-30.00424194335938],[30.93338012695312,-30.00041007995605],[30.93357849121094,-30.0],[30.94936180114746,-30.0]]],"type":"Polygon"}
+}

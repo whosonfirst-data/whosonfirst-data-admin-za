@@ -1,0 +1,69 @@
+{
+  "id": 1276552397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.20881,-30.65334,28.20881,-30.65334",
+    "geom:latitude":-30.65334,
+    "geom:longitude":28.20881,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Tsatsana",
+    "gn:country_code":"ZA",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":948024,
+    "gn:latitude":-30.65334,
+    "gn:longitude":28.20881,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tsatsana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":948024
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d38bd59cc6075e306d70f7e33e6514e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1276552397,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276552397,
+    "wof:lastmodified":1536981759,
+    "wof:name":"Tsatsana",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.20881,
+    -30.65334,
+    28.20881,
+    -30.65334
+],
+  "geometry": {"coordinates":[28.20881,-30.65334],"type":"Point"}
+}

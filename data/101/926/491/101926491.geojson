@@ -1,0 +1,72 @@
+{
+  "id": 101926491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":515439.771531,
+    "geom:bbox":"27.8280467987,-26.8464508057,27.8400821686,-26.8413219452",
+    "geom:latitude":-26.84415,
+    "geom:longitude":27.833783,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.843999,
+    "lbl:longitude":27.833784,
+    "mps:latitude":-26.843999,
+    "mps:longitude":27.833784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sigma Myn",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955757
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c546d21b1c453de67605fb52c5051555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926491,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926491,
+    "wof:lastmodified":1500027638,
+    "wof:name":"Sigma Myn",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82804679870605,
+    -26.84645080566406,
+    27.8400821685791,
+    -26.84132194519043
+],
+  "geometry": {"coordinates":[[[27.82857894897461,-26.84571075439453],[27.82806777954102,-26.84560012817383],[27.82805252075195,-26.84423828125],[27.82804679870605,-26.84366607666016],[27.82816886901855,-26.84286308288574],[27.82880401611328,-26.84239959716797],[27.83607864379883,-26.84132194519043],[27.83723068237305,-26.8416576385498],[27.8380069732666,-26.84279823303223],[27.8400821685791,-26.84643936157227],[27.83880424499512,-26.8464469909668],[27.83812141418457,-26.84645080566406],[27.83112907409668,-26.84626579284668],[27.82857894897461,-26.84571075439453]]],"type":"Polygon"}
+}

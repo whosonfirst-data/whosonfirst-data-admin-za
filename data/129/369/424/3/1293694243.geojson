@@ -1,0 +1,73 @@
+{
+  "id": 1293694243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80949,-29.16504,26.80949,-29.16504",
+    "geom:latitude":-29.16504,
+    "geom:longitude":26.80949,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Bultfontein Number Two",
+    "gn:country_code":"ZA",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014738,
+    "gn:latitude":-29.16504,
+    "gn:longitude":26.80949,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bultfontein Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bultfontein Number 2",
+        "Bultfontein Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014738
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0f5bbd877d77d31b11f01e0580bb568f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1293694243,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293694243,
+    "wof:lastmodified":1537716434,
+    "wof:name":"Bultfontein Number Two",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80949,
+    -29.16504,
+    26.80949,
+    -29.16504
+],
+  "geometry": {"coordinates":[26.80949,-29.16504],"type":"Point"}
+}

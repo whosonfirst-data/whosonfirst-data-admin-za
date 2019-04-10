@@ -1,0 +1,69 @@
+{
+  "id": 1310297743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.25263,-26.17061,28.25263,-26.17061",
+    "geom:latitude":-26.17061,
+    "geom:longitude":28.25263,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"EKU",
+    "gn:admin3_code":"EKU",
+    "gn:asciiname":"Bartlett",
+    "gn:country_code":"ZA",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870412,
+    "gn:latitude":-26.17061,
+    "gn:longitude":28.25263,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bartlett",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870412
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e68d9288b373ecd7cf042b3452c7d11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":1310297743,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1310297743,
+    "wof:lastmodified":1536719494,
+    "wof:name":"Bartlett",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25263,
+    -26.17061,
+    28.25263,
+    -26.17061
+],
+  "geometry": {"coordinates":[28.25263,-26.17061],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309707047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8057,-23.11843,29.8057,-23.11843",
+    "geom:latitude":-23.11843,
+    "geom:longitude":29.8057,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Gertrudsburg",
+    "gn:country_code":"ZA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1002094,
+    "gn:latitude":-23.11843,
+    "gn:longitude":29.8057,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Gertrudsburg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1002094
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"923b1e25d25f55d58fa48518fc7f8b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1309707047,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1309707047,
+    "wof:lastmodified":1537070459,
+    "wof:name":"Gertrudsburg",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8057,
+    -23.11843,
+    29.8057,
+    -23.11843
+],
+  "geometry": {"coordinates":[29.8057,-23.11843],"type":"Point"}
+}

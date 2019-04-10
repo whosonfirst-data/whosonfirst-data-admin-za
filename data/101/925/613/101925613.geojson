@@ -1,0 +1,77 @@
+{
+  "id": 101925613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000278,
+    "geom:area_square_m":3094018.824889,
+    "geom:bbox":"29.792766571,-25.9531002045,29.8168544769,-25.9308109283",
+    "geom:latitude":-25.941601,
+    "geom:longitude":29.804942,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.940121,
+    "lbl:longitude":29.805124,
+    "mps:latitude":-25.940121,
+    "mps:longitude":29.805124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Arnot"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Arnot",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022241,
+        "gp:id":12517393
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0bd696331eebef9404fd997150d2027f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101925613,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101925613,
+    "wof:lastmodified":1527688522,
+    "wof:name":"Arnot",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79276657104492,
+    -25.95310020446777,
+    29.81685447692871,
+    -25.93081092834473
+],
+  "geometry": {"coordinates":[[[29.80288696289062,-25.93081092834473],[29.81685447692871,-25.9372386932373],[29.81424331665039,-25.94716453552246],[29.79826736450195,-25.94741439819336],[29.79785919189453,-25.95310020446777],[29.79276657104492,-25.95282173156738],[29.79367446899414,-25.94794845581055],[29.79868316650391,-25.93730354309082],[29.80288696289062,-25.93081092834473]]],"type":"Polygon"}
+}

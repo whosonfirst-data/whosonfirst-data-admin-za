@@ -1,0 +1,72 @@
+{
+  "id": 101924173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":1241927.318797,
+    "geom:bbox":"30.1074199677,-23.3357696533,30.1161594391,-23.3164386749",
+    "geom:latitude":-23.325424,
+    "geom:longitude":30.111467,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.325271,
+    "lbl:longitude":30.111467,
+    "mps:latitude":-23.325271,
+    "mps:longitude":30.111467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Muwaweni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583969
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a5955e0fc7970430988d480bff298b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101924173,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924173,
+    "wof:lastmodified":1500028412,
+    "wof:name":"Muwaweni",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10741996765137,
+    -23.33576965332031,
+    30.11615943908691,
+    -23.31643867492676
+],
+  "geometry": {"coordinates":[[[30.11099243164062,-23.33514213562012],[30.10857582092285,-23.33576965332031],[30.10746192932129,-23.33394813537598],[30.10741996765137,-23.32907295227051],[30.10869026184082,-23.32296943664551],[30.11040115356445,-23.3172664642334],[30.11127471923828,-23.31644821166992],[30.11259460449219,-23.31643867492676],[30.11479759216309,-23.31682968139648],[30.11613273620605,-23.31844520568848],[30.11615943908691,-23.32169532775879],[30.1122875213623,-23.33228874206543],[30.11099243164062,-23.33514213562012]]],"type":"Polygon"}
+}

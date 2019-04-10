@@ -1,0 +1,69 @@
+{
+  "id": 1343584025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.00077,-31.00909,26.00077,-31.00909",
+    "geom:latitude":-31.00909,
+    "geom:longitude":26.00077,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Cyprusdale",
+    "gn:country_code":"ZA",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1012236,
+    "gn:latitude":-31.00909,
+    "gn:longitude":26.00077,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Cyprusdale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1012236
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"37e31f68bf538529b7fd56e181e558e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1343584025,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1343584025,
+    "wof:lastmodified":1537062691,
+    "wof:name":"Cyprusdale",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.00077000000001,
+    -31.00909,
+    26.00077000000001,
+    -31.00909
+],
+  "geometry": {"coordinates":[26.00077000000001,-31.00909],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242951215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67031,-33.89904,22.67031,-33.89904",
+    "geom:latitude":-33.89904,
+    "geom:longitude":22.67031,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC044",
+    "gn:asciiname":"Bergplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1019988,
+    "gn:latitude":-33.89904,
+    "gn:longitude":22.67031,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bergplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bergplaats",
+        "Bergplaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019988
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bf9af74d7ce9b6e2670fd6a233b9bdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1242951215,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1242951215,
+    "wof:lastmodified":1537716438,
+    "wof:name":"Bergplaas",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67031,
+    -33.89904,
+    22.67031,
+    -33.89904
+],
+  "geometry": {"coordinates":[22.67031,-33.89904],"type":"Point"}
+}

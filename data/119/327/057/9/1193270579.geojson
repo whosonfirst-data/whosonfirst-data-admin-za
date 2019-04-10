@@ -1,0 +1,69 @@
+{
+  "id": 1193270579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40405,-26.12229,28.40405,-26.12229",
+    "geom:latitude":-26.12229,
+    "geom:longitude":28.40405,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"EKU",
+    "gn:admin3_code":"EKU",
+    "gn:asciiname":"Putfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":963829,
+    "gn:latitude":-26.12229,
+    "gn:longitude":28.40405,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Putfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":963829
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8b9bdd3f2af6731345cbe35a59a28ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":1193270579,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1193270579,
+    "wof:lastmodified":1536371131,
+    "wof:name":"Putfontein",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40405,
+    -26.12229,
+    28.40405,
+    -26.12229
+],
+  "geometry": {"coordinates":[28.40405,-26.12229],"type":"Point"}
+}

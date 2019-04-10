@@ -1,0 +1,69 @@
+{
+  "id": 1259582469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93298,-30.66151,25.93298,-30.66151",
+    "geom:latitude":-30.66151,
+    "geom:longitude":25.93298,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Klein Kareepoort",
+    "gn:country_code":"ZA",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990344,
+    "gn:latitude":-30.66151,
+    "gn:longitude":25.93298,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klein Kareepoort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990344
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a80ed5606102c1f7a602fec01b0215b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1259582469,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1259582469,
+    "wof:lastmodified":1536716646,
+    "wof:name":"Klein Kareepoort",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93298,
+    -30.66151,
+    25.93298,
+    -30.66151
+],
+  "geometry": {"coordinates":[25.93298,-30.66151],"type":"Point"}
+}

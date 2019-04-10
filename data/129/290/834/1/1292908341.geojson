@@ -1,0 +1,69 @@
+{
+  "id": 1292908341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09768,-31.69385,28.09768,-31.69385",
+    "geom:latitude":-31.69385,
+    "geom:longitude":28.09768,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Roma",
+    "gn:country_code":"ZA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":960837,
+    "gn:latitude":-31.69385,
+    "gn:longitude":28.09768,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Roma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960837
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"094419a83465bbcb24bb1cc2f5249bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1292908341,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1292908341,
+    "wof:lastmodified":1536625984,
+    "wof:name":"Roma",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09768,
+    -31.69385,
+    28.09768,
+    -31.69385
+],
+  "geometry": {"coordinates":[28.09768,-31.69385],"type":"Point"}
+}

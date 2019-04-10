@@ -1,0 +1,82 @@
+{
+  "id": 1125954631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.049938,-24.539627,31.049938,-24.539627",
+    "geom:latitude":-24.539627,
+    "geom:longitude":31.049938,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.539627,
+    "lbl:longitude":31.049938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Klaserie",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Limpopo",
+    "qs_pg:photos":178,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":178,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":56263,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879553,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Limpopo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879553,
+        "qs_pg:id":56263
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297577,
+    "wof:geomhash":"1970145ade66211697f4416ead45a33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1125954631,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125954631,
+    "wof:lastmodified":1509402913,
+    "wof:name":"Klaserie",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.049938,
+    -24.539627,
+    31.049938,
+    -24.539627
+],
+  "geometry": {"coordinates":[31.049938,-24.539627],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327338439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69129,-31.18556,29.69129,-31.18556",
+    "geom:latitude":-31.18556,
+    "geom:longitude":29.69129,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Mhlanga",
+    "gn:country_code":"ZA",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976515,
+    "gn:latitude":-31.18556,
+    "gn:longitude":29.69129,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Mhlanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mhlange",
+        "Mhlanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976515
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a0a34f0d739fbe2182a2e11ecef75402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1327338439,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1327338439,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Mhlanga",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69129,
+    -31.18556,
+    29.69129,
+    -31.18556
+],
+  "geometry": {"coordinates":[29.69129,-31.18556],"type":"Point"}
+}

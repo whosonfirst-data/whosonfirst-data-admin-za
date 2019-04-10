@@ -1,0 +1,67 @@
+{
+  "id": 1293189891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63107,-27.46318,23.63107,-27.46318",
+    "geom:latitude":-27.46318,
+    "geom:longitude":23.63107,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ntswelengwe",
+    "gn:country_code":"ZA",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969028,
+    "gn:latitude":-27.46318,
+    "gn:longitude":23.63107,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ntswelengwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969028
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"854568d13e28b1fab91f687d93119585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1293189891,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1293189891,
+    "wof:lastmodified":1536719488,
+    "wof:name":"Ntswelengwe",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63107,
+    -27.46318,
+    23.63107,
+    -27.46318
+],
+  "geometry": {"coordinates":[23.63107,-27.46318],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101927267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000474,
+    "geom:area_square_m":5277090.690229,
+    "geom:bbox":"30.0220718384,-25.7021884918,30.049118042,-25.6729393005",
+    "geom:latitude":-25.686165,
+    "geom:longitude":30.035897,
+    "gn:population":11916,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.686842,
+    "lbl:longitude":30.034288,
+    "mps:latitude":-25.686842,
+    "mps:longitude":30.034288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Belfast"
+    ],
+    "name:deu_x_preferred":[
+        "EMakhazeni"
+    ],
+    "name:nso_x_preferred":[
+        "Belfast"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u0430\u043a\u0445\u0430\u0437\u0435\u043d\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u6cd5\u65af\u7279"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Belfast",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-25.68935,
+    "wd:longitude":30.031667,
+    "wd:wordcount":314,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020340,
+        "gp:id":1589221,
+        "qs:id":276209,
+        "qs_pg:id":276209,
+        "wd:id":"Q301107",
+        "wk:page":"Belfast, Mpumalanga"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"385c22d2399e30e4b49526a7b2e5731b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101927267,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927267,
+    "wof:lastmodified":1527715635,
+    "wof:name":"Belfast",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:population":11916,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02207183837891,
+    -25.70218849182129,
+    30.04911804199219,
+    -25.67293930053711
+],
+  "geometry": {"coordinates":[[[30.02207183837891,-25.67465782165527],[30.02623748779297,-25.6742057800293],[30.03791046142578,-25.67293930053711],[30.03980445861816,-25.67555809020996],[30.04617881774902,-25.67564582824707],[30.04677963256836,-25.68061065673828],[30.04129981994629,-25.68277931213379],[30.04189872741699,-25.68611907958984],[30.04349517822266,-25.6890983581543],[30.04362487792969,-25.68923950195312],[30.04449081420898,-25.6901798248291],[30.04768371582031,-25.69812393188477],[30.04911804199219,-25.70169639587402],[30.04001235961914,-25.70218849182129],[30.03522682189941,-25.6964111328125],[30.03462982177734,-25.69587135314941],[30.03343391418457,-25.6953296661377],[30.03183937072754,-25.69505882263184],[30.03124237060547,-25.6939754486084],[30.02805328369141,-25.69406700134277],[30.02207183837891,-25.67465782165527]]],"type":"Polygon"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 101925875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000141,
+    "geom:area_square_m":1564255.880674,
+    "geom:bbox":"27.7562198639,-26.2037010193,27.7744312286,-26.1875972748",
+    "geom:latitude":-26.196299,
+    "geom:longitude":27.766264,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.193167,
+    "lbl:longitude":27.767643,
+    "mps:latitude":-26.193167,
+    "mps:longitude":27.767643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Rietvallei"
+    ],
+    "name:eng_x_preferred":[
+        "Rietvallei"
+    ],
+    "name:fre_x_preferred":[
+        "Rietvallei"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rietvallei",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030235,
+        "gp:id":1582504,
+        "wd:id":"Q7333189"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39837e5a76a04ad6bca6ae12099ac65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101925875,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925875,
+    "wof:lastmodified":1534985996,
+    "wof:name":"Rietvallei",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615419
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7562198638916,
+    -26.20370101928711,
+    27.7744312286377,
+    -26.18759727478027
+],
+  "geometry": {"coordinates":[[[27.76184463500977,-26.19464683532715],[27.76508903503418,-26.18759727478027],[27.7744312286377,-26.19175338745117],[27.76965141296387,-26.20186996459961],[27.76437568664551,-26.20370101928711],[27.76268005371094,-26.20201110839844],[27.7609748840332,-26.20369529724121],[27.7562198638916,-26.20092582702637],[27.76013946533203,-26.1966381072998],[27.7635326385498,-26.20032501220703],[27.76609039306641,-26.19695472717285],[27.76184463500977,-26.19464683532715]]],"type":"Polygon"}
+}

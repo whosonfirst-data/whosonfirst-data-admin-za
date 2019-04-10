@@ -1,0 +1,70 @@
+{
+  "id": 1293764845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04118,-34.1511,19.04118,-34.1511",
+    "geom:latitude":-34.1511,
+    "geom:longitude":19.04118,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC031",
+    "gn:asciiname":"Elgin",
+    "gn:country_code":"ZA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3368061,
+    "gn:latitude":-34.1511,
+    "gn:longitude":19.04118,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Elgin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368061,
+        "wk:page":"Elgin%2C_Western_Cape"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"af5afad98933c9098564f6076c8c7013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1293764845,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293764845,
+    "wof:lastmodified":1537576372,
+    "wof:name":"Elgin",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04118,
+    -34.1511,
+    19.04118,
+    -34.1511
+],
+  "geometry": {"coordinates":[19.04118,-34.1511],"type":"Point"}
+}

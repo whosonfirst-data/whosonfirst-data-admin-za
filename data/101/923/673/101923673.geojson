@@ -1,0 +1,72 @@
+{
+  "id": 101923673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000213,
+    "geom:area_square_m":2398039.718445,
+    "geom:bbox":"29.4185504913,-24.5443782806,29.4481773376,-24.5308895111",
+    "geom:latitude":-24.537441,
+    "geom:longitude":29.434108,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.536403,
+    "lbl:longitude":29.435118,
+    "mps:latitude":-24.536403,
+    "mps:longitude":29.435118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mehlareng",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1469a9f083c6802334cf4f449cc12b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923673,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923673,
+    "wof:lastmodified":1500028371,
+    "wof:name":"Mehlareng",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41855049133301,
+    -24.54437828063965,
+    29.44817733764648,
+    -24.5308895111084
+],
+  "geometry": {"coordinates":[[[29.41855049133301,-24.5406379699707],[29.41945838928223,-24.53989219665527],[29.4204158782959,-24.53910255432129],[29.42706298828125,-24.5350227355957],[29.43371391296387,-24.53216171264648],[29.4385986328125,-24.53174209594727],[29.44037437438965,-24.53173637390137],[29.44488716125488,-24.5308895111084],[29.4461555480957,-24.53456497192383],[29.44817733764648,-24.53976631164551],[29.43063545227051,-24.54110717773438],[29.42487144470215,-24.54396629333496],[29.42265319824219,-24.54437828063965],[29.42176246643066,-24.54397392272949],[29.41855049133301,-24.5406379699707]]],"type":"Polygon"}
+}

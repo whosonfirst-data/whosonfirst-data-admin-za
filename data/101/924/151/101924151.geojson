@@ -1,0 +1,131 @@
+{
+  "id": 101924151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000269,
+    "geom:area_square_m":3056320.669808,
+    "geom:bbox":"30.6903152466,-23.3032913208,30.7156715393,-23.2835388184",
+    "geom:latitude":-23.294295,
+    "geom:longitude":30.702176,
+    "gn:population":37024,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.29533,
+    "lbl:longitude":30.699871,
+    "mps:latitude":-23.29533,
+    "mps:longitude":30.699871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Giyani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0438\u044f\u043d\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u4e9e\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Giyani"
+    ],
+    "name:eng_x_preferred":[
+        "Giyani"
+    ],
+    "name:fre_x_preferred":[
+        "Giyani"
+    ],
+    "name:ger_x_preferred":[
+        "Giyani"
+    ],
+    "name:ita_x_preferred":[
+        "Giyani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30e4\u30cb"
+    ],
+    "name:nso_x_preferred":[
+        "Giyani"
+    ],
+    "name:rum_x_preferred":[
+        "Giyani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u044f\u043d\u0438"
+    ],
+    "name:sna_x_preferred":[
+        "Giyani"
+    ],
+    "name:spa_x_preferred":[
+        "Giyani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u044f\u043d\u0456"
+    ],
+    "name:ven_x_preferred":[
+        "Giyani"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GIYANI",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-23.316667,
+    "wd:longitude":30.716667,
+    "wd:wordcount":1860,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001860,
+        "gp:id":56122569,
+        "qs:id":1243006,
+        "wd:id":"Q1528852",
+        "wk:page":"Giyani"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee8bc2987071ce6c3de3e60770933ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":101924151,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101924151,
+    "wof:lastmodified":1527670488,
+    "wof:name":"Giyani",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:population":37024,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69031524658203,
+    -23.30329132080078,
+    30.71567153930664,
+    -23.28353881835938
+],
+  "geometry": {"coordinates":[[[30.69245910644531,-23.2951602935791],[30.69585800170898,-23.28577613830566],[30.70029258728027,-23.28857231140137],[30.7047061920166,-23.28974342346191],[30.7091007232666,-23.2892894744873],[30.71298980712891,-23.28396415710449],[30.71474456787109,-23.28353881835938],[30.71562957763672,-23.283935546875],[30.71567153930664,-23.28718566894531],[30.71397590637207,-23.29207992553711],[30.71007347106934,-23.29659271240234],[30.7039680480957,-23.30072402954102],[30.69871520996094,-23.30281257629395],[30.6952018737793,-23.30325889587402],[30.6921215057373,-23.30329132080078],[30.69031524658203,-23.29965400695801],[30.69245910644531,-23.2951602935791]]],"type":"Polygon"}
+}

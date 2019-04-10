@@ -1,0 +1,69 @@
+{
+  "id": 1344270073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79136,-30.55401,29.79136,-30.55401",
+    "geom:latitude":-30.55401,
+    "geom:longitude":29.79136,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN214",
+    "gn:asciiname":"Sutherland",
+    "gn:country_code":"ZA",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951272,
+    "gn:latitude":-30.55401,
+    "gn:longitude":29.79136,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sutherland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951272
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b1ac4ce255b2596a708158d72388b956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1344270073,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1344270073,
+    "wof:lastmodified":1537067265,
+    "wof:name":"Sutherland",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79136,
+    -30.55401,
+    29.79136,
+    -30.55401
+],
+  "geometry": {"coordinates":[29.79136,-30.55401],"type":"Point"}
+}

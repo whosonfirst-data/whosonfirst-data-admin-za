@@ -1,0 +1,72 @@
+{
+  "id": 101928245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000313,
+    "geom:area_square_m":3335092.663539,
+    "geom:bbox":"29.8590679169,-30.4580497742,29.8820648193,-30.4329891205",
+    "geom:latitude":-30.444236,
+    "geom:longitude":29.869044,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.444098,
+    "lbl:longitude":29.867128,
+    "mps:latitude":-30.444098,
+    "mps:longitude":29.867128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kok's Hill",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586618
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"41144debd3207257ecdae27ee2fb41ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":101928245,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101928245,
+    "wof:lastmodified":1500027493,
+    "wof:name":"Kok's Hill",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85906791687012,
+    -30.45804977416992,
+    29.88206481933594,
+    -30.4329891204834
+],
+  "geometry": {"coordinates":[[[29.88060760498047,-30.43356704711914],[29.88206481933594,-30.43857383728027],[29.87796592712402,-30.44014549255371],[29.87574768066406,-30.44278144836426],[29.872802734375,-30.44894599914551],[29.87054634094238,-30.45804977416992],[29.86492538452148,-30.4571533203125],[29.86230850219727,-30.45434761047363],[29.86214447021484,-30.45038223266602],[29.85906791687012,-30.44650840759277],[29.85930442810059,-30.44216918945312],[29.86248397827148,-30.43846130371094],[29.86607933044434,-30.43474197387695],[29.87068367004395,-30.4353199005127],[29.87484359741211,-30.43519020080566],[29.87600135803223,-30.4329891204834],[29.88060760498047,-30.43356704711914]]],"type":"Polygon"}
+}

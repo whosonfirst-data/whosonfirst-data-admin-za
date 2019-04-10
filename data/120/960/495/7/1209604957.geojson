@@ -1,0 +1,63 @@
+{
+  "id": 1209604957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9965,-23.52709,28.9965,-23.52709",
+    "geom:latitude":-23.52709,
+    "geom:longitude":28.9965,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM352",
+    "gn:asciiname":"Pinkie",
+    "gn:country_code":"ZA",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965150,
+    "gn:latitude":-23.52709,
+    "gn:longitude":28.9965,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pinkie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965150
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"57948f6f73deec5fe7efb48f1912587a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209604957
+        }
+    ],
+    "wof:id":1209604957,
+    "wof:lastmodified":1536282042,
+    "wof:name":"Pinkie",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9965,
+    -23.52709,
+    28.9965,
+    -23.52709
+],
+  "geometry": {"coordinates":[28.9965,-23.52709],"type":"Point"}
+}

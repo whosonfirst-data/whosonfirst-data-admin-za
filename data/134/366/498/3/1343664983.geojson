@@ -1,0 +1,73 @@
+{
+  "id": 1343664983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89788,-29.79312,30.89788,-29.79312",
+    "geom:latitude":-29.79312,
+    "geom:longitude":30.89788,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Clermont",
+    "gn:country_code":"ZA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1013337,
+    "gn:latitude":-29.79312,
+    "gn:longitude":30.89788,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Clermont",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Claremont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1013337,
+        "wk:page":"Clermont%2C_KwaZulu-Natal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e1f6c09d0e686e4c7e4174a95f5106fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1343664983,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1343664983,
+    "wof:lastmodified":1537716432,
+    "wof:name":"Clermont",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89788,
+    -29.79312,
+    30.89788,
+    -29.79312
+],
+  "geometry": {"coordinates":[30.89788,-29.79312],"type":"Point"}
+}

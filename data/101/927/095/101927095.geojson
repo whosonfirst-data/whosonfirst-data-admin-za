@@ -1,0 +1,94 @@
+{
+  "id": 101927095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":595162.252879,
+    "geom:bbox":"29.9736289978,-29.3145523071,29.9816150665,-29.29986763",
+    "geom:latitude":-29.307067,
+    "geom:longitude":29.976462,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.308091,
+    "lbl:longitude":29.975736,
+    "mps:latitude":-29.308091,
+    "mps:longitude":29.975736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Rosetta"
+    ],
+    "name:cat_x_preferred":[
+        "Rosetta"
+    ],
+    "name:dut_x_preferred":[
+        "Rosetta"
+    ],
+    "name:eng_x_preferred":[
+        "Rosetta"
+    ],
+    "name:ger_x_preferred":[
+        "Rosetta"
+    ],
+    "name:rum_x_preferred":[
+        "Rosetta"
+    ],
+    "name:spa_x_preferred":[
+        "Rosetta"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rosetta",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587035,
+        "wd:id":"Q12739595"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5f140e08231d8c150d2dfeefad3c478e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927095,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927095,
+    "wof:lastmodified":1514504522,
+    "wof:name":"Rosetta",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97362899780273,
+    -29.31455230712891,
+    29.98161506652832,
+    -29.29986763000488
+],
+  "geometry": {"coordinates":[[[29.9770565032959,-29.29986763000488],[29.97953796386719,-29.30027198791504],[29.97858619689941,-29.30123138427734],[29.97774887084961,-29.30298805236816],[29.97726440429688,-29.30483055114746],[29.97735023498535,-29.30653190612793],[29.97774505615234,-29.30821800231934],[29.97835922241211,-29.3099536895752],[29.9792366027832,-29.31161308288574],[29.98027038574219,-29.31319999694824],[29.98147583007812,-29.3144588470459],[29.98161506652832,-29.31455230712891],[29.97640609741211,-29.31362152099609],[29.97362899780273,-29.30818748474121],[29.97367668151855,-29.30322456359863],[29.97473335266113,-29.3005256652832],[29.9770565032959,-29.29986763000488]]],"type":"Polygon"}
+}

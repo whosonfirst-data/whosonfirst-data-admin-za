@@ -1,0 +1,74 @@
+{
+  "id": 101925595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00076,
+    "geom:area_square_m":8449766.282008,
+    "geom:bbox":"28.1217803955,-25.9148921967,28.1623420715,-25.882604599",
+    "geom:latitude":-25.899444,
+    "geom:longitude":28.144198,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.899861,
+    "lbl:longitude":28.145581,
+    "mps:latitude":-25.899861,
+    "mps:longitude":28.145581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rooihuiskraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959931,
+        "wd:id":"Q21069446"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bd2a6ac4838acacc206ad6ff61f59b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925595,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925595,
+    "wof:lastmodified":1527688519,
+    "wof:name":"Rooihuiskraal",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12178039550781,
+    -25.91489219665527,
+    28.1623420715332,
+    -25.88260459899902
+],
+  "geometry": {"coordinates":[[[28.12178039550781,-25.89957618713379],[28.12939643859863,-25.89143562316895],[28.13644790649414,-25.89115905761719],[28.14165687561035,-25.89050483703613],[28.144287109375,-25.889892578125],[28.14668464660645,-25.88920021057129],[28.15117263793945,-25.88757133483887],[28.1623420715332,-25.88260459899902],[28.15986251831055,-25.90631103515625],[28.15384864807129,-25.91089630126953],[28.14825057983398,-25.90952301025391],[28.14690017700195,-25.91489219665527],[28.14367294311523,-25.91244125366211],[28.1392650604248,-25.91290664672852],[28.13111686706543,-25.90708351135254],[28.12585830688477,-25.9077033996582],[28.12178039550781,-25.89957618713379]]],"type":"Polygon"}
+}

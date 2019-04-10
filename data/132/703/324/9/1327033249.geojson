@@ -1,0 +1,69 @@
+{
+  "id": 1327033249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24556,-28.29086,31.24556,-28.29086",
+    "geom:latitude":-28.29086,
+    "geom:longitude":31.24556,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC26",
+    "gn:admin3_code":"KZN266",
+    "gn:asciiname":"Thembeni",
+    "gn:country_code":"ZA",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949444,
+    "gn:latitude":-28.29086,
+    "gn:longitude":31.24556,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Thembeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949444
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ee0e3eceae789b5095d204c28493d957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":1327033249,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1327033249,
+    "wof:lastmodified":1536759355,
+    "wof:name":"Thembeni",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24556,
+    -28.29086,
+    31.24556,
+    -28.29086
+],
+  "geometry": {"coordinates":[31.24556,-28.29086],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293886819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74432,-30.28382,29.74432,-30.28382",
+    "geom:latitude":-30.28382,
+    "geom:longitude":29.74432,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN435",
+    "gn:asciiname":"Siphangeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352145,
+    "gn:latitude":-30.28382,
+    "gn:longitude":29.74432,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Siphangeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352145
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2948851237bb087ce2f92be573d930e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1293886819,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1293886819,
+    "wof:lastmodified":1536708833,
+    "wof:name":"Siphangeni",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74432,
+    -30.28382,
+    29.74432,
+    -30.28382
+],
+  "geometry": {"coordinates":[29.74432,-30.28382],"type":"Point"}
+}

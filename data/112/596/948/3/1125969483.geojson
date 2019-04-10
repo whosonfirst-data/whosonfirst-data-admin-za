@@ -1,0 +1,107 @@
+{
+  "id": 1125969483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14763,-34.08286,22.14763,-34.08286",
+    "geom:latitude":-34.08286,
+    "geom:longitude":22.14763,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.08286,
+    "lbl:longitude":22.14763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Reebok"
+    ],
+    "name:dut_x_preferred":[
+        "Klein Brakrivier"
+    ],
+    "name:eng_x_preferred":[
+        "Klein Brak Rivier"
+    ],
+    "name:nso_x_preferred":[
+        "Little Brak River"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u0456\u043d-\u0411\u0440\u0430\u043a-\u0420\u0456\u0432'\u0454\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Little Brak River"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":990596,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Klein-Brakrivier",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":191,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":222700,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582857,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990596,
+        "gp:id":1582857,
+        "qs_pg:id":222700,
+        "wd:id":"Q2669923"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298108,
+    "wof:geomhash":"f7182bb1c33595a1abe196bf5528e7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125969483,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125969483,
+    "wof:lastmodified":1553816664,
+    "wof:name":"Klein-Brakrivier",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14763,
+    -34.08286,
+    22.14763,
+    -34.08286
+],
+  "geometry": {"coordinates":[22.14763,-34.08286],"type":"Point"}
+}

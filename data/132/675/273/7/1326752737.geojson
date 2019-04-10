@@ -1,0 +1,70 @@
+{
+  "id": 1326752737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93385,-30.20937,17.93385,-30.20937",
+    "geom:latitude":-30.20937,
+    "geom:longitude":17.93385,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC6",
+    "gn:admin3_code":"NC064",
+    "gn:asciiname":"Kamieskroon",
+    "gn:country_code":"ZA",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366233,
+    "gn:latitude":-30.20937,
+    "gn:longitude":17.93385,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kamieskroon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366233,
+        "wk:page":"Kamieskroon"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"54596c64a2db425b2e43887cac7cbefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1326752737,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1326752737,
+    "wof:lastmodified":1537576372,
+    "wof:name":"Kamieskroon",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93385,
+    -30.20937,
+    17.93385,
+    -30.20937
+],
+  "geometry": {"coordinates":[17.93385,-30.20937],"type":"Point"}
+}

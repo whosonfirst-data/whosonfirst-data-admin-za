@@ -1,0 +1,69 @@
+{
+  "id": 1326619745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27934,-23.18847,30.27934,-23.18847",
+    "geom:latitude":-23.18847,
+    "geom:longitude":30.27934,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"De Hoop",
+    "gn:country_code":"ZA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1011196,
+    "gn:latitude":-23.18847,
+    "gn:longitude":30.27934,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"De Hoop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011196
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"91ef42f487329f0b64975b1fd21e449b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1326619745,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1326619745,
+    "wof:lastmodified":1536856635,
+    "wof:name":"De Hoop",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27934,
+    -23.18847,
+    30.27934,
+    -23.18847
+],
+  "geometry": {"coordinates":[30.27934,-23.18847],"type":"Point"}
+}

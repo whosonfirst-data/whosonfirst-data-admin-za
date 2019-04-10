@@ -1,0 +1,74 @@
+{
+  "id": 101925695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000242,
+    "geom:area_square_m":2683886.17442,
+    "geom:bbox":"28.168844223,-26.0786857605,28.1930332184,-26.0548648834",
+    "geom:latitude":-26.066764,
+    "geom:longitude":28.183182,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.0718,
+    "lbl:longitude":28.18703,
+    "mps:latitude":-26.0718,
+    "mps:longitude":28.18703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chloorkop",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030227,
+        "gp:id":55878555,
+        "qs:id":207715
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"899b999ddda4c2578bd4aff6e2e5583a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925695,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925695,
+    "wof:lastmodified":1500027720,
+    "wof:name":"Chloorkop",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16884422302246,
+    -26.07868576049805,
+    28.19303321838379,
+    -26.05486488342285
+],
+  "geometry": {"coordinates":[[[28.18748664855957,-26.06644630432129],[28.19303321838379,-26.06441688537598],[28.1922550201416,-26.0777759552002],[28.19104766845703,-26.07798004150391],[28.18685913085938,-26.07868576049805],[28.18165588378906,-26.07454109191895],[28.18024063110352,-26.06425285339355],[28.1728458404541,-26.06462287902832],[28.17264175415039,-26.06137275695801],[28.16884422302246,-26.06119728088379],[28.16970062255859,-26.0583610534668],[28.17008209228516,-26.05851173400879],[28.17380142211914,-26.05966186523438],[28.17263412475586,-26.05649948120117],[28.17962646484375,-26.05486488342285],[28.18403053283691,-26.06248092651367],[28.18636894226074,-26.06276512145996],[28.18748664855957,-26.06644630432129]]],"type":"Polygon"}
+}

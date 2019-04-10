@@ -1,0 +1,125 @@
+{
+  "id": 101926851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000261,
+    "geom:area_square_m":2837442.447222,
+    "geom:bbox":"26.6971511841,-28.4197769165,26.7193927765,-28.3955993652",
+    "geom:latitude":-28.407132,
+    "geom:longitude":26.709095,
+    "gn:population":34718,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.403981,
+    "lbl:longitude":26.712802,
+    "mps:latitude":-28.403981,
+    "mps:longitude":26.712802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Theunissen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u0435\u0443\u043d\u0438\u0441\u0435\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u4f0a\u5c3c\u68ee"
+    ],
+    "name:dut_x_preferred":[
+        "Theunissen"
+    ],
+    "name:eng_x_preferred":[
+        "Theunissen"
+    ],
+    "name:ger_x_preferred":[
+        "Theunissen"
+    ],
+    "name:hak_x_preferred":[
+        "Theunissen"
+    ],
+    "name:ita_x_preferred":[
+        "Theunissen"
+    ],
+    "name:nso_x_preferred":[
+        "Theunissen"
+    ],
+    "name:pol_x_preferred":[
+        "Theunissen"
+    ],
+    "name:rum_x_preferred":[
+        "Theunissen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0438\u0441\u0441\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Theunissen"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Theunissen",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.4,
+    "wd:longitude":26.716667,
+    "wd:wordcount":1766,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":949282,
+        "gp:id":1588083,
+        "qs:id":84009,
+        "qs_pg:id":84009,
+        "wd:id":"Q2842892",
+        "wk:page":"Theunissen"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7e5e17bdf7e7bc9cd559943809f5971a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926851,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926851,
+    "wof:lastmodified":1527715814,
+    "wof:name":"Theunissen",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:population":34718,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69715118408203,
+    -28.41977691650391,
+    26.71939277648926,
+    -28.39559936523438
+],
+  "geometry": {"coordinates":[[[26.70861053466797,-28.39880752563477],[26.71408462524414,-28.39559936523438],[26.71939277648926,-28.40138816833496],[26.71897315979004,-28.40676307678223],[26.71827125549316,-28.41133308410645],[26.71135711669922,-28.41168403625488],[26.70865440368652,-28.40872573852539],[26.70677375793457,-28.40964508056641],[26.70864295959473,-28.41241645812988],[26.70111083984375,-28.41977691650391],[26.69715118408203,-28.41773986816406],[26.699462890625,-28.41239547729492],[26.69947242736816,-28.4090747833252],[26.70052146911621,-28.40686416625977],[26.70240211486816,-28.40649795532227],[26.70427894592285,-28.40650367736816],[26.70511436462402,-28.40613555908203],[26.70532608032227,-28.40539932250977],[26.70350646972656,-28.40195083618164],[26.70861053466797,-28.39880752563477]]],"type":"Polygon"}
+}

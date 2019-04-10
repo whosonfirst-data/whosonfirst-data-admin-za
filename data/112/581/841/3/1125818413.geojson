@@ -1,0 +1,104 @@
+{
+  "id": 1125818413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02726,-34.0725,23.02726,-34.0725",
+    "geom:latitude":-34.0725,
+    "geom:longitude":23.02726,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.0725,
+    "lbl:longitude":23.02726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Brenton-on-Sea"
+    ],
+    "name:dut_x_preferred":[
+        "Brenton-on-Sea"
+    ],
+    "name:eng_x_preferred":[
+        "Brenton-on-Sea"
+    ],
+    "name:nso_x_preferred":[
+        "Brenton-on-Sea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u0442\u043e\u043d-\u043e\u043d-\u0421\u0456"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1015719,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brenton-on-Sea",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":7680,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580115,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015719,
+        "gp:id":1580115,
+        "qs_pg:id":7680,
+        "wd:id":"Q2546981"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291940,
+    "wof:geomhash":"f67928636571da4af36e12c11f173a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125818413,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125818413,
+    "wof:lastmodified":1514503489,
+    "wof:name":"Brenton-on-Sea",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02726,
+    -34.0725,
+    23.02726,
+    -34.0725
+],
+  "geometry": {"coordinates":[23.02726,-34.0725],"type":"Point"}
+}

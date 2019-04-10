@@ -1,0 +1,69 @@
+{
+  "id": 1243052427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67026,-22.53306,30.67026,-22.53306",
+    "geom:latitude":-22.53306,
+    "geom:longitude":30.67026,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM342",
+    "gn:asciiname":"Klein Tshipise",
+    "gn:country_code":"ZA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990026,
+    "gn:latitude":-22.53306,
+    "gn:longitude":30.67026,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klein Tshipise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990026
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec147501124239312f2990cb791b899f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1243052427,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243052427,
+    "wof:lastmodified":1536875664,
+    "wof:name":"Klein Tshipise",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67026,
+    -22.53306,
+    30.67026,
+    -22.53306
+],
+  "geometry": {"coordinates":[30.67026,-22.53306],"type":"Point"}
+}

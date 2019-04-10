@@ -1,0 +1,70 @@
+{
+  "id": 101927485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":219148.922769,
+    "geom:bbox":"30.8876209259,-27.7401294708,30.8920326233,-27.733833313",
+    "geom:latitude":-27.737196,
+    "geom:longitude":30.889803,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.737209,
+    "lbl:longitude":30.889845,
+    "mps:latitude":-27.737209,
+    "mps:longitude":30.889845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tendeka",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"eac85792ee9544642d49f405a94ea1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927485,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927485,
+    "wof:lastmodified":1500027488,
+    "wof:name":"Tendeka",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88762092590332,
+    -27.7401294708252,
+    30.89203262329102,
+    -27.73383331298828
+],
+  "geometry": {"coordinates":[[[30.88762092590332,-27.73574829101562],[30.88861846923828,-27.73483657836914],[30.88899230957031,-27.73448944091797],[30.88983726501465,-27.73383331298828],[30.89203262329102,-27.73629570007324],[30.89203262329102,-27.73764991760254],[30.89203071594238,-27.73877716064453],[30.89126968383789,-27.73922729492188],[30.88974761962891,-27.7401294708252],[30.88847923278809,-27.73990249633789],[30.88797378540039,-27.73900032043457],[30.88762092590332,-27.73574829101562]]],"type":"Polygon"}
+}

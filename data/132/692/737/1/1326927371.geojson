@@ -1,0 +1,69 @@
+{
+  "id": 1326927371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0102,-25.16894,29.0102,-25.16894",
+    "geom:latitude":-25.16894,
+    "geom:longitude":29.0102,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP316",
+    "gn:asciiname":"Mabhoko",
+    "gn:country_code":"ZA",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980960,
+    "gn:latitude":-25.16894,
+    "gn:longitude":29.0102,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mabhoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980960
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f2cafa3e988962295fd05e65b6e1635c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":1326927371,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1326927371,
+    "wof:lastmodified":1536912210,
+    "wof:name":"Mabhoko",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0102,
+    -25.16894,
+    29.0102,
+    -25.16894
+],
+  "geometry": {"coordinates":[29.0102,-25.16894],"type":"Point"}
+}

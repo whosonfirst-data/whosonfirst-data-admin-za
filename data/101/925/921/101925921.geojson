@@ -1,0 +1,70 @@
+{
+  "id": 101925921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":547572.941822,
+    "geom:bbox":"27.78947258,-26.2225570679,27.8009281158,-26.2141857147",
+    "geom:latitude":-26.218695,
+    "geom:longitude":27.793899,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.218409,
+    "lbl:longitude":27.792077,
+    "mps:latitude":-26.218409,
+    "mps:longitude":27.792077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Slovoville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"088db3e7efcf99f9a8763450801ba23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925921,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925921,
+    "wof:lastmodified":1500027729,
+    "wof:name":"Slovoville",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78947257995605,
+    -26.22255706787109,
+    27.80092811584473,
+    -26.21418571472168
+],
+  "geometry": {"coordinates":[[[27.79373550415039,-26.21418571472168],[27.79444885253906,-26.21834373474121],[27.79970741271973,-26.21640205383301],[27.80092811584473,-26.2188720703125],[27.79588317871094,-26.22094345092773],[27.79300308227539,-26.22067832946777],[27.79300117492676,-26.22243309020996],[27.78947257995605,-26.22255706787109],[27.78998756408691,-26.21573829650879],[27.79373550415039,-26.21418571472168]]],"type":"Polygon"}
+}

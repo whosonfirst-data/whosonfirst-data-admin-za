@@ -1,0 +1,73 @@
+{
+  "id": 101928491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1628992.166838,
+    "geom:bbox":"28.6631183624,-30.9481334686,28.6886138916,-30.9289913177",
+    "geom:latitude":-30.939375,
+    "geom:longitude":28.675785,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.944178,
+    "lbl:longitude":28.671343,
+    "mps:latitude":-30.944178,
+    "mps:longitude":28.671343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ntaboduli",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969275,
+        "gp:id":1586739
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"464b74169b10fea9ba49272a48ff2ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928491,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928491,
+    "wof:lastmodified":1500027857,
+    "wof:name":"Ntaboduli",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66311836242676,
+    -30.94813346862793,
+    28.68861389160156,
+    -30.92899131774902
+],
+  "geometry": {"coordinates":[[[28.6845760345459,-30.92899131774902],[28.68861389160156,-30.93266868591309],[28.68351554870605,-30.93767356872559],[28.67453384399414,-30.94426727294922],[28.67463111877441,-30.94765472412109],[28.66983985900879,-30.94813346862793],[28.66799545288086,-30.94478416442871],[28.66311836242676,-30.94225120544434],[28.66434097290039,-30.9392147064209],[28.66650199890137,-30.93841552734375],[28.67180633544922,-30.94056129455566],[28.67650985717773,-30.93707084655762],[28.6845760345459,-30.92899131774902]]],"type":"Polygon"}
+}

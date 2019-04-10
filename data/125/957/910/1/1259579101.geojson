@@ -1,0 +1,67 @@
+{
+  "id": 1259579101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34211,-27.14272,23.34211,-27.14272",
+    "geom:latitude":-27.14272,
+    "geom:longitude":23.34211,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bylfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014439,
+    "gn:latitude":-27.14272,
+    "gn:longitude":23.34211,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Bylfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014439
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"facae98838def2a93e1971057785f3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1259579101,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1259579101,
+    "wof:lastmodified":1536721530,
+    "wof:name":"Bylfontein",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34211,
+    -27.14272,
+    23.34211,
+    -27.14272
+],
+  "geometry": {"coordinates":[23.34211,-27.14272],"type":"Point"}
+}

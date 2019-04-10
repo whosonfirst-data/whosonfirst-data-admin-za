@@ -1,0 +1,63 @@
+{
+  "id": 1209246567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-33.08333,27.76667,-33.08333",
+    "geom:latitude":-33.08333,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"BUF",
+    "gn:admin3_code":"BUF",
+    "gn:asciiname":"Igoda Mouth",
+    "gn:country_code":"ZA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":994961,
+    "gn:latitude":-33.08333,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Igoda Mouth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":994961
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"223145adec7eca6c27f30911a7af73a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209246567
+        }
+    ],
+    "wof:id":1209246567,
+    "wof:lastmodified":1536293144,
+    "wof:name":"Igoda Mouth",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -33.08333,
+    27.76667,
+    -33.08333
+],
+  "geometry": {"coordinates":[27.76667,-33.08333],"type":"Point"}
+}

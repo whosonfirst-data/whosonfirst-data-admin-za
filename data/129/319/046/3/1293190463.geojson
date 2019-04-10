@@ -1,0 +1,73 @@
+{
+  "id": 1293190463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5591,-23.14788,30.5591,-23.14788",
+    "geom:latitude":-23.14788,
+    "geom:longitude":30.5591,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM343",
+    "gn:asciiname":"Locatie van de Knopneuzen",
+    "gn:country_code":"ZA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":982513,
+    "gn:latitude":-23.14788,
+    "gn:longitude":30.5591,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Locatie van de Knopneuzen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knopneuslokasie",
+        "Locatie van de Knopneuzen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982513
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e509ae1055fcf83f2923249effd80ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1293190463,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1293190463,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Locatie van de Knopneuzen",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5591,
+    -23.14788,
+    30.5591,
+    -23.14788
+],
+  "geometry": {"coordinates":[30.5591,-23.14788],"type":"Point"}
+}

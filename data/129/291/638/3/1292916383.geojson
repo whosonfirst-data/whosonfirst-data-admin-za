@@ -1,0 +1,69 @@
+{
+  "id": 1292916383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55,-28.48333,29.55,-28.48333",
+    "geom:latitude":-28.48333,
+    "geom:longitude":29.55,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN232",
+    "gn:asciiname":"Sand River Valley",
+    "gn:country_code":"ZA",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":957773,
+    "gn:latitude":-28.48333,
+    "gn:longitude":29.55,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sand River Valley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":957773
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a6c4e7439f472f5b3ef40b955999741b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1292916383,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1292916383,
+    "wof:lastmodified":1536613838,
+    "wof:name":"Sand River Valley",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55,
+    -28.48333,
+    29.55,
+    -28.48333
+],
+  "geometry": {"coordinates":[29.55,-28.48333],"type":"Point"}
+}

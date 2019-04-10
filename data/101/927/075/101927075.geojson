@@ -1,0 +1,73 @@
+{
+  "id": 101927075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000256,
+    "geom:area_square_m":2762225.648226,
+    "geom:bbox":"29.6692142487,-29.2136325836,29.6876621246,-29.1897621155",
+    "geom:latitude":-29.200687,
+    "geom:longitude":29.677992,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.19881,
+    "lbl:longitude":29.678901,
+    "mps:latitude":-29.19881,
+    "mps:longitude":29.678901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaMankonjane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985667,
+        "gp:id":1581200
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e37acc294ead394db6bfe7cd2d46d74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101927075,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927075,
+    "wof:lastmodified":1500027499,
+    "wof:name":"KwaMankonjane",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66921424865723,
+    -29.21363258361816,
+    29.68766212463379,
+    -29.18976211547852
+],
+  "geometry": {"coordinates":[[[29.67481231689453,-29.21363258361816],[29.66921424865723,-29.20906639099121],[29.67391395568848,-29.2034740447998],[29.67009162902832,-29.20072937011719],[29.66988754272461,-29.1966667175293],[29.67897415161133,-29.18976211547852],[29.68766212463379,-29.19390869140625],[29.68471145629883,-29.20357894897461],[29.67481231689453,-29.21363258361816]]],"type":"Polygon"}
+}

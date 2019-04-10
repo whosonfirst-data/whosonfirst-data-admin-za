@@ -1,0 +1,67 @@
+{
+  "id": 1209009163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.26989,-31.37937,28.26989,-31.37937",
+    "geom:latitude":-31.37937,
+    "geom:longitude":28.26989,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Hart Dale",
+    "gn:country_code":"ZA",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997630,
+    "gn:latitude":-31.37937,
+    "gn:longitude":28.26989,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hart Dale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hartsdale",
+        "Hart Dale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997630
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2c51d2ae39100ceffc24446cefe9b66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209009163
+        }
+    ],
+    "wof:id":1209009163,
+    "wof:lastmodified":1537716422,
+    "wof:name":"Hart Dale",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.26989,
+    -31.37937,
+    28.26989,
+    -31.37937
+],
+  "geometry": {"coordinates":[28.26989,-31.37937],"type":"Point"}
+}

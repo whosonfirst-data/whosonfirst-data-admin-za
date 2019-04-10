@@ -1,0 +1,85 @@
+{
+  "id": 101925653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":2020060.801283,
+    "geom:bbox":"28.0430374146,-26.0383777618,28.0620288849,-26.0228271484",
+    "geom:latitude":-26.030943,
+    "geom:longitude":28.052934,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.031228,
+    "lbl:longitude":28.052934,
+    "mps:latitude":-26.031228,
+    "mps:longitude":28.052934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Paulshof"
+    ],
+    "name:dut_x_preferred":[
+        "Paulshof"
+    ],
+    "name:eng_x_preferred":[
+        "Paulshof"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Paulshof",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.033461,
+    "wd:longitude":28.047011,
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7290485,
+        "wd:id":"Q7155368"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6b82718f6775b8b1d4093eef4a2943c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925653,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925653,
+    "wof:lastmodified":1527688523,
+    "wof:name":"Paulshof",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04303741455078,
+    -26.03837776184082,
+    28.0620288848877,
+    -26.0228271484375
+],
+  "geometry": {"coordinates":[[[28.05215835571289,-26.02652359008789],[28.06090354919434,-26.02315711975098],[28.05932426452637,-26.02803421020508],[28.05783653259277,-26.0282039642334],[28.0577449798584,-26.03139877319336],[28.06174659729004,-26.03139686584473],[28.0620288848877,-26.03837776184082],[28.05988883972168,-26.03824996948242],[28.05631446838379,-26.03641319274902],[28.05345344543457,-26.03602981567383],[28.05109405517578,-26.03693771362305],[28.04415893554688,-26.03526878356934],[28.04657554626465,-26.02736663818359],[28.04303741455078,-26.02585411071777],[28.04489707946777,-26.0228271484375],[28.05215835571289,-26.02652359008789]]],"type":"Polygon"}
+}

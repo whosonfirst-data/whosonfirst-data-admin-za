@@ -1,0 +1,69 @@
+{
+  "id": 1242863329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16161,-26.86756,26.16161,-26.86756",
+    "geom:latitude":-26.86756,
+    "geom:longitude":26.16161,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC40",
+    "gn:admin3_code":"NW403",
+    "gn:asciiname":"Witfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939133,
+    "gn:latitude":-26.86756,
+    "gn:longitude":26.16161,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Witfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939133
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"313c38292e1be042468615c8b88be589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "locality_id":1242863329,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1242863329,
+    "wof:lastmodified":1536651951,
+    "wof:name":"Witfontein",
+    "wof:parent_id":1108730609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16161,
+    -26.86756,
+    26.16161,
+    -26.86756
+],
+  "geometry": {"coordinates":[26.16161,-26.86756],"type":"Point"}
+}

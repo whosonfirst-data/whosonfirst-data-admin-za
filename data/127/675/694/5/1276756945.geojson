@@ -1,0 +1,72 @@
+{
+  "id": 1276756945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92819,-25.94101,27.92819,-25.94101",
+    "geom:latitude":-25.94101,
+    "geom:longitude":27.92819,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Lanseria",
+    "gn:country_code":"ZA",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646541,
+    "gn:latitude":-25.94101,
+    "gn:longitude":27.92819,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Lanseria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lanseria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646541
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6fc5c7fa5a7b834f37597b97a6aaeb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1276756945,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1276756945,
+    "wof:lastmodified":1537716446,
+    "wof:name":"Lanseria",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92819,
+    -25.94101,
+    27.92819,
+    -25.94101
+],
+  "geometry": {"coordinates":[27.92819,-25.94101],"type":"Point"}
+}

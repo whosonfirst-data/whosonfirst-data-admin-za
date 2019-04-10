@@ -1,0 +1,73 @@
+{
+  "id": 1226438355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33333,-23.61667,30.33333,-23.61667",
+    "geom:latitude":-23.61667,
+    "geom:longitude":30.33333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM332",
+    "gn:asciiname":"Modjadje's Location",
+    "gn:country_code":"ZA",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":975058,
+    "gn:latitude":-23.61667,
+    "gn:longitude":30.33333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Modjadje\u2019s Location",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Modjadjislokasie",
+        "Modjadje\u2019s Location"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975058
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a3e297f35d2d766a4fc6267580285b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1226438355,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226438355,
+    "wof:lastmodified":1537716399,
+    "wof:name":"Modjadje's Location",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33333,
+    -23.61667000000001,
+    30.33333,
+    -23.61667000000001
+],
+  "geometry": {"coordinates":[30.33333,-23.61667000000001],"type":"Point"}
+}

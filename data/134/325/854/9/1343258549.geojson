@@ -1,0 +1,69 @@
+{
+  "id": 1343258549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,-24.11667,27.13333,-24.11667",
+    "geom:latitude":-24.11667,
+    "geom:longitude":27.13333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM361",
+    "gn:asciiname":"Breedpan",
+    "gn:country_code":"ZA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1015762,
+    "gn:latitude":-24.11667,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Breedpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015762
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5127f4f5f9809acc388886f783010cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1343258549,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343258549,
+    "wof:lastmodified":1537036104,
+    "wof:name":"Breedpan",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    -24.11667000000001,
+    27.13333,
+    -24.11667000000001
+],
+  "geometry": {"coordinates":[27.13333,-24.11667000000001],"type":"Point"}
+}

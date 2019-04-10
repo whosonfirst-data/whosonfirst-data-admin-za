@@ -1,0 +1,63 @@
+{
+  "id": 1209337179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08991,-31.71729,26.08991,-31.71729",
+    "geom:latitude":-31.71729,
+    "geom:longitude":26.08991,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC132",
+    "gn:asciiname":"Serfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956419,
+    "gn:latitude":-31.71729,
+    "gn:longitude":26.08991,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Serfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956419
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e44a997f714fd8469123f68b837bbd40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209337179
+        }
+    ],
+    "wof:id":1209337179,
+    "wof:lastmodified":1536290181,
+    "wof:name":"Serfontein",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08991,
+    -31.71729,
+    26.08991,
+    -31.71729
+],
+  "geometry": {"coordinates":[26.08991,-31.71729],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125374101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13017,-30.37545,18.13017,-30.37545",
+    "geom:latitude":-30.37545,
+    "geom:longitude":18.13017,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12117,
+    "gn:population":12117,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.37545,
+    "lbl:longitude":18.13017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347449,
+    "qs_pg:gn_pop":12117,
+    "qs_pg:name":"Kamiesberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109944,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347449,
+        "qs_pg:id":109944
+    },
+    "wof:country":"ZA",
+    "wof:created":1497047608,
+    "wof:geomhash":"6c9424b16b1c2b5308d8a4ec17689b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "localadmin_id":1125374101,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125374101,
+    "wof:lastmodified":1509389409,
+    "wof:name":"Kamiesberg",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"localadmin",
+    "wof:population":12117,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13017,
+    -30.37545,
+    18.13017,
+    -30.37545
+],
+  "geometry": {"coordinates":[18.13017,-30.37545],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310216509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91962,-29.49743,26.91962,-29.49743",
+    "geom:latitude":-29.49743,
+    "geom:longitude":26.91962,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS164",
+    "gn:asciiname":"Middelplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976196,
+    "gn:latitude":-29.49743,
+    "gn:longitude":26.91962,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Middelplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976196
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"de8d6430cdfa2ddd1cc55e0a3af0f81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1310216509,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1310216509,
+    "wof:lastmodified":1536835294,
+    "wof:name":"Middelplaas",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91962,
+    -29.49743,
+    26.91962,
+    -29.49743
+],
+  "geometry": {"coordinates":[26.91962,-29.49743],"type":"Point"}
+}

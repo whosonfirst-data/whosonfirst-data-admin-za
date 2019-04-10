@@ -1,0 +1,69 @@
+{
+  "id": 1276799081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33996,-31.54701,26.33996,-31.54701",
+    "geom:latitude":-31.54701,
+    "geom:longitude":26.33996,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC133",
+    "gn:asciiname":"Burnley",
+    "gn:country_code":"ZA",
+    "gn:dem":1758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1014605,
+    "gn:latitude":-31.54701,
+    "gn:longitude":26.33996,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Burnley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1014605
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"723c7747b01134009eb1708d426b812d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1276799081,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276799081,
+    "wof:lastmodified":1536651736,
+    "wof:name":"Burnley",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33996,
+    -31.54701,
+    26.33996,
+    -31.54701
+],
+  "geometry": {"coordinates":[26.33996,-31.54701],"type":"Point"}
+}

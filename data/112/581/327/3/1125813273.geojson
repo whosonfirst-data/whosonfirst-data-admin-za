@@ -1,0 +1,107 @@
+{
+  "id": 1125813273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37016,-34.55228,19.37016,-34.55228",
+    "geom:latitude":-34.55228,
+    "geom:longitude":19.37016,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.55228,
+    "lbl:longitude":19.37016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Die Kelders"
+    ],
+    "name:dut_x_preferred":[
+        "De Kelders"
+    ],
+    "name:eng_x_preferred":[
+        "De Kelders"
+    ],
+    "name:fre_x_preferred":[
+        "De Kelders"
+    ],
+    "name:ger_x_preferred":[
+        "De Kelders"
+    ],
+    "name:nso_x_preferred":[
+        "De Kelders"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3368715,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Die Kelders",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":210,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":210,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":115919,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368715,
+        "gp:id":1580697,
+        "qs_pg:id":115919,
+        "wd:id":"Q505912"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291741,
+    "wof:geomhash":"2a53d5e73e14f7f26a4d16efe2ace3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125813273,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125813273,
+    "wof:lastmodified":1514503549,
+    "wof:name":"Die Kelders",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37016,
+    -34.55228,
+    19.37016,
+    -34.55228
+],
+  "geometry": {"coordinates":[19.37016,-34.55228],"type":"Point"}
+}

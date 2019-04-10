@@ -1,0 +1,128 @@
+{
+  "id": 85772579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1333404.866126,
+    "geom:bbox":"18.3954470121,-33.9299454125,18.4130859375,-33.9205715206",
+    "geom:latitude":-33.925288,
+    "geom:longitude":18.403339,
+    "gn:latitude":-33.92765,
+    "gn:longitude":18.40467,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.928285,
+    "lbl:longitude":18.406475,
+    "mps:latitude":-33.92513,
+    "mps:longitude":18.403339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Tamboerskloof"
+    ],
+    "name:eng_x_preferred":[
+        "Tamboerskloof"
+    ],
+    "name:eng_x_variant":[
+        "Groenpunt"
+    ],
+    "name:fra_x_preferred":[
+        "Tamboerskloof"
+    ],
+    "name:spa_x_preferred":[
+        "Tamboerskloof"
+    ],
+    "name:unk_x_variant":[
+        "Tamboerskloof"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Tamboerskloof",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Tamboerskloof",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":85,
+    "qs:photo_sum":253,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":-33.929167,
+    "wd:longitude":18.404167,
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360647,
+        "gp:id":1587968,
+        "qs:id":906038,
+        "qs_pg:id":906038,
+        "wd:id":"Q3073402",
+        "wk:page":"Tamboerskloof"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8bdc413d399d0fcd4783e04de37c336a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772579,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772579,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527639329,
+    "wof:name":"Tamboerskloof",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39544701208899,
+    -33.92994541246959,
+    18.41308593750011,
+    -33.92057152056654
+],
+  "geometry": {"coordinates":[[[18.40759277195059,-33.92057152240978],[18.4075927734001,-33.92285063393089],[18.41033935548103,-33.92285063909041],[18.41033935548654,-33.9251296912041],[18.41250623573768,-33.92512969298321],[18.41308593750011,-33.92512970009992],[18.41308593750011,-33.92582832914502],[18.41308593750011,-33.92740868438059],[18.41033935548103,-33.92740868849996],[18.4103393554862,-33.92968761997496],[18.40759277341857,-33.92968761946665],[18.40484619140011,-33.92968761946665],[18.40209960938381,-33.92968762073745],[18.39862141516255,-33.92968762760005],[18.39797973632511,-33.92994541246959],[18.39776584338193,-33.92968762760005],[18.39660644530011,-33.92968762760005],[18.39660644531671,-33.92829031512988],[18.3966064453146,-33.92652694472676],[18.39544702193683,-33.92512963912505],[18.39607739663711,-33.92285062964969],[18.39544701208899,-33.92057152357187],[18.39660644530011,-33.92057152389339],[18.39935302731857,-33.92057152056654],[18.40209961213344,-33.92057152083255],[18.40759277195059,-33.92057152240978]]],"type":"Polygon"}
+}

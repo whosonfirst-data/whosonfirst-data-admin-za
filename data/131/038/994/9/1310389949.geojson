@@ -1,0 +1,69 @@
+{
+  "id": 1310389949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0,-22.58333,31.0,-22.58333",
+    "geom:latitude":-22.58333,
+    "geom:longitude":31.0,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM342",
+    "gn:asciiname":"Magovani",
+    "gn:country_code":"ZA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980419,
+    "gn:latitude":-22.58333,
+    "gn:longitude":31.0,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Magovani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980419
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b9299606626f2232b188661bbdbe4df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1310389949,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310389949,
+    "wof:lastmodified":1537080546,
+    "wof:name":"Magovani",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0,
+    -22.58333,
+    31.0,
+    -22.58333
+],
+  "geometry": {"coordinates":[31.0,-22.58333],"type":"Point"}
+}

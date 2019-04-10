@@ -1,0 +1,109 @@
+{
+  "id": 1125865409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36246,-31.39676,26.36246,-31.39676",
+    "geom:latitude":-31.39676,
+    "geom:longitude":26.36246,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":10078,
+    "gn:population":10078,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.39676,
+    "lbl:longitude":26.36246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Molteno"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u723e\u6cf0\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "Molteno"
+    ],
+    "name:eng_x_preferred":[
+        "Molteno"
+    ],
+    "name:ger_x_preferred":[
+        "Molteno"
+    ],
+    "name:ita_x_preferred":[
+        "Molteno"
+    ],
+    "name:nso_x_preferred":[
+        "Molteno"
+    ],
+    "name:rum_x_preferred":[
+        "Molteno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0442\u0435\u043d\u043e"
+    ],
+    "name:ven_x_preferred":[
+        "Molteno"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":974719,
+    "qs_pg:gn_pop":10078,
+    "qs_pg:name":"Molteno",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974719,
+        "qs_pg:id":130225,
+        "wd:id":"Q1003348"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294010,
+    "wof:geomhash":"1f54f7f56b99ad12ecb351da1c01226c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1125865409,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125865409,
+    "wof:lastmodified":1553816583,
+    "wof:name":"Molteno",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:population":10078,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36246,
+    -31.39676,
+    26.36246,
+    -31.39676
+],
+  "geometry": {"coordinates":[26.36246,-31.39676],"type":"Point"}
+}

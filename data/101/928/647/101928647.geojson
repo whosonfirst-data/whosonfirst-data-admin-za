@@ -1,0 +1,72 @@
+{
+  "id": 101928647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":604905.637856,
+    "geom:bbox":"28.6118621826,-31.5650596619,28.6215438843,-31.5566596985",
+    "geom:latitude":-31.560448,
+    "geom:longitude":28.615762,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.560559,
+    "lbl:longitude":28.61567,
+    "mps:latitude":-31.560559,
+    "mps:longitude":28.61567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kukani",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d6b439fb9f798aab4cdc741a47434bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928647,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928647,
+    "wof:lastmodified":1500027868,
+    "wof:name":"Kukani",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61186218261719,
+    -31.56505966186523,
+    28.62154388427734,
+    -31.55665969848633
+],
+  "geometry": {"coordinates":[[[28.61186218261719,-31.55665969848633],[28.62154388427734,-31.55742454528809],[28.6175365447998,-31.56426811218262],[28.61418724060059,-31.56505966186523],[28.61205101013184,-31.56402015686035],[28.61186218261719,-31.55665969848633]]],"type":"Polygon"}
+}

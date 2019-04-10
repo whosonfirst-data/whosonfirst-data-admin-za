@@ -1,0 +1,63 @@
+{
+  "id": 1209403777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13521,-26.62643,24.13521,-26.62643",
+    "geom:latitude":-26.62643,
+    "geom:longitude":24.13521,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Gamagaabue",
+    "gn:country_code":"ZA",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003371,
+    "gn:latitude":-26.62643,
+    "gn:longitude":24.13521,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Gamagaabue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003371
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"821cd55c9dec783de4f88109cfd01cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209403777
+        }
+    ],
+    "wof:id":1209403777,
+    "wof:lastmodified":1536288060,
+    "wof:name":"Gamagaabue",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13521,
+    -26.62643,
+    24.13521,
+    -26.62643
+],
+  "geometry": {"coordinates":[24.13521,-26.62643],"type":"Point"}
+}

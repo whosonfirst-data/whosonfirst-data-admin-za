@@ -1,0 +1,72 @@
+{
+  "id": 101925889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":444323.253775,
+    "geom:bbox":"28.4385700226,-26.2092399597,28.4476337433,-26.2025814056",
+    "geom:latitude":-26.205696,
+    "geom:longitude":28.443941,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.205841,
+    "lbl:longitude":28.444028,
+    "mps:latitude":-26.205841,
+    "mps:longitude":28.444028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Enstra",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587712
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"145a14897b1c3259480753e205702bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925889,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925889,
+    "wof:lastmodified":1500027726,
+    "wof:name":"Enstra",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43857002258301,
+    -26.2092399597168,
+    28.44763374328613,
+    -26.20258140563965
+],
+  "geometry": {"coordinates":[[[28.44156455993652,-26.2092399597168],[28.44070053100586,-26.20478439331055],[28.43857002258301,-26.20335578918457],[28.44064903259277,-26.20307159423828],[28.44703483581543,-26.20258140563965],[28.44763374328613,-26.20833015441895],[28.44156455993652,-26.2092399597168]]],"type":"Polygon"}
+}

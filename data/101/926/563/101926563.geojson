@@ -1,0 +1,128 @@
+{
+  "id": 101926563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1423181.05848,
+    "geom:bbox":"27.354467392,-27.0115509033,27.3700962067,-26.9998950958",
+    "geom:latitude":-27.005671,
+    "geom:longitude":27.362738,
+    "gn:population":10649,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.004597,
+    "lbl:longitude":27.36352,
+    "mps:latitude":-27.004597,
+    "mps:longitude":27.36352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Vredefort"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0435\u0434\u0435\u0444\u043e\u0440\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Vredefort"
+    ],
+    "name:eng_x_preferred":[
+        "Vredefort"
+    ],
+    "name:fre_x_preferred":[
+        "Vredefort"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10e0\u10d4\u10d3\u10d4\u10e4\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Vredefort"
+    ],
+    "name:nso_x_preferred":[
+        "Vredefort"
+    ],
+    "name:pol_x_preferred":[
+        "Vredefort"
+    ],
+    "name:por_x_preferred":[
+        "Vredefort"
+    ],
+    "name:rum_x_preferred":[
+        "Vredefort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0435\u0434\u0435\u0444\u043e\u0440\u0442"
+    ],
+    "name:sot_x_preferred":[
+        "Vredefort"
+    ],
+    "name:spa_x_preferred":[
+        "Vredefort"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vredefort",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-27.016667,
+    "wd:longitude":27.383333,
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":942683,
+        "gp:id":1588693,
+        "qs:id":1168384,
+        "qs_pg:id":1168384,
+        "wd:id":"Q1689721",
+        "wk:page":"Vredefort"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7a19d06d85177cedaa3fc5c845e8ae47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":101926563,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926563,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Vredefort",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:population":10649,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35446739196777,
+    -27.01155090332031,
+    27.37009620666504,
+    -26.9998950958252
+],
+  "geometry": {"coordinates":[[[27.36934089660645,-27.00154876708984],[27.36990356445312,-27.00212097167969],[27.36992454528809,-27.00805282592773],[27.37009620666504,-27.00899314880371],[27.36330795288086,-27.00930595397949],[27.36331558227539,-27.01139450073242],[27.36098098754883,-27.01155090332031],[27.35731506347656,-27.01141166687012],[27.35730934143066,-27.01006889343262],[27.35713958740234,-27.00902366638184],[27.35697174072266,-27.00872611999512],[27.35613822937012,-27.00872802734375],[27.35480308532715,-27.0084342956543],[27.35446739196777,-27.00768852233887],[27.35513114929199,-27.00649261474609],[27.35529136657715,-27.00484848022461],[27.35712051391602,-27.00364875793457],[27.35795021057129,-27.00260162353516],[27.35944557189941,-27.00125503540039],[27.36077690124512,-27.00080299377441],[27.36210823059082,-26.99990272521973],[27.36477470397949,-26.9998950958252],[27.36934089660645,-27.00154876708984]]],"type":"Polygon"}
+}

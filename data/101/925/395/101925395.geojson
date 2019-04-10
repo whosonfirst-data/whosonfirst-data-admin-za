@@ -1,0 +1,73 @@
+{
+  "id": 101925395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000236,
+    "geom:area_square_m":2628056.34805,
+    "geom:bbox":"27.5933456421,-25.6647777557,27.6225814819,-25.6523303986",
+    "geom:latitude":-25.659277,
+    "geom:longitude":27.608455,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.659819,
+    "lbl:longitude":27.608733,
+    "mps:latitude":-25.659819,
+    "mps:longitude":27.608733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Segwaelane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956642,
+        "gp:id":1580129
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bf84dfb87b0a6682ddd6ef88443e6c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925395,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925395,
+    "wof:lastmodified":1500028280,
+    "wof:name":"Segwaelane",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59334564208984,
+    -25.6647777557373,
+    27.62258148193359,
+    -25.65233039855957
+],
+  "geometry": {"coordinates":[[[27.60175514221191,-25.65646743774414],[27.62068557739258,-25.65233039855957],[27.62258148193359,-25.65886497497559],[27.61837959289551,-25.66103744506836],[27.61688232421875,-25.66280555725098],[27.61000823974609,-25.6646728515625],[27.60424613952637,-25.6647777557373],[27.59807777404785,-25.66384696960449],[27.59615707397461,-25.66388130187988],[27.59420585632324,-25.66252326965332],[27.59334564208984,-25.65836143493652],[27.59447479248047,-25.65729522705078],[27.60175514221191,-25.65646743774414]]],"type":"Polygon"}
+}

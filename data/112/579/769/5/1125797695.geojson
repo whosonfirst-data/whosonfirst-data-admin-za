@@ -1,0 +1,102 @@
+{
+  "id": 1125797695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.27758,-28.34866,29.27758,-28.34866",
+    "geom:latitude":-28.34866,
+    "geom:longitude":29.27758,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.34866,
+    "lbl:longitude":29.27758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Swinburne"
+    ],
+    "name:dut_x_preferred":[
+        "Swinburne"
+    ],
+    "name:eng_x_preferred":[
+        "Swinburne"
+    ],
+    "name:nso_x_preferred":[
+        "Swinburne"
+    ],
+    "name:rum_x_preferred":[
+        "Swinburne"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":950688,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Swinburne",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Free State",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":271199,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587931,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Free State",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950688,
+        "gp:id":1587931,
+        "qs_pg:id":271199,
+        "wd:id":"Q7658388"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291124,
+    "wof:geomhash":"14dc9d30744ea760d5003378e092cac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1125797695,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1125797695,
+    "wof:lastmodified":1514504551,
+    "wof:name":"Swinburne",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.27758,
+    -28.34866,
+    29.27758,
+    -28.34866
+],
+  "geometry": {"coordinates":[29.27758,-28.34866],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226320903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02977,-33.932,22.02977,-33.932",
+    "geom:latitude":-33.932,
+    "geom:longitude":22.02977,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC043",
+    "gn:asciiname":"Bonnievale",
+    "gn:country_code":"ZA",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1017619,
+    "gn:latitude":-33.932,
+    "gn:longitude":22.02977,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bonnievale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1017619
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"698c2d830a42d5c4681a63841ac854c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1226320903,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1226320903,
+    "wof:lastmodified":1536824452,
+    "wof:name":"Bonnievale",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02977000000001,
+    -33.932,
+    22.02977000000001,
+    -33.932
+],
+  "geometry": {"coordinates":[22.02977000000001,-33.932],"type":"Point"}
+}

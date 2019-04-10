@@ -1,0 +1,72 @@
+{
+  "id": 101923753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":2015289.266672,
+    "geom:bbox":"29.8251628876,-24.8014888763,29.8394756317,-24.7815856934",
+    "geom:latitude":-24.791534,
+    "geom:longitude":29.832641,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.791879,
+    "lbl:longitude":29.833221,
+    "mps:latitude":-24.791879,
+    "mps:longitude":29.833221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Riverside",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580215
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"676aa015029b43064f31948b864add3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923753,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923753,
+    "wof:lastmodified":1500028380,
+    "wof:name":"Riverside",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82516288757324,
+    -24.80148887634277,
+    29.83947563171387,
+    -24.78158569335938
+],
+  "geometry": {"coordinates":[[[29.82516288757324,-24.78284072875977],[29.83182716369629,-24.78158569335938],[29.83406829833984,-24.78401184082031],[29.83630561828613,-24.78602981567383],[29.83947563171387,-24.79494857788086],[29.83904647827148,-24.79738807678223],[29.83772468566895,-24.7994270324707],[29.83506774902344,-24.80147171020508],[29.83195304870605,-24.80148887634277],[29.83061599731445,-24.80108833312988],[29.83016586303711,-24.80027961730957],[29.82970428466797,-24.79743766784668],[29.82516288757324,-24.78284072875977]]],"type":"Polygon"}
+}

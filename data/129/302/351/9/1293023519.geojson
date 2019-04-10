@@ -1,0 +1,69 @@
+{
+  "id": 1293023519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.64587,-32.07034,26.64587,-32.07034",
+    "geom:latitude":-32.07034,
+    "geom:longitude":26.64587,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC134",
+    "gn:asciiname":"Kamastone",
+    "gn:country_code":"ZA",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":992592,
+    "gn:latitude":-32.07034,
+    "gn:longitude":26.64587,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kamastone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":992592
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81239f2db66d22af905b372446fa20dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1293023519,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293023519,
+    "wof:lastmodified":1536958945,
+    "wof:name":"Kamastone",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.64587,
+    -32.07034,
+    26.64587,
+    -32.07034
+],
+  "geometry": {"coordinates":[26.64587,-32.07034],"type":"Point"}
+}

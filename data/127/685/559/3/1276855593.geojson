@@ -1,0 +1,73 @@
+{
+  "id": 1276855593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03481,-23.42884,30.03481,-23.42884",
+    "geom:latitude":-23.42884,
+    "geom:longitude":30.03481,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM353",
+    "gn:asciiname":"Doringboom",
+    "gn:country_code":"ZA",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1008833,
+    "gn:latitude":-23.42884,
+    "gn:longitude":30.03481,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Doringboom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doornboom",
+        "Doringboom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1008833
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"106d676aa7444e9b64aa543c22ca87da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1276855593,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1276855593,
+    "wof:lastmodified":1537716429,
+    "wof:name":"Doringboom",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03481,
+    -23.42884,
+    30.03481,
+    -23.42884
+],
+  "geometry": {"coordinates":[30.03481,-23.42884],"type":"Point"}
+}

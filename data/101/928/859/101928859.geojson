@@ -1,0 +1,72 @@
+{
+  "id": 101928859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1920664.847427,
+    "geom:bbox":"27.0255889893,-31.9218616486,27.047077179,-31.9058208466",
+    "geom:latitude":-31.912624,
+    "geom:longitude":27.035901,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.911321,
+    "lbl:longitude":27.035901,
+    "mps:latitude":-31.911321,
+    "mps:longitude":27.035901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nkwankca",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583670
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f3f838b6934cf233b18c2d4aadd60622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928859,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928859,
+    "wof:lastmodified":1500027882,
+    "wof:name":"Nkwankca",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02558898925781,
+    -31.92186164855957,
+    27.04707717895508,
+    -31.90582084655762
+],
+  "geometry": {"coordinates":[[[27.04707717895508,-31.91026878356934],[27.04187202453613,-31.91379165649414],[27.03433799743652,-31.91733169555664],[27.03147506713867,-31.92182731628418],[27.02739715576172,-31.92186164855957],[27.02562141418457,-31.91939163208008],[27.02558898925781,-31.91640853881836],[27.02963829040527,-31.91389083862305],[27.03247261047363,-31.90690994262695],[27.03653907775879,-31.9058837890625],[27.04411315917969,-31.90582084655762],[27.04703140258789,-31.90629386901855],[27.04706573486328,-31.90927505493164],[27.04707717895508,-31.91026878356934]]],"type":"Polygon"}
+}

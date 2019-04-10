@@ -1,0 +1,74 @@
+{
+  "id": 101925411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1398373.511998,
+    "geom:bbox":"28.1084346771,-25.6832542419,28.1192512512,-25.6585559845",
+    "geom:latitude":-25.672747,
+    "geom:longitude":28.113855,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.674705,
+    "lbl:longitude":28.113487,
+    "mps:latitude":-25.674705,
+    "mps:longitude":28.113487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Amandasig",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306539,
+        "gp:id":55878540,
+        "qs:id":207709
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ed1badb8fa5fc4d61a107b811b681c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925411,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925411,
+    "wof:lastmodified":1500027709,
+    "wof:name":"Amandasig",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10843467712402,
+    -25.68325424194336,
+    28.1192512512207,
+    -25.65855598449707
+],
+  "geometry": {"coordinates":[[[28.11186790466309,-25.67949676513672],[28.11187171936035,-25.68325233459473],[28.10908317565918,-25.68325424194336],[28.10907936096191,-25.67964363098145],[28.11035537719727,-25.67964363098145],[28.11002349853516,-25.67561721801758],[28.10865592956543,-25.67514228820801],[28.10843467712402,-25.67097854614258],[28.11361312866211,-25.67119216918945],[28.11296463012695,-25.65855598449707],[28.11544990539551,-25.65861320495605],[28.11753273010254,-25.67230606079102],[28.11819458007812,-25.67628479003906],[28.11861419677734,-25.67880439758301],[28.1192512512207,-25.6804141998291],[28.11186790466309,-25.67949676513672]]],"type":"Polygon"}
+}

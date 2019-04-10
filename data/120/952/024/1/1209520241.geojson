@@ -1,0 +1,67 @@
+{
+  "id": 1209520241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70551,-32.33603,28.70551,-32.33603",
+    "geom:latitude":-32.33603,
+    "geom:longitude":28.70551,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Ntlahlana",
+    "gn:country_code":"ZA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969188,
+    "gn:latitude":-32.33603,
+    "gn:longitude":28.70551,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ntlahlana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntlahlane",
+        "Ntlahlana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969188
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"dbcd08b198040accd07f5504c1d10722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209520241
+        }
+    ],
+    "wof:id":1209520241,
+    "wof:lastmodified":1537716388,
+    "wof:name":"Ntlahlana",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70551,
+    -32.33603,
+    28.70551,
+    -32.33603
+],
+  "geometry": {"coordinates":[28.70551,-32.33603],"type":"Point"}
+}

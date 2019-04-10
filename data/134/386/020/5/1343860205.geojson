@@ -1,0 +1,69 @@
+{
+  "id": 1343860205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46375,-30.48022,26.46375,-30.48022",
+    "geom:latitude":-30.48022,
+    "geom:longitude":26.46375,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Wildebeestlaagte",
+    "gn:country_code":"ZA",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":940018,
+    "gn:latitude":-30.48022,
+    "gn:longitude":26.46375,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Wildebeestlaagte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940018
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8c19e92a433b1f9d78e365c4d1ad3cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1343860205,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1343860205,
+    "wof:lastmodified":1536666996,
+    "wof:name":"Wildebeestlaagte",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46375,
+    -30.48022000000001,
+    26.46375,
+    -30.48022000000001
+],
+  "geometry": {"coordinates":[26.46375,-30.48022000000001],"type":"Point"}
+}

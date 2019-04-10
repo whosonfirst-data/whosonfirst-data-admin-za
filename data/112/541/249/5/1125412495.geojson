@@ -1,0 +1,78 @@
+{
+  "id": 1125412495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40708,-33.93736,23.40708,-33.93736",
+    "geom:latitude":-33.93736,
+    "geom:longitude":23.40708,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":39002,
+    "gn:population":39002,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.93736,
+    "lbl:longitude":23.40708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347567,
+    "qs_pg:gn_pop":39002,
+    "qs_pg:name":"Bitou",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764980,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347567,
+        "qs_pg:id":764980
+    },
+    "wof:country":"ZA",
+    "wof:created":1497050643,
+    "wof:geomhash":"fb784316e37bb911614487c7f8a55d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "localadmin_id":1125412495,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125412495,
+    "wof:lastmodified":1509390298,
+    "wof:name":"Bitou",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"localadmin",
+    "wof:population":39002,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40708,
+    -33.93736,
+    23.40708,
+    -33.93736
+],
+  "geometry": {"coordinates":[23.40708,-33.93736],"type":"Point"}
+}

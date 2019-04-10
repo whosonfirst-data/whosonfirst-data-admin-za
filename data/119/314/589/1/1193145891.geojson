@@ -1,0 +1,75 @@
+{
+  "id": 1193145891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16667,-28.76667,30.16667,-28.76667",
+    "geom:latitude":-28.76667,
+    "geom:longitude":30.16667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN234",
+    "gn:asciiname":"Nkaseni",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970452,
+    "gn:latitude":-28.76667,
+    "gn:longitude":30.16667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Nkaseni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkasini Estates",
+        "Nkasini",
+        "Nkaseni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970452
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"66615bd46c65458ab2da2ae518553495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1193145891,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1193145891,
+    "wof:lastmodified":1537716391,
+    "wof:name":"Nkaseni",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16667,
+    -28.76667,
+    30.16667,
+    -28.76667
+],
+  "geometry": {"coordinates":[30.16667,-28.76667],"type":"Point"}
+}

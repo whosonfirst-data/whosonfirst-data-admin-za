@@ -1,0 +1,98 @@
+{
+  "id": 1125977843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.882614,-25.837093,27.882614,-25.837093",
+    "geom:latitude":-25.837093,
+    "geom:longitude":27.882614,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.837093,
+    "lbl:longitude":27.882614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Broederstroom"
+    ],
+    "name:dut_x_preferred":[
+        "Broederstroom"
+    ],
+    "name:eng_x_preferred":[
+        "Broederstroom"
+    ],
+    "name:fre_x_preferred":[
+        "Broederstroom"
+    ],
+    "name:nso_x_preferred":[
+        "Broederstroom"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Broederstroom",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"North-West",
+    "qs_pg:photos":429,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":429,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1339796,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879645,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"North-West",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879645,
+        "qs_pg:id":1339796,
+        "wd:id":"Q580468"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497298420,
+    "wof:geomhash":"97fc4b0806f8c1df3ce9a278d8592c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":1125977843,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1125977843,
+    "wof:lastmodified":1514503489,
+    "wof:name":"Broederstroom",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.882614,
+    -25.837093,
+    27.882614,
+    -25.837093
+],
+  "geometry": {"coordinates":[27.882614,-25.837093],"type":"Point"}
+}

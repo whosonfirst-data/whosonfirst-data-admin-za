@@ -1,0 +1,69 @@
+{
+  "id": 1293290151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56667,-27.66667,23.56667,-27.66667",
+    "geom:latitude":-27.66667,
+    "geom:longitude":23.56667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC45",
+    "gn:admin3_code":"NC452",
+    "gn:asciiname":"Klein-Koning",
+    "gn:country_code":"ZA",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":990318,
+    "gn:latitude":-27.66667,
+    "gn:longitude":23.56667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klein-Koning",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990318
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8f59d539a5b537970eb2f49d912a4f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1293290151,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1293290151,
+    "wof:lastmodified":1537068540,
+    "wof:name":"Klein-Koning",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56667,
+    -27.66667,
+    23.56667,
+    -27.66667
+],
+  "geometry": {"coordinates":[23.56667,-27.66667],"type":"Point"}
+}

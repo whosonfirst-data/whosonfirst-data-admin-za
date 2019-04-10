@@ -1,0 +1,73 @@
+{
+  "id": 1242770357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.37401,-26.52509,28.37401,-26.52509",
+    "geom:latitude":-26.52509,
+    "geom:longitude":28.37401,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"DC42",
+    "gn:admin3_code":"GT423",
+    "gn:asciiname":"Rensburgdorp",
+    "gn:country_code":"ZA",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":962701,
+    "gn:latitude":-26.52509,
+    "gn:longitude":28.37401,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rensburgdorp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rensburg",
+        "Rensburgdorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962701
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a40f2ad3da69db54841b9687638bd5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":1242770357,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1242770357,
+    "wof:lastmodified":1537716383,
+    "wof:name":"Rensburgdorp",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37401,
+    -26.52509,
+    28.37401,
+    -26.52509
+],
+  "geometry": {"coordinates":[28.37401,-26.52509],"type":"Point"}
+}

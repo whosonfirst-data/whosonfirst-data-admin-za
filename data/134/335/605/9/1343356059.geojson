@@ -1,0 +1,69 @@
+{
+  "id": 1343356059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88725,-27.11855,30.88725,-27.11855",
+    "geom:latitude":-27.11855,
+    "geom:longitude":30.88725,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP303",
+    "gn:asciiname":"De Kraalen",
+    "gn:country_code":"ZA",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1011121,
+    "gn:latitude":-27.11855,
+    "gn:longitude":30.88725,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"De Kraalen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1011121
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1bfc3dd6f724227e709c31f4e1387dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":1343356059,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1343356059,
+    "wof:lastmodified":1536896780,
+    "wof:name":"De Kraalen",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88725,
+    -27.11855,
+    30.88725,
+    -27.11855
+],
+  "geometry": {"coordinates":[30.88725,-27.11855],"type":"Point"}
+}

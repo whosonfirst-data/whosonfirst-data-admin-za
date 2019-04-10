@@ -1,0 +1,93 @@
+{
+  "id": 101923743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":540602.485995,
+    "geom:bbox":"27.7277355194,-24.7801551819,27.7364311218,-24.7708301544",
+    "geom:latitude":-24.775211,
+    "geom:longitude":27.732389,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.775197,
+    "lbl:longitude":27.731871,
+    "mps:latitude":-24.775197,
+    "mps:longitude":27.731871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Rooiberg"
+    ],
+    "name:dut_x_preferred":[
+        "Rooiberg"
+    ],
+    "name:eng_x_preferred":[
+        "Rooiberg"
+    ],
+    "name:nso_x_preferred":[
+        "Rooiberg"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rooiberg",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-24.776,
+    "wd:longitude":27.738,
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960144,
+        "gp:id":1586983,
+        "qs:id":460315,
+        "qs_pg:id":460315,
+        "wd:id":"Q7366177"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5bf7ca7e0d4abac082ffd7c03c93bfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923743,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923743,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Rooiberg",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72773551940918,
+    -24.78015518188477,
+    27.73643112182617,
+    -24.77083015441895
+],
+  "geometry": {"coordinates":[[[27.73597717285156,-24.77409362792969],[27.73463439941406,-24.77489471435547],[27.73458480834961,-24.77997207641602],[27.73213577270508,-24.78015518188477],[27.72773551940918,-24.77524566650391],[27.72953605651855,-24.77302551269531],[27.73155212402344,-24.77162170410156],[27.73422813415527,-24.77083015441895],[27.7351188659668,-24.77083778381348],[27.73599815368652,-24.77186012268066],[27.73643112182617,-24.77308082580566],[27.73597717285156,-24.77409362792969]]],"type":"Polygon"}
+}

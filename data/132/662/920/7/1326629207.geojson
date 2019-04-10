@@ -1,0 +1,69 @@
+{
+  "id": 1326629207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08446,-31.70589,26.08446,-31.70589",
+    "geom:latitude":-31.70589,
+    "geom:longitude":26.08446,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC132",
+    "gn:asciiname":"Vale End",
+    "gn:country_code":"ZA",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":945111,
+    "gn:latitude":-31.70589,
+    "gn:longitude":26.08446,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vale End",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945111
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5db3eaa6de6954b0b3d4ba59457ceb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1326629207,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326629207,
+    "wof:lastmodified":1536843144,
+    "wof:name":"Vale End",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08446,
+    -31.70589,
+    26.08446,
+    -31.70589
+],
+  "geometry": {"coordinates":[26.08446,-31.70589],"type":"Point"}
+}

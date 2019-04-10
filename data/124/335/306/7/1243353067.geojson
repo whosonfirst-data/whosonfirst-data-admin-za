@@ -1,0 +1,69 @@
+{
+  "id": 1243353067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98037,-23.17389,27.98037,-23.17389",
+    "geom:latitude":-23.17389,
+    "geom:longitude":27.98037,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM362",
+    "gn:asciiname":"Kokstad",
+    "gn:country_code":"ZA",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":988357,
+    "gn:latitude":-23.17389,
+    "gn:longitude":27.98037,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kokstad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988357
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"056930d6d816e008b15849e5e91c5acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1243353067,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1243353067,
+    "wof:lastmodified":1536940846,
+    "wof:name":"Kokstad",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98037,
+    -23.17389,
+    27.98037,
+    -23.17389
+],
+  "geometry": {"coordinates":[27.98037,-23.17389],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 101926649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1633081.17612,
+    "geom:bbox":"28.1203098297,-27.6577415466,28.1379261017,-27.643737793",
+    "geom:latitude":-27.650312,
+    "geom:longitude":28.129433,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.65016,
+    "lbl:longitude":28.129433,
+    "mps:latitude":-27.65016,
+    "mps:longitude":28.129433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Petrus Steyn"
+    ],
+    "name:dut_x_preferred":[
+        "Petrus Steyn"
+    ],
+    "name:eng_x_preferred":[
+        "Petrus Steyn"
+    ],
+    "name:nso_x_preferred":[
+        "Petrus Steyn"
+    ],
+    "name:rum_x_preferred":[
+        "Petrus Steyn"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Petrus Steyn",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1700.0,
+    "wd:latitude":-27.65,
+    "wd:longitude":28.133333,
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965571,
+        "gp:id":1586485,
+        "wd:id":"Q862013",
+        "wk:page":"Petrus Steyn"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ab0308dcacf7add2fcfc8cb0953f175c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":101926649,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926649,
+    "wof:lastmodified":1527715817,
+    "wof:name":"Petrus Steyn",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12030982971191,
+    -27.65774154663086,
+    28.13792610168457,
+    -27.64373779296875
+],
+  "geometry": {"coordinates":[[[28.1366138458252,-27.64373779296875],[28.13792610168457,-27.65259170532227],[28.12954330444336,-27.65484809875488],[28.12477111816406,-27.65774154663086],[28.12030982971191,-27.65243339538574],[28.12349319458008,-27.6506233215332],[28.12065505981445,-27.64744186401367],[28.1366138458252,-27.64373779296875]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1193003771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06667,-28.65,23.06667,-28.65",
+    "geom:latitude":-28.65,
+    "geom:longitude":23.06667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC078",
+    "gn:asciiname":"Annashoop",
+    "gn:country_code":"ZA",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1022763,
+    "gn:latitude":-28.65,
+    "gn:longitude":23.06667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Annashoop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022763
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3a6419c69be3a6299db3f3b75174adb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1193003771,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1193003771,
+    "wof:lastmodified":1536367502,
+    "wof:name":"Annashoop",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06667,
+    -28.65,
+    23.06667,
+    -28.65
+],
+  "geometry": {"coordinates":[23.06667,-28.65],"type":"Point"}
+}

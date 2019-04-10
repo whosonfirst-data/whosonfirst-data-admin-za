@@ -1,0 +1,70 @@
+{
+  "id": 1260296729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85335,-28.02881,27.85335,-28.02881",
+    "geom:latitude":-28.02881,
+    "geom:longitude":27.85335,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS193",
+    "gn:asciiname":"Arlington",
+    "gn:country_code":"ZA",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1022283,
+    "gn:latitude":-28.02881,
+    "gn:longitude":27.85335,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Arlington",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022283,
+        "wk:page":"Arlington%2C_Free_State"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a0eac0c26c98a998f8b658ba6222ffa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1260296729,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1260296729,
+    "wof:lastmodified":1537576370,
+    "wof:name":"Arlington",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85335,
+    -28.02881,
+    27.85335,
+    -28.02881
+],
+  "geometry": {"coordinates":[27.85335,-28.02881],"type":"Point"}
+}

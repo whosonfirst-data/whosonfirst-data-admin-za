@@ -1,0 +1,73 @@
+{
+  "id": 1327346437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34391,-30.40841,29.34391,-30.40841",
+    "geom:latitude":-30.40841,
+    "geom:longitude":29.34391,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN433",
+    "gn:asciiname":"Water Fall",
+    "gn:country_code":"ZA",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941810,
+    "gn:latitude":-30.40841,
+    "gn:longitude":29.34391,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Water Fall",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waterval",
+        "Water Fall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941810
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a204585f05a9901567d059dc97b0b645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1327346437,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1327346437,
+    "wof:lastmodified":1537716369,
+    "wof:name":"Water Fall",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34391,
+    -30.40841,
+    29.34391,
+    -30.40841
+],
+  "geometry": {"coordinates":[29.34391,-30.40841],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259385853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34915,-30.70843,30.34915,-30.70843",
+    "geom:latitude":-30.70843,
+    "geom:longitude":30.34915,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC21",
+    "gn:admin3_code":"KZN216",
+    "gn:asciiname":"Glendale",
+    "gn:country_code":"ZA",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001723,
+    "gn:latitude":-30.70843,
+    "gn:longitude":30.34915,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Glendale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001723
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a6b426e5c2565acfdcda5c3799c99fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1259385853,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259385853,
+    "wof:lastmodified":1536998057,
+    "wof:name":"Glendale",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34915,
+    -30.70843,
+    30.34915,
+    -30.70843
+],
+  "geometry": {"coordinates":[30.34915,-30.70843],"type":"Point"}
+}

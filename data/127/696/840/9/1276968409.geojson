@@ -1,0 +1,67 @@
+{
+  "id": 1276968409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19904,-27.28795,23.19904,-27.28795",
+    "geom:latitude":-27.28795,
+    "geom:longitude":23.19904,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Morotowontshe",
+    "gn:country_code":"ZA",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973805,
+    "gn:latitude":-27.28795,
+    "gn:longitude":23.19904,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Morotowontshe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973805
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d022374db85557a5e70bc0e04726bfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1276968409,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276968409,
+    "wof:lastmodified":1536923350,
+    "wof:name":"Morotowontshe",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19904,
+    -27.28795,
+    23.19904,
+    -27.28795
+],
+  "geometry": {"coordinates":[23.19904,-27.28795],"type":"Point"}
+}

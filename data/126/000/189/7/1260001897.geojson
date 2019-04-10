@@ -1,0 +1,75 @@
+{
+  "id": 1260001897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31583,-28.44454,24.31583,-28.44454",
+    "geom:latitude":-28.44454,
+    "geom:longitude":24.31583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"DC9",
+    "gn:admin3_code":"NC092",
+    "gn:asciiname":"Sydney on Vaal",
+    "gn:country_code":"ZA",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":950661,
+    "gn:latitude":-28.44454,
+    "gn:longitude":24.31583,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sydney on Vaal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidney on Vaal",
+        "Syoney-on-Vaal",
+        "Sydney on Vaal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950661,
+        "wk:page":"Sydney_on_Vaal"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"94f23ca54b59c750d98022c8b900be31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730599,
+            "locality_id":1260001897,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1260001897,
+    "wof:lastmodified":1537716376,
+    "wof:name":"Sydney on Vaal",
+    "wof:parent_id":1108730599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31583,
+    -28.44454,
+    24.31583,
+    -28.44454
+],
+  "geometry": {"coordinates":[24.31583,-28.44454],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209313533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94923,-33.6429,24.94923,-33.6429",
+    "geom:latitude":-33.6429,
+    "geom:longitude":24.94923,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC10",
+    "gn:admin3_code":"EC106",
+    "gn:asciiname":"Wheatlands",
+    "gn:country_code":"ZA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":940250,
+    "gn:latitude":-33.6429,
+    "gn:longitude":24.94923,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Wheatlands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940250
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8b6d3bdb06b0ee59c2841d2eca23917a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209313533
+        }
+    ],
+    "wof:id":1209313533,
+    "wof:lastmodified":1536290944,
+    "wof:name":"Wheatlands",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94923,
+    -33.6429,
+    24.94923,
+    -33.6429
+],
+  "geometry": {"coordinates":[24.94923,-33.6429],"type":"Point"}
+}

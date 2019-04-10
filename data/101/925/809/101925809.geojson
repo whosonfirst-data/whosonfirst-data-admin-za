@@ -1,0 +1,70 @@
+{
+  "id": 101925809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000243,
+    "geom:area_square_m":2696913.142793,
+    "geom:bbox":"28.2546615601,-26.1667346954,28.2813415527,-26.1544437408",
+    "geom:latitude":-26.161489,
+    "geom:longitude":28.267318,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.161452,
+    "lbl:longitude":28.267318,
+    "mps:latitude":-26.161452,
+    "mps:longitude":28.267318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Impalapark",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"171f0dea543f97fd9d7a52c4d05c8837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925809,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925809,
+    "wof:lastmodified":1500027723,
+    "wof:name":"Impalapark",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25466156005859,
+    -26.16673469543457,
+    28.28134155273438,
+    -26.15444374084473
+],
+  "geometry": {"coordinates":[[[28.28134155273438,-26.16673469543457],[28.26882553100586,-26.16635894775391],[28.25997352600098,-26.16618537902832],[28.25466156005859,-26.16610145568848],[28.25486373901367,-26.16328239440918],[28.25734329223633,-26.15444374084473],[28.26171875,-26.15509223937988],[28.26172065734863,-26.15631484985352],[28.27826690673828,-26.15708541870117],[28.27898216247559,-26.15958023071289],[28.27922248840332,-26.16041946411133],[28.27937126159668,-26.16093826293945],[28.28134155273438,-26.16673469543457]]],"type":"Polygon"}
+}

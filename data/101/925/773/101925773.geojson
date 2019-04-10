@@ -1,0 +1,91 @@
+{
+  "id": 101925773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000326,
+    "geom:area_square_m":3613799.637722,
+    "geom:bbox":"28.251909256,-26.1392192841,28.2715549469,-26.1107635498",
+    "geom:latitude":-26.124062,
+    "geom:longitude":28.262228,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.123375,
+    "lbl:longitude":28.259772,
+    "mps:latitude":-26.123375,
+    "mps:longitude":28.259772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bonaeropark"
+    ],
+    "name:dut_x_preferred":[
+        "Bonaero Park"
+    ],
+    "name:eng_x_preferred":[
+        "Bonaero Park"
+    ],
+    "name:nso_x_preferred":[
+        "Bonaero Park"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bonaero Park",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.1231,
+    "wd:longitude":28.2556,
+    "wd:wordcount":361,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7290084,
+        "gp:id":55878305,
+        "qs:id":887151,
+        "wd:id":"Q4941079",
+        "wk:page":"Bonaero Park"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3c20624169b088c6ba761b02400098f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101925773,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925773,
+    "wof:lastmodified":1527688524,
+    "wof:name":"Bonaero Park",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25190925598145,
+    -26.13921928405762,
+    28.27155494689941,
+    -26.11076354980469
+],
+  "geometry": {"coordinates":[[[28.27151489257812,-26.12079429626465],[28.26451301574707,-26.11954307556152],[28.26973152160645,-26.12765693664551],[28.27155494689941,-26.13812446594238],[28.26555824279785,-26.13921928405762],[28.26194190979004,-26.13254547119141],[28.25973892211914,-26.13056373596191],[28.25453186035156,-26.127685546875],[28.25392723083496,-26.12533950805664],[28.2523250579834,-26.12462043762207],[28.25190925598145,-26.11649703979492],[28.26342964172363,-26.11076354980469],[28.26613998413086,-26.11299133300781],[28.27151489257812,-26.12079429626465]]],"type":"Polygon"}
+}

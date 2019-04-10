@@ -1,0 +1,73 @@
+{
+  "id": 1327123451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.101,-25.73507,25.101,-25.73507",
+    "geom:latitude":-25.73507,
+    "geom:longitude":25.101,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Phitshane",
+    "gn:country_code":"ZA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965454,
+    "gn:latitude":-25.73507,
+    "gn:longitude":25.101,
+    "gn:modification_date":"2016-11-07",
+    "gn:name":"Phitshane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Gaborone",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitsani",
+        "Pitsane",
+        "Phitshane",
+        "Phitshane Molopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632235,
+        85669619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965454
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"74c597ed6d3d2d9c3e85deba9885e2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":1327123451,
+            "region_id":85669619
+        }
+    ],
+    "wof:id":1327123451,
+    "wof:lastmodified":1537716385,
+    "wof:name":"Phitshane",
+    "wof:parent_id":85669619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.101,
+    -25.73507,
+    25.101,
+    -25.73507
+],
+  "geometry": {"coordinates":[25.101,-25.73507],"type":"Point"}
+}

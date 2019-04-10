@@ -1,0 +1,104 @@
+{
+  "id": 1126049263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42409,-28.66595,20.42409,-28.66595",
+    "geom:latitude":-28.66595,
+    "geom:longitude":20.42409,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.66595,
+    "lbl:longitude":20.42409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Augrabies"
+    ],
+    "name:dut_x_preferred":[
+        "Augrabies"
+    ],
+    "name:eng_x_preferred":[
+        "Augrabies"
+    ],
+    "name:fre_x_preferred":[
+        "Augrabies"
+    ],
+    "name:spa_x_preferred":[
+        "Augrabies"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1022037,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Augrabies",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":265745,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1589196,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1022037,
+        "gp:id":1589196,
+        "qs_pg:id":265745,
+        "wd:id":"Q4777935"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497302627,
+    "wof:geomhash":"3fefa74b0ea931e6040d37b5cf621bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1126049263,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1126049263,
+    "wof:lastmodified":1514503477,
+    "wof:name":"Augrabies",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42409,
+    -28.66595,
+    20.42409,
+    -28.66595
+],
+  "geometry": {"coordinates":[20.42409,-28.66595],"type":"Point"}
+}

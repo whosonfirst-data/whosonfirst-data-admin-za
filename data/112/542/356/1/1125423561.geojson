@@ -1,0 +1,78 @@
+{
+  "id": 1125423561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17613,-33.01018,18.17613,-33.01018",
+    "geom:latitude":-33.01018,
+    "geom:longitude":18.17613,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":78982,
+    "gn:population":78982,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.01018,
+    "lbl:longitude":18.17613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347591,
+    "qs_pg:gn_pop":78982,
+    "qs_pg:name":"Saldanha Bay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":904483,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347591,
+        "qs_pg:id":904483
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052715,
+    "wof:geomhash":"eabc64efd65bfbfbef2d2c5fdfeb5b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "localadmin_id":1125423561,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125423561,
+    "wof:lastmodified":1509390546,
+    "wof:name":"Saldanha Bay",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"localadmin",
+    "wof:population":78982,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17613,
+    -33.01018,
+    18.17613,
+    -33.01018
+],
+  "geometry": {"coordinates":[18.17613,-33.01018],"type":"Point"}
+}

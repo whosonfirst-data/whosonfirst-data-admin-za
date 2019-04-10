@@ -1,0 +1,69 @@
+{
+  "id": 1310316591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,-29.23333,25.88333,-29.23333",
+    "geom:latitude":-29.23333,
+    "geom:longitude":25.88333,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Nottingham",
+    "gn:country_code":"ZA",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969621,
+    "gn:latitude":-29.23333,
+    "gn:longitude":25.88333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nottingham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969621
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3216ddfaf9cd2906441a7eb8178774fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1310316591,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1310316591,
+    "wof:lastmodified":1536692036,
+    "wof:name":"Nottingham",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    -29.23333,
+    25.88333,
+    -29.23333
+],
+  "geometry": {"coordinates":[25.88333,-29.23333],"type":"Point"}
+}

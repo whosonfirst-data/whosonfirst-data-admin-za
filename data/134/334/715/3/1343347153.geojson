@@ -1,0 +1,69 @@
+{
+  "id": 1343347153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63966,-29.26076,21.63966,-29.26076",
+    "geom:latitude":-29.26076,
+    "geom:longitude":21.63966,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC084",
+    "gn:asciiname":"Edenville",
+    "gn:country_code":"ZA",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006830,
+    "gn:latitude":-29.26076,
+    "gn:longitude":21.63966,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Edenville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006830
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2d7515b49e9e5ca7c422bb282f8cbca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1343347153,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1343347153,
+    "wof:lastmodified":1536910155,
+    "wof:name":"Edenville",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63966,
+    -29.26076,
+    21.63966,
+    -29.26076
+],
+  "geometry": {"coordinates":[21.63966,-29.26076],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209012079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86593,-29.20021,26.86593,-29.20021",
+    "geom:latitude":-29.20021,
+    "geom:longitude":26.86593,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Motlala",
+    "gn:country_code":"ZA",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973659,
+    "gn:latitude":-29.20021,
+    "gn:longitude":26.86593,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Motlala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973659
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0eccae84db4607ff3783a48d7f6fbd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209012079
+        }
+    ],
+    "wof:id":1209012079,
+    "wof:lastmodified":1536300413,
+    "wof:name":"Motlala",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86593,
+    -29.20021,
+    26.86593,
+    -29.20021
+],
+  "geometry": {"coordinates":[26.86593,-29.20021],"type":"Point"}
+}

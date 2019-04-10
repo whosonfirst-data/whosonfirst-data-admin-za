@@ -1,0 +1,123 @@
+{
+  "id": 1125895393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.772129,-31.472543,19.772129,-31.472543",
+    "geom:latitude":-31.472543,
+    "geom:longitude":19.772129,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.472543,
+    "lbl:longitude":19.772129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Calvinia"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u723e\u7dad\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Calvinia"
+    ],
+    "name:eng_x_preferred":[
+        "Calvinia"
+    ],
+    "name:fre_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ger_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ita_x_preferred":[
+        "Calvinia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30d3\u30cb\u30a2"
+    ],
+    "name:rum_x_preferred":[
+        "Calvinia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0432\u0438\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Calvinia"
+    ],
+    "name:ven_x_preferred":[
+        "Calvinia"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Calvinia",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118613,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580259,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580259,
+        "qs_pg:id":1118613,
+        "wd:id":"Q1027757"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295527,
+    "wof:geomhash":"65106c37fb5e0e995747eab2bcfe56fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125895393,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125895393,
+    "wof:lastmodified":1534379835,
+    "wof:name":"Calvinia",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1125872081
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.772129,
+    -31.472543,
+    19.772129,
+    -31.472543
+],
+  "geometry": {"coordinates":[19.772129,-31.472543],"type":"Point"}
+}

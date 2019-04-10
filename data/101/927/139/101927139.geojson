@@ -1,0 +1,105 @@
+{
+  "id": 101927139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":1167927.745314,
+    "geom:bbox":"25.3073310852,-29.7542304993,25.3211631775,-29.7442798615",
+    "geom:latitude":-29.74959,
+    "geom:longitude":25.313825,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.749141,
+    "lbl:longitude":25.313825,
+    "mps:latitude":-29.749141,
+    "mps:longitude":25.313825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0443\u0440\u0435\u0441\u043c\u0438\u0442\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:eng_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:fre_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:fry_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:ger_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:nso_x_preferred":[
+        "Fauresmith"
+    ],
+    "name:rum_x_preferred":[
+        "Fauresmith"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fauresmith",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-29.75,
+    "wd:longitude":25.316667,
+    "wd:wordcount":562,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004406,
+        "gp:id":1581252,
+        "wd:id":"Q985813",
+        "wk:page":"Fauresmith"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4603e0d9fdac95c8ca355d90f1ace045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101927139,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101927139,
+    "wof:lastmodified":1527715638,
+    "wof:name":"Fauresmith",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30733108520508,
+    -29.75423049926758,
+    25.32116317749023,
+    -29.7442798614502
+],
+  "geometry": {"coordinates":[[[25.3149242401123,-29.7442798614502],[25.32034301757812,-29.74733352661133],[25.32116317749023,-29.75262260437012],[25.31901359558105,-29.75321769714355],[25.31501007080078,-29.75366401672363],[25.31057929992676,-29.75423049926758],[25.30900955200195,-29.75420951843262],[25.30801200866699,-29.75407218933105],[25.30759620666504,-29.75344467163086],[25.30733108520508,-29.752197265625],[25.3073673248291,-29.75008010864258],[25.30768966674805,-29.74784469604492],[25.30843162536621,-29.74623489379883],[25.30987548828125,-29.7451343536377],[25.3149242401123,-29.7442798614502]]],"type":"Polygon"}
+}

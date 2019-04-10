@@ -1,0 +1,76 @@
+{
+  "id": 101924511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000355,
+    "geom:area_square_m":3984328.180485,
+    "geom:bbox":"31.2684822083,-24.6983356476,31.2810058594,-24.6535587311",
+    "geom:latitude":-24.67347,
+    "geom:longitude":31.274204,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.672073,
+    "lbl:longitude":31.274085,
+    "mps:latitude":-24.672073,
+    "mps:longitude":31.274085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ludlow",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":52.366667,
+    "wd:longitude":-2.716667,
+    "wd:wordcount":8281,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981517,
+        "gp:id":1582282
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"484d694781103d1b297de68d505c5f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924511,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924511,
+    "wof:lastmodified":1527677688,
+    "wof:name":"Ludlow",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26848220825195,
+    -24.69833564758301,
+    31.281005859375,
+    -24.6535587310791
+],
+  "geometry": {"coordinates":[[[31.28049087524414,-24.65473747253418],[31.28095054626465,-24.65554428100586],[31.281005859375,-24.65879249572754],[31.28063201904297,-24.66286087036133],[31.27614402770996,-24.68608093261719],[31.27496719360352,-24.69503593444824],[31.27367401123047,-24.6974925994873],[31.27146530151367,-24.69833564758301],[31.27054977416992,-24.69672393798828],[31.26848220825195,-24.68009948730469],[31.2703971862793,-24.66219711303711],[31.27207565307617,-24.65648460388184],[31.27470016479492,-24.65400886535645],[31.27780342102051,-24.6535587310791],[31.28049087524414,-24.65473747253418]]],"type":"Polygon"}
+}

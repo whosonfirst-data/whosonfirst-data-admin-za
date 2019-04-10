@@ -1,0 +1,69 @@
+{
+  "id": 1209807251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55,-25.68333,31.55,-25.68333",
+    "geom:latitude":-25.68333,
+    "geom:longitude":31.55,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP324",
+    "gn:asciiname":"Landboukantoor",
+    "gn:country_code":"ZA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984840,
+    "gn:latitude":-25.68333,
+    "gn:longitude":31.55,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Landboukantoor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984840
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8379e7d9ffaa2a40d1f7a177c31250b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1209807251,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1209807251,
+    "wof:lastmodified":1536388054,
+    "wof:name":"Landboukantoor",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55,
+    -25.68333,
+    31.55,
+    -25.68333
+],
+  "geometry": {"coordinates":[31.55,-25.68333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":624152.421034,
+    "geom:bbox":"27.9394779205,-26.5769252777,27.9507789612,-26.5687103271",
+    "geom:latitude":-26.573022,
+    "geom:longitude":27.945558,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.57356,
+    "lbl:longitude":27.946015,
+    "mps:latitude":-26.57356,
+    "mps:longitude":27.946015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rust ter Vaal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958630
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"88acd9f9782806931678f8b7dd64e766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926357,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926357,
+    "wof:lastmodified":1500027711,
+    "wof:name":"Rust ter Vaal",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93947792053223,
+    -26.57692527770996,
+    27.95077896118164,
+    -26.56871032714844
+],
+  "geometry": {"coordinates":[[[27.94942855834961,-26.57692527770996],[27.94418907165527,-26.57672119140625],[27.94052314758301,-26.57194137573242],[27.93947792053223,-26.56924819946289],[27.94239616394043,-26.56871032714844],[27.94247055053711,-26.57059669494629],[27.94778633117676,-26.57019424438477],[27.95077896118164,-26.57133865356445],[27.94942855834961,-26.57692527770996]]],"type":"Polygon"}
+}

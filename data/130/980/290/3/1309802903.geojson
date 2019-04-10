@@ -1,0 +1,73 @@
+{
+  "id": 1309802903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19067,-31.84304,29.19067,-31.84304",
+    "geom:latitude":-31.84304,
+    "geom:longitude":29.19067,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC155",
+    "gn:asciiname":"Mzonyane",
+    "gn:country_code":"ZA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":972299,
+    "gn:latitude":-31.84304,
+    "gn:longitude":29.19067,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mzonyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ludaka",
+        "Mzonyane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":972299
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2dfbedd5505d5922c142b6fb844fa91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":1309802903,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309802903,
+    "wof:lastmodified":1537716395,
+    "wof:name":"Mzonyane",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19067,
+    -31.84304,
+    29.19067,
+    -31.84304
+],
+  "geometry": {"coordinates":[29.19067,-31.84304],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209506633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83039,-25.81952,31.83039,-25.81952",
+    "geom:latitude":-25.81952,
+    "geom:longitude":31.83039,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP324",
+    "gn:asciiname":"Figtree",
+    "gn:country_code":"ZA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1004279,
+    "gn:latitude":-25.81952,
+    "gn:longitude":31.83039,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Figtree",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1004279
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"84707b870821d7d9ff1655c4f1be2b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209506633
+        }
+    ],
+    "wof:id":1209506633,
+    "wof:lastmodified":1536285014,
+    "wof:name":"Figtree",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83039,
+    -25.81952,
+    31.83039,
+    -25.81952
+],
+  "geometry": {"coordinates":[31.83039,-25.81952],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243165897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82705,-26.17316,23.82705,-26.17316",
+    "geom:latitude":-26.17316,
+    "geom:longitude":23.82705,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Tshetshwana",
+    "gn:country_code":"ZA",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":947933,
+    "gn:latitude":-26.17316,
+    "gn:longitude":23.82705,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tshetshwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":947933
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f7870300a1dc34e9bd397a6ff5743376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":1243165897,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1243165897,
+    "wof:lastmodified":1536713380,
+    "wof:name":"Tshetshwana",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82705,
+    -26.17316,
+    23.82705,
+    -26.17316
+],
+  "geometry": {"coordinates":[23.82705,-26.17316],"type":"Point"}
+}

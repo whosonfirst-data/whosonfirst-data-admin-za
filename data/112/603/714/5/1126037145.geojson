@@ -1,0 +1,82 @@
+{
+  "id": 1126037145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14287,-27.35501,30.14287,-27.35501",
+    "geom:latitude":-27.35501,
+    "geom:longitude":30.14287,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.35501,
+    "lbl:longitude":30.14287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Marthinus",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Mpumalanga",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":966316,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55881265,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Mpumalanga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881265,
+        "qs_pg:id":966316
+    },
+    "wof:country":"ZA",
+    "wof:created":1497301864,
+    "wof:geomhash":"2109afc41a81edbb16afb6f23176b187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":1126037145,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1126037145,
+    "wof:lastmodified":1509408291,
+    "wof:name":"Marthinus",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14287,
+    -27.35501,
+    30.14287,
+    -27.35501
+],
+  "geometry": {"coordinates":[30.14287,-27.35501],"type":"Point"}
+}

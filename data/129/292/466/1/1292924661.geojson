@@ -1,0 +1,74 @@
+{
+  "id": 1292924661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-23.85,29.81667,-23.85",
+    "geom:latitude":-23.85,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Leshoane",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983077,
+    "gn:latitude":-23.85,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Leshoane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leshwane",
+        "Leshoane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983077
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"28c57dd933cfeb18ffe16840c0c80f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1292924661,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292924661,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leshoane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -23.85,
+    29.81667,
+    -23.85
+],
+  "geometry": {"coordinates":[29.81667,-23.85],"type":"Point"}
+}

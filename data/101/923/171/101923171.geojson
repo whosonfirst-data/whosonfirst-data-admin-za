@@ -1,0 +1,88 @@
+{
+  "id": 101923171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":1009923.556525,
+    "geom:bbox":"28.6958827972,-23.1177577972,28.7112693787,-23.1100139618",
+    "geom:latitude":-23.113475,
+    "geom:longitude":28.703779,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.113518,
+    "lbl:longitude":28.703925,
+    "mps:latitude":-23.113518,
+    "mps:longitude":28.703925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Grootdraai"
+    ],
+    "name:dut_x_preferred":[
+        "Grootdraai"
+    ],
+    "name:eng_x_preferred":[
+        "Grootdraai"
+    ],
+    "name:nso_x_preferred":[
+        "Grootdraai"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Grootdraai",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-23.116,
+    "wd:longitude":28.704,
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586629,
+        "wd:id":"Q5610286"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e2f79c28254fc20fe2ca02c774588e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":101923171,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923171,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Grootdraai",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69588279724121,
+    -23.11775779724121,
+    28.71126937866211,
+    -23.11001396179199
+],
+  "geometry": {"coordinates":[[[28.70949745178223,-23.11775779724121],[28.69588279724121,-23.11529541015625],[28.69633293151855,-23.11123275756836],[28.69721412658691,-23.11001396179199],[28.69809150695801,-23.11001586914062],[28.69984817504883,-23.11042594909668],[28.70160293579102,-23.11124229431152],[28.70248413085938,-23.11043167114258],[28.7064380645752,-23.11003303527832],[28.71126937866211,-23.11085510253906],[28.70949745178223,-23.11775779724121]]],"type":"Polygon"}
+}

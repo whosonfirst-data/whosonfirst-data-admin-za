@@ -1,0 +1,67 @@
+{
+  "id": 1292927347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61154,-25.3231,29.61154,-25.3231",
+    "geom:latitude":-25.3231,
+    "geom:longitude":29.61154,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Brakfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1016317,
+    "gn:latitude":-25.3231,
+    "gn:longitude":29.61154,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Brakfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1016317
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c44a1068cca082b656995bb416f20c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1292927347,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1292927347,
+    "wof:lastmodified":1537094479,
+    "wof:name":"Brakfontein",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61154,
+    -25.3231,
+    29.61154,
+    -25.3231
+],
+  "geometry": {"coordinates":[29.61154,-25.3231],"type":"Point"}
+}

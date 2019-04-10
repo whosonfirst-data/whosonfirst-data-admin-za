@@ -1,0 +1,69 @@
+{
+  "id": 1225933601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31752,-24.5826,30.31752,-24.5826",
+    "geom:latitude":-24.5826,
+    "geom:longitude":30.31752,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM475",
+    "gn:asciiname":"Mahubahuba",
+    "gn:country_code":"ZA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980249,
+    "gn:latitude":-24.5826,
+    "gn:longitude":30.31752,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mahubahuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980249
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"897b9cc4a03d027ac5f0d98ce298ae76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1225933601,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1225933601,
+    "wof:lastmodified":1536886493,
+    "wof:name":"Mahubahuba",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31752,
+    -24.5826,
+    30.31752,
+    -24.5826
+],
+  "geometry": {"coordinates":[30.31752,-24.5826],"type":"Point"}
+}

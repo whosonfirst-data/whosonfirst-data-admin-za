@@ -1,0 +1,63 @@
+{
+  "id": 1209223585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81401,-28.56134,29.81401,-28.56134",
+    "geom:latitude":-28.56134,
+    "geom:longitude":29.81401,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN232",
+    "gn:asciiname":"Mvelani",
+    "gn:country_code":"ZA",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258570,
+    "gn:latitude":-28.56134,
+    "gn:longitude":29.81401,
+    "gn:modification_date":"2016-10-04",
+    "gn:name":"Mvelani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258570
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6c385c0ad0bdc741ff3770af860bb4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209223585
+        }
+    ],
+    "wof:id":1209223585,
+    "wof:lastmodified":1536293875,
+    "wof:name":"Mvelani",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81401,
+    -28.56134,
+    29.81401,
+    -28.56134
+],
+  "geometry": {"coordinates":[29.81401,-28.56134],"type":"Point"}
+}

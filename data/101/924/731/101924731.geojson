@@ -1,0 +1,102 @@
+{
+  "id": 101924731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":1972793.086436,
+    "geom:bbox":"24.1781539917,-27.5729160309,24.1909446716,-27.5562534332",
+    "geom:latitude":-27.564592,
+    "geom:longitude":24.184046,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.564562,
+    "lbl:longitude":24.183961,
+    "mps:latitude":-27.564562,
+    "mps:longitude":24.183961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Reivilo"
+    ],
+    "name:dut_x_preferred":[
+        "Reivilo"
+    ],
+    "name:eng_x_preferred":[
+        "Reivilo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30d5\u30a3\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "Reivilo"
+    ],
+    "name:nso_x_preferred":[
+        "Reivilo"
+    ],
+    "name:ron_x_preferred":[
+        "Reivilo"
+    ],
+    "name:rum_x_preferred":[
+        "Reivilo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Reivilo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.566667,
+    "wd:longitude":24.2,
+    "wd:wordcount":249,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":962841,
+        "gp:id":1586840,
+        "wd:id":"Q3644440",
+        "wk:page":"Reivilo"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"69d51752351141fe8e14f9875ced912e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730607,
+            "locality_id":101924731,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101924731,
+    "wof:lastmodified":1527670488,
+    "wof:name":"Reivilo",
+    "wof:parent_id":1108730607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17815399169922,
+    -27.57291603088379,
+    24.19094467163086,
+    -27.55625343322754
+],
+  "geometry": {"coordinates":[[[24.18948173522949,-27.56338119506836],[24.18900299072266,-27.57291603088379],[24.17815399169922,-27.57241439819336],[24.17826080322266,-27.55752372741699],[24.19094467163086,-27.55625343322754],[24.18948173522949,-27.56338119506836]]],"type":"Polygon"}
+}

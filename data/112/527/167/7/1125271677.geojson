@@ -1,0 +1,78 @@
+{
+  "id": 1125271677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93323,-22.92901,30.93323,-22.92901",
+    "geom:latitude":-22.92901,
+    "geom:longitude":30.93323,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":602819,
+    "gn:population":602819,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.92901,
+    "lbl:longitude":30.93323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347583,
+    "qs_pg:gn_pop":602819,
+    "qs_pg:name":"Thulamela",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":764994,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347583,
+        "qs_pg:id":764994
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042152,
+    "wof:geomhash":"8109638aa6066578d4f66d28c43381d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "localadmin_id":1125271677,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125271677,
+    "wof:lastmodified":1509387043,
+    "wof:name":"Thulamela",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"localadmin",
+    "wof:population":602819,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93323,
+    -22.92901,
+    30.93323,
+    -22.92901
+],
+  "geometry": {"coordinates":[30.93323,-22.92901],"type":"Point"}
+}

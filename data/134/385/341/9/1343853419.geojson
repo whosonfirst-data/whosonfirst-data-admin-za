@@ -1,0 +1,67 @@
+{
+  "id": 1343853419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05962,-26.65336,23.05962,-26.65336",
+    "geom:latitude":-26.65336,
+    "geom:longitude":23.05962,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Derwent",
+    "gn:country_code":"ZA",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010724,
+    "gn:latitude":-26.65336,
+    "gn:longitude":23.05962,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Derwent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010724
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4bc7b87243f0d5d131adb6fc7cdd276e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1343853419,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1343853419,
+    "wof:lastmodified":1536676795,
+    "wof:name":"Derwent",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05962,
+    -26.65336,
+    23.05962,
+    -26.65336
+],
+  "geometry": {"coordinates":[23.05962,-26.65336],"type":"Point"}
+}

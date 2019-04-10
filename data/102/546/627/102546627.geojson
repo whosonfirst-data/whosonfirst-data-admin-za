@@ -1,0 +1,65 @@
+{
+  "id": 102546627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6306,-27.8347,21.6306,-27.8347",
+    "geom:latitude":-27.8347,
+    "geom:longitude":21.6306,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3245",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189426,
+        "localadmin_id":56189580,
+        "planet_id":1,
+        "state_id":2346985
+    },
+    "wof:belongsto":[
+        85633813,
+        85688899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517491,
+        "icao:code":"FAVS",
+        "oa:id":"41231",
+        "wd:id":"Q7917003"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39524d3dfb06502774dd6ad3749df170",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546627,
+            "country_id":85633813,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":102546627,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Vastrap Airport",
+    "wof:parent_id":85688899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.6306,
+    -27.8347,
+    21.6306,
+    -27.8347
+],
+  "geometry": {"coordinates":[21.6306,-27.8347],"type":"Point"}
+}

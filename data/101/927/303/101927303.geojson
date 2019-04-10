@@ -1,0 +1,73 @@
+{
+  "id": 101927303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1627345.575839,
+    "geom:bbox":"31.6014728546,-25.8176708221,31.6098766327,-25.7961769104",
+    "geom:latitude":-25.806145,
+    "geom:longitude":31.60554,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.806186,
+    "lbl:longitude":31.60588,
+    "mps:latitude":-25.806186,
+    "mps:longitude":31.60588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mhloshana",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976470,
+        "gp:id":1585727
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6c6605372131d025055506a8b2a9db9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927303,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927303,
+    "wof:lastmodified":1500026347,
+    "wof:name":"Mhloshana",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60147285461426,
+    -25.81767082214355,
+    31.60987663269043,
+    -25.79617691040039
+],
+  "geometry": {"coordinates":[[[31.60174751281738,-25.80343246459961],[31.60147285461426,-25.79783821105957],[31.60205841064453,-25.79693031311035],[31.60284614562988,-25.79619789123535],[31.6048412322998,-25.79617691040039],[31.6070384979248,-25.79651260375977],[31.60824584960938,-25.79722213745117],[31.60919189453125,-25.79849815368652],[31.60987663269043,-25.79991340637207],[31.60959815979004,-25.80876350402832],[31.60711097717285,-25.81673431396484],[31.60592460632324,-25.81747055053711],[31.6041316986084,-25.81767082214355],[31.60312843322754,-25.81714057922363],[31.60232162475586,-25.81660652160645],[31.60249328613281,-25.81443786621094],[31.60174751281738,-25.80343246459961]]],"type":"Polygon"}
+}

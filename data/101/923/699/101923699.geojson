@@ -1,0 +1,97 @@
+{
+  "id": 101923699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":1311671.81147,
+    "geom:bbox":"29.0754070282,-24.6042289734,29.0900726318,-24.5940761566",
+    "geom:latitude":-24.599076,
+    "geom:longitude":29.082828,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.59911,
+    "lbl:longitude":29.082828,
+    "mps:latitude":-24.59911,
+    "mps:longitude":29.082828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Roedtan"
+    ],
+    "name:dut_x_preferred":[
+        "Roedtan"
+    ],
+    "name:eng_x_preferred":[
+        "Roedtan"
+    ],
+    "name:nso_x_preferred":[
+        "Roedtan"
+    ],
+    "name:ron_x_preferred":[
+        "Roedtan"
+    ],
+    "name:rum_x_preferred":[
+        "Roedtan"
+    ],
+    "name:ven_x_preferred":[
+        "Roedtan"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Roedtan",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-24.598333,
+    "wd:longitude":29.080556,
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586951,
+        "wd:id":"Q3642713"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5021cc46a6ce12fb52af267b6e38cb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923699,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923699,
+    "wof:lastmodified":1527688301,
+    "wof:name":"Roedtan",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07540702819824,
+    -24.60422897338867,
+    29.09007263183594,
+    -24.59407615661621
+],
+  "geometry": {"coordinates":[[[29.09007263183594,-24.60260200500488],[29.08829689025879,-24.60382080078125],[29.08651924133301,-24.60422897338867],[29.0858211517334,-24.60416412353516],[29.08207702636719,-24.60382461547852],[29.07941055297852,-24.60342025756836],[29.07763290405273,-24.6017951965332],[29.07585334777832,-24.59814071655273],[29.07540702819824,-24.59570503234863],[29.07565689086914,-24.59524726867676],[29.07629585266113,-24.59407806396484],[29.07744216918945,-24.59407806396484],[29.07896041870117,-24.59407806396484],[29.08207130432129,-24.59407615661621],[29.08479118347168,-24.59497833251953],[29.08695793151855,-24.5956974029541],[29.08846282958984,-24.59661293029785],[29.08962440490723,-24.59732055664062],[29.09007263183594,-24.60260200500488]]],"type":"Polygon"}
+}

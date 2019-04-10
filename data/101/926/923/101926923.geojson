@@ -1,0 +1,72 @@
+{
+  "id": 101926923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":550138.6223,
+    "geom:bbox":"29.0865306854,-28.6764774323,29.0966777802,-28.6642551422",
+    "geom:latitude":-28.669983,
+    "geom:longitude":29.092532,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.671211,
+    "lbl:longitude":29.093455,
+    "mps:latitude":-28.671211,
+    "mps:longitude":29.093455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khombe Weir",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1579755
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e350427357d31f7893a8791cc81fa919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":101926923,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101926923,
+    "wof:lastmodified":1500027492,
+    "wof:name":"Khombe Weir",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0865306854248,
+    -28.67647743225098,
+    29.09667778015137,
+    -28.66425514221191
+],
+  "geometry": {"coordinates":[[[29.09616661071777,-28.67647743225098],[29.0946216583252,-28.67536163330078],[29.09097671508789,-28.67272567749023],[29.09081649780273,-28.66968727111816],[29.08955764770508,-28.66854095458984],[29.0865306854248,-28.66624069213867],[29.08963584899902,-28.66425514221191],[29.0924129486084,-28.66632461547852],[29.09667778015137,-28.6708984375],[29.09616661071777,-28.67647743225098]]],"type":"Polygon"}
+}

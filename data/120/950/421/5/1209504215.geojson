@@ -1,0 +1,63 @@
+{
+  "id": 1209504215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29221,-26.32874,23.29221,-26.32874",
+    "geom:latitude":-26.32874,
+    "geom:longitude":23.29221,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Selobane",
+    "gn:country_code":"ZA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956540,
+    "gn:latitude":-26.32874,
+    "gn:longitude":23.29221,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Selobane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956540
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b486cd5272f5b2f41e7bd08441ab2e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209504215
+        }
+    ],
+    "wof:id":1209504215,
+    "wof:lastmodified":1536285085,
+    "wof:name":"Selobane",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29221,
+    -26.328740000000003,
+    23.29221,
+    -26.328740000000003
+],
+  "geometry": {"coordinates":[23.29221,-26.32874],"type":"Point"}
+}

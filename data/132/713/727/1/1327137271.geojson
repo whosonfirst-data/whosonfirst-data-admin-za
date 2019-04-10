@@ -1,0 +1,69 @@
+{
+  "id": 1327137271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3,-28.21667,32.3,-28.21667",
+    "geom:latitude":-28.21667,
+    "geom:longitude":32.3,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN275",
+    "gn:asciiname":"Nyalazi River",
+    "gn:country_code":"ZA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968766,
+    "gn:latitude":-28.21667,
+    "gn:longitude":32.3,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nyalazi River",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968766
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a13e98f604046cba82f2af7c1db001bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1327137271,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1327137271,
+    "wof:lastmodified":1536606122,
+    "wof:name":"Nyalazi River",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3,
+    -28.21667,
+    32.3,
+    -28.21667
+],
+  "geometry": {"coordinates":[32.3,-28.21667],"type":"Point"}
+}

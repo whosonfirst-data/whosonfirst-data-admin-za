@@ -1,0 +1,69 @@
+{
+  "id": 1309928735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6004,-31.7315,27.6004,-31.7315",
+    "geom:latitude":-31.7315,
+    "geom:longitude":27.6004,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC135",
+    "gn:asciiname":"KwaHala",
+    "gn:country_code":"ZA",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985799,
+    "gn:latitude":-31.7315,
+    "gn:longitude":27.6004,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaHala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985799
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f88e9adeed88aa7caefd1ae63ea1fd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1309928735,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1309928735,
+    "wof:lastmodified":1536753939,
+    "wof:name":"KwaHala",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6004,
+    -31.7315,
+    27.6004,
+    -31.7315
+],
+  "geometry": {"coordinates":[27.6004,-31.7315],"type":"Point"}
+}

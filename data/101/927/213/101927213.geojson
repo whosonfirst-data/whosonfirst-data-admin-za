@@ -1,0 +1,111 @@
+{
+  "id": 101927213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000314,
+    "geom:area_square_m":3507071.4757,
+    "geom:bbox":"31.0013580322,-25.3387355804,31.0282802582,-25.316947937",
+    "geom:latitude":-25.327056,
+    "geom:longitude":31.013651,
+    "gn:population":15954,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.32822,
+    "lbl:longitude":31.011204,
+    "mps:latitude":-25.32822,
+    "mps:longitude":31.011204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Witrivier"
+    ],
+    "name:dut_x_preferred":[
+        "Witrivier"
+    ],
+    "name:eng_x_preferred":[
+        "Witrivier"
+    ],
+    "name:epo_x_preferred":[
+        "Witrivier"
+    ],
+    "name:fre_x_preferred":[
+        "White River"
+    ],
+    "name:nso_x_preferred":[
+        "White River"
+    ],
+    "name:rum_x_preferred":[
+        "Witrivier"
+    ],
+    "name:unk_x_variant":[
+        "White River"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Witrivier",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-25.316667,
+    "wd:longitude":31.016667,
+    "wd:wordcount":434,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"14621e1e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":938694,
+        "gp:id":1588874,
+        "qs:id":263966,
+        "wd:id":"Q2046203",
+        "wk:page":"White River, Mpumalanga"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8bd1dbfb79caf9d298985832becb5af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101927213,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101927213,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715639,
+    "wof:name":"Witrivier",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:population":15954,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00135803222656,
+    -25.33873558044434,
+    31.02828025817871,
+    -25.31694793701172
+],
+  "geometry": {"coordinates":[[[31.00841903686523,-25.31694793701172],[31.01264190673828,-25.32305717468262],[31.02352905273438,-25.31846618652344],[31.02448463439941,-25.32012748718262],[31.02828025817871,-25.32672691345215],[31.02827835083008,-25.32674217224121],[31.02816009521484,-25.32742500305176],[31.02798271179199,-25.32809448242188],[31.02759170532227,-25.32891082763672],[31.02700042724609,-25.32954597473145],[31.02642631530762,-25.32985496520996],[31.02578353881836,-25.33005332946777],[31.02511978149414,-25.33019256591797],[31.0165901184082,-25.33187675476074],[31.0157299041748,-25.33205032348633],[31.01490592956543,-25.33234024047852],[31.01422500610352,-25.33270072937012],[31.01362228393555,-25.33316040039062],[31.01056671142578,-25.3360710144043],[31.00948143005371,-25.33689117431641],[31.00661087036133,-25.33817481994629],[31.00557136535645,-25.33873558044434],[31.00369644165039,-25.33388328552246],[31.00135803222656,-25.32782936096191],[31.00688552856445,-25.32345771789551],[31.00305557250977,-25.31698417663574],[31.00841903686523,-25.31694793701172]]],"type":"Polygon"}
+}

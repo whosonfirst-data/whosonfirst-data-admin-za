@@ -1,0 +1,69 @@
+{
+  "id": 1259983011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91443,-29.9236,30.91443,-29.9236",
+    "geom:latitude":-29.9236,
+    "geom:longitude":30.91443,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"ETH",
+    "gn:admin3_code":"ETH",
+    "gn:asciiname":"Bayview",
+    "gn:country_code":"ZA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204382,
+    "gn:latitude":-29.9236,
+    "gn:longitude":30.91443,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Bayview",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204382
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3da189f197303db55b9f97d3a3319b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "locality_id":1259983011,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1259983011,
+    "wof:lastmodified":1536634498,
+    "wof:name":"Bayview",
+    "wof:parent_id":1108730571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91443,
+    -29.9236,
+    30.91443,
+    -29.9236
+],
+  "geometry": {"coordinates":[30.91443,-29.9236],"type":"Point"}
+}

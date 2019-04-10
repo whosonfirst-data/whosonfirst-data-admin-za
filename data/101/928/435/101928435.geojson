@@ -1,0 +1,72 @@
+{
+  "id": 101928435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000248,
+    "geom:area_square_m":2636528.513235,
+    "geom:bbox":"29.0938930511,-30.8374118805,29.1225547791,-30.8227958679",
+    "geom:latitude":-30.830914,
+    "geom:longitude":29.108165,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.830923,
+    "lbl:longitude":29.111305,
+    "mps:latitude":-30.830923,
+    "mps:longitude":29.111305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eMzinto",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591151
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"483856b915c8e7583a09ff0f4186b8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928435,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928435,
+    "wof:lastmodified":1500027910,
+    "wof:name":"eMzinto",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09389305114746,
+    -30.83741188049316,
+    29.12255477905273,
+    -30.82279586791992
+],
+  "geometry": {"coordinates":[[[29.09929847717285,-30.82344818115234],[29.10199165344238,-30.82279586791992],[29.11121559143066,-30.82461547851562],[29.12216758728027,-30.82727241516113],[29.12255477905273,-30.82872581481934],[29.11790466308594,-30.83177185058594],[29.11469078063965,-30.83712577819824],[29.10315704345703,-30.83741188049316],[29.09837913513184,-30.8366527557373],[29.09389305114746,-30.83441925048828],[29.09613990783691,-30.83055686950684],[29.10427093505859,-30.8300609588623],[29.10622787475586,-30.82766914367676],[29.10004425048828,-30.82547950744629],[29.09929847717285,-30.82344818115234]]],"type":"Polygon"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1125902309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9946,-29.20824,29.9946,-29.20824",
+    "geom:latitude":-29.20824,
+    "geom:longitude":29.9946,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10132,
+    "gn:population":10132,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.20824,
+    "lbl:longitude":29.9946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:dut_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:eng_x_preferred":[
+        "Mooi River"
+    ],
+    "name:fre_x_preferred":[
+        "Mooi River"
+    ],
+    "name:ger_x_preferred":[
+        "Mooi River"
+    ],
+    "name:ita_x_preferred":[
+        "Mooi River"
+    ],
+    "name:nso_x_preferred":[
+        "Mooi River"
+    ],
+    "name:pol_x_preferred":[
+        "Mooi River"
+    ],
+    "name:rum_x_preferred":[
+        "Mooirivier"
+    ],
+    "name:sot_x_preferred":[
+        "Mooi River"
+    ],
+    "name:swe_x_preferred":[
+        "Mooi River"
+    ],
+    "name:tsn_x_preferred":[
+        "Mooi River"
+    ],
+    "name:unk_x_variant":[
+        "Mooi River"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":974222,
+    "qs_pg:gn_pop":10132,
+    "qs_pg:name":"Mooirivier",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1029485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1585313,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":974222,
+        "gp:id":1585313,
+        "qs_pg:id":1029485,
+        "wd:id":"Q1946653"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295858,
+    "wof:geomhash":"6829c42ba0a9c7d85cb1a6b124a2f8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1125902309,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125902309,
+    "wof:lastmodified":1553816613,
+    "wof:name":"Mooirivier",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:population":10132,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9946,
+    -29.20824,
+    29.9946,
+    -29.20824
+],
+  "geometry": {"coordinates":[29.9946,-29.20824],"type":"Point"}
+}

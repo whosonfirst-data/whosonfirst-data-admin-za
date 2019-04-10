@@ -1,0 +1,122 @@
+{
+  "id": 101926411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000633,
+    "geom:area_square_m":6991127.31863,
+    "geom:bbox":"28.5760364532,-26.6773376465,28.6007823944,-26.6392230988",
+    "geom:latitude":-26.65798,
+    "geom:longitude":28.587735,
+    "gn:population":46008,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.661873,
+    "lbl:longitude":28.585496,
+    "mps:latitude":-26.661873,
+    "mps:longitude":28.585496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Balfour"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u723e\u5f17"
+    ],
+    "name:dut_x_preferred":[
+        "Balfour"
+    ],
+    "name:eng_x_preferred":[
+        "Balfour"
+    ],
+    "name:ger_x_preferred":[
+        "Balfour"
+    ],
+    "name:ita_x_preferred":[
+        "Balfour"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30d5\u30a9\u30fc"
+    ],
+    "name:nso_x_preferred":[
+        "Balfour"
+    ],
+    "name:pol_x_preferred":[
+        "Balfour"
+    ],
+    "name:rum_x_preferred":[
+        "Balfour"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0444\u0443\u0440"
+    ],
+    "name:ven_x_preferred":[
+        "Balfour"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Balfour",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-26.660833,
+    "wd:longitude":28.588333,
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1021396,
+        "gp:id":1579597,
+        "qs:id":555028,
+        "qs_pg:id":555028,
+        "wd:id":"Q2188373",
+        "wk:page":"Balfour, Mpumalanga"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"188b29c340591bcc6595c20bf6d607dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926411,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926411,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Balfour",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:population":46008,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57603645324707,
+    -26.67733764648438,
+    28.60078239440918,
+    -26.63922309875488
+],
+  "geometry": {"coordinates":[[[28.58396148681641,-26.63922309875488],[28.5928840637207,-26.64048194885254],[28.59320640563965,-26.6406078338623],[28.60078239440918,-26.6435375213623],[28.59873580932617,-26.65525054931641],[28.59189224243164,-26.65644836425781],[28.59521675109863,-26.66397094726562],[28.5943546295166,-26.67733764648438],[28.59363746643066,-26.67726707458496],[28.59263229370117,-26.67714881896973],[28.59163284301758,-26.67701721191406],[28.59063339233398,-26.67686653137207],[28.58963966369629,-26.67670059204102],[28.58864784240723,-26.67651748657227],[28.58765983581543,-26.67631912231445],[28.58667755126953,-26.67610549926758],[28.58569717407227,-26.67587280273438],[28.58472442626953,-26.67562675476074],[28.58400344848633,-26.67543029785156],[28.58375549316406,-26.67536354064941],[28.58279228210449,-26.67508506774902],[28.58183479309082,-26.67478942871094],[28.58088302612305,-26.67447853088379],[28.5799388885498,-26.67415237426758],[28.57900238037109,-26.6738109588623],[28.57807159423828,-26.67345428466797],[28.5771484375,-26.67308235168457],[28.57603645324707,-26.672607421875],[28.57816505432129,-26.6568603515625],[28.57853126525879,-26.65249633789062],[28.58396148681641,-26.63922309875488]]],"type":"Polygon"}
+}

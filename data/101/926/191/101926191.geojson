@@ -1,0 +1,74 @@
+{
+  "id": 101926191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000035,
+    "geom:area_square_m":385945.103572,
+    "geom:bbox":"28.1935100555,-26.3922424316,28.2016811371,-26.3825798035",
+    "geom:latitude":-26.387756,
+    "geom:longitude":28.198119,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.387752,
+    "lbl:longitude":28.198119,
+    "mps:latitude":-26.387752,
+    "mps:longitude":28.198119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ZONKIZIZWE",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ZA",
+    "wof:geomhash":"266605afaff23759d6fe8748976cc31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730507,
+            "locality_id":101926191,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926191,
+    "wof:lastmodified":1534986010,
+    "wof:name":"Zonkizizwe",
+    "wof:parent_id":1108730507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615737
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.19351005554199,
+    -26.39224243164062,
+    28.20168113708496,
+    -26.3825798034668
+],
+  "geometry": {"coordinates":[[[28.19351005554199,-26.3880672454834],[28.20168113708496,-26.3825798034668],[28.19970512390137,-26.39104461669922],[28.1983814239502,-26.39224243164062],[28.19351005554199,-26.3880672454834]]],"type":"Polygon"}
+}

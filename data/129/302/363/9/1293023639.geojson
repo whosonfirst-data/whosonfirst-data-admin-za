@@ -1,0 +1,69 @@
+{
+  "id": 1293023639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19577,-31.21375,26.19577,-31.21375",
+    "geom:latitude":-31.21375,
+    "geom:longitude":26.19577,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC144",
+    "gn:asciiname":"Goedverwacht",
+    "gn:country_code":"ZA",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1001105,
+    "gn:latitude":-31.21375,
+    "gn:longitude":26.19577,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Goedverwacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001105
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"20ffb7152b8cdc4a53c36d34de17c14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293023639,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293023639,
+    "wof:lastmodified":1536958766,
+    "wof:name":"Goedverwacht",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19577,
+    -31.21375,
+    26.19577,
+    -31.21375
+],
+  "geometry": {"coordinates":[26.19577,-31.21375],"type":"Point"}
+}

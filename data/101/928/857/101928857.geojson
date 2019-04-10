@@ -1,0 +1,89 @@
+{
+  "id": 101928857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000621,
+    "geom:area_square_m":6514634.796722,
+    "geom:bbox":"26.9461517334,-31.9173603058,26.9801750183,-31.8930797577",
+    "geom:latitude":-31.905068,
+    "geom:longitude":26.962239,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.905834,
+    "lbl:longitude":26.962563,
+    "mps:latitude":-31.905834,
+    "mps:longitude":26.962563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ezibeleni"
+    ],
+    "name:eng_x_preferred":[
+        "Ezibeleni"
+    ],
+    "name:fre_x_preferred":[
+        "Ezibeleni"
+    ],
+    "name:nso_x_preferred":[
+        "Ezibeleni"
+    ],
+    "name:ven_x_preferred":[
+        "Ezibeleni"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eZibeleni",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880612,
+        "wd:id":"Q2192984"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6ec6f31f25f27b6720d927bc5c3c7967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928857,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928857,
+    "wof:lastmodified":1527715921,
+    "wof:name":"eZibeleni",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94615173339844,
+    -31.91736030578613,
+    26.98017501831055,
+    -31.89307975769043
+],
+  "geometry": {"coordinates":[[[26.95031356811523,-31.89550399780273],[26.95257759094238,-31.89493370056152],[26.95972633361816,-31.89626312255859],[26.96652603149414,-31.89538192749023],[26.97266387939453,-31.89311981201172],[26.97785186767578,-31.89307975769043],[26.97949028015137,-31.89472770690918],[26.98017501831055,-31.89804267883301],[26.97890090942383,-31.90026473999023],[26.97567367553711,-31.90167427062988],[26.97569847106934,-31.9041633605957],[26.97574615478516,-31.90859031677246],[26.97352600097656,-31.91330909729004],[26.97064781188965,-31.91720581054688],[26.96707725524902,-31.91695594787598],[26.96414756774902,-31.91587257385254],[26.96025276184082,-31.91562461853027],[26.9570198059082,-31.91675567626953],[26.95248603820801,-31.91734313964844],[26.95021438598633,-31.91736030578613],[26.94855117797852,-31.91322326660156],[26.94686126708984,-31.90659713745117],[26.94615173339844,-31.90079116821289],[26.94773101806641,-31.89662933349609],[26.95031356811523,-31.89550399780273]]],"type":"Polygon"}
+}

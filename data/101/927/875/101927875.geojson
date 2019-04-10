@@ -1,0 +1,72 @@
+{
+  "id": 101927875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":778289.837156,
+    "geom:bbox":"30.3166446686,-29.6708450317,30.331615448,-29.6638145447",
+    "geom:latitude":-29.667106,
+    "geom:longitude":30.32476,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.667335,
+    "lbl:longitude":30.324903,
+    "mps:latitude":-29.667335,
+    "mps:longitude":30.324903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mount Partridge",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580967
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"10363d6b1974f5e03066874b50aff4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":101927875,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927875,
+    "wof:lastmodified":1500027546,
+    "wof:name":"Mount Partridge",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3166446685791,
+    -29.67084503173828,
+    30.33161544799805,
+    -29.66381454467773
+],
+  "geometry": {"coordinates":[[[30.3166446685791,-29.66650772094727],[30.3169116973877,-29.66515731811523],[30.3189868927002,-29.66381454467773],[30.32053565979004,-29.66382217407227],[30.32698631286621,-29.66452980041504],[30.33111190795898,-29.66567802429199],[30.33161544799805,-29.6674861907959],[30.33134651184082,-29.66928863525391],[30.33004570007324,-29.67063522338867],[30.32694625854492,-29.67084503173828],[30.32496643066406,-29.6703929901123],[30.32307243347168,-29.66967391967773],[30.3212776184082,-29.66878700256348],[30.3166446685791,-29.66650772094727]]],"type":"Polygon"}
+}

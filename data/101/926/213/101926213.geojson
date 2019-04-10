@@ -1,0 +1,77 @@
+{
+  "id": 101926213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000079,
+    "geom:area_square_m":879606.809634,
+    "geom:bbox":"27.5897979736,-26.4107990265,27.6010665894,-26.396686554",
+    "geom:latitude":-26.403668,
+    "geom:longitude":27.595178,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.401363,
+    "lbl:longitude":27.596202,
+    "mps:latitude":-26.401363,
+    "mps:longitude":27.596202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Glenharvie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1001642,
+        "gp:id":1582504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e44132b52aa1455144c3f72241d09f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "locality_id":101926213,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926213,
+    "wof:lastmodified":1534986000,
+    "wof:name":"Glenharvie",
+    "wof:parent_id":1108730543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615513
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58979797363281,
+    -26.41079902648926,
+    27.60106658935547,
+    -26.39668655395508
+],
+  "geometry": {"coordinates":[[[27.59153175354004,-26.40152740478516],[27.59585571289062,-26.39668655395508],[27.60106658935547,-26.40069389343262],[27.59819221496582,-26.40463638305664],[27.59722900390625,-26.40772247314453],[27.59207153320312,-26.41079902648926],[27.58979797363281,-26.40632820129395],[27.59324264526367,-26.40290451049805],[27.59153175354004,-26.40152740478516]]],"type":"Polygon"}
+}

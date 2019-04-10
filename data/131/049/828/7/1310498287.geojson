@@ -1,0 +1,69 @@
+{
+  "id": 1310498287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1046,-24.89352,31.1046,-24.89352",
+    "geom:latitude":-24.89352,
+    "geom:longitude":31.1046,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP325",
+    "gn:asciiname":"Mhlaba",
+    "gn:country_code":"ZA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976550,
+    "gn:latitude":-24.89352,
+    "gn:longitude":31.1046,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mhlaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976550
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0682babfb09da2a7ebfcb6e3bd3c4750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1310498287,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1310498287,
+    "wof:lastmodified":1536928076,
+    "wof:name":"Mhlaba",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1046,
+    -24.89352,
+    31.1046,
+    -24.89352
+],
+  "geometry": {"coordinates":[31.1046,-24.89352],"type":"Point"}
+}

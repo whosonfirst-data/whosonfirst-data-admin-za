@@ -1,0 +1,73 @@
+{
+  "id": 101927431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":757758.963621,
+    "geom:bbox":"31.2104110718,-27.3477516174,31.2207813263,-27.3378353119",
+    "geom:latitude":-27.342327,
+    "geom:longitude":31.216077,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.342094,
+    "lbl:longitude":31.216176,
+    "mps:latitude":-27.342094,
+    "mps:longitude":31.216176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kliphunyawo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":991109,
+        "gp:id":1586547
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"23f47bf1118d9aaeb33ebe4dea2f84c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927431,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927431,
+    "wof:lastmodified":1500027504,
+    "wof:name":"Kliphunyawo",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21041107177734,
+    -27.34775161743164,
+    31.22078132629395,
+    -27.33783531188965
+],
+  "geometry": {"coordinates":[[[31.21041679382324,-27.34212875366211],[31.21041297912598,-27.34032440185547],[31.21041107177734,-27.33942222595215],[31.21268081665039,-27.33806610107422],[31.21545791625977,-27.33783531188965],[31.21697425842285,-27.33828353881836],[31.21849250793457,-27.33918380737305],[31.22077178955078,-27.34211158752441],[31.22078132629395,-27.34662246704102],[31.22027778625488,-27.34775161743164],[31.2182559967041,-27.3475284576416],[31.21623229980469,-27.3461799621582],[31.21041679382324,-27.34212875366211]]],"type":"Polygon"}
+}

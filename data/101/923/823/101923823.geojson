@@ -1,0 +1,126 @@
+{
+  "id": 101923823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":1175987.29898,
+    "geom:bbox":"28.5272197723,-24.9603633881,28.543718338,-24.9497394562",
+    "geom:latitude":-24.955035,
+    "geom:longitude":28.535598,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.954747,
+    "lbl:longitude":28.535598,
+    "mps:latitude":-24.954747,
+    "mps:longitude":28.535598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Setlaar"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u062a\u0648\u0637\u0646"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0441\u0430\u0434\u043d\u0456\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Nybygger"
+    ],
+    "name:deu_x_preferred":[
+        "Siedler"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03c0\u03bf\u03b9\u03ba\u03bf\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Asuttaminen"
+    ],
+    "name:fra_x_preferred":[
+        "Colon"
+    ],
+    "name:hbs_x_preferred":[
+        "Doseljenik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05ea\u05d9\u05d9\u05e9\u05d1\u05d5\u05ea"
+    ],
+    "name:isl_x_preferred":[
+        "Landnemi"
+    ],
+    "name:nor_x_preferred":[
+        "Nybygger"
+    ],
+    "name:pol_x_preferred":[
+        "Osadnik"
+    ],
+    "name:por_x_preferred":[
+        "Colonato"
+    ],
+    "name:swe_x_preferred":[
+        "Nybyggare"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3f\u0c15\u0c41\u0c32\u0c41"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f00\u62d3\u8005"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Settlers",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":921,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956323,
+        "gp:id":1587373,
+        "wd:id":"Q1818899"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d1e1d4afe80954e0c629b9749f0f4a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":101923823,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923823,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Settlers",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52721977233887,
+    -24.96036338806152,
+    28.5437183380127,
+    -24.94973945617676
+],
+  "geometry": {"coordinates":[[[28.54216194152832,-24.94973945617676],[28.5437183380127,-24.95431327819824],[28.54170417785645,-24.95694732666016],[28.54080963134766,-24.95775604248047],[28.54058456420898,-24.95836448669434],[28.5399169921875,-24.9583625793457],[28.53924942016602,-24.95836067199707],[28.53836059570312,-24.95775032043457],[28.53256607055664,-24.95854377746582],[28.53189468383789,-24.95935440063477],[28.53100204467773,-24.9599609375],[28.5296630859375,-24.96036338806152],[28.52832794189453,-24.96015739440918],[28.52743721008301,-24.95974731445312],[28.52721977233887,-24.95852851867676],[28.52878761291504,-24.95589447021484],[28.52879905700684,-24.95305061340332],[28.54216194152832,-24.94973945617676]]],"type":"Polygon"}
+}

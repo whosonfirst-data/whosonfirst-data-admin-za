@@ -1,0 +1,69 @@
+{
+  "id": 1243067159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80608,-31.28766,26.80608,-31.28766",
+    "geom:latitude":-31.28766,
+    "geom:longitude":26.80608,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Van Zyls Kraal",
+    "gn:country_code":"ZA",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":944761,
+    "gn:latitude":-31.28766,
+    "gn:longitude":26.80608,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Van Zyls Kraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":944761
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6e7327da90cf37640706daadf014aceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1243067159,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243067159,
+    "wof:lastmodified":1536854167,
+    "wof:name":"Van Zyls Kraal",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80608,
+    -31.28766,
+    26.80608,
+    -31.28766
+],
+  "geometry": {"coordinates":[26.80608,-31.28766],"type":"Point"}
+}

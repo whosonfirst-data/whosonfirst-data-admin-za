@@ -1,0 +1,128 @@
+{
+  "id": 1125802563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73968,-31.60888,18.73968,-31.60888",
+    "geom:latitude":-31.60888,
+    "geom:longitude":18.73968,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.60888,
+    "lbl:longitude":18.73968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0631\u0647\u064a\u0646\u0633\u062f\u0631\u0648\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:dut_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:eng_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:fre_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:ger_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:nso_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0646\u0631\u0647\u06cc\u0646\u0633\u062f\u0631\u067e"
+    ],
+    "name:por_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:rum_x_preferred":[
+        "Vanrhynsdorp"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043d\u0440\u0435\u0439\u043d\u0441\u0434\u043e\u0440\u043f"
+    ],
+    "name:unk_x_variant":[
+        "Van Rhynsdorf"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3360078,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vanrhynsdorp",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":147503,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588544,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360078,
+        "gp:id":1588544,
+        "qs_pg:id":147503,
+        "wd:id":"Q943414"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291329,
+    "wof:geomhash":"7146922e9ed78557e756b371857d425c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125802563,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125802563,
+    "wof:lastmodified":1514504620,
+    "wof:name":"Vanrhynsdorp",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73968,
+    -31.60888,
+    18.73968,
+    -31.60888
+],
+  "geometry": {"coordinates":[18.73968,-31.60888],"type":"Point"}
+}

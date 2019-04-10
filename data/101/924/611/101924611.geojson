@@ -1,0 +1,89 @@
+{
+  "id": 101924611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1930984.202012,
+    "geom:bbox":"31.292634964,-24.9258708954,31.3101215363,-24.9127464294",
+    "geom:latitude":-24.919867,
+    "geom:longitude":31.30098,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.919498,
+    "lbl:longitude":31.30098,
+    "mps:latitude":-24.919498,
+    "mps:longitude":31.30098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ronaldsey"
+    ],
+    "name:dut_x_preferred":[
+        "Ronaldsey"
+    ],
+    "name:eng_x_preferred":[
+        "Ronaldsey"
+    ],
+    "name:nso_x_preferred":[
+        "Ronaldsey"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"RONALDSEY",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-24.92,
+    "wd:longitude":31.296,
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":960813,
+        "gp:id":1585727,
+        "wd:id":"Q7365443"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"68c01eb137caff451697d1e1767669be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924611,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924611,
+    "wof:lastmodified":1527670489,
+    "wof:name":"Ronaldsey",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29263496398926,
+    -24.92587089538574,
+    31.31012153625488,
+    -24.91274642944336
+],
+  "geometry": {"coordinates":[[[31.30735778808594,-24.91879081726074],[31.30781745910645,-24.91959762573242],[31.31008720397949,-24.92200088500977],[31.31012153625488,-24.92403221130371],[31.30925369262695,-24.92526245117188],[31.30747222900391,-24.92528915405273],[31.3007926940918,-24.92538642883301],[31.29634666442871,-24.92585754394531],[31.29545593261719,-24.92587089538574],[31.29316520690918,-24.92224884033203],[31.29263496398926,-24.91738128662109],[31.29305839538574,-24.91615676879883],[31.29437255859375,-24.91491889953613],[31.3010311126709,-24.91360282897949],[31.30413246154785,-24.91274642944336],[31.30592155456543,-24.91312599182129],[31.30639457702637,-24.91474342346191],[31.30735778808594,-24.91879081726074]]],"type":"Polygon"}
+}

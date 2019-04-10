@@ -1,0 +1,69 @@
+{
+  "id": 1292999703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18247,-31.63361,26.18247,-31.63361",
+    "geom:latitude":-31.63361,
+    "geom:longitude":26.18247,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC132",
+    "gn:asciiname":"Magdala",
+    "gn:country_code":"ZA",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":980519,
+    "gn:latitude":-31.63361,
+    "gn:longitude":26.18247,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Magdala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":980519
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e509185ba5f3bccf49357c177bfb45ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1292999703,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1292999703,
+    "wof:lastmodified":1536992428,
+    "wof:name":"Magdala",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18247,
+    -31.63361,
+    26.18247,
+    -31.63361
+],
+  "geometry": {"coordinates":[26.18247,-31.63361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276140175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25424,-26.66497,23.25424,-26.66497",
+    "geom:latitude":-26.66497,
+    "geom:longitude":23.25424,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ganap",
+    "gn:country_code":"ZA",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003102,
+    "gn:latitude":-26.66497,
+    "gn:longitude":23.25424,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ganap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003102
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"79cf8c450af25ca90f234ec5dd5d12e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1276140175,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276140175,
+    "wof:lastmodified":1537035986,
+    "wof:name":"Ganap",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25424,
+    -26.66497,
+    23.25424,
+    -26.66497
+],
+  "geometry": {"coordinates":[23.25424,-26.66497],"type":"Point"}
+}

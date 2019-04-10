@@ -1,0 +1,98 @@
+{
+  "id": 1126007519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.872323,-33.800261,18.872323,-33.800261",
+    "geom:latitude":-33.800261,
+    "geom:longitude":18.872323,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.800261,
+    "lbl:longitude":18.872323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Klapmuts"
+    ],
+    "name:dut_x_preferred":[
+        "Klapmuts"
+    ],
+    "name:eng_x_preferred":[
+        "Klapmuts"
+    ],
+    "name:nso_x_preferred":[
+        "Klapmuts"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u043f\u043c\u044e\u0442\u0441"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Klapmuts",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":303,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":303,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474319,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880794,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55880794,
+        "qs_pg:id":474319,
+        "wd:id":"Q2788523"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300063,
+    "wof:geomhash":"4b53a9fe3afc2f620af30b88abc3fa52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":1126007519,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126007519,
+    "wof:lastmodified":1514503938,
+    "wof:name":"Klapmuts",
+    "wof:parent_id":1108730615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.872323,
+    -33.800261,
+    18.872323,
+    -33.800261
+],
+  "geometry": {"coordinates":[18.872323,-33.800261],"type":"Point"}
+}

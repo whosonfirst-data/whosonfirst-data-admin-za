@@ -1,0 +1,71 @@
+{
+  "id": 1310504593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98114,-30.31389,28.98114,-30.31389",
+    "geom:latitude":-30.31389,
+    "geom:longitude":28.98114,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Meadownbrook",
+    "gn:country_code":"ZA",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977362,
+    "gn:latitude":-30.31389,
+    "gn:longitude":28.98114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meadownbrook",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meadow Brook",
+        "Meadownbrook"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":977362
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"54c437b4f55bb13a252ba4d318fc0998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1310504593,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1310504593,
+    "wof:lastmodified":1537716403,
+    "wof:name":"Meadownbrook",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98114,
+    -30.31389,
+    28.98114,
+    -30.31389
+],
+  "geometry": {"coordinates":[28.98114,-30.31389],"type":"Point"}
+}

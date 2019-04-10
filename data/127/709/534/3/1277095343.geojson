@@ -1,0 +1,74 @@
+{
+  "id": 1277095343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-23.5,29.81667,-23.5",
+    "geom:latitude":-23.5,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM353",
+    "gn:asciiname":"Locatie van Ramagoep",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":982510,
+    "gn:latitude":-23.5,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Locatie van Ramagoep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramokgopaslokasie",
+        "Locatie van Ramagoep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982510
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a77443b4ead57f96269426047d48d247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "locality_id":1277095343,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1277095343,
+    "wof:lastmodified":1537716411,
+    "wof:name":"Locatie van Ramagoep",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -23.5,
+    29.81667,
+    -23.5
+],
+  "geometry": {"coordinates":[29.81667,-23.5],"type":"Point"}
+}

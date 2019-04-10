@@ -1,0 +1,72 @@
+{
+  "id": 101923845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1406866.117275,
+    "geom:bbox":"26.9730205536,-24.9997062683,26.9853420258,-24.9863548279",
+    "geom:latitude":-24.993214,
+    "geom:longitude":26.979678,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.993116,
+    "lbl:longitude":26.97956,
+    "mps:latitude":-24.993116,
+    "mps:longitude":26.97956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rhenoserkraal",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1591195
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6d8f5ea319bb8ccdf3d33b7dd43e3783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101923845,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101923845,
+    "wof:lastmodified":1500028268,
+    "wof:name":"Rhenoserkraal",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97302055358887,
+    -24.99970626831055,
+    26.98534202575684,
+    -24.98635482788086
+],
+  "geometry": {"coordinates":[[[26.97302055358887,-24.99406623840332],[26.97440338134766,-24.99008178710938],[26.97565269470215,-24.9889087677002],[26.97797966003418,-24.98722457885742],[26.98104667663574,-24.98635482788086],[26.9823169708252,-24.98650360107422],[26.98470115661621,-24.98812103271484],[26.98527526855469,-24.98993110656738],[26.98495101928711,-24.99224662780762],[26.98534202575684,-24.99389457702637],[26.98463439941406,-24.99489402770996],[26.98411560058594,-24.99638938903809],[26.98413276672363,-24.99737930297852],[26.98488235473633,-24.99885559082031],[26.98308372497559,-24.99970626831055],[26.9772777557373,-24.99929237365723],[26.97543907165527,-24.99783134460449],[26.97377777099609,-24.99603843688965],[26.97302055358887,-24.99406623840332]]],"type":"Polygon"}
+}

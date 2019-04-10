@@ -1,0 +1,73 @@
+{
+  "id": 1209818625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50505,-30.08021,30.50505,-30.08021",
+    "geom:latitude":-30.08021,
+    "geom:longitude":30.50505,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN227",
+    "gn:asciiname":"Mgwenya",
+    "gn:country_code":"ZA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976575,
+    "gn:latitude":-30.08021,
+    "gn:longitude":30.50505,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mgwenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "eMngwenya",
+        "Mgwenya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976575
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5c45e1bfd7df608b0da95952e7fa1da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1209818625,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1209818625,
+    "wof:lastmodified":1537716402,
+    "wof:name":"Mgwenya",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50505,
+    -30.08021,
+    30.50505,
+    -30.08021
+],
+  "geometry": {"coordinates":[30.50505,-30.08021],"type":"Point"}
+}

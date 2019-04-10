@@ -1,0 +1,69 @@
+{
+  "id": 1327027659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.30861,-25.32556,28.30861,-25.32556",
+    "geom:latitude":-25.32556,
+    "geom:longitude":28.30861,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"TSH",
+    "gn:admin3_code":"TSH",
+    "gn:asciiname":"Pienaarsrivier Nedersetting",
+    "gn:country_code":"ZA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":965324,
+    "gn:latitude":-25.32556,
+    "gn:longitude":28.30861,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pienaarsrivier Nedersetting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965324
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6a5808b2ff6252cab3051b91bc81bb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1327027659,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1327027659,
+    "wof:lastmodified":1536767771,
+    "wof:name":"Pienaarsrivier Nedersetting",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.30861,
+    -25.32556,
+    28.30861,
+    -25.32556
+],
+  "geometry": {"coordinates":[28.30861,-25.32556],"type":"Point"}
+}

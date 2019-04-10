@@ -1,0 +1,78 @@
+{
+  "id": 1125278491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.69277,-23.84633,28.69277,-23.84633",
+    "geom:latitude":-23.84633,
+    "geom:longitude":28.69277,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":330649,
+    "gn:population":330649,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.84633,
+    "lbl:longitude":28.69277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347612,
+    "qs_pg:gn_pop":330649,
+    "qs_pg:name":"Mogalakwena",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":109970,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347612,
+        "qs_pg:id":109970
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042413,
+    "wof:geomhash":"a3b75c184472b54493386cf29e451912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "localadmin_id":1125278491,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125278491,
+    "wof:lastmodified":1509387226,
+    "wof:name":"Mogalakwena",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"localadmin",
+    "wof:population":330649,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69277,
+    -23.84633,
+    28.69277,
+    -23.84633
+],
+  "geometry": {"coordinates":[28.69277,-23.84633],"type":"Point"}
+}

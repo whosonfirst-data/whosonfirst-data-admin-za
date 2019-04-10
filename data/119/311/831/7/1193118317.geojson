@@ -1,0 +1,70 @@
+{
+  "id": 1193118317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29219,-33.99121,19.29219,-33.99121",
+    "geom:latitude":-33.99121,
+    "geom:longitude":19.29219,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC3",
+    "gn:admin3_code":"WC031",
+    "gn:asciiname":"Villiersdorp",
+    "gn:country_code":"ZA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3359957,
+    "gn:latitude":-33.99121,
+    "gn:longitude":19.29219,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Villiersdorp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359957,
+        "wk:page":"Villiersdorp"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e7b003bd25c3fbc6b2bd64c7df220f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1193118317,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1193118317,
+    "wof:lastmodified":1537576370,
+    "wof:name":"Villiersdorp",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29219,
+    -33.99121,
+    19.29219,
+    -33.99121
+],
+  "geometry": {"coordinates":[19.29219,-33.99121],"type":"Point"}
+}

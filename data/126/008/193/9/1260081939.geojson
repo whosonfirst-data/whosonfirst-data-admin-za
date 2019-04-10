@@ -1,0 +1,69 @@
+{
+  "id": 1260081939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56877,-30.00653,26.56877,-30.00653",
+    "geom:latitude":-30.00653,
+    "geom:longitude":26.56877,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC16",
+    "gn:admin3_code":"FS163",
+    "gn:asciiname":"Langverwag",
+    "gn:country_code":"ZA",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984299,
+    "gn:latitude":-30.00653,
+    "gn:longitude":26.56877,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Langverwag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984299
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a30262acb824b68ffd76521725bcdeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1260081939,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1260081939,
+    "wof:lastmodified":1536989400,
+    "wof:name":"Langverwag",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56877,
+    -30.00653,
+    26.56877,
+    -30.00653
+],
+  "geometry": {"coordinates":[26.56877,-30.00653],"type":"Point"}
+}

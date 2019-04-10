@@ -1,0 +1,67 @@
+{
+  "id": 1209303573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09688,-26.42457,26.09688,-26.42457",
+    "geom:latitude":-26.42457,
+    "geom:longitude":26.09688,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW384",
+    "gn:asciiname":"Ga-Maloka",
+    "gn:country_code":"ZA",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003327,
+    "gn:latitude":-26.42457,
+    "gn:longitude":26.09688,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Ga-Maloka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maloka",
+        "Ga-Maloka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003327
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8947bf71078886c578b54a505aedc340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209303573
+        }
+    ],
+    "wof:id":1209303573,
+    "wof:lastmodified":1537716426,
+    "wof:name":"Ga-Maloka",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09688,
+    -26.42457000000001,
+    26.09688,
+    -26.42457000000001
+],
+  "geometry": {"coordinates":[26.09688,-26.42457000000001],"type":"Point"}
+}

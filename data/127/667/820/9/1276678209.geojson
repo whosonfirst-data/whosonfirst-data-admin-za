@@ -1,0 +1,69 @@
+{
+  "id": 1276678209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63188,-28.74462,20.63188,-28.74462",
+    "geom:latitude":-28.74462,
+    "geom:longitude":20.63188,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Lutzburg",
+    "gn:country_code":"ZA",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":981214,
+    "gn:latitude":-28.74462,
+    "gn:longitude":20.63188,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lutzburg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":981214
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fcce5209cce896c4098c1a7486064bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1276678209,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1276678209,
+    "wof:lastmodified":1536813044,
+    "wof:name":"Lutzburg",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63188,
+    -28.74462,
+    20.63188,
+    -28.74462
+],
+  "geometry": {"coordinates":[20.63188,-28.74462],"type":"Point"}
+}

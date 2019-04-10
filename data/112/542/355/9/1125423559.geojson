@@ -1,0 +1,78 @@
+{
+  "id": 1125423559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98431,-33.94604,22.98431,-33.94604",
+    "geom:latitude":-33.94604,
+    "geom:longitude":22.98431,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":65045,
+    "gn:population":65045,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.94604,
+    "lbl:longitude":22.98431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347573,
+    "qs_pg:gn_pop":65045,
+    "qs_pg:name":"Knysna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":904482,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347573,
+        "qs_pg:id":904482
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052714,
+    "wof:geomhash":"090692dbd96311670d67e8d26d29f902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "localadmin_id":1125423559,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125423559,
+    "wof:lastmodified":1509390545,
+    "wof:name":"Knysna",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"localadmin",
+    "wof:population":65045,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98431,
+    -33.94604,
+    22.98431,
+    -33.94604
+],
+  "geometry": {"coordinates":[22.98431,-33.94604],"type":"Point"}
+}

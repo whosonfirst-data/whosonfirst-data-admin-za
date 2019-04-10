@@ -1,0 +1,96 @@
+{
+  "id": 1108980113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.20552,-25.81298,28.20552,-25.81298",
+    "geom:latitude":-25.81298,
+    "geom:longitude":28.20552,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.81298,
+    "lbl:longitude":28.20552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Kloofsig"
+    ],
+    "name:dut_x_preferred":[
+        "Kloofsig"
+    ],
+    "name:eng_x_preferred":[
+        "Kloofsig"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":988877,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kloofsig",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1143550,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1582916,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988877,
+        "qs_pg:id":1143550,
+        "wd:id":"Q3211098",
+        "woe:id":1582916
+    },
+    "wof:country":"ZA",
+    "wof:created":1496793283,
+    "wof:geomhash":"6942c81ed022843e6cbb24c935c451e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1108980113,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1108980113,
+    "wof:lastmodified":1514503939,
+    "wof:name":"Kloofsig",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.20552,
+    -25.81298,
+    28.20552,
+    -25.81298
+],
+  "geometry": {"coordinates":[28.20552,-25.81298],"type":"Point"}
+}

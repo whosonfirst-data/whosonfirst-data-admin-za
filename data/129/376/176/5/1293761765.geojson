@@ -1,0 +1,73 @@
+{
+  "id": 1293761765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06257,-34.06501,22.06257,-34.06501",
+    "geom:latitude":-34.06501,
+    "geom:longitude":22.06257,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC043",
+    "gn:asciiname":"Brandwag",
+    "gn:country_code":"ZA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1015837,
+    "gn:latitude":-34.06501,
+    "gn:longitude":22.06257,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Brandwag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brandwacht",
+        "Brandwag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1015837
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4fc5c56af5e2795f8c5c07bd57dcea69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1293761765,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293761765,
+    "wof:lastmodified":1537716435,
+    "wof:name":"Brandwag",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06257,
+    -34.06501,
+    22.06257,
+    -34.06501
+],
+  "geometry": {"coordinates":[22.06257,-34.06501],"type":"Point"}
+}

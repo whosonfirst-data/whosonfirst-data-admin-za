@@ -1,0 +1,73 @@
+{
+  "id": 1243462159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72344,-28.11744,26.72344,-28.11744",
+    "geom:latitude":-28.11744,
+    "geom:longitude":26.72344,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC18",
+    "gn:admin3_code":"FS184",
+    "gn:asciiname":"Bloudrif",
+    "gn:country_code":"ZA",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1018510,
+    "gn:latitude":-28.11744,
+    "gn:longitude":26.72344,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Bloudrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaauwdrift",
+        "Bloudrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1018510
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0e5e31a0c907965db9d7aaefaabbca32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":1243462159,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1243462159,
+    "wof:lastmodified":1537716437,
+    "wof:name":"Bloudrif",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72344,
+    -28.11744,
+    26.72344,
+    -28.11744
+],
+  "geometry": {"coordinates":[26.72344,-28.11744],"type":"Point"}
+}

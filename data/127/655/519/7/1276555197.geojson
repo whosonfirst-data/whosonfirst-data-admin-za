@@ -1,0 +1,69 @@
+{
+  "id": 1276555197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37447,-29.24797,27.37447,-29.24797",
+    "geom:latitude":-29.24797,
+    "geom:longitude":27.37447,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Meulplaas",
+    "gn:country_code":"ZA",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":976830,
+    "gn:latitude":-29.24797,
+    "gn:longitude":27.37447,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Meulplaas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":976830
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c43fb0e81990a087359174da4dfab8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1276555197,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276555197,
+    "wof:lastmodified":1536978125,
+    "wof:name":"Meulplaas",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37447,
+    -29.24797,
+    27.37447,
+    -29.24797
+],
+  "geometry": {"coordinates":[27.37447,-29.24797],"type":"Point"}
+}

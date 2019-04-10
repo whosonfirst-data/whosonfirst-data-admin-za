@@ -1,0 +1,67 @@
+{
+  "id": 1260165637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32919,-24.89248,31.32919,-24.89248",
+    "geom:latitude":-24.89248,
+    "geom:longitude":31.32919,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Njonjela",
+    "gn:country_code":"ZA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970510,
+    "gn:latitude":-24.89248,
+    "gn:longitude":31.32919,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Njonjela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970510
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ec41eff2a61f076cc20b22ba32fa8db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":1260165637,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1260165637,
+    "wof:lastmodified":1536871425,
+    "wof:name":"Njonjela",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32919,
+    -24.89248,
+    31.32919,
+    -24.89248
+],
+  "geometry": {"coordinates":[31.32919,-24.89248],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209105211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08175,-31.49139,28.08175,-31.49139",
+    "geom:latitude":-31.49139,
+    "geom:longitude":28.08175,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Sitoleni",
+    "gn:country_code":"ZA",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":955362,
+    "gn:latitude":-31.49139,
+    "gn:longitude":28.08175,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sitoleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":955362
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9db6e67a9f92adcb98c4b7659e56f1aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209105211
+        }
+    ],
+    "wof:id":1209105211,
+    "wof:lastmodified":1536297596,
+    "wof:name":"Sitoleni",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08175,
+    -31.491390000000006,
+    28.08175,
+    -31.491390000000006
+],
+  "geometry": {"coordinates":[28.08175,-31.49139000000001],"type":"Point"}
+}

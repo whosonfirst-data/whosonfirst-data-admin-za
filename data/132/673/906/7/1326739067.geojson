@@ -1,0 +1,69 @@
+{
+  "id": 1326739067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.52019,-29.05435,29.52019,-29.05435",
+    "geom:latitude":-29.05435,
+    "geom:longitude":29.52019,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC23",
+    "gn:admin3_code":"KZN236",
+    "gn:asciiname":"Emakhekheni",
+    "gn:country_code":"ZA",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256882,
+    "gn:latitude":-29.05435,
+    "gn:longitude":29.52019,
+    "gn:modification_date":"2016-09-11",
+    "gn:name":"Emakhekheni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256882
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0fb5447f892782284ab76dc0016b7f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "locality_id":1326739067,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1326739067,
+    "wof:lastmodified":1536685789,
+    "wof:name":"Emakhekheni",
+    "wof:parent_id":1108730553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.52019,
+    -29.05435,
+    29.52019,
+    -29.05435
+],
+  "geometry": {"coordinates":[29.52019,-29.05435],"type":"Point"}
+}

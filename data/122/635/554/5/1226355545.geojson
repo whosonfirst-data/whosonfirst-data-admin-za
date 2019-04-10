@@ -1,0 +1,69 @@
+{
+  "id": 1226355545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05,-27.73333,32.05,-27.73333",
+    "geom:latitude":-27.73333,
+    "geom:longitude":32.05,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC27",
+    "gn:admin3_code":"KZN272",
+    "gn:asciiname":"Elgin",
+    "gn:country_code":"ZA",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1005887,
+    "gn:latitude":-27.73333,
+    "gn:longitude":32.05,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Elgin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005887
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6d79e1cbfd75d0a6e6356f1483e52f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730561,
+            "locality_id":1226355545,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1226355545,
+    "wof:lastmodified":1536775904,
+    "wof:name":"Elgin",
+    "wof:parent_id":1108730561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05,
+    -27.73333,
+    32.05,
+    -27.73333
+],
+  "geometry": {"coordinates":[32.05,-27.73333],"type":"Point"}
+}

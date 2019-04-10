@@ -1,0 +1,69 @@
+{
+  "id": 1243173909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21667,-27.8,28.21667,-27.8",
+    "geom:latitude":-27.8,
+    "geom:longitude":28.21667,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS193",
+    "gn:asciiname":"Onverdiend",
+    "gn:country_code":"ZA",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":967883,
+    "gn:latitude":-27.8,
+    "gn:longitude":28.21667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Onverdiend",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":967883
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4ade7798944a2c34001cf1907ddea50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1243173909,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1243173909,
+    "wof:lastmodified":1536701764,
+    "wof:name":"Onverdiend",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21667,
+    -27.8,
+    28.21667,
+    -27.8
+],
+  "geometry": {"coordinates":[28.21667,-27.8],"type":"Point"}
+}

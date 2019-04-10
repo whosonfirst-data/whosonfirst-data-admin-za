@@ -1,0 +1,69 @@
+{
+  "id": 1327218185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33333,-23.21667,30.33333,-23.21667",
+    "geom:latitude":-23.21667,
+    "geom:longitude":30.33333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"KwaMatatani",
+    "gn:country_code":"ZA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985645,
+    "gn:latitude":-23.21667,
+    "gn:longitude":30.33333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaMatatani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985645
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3bdd4d88191e9c8a7d11bf7874e9f6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1327218185,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1327218185,
+    "wof:lastmodified":1536989345,
+    "wof:name":"KwaMatatani",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33333,
+    -23.21667,
+    30.33333,
+    -23.21667
+],
+  "geometry": {"coordinates":[30.33333,-23.21667],"type":"Point"}
+}

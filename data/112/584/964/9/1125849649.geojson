@@ -1,0 +1,110 @@
+{
+  "id": 1125849649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62379,-28.76872,17.62379,-28.76872",
+    "geom:latitude":-28.76872,
+    "geom:longitude":17.62379,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.76872,
+    "lbl:longitude":17.62379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Vioolsdrif"
+    ],
+    "name:dut_x_preferred":[
+        "Vioolsdrif"
+    ],
+    "name:eng_x_preferred":[
+        "Vioolsdrif"
+    ],
+    "name:ger_x_preferred":[
+        "Vioolsdrift"
+    ],
+    "name:rum_x_preferred":[
+        "Vioolsdrif"
+    ],
+    "name:spa_x_preferred":[
+        "Vioolsdrif"
+    ],
+    "name:unk_x_variant":[
+        "Vioolsdrift"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3359948,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vioolsdrif",
+    "qs_pg:name_adm0":"Namibia",
+    "qs_pg:name_adm1":"Karas",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":910971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424987,
+    "qs_pg:woe_id":1466680,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424987,
+    "woe:name_adm0":"Namibia",
+    "woe:name_adm1":"Karas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359948,
+        "gp:id":1466680,
+        "qs_pg:id":910971,
+        "wd:id":"Q1013975"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293333,
+    "wof:geomhash":"ac1dfe5a538e072aaccc52e09d29d72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "locality_id":1125849649,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125849649,
+    "wof:lastmodified":1514504629,
+    "wof:name":"Vioolsdrif",
+    "wof:parent_id":1108730593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62379,
+    -28.76872,
+    17.62379,
+    -28.76872
+],
+  "geometry": {"coordinates":[17.62379,-28.76872],"type":"Point"}
+}

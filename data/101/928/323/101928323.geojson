@@ -1,0 +1,117 @@
+{
+  "id": 101928323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000107,
+    "geom:area_square_m":1142901.592147,
+    "geom:bbox":"25.4910411835,-30.6047878265,25.5011997223,-30.5852146149",
+    "geom:latitude":-30.595856,
+    "geom:longitude":25.495944,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.596002,
+    "lbl:longitude":25.495175,
+    "mps:latitude":-30.596002,
+    "mps:longitude":25.495175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:deu_x_preferred":[
+        "Gariep Dam"
+    ],
+    "name:dut_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:eng_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:fra_x_preferred":[
+        "Barrage de Gariep"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0930\u093f\u090f\u092a \u092c\u093e\u0901\u0927"
+    ],
+    "name:ita_x_preferred":[
+        "Diga di Gariep"
+    ],
+    "name:nld_x_preferred":[
+        "Gariepdam"
+    ],
+    "name:nor_x_preferred":[
+        "Gariepdemningen"
+    ],
+    "name:nso_x_preferred":[
+        "Gariep Dam"
+    ],
+    "name:pol_x_preferred":[
+        "Zapora Gariep"
+    ],
+    "name:ron_x_preferred":[
+        "Barajul Gariep"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u044c\u0435\u043f"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gariep Dam",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":439,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881401,
+        "wd:id":"Q7099887"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"58c071002d957d87effdd500958cc3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928323,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928323,
+    "wof:lastmodified":1534986000,
+    "wof:name":"Gariep Dam",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615525
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49104118347168,
+    -30.60478782653809,
+    25.50119972229004,
+    -30.58521461486816
+],
+  "geometry": {"coordinates":[[[25.49104118347168,-30.59174537658691],[25.49130630493164,-30.59109878540039],[25.49273681640625,-30.58758544921875],[25.49405097961426,-30.58521461486816],[25.49600410461426,-30.5880012512207],[25.50076293945312,-30.59266471862793],[25.49847030639648,-30.59522819519043],[25.49807929992676,-30.59739303588867],[25.49887084960938,-30.5991325378418],[25.50119972229004,-30.60424613952637],[25.494384765625,-30.60478782653809],[25.49408721923828,-30.60075569152832],[25.49269676208496,-30.59795188903809],[25.49163627624512,-30.59700965881348],[25.49166107177734,-30.59546089172363],[25.49312019348145,-30.5936164855957],[25.49420547485352,-30.59300994873047],[25.49350738525391,-30.59176254272461],[25.49104118347168,-30.59174537658691]]],"type":"Polygon"}
+}

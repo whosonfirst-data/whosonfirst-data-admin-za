@@ -1,0 +1,63 @@
+{
+  "id": 1209638131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.50804,-31.21683,29.50804,-31.21683",
+    "geom:latitude":-31.21683,
+    "geom:longitude":29.50804,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC15",
+    "gn:admin3_code":"EC153",
+    "gn:asciiname":"Klondyke",
+    "gn:country_code":"ZA",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":988893,
+    "gn:latitude":-31.21683,
+    "gn:longitude":29.50804,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Klondyke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":988893
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"43f2046bfb8630ff2ad29390d6c16320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209638131
+        }
+    ],
+    "wof:id":1209638131,
+    "wof:lastmodified":1536280974,
+    "wof:name":"Klondyke",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.50804,
+    -31.21683,
+    29.50804,
+    -31.21683
+],
+  "geometry": {"coordinates":[29.50804,-31.21683],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293685945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40822,-30.77386,28.40822,-30.77386",
+    "geom:latitude":-30.77386,
+    "geom:longitude":28.40822,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Oliviersrust",
+    "gn:country_code":"ZA",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968169,
+    "gn:latitude":-30.77386,
+    "gn:longitude":28.40822,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Oliviersrust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":968169
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6714d11db39e4ce559ff351d6319f1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1293685945,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1293685945,
+    "wof:lastmodified":1536997507,
+    "wof:name":"Oliviersrust",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40822,
+    -30.77386,
+    28.40822,
+    -30.77386
+],
+  "geometry": {"coordinates":[28.40822,-30.77386],"type":"Point"}
+}

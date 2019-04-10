@@ -1,0 +1,109 @@
+{
+  "id": 101927465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":581250.972279,
+    "geom:bbox":"31.0463008881,-27.4618263245,31.0538806915,-27.4509983063",
+    "geom:latitude":-27.456537,
+    "geom:longitude":31.050223,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.456523,
+    "lbl:longitude":31.050223,
+    "mps:latitude":-27.456523,
+    "mps:longitude":31.050223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hartland"
+    ],
+    "name:ceb_x_preferred":[
+        "Hartland"
+    ],
+    "name:deu_x_preferred":[
+        "Hartland"
+    ],
+    "name:fra_x_preferred":[
+        "Hartland"
+    ],
+    "name:hbs_x_preferred":[
+        "Hartland"
+    ],
+    "name:ita_x_preferred":[
+        "Hartland"
+    ],
+    "name:nld_x_preferred":[
+        "Hartland"
+    ],
+    "name:pol_x_preferred":[
+        "Hartland"
+    ],
+    "name:por_x_preferred":[
+        "Hartland"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u043b\u0430\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Hartland"
+    ],
+    "name:vol_x_preferred":[
+        "Hartland"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hartland",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1586446
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9b51d93cd317d243e55fb95a64772796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927465,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927465,
+    "wof:lastmodified":1527715636,
+    "wof:name":"Hartland",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04630088806152,
+    -27.46182632446289,
+    31.05388069152832,
+    -27.45099830627441
+],
+  "geometry": {"coordinates":[[[31.04655265808105,-27.45911979675293],[31.04655265808105,-27.45821762084961],[31.05034065246582,-27.45099830627441],[31.05261611938477,-27.45099830627441],[31.05388069152832,-27.45122337341309],[31.05362892150879,-27.45483207702637],[31.05135726928711,-27.46047210693359],[31.05034637451172,-27.46182441711426],[31.04807090759277,-27.46182632446289],[31.04630088806152,-27.46114921569824],[31.04655265808105,-27.45911979675293]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343842491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76667,-24.96667,29.76667,-24.96667",
+    "geom:latitude":-24.96667,
+    "geom:longitude":29.76667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM473",
+    "gn:asciiname":"Lebaleng",
+    "gn:country_code":"ZA",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":984110,
+    "gn:latitude":-24.96667,
+    "gn:longitude":29.76667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lebaleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":984110
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3ff4f63d55c1f4e6f439f1a65a3d1cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":1343842491,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1343842491,
+    "wof:lastmodified":1536692733,
+    "wof:name":"Lebaleng",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76667,
+    -24.96667,
+    29.76667,
+    -24.96667
+],
+  "geometry": {"coordinates":[29.76667,-24.96667],"type":"Point"}
+}

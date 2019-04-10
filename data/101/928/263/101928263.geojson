@@ -1,0 +1,106 @@
+{
+  "id": 101928263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00023,
+    "geom:area_square_m":2450570.340349,
+    "geom:bbox":"25.9722805023,-30.5081386566,25.989107132,-30.4897136688",
+    "geom:latitude":-30.498926,
+    "geom:longitude":25.980983,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.498519,
+    "lbl:longitude":25.980302,
+    "mps:latitude":-30.498519,
+    "mps:longitude":25.980302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Bethulie"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0442\u0445\u0443\u043b\u0438\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Bethulie"
+    ],
+    "name:eng_x_preferred":[
+        "Bethulie"
+    ],
+    "name:fre_x_preferred":[
+        "Bethulie"
+    ],
+    "name:ger_x_preferred":[
+        "Bethulie"
+    ],
+    "name:nso_x_preferred":[
+        "Bethulie"
+    ],
+    "name:rum_x_preferred":[
+        "Bethulie"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bethulie",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.466667,
+    "wd:longitude":25.966667,
+    "wd:wordcount":832,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1019700,
+        "gp:id":1579786,
+        "qs:id":193818,
+        "qs_pg:id":193818,
+        "wd:id":"Q646067",
+        "wk:page":"Bethulie"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"189c37b644c6d9b40671f1b9581ea529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":101928263,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101928263,
+    "wof:lastmodified":1527715923,
+    "wof:name":"Bethulie",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97228050231934,
+    -30.50813865661621,
+    25.98910713195801,
+    -30.48971366882324
+],
+  "geometry": {"coordinates":[[[25.97452926635742,-30.49177551269531],[25.97528457641602,-30.49167823791504],[25.97901725769043,-30.49119758605957],[25.98190498352051,-30.49050712585449],[25.98323631286621,-30.48971366882324],[25.98744010925293,-30.4917163848877],[25.98761749267578,-30.49187278747559],[25.98903656005859,-30.49312210083008],[25.98773765563965,-30.49760627746582],[25.98699188232422,-30.50069999694824],[25.98910713195801,-30.50381469726562],[25.98836517333984,-30.50628852844238],[25.98727226257324,-30.50813865661621],[25.98441696166992,-30.50749778747559],[25.98299407958984,-30.50655746459961],[25.97870635986328,-30.50590515136719],[25.97441482543945,-30.50556182861328],[25.97228050231934,-30.50430488586426],[25.97230339050293,-30.50213623046875],[25.97452926635742,-30.49177551269531]]],"type":"Polygon"}
+}

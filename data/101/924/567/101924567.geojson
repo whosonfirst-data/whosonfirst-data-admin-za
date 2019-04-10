@@ -1,0 +1,74 @@
+{
+  "id": 101924567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1260645.754239,
+    "geom:bbox":"31.0402832031,-24.8229351044,31.0567855835,-24.8134975433",
+    "geom:latitude":-24.817735,
+    "geom:longitude":31.048046,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.817692,
+    "lbl:longitude":31.048046,
+    "mps:latitude":-24.817692,
+    "mps:longitude":31.048046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"London",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":19140,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":982298,
+        "gp:id":1585727
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7802aa9d1893ee7048c51dcd1827f590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730589,
+            "locality_id":101924567,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924567,
+    "wof:lastmodified":1527670487,
+    "wof:name":"London",
+    "wof:parent_id":1108730589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.040283203125,
+    -24.82293510437012,
+    31.05678558349609,
+    -24.81349754333496
+],
+  "geometry": {"coordinates":[[[31.040283203125,-24.81524276733398],[31.04205131530762,-24.81440734863281],[31.04960250854492,-24.81349754333496],[31.05496215820312,-24.81464576721191],[31.05675315856934,-24.8154354095459],[31.05678558349609,-24.81746482849121],[31.05636024475098,-24.81868934631348],[31.05371475219727,-24.82034873962402],[31.04839515686035,-24.82163619995117],[31.04351234436035,-24.82251167297363],[31.04218482971191,-24.82293510437012],[31.04125595092773,-24.82051086425781],[31.04077911376953,-24.81848526000977],[31.040283203125,-24.81524276733398]]],"type":"Polygon"}
+}

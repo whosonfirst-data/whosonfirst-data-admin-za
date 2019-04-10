@@ -1,0 +1,74 @@
+{
+  "id": 1243067107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10055,-31.83775,28.10055,-31.83775",
+    "geom:latitude":-31.83775,
+    "geom:longitude":28.10055,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC137",
+    "gn:asciiname":"Mjanyana",
+    "gn:country_code":"ZA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975632,
+    "gn:latitude":-31.83775,
+    "gn:longitude":28.10055,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Mjanyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emjanyana",
+        "Mjanyama",
+        "Mjanyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":975632
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7724cba3c31b429cc7d258aa2936850a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":1243067107,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243067107,
+    "wof:lastmodified":1537716401,
+    "wof:name":"Mjanyana",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10055,
+    -31.83775,
+    28.10055,
+    -31.83775
+],
+  "geometry": {"coordinates":[28.10055,-31.83775],"type":"Point"}
+}

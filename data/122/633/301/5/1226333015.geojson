@@ -1,0 +1,73 @@
+{
+  "id": 1226333015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07552,-28.70678,21.07552,-28.70678",
+    "geom:latitude":-28.70678,
+    "geom:longitude":21.07552,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC8",
+    "gn:admin3_code":"NC082",
+    "gn:asciiname":"Eksteenkuil",
+    "gn:country_code":"ZA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006445,
+    "gn:latitude":-28.70678,
+    "gn:longitude":21.07552,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Eksteenkuil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eksteenskuil",
+        "Eksteenkuil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006445
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2757717b2f3e5d2ffb325095b36bfc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "locality_id":1226333015,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1226333015,
+    "wof:lastmodified":1537716428,
+    "wof:name":"Eksteenkuil",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07552,
+    -28.70678,
+    21.07552,
+    -28.70678
+],
+  "geometry": {"coordinates":[21.07552,-28.70678],"type":"Point"}
+}

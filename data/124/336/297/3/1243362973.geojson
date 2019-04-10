@@ -1,0 +1,73 @@
+{
+  "id": 1243362973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.35629,-31.89429,28.35629,-31.89429",
+    "geom:latitude":-31.89429,
+    "geom:longitude":28.35629,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC12",
+    "gn:admin3_code":"EC121",
+    "gn:asciiname":"Nqabane",
+    "gn:country_code":"ZA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":969546,
+    "gn:latitude":-31.89429,
+    "gn:longitude":28.35629,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nqabane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mqabana",
+        "Nqabane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":969546
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"cd782bc97d42df2ee5f1bff7a3f8af3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730517,
+            "locality_id":1243362973,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1243362973,
+    "wof:lastmodified":1537716389,
+    "wof:name":"Nqabane",
+    "wof:parent_id":1108730517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.35629,
+    -31.89429,
+    28.35629,
+    -31.89429
+],
+  "geometry": {"coordinates":[28.35629,-31.89429],"type":"Point"}
+}

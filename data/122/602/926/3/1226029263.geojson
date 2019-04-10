@@ -1,0 +1,73 @@
+{
+  "id": 1226029263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27718,-23.87011,30.27718,-23.87011",
+    "geom:latitude":-23.87011,
+    "geom:longitude":30.27718,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM333",
+    "gn:asciiname":"Valencia Estate",
+    "gn:country_code":"ZA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":945101,
+    "gn:latitude":-23.87011,
+    "gn:longitude":30.27718,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Valencia Estate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valencia",
+        "Valencia Estate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":945101
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"74f51339951133eda101e9ee5a87106c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1226029263,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1226029263,
+    "wof:lastmodified":1537716371,
+    "wof:name":"Valencia Estate",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27718,
+    -23.87011,
+    30.27718,
+    -23.87011
+],
+  "geometry": {"coordinates":[30.27718,-23.87011],"type":"Point"}
+}

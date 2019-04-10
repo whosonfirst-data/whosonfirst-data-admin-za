@@ -1,0 +1,73 @@
+{
+  "id": 1260083183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65295,-28.98042,31.65295,-28.98042",
+    "geom:latitude":-28.98042,
+    "geom:longitude":31.65295,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC28",
+    "gn:admin3_code":"KZN284",
+    "gn:asciiname":"Holy Cross",
+    "gn:country_code":"ZA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":995821,
+    "gn:latitude":-28.98042,
+    "gn:longitude":31.65295,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Holy Cross",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holy Cross Mission",
+        "Holy Cross"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995821
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"17f0ffd980de7df2cda45f9cf7d76af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":1260083183,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1260083183,
+    "wof:lastmodified":1537716421,
+    "wof:name":"Holy Cross",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65295,
+    -28.98042,
+    31.65295,
+    -28.98042
+],
+  "geometry": {"coordinates":[31.65295,-28.98042],"type":"Point"}
+}

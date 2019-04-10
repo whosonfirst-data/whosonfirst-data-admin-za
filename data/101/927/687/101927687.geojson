@@ -1,0 +1,105 @@
+{
+  "id": 101927687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000211,
+    "geom:area_square_m":2290796.876372,
+    "geom:bbox":"32.0795288086,-28.6115570068,32.1006736755,-28.5885505676",
+    "geom:latitude":-28.599343,
+    "geom:longitude":32.089621,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.601927,
+    "lbl:longitude":32.086258,
+    "mps:latitude":-28.601927,
+    "mps:longitude":32.086258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "KwaMbonambi"
+    ],
+    "name:chi_x_preferred":[
+        "\u5938\u59c6\u535a\u5357\u6bd4"
+    ],
+    "name:dut_x_preferred":[
+        "Kwambonambi"
+    ],
+    "name:eng_x_preferred":[
+        "Kwambonambi"
+    ],
+    "name:nso_x_preferred":[
+        "Kwambonambi"
+    ],
+    "name:ron_x_preferred":[
+        "Kwambonambi"
+    ],
+    "name:rum_x_preferred":[
+        "Kwambonambi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u59c6\u535a\u5357\u6bd4"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KwaMbonambi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-28.6,
+    "wd:longitude":32.0833,
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985609,
+        "gp:id":1583507,
+        "qs:id":276194,
+        "qs_pg:id":276194,
+        "wd:id":"Q3643003"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"62aad19ceeaa4161afb2be5e39a2b59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":101927687,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927687,
+    "wof:lastmodified":1527715634,
+    "wof:name":"KwaMbonambi",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.07952880859375,
+    -28.61155700683594,
+    32.10067367553711,
+    -28.58855056762695
+],
+  "geometry": {"coordinates":[[[32.08559036254883,-28.61019134521484],[32.08406829833984,-28.61155700683594],[32.07981872558594,-28.60832023620605],[32.07952880859375,-28.60516357421875],[32.08152389526367,-28.60018539428711],[32.08429718017578,-28.59677886962891],[32.08659362792969,-28.59608268737793],[32.08890533447266,-28.59719276428223],[32.08939743041992,-28.59560966491699],[32.09114456176758,-28.59130859375],[32.09265899658203,-28.58949279785156],[32.10067367553711,-28.58855056762695],[32.10012817382812,-28.59506988525391],[32.09999084472656,-28.59699821472168],[32.09984970092773,-28.59780883789062],[32.09555816650391,-28.59804153442383],[32.09164810180664,-28.59895896911621],[32.09148788452148,-28.59965324401855],[32.09113693237305,-28.60157585144043],[32.09075927734375,-28.60349464416504],[32.08976364135742,-28.60598373413086],[32.08698272705078,-28.60893821716309],[32.08559036254883,-28.61019134521484]]],"type":"Polygon"}
+}

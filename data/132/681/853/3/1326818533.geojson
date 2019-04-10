@@ -1,0 +1,70 @@
+{
+  "id": 1326818533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31667,-34.6,19.31667,-34.6",
+    "geom:latitude":-34.6,
+    "geom:longitude":19.31667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Goudiniweg",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3367547,
+    "gn:latitude":-34.6,
+    "gn:longitude":19.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goudiniweg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goudini Road",
+        "Goudini",
+        "Goudinie",
+        "Goudiniweg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367547
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8af2bd4dc1e7d5697274bdf155774f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326818533,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326818533,
+    "wof:lastmodified":1537716445,
+    "wof:name":"Goudiniweg",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31667,
+    -34.6,
+    19.31667,
+    -34.6
+],
+  "geometry": {"coordinates":[19.31667,-34.6],"type":"Point"}
+}

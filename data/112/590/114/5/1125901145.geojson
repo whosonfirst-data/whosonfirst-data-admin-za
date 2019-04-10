@@ -1,0 +1,153 @@
+{
+  "id": 1125901145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41205,-29.81381,24.41205,-29.81381",
+    "geom:latitude":-29.81381,
+    "geom:longitude":24.41205,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1200,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.81381,
+    "lbl:longitude":24.41205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Orania"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0430\u043d\u0438\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Orania"
+    ],
+    "name:dut_x_preferred":[
+        "Orania"
+    ],
+    "name:eng_x_preferred":[
+        "Orania"
+    ],
+    "name:fin_x_preferred":[
+        "Orania"
+    ],
+    "name:fra_x_preferred":[
+        "Orania"
+    ],
+    "name:fre_x_preferred":[
+        "Orania"
+    ],
+    "name:ger_x_preferred":[
+        "Orania"
+    ],
+    "name:hak_x_preferred":[
+        "Orania"
+    ],
+    "name:ita_x_preferred":[
+        "Orania"
+    ],
+    "name:nld_x_preferred":[
+        "Orania"
+    ],
+    "name:nso_x_preferred":[
+        "Orania"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0440\u0430\u043d\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Or\u00e2nia"
+    ],
+    "name:rum_x_preferred":[
+        "Orania"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Orania"
+    ],
+    "name:swe_x_preferred":[
+        "Orania"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0430\u043d\u0456\u044f"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":967542,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Orania",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":86,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1028660,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586312,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":967542,
+        "gp:id":1586312,
+        "qs_pg:id":1028660,
+        "wd:id":"Q1011020"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295812,
+    "wof:geomhash":"f425a7658ffb1ed3ab484b6fe0be489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730595,
+            "locality_id":1125901145,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125901145,
+    "wof:lastmodified":1514504475,
+    "wof:name":"Orania",
+    "wof:parent_id":1108730595,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41205,
+    -29.81381,
+    24.41205,
+    -29.81381
+],
+  "geometry": {"coordinates":[24.41205,-29.81381],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101925903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000188,
+    "geom:area_square_m":2090072.34246,
+    "geom:bbox":"28.0314273834,-26.2267494202,28.0540390015,-26.2128944397",
+    "geom:latitude":-26.218409,
+    "geom:longitude":28.043673,
+    "geonames:id":"947570,947569",
+    "iso:country":"ZA",
+    "lbl:latitude":-26.218307,
+    "lbl:longitude":28.042758,
+    "mps:latitude":-26.218307,
+    "mps:longitude":28.042758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Turffontein"
+    ],
+    "name:dut_x_preferred":[
+        "Turffontein"
+    ],
+    "name:eng_x_preferred":[
+        "Turffontein"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u0631\u0641\u0646\u062a\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0641\u0646\u0679\u06cc\u0646"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Turffontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.2446,
+    "wd:longitude":28.0397,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7854876"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1f7a8f40993d96b762feeb163c1be445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925903,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925903,
+    "wof:lastmodified":1534986009,
+    "wof:name":"Turffontein",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615719
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03142738342285,
+    -26.22674942016602,
+    28.05403900146484,
+    -26.21289443969727
+],
+  "geometry": {"coordinates":[[[28.05403900146484,-26.21357154846191],[28.05350303649902,-26.21826171875],[28.05260848999023,-26.21915054321289],[28.05242729187012,-26.21933174133301],[28.04768753051758,-26.21875],[28.04952049255371,-26.2210807800293],[28.04941177368164,-26.22659873962402],[28.04811859130859,-26.22674942016602],[28.04713439941406,-26.22673034667969],[28.04599189758301,-26.22634506225586],[28.04270935058594,-26.22483825683594],[28.040283203125,-26.22372436523438],[28.03608131408691,-26.22196578979492],[28.03731346130371,-26.21947288513184],[28.03763389587402,-26.2189826965332],[28.03142738342285,-26.21554946899414],[28.03484535217285,-26.21289443969727],[28.04118347167969,-26.21301460266113],[28.04419708251953,-26.21307182312012],[28.05061149597168,-26.21359634399414],[28.05108261108398,-26.2136344909668],[28.05403900146484,-26.21357154846191]]],"type":"Polygon"}
+}

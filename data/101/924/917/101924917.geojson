@@ -1,0 +1,73 @@
+{
+  "id": 101924917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":379829.552745,
+    "geom:bbox":"28.7499847412,-25.1066265106,28.7594165802,-25.1017932892",
+    "geom:latitude":-25.104598,
+    "geom:longitude":28.754283,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.104486,
+    "lbl:longitude":28.754193,
+    "mps:latitude":-25.104486,
+    "mps:longitude":28.754193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SEGOKGO",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956652,
+        "gp:id":1582079
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"80fd51d132b1333217ae3a979036e8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "locality_id":101924917,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101924917,
+    "wof:lastmodified":1500026381,
+    "wof:name":"Segokgo",
+    "wof:parent_id":1108730587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74998474121094,
+    -25.10662651062012,
+    28.7594165802002,
+    -25.10179328918457
+],
+  "geometry": {"coordinates":[[[28.75049018859863,-25.10179328918457],[28.75473022460938,-25.1025447845459],[28.7594165802002,-25.10424995422363],[28.75899887084961,-25.10662651062012],[28.74998474121094,-25.10643005371094],[28.75049018859863,-25.10179328918457]]],"type":"Polygon"}
+}

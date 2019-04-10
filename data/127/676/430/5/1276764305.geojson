@@ -1,0 +1,69 @@
+{
+  "id": 1276764305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95681,-29.16765,26.95681,-29.16765",
+    "geom:latitude":-29.16765,
+    "geom:longitude":26.95681,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS196",
+    "gn:asciiname":"Egypt",
+    "gn:country_code":"ZA",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006525,
+    "gn:latitude":-29.16765,
+    "gn:longitude":26.95681,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Egypt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006525
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"56a907bd58e74898f752c052ade72314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1276764305,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276764305,
+    "wof:lastmodified":1536698612,
+    "wof:name":"Egypt",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95681,
+    -29.16765,
+    26.95681,
+    -29.16765
+],
+  "geometry": {"coordinates":[26.95681,-29.16765],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125421541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55396,-29.85325,30.55396,-29.85325",
+    "geom:latitude":-29.85325,
+    "geom:longitude":30.55396,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":46570,
+    "gn:population":46570,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.85325,
+    "lbl:longitude":30.55396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347522,
+    "qs_pg:gn_pop":46570,
+    "qs_pg:name":"Mkhambathini",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764950,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347522,
+        "qs_pg:id":764950
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052343,
+    "wof:geomhash":"3d0fa377e493e7c41aebd4a8686b124f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "localadmin_id":1125421541,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125421541,
+    "wof:lastmodified":1509390489,
+    "wof:name":"Mkhambathini",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"localadmin",
+    "wof:population":46570,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55396,
+    -29.85325,
+    30.55396,
+    -29.85325
+],
+  "geometry": {"coordinates":[30.55396,-29.85325],"type":"Point"}
+}

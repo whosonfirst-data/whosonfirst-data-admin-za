@@ -1,0 +1,79 @@
+{
+  "id": 101923843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":1022137.196284,
+    "geom:bbox":"29.3965129852,-24.9983272552,29.4107379913,-24.9893836975",
+    "geom:latitude":-24.993758,
+    "geom:longitude":29.403084,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.993712,
+    "lbl:longitude":29.402948,
+    "mps:latitude":-24.993712,
+    "mps:longitude":29.402948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:nso_x_preferred":[
+        "Leeufontein"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Leeufontein",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.126,
+    "wd:longitude":25.331,
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983655,
+        "gp:id":1584562
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c7ed23b899a5d677740f451ba1c7bc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "locality_id":101923843,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923843,
+    "wof:lastmodified":1527688299,
+    "wof:name":"Leeufontein",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.39651298522949,
+    -24.99832725524902,
+    29.41073799133301,
+    -24.98938369750977
+],
+  "geometry": {"coordinates":[[[29.39677238464355,-24.99590492248535],[29.39651298522949,-24.9914493560791],[29.40225410461426,-24.98938751220703],[29.40314674377441,-24.98938369750977],[29.40715980529785,-24.99059295654297],[29.40939140319824,-24.99139976501465],[29.41073417663574,-24.9934253692627],[29.41073799133301,-24.99505043029785],[29.40806770324707,-24.99587059020996],[29.40228271484375,-24.99832153320312],[29.40005493164062,-24.99832725524902],[29.39677238464355,-24.99590492248535]]],"type":"Polygon"}
+}

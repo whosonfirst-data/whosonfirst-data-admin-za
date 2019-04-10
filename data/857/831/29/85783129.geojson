@@ -1,0 +1,121 @@
+{
+  "id": 85783129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000282,
+    "geom:area_square_m":2892472.196139,
+    "geom:bbox":"18.4350585937,-33.9319664918,18.4625244141,-33.904835332",
+    "geom:latitude":-33.921507,
+    "geom:longitude":18.449848,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-33.931747,
+    "lbl:longitude":18.43087,
+    "mps:latitude":-33.92285,
+    "mps:longitude":18.450056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Zonnebloem"
+    ],
+    "name:eng_x_preferred":[
+        "Zonnebloem"
+    ],
+    "name:eng_x_variant":[
+        "District Six",
+        "District 6"
+    ],
+    "name:fra_x_preferred":[
+        "Zonnebloem"
+    ],
+    "name:unk_x_variant":[
+        "Zonnebloem"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Zonnebloem",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":202,
+    "qs:photo_sum":683,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878180,
+        "qs:id":1091831,
+        "qs_pg:id":1091831,
+        "wd:id":"Q3575986"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"900b6c8ac65a27b98fe95420a395e161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85783129,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85783129,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269521,
+    "wof:name":"Zonnebloem",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43505859371362,
+    -33.93196649176658,
+    18.46252441410013,
+    -33.90483533198217
+],
+  "geometry": {"coordinates":[[[18.45703125000011,-33.91145445429998],[18.45703125000011,-33.91601305244996],[18.46252441407501,-33.91601305244996],[18.46252441409177,-33.91601311339996],[18.46252441408342,-33.9205714677249],[18.46252441410013,-33.92057152869994],[18.45703125000011,-33.92057152869994],[18.45703125000011,-33.92373240137519],[18.45703125000011,-33.92512970009992],[18.45428466798495,-33.92512970009992],[18.45428466798654,-33.92740868541869],[18.45153808591914,-33.92740868849996],[18.45153808445053,-33.92968762130997],[18.45066857608526,-33.93073556407383],[18.44879150390011,-33.92998145824183],[18.44691443171496,-33.93073556407383],[18.44657400426934,-33.93196648464978],[18.44604492190012,-33.93196648896793],[18.44329833981845,-33.93196649176658],[18.44055175780011,-33.93196649163949],[18.44055175780011,-33.92968761806866],[18.44055175780011,-33.92740868849996],[18.43780517578654,-33.92740868541869],[18.43780517578102,-33.92512969429034],[18.43505859371362,-33.9251296912041],[18.43505859371675,-33.92285063812211],[18.43780517578176,-33.92285063676648],[18.44055175780011,-33.92285063396783],[18.44055175780011,-33.92057152869994],[18.44604491970267,-33.92057151925746],[18.44604492188103,-33.91829234569992],[18.44879150390011,-33.91829234158065],[18.44879150390011,-33.91601311339996],[18.44879150390011,-33.91571906343265],[18.45153808591471,-33.91461584229172],[18.45153808591471,-33.91145445429998],[18.45153808592096,-33.91145439332493],[18.45703125000011,-33.90483533198217],[18.45703125000011,-33.91145445429998]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101928599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1658145.886626,
+    "geom:bbox":"28.6049098969,-31.5151004791,28.6247348785,-31.5027675629",
+    "geom:latitude":-31.508278,
+    "geom:longitude":28.614946,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.509543,
+    "lbl:longitude":28.613955,
+    "mps:latitude":-31.509543,
+    "mps:longitude":28.613955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gaduka",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1003492,
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64cfaca0a60584380e7bafa40f13bc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928599,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928599,
+    "wof:lastmodified":1500027865,
+    "wof:name":"Gaduka",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60490989685059,
+    -31.51510047912598,
+    28.62473487854004,
+    -31.50276756286621
+],
+  "geometry": {"coordinates":[[[28.60758018493652,-31.50276756286621],[28.60991096496582,-31.50325965881348],[28.61118316650391,-31.50359344482422],[28.6150016784668,-31.50459671020508],[28.61646461486816,-31.50420570373535],[28.61960220336914,-31.50341987609863],[28.6225643157959,-31.50389862060547],[28.62473487854004,-31.50619888305664],[28.62460708618164,-31.50908851623535],[28.61964225769043,-31.51226043701172],[28.61319351196289,-31.51510047912598],[28.60981559753418,-31.51480865478516],[28.60905265808105,-31.51013374328613],[28.60729598999023,-31.50764465332031],[28.60490989685059,-31.50516700744629],[28.60507392883301,-31.5035400390625],[28.60758018493652,-31.50276756286621]]],"type":"Polygon"}
+}

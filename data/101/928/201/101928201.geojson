@@ -1,0 +1,99 @@
+{
+  "id": 101928201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000342,
+    "geom:area_square_m":3650935.727926,
+    "geom:bbox":"28.7964992523,-30.3521671295,28.8251113892,-30.3293952942",
+    "geom:latitude":-30.341477,
+    "geom:longitude":28.810342,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.342908,
+    "lbl:longitude":28.810342,
+    "mps:latitude":-30.342908,
+    "mps:longitude":28.810342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Matatiele"
+    ],
+    "name:deu_x_preferred":[
+        "Matatiele"
+    ],
+    "name:eus_x_preferred":[
+        "Matatiele"
+    ],
+    "name:nso_x_preferred":[
+        "Matatiele"
+    ],
+    "name:ron_x_preferred":[
+        "Matatiele"
+    ],
+    "name:xho_x_preferred":[
+        "Matatiele"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u8482\u52d2"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Matatiele",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-30.342222,
+    "wd:longitude":28.806111,
+    "wd:wordcount":420,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978327,
+        "gp:id":1584678,
+        "wd:id":"Q638513",
+        "wk:page":"Matatiele"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"824e6fdf357700c900f39a9e5e83bceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":101928201,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928201,
+    "wof:lastmodified":1527715923,
+    "wof:name":"Matatiele",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79649925231934,
+    -30.3521671295166,
+    28.82511138916016,
+    -30.32939529418945
+],
+  "geometry": {"coordinates":[[[28.80477142333984,-30.34646987915039],[28.79649925231934,-30.34430694580078],[28.79896354675293,-30.3384838104248],[28.79987907409668,-30.33218383789062],[28.80094718933105,-30.33084869384766],[28.80877685546875,-30.32939529418945],[28.81119728088379,-30.33777618408203],[28.81268692016602,-30.33779335021973],[28.81470680236816,-30.33794784545898],[28.81665420532227,-30.33832740783691],[28.81845092773438,-30.33902168273926],[28.82000541687012,-30.33987426757812],[28.82153511047363,-30.34075927734375],[28.82306480407715,-30.34164619445801],[28.82461547851562,-30.34250259399414],[28.82511138916016,-30.34276390075684],[28.82370185852051,-30.34802055358887],[28.82259178161621,-30.3521671295166],[28.81432151794434,-30.34978103637695],[28.80477142333984,-30.34646987915039]]],"type":"Polygon"}
+}

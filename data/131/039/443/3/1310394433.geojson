@@ -1,0 +1,71 @@
+{
+  "id": 1310394433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25695,-27.04808,23.25695,-27.04808",
+    "geom:latitude":-27.04808,
+    "geom:longitude":23.25695,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maphiniki",
+    "gn:country_code":"ZA",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979127,
+    "gn:latitude":-27.04808,
+    "gn:longitude":23.25695,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maphiniki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maipenecke",
+        "Maphiniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":979127
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ba1d4bbc28f6ed0ce594c8b5a7ec9ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730591,
+            "locality_id":1310394433,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1310394433,
+    "wof:lastmodified":1537716405,
+    "wof:name":"Maphiniki",
+    "wof:parent_id":1108730591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25695,
+    -27.04808,
+    23.25695,
+    -27.04808
+],
+  "geometry": {"coordinates":[23.25695,-27.04808],"type":"Point"}
+}

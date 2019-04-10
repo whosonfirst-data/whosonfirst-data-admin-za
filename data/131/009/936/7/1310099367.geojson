@@ -1,0 +1,69 @@
+{
+  "id": 1310099367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64752,-25.96711,25.64752,-25.96711",
+    "geom:latitude":-25.96711,
+    "geom:longitude":25.64752,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW383",
+    "gn:asciiname":"KwaDithakong",
+    "gn:country_code":"ZA",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985960,
+    "gn:latitude":-25.96711,
+    "gn:longitude":25.64752,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaDithakong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":985960
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d72c80418cf653932c33587a1bf622cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1310099367,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1310099367,
+    "wof:lastmodified":1537004607,
+    "wof:name":"KwaDithakong",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64752,
+    -25.96711,
+    25.64752,
+    -25.96711
+],
+  "geometry": {"coordinates":[25.64752,-25.96711],"type":"Point"}
+}

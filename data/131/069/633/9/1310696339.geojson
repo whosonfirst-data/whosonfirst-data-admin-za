@@ -1,0 +1,69 @@
+{
+  "id": 1310696339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1,-24.85,27.1,-24.85",
+    "geom:latitude":-24.85,
+    "geom:longitude":27.1,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM361",
+    "gn:asciiname":"Pony",
+    "gn:country_code":"ZA",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":964554,
+    "gn:latitude":-24.85,
+    "gn:longitude":27.1,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pony",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":964554
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5eb93b5105ef2a184759368b367e2c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "locality_id":1310696339,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1310696339,
+    "wof:lastmodified":1536640726,
+    "wof:name":"Pony",
+    "wof:parent_id":1108730579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1,
+    -24.85,
+    27.1,
+    -24.85
+],
+  "geometry": {"coordinates":[27.1,-24.85],"type":"Point"}
+}

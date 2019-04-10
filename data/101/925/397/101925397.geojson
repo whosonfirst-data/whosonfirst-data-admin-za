@@ -1,0 +1,72 @@
+{
+  "id": 101925397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":735519.64747,
+    "geom:bbox":"28.5270957947,-25.6723461151,28.5363273621,-25.6622028351",
+    "geom:latitude":-25.667124,
+    "geom:longitude":28.531466,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.667202,
+    "lbl:longitude":28.531378,
+    "mps:latitude":-25.667202,
+    "mps:longitude":28.531378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lewzene Estates",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580501
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7c41861c219db47a0b9e02de0472f9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925397,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925397,
+    "wof:lastmodified":1500027704,
+    "wof:name":"Lewzene Estates",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52709579467773,
+    -25.6723461151123,
+    28.53632736206055,
+    -25.66220283508301
+],
+  "geometry": {"coordinates":[[[28.52709579467773,-25.66411972045898],[28.53448677062988,-25.66220283508301],[28.53632736206055,-25.66618728637695],[28.53374481201172,-25.67082405090332],[28.53289794921875,-25.6723461151123],[28.52828788757324,-25.67106056213379],[28.52763938903809,-25.6711483001709],[28.52709579467773,-25.66411972045898]]],"type":"Polygon"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 1125850759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8055,-34.0211,22.8055,-34.0211",
+    "geom:latitude":-34.0211,
+    "geom:longitude":22.8055,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.0211,
+    "lbl:longitude":22.8055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:dut_x_preferred":[
+        "Segdefield"
+    ],
+    "name:eng_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:ita_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30c3\u30b8\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "name:nob_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:nso_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:pol_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:rum_x_preferred":[
+        "Sedgefield"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0435\u0434\u0456\u043d\u0491\u0441\u0440\u0456\u0434\u0435"
+    ],
+    "name:vol_x_preferred":[
+        "Sedgefield"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":956754,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sedgefield",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":89,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":89,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":482591,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587272,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":956754,
+        "gp:id":1587272,
+        "qs_pg:id":482591,
+        "wd:id":"Q2465269"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293391,
+    "wof:geomhash":"6ac05d7890ff4b9afbabddd77d542591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "locality_id":1125850759,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125850759,
+    "wof:lastmodified":1514504525,
+    "wof:name":"Sedgefield",
+    "wof:parent_id":1108730621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8055,
+    -34.0211,
+    22.8055,
+    -34.0211
+],
+  "geometry": {"coordinates":[22.8055,-34.0211],"type":"Point"}
+}

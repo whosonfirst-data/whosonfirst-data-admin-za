@@ -1,0 +1,69 @@
+{
+  "id": 1326514565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,-23.56667,30.71667,-23.56667",
+    "geom:latitude":-23.56667,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM331",
+    "gn:asciiname":"Masokis",
+    "gn:country_code":"ZA",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978400,
+    "gn:latitude":-23.56667,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Masokis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978400
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"04df2ee7ce122a2543abdb24d171ce64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1326514565,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1326514565,
+    "wof:lastmodified":1537008844,
+    "wof:name":"Masokis",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    -23.56667,
+    30.71667,
+    -23.56667
+],
+  "geometry": {"coordinates":[30.71667,-23.56667],"type":"Point"}
+}

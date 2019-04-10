@@ -1,0 +1,78 @@
+{
+  "id": 1125853221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08864,-31.26311,27.08864,-31.26311",
+    "geom:latitude":-31.26311,
+    "geom:longitude":27.08864,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"FRM",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.26311,
+    "lbl:longitude":27.08864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"FRM",
+    "qs_pg:gn_id":8394283,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Bamboeshoek Farm",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":110066,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394283,
+        "qs_pg:id":110066
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293502,
+    "wof:geomhash":"9fc3bc1b9f206bdaf73ee0fe87123532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1125853221,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1125853221,
+    "wof:lastmodified":1509396075,
+    "wof:name":"Bamboeshoek Farm",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08864,
+    -31.26311,
+    27.08864,
+    -31.26311
+],
+  "geometry": {"coordinates":[27.08864,-31.26311],"type":"Point"}
+}

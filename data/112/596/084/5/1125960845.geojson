@@ -1,0 +1,110 @@
+{
+  "id": 1125960845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.15962,-25.56732,27.15962,-25.56732",
+    "geom:latitude":-25.56732,
+    "geom:longitude":27.15962,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.56732,
+    "lbl:longitude":27.15962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Phokeng"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0445\u043e\u043a\u0435\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Phokeng"
+    ],
+    "name:eng_x_preferred":[
+        "Phokeng"
+    ],
+    "name:nso_x_preferred":[
+        "Phokeng"
+    ],
+    "name:spa_x_preferred":[
+        "Phokeng"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0445\u043e\u043a\u0435\u043d\u0433"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":965441,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Phokeng",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"North-West",
+    "qs_pg:photos":588,
+    "qs_pg:photos_1k":119,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":588,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1250563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1586525,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"North-West",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965441,
+        "gp:id":1586525,
+        "qs_pg:id":1250563,
+        "wd:id":"Q3643140"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297791,
+    "wof:geomhash":"13496e5a6b5cf257688d7c578257733c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":1125960845,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1125960845,
+    "wof:lastmodified":1514504498,
+    "wof:name":"Phokeng",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15962,
+    -25.56732,
+    27.15962,
+    -25.56732
+],
+  "geometry": {"coordinates":[27.15962,-25.56732],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 101926751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1170609.013315,
+    "geom:bbox":"26.8111724854,-28.0067710876,26.8264694214,-27.9965229034",
+    "geom:latitude":-28.001697,
+    "geom:longitude":26.817567,
+    "iso:country":"ZA",
+    "lbl:latitude":-28.001528,
+    "lbl:longitude":26.816182,
+    "mps:latitude":-28.001528,
+    "mps:longitude":26.816182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bronville",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879816
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9c7183b0072b535486c8acaef337b20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":101926751,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":101926751,
+    "wof:lastmodified":1500027658,
+    "wof:name":"Bronville",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81117248535156,
+    -28.00677108764648,
+    26.82646942138672,
+    -27.99652290344238
+],
+  "geometry": {"coordinates":[[[26.81172561645508,-27.99652290344238],[26.81842803955078,-27.99700736999512],[26.82056999206543,-27.99939155578613],[26.82646942138672,-27.99987602233887],[26.825927734375,-28.00320816040039],[26.82109832763672,-28.00439071655273],[26.820556640625,-28.00677108764648],[26.81117248535156,-28.00556755065918],[26.81172561645508,-27.99652290344238]]],"type":"Polygon"}
+}

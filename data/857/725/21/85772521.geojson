@@ -1,0 +1,111 @@
+{
+  "id": 85772521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":162875.50026,
+    "geom:bbox":"18.4355630901,-34.0185184353,18.4420744457,-34.014844314",
+    "geom:latitude":-34.017031,
+    "geom:longitude":18.438882,
+    "gn:latitude":-34.02003,
+    "gn:longitude":18.43269,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.019565,
+    "lbl:longitude":18.434086,
+    "mps:latitude":-34.017017,
+    "mps:longitude":18.438882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Silverhurst"
+    ],
+    "name:unk_x_variant":[
+        "Silverhurst"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3369157,
+    "qs:gn_nam_loc":"Cape Town, Western Cape, ZA",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Silverhurst",
+    "qs:local_max":11807,
+    "qs:local_sum":75341,
+    "qs:localhoods":109,
+    "qs:name":"Silverhurst",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Western Cape",
+    "qs:name_adm2":"City of Cape Town",
+    "qs:name_lau":"Cape Town",
+    "qs:name_local":"Cape Town",
+    "qs:photo_max":14,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346987,
+    "qs:woe_adm2":56189455,
+    "qs:woe_lau":56189700,
+    "qs:woe_local":1591691,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361643,
+        "gp:id":1587490,
+        "qs:id":1300535,
+        "qs_pg:id":1300535
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"31688c1267156138a721874e09a851ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":85772521,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":85772521,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497312056,
+    "wof:name":"Silverhurst",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43556309012968,
+    -34.01851843525326,
+    18.44207444565546,
+    -34.01484431400095
+],
+  "geometry": {"coordinates":[[[18.44207444565546,-34.01668133410943],[18.44055175780011,-34.01851843525326],[18.43780517580024,-34.01851843392917],[18.43583958483254,-34.01851842812501],[18.43556309012968,-34.01685047764452],[18.43707644773309,-34.01624188969995],[18.44055175780011,-34.01484431400095],[18.44171019451733,-34.01624188970003],[18.44207444565546,-34.01668133410943]]],"type":"Polygon"}
+}

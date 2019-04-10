@@ -1,0 +1,73 @@
+{
+  "id": 1242685273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-26.83333,27.76667,-26.83333",
+    "geom:latitude":-26.83333,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC20",
+    "gn:admin3_code":"FS204",
+    "gn:asciiname":"Weltevrede",
+    "gn:country_code":"ZA",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":940807,
+    "gn:latitude":-26.83333,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Weltevrede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weltevreden",
+        "Weltevrede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":940807
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3030800b6a656dc02fe180ff172ed6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730537,
+            "locality_id":1242685273,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1242685273,
+    "wof:lastmodified":1537716369,
+    "wof:name":"Weltevrede",
+    "wof:parent_id":1108730537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -26.83333,
+    27.76667,
+    -26.83333
+],
+  "geometry": {"coordinates":[27.76667,-26.83333],"type":"Point"}
+}

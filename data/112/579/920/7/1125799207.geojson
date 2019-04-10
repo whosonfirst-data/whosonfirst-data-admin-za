@@ -1,0 +1,101 @@
+{
+  "id": 1125799207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.32701,-30.91414,30.32701,-30.91414",
+    "geom:latitude":-30.91414,
+    "geom:longitude":30.32701,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-30.91414,
+    "lbl:longitude":30.32701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Southbroom"
+    ],
+    "name:dut_x_preferred":[
+        "Southbroom"
+    ],
+    "name:eng_x_preferred":[
+        "Southbroom"
+    ],
+    "name:nso_x_preferred":[
+        "Southbroom"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":953979,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Southbroom",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Kwazulu Natal",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":271421,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Kwazulu Natal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":953979,
+        "gp:id":1587662,
+        "qs_pg:id":271421,
+        "wd:id":"Q143395"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497291187,
+    "wof:geomhash":"6e38d732d40386553d3b9cff5d94b133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "locality_id":1125799207,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1125799207,
+    "wof:lastmodified":1514504544,
+    "wof:name":"Southbroom",
+    "wof:parent_id":1108730549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32701,
+    -30.91414,
+    30.32701,
+    -30.91414
+],
+  "geometry": {"coordinates":[30.32701,-30.91414],"type":"Point"}
+}

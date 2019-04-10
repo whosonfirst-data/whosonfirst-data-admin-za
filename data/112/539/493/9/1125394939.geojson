@@ -1,0 +1,78 @@
+{
+  "id": 1125394939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48822,-23.94762,29.48822,-23.94762",
+    "geom:latitude":-23.94762,
+    "geom:longitude":29.48822,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":561772,
+    "gn:population":561772,
+    "iso:country":"ZA",
+    "lbl:latitude":-23.94762,
+    "lbl:longitude":29.48822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347623,
+    "qs_pg:gn_pop":561772,
+    "qs_pg:name":"Polokwane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":1042693,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347623,
+        "qs_pg:id":1042693
+    },
+    "wof:country":"ZA",
+    "wof:created":1497048949,
+    "wof:geomhash":"efff64fd3ebc9faa73808cb9d8538ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "localadmin_id":1125394939,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125394939,
+    "wof:lastmodified":1509389924,
+    "wof:name":"Polokwane",
+    "wof:parent_id":1108730577,
+    "wof:placetype":"localadmin",
+    "wof:population":561772,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48822,
+    -23.94762,
+    29.48822,
+    -23.94762
+],
+  "geometry": {"coordinates":[29.48822,-23.94762],"type":"Point"}
+}

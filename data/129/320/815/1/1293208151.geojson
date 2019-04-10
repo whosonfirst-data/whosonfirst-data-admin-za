@@ -1,0 +1,69 @@
+{
+  "id": 1293208151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16384,-29.21601,26.16384,-29.21601",
+    "geom:latitude":-29.21601,
+    "geom:longitude":26.16384,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Hope Valley",
+    "gn:country_code":"ZA",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":995501,
+    "gn:latitude":-29.21601,
+    "gn:longitude":26.16384,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Hope Valley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":995501
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"674e6f77fdc341b177ba11f5f679987b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1293208151,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1293208151,
+    "wof:lastmodified":1536692900,
+    "wof:name":"Hope Valley",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16384,
+    -29.21601,
+    26.16384,
+    -29.21601
+],
+  "geometry": {"coordinates":[26.16384,-29.21601],"type":"Point"}
+}

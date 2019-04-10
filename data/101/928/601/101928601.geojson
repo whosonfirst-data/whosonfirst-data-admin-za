@@ -1,0 +1,77 @@
+{
+  "id": 101928601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00019,
+    "geom:area_square_m":1997795.039549,
+    "geom:bbox":"28.5517997742,-31.5155601501,28.5778541565,-31.5001544952",
+    "geom:latitude":-31.507812,
+    "geom:longitude":28.563398,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.508391,
+    "lbl:longitude":28.563398,
+    "mps:latitude":-31.508391,
+    "mps:longitude":28.563398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ross Mission",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":959098,
+        "gp:id":1588424
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6cbb7d64d6159e57adef84dd48ebfa49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928601,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928601,
+    "wof:lastmodified":1534986009,
+    "wof:name":"Ross Mission",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615725
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55179977416992,
+    -31.51556015014648,
+    28.57785415649414,
+    -31.50015449523926
+],
+  "geometry": {"coordinates":[[[28.55480766296387,-31.50583457946777],[28.55521774291992,-31.50546646118164],[28.56111145019531,-31.50534629821777],[28.57132911682129,-31.501708984375],[28.57676124572754,-31.50015449523926],[28.57782363891602,-31.5004940032959],[28.57785415649414,-31.5015754699707],[28.57729339599609,-31.50411415100098],[28.56902503967285,-31.50969505310059],[28.55862617492676,-31.51441764831543],[28.55570793151855,-31.51556015014648],[28.55336380004883,-31.51452445983887],[28.55179977416992,-31.51130867004395],[28.55186653137207,-31.50607490539551],[28.55480766296387,-31.50583457946777]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276560939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0187,-29.67328,30.0187,-29.67328",
+    "geom:latitude":-29.67328,
+    "geom:longitude":30.0187,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN224",
+    "gn:asciiname":"Elandsriver",
+    "gn:country_code":"ZA",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1006030,
+    "gn:latitude":-29.67328,
+    "gn:longitude":30.0187,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Elandsriver",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1006030
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81636a514212d88a637d3ed20d155ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730551,
+            "locality_id":1276560939,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1276560939,
+    "wof:lastmodified":1536970704,
+    "wof:name":"Elandsriver",
+    "wof:parent_id":1108730551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0187,
+    -29.67328,
+    30.0187,
+    -29.67328
+],
+  "geometry": {"coordinates":[30.0187,-29.67328],"type":"Point"}
+}

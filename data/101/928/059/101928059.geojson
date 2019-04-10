@@ -1,0 +1,116 @@
+{
+  "id": 101928059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000334,
+    "geom:area_square_m":3449660.035466,
+    "geom:bbox":"23.47473526,-33.3054885864,23.5024414062,-33.277671814",
+    "geom:latitude":-33.291594,
+    "geom:longitude":23.491223,
+    "gn:population":7100,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.292693,
+    "lbl:longitude":23.492587,
+    "mps:latitude":-33.292693,
+    "mps:longitude":23.492587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Willowmore"
+    ],
+    "name:chi_x_preferred":[
+        "\u5a01\u6d1b\u83ab\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Willowmore"
+    ],
+    "name:eng_x_preferred":[
+        "Willowmore"
+    ],
+    "name:fre_x_preferred":[
+        "Willowmore"
+    ],
+    "name:ger_x_preferred":[
+        "Willowmore"
+    ],
+    "name:nno_x_preferred":[
+        "Willowmore"
+    ],
+    "name:nob_x_preferred":[
+        "Willowmore"
+    ],
+    "name:nso_x_preferred":[
+        "Willowmore"
+    ],
+    "name:rum_x_preferred":[
+        "Willowmore"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Willowmore",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-33.289722,
+    "wd:longitude":23.48,
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939676,
+        "gp:id":1588916,
+        "qs:id":276175,
+        "qs_pg:id":276175,
+        "wd:id":"Q827319",
+        "wk:page":"Willowmore"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e7f5ca3578ccb5045564654018d62f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730515,
+            "locality_id":101928059,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928059,
+    "wof:lastmodified":1527715923,
+    "wof:name":"Willowmore",
+    "wof:parent_id":1108730515,
+    "wof:placetype":"locality",
+    "wof:population":7100,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47473526000977,
+    -33.30548858642578,
+    23.50244140625,
+    -33.27767181396484
+],
+  "geometry": {"coordinates":[[[23.48928260803223,-33.28280639648438],[23.4891242980957,-33.27885437011719],[23.50244140625,-33.27767181396484],[23.495849609375,-33.30158615112305],[23.49188232421875,-33.30184936523438],[23.48372268676758,-33.30219650268555],[23.47473526000977,-33.30548858642578],[23.47574615478516,-33.30240631103516],[23.48387145996094,-33.29455947875977],[23.48746871948242,-33.29108810424805],[23.48928260803223,-33.28280639648438]]],"type":"Polygon"}
+}

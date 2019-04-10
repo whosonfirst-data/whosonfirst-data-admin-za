@@ -1,0 +1,67 @@
+{
+  "id": 1310584943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.22572,-25.38097,28.22572,-25.38097",
+    "geom:latitude":-25.38097,
+    "geom:longitude":28.22572,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Suurman",
+    "gn:country_code":"ZA",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951212,
+    "gn:latitude":-25.38097,
+    "gn:longitude":28.22572,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Suurman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951212
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4e8c48c5d200c1caaeb6051972c232a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1310584943,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1310584943,
+    "wof:lastmodified":1536802374,
+    "wof:name":"Suurman",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.22572000000001,
+    -25.38097,
+    28.22572000000001,
+    -25.38097
+],
+  "geometry": {"coordinates":[28.22572000000001,-25.38097],"type":"Point"}
+}

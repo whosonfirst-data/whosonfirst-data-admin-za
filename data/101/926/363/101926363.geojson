@@ -1,0 +1,79 @@
+{
+  "id": 101926363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":558684.746566,
+    "geom:bbox":"28.0384922028,-26.6052799225,28.0502624512,-26.5966281891",
+    "geom:latitude":-26.600711,
+    "geom:longitude":28.044177,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.600669,
+    "lbl:longitude":28.044177,
+    "mps:latitude":-26.600669,
+    "mps:longitude":28.044177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Riversdaie"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Riversdale",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961152,
+        "gp:id":1586917,
+        "qs_pg:id":130211
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2b2711ef03ecf7a17f049d69ba01a10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730541,
+            "locality_id":101926363,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101926363,
+    "wof:lastmodified":1497292254,
+    "wof:name":"Riversdale",
+    "wof:parent_id":1108730541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03849220275879,
+    -26.60527992248535,
+    28.05026245117188,
+    -26.59662818908691
+],
+  "geometry": {"coordinates":[[[28.04418563842773,-26.59662818908691],[28.05026245117188,-26.59973335266113],[28.04347038269043,-26.60527992248535],[28.0424747467041,-26.60438537597656],[28.03849220275879,-26.60080909729004],[28.04418563842773,-26.59662818908691]]],"type":"Polygon"}
+}

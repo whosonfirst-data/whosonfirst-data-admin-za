@@ -1,0 +1,69 @@
+{
+  "id": 1327222165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86415,-34.1208,18.86415,-34.1208",
+    "geom:latitude":-34.1208,
+    "geom:longitude":18.86415,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Lwandle",
+    "gn:country_code":"ZA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204399,
+    "gn:latitude":-34.1208,
+    "gn:longitude":18.86415,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Lwandle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204399
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4b73c48775342c86aede3e7119b89ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1327222165,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1327222165,
+    "wof:lastmodified":1536983648,
+    "wof:name":"Lwandle",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86415,
+    -34.1208,
+    18.86415,
+    -34.1208
+],
+  "geometry": {"coordinates":[18.86415,-34.1208],"type":"Point"}
+}

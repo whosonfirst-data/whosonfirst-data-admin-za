@@ -1,0 +1,69 @@
+{
+  "id": 1242957545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95646,-23.9636,30.95646,-23.9636",
+    "geom:latitude":-23.9636,
+    "geom:longitude":30.95646,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC33",
+    "gn:admin3_code":"LIM334",
+    "gn:asciiname":"Ga-Mashishimale",
+    "gn:country_code":"ZA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468848,
+    "gn:latitude":-23.9636,
+    "gn:longitude":30.95646,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ga-Mashishimale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468848
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1c6002077e4880228b219052f174eb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730573,
+            "locality_id":1242957545,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1242957545,
+    "wof:lastmodified":1537012765,
+    "wof:name":"Ga-Mashishimale",
+    "wof:parent_id":1108730573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95646,
+    -23.9636,
+    30.95646,
+    -23.9636
+],
+  "geometry": {"coordinates":[30.95646,-23.9636],"type":"Point"}
+}

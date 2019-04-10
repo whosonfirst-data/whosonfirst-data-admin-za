@@ -1,0 +1,69 @@
+{
+  "id": 1326652935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32905,-32.825,27.32905,-32.825",
+    "geom:latitude":-32.825,
+    "geom:longitude":27.32905,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"BUF",
+    "gn:admin3_code":"BUF",
+    "gn:asciiname":"KwaMdingi",
+    "gn:country_code":"ZA",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352113,
+    "gn:latitude":-32.825,
+    "gn:longitude":27.32905,
+    "gn:modification_date":"2016-11-28",
+    "gn:name":"KwaMdingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352113
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6ea9f81006ea54440e54c13ea5ca49d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":1326652935,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1326652935,
+    "wof:lastmodified":1536809606,
+    "wof:name":"KwaMdingi",
+    "wof:parent_id":1108730513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32905,
+    -32.825,
+    27.32905,
+    -32.825
+],
+  "geometry": {"coordinates":[27.32905,-32.825],"type":"Point"}
+}

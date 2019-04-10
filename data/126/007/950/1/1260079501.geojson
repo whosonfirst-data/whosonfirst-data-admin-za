@@ -1,0 +1,69 @@
+{
+  "id": 1260079501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86258,-31.10436,26.86258,-31.10436",
+    "geom:latitude":-31.10436,
+    "geom:longitude":26.86258,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Witbank (1)",
+    "gn:country_code":"ZA",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":939262,
+    "gn:latitude":-31.10436,
+    "gn:longitude":26.86258,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Witbank (1)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":939262
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5c7878cff1c6db9d1d3c6db79a9ce80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1260079501,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1260079501,
+    "wof:lastmodified":1536992934,
+    "wof:name":"Witbank (1)",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86258,
+    -31.10436,
+    26.86258,
+    -31.10436
+],
+  "geometry": {"coordinates":[26.86258,-31.10436],"type":"Point"}
+}

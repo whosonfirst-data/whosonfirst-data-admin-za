@@ -1,0 +1,69 @@
+{
+  "id": 1276962851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,-25.95,25.38333,-25.95",
+    "geom:latitude":-25.95,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Heathview",
+    "gn:country_code":"ZA",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997232,
+    "gn:latitude":-25.95,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Heathview",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997232
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81ca24e9df1ed826c408747f09d612e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730605,
+            "locality_id":1276962851,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":1276962851,
+    "wof:lastmodified":1536930869,
+    "wof:name":"Heathview",
+    "wof:parent_id":1108730605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    -25.95,
+    25.38333,
+    -25.95
+],
+  "geometry": {"coordinates":[25.38333,-25.95],"type":"Point"}
+}

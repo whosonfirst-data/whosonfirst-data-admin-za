@@ -1,0 +1,67 @@
+{
+  "id": 1259402667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51667,-28.88333,18.51667,-28.88333",
+    "geom:latitude":-28.88333,
+    "geom:longitude":18.51667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Houniams",
+    "gn:country_code":"ZA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3366643,
+    "gn:latitude":-28.88333,
+    "gn:longitude":18.51667,
+    "gn:modification_date":"2004-11-03",
+    "gn:name":"Houniams",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3366643
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"359a9c1672c931b3f380115a2c1b09b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":1259402667,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1259402667,
+    "wof:lastmodified":1536974351,
+    "wof:name":"Houniams",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51667,
+    -28.88333,
+    18.51667,
+    -28.88333
+],
+  "geometry": {"coordinates":[18.51667,-28.88333],"type":"Point"}
+}

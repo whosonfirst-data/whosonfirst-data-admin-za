@@ -1,0 +1,74 @@
+{
+  "id": 1344164579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54872,-28.84589,25.54872,-28.84589",
+    "geom:latitude":-28.84589,
+    "geom:longitude":25.54872,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"DC18",
+    "gn:admin3_code":"FS182",
+    "gn:asciiname":"Wolwedrift",
+    "gn:country_code":"ZA",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":938344,
+    "gn:latitude":-28.84589,
+    "gn:longitude":25.54872,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Wolwedrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolwespruit",
+        "Wolvenspruit",
+        "Wolwedrift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":938344
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"42b93cb8a72914ac345997f9d8d919d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730533,
+            "locality_id":1344164579,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1344164579,
+    "wof:lastmodified":1537716368,
+    "wof:name":"Wolwedrift",
+    "wof:parent_id":1108730533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54872,
+    -28.84589,
+    25.54872,
+    -28.84589
+],
+  "geometry": {"coordinates":[25.54872,-28.84589],"type":"Point"}
+}

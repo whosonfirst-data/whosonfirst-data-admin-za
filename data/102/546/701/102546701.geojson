@@ -1,0 +1,66 @@
+{
+  "id": 102546701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1733333333,-25.3336111111,27.1733333333,-25.3336111111",
+    "geom:latitude":-25.333611,
+    "geom:longitude":27.173333,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3412",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189432,
+        "localadmin_id":56189484,
+        "planet_id":1,
+        "state_id":2346984
+    },
+    "wof:belongsto":[
+        85633813,
+        85688931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517462,
+        "iata:code":"NTY",
+        "icao:code":"FAPN",
+        "oa:id":"2826",
+        "wd:id":"Q2233125"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"8403d59f00d40f11b63a57d0b4c82c49",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546701,
+            "country_id":85633813,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":102546701,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Pilanesberg Airport",
+    "wof:parent_id":85688931,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.173333333333,
+    -25.333611111111,
+    27.173333333333,
+    -25.333611111111
+],
+  "geometry": {"coordinates":[27.173333333333,-25.333611111111],"type":"Point"}
+}

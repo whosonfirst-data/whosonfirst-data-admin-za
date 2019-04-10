@@ -1,0 +1,132 @@
+{
+  "id": 101926545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000181,
+    "geom:area_square_m":1994975.318511,
+    "geom:bbox":"29.2236652374,-26.9683303833,29.2408409119,-26.9470977783",
+    "geom:latitude":-26.957365,
+    "geom:longitude":29.231199,
+    "gn:population":74021,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.957502,
+    "lbl:longitude":29.230353,
+    "mps:latitude":-26.957502,
+    "mps:longitude":29.230353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Standerton"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u0646\u062f\u064a\u0631\u062a\u0648\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u5766\u5fb7\u9813"
+    ],
+    "name:dut_x_preferred":[
+        "Standerton"
+    ],
+    "name:eng_x_preferred":[
+        "Standerton"
+    ],
+    "name:fre_x_preferred":[
+        "Standerton"
+    ],
+    "name:ger_x_preferred":[
+        "Standerton"
+    ],
+    "name:ita_x_preferred":[
+        "Standerton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30f3\u30c0\u30fc\u30c8\u30f3"
+    ],
+    "name:nso_x_preferred":[
+        "Standerton"
+    ],
+    "name:por_x_preferred":[
+        "Standerton"
+    ],
+    "name:rum_x_preferred":[
+        "Standerton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0434\u0435\u0440\u0442\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Standerton"
+    ],
+    "name:swe_x_preferred":[
+        "Standerton"
+    ],
+    "name:unk_x_variant":[
+        "Standerston"
+    ],
+    "name:ven_x_preferred":[
+        "Standerton"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Standerton",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-26.95,
+    "wd:longitude":29.25,
+    "wd:wordcount":625,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":952747,
+        "wd:id":"Q742514",
+        "wk:page":"Standerton"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81034f62f795da153cd6afd34a7ad9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926545,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926545,
+    "wof:lastmodified":1527715815,
+    "wof:name":"Standerton",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:population":74021,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.22366523742676,
+    -26.96833038330078,
+    29.24084091186523,
+    -26.94709777832031
+],
+  "geometry": {"coordinates":[[[29.22366523742676,-26.95496940612793],[29.22745513916016,-26.95290184020996],[29.2243480682373,-26.94899749755859],[29.22477340698242,-26.94709777832031],[29.2255973815918,-26.9473705291748],[29.22683525085449,-26.94772529602051],[29.22808647155762,-26.94803619384766],[29.22935104370117,-26.94829940795898],[29.23062705993652,-26.94851493835449],[29.23191261291504,-26.94868278503418],[29.23320579528809,-26.94880294799805],[29.23450088500977,-26.94887351989746],[29.2353572845459,-26.94888877868652],[29.23498725891113,-26.95682144165039],[29.23516273498535,-26.95794105529785],[29.23557090759277,-26.95901107788086],[29.2361946105957,-26.95999145507812],[29.23701286315918,-26.96085166931152],[29.23799705505371,-26.96155738830566],[29.23911094665527,-26.96208572387695],[29.24031639099121,-26.96241760253906],[29.24084091186523,-26.96246910095215],[29.23233413696289,-26.96833038330078],[29.22699737548828,-26.96139335632324],[29.22366523742676,-26.95496940612793]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277079005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20289,-30.81855,29.20289,-30.81855",
+    "geom:latitude":-30.81855,
+    "geom:longitude":29.20289,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC442",
+    "gn:asciiname":"Sugarbush",
+    "gn:country_code":"ZA",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":951592,
+    "gn:latitude":-30.81855,
+    "gn:longitude":29.20289,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Sugarbush",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suger Bush",
+        "Sugarbush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":951592
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"d8ceae0c96c2316c942915f28be02b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730525,
+            "locality_id":1277079005,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1277079005,
+    "wof:lastmodified":1537716377,
+    "wof:name":"Sugarbush",
+    "wof:parent_id":1108730525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20289,
+    -30.81855,
+    29.20289,
+    -30.81855
+],
+  "geometry": {"coordinates":[29.20289,-30.81855],"type":"Point"}
+}

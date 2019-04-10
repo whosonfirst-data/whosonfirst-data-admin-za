@@ -1,0 +1,70 @@
+{
+  "id": 1242790819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48211,-28.78052,31.48211,-28.78052",
+    "geom:latitude":-28.78052,
+    "geom:longitude":31.48211,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC28",
+    "gn:admin3_code":"KZN284",
+    "gn:asciiname":"Shakaland",
+    "gn:country_code":"ZA",
+    "gn:dem":302,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11054655,
+    "gn:latitude":-28.78052,
+    "gn:longitude":31.48211,
+    "gn:modification_date":"2016-02-01",
+    "gn:name":"Shakaland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054655
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"9f751dd7795e30439dccb746b6b25931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730563,
+            "locality_id":1242790819,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1242790819,
+    "wof:lastmodified":1536756546,
+    "wof:name":"Shakaland",
+    "wof:parent_id":1108730563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48211,
+    -28.78052000000001,
+    31.48211,
+    -28.78052000000001
+],
+  "geometry": {"coordinates":[31.48211,-28.78052000000001],"type":"Point"}
+}

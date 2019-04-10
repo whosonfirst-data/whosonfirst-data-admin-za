@@ -1,0 +1,78 @@
+{
+  "id": 1125271483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30791,-27.69593,21.30791,-27.69593",
+    "geom:latitude":-27.69593,
+    "geom:longitude":21.30791,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":100920,
+    "gn:population":100920,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.69593,
+    "lbl:longitude":21.30791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347537,
+    "qs_pg:gn_pop":100920,
+    "qs_pg:name":"//Khara Hais",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":764962,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347537,
+        "qs_pg:id":764962
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042146,
+    "wof:geomhash":"cb33685ff5fa72499d172043796f7a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730597,
+            "localadmin_id":1125271483,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":1125271483,
+    "wof:lastmodified":1509387036,
+    "wof:name":"//Khara Hais",
+    "wof:parent_id":1108730597,
+    "wof:placetype":"localadmin",
+    "wof:population":100920,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30791,
+    -27.69593,
+    21.30791,
+    -27.69593
+],
+  "geometry": {"coordinates":[21.30791,-27.69593],"type":"Point"}
+}

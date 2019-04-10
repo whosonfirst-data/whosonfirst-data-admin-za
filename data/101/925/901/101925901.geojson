@@ -1,0 +1,101 @@
+{
+  "id": 101925901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":1066449.22643,
+    "geom:bbox":"28.0588092804,-26.2223701477,28.0800876617,-26.2133197784",
+    "geom:latitude":-26.217027,
+    "geom:longitude":28.068567,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.217637,
+    "lbl:longitude":28.068405,
+    "mps:latitude":-26.217637,
+    "mps:longitude":28.068405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:dut_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:eng_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:fre_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:ger_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30eb\u30d6\u30ed\u30a6"
+    ],
+    "name:nob_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043b\u043b\u0431\u0440\u043e\u0443"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hillbrow",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-26.188889,
+    "wd:longitude":28.048889,
+    "wd:wordcount":1164,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996515,
+        "wd:id":"Q3132723",
+        "wk:page":"Hillbrow"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"be9b0fc65854f3ec903037a8d4a737df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":101925901,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":101925901,
+    "wof:lastmodified":1527688519,
+    "wof:name":"Hillbrow",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05880928039551,
+    -26.22237014770508,
+    28.08008766174316,
+    -26.21331977844238
+],
+  "geometry": {"coordinates":[[[28.06577682495117,-26.21331977844238],[28.0766544342041,-26.21621131896973],[28.07977676391602,-26.21679306030273],[28.08008766174316,-26.21840476989746],[28.07955169677734,-26.21829605102539],[28.07867240905762,-26.21811676025391],[28.06972122192383,-26.22084045410156],[28.06868743896484,-26.22237014770508],[28.06673622131348,-26.22134399414062],[28.06485748291016,-26.21889877319336],[28.0594310760498,-26.21607780456543],[28.05880928039551,-26.21346855163574],[28.06577682495117,-26.21331977844238]]],"type":"Polygon"}
+}

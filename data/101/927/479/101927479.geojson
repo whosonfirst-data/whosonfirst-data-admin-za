@@ -1,0 +1,90 @@
+{
+  "id": 101927479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000016,
+    "geom:area_square_m":179994.722303,
+    "geom:bbox":"31.0012950897,-27.7185211182,31.0091533661,-27.7137832642",
+    "geom:latitude":-27.716076,
+    "geom:longitude":31.005208,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.716158,
+    "lbl:longitude":31.005207,
+    "mps:latitude":-27.716158,
+    "mps:longitude":31.005207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Hlobane"
+    ],
+    "name:dut_x_preferred":[
+        "Hlobane"
+    ],
+    "name:eng_x_preferred":[
+        "Hlobane"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hlobane",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-27.71,
+    "wd:longitude":30.999,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":996289,
+        "gp:id":1582275,
+        "wd:id":"Q15224305"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"ac6131153a23a26de1cde0671a5bbfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "locality_id":101927479,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927479,
+    "wof:lastmodified":1534985997,
+    "wof:name":"Hlobane",
+    "wof:parent_id":1108730559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1175615445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00129508972168,
+    -27.71852111816406,
+    31.00915336608887,
+    -27.71378326416016
+],
+  "geometry": {"coordinates":[[[31.00230979919434,-27.71378326416016],[31.00915336608887,-27.71626472473145],[31.00712585449219,-27.71852111816406],[31.00129508972168,-27.71536254882812],[31.00230979919434,-27.71378326416016]]],"type":"Polygon"}
+}

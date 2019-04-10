@@ -1,0 +1,72 @@
+{
+  "id": 101925097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":804604.605577,
+    "geom:bbox":"26.4808330536,-25.2625751495,26.4906272888,-25.2504405975",
+    "geom:latitude":-25.256338,
+    "geom:longitude":26.485697,
+    "iso:country":"ZA",
+    "lbl:latitude":-25.256383,
+    "lbl:longitude":26.485603,
+    "mps:latitude":-25.256383,
+    "mps:longitude":26.485603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tshwaro",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1584183
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0e99dd19fed3476fc0230684466a257c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "locality_id":101925097,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":101925097,
+    "wof:lastmodified":1500028271,
+    "wof:name":"Tshwaro",
+    "wof:parent_id":1108730603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48083305358887,
+    -25.26257514953613,
+    26.49062728881836,
+    -25.25044059753418
+],
+  "geometry": {"coordinates":[[[26.49062728881836,-25.25371170043945],[26.48811149597168,-25.26257514953613],[26.48083305358887,-25.25857353210449],[26.48295974731445,-25.25044059753418],[26.49062728881836,-25.25371170043945]]],"type":"Polygon"}
+}

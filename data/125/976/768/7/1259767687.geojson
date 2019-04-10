@@ -1,0 +1,69 @@
+{
+  "id": 1259767687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8839,-23.13485,29.8839,-23.13485",
+    "geom:latitude":-23.13485,
+    "geom:longitude":29.8839,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC34",
+    "gn:admin3_code":"LIM344",
+    "gn:asciiname":"Uitsig",
+    "gn:country_code":"ZA",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":946558,
+    "gn:latitude":-23.13485,
+    "gn:longitude":29.8839,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Uitsig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":946558
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"87805b1c01110b7122b031d99cba1400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":1259767687,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1259767687,
+    "wof:lastmodified":1536946326,
+    "wof:name":"Uitsig",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8839,
+    -23.13485,
+    29.8839,
+    -23.13485
+],
+  "geometry": {"coordinates":[29.8839,-23.13485],"type":"Point"}
+}

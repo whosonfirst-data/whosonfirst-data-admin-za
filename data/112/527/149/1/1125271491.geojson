@@ -1,0 +1,78 @@
+{
+  "id": 1125271491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74654,-32.27711,22.74654,-32.27711",
+    "geom:latitude":-32.27711,
+    "geom:longitude":22.74654,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":37090,
+    "gn:population":37090,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.27711,
+    "lbl:longitude":22.74654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347538,
+    "qs_pg:gn_pop":37090,
+    "qs_pg:name":"Beaufort West",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":764963,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347538,
+        "qs_pg:id":764963
+    },
+    "wof:country":"ZA",
+    "wof:created":1497042146,
+    "wof:geomhash":"3fc2af3d366cfa4d1ba5d996442d94b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730623,
+            "localadmin_id":1125271491,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125271491,
+    "wof:lastmodified":1509387036,
+    "wof:name":"Beaufort West",
+    "wof:parent_id":1108730623,
+    "wof:placetype":"localadmin",
+    "wof:population":37090,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74654,
+    -32.27711,
+    22.74654,
+    -32.27711
+],
+  "geometry": {"coordinates":[22.74654,-32.27711],"type":"Point"}
+}

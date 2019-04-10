@@ -1,0 +1,69 @@
+{
+  "id": 1326451497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78523,-26.80783,28.78523,-26.80783",
+    "geom:latitude":-26.80783,
+    "geom:longitude":28.78523,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC30",
+    "gn:admin3_code":"MP306",
+    "gn:asciiname":"Pelgrims Rust",
+    "gn:country_code":"ZA",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":965965,
+    "gn:latitude":-26.80783,
+    "gn:longitude":28.78523,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Pelgrims Rust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":965965
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7daf514e16c678d028e2db4aab95a37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":1326451497,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":1326451497,
+    "wof:lastmodified":1536600225,
+    "wof:name":"Pelgrims Rust",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78523,
+    -26.80783,
+    28.78523,
+    -26.80783
+],
+  "geometry": {"coordinates":[28.78523,-26.80783],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209219335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46841,-30.61359,28.46841,-30.61359",
+    "geom:latitude":-30.61359,
+    "geom:longitude":28.46841,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC141",
+    "gn:asciiname":"Ha-Qhadi",
+    "gn:country_code":"ZA",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997920,
+    "gn:latitude":-30.61359,
+    "gn:longitude":28.46841,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ha-Qhadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997920
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"72b673034ad4109446d87b1ff631ccb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209219335
+        }
+    ],
+    "wof:id":1209219335,
+    "wof:lastmodified":1536294018,
+    "wof:name":"Ha-Qhadi",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46841,
+    -30.61359,
+    28.46841,
+    -30.61359
+],
+  "geometry": {"coordinates":[28.46841,-30.61359],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125423433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33669,-24.90185,29.33669,-24.90185",
+    "geom:latitude":-24.90185,
+    "geom:longitude":29.33669,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":124510,
+    "gn:population":124510,
+    "iso:country":"ZA",
+    "lbl:latitude":-24.90185,
+    "lbl:longitude":29.33669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8347555,
+    "qs_pg:gn_pop":124510,
+    "qs_pg:name":"Ephraim Mogale",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":109960,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347555,
+        "qs_pg:id":109960
+    },
+    "wof:country":"ZA",
+    "wof:created":1497052691,
+    "wof:geomhash":"0784013f5bbe395ba60ac094373813e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "localadmin_id":1125423433,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":1125423433,
+    "wof:lastmodified":1509390541,
+    "wof:name":"Ephraim Mogale",
+    "wof:parent_id":1108730581,
+    "wof:placetype":"localadmin",
+    "wof:population":124510,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33669,
+    -24.90185,
+    29.33669,
+    -24.90185
+],
+  "geometry": {"coordinates":[29.33669,-24.90185],"type":"Point"}
+}

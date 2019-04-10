@@ -1,0 +1,104 @@
+{
+  "id": 1125821859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3839,-34.61222,19.3839,-34.61222",
+    "geom:latitude":-34.61222,
+    "geom:longitude":19.3839,
+    "gn:gn_country":"ZA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ZA",
+    "lbl:latitude":-34.61222,
+    "lbl:longitude":19.3839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Franskraalstrand"
+    ],
+    "name:dut_x_preferred":[
+        "Franskraalstrand"
+    ],
+    "name:eng_x_preferred":[
+        "Franskraalstrand"
+    ],
+    "name:nso_x_preferred":[
+        "Franskraalstrand"
+    ],
+    "name:unk_x_variant":[
+        "Franskraal"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3367867,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Franskraalstrand",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":167,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":167,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168157,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581334,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3367867,
+        "gp:id":1581334,
+        "qs_pg:id":1168157,
+        "wd:id":"Q3642615"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497292105,
+    "wof:geomhash":"132c1f39e4cddbdc4fe1e178175f4063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125821859,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125821859,
+    "wof:lastmodified":1514503875,
+    "wof:name":"Franskraalstrand",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3839,
+    -34.61222,
+    19.3839,
+    -34.61222
+],
+  "geometry": {"coordinates":[19.3839,-34.61222],"type":"Point"}
+}

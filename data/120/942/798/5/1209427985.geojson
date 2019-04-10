@@ -1,0 +1,63 @@
+{
+  "id": 1209427985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79861,-29.25458,30.79861,-29.25458",
+    "geom:latitude":-29.25458,
+    "geom:longitude":30.79861,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC22",
+    "gn:admin3_code":"KZN221",
+    "gn:asciiname":"Mount Elias",
+    "gn:country_code":"ZA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":973533,
+    "gn:latitude":-29.25458,
+    "gn:longitude":30.79861,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mount Elias",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973533
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f232ffcb1c393a59584ed47697a272b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209427985
+        }
+    ],
+    "wof:id":1209427985,
+    "wof:lastmodified":1536287322,
+    "wof:name":"Mount Elias",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79861,
+    -29.25458,
+    30.79861,
+    -29.25458
+],
+  "geometry": {"coordinates":[30.79861,-29.25458],"type":"Point"}
+}

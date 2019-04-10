@@ -1,0 +1,73 @@
+{
+  "id": 101928269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:area_square_m":2031424.059616,
+    "geom:bbox":"28.5502185822,-30.5220508575,28.5831737518,-30.5051994324",
+    "geom:latitude":-30.513858,
+    "geom:longitude":28.567789,
+    "geonames:id":"990841,990842",
+    "iso:country":"ZA",
+    "lbl:latitude":-30.51768,
+    "lbl:longitude":28.574655,
+    "mps:latitude":-30.51768,
+    "mps:longitude":28.574655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kinira Poort",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1582823
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"f1e2c634045c9cc0a8ccc2273247c756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":101928269,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928269,
+    "wof:lastmodified":1500027898,
+    "wof:name":"Kinira Poort",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55021858215332,
+    -30.52205085754395,
+    28.58317375183105,
+    -30.50519943237305
+],
+  "geometry": {"coordinates":[[[28.55021858215332,-30.5056209564209],[28.55238151550293,-30.50519943237305],[28.55892944335938,-30.50619506835938],[28.56005096435547,-30.50527000427246],[28.56159973144531,-30.50839996337891],[28.56550979614258,-30.5083179473877],[28.56651306152344,-30.51319122314453],[28.57171821594238,-30.51270866394043],[28.57697486877441,-30.51410484313965],[28.58223152160645,-30.51550102233887],[28.58317375183105,-30.51811790466309],[28.58021354675293,-30.52119064331055],[28.57715034484863,-30.5205020904541],[28.57501983642578,-30.52205085754395],[28.57281494140625,-30.52096748352051],[28.57012557983398,-30.51801109313965],[28.56532287597656,-30.51735687255859],[28.55912590026855,-30.51334381103516],[28.55021858215332,-30.5056209564209]]],"type":"Polygon"}
+}

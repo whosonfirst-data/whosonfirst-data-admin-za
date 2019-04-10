@@ -1,0 +1,68 @@
+{
+  "id": 1209210647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71667,-28.71667,22.71667,-28.71667",
+    "geom:latitude":-28.71667,
+    "geom:longitude":22.71667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"DC7",
+    "gn:admin3_code":"NC078",
+    "gn:asciiname":"Matsap",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978028,
+    "gn:latitude":-28.71667,
+    "gn:longitude":22.71667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Matsap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matzap",
+        "Matsap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":978028
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"0338de52a242c90c55cba4d26977988d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209210647
+        }
+    ],
+    "wof:id":1209210647,
+    "wof:lastmodified":1537716404,
+    "wof:name":"Matsap",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71667,
+    -28.71667,
+    22.71667,
+    -28.71667
+],
+  "geometry": {"coordinates":[22.71667,-28.71667],"type":"Point"}
+}

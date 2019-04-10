@@ -1,0 +1,63 @@
+{
+  "id": 1209101907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69172,-24.0627,29.69172,-24.0627",
+    "geom:latitude":-24.0627,
+    "geom:longitude":29.69172,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Dithupaneng",
+    "gn:country_code":"ZA",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009739,
+    "gn:latitude":-24.0627,
+    "gn:longitude":29.69172,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dithupaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1009739
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5261f7308f47cf78d0f3f0d475864891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209101907
+        }
+    ],
+    "wof:id":1209101907,
+    "wof:lastmodified":1536297705,
+    "wof:name":"Dithupaneng",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69172,
+    -24.0627,
+    29.69172,
+    -24.0627
+],
+  "geometry": {"coordinates":[29.69172,-24.0627],"type":"Point"}
+}

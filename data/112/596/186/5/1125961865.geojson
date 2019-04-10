@@ -1,0 +1,126 @@
+{
+  "id": 1125961865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.891506,-32.178421,18.891506,-32.178421",
+    "geom:latitude":-32.178421,
+    "geom:longitude":18.891506,
+    "gn:gn_country":null,
+    "iso:country":"ZA",
+    "lbl:latitude":-32.178421,
+    "lbl:longitude":18.891506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u862d\u5a01\u5ec9"
+    ],
+    "name:dut_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:eng_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:fre_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:ger_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:ita_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30f3\u30a6\u30a3\u30ea\u30a2\u30e0"
+    ],
+    "name:nno_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:nob_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:nso_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:rum_x_preferred":[
+        "Clanwilliam"
+    ],
+    "name:ven_x_preferred":[
+        "Clanwilliam"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Clanwilliam",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":307,
+    "qs_pg:photos_1k":62,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":307,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118627,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1580368,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580368,
+        "qs_pg:id":1118627,
+        "wd:id":"Q1025657"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497297828,
+    "wof:geomhash":"7e45321df56ea602dcdebb43fec0e6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730613,
+            "locality_id":1125961865,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125961865,
+    "wof:lastmodified":1534379834,
+    "wof:name":"Clanwilliam",
+    "wof:parent_id":1108730613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[
+        1125780171
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.891506,
+    -32.178421,
+    18.891506,
+    -32.178421
+],
+  "geometry": {"coordinates":[18.891506,-32.178421],"type":"Point"}
+}

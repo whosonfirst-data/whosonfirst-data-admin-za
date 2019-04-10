@@ -1,0 +1,72 @@
+{
+  "id": 101927491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":1336421.265382,
+    "geom:bbox":"30.105255127,-27.7518463135,30.1142883301,-27.7295303345",
+    "geom:latitude":-27.740668,
+    "geom:longitude":30.109808,
+    "iso:country":"ZA",
+    "lbl:latitude":-27.741572,
+    "lbl:longitude":30.109722,
+    "mps:latitude":-27.741572,
+    "mps:longitude":30.109722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Massondale",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56189504
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"c962edb86488fc46103c66613b1009f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730557,
+            "locality_id":101927491,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":101927491,
+    "wof:lastmodified":1500027509,
+    "wof:name":"Massondale",
+    "wof:parent_id":1108730557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10525512695312,
+    -27.75184631347656,
+    30.11428833007812,
+    -27.72953033447266
+],
+  "geometry": {"coordinates":[[[30.10713195800781,-27.73898124694824],[30.10739517211914,-27.73785400390625],[30.10920524597168,-27.73358154296875],[30.10948371887207,-27.73064994812012],[30.11050796508789,-27.72953033447266],[30.11278915405273,-27.72954559326172],[30.11428833007812,-27.73203659057617],[30.11373519897461,-27.73744583129883],[30.11318397521973,-27.74285697937012],[30.11087036132812,-27.74645042419434],[30.10982704162598,-27.75005149841309],[30.10828971862793,-27.75184631347656],[30.10676956176758,-27.7518367767334],[30.10525512695312,-27.75092315673828],[30.10579490661621,-27.74709320068359],[30.1055736541748,-27.74325561523438],[30.10636138916016,-27.74010276794434],[30.10713195800781,-27.73898124694824]]],"type":"Polygon"}
+}

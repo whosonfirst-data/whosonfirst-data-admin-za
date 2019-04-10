@@ -1,0 +1,73 @@
+{
+  "id": 101928675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0004,
+    "geom:area_square_m":4214214.186332,
+    "geom:bbox":"27.0781860352,-31.6089458466,27.1122016907,-31.5846042633",
+    "geom:latitude":-31.596368,
+    "geom:longitude":27.095411,
+    "geonames:id":"975589,975590",
+    "iso:country":"ZA",
+    "lbl:latitude":-31.594196,
+    "lbl:longitude":27.095154,
+    "mps:latitude":-31.594196,
+    "mps:longitude":27.095154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mkapusi",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1580102
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"389bf70dc33baa7ad46f3fac48733044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730519,
+            "locality_id":101928675,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928675,
+    "wof:lastmodified":1500027926,
+    "wof:name":"Mkapusi",
+    "wof:parent_id":1108730519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07818603515625,
+    -31.60894584655762,
+    27.11220169067383,
+    -31.58460426330566
+],
+  "geometry": {"coordinates":[[[27.0789909362793,-31.60390663146973],[27.07896995544434,-31.60210227966309],[27.08567237854004,-31.59843635559082],[27.08603286743164,-31.5933837890625],[27.09229469299316,-31.58827781677246],[27.09983825683594,-31.58460426330566],[27.10535049438477,-31.58744239807129],[27.11216354370117,-31.59315490722656],[27.11220169067383,-31.59640121459961],[27.10635375976562,-31.60078239440918],[27.10212135314941,-31.5993766784668],[27.09917068481445,-31.59940147399902],[27.09581756591797,-31.60087394714355],[27.09123229980469,-31.60524368286133],[27.08493804931641,-31.60782241821289],[27.08031463623047,-31.60894584655762],[27.07818603515625,-31.6071605682373],[27.0789909362793,-31.60390663146973]]],"type":"Polygon"}
+}

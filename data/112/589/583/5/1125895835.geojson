@@ -1,0 +1,101 @@
+{
+  "id": 1125895835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.001655,-34.831799,20.001655,-34.831799",
+    "geom:latitude":-34.831799,
+    "geom:longitude":20.001655,
+    "gn:gn_country":"ZA",
+    "iso:country":"ZA",
+    "lbl:latitude":-34.831799,
+    "lbl:longitude":20.001655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "L'Agulhas"
+    ],
+    "name:dut_x_preferred":[
+        "L' Agulhas"
+    ],
+    "name:eng_x_preferred":[
+        "L'Agulhas"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e'\u090f\u0917\u0941\u0932\u0938"
+    ],
+    "name:nso_x_preferred":[
+        "L'Agulhas"
+    ],
+    "name:por_x_preferred":[
+        "Agulhas"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:name":"L'Agulhas",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":656,
+    "qs_pg:photos_1k":133,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":656,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118771,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1583654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1583654,
+        "qs_pg:id":1118771,
+        "wd:id":"Q3307989"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295557,
+    "wof:geomhash":"d913624194a31387a6a4806328c3d70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730617,
+            "locality_id":1125895835,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1125895835,
+    "wof:lastmodified":1514503943,
+    "wof:name":"L'Agulhas",
+    "wof:parent_id":1108730617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.001655,
+    -34.831799,
+    20.001655,
+    -34.831799
+],
+  "geometry": {"coordinates":[20.001655,-34.831799],"type":"Point"}
+}

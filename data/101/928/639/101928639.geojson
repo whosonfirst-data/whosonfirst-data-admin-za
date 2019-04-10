@@ -1,0 +1,72 @@
+{
+  "id": 101928639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1098251.897864,
+    "geom:bbox":"28.9432163239,-31.5588588715,28.9597759247,-31.5484466553",
+    "geom:latitude":-31.553398,
+    "geom:longitude":28.950861,
+    "iso:country":"ZA",
+    "lbl:latitude":-31.554183,
+    "lbl:longitude":28.949362,
+    "mps:latitude":-31.554183,
+    "mps:longitude":28.949362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mbombenkukhu",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1585074
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"bcb77d71cadfa44cf2a6d653ee6a4370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "locality_id":101928639,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":101928639,
+    "wof:lastmodified":1500027866,
+    "wof:name":"Mbombenkukhu",
+    "wof:parent_id":1108730523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94321632385254,
+    -31.55885887145996,
+    28.95977592468262,
+    -31.54844665527344
+],
+  "geometry": {"coordinates":[[[28.95340728759766,-31.54961395263672],[28.95486259460449,-31.54903793334961],[28.95695114135742,-31.54844665527344],[28.95906829833984,-31.54875755310059],[28.95977592468262,-31.55108833312988],[28.95565032958984,-31.55389213562012],[28.95159530639648,-31.55885887145996],[28.94842529296875,-31.55857276916504],[28.94416236877441,-31.55704689025879],[28.94321632385254,-31.5538215637207],[28.9454402923584,-31.55088233947754],[28.94856262207031,-31.54972648620605],[28.95340728759766,-31.54961395263672]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260185305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.299,-30.47508,29.299,-30.47508",
+    "geom:latitude":-30.47508,
+    "geom:longitude":29.299,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN433",
+    "gn:asciiname":"Rustfontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":958680,
+    "gn:latitude":-30.47508,
+    "gn:longitude":29.299,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rustfontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusfontein",
+        "Rustfontein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":958680
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"39970ecbafa77ea23ea71bb921474e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1260185305,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1260185305,
+    "wof:lastmodified":1537716381,
+    "wof:name":"Rustfontein",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.299,
+    -30.47508,
+    29.299,
+    -30.47508
+],
+  "geometry": {"coordinates":[29.299,-30.47508],"type":"Point"}
+}

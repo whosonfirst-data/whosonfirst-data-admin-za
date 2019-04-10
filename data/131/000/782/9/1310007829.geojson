@@ -1,0 +1,69 @@
+{
+  "id": 1310007829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05977,-28.99794,26.05977,-28.99794",
+    "geom:latitude":-28.99794,
+    "geom:longitude":26.05977,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Waterbron",
+    "gn:country_code":"ZA",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":941863,
+    "gn:latitude":-28.99794,
+    "gn:longitude":26.05977,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Waterbron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":941863
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"facc99c53611819b9d2b7ec60f3000df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1310007829,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1310007829,
+    "wof:lastmodified":1536638909,
+    "wof:name":"Waterbron",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05977,
+    -28.99794,
+    26.05977,
+    -28.99794
+],
+  "geometry": {"coordinates":[26.05977,-28.99794],"type":"Point"}
+}

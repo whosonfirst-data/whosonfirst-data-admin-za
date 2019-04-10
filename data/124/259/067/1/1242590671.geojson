@@ -1,0 +1,73 @@
+{
+  "id": 1242590671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41845,-30.62035,29.41845,-30.62035",
+    "geom:latitude":-30.62035,
+    "geom:longitude":29.41845,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"DC43",
+    "gn:admin3_code":"KZN433",
+    "gn:asciiname":"Nolangeni",
+    "gn:country_code":"ZA",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970191,
+    "gn:latitude":-30.62035,
+    "gn:longitude":29.41845,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Nolangeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nolengeni",
+        "Nolangeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":970191
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"62fc35cf9cfb4cced9424615660fe064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730569,
+            "locality_id":1242590671,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1242590671,
+    "wof:lastmodified":1537716390,
+    "wof:name":"Nolangeni",
+    "wof:parent_id":1108730569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41845,
+    -30.62035,
+    29.41845,
+    -30.62035
+],
+  "geometry": {"coordinates":[29.41845,-30.62035],"type":"Point"}
+}

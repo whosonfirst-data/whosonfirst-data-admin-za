@@ -1,0 +1,74 @@
+{
+  "id": 1259494879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,-29.01667,25.86667,-29.01667",
+    "geom:latitude":-29.01667,
+    "geom:longitude":25.86667,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Leeuvlei",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983804,
+    "gn:latitude":-29.01667,
+    "gn:longitude":25.86667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Leeuvlei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leeuwvlei",
+        "Leeuvlei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":983804
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b91e70578896c550f287ae9a8d55e704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "locality_id":1259494879,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1259494879,
+    "wof:lastmodified":1537716412,
+    "wof:name":"Leeuvlei",
+    "wof:parent_id":1108730539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667000000001,
+    -29.01667,
+    25.86667000000001,
+    -29.01667
+],
+  "geometry": {"coordinates":[25.86667000000001,-29.01667],"type":"Point"}
+}

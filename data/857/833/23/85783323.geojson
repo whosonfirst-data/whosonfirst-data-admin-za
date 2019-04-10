@@ -1,0 +1,107 @@
+{
+  "id": 85783323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3594631.381239,
+    "geom:bbox":"27.89198,-32.989222,27.89198,-32.989222",
+    "geom:latitude":-32.989222,
+    "geom:longitude":27.89198,
+    "gn:id":"",
+    "iso:country":"ZA",
+    "lbl:latitude":-32.989222,
+    "lbl:longitude":27.89198,
+    "mps:latitude":-32.992902,
+    "mps:longitude":27.892147,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Chiselhurst"
+    ],
+    "name:unk_x_variant":[
+        "Chiselhurst"
+    ],
+    "qs:gn_adm0_cc":"ZA",
+    "qs:gn_id":0,
+    "qs:gn_local":1006984,
+    "qs:local_max":135,
+    "qs:local_sum":372,
+    "qs:localhoods":5,
+    "qs:name":"Chiselhurst",
+    "qs:name_adm0":"South Africa",
+    "qs:name_adm1":"Eastern Cape",
+    "qs:name_adm2":"Amathole",
+    "qs:name_lau":"Buffalo City",
+    "qs:name_local":"East London",
+    "qs:photo_max":16,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424942,
+    "qs:woe_adm1":2346979,
+    "qs:woe_adm2":56189418,
+    "qs:woe_lau":56189572,
+    "qs:woe_local":1589551,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1269,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101929165,
+        1108730513,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879254,
+        "qs:id":1136575,
+        "qs_pg:id":1136575
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6b16c0f7e5680e0b6a904d4fb68f4082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730513,
+            "locality_id":101929165,
+            "neighbourhood_id":85783323,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":85783323,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860483,
+    "wof:name":"Chiselhurst",
+    "wof:parent_id":101929165,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.89198,
+    -32.989222,
+    27.89198,
+    -32.989222
+],
+  "geometry": {"coordinates":[27.89198,-32.989222],"type":"Point"}
+}

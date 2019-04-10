@@ -1,0 +1,76 @@
+{
+  "id": 1293270493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47617,-34.05515,18.47617,-34.05515",
+    "geom:latitude":-34.05515,
+    "geom:longitude":18.47617,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Retreat",
+    "gn:country_code":"ZA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8604596,
+    "gn:latitude":-34.05515,
+    "gn:longitude":18.47617,
+    "gn:modification_date":"2013-08-18",
+    "gn:name":"Retreat",
+    "gn:population":32289,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Retreat"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8604596,
+        "wk:page":"Retreat,_Cape_Town"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fce7fda7d55884072f96b193f15ee463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1293270493,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1293270493,
+    "wof:lastmodified":1537716447,
+    "wof:name":"Retreat",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:population":32289,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47617,
+    -34.05515,
+    18.47617,
+    -34.05515
+],
+  "geometry": {"coordinates":[18.47617,-34.05515],"type":"Point"}
+}

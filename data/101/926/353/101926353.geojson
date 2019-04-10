@@ -1,0 +1,113 @@
+{
+  "id": 101926353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:area_square_m":2568778.066888,
+    "geom:bbox":"29.0777053833,-26.5711402893,29.1011791229,-26.5579719543",
+    "geom:latitude":-26.564473,
+    "geom:longitude":29.088233,
+    "gn:population":141741,
+    "iso:country":"ZA",
+    "lbl:latitude":-26.564163,
+    "lbl:longitude":29.088233,
+    "mps:latitude":-26.564163,
+    "mps:longitude":29.088233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043c\u0431\u0430\u043b\u0435\u043d\u0445\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:eng_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:epo_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:fra_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:fre_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:ger_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:ita_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:nld_x_preferred":[
+        "Embalenhle"
+    ],
+    "name:nso_x_preferred":[
+        "Embalenhle"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"eMbalenhle",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688895,
+        1108730585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1005646,
+        "gp:id":55881424,
+        "wd:id":"Q2522086",
+        "wk:page":"Embalenhle"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"47105d7f382ae15c62ae06b56e56fa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730585,
+            "locality_id":101926353,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":101926353,
+    "wof:lastmodified":1527715812,
+    "wof:name":"eMbalenhle",
+    "wof:parent_id":1108730585,
+    "wof:placetype":"locality",
+    "wof:population":141741,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07770538330078,
+    -26.57114028930664,
+    29.1011791229248,
+    -26.5579719543457
+],
+  "geometry": {"coordinates":[[[29.07770538330078,-26.55967140197754],[29.08969116210938,-26.5579719543457],[29.08970832824707,-26.55797958374023],[29.09028625488281,-26.55819129943848],[29.09087181091309,-26.55838203430176],[29.09146690368652,-26.55855178833008],[29.09206962585449,-26.55869674682617],[29.09267807006836,-26.5588207244873],[29.09329223632812,-26.55892181396484],[29.09391021728516,-26.55899810791016],[29.09453010559082,-26.55905342102051],[29.09515380859375,-26.55908584594727],[29.09577751159668,-26.5590934753418],[29.09640121459961,-26.55907821655273],[29.09669303894043,-26.55905914306641],[29.09764289855957,-26.55898666381836],[29.09771728515625,-26.55965614318848],[29.09791946411133,-26.5607795715332],[29.09819984436035,-26.56188774108887],[29.09855461120605,-26.56297874450684],[29.0989875793457,-26.56404685974121],[29.09949111938477,-26.56508827209473],[29.10006713867188,-26.56610107421875],[29.10071182250977,-26.56707954406738],[29.1011791229248,-26.56769371032715],[29.09258270263672,-26.56969261169434],[29.07872009277344,-26.57114028930664],[29.07770538330078,-26.55967140197754]]],"type":"Polygon"}
+}

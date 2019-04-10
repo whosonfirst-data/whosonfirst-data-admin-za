@@ -1,0 +1,69 @@
+{
+  "id": 1225967045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65854,-30.52465,27.65854,-30.52465",
+    "geom:latitude":-30.52465,
+    "geom:longitude":27.65854,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC142",
+    "gn:asciiname":"Bebeza",
+    "gn:country_code":"ZA",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1020621,
+    "gn:latitude":-30.52465,
+    "gn:longitude":27.65854,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Bebeza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1020621
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7d11e1c92735d9f62cd1918f77ec6586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1225967045,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1225967045,
+    "wof:lastmodified":1536837560,
+    "wof:name":"Bebeza",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65854,
+    -30.52465,
+    27.65854,
+    -30.52465
+],
+  "geometry": {"coordinates":[27.65854,-30.52465],"type":"Point"}
+}

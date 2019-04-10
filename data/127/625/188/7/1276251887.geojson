@@ -1,0 +1,69 @@
+{
+  "id": 1276251887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98085,-30.98428,26.98085,-30.98428",
+    "geom:latitude":-30.98428,
+    "geom:longitude":26.98085,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC14",
+    "gn:admin3_code":"EC143",
+    "gn:asciiname":"Diepfontein (1)",
+    "gn:country_code":"ZA",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010238,
+    "gn:latitude":-30.98428,
+    "gn:longitude":26.98085,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Diepfontein (1)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1010238
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"2cbf7b7e13fa6c2b7eb6ff977092df0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "locality_id":1276251887,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":1276251887,
+    "wof:lastmodified":1536887440,
+    "wof:name":"Diepfontein (1)",
+    "wof:parent_id":1108730521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98085,
+    -30.98428,
+    26.98085,
+    -30.98428
+],
+  "geometry": {"coordinates":[26.98085,-30.98428],"type":"Point"}
+}

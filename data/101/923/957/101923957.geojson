@@ -1,0 +1,86 @@
+{
+  "id": 101923957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":2651597.111557,
+    "geom:bbox":"30.7022361755,-22.937877655,30.7237567902,-22.9159812927",
+    "geom:latitude":-22.926416,
+    "geom:longitude":30.713064,
+    "iso:country":"ZA",
+    "lbl:latitude":-22.929044,
+    "lbl:longitude":30.714858,
+    "mps:latitude":-22.929044,
+    "mps:longitude":30.714858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Shigalo"
+    ],
+    "name:dut_x_preferred":[
+        "Shigalo"
+    ],
+    "name:eng_x_preferred":[
+        "Shigalo"
+    ],
+    "name:nso_x_preferred":[
+        "Shigalo"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shigalo",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1588087,
+        "wd:id":"Q15975800"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3bc228864b5ebce867e617b46b126401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "locality_id":101923957,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":101923957,
+    "wof:lastmodified":1527688300,
+    "wof:name":"Shigalo",
+    "wof:parent_id":1108730575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70223617553711,
+    -22.9378776550293,
+    30.72375679016113,
+    -22.91598129272461
+],
+  "geometry": {"coordinates":[[[30.70293998718262,-22.91853904724121],[30.70223617553711,-22.91645812988281],[30.71176147460938,-22.91598129272461],[30.71097755432129,-22.92330360412598],[30.72219085693359,-22.92256736755371],[30.72375679016113,-22.92763328552246],[30.71599197387695,-22.9378776550293],[30.71560096740723,-22.93739128112793],[30.71201133728027,-22.93548393249512],[30.7115306854248,-22.93486404418945],[30.70888900756836,-22.93145370483398],[30.70664405822754,-22.92741584777832],[30.7034797668457,-22.92013549804688],[30.70293998718262,-22.91853904724121]]],"type":"Polygon"}
+}
