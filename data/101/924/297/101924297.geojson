@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":2455756.928419,
+    "geom:area_square_m":2455756.928418,
     "geom:bbox":"30.1219520569,-23.7018985748,30.1467475891,-23.6876850128",
     "geom:latitude":-23.695714,
     "geom:longitude":30.133604,
@@ -20,14 +20,11 @@
     "name:afr_x_preferred":[
         "Modjadjiskloof"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u6c83\u723e\u65af\u514b\u76e7\u592b"
-    ],
-    "name:dut_x_preferred":[
-        "Modjajiskloof"
-    ],
     "name:eng_x_preferred":[
         "Modjadjiskloof"
+    ],
+    "name:nld_x_preferred":[
+        "Modjajiskloof"
     ],
     "name:nso_x_preferred":[
         "Modjadjiskloof"
@@ -35,11 +32,14 @@
     "name:pol_x_preferred":[
         "Modjadjiskloof"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Duiwelskloof"
     ],
     "name:unk_x_variant":[
         "Duweiskloof"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u6c83\u723e\u65af\u514b\u76e7\u592b"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101924297,
-    "wof:lastmodified":1514503560,
+    "wof:lastmodified":1561840226,
     "wof:name":"Duiwelskloof",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

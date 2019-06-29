@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":6443152.457179,
+    "geom:area_square_m":6443152.457177,
     "geom:bbox":"31.0203475952,-25.7926368713,31.0586166382,-25.763463974",
     "geom:latitude":-25.776147,
     "geom:longitude":31.041365,
@@ -19,10 +19,7 @@
     "name:afr_x_preferred":[
         "Emjindini"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4f2f\u9813"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Barberton"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +34,7 @@
     "name:fit_x_preferred":[
         "Barberton"
     ],
-    "name:fre_x_preferred":[
-        "Barberton"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Barberton"
     ],
     "name:heb_x_preferred":[
@@ -52,13 +46,16 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30eb\u30d0\u30fc\u30c8\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Barberton"
+    ],
     "name:nso_x_preferred":[
         "Emjindini"
     ],
     "name:pol_x_preferred":[
         "Barberton"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Barberton"
     ],
     "name:spa_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:ven_x_preferred":[
         "Barberton"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f2f\u9813"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":101927297,
-    "wof:lastmodified":1527715640,
+    "wof:lastmodified":1561840242,
     "wof:name":"Emjindini",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

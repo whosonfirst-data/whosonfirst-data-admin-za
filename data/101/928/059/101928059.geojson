@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000334,
-    "geom:area_square_m":3449660.035466,
+    "geom:area_square_m":3449660.035467,
     "geom:bbox":"23.47473526,-33.3054885864,23.5024414062,-33.277671814",
     "geom:latitude":-33.291594,
     "geom:longitude":23.491223,
@@ -20,19 +20,16 @@
     "name:afr_x_preferred":[
         "Willowmore"
     ],
-    "name:chi_x_preferred":[
-        "\u5a01\u6d1b\u83ab\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Willowmore"
     ],
     "name:eng_x_preferred":[
         "Willowmore"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Willowmore"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Willowmore"
     ],
     "name:nno_x_preferred":[
@@ -44,8 +41,11 @@
     "name:nso_x_preferred":[
         "Willowmore"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Willowmore"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u6d1b\u83ab\u723e"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101928059,
-    "wof:lastmodified":1527715923,
+    "wof:lastmodified":1561840252,
     "wof:name":"Willowmore",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

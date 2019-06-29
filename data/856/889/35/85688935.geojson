@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u0648\u0628\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Limpopo"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041b\u0456\u043c\u043f\u043e\u043f\u0430"
     ],
@@ -50,10 +47,7 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Limpopo"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u6ce2\u6ce2\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Limpopo"
     ],
     "name:dan_x_preferred":[
@@ -63,10 +57,11 @@
         "Nordprovinz"
     ],
     "name:deu_x_variant":[
-        "Limpopo Provinz"
-    ],
-    "name:dut_x_preferred":[
+        "Limpopo Provinz",
         "Limpopo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03c0\u03cc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Limpopo"
@@ -81,6 +76,9 @@
     "name:est_x_preferred":[
         "Limpopo provints"
     ],
+    "name:eus_x_preferred":[
+        "Limpopo"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc"
     ],
@@ -94,22 +92,11 @@
         "Province du Nord"
     ],
     "name:fra_x_variant":[
-        "Limpopo Province"
-    ],
-    "name:fre_x_preferred":[
-        "Limpopo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10de\u10dd\u10de\u10dd"
-    ],
-    "name:ger_x_preferred":[
+        "Limpopo Province",
         "Limpopo"
     ],
     "name:glg_x_preferred":[
         "Limpopo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bc\u03c0\u03cc\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aae\u0acd\u0aaa\u0acb\u0aaa\u0acb"
@@ -166,17 +153,17 @@
     "name:lit_x_variant":[
         "Limpopas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u043f\u043e\u043f\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u094d\u092a\u094b\u092a\u094b"
     ],
-    "name:may_x_preferred":[
-        "Limpopo"
-    ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u043c\u043f\u043e\u043f\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Limpopo"
+    ],
+    "name:nld_x_preferred":[
+        "Limpopo"
     ],
     "name:nno_x_preferred":[
         "Limpopo"
@@ -193,9 +180,6 @@
     "name:nya_x_preferred":[
         "Limpopo"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0645\u067e\u0648\u067e\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0645\u067e\u0648\u067e\u0648"
     ],
@@ -206,9 +190,6 @@
         "Prov\u00edncia Setentrional"
     ],
     "name:ron_x_preferred":[
-        "Provincia Limpopo"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Limpopo"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +204,7 @@
     "name:slk_x_preferred":[
         "Northern Province"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Limpopo"
     ],
     "name:som_x_preferred":[
@@ -435,7 +416,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1553551122,
+    "wof:lastmodified":1561840149,
     "wof:name":"Limpopo",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

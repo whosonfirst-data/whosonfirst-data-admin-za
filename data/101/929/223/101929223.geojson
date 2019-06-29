@@ -24,19 +24,13 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0647\u0627\u0645\u0633\u062a\u0627\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0565\u0570\u0561\u0574\u057d\u0569\u0561\u0578\u0582\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09b9\u09be\u09ae\u09b8\u099f\u09be\u0989\u09a8"
     ],
     "name:cat_x_preferred":[
         "Grahamstown"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u62c9\u7f55\u9547"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Grahamstown"
     ],
     "name:dan_x_preferred":[
@@ -45,8 +39,8 @@
     "name:deu_x_preferred":[
         "Grahamstown"
     ],
-    "name:dut_x_preferred":[
-        "Grahamstad"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03c7\u03b1\u03bc\u03c3\u03c4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Grahamstown"
@@ -60,15 +54,6 @@
     "name:fra_x_preferred":[
         "Grahamstown"
     ],
-    "name:fre_x_preferred":[
-        "Grahamstown"
-    ],
-    "name:ger_x_preferred":[
-        "Grahamstown"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03b1\u03c7\u03b1\u03bc\u03c3\u03c4\u03ac\u03bf\u03c5\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0ac7\u0ab9\u0abe\u0aae\u0ab8\u0acd\u0a9f\u0abe\u0a89\u0aa8"
     ],
@@ -80,6 +65,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0930\u093e\u0939\u092e\u0938\u094d\u091f\u093e\u0909\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0565\u0570\u0561\u0574\u057d\u0569\u0561\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Grahamstown"
@@ -105,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0945\u0939\u0945\u092e\u0938\u094d\u091f\u093e\u0909\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grahamstown"
     ],
     "name:nld_x_preferred":[
@@ -127,9 +115,6 @@
         "Grahamstown"
     ],
     "name:ron_x_preferred":[
-        "Grahamstad"
-    ],
-    "name:rum_x_preferred":[
         "Grahamstad"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +167,9 @@
     ],
     "name:zho_x_preferred":[
         "\u683c\u62c9\u7f55\u93ae"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u62c9\u7f55\u9547"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -324,7 +312,7 @@
         }
     ],
     "wof:id":101929223,
-    "wof:lastmodified":1527715592,
+    "wof:lastmodified":1561840236,
     "wof:name":"Grahamstown",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

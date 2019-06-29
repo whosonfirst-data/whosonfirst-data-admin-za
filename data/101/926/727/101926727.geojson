@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":3259927.680621,
+    "geom:area_square_m":3259927.680622,
     "geom:bbox":"25.1456279755,-27.926574707,25.1734027863,-27.9066371918",
     "geom:latitude":-27.917273,
     "geom:longitude":25.158692,
@@ -20,16 +20,10 @@
     "name:afr_x_preferred":[
         "Christiana"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u65af\u8482\u5b89\u5a1c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Christiana"
     ],
     "name:eng_x_preferred":[
-        "Christiana"
-    ],
-    "name:ger_x_preferred":[
         "Christiana"
     ],
     "name:hak_x_preferred":[
@@ -38,17 +32,23 @@
     "name:ita_x_preferred":[
         "Christiana"
     ],
+    "name:nld_x_preferred":[
+        "Christiana"
+    ],
     "name:nso_x_preferred":[
         "Christiana"
     ],
     "name:pol_x_preferred":[
         "Christiana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Christiana"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u5a1c"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":101926727,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561840249,
     "wof:name":"Christiana",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

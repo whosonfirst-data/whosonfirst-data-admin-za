@@ -25,22 +25,16 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u044a\u043b \u0411\u0435\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u585e\u723e\u8c9d"
-    ],
     "name:dan_x_preferred":[
         "Mossel Bay"
     ],
-    "name:dut_x_preferred":[
-        "Mosselbaai"
+    "name:deu_x_preferred":[
+        "Mossel Bay"
     ],
     "name:eng_x_preferred":[
         "Mossel Bay"
     ],
-    "name:fre_x_preferred":[
-        "Mossel Bay"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mossel Bay"
     ],
     "name:ind_x_preferred":[
@@ -55,8 +49,11 @@
     "name:lat_x_preferred":[
         "Mossel Bay"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u0441\u0435\u043b\u0431\u0430\u0458"
+    ],
+    "name:nld_x_preferred":[
+        "Mosselbaai"
     ],
     "name:nob_x_preferred":[
         "Mossel Bay"
@@ -70,7 +67,7 @@
     "name:por_x_preferred":[
         "Mossel Bay"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mosselbaai"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0441\u0435\u043b-\u0411\u0435\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u585e\u723e\u8c9d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1141908861,
-    "wof:lastmodified":1534379836,
+    "wof:lastmodified":1561840274,
     "wof:name":"Mossel Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

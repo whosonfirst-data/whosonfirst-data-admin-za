@@ -19,19 +19,13 @@
     "name:afr_x_preferred":[
         "Hoedspruit"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5fb7\u65af\u666e\u96f7\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hoedspruit"
     ],
     "name:eng_x_preferred":[
         "Hoedspruit"
     ],
-    "name:fre_x_preferred":[
-        "Hoedspruit"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hoedspruit"
     ],
     "name:hak_x_preferred":[
@@ -43,11 +37,17 @@
     "name:jpn_x_preferred":[
         "\u30db\u30a8\u30c9\u30b9\u30d7\u30eb\u30fc\u30c8"
     ],
+    "name:nld_x_preferred":[
+        "Hoedspruit"
+    ],
     "name:nso_x_preferred":[
         "Hoedspruit"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u044d\u0434\u0441\u043f\u0440\u0443\u0438\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5fb7\u65af\u666e\u96f7\u7279"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101924401,
-    "wof:lastmodified":1527670489,
+    "wof:lastmodified":1561840224,
     "wof:name":"Hoedspruit",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

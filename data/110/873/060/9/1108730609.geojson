@@ -34,11 +34,8 @@
     "name:afr_x_preferred":[
         "Dr. Kenneth Kaunda-distriksmunisipaliteit"
     ],
-    "name:chi_x_preferred":[
-        "\u80af\u5c3c\u601d\u00b7\u5361\u7fc1\u9054\u535a\u58eb\u5730\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Southern District Municipality"
+    "name:deu_x_preferred":[
+        "Dr Kenneth Kaunda"
     ],
     "name:eng_x_preferred":[
         "Dr Kenneth Kaunda"
@@ -47,10 +44,7 @@
         "Dr Kenneth Kaunda District Municipality",
         "Dr Kenneth Kaunda"
     ],
-    "name:fre_x_preferred":[
-        "Dr Kenneth Kaunda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dr Kenneth Kaunda"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30b6\u30f3\u90e1"
+    ],
+    "name:nld_x_preferred":[
+        "Southern District Municipality"
     ],
     "name:nov_x_preferred":[
         "Sudi Distrikte"
@@ -73,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Dr. Kenneth Kaunda"
+    ],
+    "name:zho_x_preferred":[
+        "\u80af\u5c3c\u601d\u00b7\u5361\u7fc1\u9054\u535a\u58eb\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1108730609,
-    "wof:lastmodified":1554505005,
+    "wof:lastmodified":1561840215,
     "wof:name":"Dr Kenneth Kaunda",
     "wof:parent_id":85688931,
     "wof:placetype":"county",

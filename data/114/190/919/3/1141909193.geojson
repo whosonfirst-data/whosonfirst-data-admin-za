@@ -25,14 +25,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09bf\u0982\u099f\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u5e73\u901a"
-    ],
     "name:dan_x_preferred":[
         "Upington"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Upington"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c0\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Upington"
@@ -43,14 +43,8 @@
     "name:fin_x_preferred":[
         "Upington"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Upington"
-    ],
-    "name:ger_x_preferred":[
-        "Upington"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c0\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
@@ -85,7 +79,10 @@
     "name:mar_x_preferred":[
         "\u0905\u092a\u093f\u0902\u0917\u094d\u091f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Upington"
+    ],
+    "name:nld_x_preferred":[
         "Upington"
     ],
     "name:nob_x_preferred":[
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Upington"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Upington"
     ],
     "name:rus_x_preferred":[
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Upington"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5e73\u901a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":1141909193,
-    "wof:lastmodified":1534379834,
+    "wof:lastmodified":1561840275,
     "wof:name":"Upington",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",

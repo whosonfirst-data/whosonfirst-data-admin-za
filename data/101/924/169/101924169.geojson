@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000334,
-    "geom:area_square_m":3787191.615889,
+    "geom:area_square_m":3787191.615891,
     "geom:bbox":"30.7055587769,-23.3268909454,30.7336578369,-23.3025722504",
     "geom:latitude":-23.317355,
     "geom:longitude":30.721973,
@@ -23,19 +23,13 @@
     "name:bul_x_preferred":[
         "\u0413\u0438\u044f\u043d\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u4e9e\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Giyani"
     ],
     "name:eng_x_preferred":[
         "Giyani"
     ],
-    "name:fre_x_preferred":[
-        "Giyani"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Giyani"
     ],
     "name:ita_x_preferred":[
@@ -44,10 +38,13 @@
     "name:jpn_x_preferred":[
         "\u30ae\u30e4\u30cb"
     ],
+    "name:nld_x_preferred":[
+        "Giyani"
+    ],
     "name:nso_x_preferred":[
         "Giyani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Giyani"
     ],
     "name:rus_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:ven_x_preferred":[
         "Giyani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u4e9e\u5c3c"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":101924169,
-    "wof:lastmodified":1527670488,
+    "wof:lastmodified":1561840223,
     "wof:name":"Giyani",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

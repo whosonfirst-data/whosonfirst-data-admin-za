@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001963,
-    "geom:area_square_m":21807408.735026,
+    "geom:area_square_m":21807408.735018,
     "geom:bbox":"27.9617881775,-26.0617961884,28.0415115356,-25.9939594269",
     "geom:latitude":-26.030103,
     "geom:longitude":28.001923,
@@ -19,14 +19,14 @@
     "name:afr_x_preferred":[
         "Fourways"
     ],
-    "name:dut_x_preferred":[
-        "Fourways"
-    ],
     "name:eng_x_preferred":[
         "Fourways"
     ],
     "name:eng_x_variant":[
         "Four Ways"
+    ],
+    "name:nld_x_preferred":[
+        "Fourways"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":101925679,
-    "wof:lastmodified":1514503871,
+    "wof:lastmodified":1561840234,
     "wof:name":"Four Ways",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

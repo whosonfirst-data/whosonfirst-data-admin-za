@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":7302297.033679,
+    "geom:area_square_m":7302297.033681,
     "geom:bbox":"28.2630386353,-24.8903923035,28.3235721588,-24.8678703308",
     "geom:latitude":-24.88138,
     "geom:longitude":28.29259,
@@ -23,10 +23,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u0411\u0435\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u62c9\u8c9d\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bela-Bela"
     ],
     "name:eng_x_preferred":[
@@ -35,11 +32,8 @@
     "name:epo_x_preferred":[
         "Bela-Bela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Warm Baths"
-    ],
-    "name:ger_x_preferred":[
-        "Bela-Bela"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d4-\u05d1\u05dc\u05d4"
@@ -50,13 +44,16 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30e9\u30fb\u30d9\u30e9"
     ],
+    "name:nld_x_preferred":[
+        "Bela-Bela"
+    ],
     "name:nso_x_preferred":[
         "Bela-Bela"
     ],
     "name:pol_x_preferred":[
         "Bela Bela"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Warmbaths"
     ],
     "name:rus_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "Warmbaths"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u62c9\u8c9d\u62c9"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":101923787,
-    "wof:lastmodified":1514504632,
+    "wof:lastmodified":1561840229,
     "wof:name":"Warmbad",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

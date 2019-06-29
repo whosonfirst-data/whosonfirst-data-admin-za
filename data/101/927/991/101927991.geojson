@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":6926816.651131,
+    "geom:area_square_m":6926816.651127,
     "geom:bbox":"18.4933891296,-31.6777153015,18.5441589355,-31.6258106232",
     "geom:latitude":-31.651959,
     "geom:longitude":18.518435,
@@ -20,19 +20,13 @@
     "name:afr_x_preferred":[
         "Vredendal"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u96f7\u767b\u9054\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vredendal"
     ],
     "name:eng_x_preferred":[
         "Vredendal"
     ],
-    "name:fre_x_preferred":[
-        "Vredendal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vredendal"
     ],
     "name:heb_x_preferred":[
@@ -44,17 +38,23 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30ec\u30c7\u30f3\u30c0\u30eb"
     ],
+    "name:nld_x_preferred":[
+        "Vredendal"
+    ],
     "name:nso_x_preferred":[
         "Vredendal"
     ],
     "name:pol_x_preferred":[
         "Vredendal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vredendal"
     ],
     "name:ven_x_preferred":[
         "Vredendal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u96f7\u767b\u9054\u723e"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101927991,
-    "wof:lastmodified":1527715633,
+    "wof:lastmodified":1561840237,
     "wof:name":"Vredendal",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",

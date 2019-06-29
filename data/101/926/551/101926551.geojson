@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000563,
-    "geom:area_square_m":6209384.245551,
+    "geom:area_square_m":6209384.245553,
     "geom:bbox":"26.6114807129,-26.9760837555,26.6411399841,-26.9468002319",
     "geom:latitude":-26.961266,
     "geom:longitude":26.625672,
@@ -19,13 +19,10 @@
     "name:afr_x_preferred":[
         "Kanana"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7d0d\u7d0d"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kanana"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kanana"
     ],
     "name:nso_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7d0d\u7d0d"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101926551,
-    "wof:lastmodified":1527715812,
+    "wof:lastmodified":1561840243,
     "wof:name":"Kanana",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

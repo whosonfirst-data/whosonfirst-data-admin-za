@@ -26,9 +26,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0643\u0648\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Polokwane"
-    ],
     "name:bar_x_preferred":[
         "Polokwane"
     ],
@@ -44,17 +41,17 @@
     "name:cat_x_preferred":[
         "Polokwane"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u7f85\u514b\u74e6\u5c3c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Polokwane"
     ],
     "name:dan_x_preferred":[
         "Polokwane"
     ],
-    "name:dut_x_preferred":[
-        "Pietersburg"
+    "name:deu_x_preferred":[
+        "Polokwane"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03bf\u03ba\u03bf\u03c5\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Polokwane"
@@ -62,23 +59,20 @@
     "name:epo_x_preferred":[
         "Polokwane"
     ],
+    "name:eus_x_preferred":[
+        "Polokwane"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u0648\u06a9\u0648\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Polokwane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pietersburg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10dd\u10d9\u10d5\u10d0\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Polokwane"
     ],
     "name:glg_x_preferred":[
         "Polokwane"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03bf\u03ba\u03bf\u03c5\u03ac\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab2\u0acb\u0a95\u0ab5\u0ac7\u0aa8"
@@ -113,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cca\u0cb2\u0cca\u0c95\u0ccd\u0cb5\u0cbe\u0ca8\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10dd\u10d9\u10d5\u10d0\u10dc\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud3f4\ub85c\ucf70\ub124"
     ],
@@ -125,14 +122,17 @@
     "name:lit_x_preferred":[
         "Polokvan\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u043b\u043e\u043a\u0432\u0430\u043d\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0932\u094b\u0915\u094d\u0935\u093e\u0928\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043a\u0432\u0430\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Polokwane"
+    ],
+    "name:nld_x_preferred":[
+        "Pietersburg"
     ],
     "name:nob_x_preferred":[
         "Polokwane"
@@ -143,9 +143,6 @@
     "name:pdc_x_preferred":[
         "Pietersburg"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0644\u0648\u06a9\u0648\u06cc\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0648\u0644\u0648\u06a9\u0648\u06cc\u0646"
     ],
@@ -155,7 +152,7 @@
     "name:por_x_preferred":[
         "Polokwane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Polokwane"
     ],
     "name:rus_x_preferred":[
@@ -218,6 +215,9 @@
     "name:yor_x_preferred":[
         "Polokwane"
     ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7f85\u514b\u74e6\u5c3c"
+    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -260,7 +260,7 @@
         }
     ],
     "wof:id":101923475,
-    "wof:lastmodified":1514504504,
+    "wof:lastmodified":1561840229,
     "wof:name":"Pietersburg",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

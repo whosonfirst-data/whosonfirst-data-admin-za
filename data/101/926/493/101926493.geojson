@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000835,
-    "geom:area_square_m":9210103.125456,
+    "geom:area_square_m":9210103.125455,
     "geom:bbox":"26.7422142029,-26.8515834808,26.804265976,-26.8270282745",
     "geom:latitude":-26.840935,
     "geom:longitude":26.772474,
@@ -23,10 +23,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0438\u043b\u0444\u043e\u043d\u0442\u0435\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u53f2\u8482\u723e\u65b9\u4e39"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stilfontein"
     ],
     "name:eng_x_preferred":[
@@ -35,7 +32,7 @@
     "name:epo_x_preferred":[
         "Stilfontein"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Stilfontein"
     ],
     "name:nso_x_preferred":[
@@ -44,11 +41,14 @@
     "name:pol_x_preferred":[
         "Stilfontein"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stilfontein"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0438\u043b\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f2\u8482\u723e\u65b9\u4e39"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":101926493,
-    "wof:lastmodified":1527715817,
+    "wof:lastmodified":1561840248,
     "wof:name":"Stilfontein",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

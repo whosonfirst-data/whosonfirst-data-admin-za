@@ -34,11 +34,8 @@
     "name:afr_x_preferred":[
         "Buffalo City Metropolitaanse Munisipaliteit"
     ],
-    "name:chi_x_preferred":[
-        "\u6c34\u725b\u57ce\u5730\u65b9\u653f\u5e9c"
-    ],
-    "name:dut_x_preferred":[
-        "Buffalo City"
+    "name:deu_x_preferred":[
+        "Buffalo City Metropolitan Municipality"
     ],
     "name:eng_x_preferred":[
         "Buffalo City"
@@ -47,17 +44,17 @@
         "Buffalo City Metropolitan Municipality",
         "Buffalo City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Buffalo City"
-    ],
-    "name:ger_x_preferred":[
-        "Buffalo City Metropolitan Municipality"
     ],
     "name:ita_x_preferred":[
         "municipalit\u00e0 locale di Buffalo City"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u30b7\u30c6\u30a3\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Buffalo City"
     ],
     "name:nov_x_preferred":[
         "Buffalo Urbe Komunie"
@@ -79,6 +76,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0641\u06cc\u0644\u0648 \u0633\u0679\u06cc \u0645\u06cc\u0679\u0631\u0648\u067e\u0648\u0644\u06cc\u0679\u0646 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u725b\u57ce\u5730\u65b9\u653f\u5e9c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108730513,
-    "wof:lastmodified":1555220444,
+    "wof:lastmodified":1561840211,
     "wof:name":"Buffalo City",
     "wof:parent_id":85688927,
     "wof:placetype":"county",
