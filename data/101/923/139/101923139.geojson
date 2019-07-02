@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000923,
-    "geom:area_square_m":10506490.163286,
+    "geom:area_square_m":10506490.163289,
     "geom:bbox":"29.8867893219,-23.0559959412,29.9292945862,-23.0199050903",
     "geom:latitude":-23.038366,
     "geom:longitude":29.91055,
@@ -26,14 +26,14 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0987 \u099f\u09cd\u09b0\u09bf\u0995\u09be\u09b0\u09cd\u09a1"
     ],
-    "name:chi_x_preferred":[
-        "\u8def\u6613\u7279\u91cc\u54c8\u7279"
-    ],
     "name:dan_x_preferred":[
         "Louis Trichardt"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Louis Trichardt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Louis Trichardt"
@@ -41,14 +41,8 @@
     "name:fin_x_preferred":[
         "Louis Trichardt"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Louis Trichardt"
-    ],
-    "name:ger_x_preferred":[
-        "Louis Trichardt"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ba\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a87\u0ab8 \u0a9f\u0acd\u0ab0\u0ac0\u0a9a\u0abe\u0ab0\u0acd\u0aa1"
@@ -83,7 +77,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0908\u0938 \u091f\u094d\u0930\u093f\u0915\u093e\u0930\u094d\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Louis Trichardt"
+    ],
+    "name:nld_x_preferred":[
         "Louis Trichardt"
     ],
     "name:nob_x_preferred":[
@@ -101,7 +98,7 @@
     "name:por_x_preferred":[
         "Louis Trichardt"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Louis Trichardt"
     ],
     "name:rus_x_preferred":[
@@ -191,7 +188,7 @@
         }
     ],
     "wof:id":101923139,
-    "wof:lastmodified":1527688300,
+    "wof:lastmodified":1561840228,
     "wof:name":"Louis Trichardt",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

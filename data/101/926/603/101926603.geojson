@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":3521103.174369,
+    "geom:area_square_m":3521103.174368,
     "geom:bbox":"28.490398407,-27.289440155,28.5157165527,-27.2640419006",
     "geom:latitude":-27.276412,
     "geom:longitude":28.501804,
@@ -20,22 +20,19 @@
     "name:afr_x_preferred":[
         "Frankfort"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u862d\u514b\u798f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Frankfort"
     ],
     "name:eng_x_preferred":[
         "Frankfort"
     ],
-    "name:fre_x_preferred":[
-        "Frankfort"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Frankfort"
     ],
     "name:ita_x_preferred":[
+        "Frankfort"
+    ],
+    "name:nld_x_preferred":[
         "Frankfort"
     ],
     "name:nso_x_preferred":[
@@ -44,8 +41,11 @@
     "name:pol_x_preferred":[
         "Frankfort"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Frankfort"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u862d\u514b\u798f"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101926603,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561840245,
     "wof:name":"Frankfort",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

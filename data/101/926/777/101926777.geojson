@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000782,
-    "geom:area_square_m":8528651.909741,
+    "geom:area_square_m":8528651.90974,
     "geom:bbox":"26.849407196,-28.0925197601,26.8987312317,-28.0549049377",
     "geom:latitude":-28.076451,
     "geom:longitude":26.870143,
@@ -22,10 +22,7 @@
     "name:afr_x_preferred":[
         "Virginia"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5409\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Virginia"
     ],
     "name:eng_x_preferred":[
@@ -34,20 +31,23 @@
     "name:epo_x_preferred":[
         "Virginia"
     ],
-    "name:fre_x_preferred":[
-        "Virginia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Virginia"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30b8\u30cb\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Virginia"
     ],
     "name:nso_x_preferred":[
         "Virginia"
     ],
     "name:pol_x_preferred":[
         "Virginia"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5409\u5c3c\u4e9e"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101926777,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561840246,
     "wof:name":"Virginia",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

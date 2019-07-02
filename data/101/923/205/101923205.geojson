@@ -19,22 +19,19 @@
     "name:afr_x_preferred":[
         "Bochum"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u9d3b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bochum"
     ],
     "name:eng_x_preferred":[
         "Bochum"
     ],
-    "name:fre_x_preferred":[
-        "Bochum"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bochum"
     ],
     "name:ita_x_preferred":[
+        "Bochum"
+    ],
+    "name:nld_x_preferred":[
         "Bochum"
     ],
     "name:nso_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Bochem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u9d3b"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101923205,
-    "wof:lastmodified":1514503483,
+    "wof:lastmodified":1561840228,
     "wof:name":"Bochum",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

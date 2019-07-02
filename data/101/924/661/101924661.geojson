@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001097,
-    "geom:area_square_m":12133821.148024,
+    "geom:area_square_m":12133821.148021,
     "geom:bbox":"24.1604232788,-26.6182308197,24.2076931,-26.5752677917",
     "geom:latitude":-26.598987,
     "geom:longitude":24.181715,
@@ -19,13 +19,10 @@
     "name:afr_x_preferred":[
         "Ganyesa"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u6d85\u85a9"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ganyesa"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ganyesa"
     ],
     "name:nso_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:unk_x_variant":[
         "Genesa"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u6d85\u85a9"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101924661,
-    "wof:lastmodified":1527670489,
+    "wof:lastmodified":1561840224,
     "wof:name":"Ganyesa",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

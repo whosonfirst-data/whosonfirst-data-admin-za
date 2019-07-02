@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00314,
-    "geom:area_square_m":34045601.157727,
+    "geom:area_square_m":34045601.15773,
     "geom:bbox":"24.7143039703,-28.7695426941,24.7951755524,-28.6878433228",
     "geom:latitude":-28.730894,
     "geom:longitude":24.748338,
@@ -27,9 +27,6 @@
     "name:aze_x_preferred":[
         "Kimberli"
     ],
-    "name:baq_x_preferred":[
-        "Kimberley"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u043c\u0431\u0435\u0440\u043b\u0456"
     ],
@@ -45,20 +42,14 @@
     "name:ces_x_preferred":[
         "Kimberley"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u4f2f\u5229"
-    ],
-    "name:cze_x_preferred":[
-        "Kimberley"
-    ],
     "name:dan_x_preferred":[
         "Kimberley"
     ],
     "name:deu_x_preferred":[
         "Kimberley"
     ],
-    "name:dut_x_preferred":[
-        "Kimberley"
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bc\u03c0\u03b5\u03c1\u03bb\u03b5\u03ca"
     ],
     "name:eng_x_preferred":[
         "Kimberley"
@@ -81,17 +72,8 @@
     "name:fra_x_preferred":[
         "Kimberley"
     ],
-    "name:fre_x_preferred":[
-        "Kimberley"
-    ],
-    "name:ger_x_preferred":[
-        "Kimberley"
-    ],
     "name:glg_x_preferred":[
         "Kimberley"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03bc\u03c0\u03b5\u03c1\u03bb\u03b5\u03ca"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aae\u0acd\u0aac\u0ab0\u0acd\u0ab2\u0ac7"
@@ -141,7 +123,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u092e\u092c\u0930\u094d\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kimberley"
     ],
     "name:nep_x_preferred":[
@@ -162,9 +144,6 @@
     "name:pdc_x_preferred":[
         "Kimberley"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0645\u0628\u0631\u0644\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0645\u0628\u0631\u0644\u06d2"
     ],
@@ -175,9 +154,6 @@
         "Kimberley"
     ],
     "name:ron_x_preferred":[
-        "Kimberley"
-    ],
-    "name:rum_x_preferred":[
         "Kimberley"
     ],
     "name:rus_x_preferred":[
@@ -387,7 +363,7 @@
         }
     ],
     "wof:id":101924789,
-    "wof:lastmodified":1527677690,
+    "wof:lastmodified":1561840226,
     "wof:name":"Kimberley",
     "wof:parent_id":1108730599,
     "wof:placetype":"locality",

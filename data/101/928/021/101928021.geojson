@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1687404.27952,
+    "geom:area_square_m":1687404.279518,
     "geom:bbox":"18.8281650543,-33.950958252,18.8450775146,-33.9295349121",
     "geom:latitude":-33.939297,
     "geom:longitude":18.836044,
@@ -20,26 +20,20 @@
     "name:afr_x_preferred":[
         "Stellenbosch"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0569\u0565\u056c\u056c\u0565\u0576\u0562\u0578\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Stellenbosch"
-    ],
     "name:cat_x_preferred":[
         "Stellenbosch"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6cf0\u502b\u535a\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stellenbosch"
     ],
     "name:dan_x_preferred":[
         "Stellenbosch"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stellenbosch"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03ad\u03bb\u03bb\u03b5\u03bd\u03bc\u03c0\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Stellenbosch"
@@ -50,29 +44,29 @@
     "name:est_x_preferred":[
         "Stellenbosch"
     ],
+    "name:eus_x_preferred":[
+        "Stellenbosch"
+    ],
     "name:fin_x_preferred":[
         "Stellenbosch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stellenbosch"
     ],
     "name:fry_x_preferred":[
         "Stellenbosch"
     ],
-    "name:ger_x_preferred":[
-        "Stellenbosch"
-    ],
     "name:glg_x_preferred":[
         "Stellenbosch"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03ad\u03bb\u03bb\u03b5\u03bd\u03bc\u03c0\u03bf\u03c2"
     ],
     "name:hak_x_preferred":[
         "Stellenbosch"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05e0\u05dc\u05d1\u05d5\u05e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0569\u0565\u056c\u056c\u0565\u0576\u0562\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Stellenbosch"
@@ -89,8 +83,11 @@
     "name:lat_x_preferred":[
         "Stellenbosch"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0442\u0435\u043b\u0435\u043d\u0431\u043e\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Stellenbosch"
     ],
     "name:nob_x_preferred":[
         "Stellenbosch"
@@ -110,7 +107,7 @@
     "name:por_x_preferred":[
         "Stellenbosch"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stellenbosch"
     ],
     "name:rus_x_preferred":[
@@ -133,6 +130,9 @@
     ],
     "name:ven_x_preferred":[
         "Stellenbosch"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6cf0\u502b\u535a\u65af"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":101928021,
-    "wof:lastmodified":1527715923,
+    "wof:lastmodified":1561840252,
     "wof:name":"Stellenbosch",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",

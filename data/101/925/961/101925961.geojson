@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1039784.636981,
+    "geom:area_square_m":1039784.636979,
     "geom:bbox":"28.0009880066,-26.2426624298,28.0202140808,-26.2300186157",
     "geom:latitude":-26.23383,
     "geom:longitude":28.008569,
@@ -68,9 +68,6 @@
         "Theta"
     ],
     "name:deu_x_preferred":[
-        "Theta"
-    ],
-    "name:dut_x_preferred":[
         "Theta"
     ],
     "name:ell_x_preferred":[
@@ -180,6 +177,9 @@
     ],
     "name:nld_x_preferred":[
         "Th\u00e8ta"
+    ],
+    "name:nld_x_variant":[
+        "Theta"
     ],
     "name:nno_x_preferred":[
         "Theta"
@@ -294,7 +294,7 @@
         }
     ],
     "wof:id":101925961,
-    "wof:lastmodified":1527688521,
+    "wof:lastmodified":1561840233,
     "wof:name":"Theta",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

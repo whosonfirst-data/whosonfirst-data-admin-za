@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":2324047.361998,
+    "geom:area_square_m":2324047.362,
     "geom:bbox":"29.8525238037,-27.018529892,29.8781967163,-27.0002403259",
     "geom:latitude":-27.009155,
     "geom:longitude":29.863979,
@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "Amersfoort"
     ],
-    "name:baq_x_preferred":[
-        "Amersfoort"
-    ],
     "name:bar_x_preferred":[
         "Amersfoort"
     ],
@@ -40,16 +37,19 @@
     "name:cat_x_preferred":[
         "Amersfoort"
     ],
+    "name:ces_x_preferred":[
+        "Amersfoort"
+    ],
     "name:cos_x_preferred":[
         "Amersfoort"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Amersfoort"
     ],
     "name:dan_x_preferred":[
         "Amersfoort"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Amersfoort"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,25 @@
     "name:est_x_preferred":[
         "Amersfoort"
     ],
+    "name:eus_x_preferred":[
+        "Amersfoort"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0631\u0633\u0641\u0648\u0631\u062a\u060c \u0627\u0645\u067e\u0648\u0645\u0627\u0644\u0627\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Amersfoort"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Amersfoort"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Amersfoort"
     ],
     "name:frp_x_preferred":[
         "Amersfoort"
     ],
     "name:fur_x_preferred":[
-        "Amersfoort"
-    ],
-    "name:ger_x_preferred":[
         "Amersfoort"
     ],
     "name:gla_x_preferred":[
@@ -136,19 +139,22 @@
     "name:ltz_x_preferred":[
         "Amersfoort"
     ],
-    "name:may_x_preferred":[
-        "Amersfoort"
-    ],
     "name:min_x_preferred":[
         "Amersfoort"
     ],
     "name:mlg_x_preferred":[
         "Amersfoort"
     ],
+    "name:msa_x_preferred":[
+        "Amersfoort"
+    ],
     "name:nap_x_preferred":[
         "Amersfoort"
     ],
     "name:nds_x_preferred":[
+        "Amersfoort"
+    ],
+    "name:nld_x_preferred":[
         "Amersfoort"
     ],
     "name:nno_x_preferred":[
@@ -172,9 +178,6 @@
     "name:pcd_x_preferred":[
         "Amersfoort"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0631\u0633\u0641\u0648\u0631\u062a\u060c \u0627\u0645\u067e\u0648\u0645\u0627\u0644\u0627\u0646\u06af\u0627"
-    ],
     "name:pms_x_preferred":[
         "Amersfoort"
     ],
@@ -193,7 +196,7 @@
     "name:roh_x_preferred":[
         "Amersfoort"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Amersfoort"
     ],
     "name:scn_x_preferred":[
@@ -202,7 +205,7 @@
     "name:sco_x_preferred":[
         "Amersfoort"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Amersfoort"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +236,6 @@
         "Amersfoort"
     ],
     "name:vol_x_preferred":[
-        "Amersfoort"
-    ],
-    "name:wel_x_preferred":[
         "Amersfoort"
     ],
     "name:wln_x_preferred":[
@@ -289,7 +289,7 @@
         }
     ],
     "wof:id":101926567,
-    "wof:lastmodified":1527715812,
+    "wof:lastmodified":1561840243,
     "wof:name":"Amersfoort",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000838,
-    "geom:area_square_m":779463.386197,
+    "geom:area_square_m":9077738.901148,
     "geom:bbox":"32.0509567261,-28.7961940765,32.1354751587,-28.757194519",
     "geom:latitude":-28.775281,
     "geom:longitude":32.107864,
@@ -26,14 +26,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u099a\u09be\u09b0\u09cd\u09a1\u09b8 \u09ac\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u7406\u67e5\u8332\u7063"
-    ],
     "name:dan_x_preferred":[
         "Richards Bay"
     ],
-    "name:dut_x_preferred":[
-        "Richardsbaai"
+    "name:deu_x_preferred":[
+        "Richards Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03a1\u03af\u03c4\u03c3\u03b1\u03c1\u03bd\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Richards Bay"
@@ -44,14 +44,8 @@
     "name:fin_x_preferred":[
         "Richards Bay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Richards Bay"
-    ],
-    "name:ger_x_preferred":[
-        "Richards Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03a1\u03af\u03c4\u03c3\u03b1\u03c1\u03bd\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0a9a\u0ab0\u0acd\u0aa1\u0acd\u0ab8 \u0aac\u0ac7"
@@ -86,8 +80,11 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u091a\u0930\u094d\u0921\u094d\u0938 \u092c\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Richards Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Richardsbaai"
     ],
     "name:nob_x_preferred":[
         "Richards Bay"
@@ -98,7 +95,7 @@
     "name:pol_x_preferred":[
         "Richards Bay"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Richardsbaai"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:war_x_preferred":[
         "Richards Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u7406\u67e5\u8332\u7063"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1175615731,
-    "wof:lastmodified":1534986010,
+    "wof:lastmodified":1561840217,
     "wof:name":"Richards Bay",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

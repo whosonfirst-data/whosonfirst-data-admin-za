@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002416,
-    "geom:area_square_m":26829583.188641,
+    "geom:area_square_m":26829583.188644,
     "geom:bbox":"27.9145183563,-26.1528873444,27.9762554169,-26.0605812073",
     "geom:latitude":-26.101594,
     "geom:longitude":27.944168,
@@ -28,8 +28,11 @@
     "name:dan_x_preferred":[
         "Randburg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Randburg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03bd\u03c4\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Randburg"
@@ -37,14 +40,8 @@
     "name:fin_x_preferred":[
         "Randburg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Randburg"
-    ],
-    "name:ger_x_preferred":[
-        "Randburg"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03bd\u03c4\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0aa8\u0acd\u0aa1\u0aac\u0ab0\u0acd\u0a97"
@@ -76,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u0930\u0901\u0921\u092c\u0941\u0930\u094d\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Randburg"
+    ],
+    "name:nld_x_preferred":[
         "Randburg"
     ],
     "name:nob_x_preferred":[
@@ -91,7 +91,7 @@
     "name:por_x_preferred":[
         "Randburg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Randburg"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":101925703,
-    "wof:lastmodified":1527688522,
+    "wof:lastmodified":1561840233,
     "wof:name":"Randburg",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

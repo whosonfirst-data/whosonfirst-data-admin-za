@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000412,
-    "geom:area_square_m":4395639.099313,
+    "geom:area_square_m":4395639.099312,
     "geom:bbox":"30.7307186127,-30.3320465088,30.7618541718,-30.2794589996",
     "geom:latitude":-30.303652,
     "geom:longitude":30.746002,
@@ -20,23 +20,20 @@
     "name:afr_x_preferred":[
         "Scottburgh"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u79d1\u7279\u5821"
-    ],
-    "name:dut_x_preferred":[
-        "Scottsburgh"
+    "name:deu_x_preferred":[
+        "Scottburgh"
     ],
     "name:eng_x_preferred":[
         "Scottburgh"
     ],
-    "name:fre_x_preferred":[
-        "Scottburgh"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Scottburgh"
     ],
     "name:ita_x_preferred":[
         "Scottburgh"
+    ],
+    "name:nld_x_preferred":[
+        "Scottsburgh"
     ],
     "name:nso_x_preferred":[
         "Scottburgh"
@@ -44,11 +41,14 @@
     "name:pol_x_preferred":[
         "Scottsburgh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Scottburgh"
     ],
     "name:unk_x_variant":[
         "Scottsburgh"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u7279\u5821"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":101929291,
-    "wof:lastmodified":1527715594,
+    "wof:lastmodified":1561840236,
     "wof:name":"Scottburgh",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

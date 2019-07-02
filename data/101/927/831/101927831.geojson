@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":852107.107528,
+    "geom:area_square_m":852107.107527,
     "geom:bbox":"31.0492534637,-29.5924396515,31.0600910187,-29.5806312561",
     "geom:latitude":-29.587236,
     "geom:longitude":31.054099,
@@ -19,8 +19,8 @@
     "name:afr_x_preferred":[
         "Tongaat"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u52a0\u7279"
+    "name:deu_x_preferred":[
+        "Tongaat"
     ],
     "name:eng_x_preferred":[
         "Tongaat"
@@ -29,13 +29,10 @@
         "Tongaat Village",
         "Victoria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tongaat"
     ],
-    "name:ger_x_preferred":[
-        "Tongaat"
-    ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tongaat"
     ],
     "name:tam_x_preferred":[
@@ -43,6 +40,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0646\u06af\u0627\u0679"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u52a0\u7279"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101927831,
-    "wof:lastmodified":1527715640,
+    "wof:lastmodified":1561840241,
     "wof:name":"Tongaat",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

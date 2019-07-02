@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":4317138.53547,
+    "geom:area_square_m":4988527.903772,
     "geom:bbox":"31.0544776917,-24.855594635,31.1083183289,-24.8321838379",
     "geom:latitude":-24.846054,
     "geom:longitude":31.085751,
@@ -19,22 +19,19 @@
     "name:afr_x_preferred":[
         "Bosbokrand"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5e0c\u5df4\u514b\u91cc\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bushbuckridge"
     ],
     "name:eng_x_preferred":[
         "Bushbuckridge"
     ],
-    "name:fre_x_preferred":[
-        "Bushbuckridge"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bushbuckridge"
     ],
     "name:ita_x_preferred":[
+        "Bushbuckridge"
+    ],
+    "name:nld_x_preferred":[
         "Bushbuckridge"
     ],
     "name:nso_x_preferred":[
@@ -43,11 +40,14 @@
     "name:pnb_x_preferred":[
         "\u0628\u0634\u0628\u06a9\u0631\u062c"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bosbokrand"
     ],
     "name:unk_x_variant":[
         "Bushbuckridge"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5e0c\u5df4\u514b\u91cc\u5947"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1175615521,
-    "wof:lastmodified":1534986000,
+    "wof:lastmodified":1561840218,
     "wof:name":"Bosbokrand",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

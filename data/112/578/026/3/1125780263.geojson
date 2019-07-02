@@ -21,19 +21,13 @@
     "name:afr_x_preferred":[
         "Victoria-Wes"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u7dad\u591a\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Victoria-Wes"
+    "name:deu_x_preferred":[
+        "Victoria West"
     ],
     "name:eng_x_preferred":[
         "Victoria West"
     ],
-    "name:fre_x_preferred":[
-        "Victoria West"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Victoria West"
     ],
     "name:ita_x_preferred":[
@@ -42,14 +36,20 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30af\u30c8\u30ea\u30a2\u30fb\u30a6\u30a7\u30b9\u30c8"
     ],
+    "name:nld_x_preferred":[
+        "Victoria-Wes"
+    ],
     "name:pol_x_preferred":[
         "Victoria West"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Victoria-Wes"
     ],
     "name:unk_x_variant":[
         "Victoria-Wes"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u7dad\u591a\u5229\u4e9e"
     ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125780263,
-    "wof:lastmodified":1514504629,
+    "wof:lastmodified":1561840263,
     "wof:name":"Victoria West",
     "wof:parent_id":1108730595,
     "wof:placetype":"locality",

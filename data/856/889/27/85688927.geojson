@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Lurmutur Ekialdea"
-    ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u0445\u043e\u0434\u043d\u0435-\u041a\u0430\u043f\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
     ],
@@ -53,20 +50,14 @@
     "name:ces_x_preferred":[
         "V\u00fdchodn\u00ed Kapsko"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u958b\u666e\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "V\u00fdchodn\u00ed Kapsko"
-    ],
     "name:dan_x_preferred":[
         "\u00d8st-Kapprovinsen"
     ],
     "name:deu_x_preferred":[
         "Ostkap"
     ],
-    "name:dut_x_preferred":[
-        "Oost-Kaap"
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Eastern Cape"
@@ -92,20 +83,11 @@
     "name:fra_x_preferred":[
         "Cap oriental"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Cap-Oriental"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10d9\u10d0\u10de\u10da\u10d0\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ostkap"
     ],
     "name:glg_x_preferred":[
         "Cabo Oriental"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0a95\u0ac7\u0aaa"
@@ -134,6 +116,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0c95\u0cc7\u0caa\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10d9\u10d0\u10de\u10da\u10d0\u10dc\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud134\ucf00\uc774\ud504 \uc8fc"
     ],
@@ -146,14 +131,8 @@
     "name:lit_x_preferred":[
         "Ryt\u0173 Kapas"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u041a\u0435\u0458\u043f"
-    ],
     "name:mar_x_preferred":[
         "\u0908\u0938\u094d\u091f\u0930\u094d\u0928 \u0915\u0947\u092a"
-    ],
-    "name:may_x_preferred":[
-        "Cape Timur"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u041a\u0435\u0458\u043f"
@@ -179,9 +158,6 @@
     "name:nya_x_preferred":[
         "Eastern Cape"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u067e \u0634\u0631\u0642\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0646\u062f\u0627 \u06a9\u06cc\u067e"
     ],
@@ -192,9 +168,6 @@
         "Cabo Oriental"
     ],
     "name:ron_x_preferred":[
-        "Provincia Eastern Cape"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Eastern Cape"
     ],
     "name:rus_x_preferred":[
@@ -395,7 +368,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1553551290,
+    "wof:lastmodified":1561840156,
     "wof:name":"Eastern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
