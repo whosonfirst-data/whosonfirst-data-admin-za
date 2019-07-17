@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9559075.157901,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.026338,-26.121458,28.026338,-26.121458",
     "geom:latitude":-26.121458,
     "geom:longitude":28.026338,
@@ -30,6 +30,9 @@
         "Craighall"
     ],
     "name:eng_x_preferred":[
+        "Craighall"
+    ],
+    "name:nld_x_preferred":[
         "Craighall"
     ],
     "name:unk_x_variant":[
@@ -70,11 +73,11 @@
     "wd:longitude":28.0256,
     "wd:wordcount":239,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925745,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859504,
+    "wof:lastmodified":1563372008,
     "wof:name":"Craighall",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

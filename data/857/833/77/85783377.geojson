@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13343107.989697,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.945365,-32.722999,17.945365,-32.722999",
     "geom:latitude":-32.722999,
     "geom:longitude":17.945365,
@@ -27,7 +27,13 @@
     "name:afr_x_preferred":[
         "Britanniabaai"
     ],
+    "name:afr_x_variant":[
+        "Brittaniabaai"
+    ],
     "name:eng_x_preferred":[
+        "Britannia Bay"
+    ],
+    "name:nld_x_preferred":[
         "Britannia Bay"
     ],
     "name:nso_x_preferred":[
@@ -67,10 +73,10 @@
     "wd:longitude":17.954,
     "wd:wordcount":68,
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730613,
-        85688905
+        1108730613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860495,
+    "wof:lastmodified":1563371949,
     "wof:name":"Britannia Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

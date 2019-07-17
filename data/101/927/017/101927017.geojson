@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Merinoschaf"
     ],
+    "name:eng_x_preferred":[
+        "Merino"
+    ],
     "name:epo_x_preferred":[
         "Merino"
     ],
@@ -55,11 +58,17 @@
     "name:hye_x_preferred":[
         "\u0544\u0565\u0580\u056b\u0576\u0578\u057d\u0576\u0565\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u0580\u056b\u0576\u0578\u057d"
+    ],
     "name:isl_x_preferred":[
         "Merin\u00f3f\u00e9"
     ],
     "name:ita_x_preferred":[
         "Merino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30ea\u30ce\u7a2e"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e0\u10d8\u10dc\u10dd\u10e1\u10d8"
@@ -79,6 +88,9 @@
     "name:nld_x_preferred":[
         "Merino"
     ],
+    "name:nob_x_preferred":[
+        "Merinosau"
+    ],
     "name:nor_x_preferred":[
         "Merinosau"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043d\u043e\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Merino"
     ],
     "name:slv_x_preferred":[
         "Merino"
@@ -114,6 +129,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043d\u043e\u0441"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0435\u0440\u0438\u043d\u043e\u0441"
     ],
     "name:vie_x_preferred":[
         "C\u1eebu Merino"
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":101927017,
-    "wof:lastmodified":1527715639,
+    "wof:lastmodified":1563373508,
     "wof:name":"Merino",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

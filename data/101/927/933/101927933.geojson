@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000596,
-    "geom:area_square_m":6402230.953808,
+    "geom:area_square_m":6402230.953806,
     "geom:bbox":"30.8099956512,-29.7684955597,30.8541889191,-29.7344284058",
     "geom:latitude":-29.752093,
     "geom:longitude":30.82957,
@@ -28,20 +28,32 @@
     "name:ast_x_preferred":[
         "Catarata"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u0644\u0627\u0644\u0647"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259lal\u0259"
     ],
     "name:bak_x_preferred":[
         "\u0428\u0430\u0440\u043b\u0430\u0443\u044b\u04a1"
     ],
+    "name:bar_x_preferred":[
+        "Waterfalls"
+    ],
+    "name:bcl_x_preferred":[
+        "Busay"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u0434\u0430\u0441\u043f\u0430\u0434"
     ],
     "name:bel_x_variant":[
-        "\u0412\u0430\u0434\u0430\u0441\u043f\u0430\u0434"
+        "\u0432\u0430\u0434\u0430\u0441\u043f\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09b2\u09aa\u09cd\u09b0\u09aa\u09be\u09a4"
+    ],
+    "name:bho_x_preferred":[
+        "\u091d\u0930\u0928\u093e"
     ],
     "name:bjn_x_preferred":[
         "Banyu tajun"
@@ -55,14 +67,23 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0434\u043e\u043f\u0430\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u0432\u043e\u0434\u043e\u043f\u0430\u0434"
+    ],
     "name:cat_x_preferred":[
         "Cascada"
+    ],
+    "name:cat_x_variant":[
+        "cascada"
     ],
     "name:cdo_x_preferred":[
         "B\u016dk-bu\u00f3"
     ],
     "name:ces_x_preferred":[
         "Vodop\u00e1d"
+    ],
+    "name:ces_x_variant":[
+        "vodop\u00e1d"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13b9\u13cd\u13a7\u13a6\u13af"
@@ -76,8 +97,14 @@
     "name:cym_x_preferred":[
         "Rhaeadr"
     ],
+    "name:cym_x_variant":[
+        "rhaeadr"
+    ],
     "name:dan_x_preferred":[
         "Vandfald"
+    ],
+    "name:dan_x_variant":[
+        "vandfald"
     ],
     "name:deu_x_preferred":[
         "Wasserfall"
@@ -85,11 +112,23 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c4\u03b1\u03c1\u03c1\u03ac\u03ba\u03c4\u03b7\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03ba\u03b1\u03c4\u03b1\u03c1\u03c1\u03ac\u03ba\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "waterfall"
+    ],
     "name:epo_x_preferred":[
         "Akvofalo"
     ],
+    "name:epo_x_variant":[
+        "akvofalo"
+    ],
     "name:est_x_preferred":[
         "Juga"
+    ],
+    "name:est_x_variant":[
+        "juga"
     ],
     "name:eus_x_preferred":[
         "Ur-jauzi"
@@ -103,8 +142,14 @@
     "name:fin_x_preferred":[
         "Vesiputous"
     ],
+    "name:fin_x_variant":[
+        "vesiputous"
+    ],
     "name:fra_x_preferred":[
         "Chute d'eau"
+    ],
+    "name:fra_x_variant":[
+        "chute d'eau"
     ],
     "name:fry_x_preferred":[
         "Wetterfal"
@@ -124,6 +169,9 @@
     "name:grn_x_preferred":[
         "Ytu"
     ],
+    "name:gsw_x_preferred":[
+        "Wasserfall"
+    ],
     "name:guj_x_preferred":[
         "\u0aa7\u0acb\u0aa7"
     ],
@@ -139,11 +187,20 @@
     "name:hrv_x_preferred":[
         "Vodopad"
     ],
+    "name:hsb_x_preferred":[
+        "wodopad"
+    ],
     "name:hun_x_preferred":[
         "V\u00edzes\u00e9s"
     ],
+    "name:hun_x_variant":[
+        "v\u00edzes\u00e9s"
+    ],
     "name:hye_x_preferred":[
         "\u054b\u0580\u057e\u0565\u056a"
+    ],
+    "name:hye_x_variant":[
+        "\u057b\u0580\u057e\u0565\u056a"
     ],
     "name:ido_x_preferred":[
         "Aquofalo"
@@ -159,6 +216,9 @@
     ],
     "name:ita_x_preferred":[
         "Cascata"
+    ],
+    "name:ita_x_variant":[
+        "cascata"
     ],
     "name:jav_x_preferred":[
         "Grojogan"
@@ -187,6 +247,12 @@
     "name:lav_x_preferred":[
         "\u016adenskritums"
     ],
+    "name:lav_x_variant":[
+        "\u016bdenskritums"
+    ],
+    "name:lim_x_preferred":[
+        "Waterval"
+    ],
     "name:lit_x_preferred":[
         "Krioklys"
     ],
@@ -202,11 +268,23 @@
     "name:mkd_x_preferred":[
         "\u0412\u043e\u0434\u043e\u043f\u0430\u0434"
     ],
+    "name:mkd_x_variant":[
+        "\u0432\u043e\u0434\u043e\u043f\u0430\u0434"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u04af\u0440\u0445\u0440\u044d\u044d"
     ],
+    "name:msa_x_preferred":[
+        "Air terjun"
+    ],
     "name:mya_x_preferred":[
         "\u101b\u1031\u1010\u1036\u1001\u103d\u1014\u103a"
+    ],
+    "name:nan_x_preferred":[
+        "Ch\u00fai-chhi\u00e2ng"
+    ],
+    "name:nds_x_preferred":[
+        "Waterfall"
     ],
     "name:nep_x_preferred":[
         "\u091d\u0930\u0928\u093e"
@@ -217,14 +295,29 @@
     "name:nld_x_preferred":[
         "Waterval"
     ],
+    "name:nld_x_variant":[
+        "waterval"
+    ],
     "name:nno_x_preferred":[
         "Foss"
+    ],
+    "name:nno_x_variant":[
+        "foss"
+    ],
+    "name:nob_x_preferred":[
+        "foss"
     ],
     "name:nor_x_preferred":[
         "Foss"
     ],
     "name:oci_x_preferred":[
         "Cascada"
+    ],
+    "name:oci_x_variant":[
+        "cascada"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b33\u0b2a\u0b4d\u0b30\u0b2a\u0b3e\u0b24"
     ],
     "name:pam_x_preferred":[
         "Tulari"
@@ -238,8 +331,14 @@
     "name:pol_x_preferred":[
         "Wodospad"
     ],
+    "name:pol_x_variant":[
+        "wodospad"
+    ],
     "name:por_x_preferred":[
         "Queda de \u00e1gua"
+    ],
+    "name:por_x_variant":[
+        "catarata"
     ],
     "name:que_x_preferred":[
         "Phaqcha"
@@ -250,14 +349,23 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0434\u043e\u043f\u0430\u0434"
     ],
+    "name:rus_x_variant":[
+        "\u0432\u043e\u0434\u043e\u043f\u0430\u0434"
+    ],
     "name:sah_x_preferred":[
         "\u041a\u04af\u0440\u04af\u043b\u0433\u044d\u043d"
     ],
     "name:san_x_preferred":[
         "\u091c\u0932\u092a\u093e\u0924\u0903"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c77\u1c5f\u1c68\u1c71\u1c5f"
+    ],
     "name:sco_x_preferred":[
         "Watterfaw"
+    ],
+    "name:sco_x_variant":[
+        "watterfaw"
     ],
     "name:slk_x_preferred":[
         "Vodop\u00e1d"
@@ -265,11 +373,17 @@
     "name:slv_x_preferred":[
         "Slap"
     ],
+    "name:sma_x_preferred":[
+        "garse"
+    ],
     "name:sna_x_preferred":[
         "Mapopoma"
     ],
     "name:spa_x_preferred":[
         "Cascada"
+    ],
+    "name:spa_x_variant":[
+        "cascada"
     ],
     "name:sqi_x_preferred":[
         "Uj\u00ebvara"
@@ -277,20 +391,35 @@
     "name:srp_x_preferred":[
         "\u0412\u043e\u0434\u043e\u043f\u0430\u0434"
     ],
+    "name:srp_x_variant":[
+        "\u0432\u043e\u0434\u043e\u043f\u0430\u0434"
+    ],
     "name:sun_x_preferred":[
         "Curug"
     ],
     "name:swa_x_preferred":[
         "Maporomoko ya maji"
     ],
+    "name:swa_x_variant":[
+        "Maporomoko maji"
+    ],
     "name:swe_x_preferred":[
         "Vattenfall"
+    ],
+    "name:swe_x_variant":[
+        "vattenfall"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bc1\u0bb5\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u0440\u043b\u0430\u0432\u044b\u043a"
+    ],
+    "name:tat_x_variant":[
+        "\u0448\u0430\u0440\u043b\u0430\u0432\u044b\u043a"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c9c\u0cb2\u0caa\u0cbe\u0ca4"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c32\u0c2a\u0c3e\u0c24\u0c2e\u0c41"
@@ -310,17 +439,35 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0434\u043e\u0441\u043f\u0430\u0434"
     ],
+    "name:ukr_x_variant":[
+        "\u0432\u043e\u0434\u043e\u0441\u043f\u0430\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0628\u0634\u0627\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Sharshara"
+    ],
     "name:vie_x_preferred":[
         "Th\u00e1c"
+    ],
+    "name:vro_x_preferred":[
+        "Viisadang"
     ],
     "name:war_x_preferred":[
         "Tubigh\u00f3g"
     ],
     "name:wln_x_preferred":[
         "Tcheyaedje d' aiwe"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7011\u5e03"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ec\u10e7\u10d0\u10e0\u10d2\u10d4\u10da\u10d0\u10e4\u10e3"
+    ],
+    "name:yue_x_preferred":[
+        "\u7011\u5e03"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ch\u00fai-chhi\u00e2ng"
@@ -372,7 +519,7 @@
         }
     ],
     "wof:id":101927933,
-    "wof:lastmodified":1527715638,
+    "wof:lastmodified":1563373497,
     "wof:name":"Waterfall",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

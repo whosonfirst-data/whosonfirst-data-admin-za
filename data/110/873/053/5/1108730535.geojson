@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Thabo Mofutsanyana-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Thabo Mofutsanyana District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Thabo Mofutsanyana"
     ],
@@ -42,11 +45,16 @@
     ],
     "name:eng_x_variant":[
         "Thabo Mofutsanyane District Municipality",
-        "Thabo Mofutsanyane",
         "Thabo Mofutsanyana District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Thabo Mofutsanyana ringkond"
     ],
     "name:fra_x_preferred":[
         "Thabo Mofutsanyane"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Thabo Mofutsanyana"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Thabo Mofutsanyane"
@@ -65,6 +73,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0445\u0430\u0431\u043e \u041c\u043e\u0444\u0443\u0442\u0441\u0430\u043d\u044c\u044f\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u535a\u00b7\u83ab\u5bcc\u5bdf\u6069\u4e9e\u7d0d\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1108730535,
-    "wof:lastmodified":1561840187,
+    "wof:lastmodified":1563372795,
     "wof:name":"Thabo Mofutsanyane",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

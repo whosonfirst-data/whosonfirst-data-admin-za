@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u062e\u0627\u0648\u062a\u064a\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Gauteng"
+    ],
+    "name:aze_x_preferred":[
+        "Qautenq vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u045e\u0442\u044d\u043d\u0433"
     ],
@@ -45,6 +51,9 @@
         "\u0413\u0430\u0443\u0442\u0435\u043d\u0433"
     ],
     "name:cat_x_preferred":[
+        "Gauteng"
+    ],
+    "name:ceb_x_preferred":[
         "Gauteng"
     ],
     "name:ces_x_preferred":[
@@ -71,6 +80,9 @@
     "name:est_x_preferred":[
         "Gautengi provints"
     ],
+    "name:est_x_variant":[
+        "Gauteng"
+    ],
     "name:eus_x_preferred":[
         "Gauteng"
     ],
@@ -89,6 +101,9 @@
     "name:fra_x_preferred":[
         "Gauteng"
     ],
+    "name:frr_x_preferred":[
+        "Gauteng"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0a82\u0a97"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:hrv_x_preferred":[
         "Gauteng"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0578\u0582\u057f\u0565\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Gauteng"
@@ -125,14 +143,23 @@
     "name:kor_x_preferred":[
         "\ud558\uc6b0\ud161 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud558\uc6b0\ud161\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Chrysotopia"
+    ],
+    "name:lat_x_variant":[
+        "Gauteng"
     ],
     "name:lav_x_preferred":[
         "Hautena"
     ],
     "name:lit_x_preferred":[
         "Gautengas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d57\u0d31\u0d4d\u0d31\u0d46\u0d19\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u091f\u0947\u0902\u0917"
@@ -194,8 +221,14 @@
     "name:som_x_preferred":[
         "Gauteng Gobol"
     ],
+    "name:som_x_variant":[
+        "Gauteng Province"
+    ],
     "name:sot_x_preferred":[
         "Kgauteng"
+    ],
+    "name:sot_x_variant":[
+        "Gauteng"
     ],
     "name:spa_x_preferred":[
         "Gauteng"
@@ -224,11 +257,17 @@
     "name:tsn_x_preferred":[
         "Gauteng"
     ],
+    "name:tso_x_preferred":[
+        "Gauteng"
+    ],
     "name:tur_x_preferred":[
         "Gauteng"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0430\u0443\u0442\u0435\u043d\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0443\u0442\u0435\u043d\u0433"
     ],
     "name:unk_x_variant":[
         "PWV"
@@ -248,11 +287,17 @@
     "name:vol_x_preferred":[
         "Kauti\u00e4n"
     ],
+    "name:wuu_x_preferred":[
+        "\u8c6a\u767b\u7701"
+    ],
     "name:xho_x_preferred":[
         "IPhondo yaRhawuti"
     ],
     "name:yor_x_preferred":[
         "Gauteng"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c6a\u767b"
     ],
     "name:zho_x_preferred":[
         "\u8c6a\u767b\u7701"
@@ -386,7 +431,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1561840161,
+    "wof:lastmodified":1563372048,
     "wof:name":"Gauteng",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

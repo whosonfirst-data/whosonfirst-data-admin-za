@@ -44,8 +44,14 @@
         "Sedibeng District Municipality",
         "Sedibeng"
     ],
+    "name:est_x_preferred":[
+        "Sedibengi ringkond"
+    ],
     "name:fra_x_preferred":[
         "Sedibeng"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Sedibeng"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Sedibeng"
@@ -67,6 +73,9 @@
     ],
     "name:swa_x_preferred":[
         "Sedibeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u8fea\u90a6\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1108730541,
-    "wof:lastmodified":1561840184,
+    "wof:lastmodified":1563372789,
     "wof:name":"Sedibeng",
     "wof:parent_id":85688923,
     "wof:placetype":"county",

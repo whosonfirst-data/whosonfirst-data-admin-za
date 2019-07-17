@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":3872686.795074,
+    "geom:area_square_m":3872686.795073,
     "geom:bbox":"18.4378051758,-34.145732972,18.4697778321,-34.1209000787",
     "geom:latitude":-34.132683,
     "geom:longitude":18.455896,
@@ -29,6 +29,12 @@
     "name:afr_x_preferred":[
         "Kalkbaai"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u043a\u0431\u0430\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalkbaai"
+    ],
     "name:deu_x_preferred":[
         "Kalk Bay"
     ],
@@ -41,8 +47,17 @@
     "name:fra_x_preferred":[
         "Kalk Bay"
     ],
+    "name:ita_x_preferred":[
+        "Kalk Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Kalk Bay"
+    ],
     "name:unk_x_variant":[
         "Kalk Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u514b\u7063"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -110,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639328,
+    "wof:lastmodified":1563371957,
     "wof:name":"Kalk Bay",
     "wof:parent_id":101928039,
     "wof:placetype":"neighbourhood",

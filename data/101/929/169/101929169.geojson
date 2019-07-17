@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000693,
-    "geom:area_square_m":7181072.318237,
+    "geom:area_square_m":7181072.318238,
     "geom:bbox":"27.8503894806,-33.0448760986,27.9178199768,-33.0248069763",
     "geom:latitude":-33.034249,
     "geom:longitude":27.881597,
@@ -26,17 +26,38 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u062a \u0644\u0646\u062f\u0646"
     ],
+    "name:ast_x_preferred":[
+        "East London"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u062f\u0646 \u0634\u0631\u0642\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u0442-\u041b\u043e\u043d\u0434\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b8\u09cd\u099f \u09b2\u09a8\u09cd\u09a1\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u0435\u043d \u041b\u043e\u043d\u0434\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "East London"
+    ],
+    "name:ceb_x_preferred":[
+        "East London"
+    ],
+    "name:ces_x_preferred":[
+        "East London"
     ],
     "name:dan_x_preferred":[
         "East London"
     ],
     "name:deu_x_preferred":[
         "East London"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "East London"
@@ -47,6 +68,12 @@
     "name:epo_x_preferred":[
         "Orient-Londono"
     ],
+    "name:est_x_preferred":[
+        "East London"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0646 \u0634\u0631\u0642\u06cc"
+    ],
     "name:fin_x_preferred":[
         "East London"
     ],
@@ -56,6 +83,9 @@
     "name:glg_x_preferred":[
         "East London"
     ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0ab8\u0acd\u0a9f \u0ab2\u0a82\u0aa1\u0aa8"
+    ],
     "name:hak_x_preferred":[
         "T\u00fbng L\u00f9n-t\u00fbn"
     ],
@@ -64,6 +94,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e1\u05d8 \u05dc\u05d5\u05e0\u05d3\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0908\u0938\u094d\u091f \u0932\u0928\u094d\u0926\u0928"
     ],
     "name:hrv_x_preferred":[
         "East London"
@@ -80,11 +113,20 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30c8\u30fb\u30ed\u30f3\u30c9\u30f3"
     ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0cb2\u0c82\u0ca1\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10e2-\u10da\u10dd\u10dc\u10d3\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud2b8\ub7f0\ub358"
     ],
     "name:lat_x_preferred":[
         "Londinium Orientale"
+    ],
+    "name:lav_x_preferred":[
+        "\u012astlondona"
     ],
     "name:lit_x_preferred":[
         "Yst Londonas"
@@ -92,10 +134,19 @@
     "name:mar_x_preferred":[
         "\u0908\u0938\u094d\u091f \u0932\u0902\u0921\u0928"
     ],
+    "name:msa_x_preferred":[
+        "East London"
+    ],
     "name:nld_x_preferred":[
         "Oos-Londen"
     ],
+    "name:nld_x_variant":[
+        "Oost-Londen"
+    ],
     "name:nno_x_preferred":[
+        "East London"
+    ],
+    "name:nob_x_preferred":[
         "East London"
     ],
     "name:nor_x_preferred":[
@@ -119,6 +170,12 @@
     "name:rus_x_preferred":[
         "\u0418\u0441\u0442-\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dbd\u0db1\u0dca\u0da9\u0db1\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "East London"
+    ],
     "name:sna_x_preferred":[
         "East London"
     ],
@@ -137,6 +194,15 @@
     "name:swe_x_preferred":[
         "East London"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c08\u0c38\u0c4d\u0c1f\u0c4d \u0c32\u0c02\u0c21\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e2a\u0e15\u0e4c\u0e25\u0e2d\u0e19\u0e14\u0e2d\u0e19"
+    ],
     "name:tsn_x_preferred":[
         "East London"
     ],
@@ -146,11 +212,23 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0442-\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u0679 \u0644\u0646\u062f\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng London"
+    ],
     "name:vol_x_preferred":[
+        "East London"
+    ],
+    "name:war_x_preferred":[
         "East London"
     ],
     "name:xho_x_preferred":[
         "EMonti"
+    ],
+    "name:yue_x_preferred":[
+        "\u6771\u502b\u6566"
     ],
     "name:zho_x_preferred":[
         "\u6771\u502b\u6566"
@@ -198,7 +276,7 @@
         }
     ],
     "wof:id":101929169,
-    "wof:lastmodified":1527715583,
+    "wof:lastmodified":1563373388,
     "wof:name":"East London",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

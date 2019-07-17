@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17746864.882884,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.879264,-29.960901,30.879264,-29.960901",
     "geom:latitude":-29.960901,
     "geom:longitude":30.879264,
@@ -25,10 +25,55 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:afr_x_preferred":[
+        "Umlazi"
+    ],
+    "name:cat_x_preferred":[
+        "Umlazi"
+    ],
+    "name:deu_x_preferred":[
+        "Umlazi"
+    ],
     "name:eng_x_preferred":[
         "Umlazi"
     ],
+    "name:est_x_preferred":[
+        "Umlazi"
+    ],
+    "name:fra_x_preferred":[
+        "Umlazi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0574\u056c\u0561\u0566\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Umlazi"
+    ],
+    "name:nso_x_preferred":[
+        "Umlazi"
+    ],
+    "name:oci_x_preferred":[
+        "Umlazi"
+    ],
+    "name:ron_x_preferred":[
+        "Umlazi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u043b\u0430\u0437\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Umlazi"
+    ],
     "name:unk_x_variant":[
+        "Umlazi"
+    ],
+    "name:war_x_preferred":[
+        "Umlazi"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u62c9\u6fdf"
+    ],
+    "name:zul_x_preferred":[
         "Umlazi"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -63,11 +108,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927987,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859552,
+    "wof:lastmodified":1563371993,
     "wof:name":"Umlazi",
     "wof:parent_id":101927987,
     "wof:placetype":"neighbourhood",

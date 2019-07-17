@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27164914.978021,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.853452,-29.814589,30.853452,-29.814589",
     "geom:latitude":-29.814589,
     "geom:longitude":30.853452,
@@ -25,11 +25,38 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:afr_x_preferred":[
+        "Pinetown"
+    ],
+    "name:deu_x_preferred":[
+        "Pinetown"
+    ],
     "name:eng_x_preferred":[
         "Pinetown"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u062a\u0648\u0648\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Pinetown"
+    ],
+    "name:nso_x_preferred":[
+        "Pinetown"
+    ],
+    "name:ron_x_preferred":[
+        "Pinetown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u043d\u0442\u0430\u0443\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0439\u043d\u0442\u0430\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Pinetown"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u6069\u6566"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -63,10 +90,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859537,
+    "wof:lastmodified":1563371969,
     "wof:name":"Pinetown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

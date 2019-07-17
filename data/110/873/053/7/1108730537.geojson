@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Fezile Dabi-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Fezile Dabi District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Fezile Dabi"
     ],
@@ -41,11 +44,16 @@
         "Fezile Dabi"
     ],
     "name:eng_x_variant":[
-        "Fezile Dabi District Municipality",
-        "Fezile Dabi"
+        "Fezile Dabi District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Fezile Dabi ringkond"
     ],
     "name:fra_x_preferred":[
         "Fezile Dabi"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Fezile Dabi"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Fezile Dabi"
@@ -73,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Fezile Dabi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u9f4a\u840a\u9054\u6bd4\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1108730537,
-    "wof:lastmodified":1561840185,
+    "wof:lastmodified":1563372792,
     "wof:name":"Fezile Dabi",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

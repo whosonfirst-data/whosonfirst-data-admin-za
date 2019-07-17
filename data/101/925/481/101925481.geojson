@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Quaga"
     ],
+    "name:cat_x_variant":[
+        "quaga"
+    ],
     "name:ces_x_preferred":[
         "Zebra kvaga"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03ac\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "quagga"
     ],
     "name:eus_x_preferred":[
         "Equus quagga quagga"
@@ -76,6 +82,9 @@
     "name:hye_x_preferred":[
         "\u053f\u057e\u0561\u0563\u0563\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u056f\u057e\u0561\u0563\u0563\u0561"
+    ],
     "name:ido_x_preferred":[
         "Quago"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30a2\u30c3\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10d2\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0432\u0430\u0433\u0433\u0430"
@@ -115,6 +127,9 @@
     "name:nld_x_preferred":[
         "Quagga"
     ],
+    "name:nob_x_preferred":[
+        "kvagga"
+    ],
     "name:nor_x_preferred":[
         "Kvagga"
     ],
@@ -123,6 +138,9 @@
     ],
     "name:por_x_preferred":[
         "Quaga"
+    ],
+    "name:por_x_variant":[
+        "quagga"
     ],
     "name:ron_x_preferred":[
         "Cvaga"
@@ -133,11 +151,17 @@
     "name:sco_x_preferred":[
         "Quagga"
     ],
+    "name:sco_x_variant":[
+        "quagga"
+    ],
     "name:spa_x_preferred":[
         "Equus quagga quagga"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0432\u0430\u0433\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u043a\u0432\u0430\u0433\u0430"
     ],
     "name:stq_x_preferred":[
         "Quagga"
@@ -153,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "Quagga"
+    ],
+    "name:yue_x_preferred":[
+        "\u64ec\u6591\u99ac"
     ],
     "name:zho_x_preferred":[
         "\u6591\u9a62"
@@ -198,7 +225,7 @@
         }
     ],
     "wof:id":101925481,
-    "wof:lastmodified":1527688522,
+    "wof:lastmodified":1563373348,
     "wof:name":"Quagga",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

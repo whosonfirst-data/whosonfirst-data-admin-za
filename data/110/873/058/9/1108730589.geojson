@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Ehlanzeni-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Ehlanzeni District"
+    ],
     "name:deu_x_preferred":[
         "Ehlanzeni"
     ],
@@ -44,8 +47,14 @@
         "Ehlanzeni District Municipality",
         "Ehlanzeni"
     ],
+    "name:est_x_preferred":[
+        "Ehlanzeni ringkond"
+    ],
     "name:fra_x_preferred":[
         "Ehlanzeni"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Ehlanzeni"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Ehlanzeni"
@@ -73,6 +82,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Ehlanzeni"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u8d6b\u6fa4\u5c3c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1108730589,
-    "wof:lastmodified":1561840213,
+    "wof:lastmodified":1563372847,
     "wof:name":"Ehlanzeni",
     "wof:parent_id":85688895,
     "wof:placetype":"county",

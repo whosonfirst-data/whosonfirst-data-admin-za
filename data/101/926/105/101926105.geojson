@@ -19,7 +19,13 @@
     "name:afr_x_preferred":[
         "Lenasia"
     ],
+    "name:deu_x_preferred":[
+        "Lenasia"
+    ],
     "name:eng_x_preferred":[
+        "Lenasia"
+    ],
+    "name:est_x_preferred":[
         "Lenasia"
     ],
     "name:fra_x_preferred":[
@@ -34,14 +40,23 @@
     "name:nso_x_preferred":[
         "Lenasia"
     ],
+    "name:nso_x_variant":[
+        "Kotakala"
+    ],
     "name:ron_x_preferred":[
         "Lenasia"
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bc6\u0ba9\u0bbe\u0b9a\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0bc6\u0ba9\u0bc7\u0bb7\u0bbf\u0baf\u0bbe"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0626\u06cc\u0646\u0627\u0633\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u85a9\u5c3c\u4e9e"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":101926105,
-    "wof:lastmodified":1561840243,
+    "wof:lastmodified":1563373548,
     "wof:name":"Lenasia",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

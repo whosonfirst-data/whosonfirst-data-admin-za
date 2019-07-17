@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u0648\u0628\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Limpopo vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041b\u0456\u043c\u043f\u043e\u043f\u0430"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Limpopo"
+    ],
+    "name:ceb_x_preferred":[
+        "Limpopo"
     ],
     "name:ces_x_preferred":[
         "Limpopo"
@@ -95,6 +101,9 @@
         "Limpopo Province",
         "Limpopo"
     ],
+    "name:frr_x_preferred":[
+        "Limpopo"
+    ],
     "name:glg_x_preferred":[
         "Limpopo"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:hrv_x_preferred":[
         "Limpopo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u057a\u0578\u057a\u0578"
     ],
     "name:ind_x_preferred":[
         "Limpopo"
@@ -139,10 +151,14 @@
         "\ubd81\ubd80 \uc8fc"
     ],
     "name:kor_x_variant":[
-        "\ub9bc\ud3ec\ud3ec \uc8fc"
+        "\ub9bc\ud3ec\ud3ec \uc8fc",
+        "\ub9bc\ud3ec\ud3ec\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Provincia Limpopi"
+    ],
+    "name:lat_x_variant":[
+        "Limpopo\u00ebnsis"
     ],
     "name:lav_x_preferred":[
         "Limpopo"
@@ -152,6 +168,9 @@
     ],
     "name:lit_x_variant":[
         "Limpopas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3f\u0d02\u0d2a\u0d4b\u0d2a\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u094d\u092a\u094b\u092a\u094b"
@@ -186,8 +205,14 @@
     "name:pol_x_preferred":[
         "Prowincja P\u00f3\u0142nocna"
     ],
+    "name:pol_x_variant":[
+        "Limpopo"
+    ],
     "name:por_x_preferred":[
         "Prov\u00edncia Setentrional"
+    ],
+    "name:por_x_variant":[
+        "Limpopo"
     ],
     "name:ron_x_preferred":[
         "Provincia Limpopo"
@@ -253,6 +278,9 @@
     "name:tsn_x_preferred":[
         "Kgaolo ya Limpopo"
     ],
+    "name:tsn_x_variant":[
+        "Limpopo"
+    ],
     "name:tso_x_preferred":[
         "Limpopo"
     ],
@@ -277,11 +305,17 @@
     "name:vol_x_preferred":[
         "Limpopoi\u00e4n"
     ],
+    "name:wuu_x_preferred":[
+        "\u6797\u6ce2\u6ce2\u7701"
+    ],
     "name:xho_x_preferred":[
         "IPhondo yaLimpopo"
     ],
     "name:yor_x_preferred":[
         "Limpopo"
+    ],
+    "name:yue_x_preferred":[
+        "\u6797\u6ce2\u6ce2"
     ],
     "name:zho_x_preferred":[
         "\u5317\u90e8\u7701"
@@ -416,7 +450,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1561840149,
+    "wof:lastmodified":1563372021,
     "wof:name":"Limpopo",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

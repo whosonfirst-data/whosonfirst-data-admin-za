@@ -44,8 +44,14 @@
         "Sekhukhune District Municipality",
         "Sekhukhune"
     ],
+    "name:est_x_preferred":[
+        "Sekhukhune ringkond"
+    ],
     "name:fra_x_preferred":[
         "Sekhukhune"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Sekhukhune"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale della Grande Sekhukhune"
@@ -67,6 +73,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0445\u0443\u043a\u0445\u0443\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sekhukhune"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u514b\u80e1\u514b\u80e1\u5c3c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1108730581,
-    "wof:lastmodified":1561840214,
+    "wof:lastmodified":1563372848,
     "wof:name":"Sekhukhune",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

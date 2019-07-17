@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Provincia Cabo del Norte"
+    ],
     "name:aze_x_preferred":[
         "\u015eimal Burun \u0259yal\u0259ti"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:cat_x_preferred":[
         "Cap Septentrional"
+    ],
+    "name:ceb_x_preferred":[
+        "Province of Northern Cape"
     ],
     "name:ces_x_preferred":[
         "Severn\u00ed Kapsko"
@@ -71,6 +77,9 @@
     "name:est_x_preferred":[
         "P\u00f5hja-Kapimaa provints"
     ],
+    "name:est_x_variant":[
+        "P\u00f5hja-Kapimaa"
+    ],
     "name:eus_x_preferred":[
         "Lurmutur Iparraldea"
     ],
@@ -83,8 +92,14 @@
     "name:fin_x_preferred":[
         "Pohjois-Kap"
     ],
+    "name:fin_x_variant":[
+        "Northern Cape"
+    ],
     "name:fra_x_preferred":[
         "Cap du Nord"
+    ],
+    "name:frr_x_preferred":[
+        "Nuurdkap"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0a95\u0ac7\u0aaa"
@@ -116,6 +131,9 @@
     "name:ita_x_preferred":[
         "Provincia del Capo Settentrionale"
     ],
+    "name:ita_x_variant":[
+        "provincia del Capo Settentrionale"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u30b1\u30fc\u30d7\u5dde"
     ],
@@ -128,8 +146,14 @@
     "name:kor_x_preferred":[
         "\ub178\ub358\ucf00\uc774\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub178\ub358\ucf00\uc774\ud504\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Caput boreale"
+    ],
+    "name:lat_x_variant":[
+        "Promontorium Septemtrionale"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013ck\u0101pa"
@@ -154,6 +178,9 @@
     ],
     "name:nob_x_preferred":[
         "Northern Cape"
+    ],
+    "name:nob_x_variant":[
+        "Noord-Kaap"
     ],
     "name:nor_x_preferred":[
         "Northern Cape"
@@ -191,6 +218,9 @@
     "name:sin_x_preferred":[
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0dda\u0db4\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Severn\u00e9 Kapsko"
+    ],
     "name:som_x_preferred":[
         "Northern Cape Province"
     ],
@@ -224,6 +254,9 @@
     "name:tsn_x_preferred":[
         "Kapa Bokone"
     ],
+    "name:tsn_x_variant":[
+        "Northern Cape"
+    ],
     "name:tur_x_preferred":[
         "Kuzey Kap"
     ],
@@ -254,11 +287,17 @@
     "name:yor_x_preferred":[
         "Northern Cape"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u958b\u666e"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u958b\u666e\u7701"
     ],
     "name:zul_x_preferred":[
         "IKipi laseNyakatho"
+    ],
+    "name:zul_x_variant":[
+        "Nyakatho Kapa"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZAF",
@@ -386,7 +425,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1561840162,
+    "wof:lastmodified":1563372054,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

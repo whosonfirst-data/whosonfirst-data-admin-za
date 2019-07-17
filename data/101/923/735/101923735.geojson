@@ -19,17 +19,38 @@
     "name:cat_x_preferred":[
         "Ruta mar\u00edtima"
     ],
+    "name:cat_x_variant":[
+        "ruta mar\u00edtima"
+    ],
     "name:ces_x_preferred":[
         "N\u00e1mo\u0159n\u00ed trasa"
+    ],
+    "name:ces_x_variant":[
+        "n\u00e1mo\u0159n\u00ed trasa"
     ],
     "name:deu_x_preferred":[
         "Seeweg"
     ],
+    "name:eng_x_preferred":[
+        "sea lane"
+    ],
+    "name:est_x_preferred":[
+        "meretee"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0647\u200c\u0647\u0627\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "vesiv\u00e4yl\u00e4"
+    ],
     "name:fra_x_preferred":[
         "Couloir maritime"
+    ],
+    "name:fra_x_variant":[
+        "couloir maritime"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05ea\u05d9\u05d1 \u05d9\u05de\u05d9"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30ec\u30fc\u30f3"
@@ -40,8 +61,29 @@
     "name:nld_x_preferred":[
         "Zeeroute"
     ],
+    "name:nld_x_variant":[
+        "zeeroute"
+    ],
+    "name:nob_x_preferred":[
+        "led"
+    ],
+    "name:pol_x_preferred":[
+        "droga morska"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0441\u043a\u0438\u0435 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u044b"
+    ],
     "name:spa_x_preferred":[
         "Ruta mar\u00edtima"
+    ],
+    "name:spa_x_variant":[
+        "ruta mar\u00edtima"
+    ],
+    "name:swe_x_preferred":[
+        "farled"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8f2a\u822a\u7dda"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -82,7 +124,7 @@
         }
     ],
     "wof:id":101923735,
-    "wof:lastmodified":1527688300,
+    "wof:lastmodified":1563373245,
     "wof:name":"Sealane",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

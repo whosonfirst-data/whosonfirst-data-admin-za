@@ -26,6 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Soutrivier"
+    ],
+    "name:ceb_x_preferred":[
+        "Salt River"
+    ],
     "name:eng_x_preferred":[
         "Salt River"
     ],
@@ -33,9 +39,18 @@
         "Soutrivier",
         "Zoutrivier"
     ],
+    "name:fra_x_preferred":[
+        "Salt River"
+    ],
+    "name:nld_x_preferred":[
+        "Salt River"
+    ],
     "name:unk_x_variant":[
         "Zoutrivier",
         "Salt River"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7d\u6cb3"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -99,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497308199,
+    "wof:lastmodified":1563371961,
     "wof:name":"Salt River",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15626739.618524,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.859026,-26.240575,27.859026,-26.240575",
     "geom:latitude":-26.240575,
     "geom:longitude":27.859026,
@@ -27,8 +27,29 @@
     "mz:min_zoom":11.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Soweto"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Soweto"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0648\u062a\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Soveto"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09af\u09bc\u09c7\u09a4\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Soweto"
+    ],
+    "name:ces_x_preferred":[
+        "Soweto"
     ],
     "name:dan_x_preferred":[
         "Soweto"
@@ -45,17 +66,59 @@
     "name:eng_x_variant":[
         "Mpanzaville"
     ],
+    "name:epo_x_preferred":[
+        "Soweto"
+    ],
+    "name:eus_x_preferred":[
+        "Soweto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0648\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Soweto"
+    ],
     "name:fra_x_preferred":[
         "Soweto"
     ],
+    "name:gle_x_preferred":[
+        "Soweto"
+    ],
+    "name:glg_x_preferred":[
+        "Soweto"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acb\u0ab5\u0ac7\u0a9f\u0acb"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d5\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0949\u0935\u0947\u091f\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Soweto"
+    ],
+    "name:hun_x_preferred":[
+        "Soweto"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0578\u0582\u0565\u057f\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Soweto"
+    ],
+    "name:ita_x_preferred":[
+        "Soweto"
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30a8\u30c8"
     ],
     "name:jpn_x_variant":[
         "\u30bd\u30a6\u30a7\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccc\u0c8f\u0ca4\u0ccb"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10d5\u10d4\u10e2\u10dd"
@@ -69,14 +132,47 @@
     "name:lit_x_preferred":[
         "Sovetas"
     ],
+    "name:ltz_x_preferred":[
+        "Soweto"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094b\u0935\u094d\u0939\u093f\u091f\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Soweto"
+    ],
+    "name:msa_x_preferred":[
+        "Soweto"
+    ],
     "name:nld_x_preferred":[
+        "Soweto"
+    ],
+    "name:nob_x_preferred":[
         "Soweto"
     ],
     "name:nor_x_preferred":[
         "Soweto"
     ],
+    "name:pol_x_preferred":[
+        "Soweto"
+    ],
+    "name:por_x_preferred":[
+        "Soweto"
+    ],
+    "name:ron_x_preferred":[
+        "Soweto"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0443\u044d\u0442\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddc\u0dc0\u0dd9\u0da7\u0ddd"
+    ],
+    "name:slk_x_preferred":[
+        "Soweto"
+    ],
+    "name:slv_x_preferred":[
+        "Soweto"
     ],
     "name:spa_x_preferred":[
         "Soweto"
@@ -87,6 +183,18 @@
     "name:swe_x_preferred":[
         "Soweto"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bcb\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4b\u0c35\u0c46\u0c1f\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0b\u0e40\u0e27\u0e42\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Soweto"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u043e"
     ],
@@ -94,8 +202,23 @@
         "Mpanzaville",
         "Soweto"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0648\u06cc\u062a\u0648"
+    ],
+    "name:ven_x_preferred":[
+        "Soweto"
+    ],
+    "name:vie_x_preferred":[
+        "Soweto"
+    ],
+    "name:war_x_preferred":[
+        "Soweto"
+    ],
     "name:zho_x_preferred":[
         "\u7d22\u97e6\u6258"
+    ],
+    "name:zul_x_preferred":[
+        "Soweto"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -130,11 +253,11 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101926037,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +284,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859548,
+    "wof:lastmodified":1563371964,
     "wof:name":"Soweto",
     "wof:parent_id":101926037,
     "wof:placetype":"neighbourhood",
