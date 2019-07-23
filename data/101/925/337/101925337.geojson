@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000403,
-    "geom:area_square_m":4495565.47856,
+    "geom:area_square_m":4495565.478558,
     "geom:bbox":"27.2854766846,-25.5833568573,27.3080062866,-25.5496673584",
     "geom:latitude":-25.565953,
     "geom:longitude":27.296623,
@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "kana"
+    ],
+    "name:bcl_x_preferred":[
+        "Kana"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430"
     ],
@@ -31,8 +37,14 @@
     "name:bos_x_preferred":[
         "Kana"
     ],
+    "name:bul_x_preferred":[
+        "\u043a\u0430\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Kana"
+    ],
+    "name:cat_x_variant":[
+        "kana"
     ],
     "name:cdo_x_preferred":[
         "Kana"
@@ -40,11 +52,29 @@
     "name:ces_x_preferred":[
         "Kana"
     ],
+    "name:ces_x_variant":[
+        "kana"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0627\u0646\u0627"
+    ],
     "name:dan_x_preferred":[
         "Kana"
     ],
     "name:deu_x_preferred":[
         "Japanische Schrift#Kana"
+    ],
+    "name:deu_x_variant":[
+        "Kana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "kana"
+    ],
+    "name:epo_x_preferred":[
+        "kanao"
     ],
     "name:est_x_preferred":[
         "Kana"
@@ -61,11 +91,23 @@
     "name:fin_x_preferred":[
         "Kana"
     ],
+    "name:fin_x_variant":[
+        "kana"
+    ],
     "name:fra_x_preferred":[
         "Kana"
     ],
+    "name:fra_x_variant":[
+        "kana"
+    ],
     "name:glg_x_preferred":[
         "Kana"
+    ],
+    "name:hak_x_preferred":[
+        "Kana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0928\u093e"
@@ -76,10 +118,16 @@
     "name:hun_x_preferred":[
         "Kana"
     ],
+    "name:hye_x_preferred":[
+        "\u056f\u0561\u0576\u0561"
+    ],
     "name:ind_x_preferred":[
         "Aksara kana"
     ],
     "name:ita_x_preferred":[
+        "Kana"
+    ],
+    "name:jav_x_preferred":[
         "Kana"
     ],
     "name:jbo_x_preferred":[
@@ -88,11 +136,20 @@
     "name:jpn_x_preferred":[
         "\u4eee\u540d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uac00\ub098"
     ],
     "name:lat_x_preferred":[
         "Kana"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5047\u540d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u043a\u0430\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
         "Kana"
@@ -100,14 +157,35 @@
     "name:msa_x_preferred":[
         "Tulisan Kana"
     ],
+    "name:mya_x_preferred":[
+        "\u1001\u1014"
+    ],
+    "name:nan_x_preferred":[
+        "Kana"
+    ],
     "name:nld_x_preferred":[
+        "Kana"
+    ],
+    "name:nno_x_preferred":[
+        "kana"
+    ],
+    "name:nob_x_preferred":[
+        "kana"
+    ],
+    "name:oci_x_preferred":[
         "Kana"
     ],
     "name:pol_x_preferred":[
         "Kana"
     ],
+    "name:pol_x_variant":[
+        "kana"
+    ],
     "name:por_x_preferred":[
         "Kana"
+    ],
+    "name:por_x_variant":[
+        "kana"
     ],
     "name:ron_x_preferred":[
         "Kana"
@@ -115,8 +193,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u043a\u0430\u043d\u0430"
+    ],
     "name:sco_x_preferred":[
         "Kana"
+    ],
+    "name:sco_x_variant":[
+        "kana"
     ],
     "name:slk_x_preferred":[
         "Kana"
@@ -126,6 +210,9 @@
     ],
     "name:srp_x_preferred":[
         "Kana"
+    ],
+    "name:srp_x_variant":[
+        "\u043a\u0430\u043d\u0430"
     ],
     "name:sun_x_preferred":[
         "Kana"
@@ -148,8 +235,20 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u043a\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0646\u0627"
+    ],
     "name:vie_x_preferred":[
         "Kana"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5047\u540d"
+    ],
+    "name:yue_x_preferred":[
+        "\u5047\u540d"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kana"
@@ -203,7 +302,7 @@
         }
     ],
     "wof:id":101925337,
-    "wof:lastmodified":1527688519,
+    "wof:lastmodified":1563373281,
     "wof:name":"Kana",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

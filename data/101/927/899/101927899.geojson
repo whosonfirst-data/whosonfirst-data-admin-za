@@ -28,11 +28,17 @@
     "name:ast_x_preferred":[
         "Pietermaritzburg"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u062a\u0631\u0645\u0627\u0631\u06cc\u062a\u0633\u0628\u0631\u0642"
+    ],
     "name:bar_x_preferred":[
         "Pietermaritzburg"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u0442\u044d\u0440\u043c\u0430\u0440\u044b\u0446\u0431\u0443\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0456\u0442\u044d\u0440\u043c\u0430\u0440\u044b\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u099f\u09be\u09b0\u09ae\u09cd\u09af\u09be\u09b0\u09bf\u099c\u09ac\u09be\u09b0\u09cd\u0997"
@@ -44,6 +50,9 @@
         "\u041f\u0438\u0442\u0435\u0440\u043c\u0430\u0440\u0438\u0446\u0431\u044c\u043e\u0440\u0433"
     ],
     "name:cat_x_preferred":[
+        "Pietermaritzburg"
+    ],
+    "name:ceb_x_preferred":[
         "Pietermaritzburg"
     ],
     "name:ces_x_preferred":[
@@ -86,6 +95,9 @@
         "Pietermaritzburg"
     ],
     "name:frp_x_preferred":[
+        "Pietermaritzburg"
+    ],
+    "name:frr_x_preferred":[
         "Pietermaritzburg"
     ],
     "name:fur_x_preferred":[
@@ -325,8 +337,14 @@
     "name:wol_x_preferred":[
         "Pietermaritzburg"
     ],
+    "name:xho_x_preferred":[
+        "NguMgungundlovu"
+    ],
     "name:yor_x_preferred":[
         "Pietermaritzburg"
+    ],
+    "name:yue_x_preferred":[
+        "\u5f7c\u5f97\u99ac\u91cc\u8328\u5821"
     ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97\u9a6c\u91cc\u8328\u5821"
@@ -376,7 +394,7 @@
         }
     ],
     "wof:id":101927899,
-    "wof:lastmodified":1561840242,
+    "wof:lastmodified":1563373522,
     "wof:name":"Pietermaritzburg",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

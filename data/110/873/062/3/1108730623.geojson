@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u041a\u0430\u0440\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Central Karoo District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Central Karoo"
     ],
@@ -44,11 +47,16 @@
         "Central Karoo"
     ],
     "name:eng_x_variant":[
-        "Central Karoo District Municipality",
-        "Central Karoo"
+        "Central Karoo District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Kesk-Karoo ringkond"
     ],
     "name:fra_x_preferred":[
         "Central Karoo"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Central Karoo"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Central Karoo"
@@ -76,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u041a\u0430\u0440\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5361\u9b6f\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1108730623,
-    "wof:lastmodified":1561840182,
+    "wof:lastmodified":1563372786,
     "wof:name":"Central Karoo",
     "wof:parent_id":85688905,
     "wof:placetype":"county",

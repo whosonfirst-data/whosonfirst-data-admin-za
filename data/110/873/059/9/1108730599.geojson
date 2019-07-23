@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0440\u0430\u043d\u0441\u0435\u0441 \u0411\u0430\u0430\u0440\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Frances Baard District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Frances Baard"
     ],
@@ -44,11 +47,16 @@
         "Frances Baard"
     ],
     "name:eng_x_variant":[
-        "Frances Baard District Municipality",
-        "Frances Baard"
+        "Frances Baard District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Frances Baardi ringkond"
     ],
     "name:fra_x_preferred":[
         "Frances Baard"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Frances Baard"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Frances Baard"
@@ -67,6 +75,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Frances Baard"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6717\u897f\u7d72\u00b7\u5df4\u723e\u5fb7\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +115,7 @@
         }
     ],
     "wof:id":1108730599,
-    "wof:lastmodified":1561840198,
+    "wof:lastmodified":1563372817,
     "wof:name":"Frances Baard",
     "wof:parent_id":85688899,
     "wof:placetype":"county",

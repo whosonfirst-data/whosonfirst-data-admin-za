@@ -27,10 +27,22 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0634\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0448\u043e"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0448\u043e"
     ],
     "name:cat_x_preferred":[
+        "Bhisho"
+    ],
+    "name:cat_x_variant":[
+        "Bisho"
+    ],
+    "name:ceb_x_preferred":[
         "Bhisho"
     ],
     "name:dan_x_preferred":[
@@ -54,8 +66,14 @@
     "name:epo_x_variant":[
         "Bisho"
     ],
+    "name:est_x_preferred":[
+        "Bhisho"
+    ],
     "name:eus_x_preferred":[
         "Bhisho"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0634\u0648"
     ],
     "name:fin_x_preferred":[
         "Bhisho"
@@ -71,6 +89,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05e9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0936\u094b"
     ],
     "name:hrv_x_preferred":[
         "Bhisho"
@@ -90,11 +111,17 @@
     "name:lat_x_preferred":[
         "Bhisho"
     ],
+    "name:lav_x_preferred":[
+        "Bi\u0161o"
+    ],
     "name:lit_x_preferred":[
         "Bi\u0161o"
     ],
     "name:mar_x_preferred":[
         "\u092d\u093f\u0936\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Bhisho"
     ],
     "name:nld_x_preferred":[
         "Bhisho"
@@ -179,6 +206,9 @@
     ],
     "name:yor_x_preferred":[
         "Bhisho"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u7d39"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u7ecd"
@@ -327,7 +357,7 @@
         }
     ],
     "wof:id":101929097,
-    "wof:lastmodified":1561840236,
+    "wof:lastmodified":1563373400,
     "wof:name":"Bisho",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

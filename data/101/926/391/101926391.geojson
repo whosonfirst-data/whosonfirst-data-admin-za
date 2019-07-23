@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":379999.867056,
+    "geom:area_square_m":379999.867055,
     "geom:bbox":"27.8841838837,-26.6532154083,27.8933944702,-26.6453647614",
     "geom:latitude":-26.649346,
     "geom:longitude":27.88858,
@@ -40,6 +40,9 @@
     "name:ast_x_preferred":[
         "Homero"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0644\u0631 \u0644\u0646\u062f\u06cc\u0646\u0642"
+    ],
     "name:aze_x_preferred":[
         "Homer"
     ],
@@ -47,6 +50,9 @@
         "\u0413\u043e\u043c\u0435\u0440"
     ],
     "name:bar_x_preferred":[
+        "Homer"
+    ],
+    "name:bcl_x_preferred":[
         "Homer"
     ],
     "name:bel_x_preferred":[
@@ -57,6 +63,12 @@
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09ae\u09be\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u0939\u094b\u092e\u0930"
+    ],
+    "name:bis_x_preferred":[
+        "Homer"
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0f7c\u0f0b\u0f58\u0f74\u0f62\u0f0d"
@@ -72,6 +84,9 @@
     ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u043c\u0435\u0440"
+    ],
+    "name:bxr_x_variant":[
+        "\u0413\u043e\u043c\u0435\u0440"
     ],
     "name:cat_x_preferred":[
         "Homer"
@@ -106,8 +121,14 @@
     "name:diq_x_preferred":[
         "Homeros"
     ],
+    "name:dty_x_preferred":[
+        "\u0939\u094b\u092e\u0930"
+    ],
     "name:ell_x_preferred":[
         "\u038c\u03bc\u03b7\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Homer"
     ],
     "name:epo_x_preferred":[
         "Homero"
@@ -151,8 +172,17 @@
     "name:glg_x_preferred":[
         "Homero"
     ],
+    "name:grc_x_preferred":[
+        "\u1f4d\u03bc\u03b7\u03c1\u03bf\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Hom\u00e9ro"
+    ],
+    "name:gsw_x_preferred":[
+        "Homer"
+    ],
+    "name:hak_x_preferred":[
+        "Homeros"
     ],
     "name:hat_x_preferred":[
         "Homer"
@@ -183,6 +213,9 @@
     ],
     "name:ido_x_preferred":[
         "Homero"
+    ],
+    "name:ido_x_variant":[
+        "Homeros"
     ],
     "name:ilo_x_preferred":[
         "Homero"
@@ -223,7 +256,19 @@
     "name:kaz_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0440"
     ],
+    "name:kaz_x_variant":[
+        "\u04ba\u043e\u043c\u0435\u0440"
+    ],
     "name:kbd_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "Hom\u00e8re"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17bc\u1798\u17d0\u179a"
+    ],
+    "name:kir_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0440"
     ],
     "name:kor_x_preferred":[
@@ -240,6 +285,9 @@
     ],
     "name:lav_x_preferred":[
         "Hom\u0113rs"
+    ],
+    "name:lfn_x_preferred":[
+        "Homero"
     ],
     "name:lim_x_preferred":[
         "Homeros"
@@ -289,11 +337,23 @@
     "name:mya_x_preferred":[
         "\u101f\u102d\u102f\u1038\u1019\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0648\u0645\u0631"
+    ],
+    "name:nan_x_preferred":[
+        "Homeros"
+    ],
     "name:nau_x_preferred":[
         "Homer"
     ],
     "name:nds_x_preferred":[
         "Homer"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u094b\u092e\u0930"
     ],
     "name:new_x_preferred":[
         "\u0939\u094b\u092e\u0930"
@@ -302,6 +362,9 @@
         "Homerus"
     ],
     "name:nno_x_preferred":[
+        "Homer"
+    ],
+    "name:nob_x_preferred":[
         "Homer"
     ],
     "name:nor_x_preferred":[
@@ -318,6 +381,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0440"
+    ],
+    "name:pag_x_preferred":[
+        "Homer"
     ],
     "name:pam_x_preferred":[
         "Homer"
@@ -355,17 +421,26 @@
     "name:rue_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0440"
     ],
+    "name:rup_x_preferred":[
+        "Homeru"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0440"
     ],
     "name:sah_x_preferred":[
         "\u0425\u043e\u043c\u0435\u0440"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c5a\u1c62\u1c64\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Omeru"
     ],
     "name:sco_x_preferred":[
         "Homer"
+    ],
+    "name:sgs_x_preferred":[
+        "Huomers"
     ],
     "name:slk_x_preferred":[
         "Hom\u00e9r"
@@ -445,11 +520,17 @@
     "name:vol_x_preferred":[
         "Homeros"
     ],
+    "name:vro_x_preferred":[
+        "Homeros"
+    ],
     "name:war_x_preferred":[
         "Homeros"
     ],
     "name:wln_x_preferred":[
         "Homere"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8377\u99ac"
     ],
     "name:xmf_x_preferred":[
         "\u10f0\u10dd\u10db\u10d4\u10e0\u10dd\u10e1\u10d8"
@@ -459,6 +540,9 @@
     ],
     "name:yor_x_preferred":[
         "Homer"
+    ],
+    "name:yue_x_preferred":[
+        "\u8377\u99ac"
     ],
     "name:zha_x_preferred":[
         "Hozmaj"
@@ -510,7 +594,7 @@
         }
     ],
     "wof:id":101926391,
-    "wof:lastmodified":1527715812,
+    "wof:lastmodified":1563373544,
     "wof:name":"Homer",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":39272463.467293,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.082447,-29.722652,31.082447,-29.722652",
     "geom:latitude":-29.722652,
     "geom:longitude":31.082447,
@@ -25,14 +25,47 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:afr_x_preferred":[
+        "Umhlanga Rocks"
+    ],
+    "name:ceb_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:deu_x_preferred":[
+        "Umhlanga"
+    ],
     "name:eng_x_preferred":[
         "Umhlanga"
     ],
     "name:eng_x_variant":[
         "Umhlanga Rocks"
     ],
+    "name:est_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:fra_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:nld_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:nso_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:ron_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:spa_x_preferred":[
+        "Umhlanga"
+    ],
     "name:unk_x_variant":[
         "Umhlanga"
+    ],
+    "name:war_x_preferred":[
+        "Umhlanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u8d6b\u862d\u54c8"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -66,11 +99,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927913,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860457,
+    "wof:lastmodified":1563371983,
     "wof:name":"Umhlanga",
     "wof:parent_id":101927913,
     "wof:placetype":"neighbourhood",

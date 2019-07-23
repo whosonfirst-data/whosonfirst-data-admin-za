@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":2252286.322654,
+    "geom:area_square_m":2252286.322655,
     "geom:bbox":"30.1986732483,-22.9146366119,30.2312030792,-22.8920936584",
     "geom:latitude":-22.904044,
     "geom:longitude":30.218403,
@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Mandala"
     ],
+    "name:cat_x_variant":[
+        "mandala"
+    ],
     "name:ces_x_preferred":[
         "Mandala"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:deu_x_preferred":[
         "Mandala"
+    ],
+    "name:ell_x_preferred":[
+        "\u03bc\u03b1\u03bd\u03c4\u03b1\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "mandala"
     ],
     "name:epo_x_preferred":[
         "Mandalo"
@@ -64,6 +73,9 @@
     "name:fra_x_preferred":[
         "Mandala"
     ],
+    "name:fra_x_variant":[
+        "mandala"
+    ],
     "name:fry_x_preferred":[
         "Mandala"
     ],
@@ -82,6 +94,9 @@
     "name:ind_x_preferred":[
         "Mandala"
     ],
+    "name:ind_x_variant":[
+        "mandala"
+    ],
     "name:ita_x_preferred":[
         "Mandala"
     ],
@@ -90,6 +105,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u66fc\u837c\u7f85"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0c82\u0ca1\u0cb2"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10dc\u10d3\u10d0\u10da\u10d0"
@@ -109,6 +127,9 @@
     "name:nld_x_preferred":[
         "Mandala"
     ],
+    "name:nob_x_preferred":[
+        "mandala"
+    ],
     "name:nor_x_preferred":[
         "Mandala"
     ],
@@ -117,6 +138,9 @@
     ],
     "name:por_x_preferred":[
         "Mandala"
+    ],
+    "name:por_x_variant":[
+        "mandala"
     ],
     "name:ron_x_preferred":[
         "Mandala"
@@ -130,17 +154,26 @@
     "name:spa_x_preferred":[
         "M\u00e1ndala"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0430\u043b\u0430"
+    ],
     "name:sun_x_preferred":[
         "Mandala"
     ],
     "name:swe_x_preferred":[
         "Mandala"
     ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e13\u0e11\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Mandala"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u0688\u0644"
     ],
     "name:vie_x_preferred":[
         "M\u1ea1n-\u0111\u00e0-la"
@@ -187,7 +220,7 @@
         }
     ],
     "wof:id":101923939,
-    "wof:lastmodified":1527688297,
+    "wof:lastmodified":1563373209,
     "wof:name":"Mandala",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

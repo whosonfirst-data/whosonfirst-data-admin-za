@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003671,
-    "geom:area_square_m":37605072.62176,
+    "geom:area_square_m":37605072.621761,
     "geom:bbox":"18.5376684571,-34.0967866252,18.6441112979,-34.0267286443",
     "geom:latitude":-34.066212,
     "geom:longitude":18.598397,
@@ -26,10 +26,25 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Mitchells Plein"
+    ],
+    "name:deu_x_preferred":[
+        "Mitchells Plain"
+    ],
     "name:eng_x_preferred":[
         "Mitchells Plain"
     ],
+    "name:fra_x_preferred":[
+        "Mitchells Plain"
+    ],
     "name:unk_x_variant":[
+        "Mitchells Plain"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u6b47\u723e\u5e73\u539f"
+    ],
+    "name:zul_x_preferred":[
         "Mitchells Plain"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":85772357,
-    "wof:lastmodified":1497312344,
+    "wof:lastmodified":1563371974,
     "wof:name":"Mitchells Plain",
     "wof:parent_id":101928029,
     "wof:placetype":"neighbourhood",

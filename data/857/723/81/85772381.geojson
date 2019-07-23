@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001355,
-    "geom:area_square_m":13872839.012667,
+    "geom:area_square_m":13872839.012663,
     "geom:bbox":"18.4514125335,-34.1184482954,18.5205895996,-34.0847476912",
     "geom:latitude":-34.100255,
     "geom:longitude":18.489513,
@@ -32,6 +32,18 @@
     "name:afr_x_preferred":[
         "Muizenberg"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0451\u0439\u0437\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Muizenberg"
+    ],
+    "name:ces_x_preferred":[
+        "Muizenberg"
+    ],
+    "name:dan_x_preferred":[
+        "Muizenberg"
+    ],
     "name:deu_x_preferred":[
         "Muizenberg"
     ],
@@ -44,6 +56,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d9\u05d6\u05e0\u05d1\u05e8\u05d2"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d9\u05d5\u05d6\u05e0\u05d1\u05e8\u05d2"
+    ],
     "name:ita_x_preferred":[
         "Muizenberg"
     ],
@@ -53,10 +68,22 @@
     "name:nso_x_preferred":[
         "Muizenberg"
     ],
+    "name:oci_x_preferred":[
+        "Muizenberg"
+    ],
     "name:por_x_preferred":[
         "Muizenberg"
     ],
     "name:ron_x_preferred":[
+        "Muizenberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0451\u0439\u0437\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Muizenberg"
+    ],
+    "name:slv_x_preferred":[
         "Muizenberg"
     ],
     "name:tur_x_preferred":[
@@ -64,6 +91,9 @@
     ],
     "name:unk_x_variant":[
         "Muizenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u6851\u5821\u5e02"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -145,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379836,
+    "wof:lastmodified":1563371976,
     "wof:name":"Muizenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

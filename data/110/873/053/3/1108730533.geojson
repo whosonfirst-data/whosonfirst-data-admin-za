@@ -44,8 +44,14 @@
         "Lejweleputswa District Municipality",
         "Lejweleputswa"
     ],
+    "name:est_x_preferred":[
+        "Lejweleputswa ringkond"
+    ],
     "name:fra_x_preferred":[
         "Lejweleputswa"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Lejweleputswa"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Lejweleputswa"
@@ -62,8 +68,14 @@
     "name:pol_x_preferred":[
         "Lejweleputswa"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0434\u0436\u0432\u0435\u043b\u0435\u043f\u0443\u0446\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Lejweleputswa"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u4f0a\u97cb\u840a\u666e\u8328\u74e6\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108730533,
-    "wof:lastmodified":1561840186,
+    "wof:lastmodified":1563372794,
     "wof:name":"Lejweleputswa",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

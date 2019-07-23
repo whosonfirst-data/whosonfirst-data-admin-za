@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002144,
-    "geom:area_square_m":24013166.580836,
+    "geom:area_square_m":24013166.580838,
     "geom:bbox":"29.4839382172,-25.0770282745,29.5503883362,-25.0177459717",
     "geom:latitude":-25.044549,
     "geom:longitude":29.510563,
@@ -23,31 +23,61 @@
         "\u0410\u0431\u0440\u0430\u0434"
     ],
     "name:bel_x_variant":[
-        "\u0410\u0431\u0440\u0430\u0434"
+        "\u0430\u0431\u0440\u0430\u0434"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u0440\u0435\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u043e\u0431\u0440\u0435\u0434"
+    ],
     "name:cat_x_preferred":[
         "Ritu"
+    ],
+    "name:cat_x_variant":[
+        "ritu"
     ],
     "name:ces_x_preferred":[
         "Ritus"
     ],
+    "name:ces_x_variant":[
+        "ritus"
+    ],
     "name:dan_x_preferred":[
         "Ritus"
+    ],
+    "name:dan_x_variant":[
+        "ritus"
     ],
     "name:deu_x_preferred":[
         "Ritus"
     ],
+    "name:eng_x_preferred":[
+        "rite"
+    ],
+    "name:epo_x_preferred":[
+        "rito"
+    ],
+    "name:eus_x_preferred":[
+        "erritu"
+    ],
     "name:fin_x_preferred":[
         "Riitti"
+    ],
+    "name:fin_x_variant":[
+        "riitti"
     ],
     "name:fra_x_preferred":[
         "Rite"
     ],
+    "name:fra_x_variant":[
+        "rite"
+    ],
     "name:glg_x_preferred":[
         "Rito"
+    ],
+    "name:glg_x_variant":[
+        "rito"
     ],
     "name:hbs_x_preferred":[
         "Obred"
@@ -55,56 +85,119 @@
     "name:hrv_x_preferred":[
         "Obred"
     ],
+    "name:hun_x_preferred":[
+        "R\u00edtus"
+    ],
     "name:hye_x_preferred":[
         "\u053e\u0565\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053e\u0567\u057d"
     ],
     "name:ido_x_preferred":[
         "Rituo"
     ],
+    "name:ido_x_variant":[
+        "rituo"
+    ],
     "name:ind_x_preferred":[
         "Ritus"
+    ],
+    "name:ind_x_variant":[
+        "ritus"
     ],
     "name:ita_x_preferred":[
         "Rito"
     ],
+    "name:ita_x_variant":[
+        "rito"
+    ],
     "name:lat_x_preferred":[
         "Ritus"
+    ],
+    "name:lat_x_variant":[
+        "ritus"
+    ],
+    "name:lav_x_preferred":[
+        "reli\u0123isks ritu\u0101ls"
     ],
     "name:lit_x_preferred":[
         "Apeigos"
     ],
+    "name:msa_x_preferred":[
+        "upacara"
+    ],
     "name:nld_x_preferred":[
+        "Rite"
+    ],
+    "name:nld_x_variant":[
+        "rite"
+    ],
+    "name:nno_x_preferred":[
+        "ritus"
+    ],
+    "name:oci_x_preferred":[
         "Rite"
     ],
     "name:pol_x_preferred":[
         "Obrz\u0105dek"
     ],
+    "name:pol_x_variant":[
+        "obrz\u0105dek"
+    ],
     "name:por_x_preferred":[
         "Rito"
+    ],
+    "name:por_x_variant":[
+        "rito"
     ],
     "name:ron_x_preferred":[
         "Rit"
     ],
+    "name:ron_x_variant":[
+        "rit"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0431\u0440\u044f\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u043e\u0431\u0440\u044f\u0434"
     ],
     "name:scn_x_preferred":[
         "Riti"
     ],
+    "name:scn_x_variant":[
+        "riti"
+    ],
     "name:slk_x_preferred":[
         "R\u00edtus"
+    ],
+    "name:slk_x_variant":[
+        "r\u00edtus"
     ],
     "name:spa_x_preferred":[
         "Rito"
     ],
+    "name:spa_x_variant":[
+        "rito"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u0440\u0435\u0434"
+    ],
+    "name:srp_x_variant":[
+        "\u043e\u0431\u0440\u0435\u0434"
     ],
     "name:swe_x_preferred":[
         "Rit"
     ],
+    "name:swe_x_variant":[
+        "rit"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0440\u044f\u0434"
+    ],
+    "name:ukr_x_variant":[
+        "\u043e\u0431\u0440\u044f\u0434"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -145,7 +238,7 @@
         }
     ],
     "wof:id":101924891,
-    "wof:lastmodified":1527677690,
+    "wof:lastmodified":1563373183,
     "wof:name":"Rite",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

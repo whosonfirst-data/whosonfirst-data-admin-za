@@ -47,8 +47,17 @@
         "Capricorn District Municipality",
         "Capricorn"
     ],
+    "name:est_x_preferred":[
+        "Capricorni ringkond"
+    ],
     "name:fra_x_preferred":[
         "Capricorn"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057a\u0580\u056b\u056f\u0578\u0580\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Capricorn"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Capricorn"
@@ -73,6 +82,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Capricorn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u7faf\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1108730577,
-    "wof:lastmodified":1561840204,
+    "wof:lastmodified":1563372830,
     "wof:name":"Capricorn",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

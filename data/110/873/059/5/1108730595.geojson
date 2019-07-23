@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Pixley ka Seme-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Pixley ka Seme District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Pixley Ka Seme"
     ],
@@ -44,8 +47,14 @@
         "Pixley ka Seme District Municipality",
         "Pixley ka Seme"
     ],
+    "name:est_x_preferred":[
+        "Pixley ka Seme ringkond"
+    ],
     "name:fra_x_preferred":[
         "Pixley Ka Seme"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Pixley ka Seme"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Pixley ka Seme"
@@ -64,6 +73,9 @@
     ],
     "name:pol_x_preferred":[
         "Pixley ka Seme"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u514b\u65af\u5229\u00b7\u5361\u00b7\u585e\u6885\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108730595,
-    "wof:lastmodified":1561840203,
+    "wof:lastmodified":1563372825,
     "wof:name":"Pixley ka Seme",
     "wof:parent_id":85688899,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17867155.159094,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.766115,-29.770106,30.766115,-29.770106",
     "geom:latitude":-29.770106,
     "geom:longitude":30.766115,
@@ -25,7 +25,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:afr_x_preferred":[
+        "Hillcrest"
+    ],
+    "name:deu_x_preferred":[
+        "Hillcrest"
+    ],
     "name:eng_x_preferred":[
+        "Hillcrest"
+    ],
+    "name:nld_x_preferred":[
+        "Hillcrest"
+    ],
+    "name:nso_x_preferred":[
         "Hillcrest"
     ],
     "name:unk_x_variant":[
@@ -63,11 +75,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927935,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859516,
+    "wof:lastmodified":1563371954,
     "wof:name":"Hillcrest",
     "wof:parent_id":101927935,
     "wof:placetype":"neighbourhood",

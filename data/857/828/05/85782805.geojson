@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10412460.997568,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.026231,-26.010336,28.026231,-26.010336",
     "geom:latitude":-26.010336,
     "geom:longitude":28.026231,
@@ -26,11 +26,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Lone Hill"
+    ],
     "name:eng_x_preferred":[
         "Lonehill"
     ],
+    "name:eng_x_variant":[
+        "Lone Hill"
+    ],
+    "name:nld_x_preferred":[
+        "Lone Hill"
+    ],
     "name:unk_x_variant":[
         "Lonehill"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b64\u5c71"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -67,11 +79,11 @@
     "wd:longitude":28.027,
     "wd:wordcount":28,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925679,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860415,
+    "wof:lastmodified":1563371938,
     "wof:name":"Lonehill",
     "wof:parent_id":101925679,
     "wof:placetype":"neighbourhood",

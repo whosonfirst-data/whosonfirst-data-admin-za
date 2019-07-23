@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7993472.772694,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.187894,-25.748651,28.187894,-25.748651",
     "geom:latitude":-25.748651,
     "geom:longitude":28.187894,
@@ -29,11 +29,20 @@
     "name:afr_x_preferred":[
         "Kgo\u0161i Mampuru II-bestuursgebied"
     ],
+    "name:afr_x_variant":[
+        "Kgosi Mampuru II-beheergebied"
+    ],
     "name:cat_x_preferred":[
         "Pres\u00f3 Central de Pret\u00f2ria"
     ],
+    "name:dan_x_preferred":[
+        "Pretoria Centralf\u00e6ngsel"
+    ],
     "name:eng_x_preferred":[
         "Pretoria Central"
+    ],
+    "name:eng_x_variant":[
+        "Pretoria Central Prison"
     ],
     "name:spa_x_preferred":[
         "Prisi\u00f3n Central de Pretoria"
@@ -74,10 +83,10 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":219,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860452,
+    "wof:lastmodified":1563371991,
     "wof:name":"Pretoria Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

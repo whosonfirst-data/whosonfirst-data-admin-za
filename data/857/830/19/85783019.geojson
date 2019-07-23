@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11755036.93468,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.21689,-25.776645,28.21689,-25.776645",
     "geom:latitude":-25.776645,
     "geom:longitude":28.21689,
@@ -27,6 +27,9 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:afr_x_preferred":[
+        "Groenkloof"
+    ],
+    "name:ceb_x_preferred":[
         "Groenkloof"
     ],
     "name:eng_x_preferred":[
@@ -76,11 +79,11 @@
     "wd:longitude":28.217956,
     "wd:wordcount":319,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860442,
+    "wof:lastmodified":1563371988,
     "wof:name":"Groenkloof",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0439\u043f \u0423\u0430\u0439\u043d\u043b\u0430\u043d\u0434\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Cape Winelands District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Kapweinland"
     ],
@@ -44,11 +47,16 @@
         "Cape Winelands"
     ],
     "name:eng_x_variant":[
-        "Cape Winelands District Municipality",
-        "Cape Winelands"
+        "Cape Winelands District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Cape Winelandsi ringkond"
     ],
     "name:fra_x_preferred":[
         "Kapweinland"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Cape Winelands"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Cape Winelands"
@@ -73,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Cape Winelands"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6069\u862d\u89d2\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1108730615,
-    "wof:lastmodified":1561840198,
+    "wof:lastmodified":1563372816,
     "wof:name":"Cape Winelands",
     "wof:parent_id":85688905,
     "wof:placetype":"county",

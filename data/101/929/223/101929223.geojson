@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Grahamstown"
     ],
+    "name:ceb_x_preferred":[
+        "Grahamstown"
+    ],
     "name:ces_x_preferred":[
         "Grahamstown"
     ],
@@ -45,7 +48,13 @@
     "name:eng_x_preferred":[
         "Grahamstown"
     ],
+    "name:eng_x_variant":[
+        "Makhanda"
+    ],
     "name:epo_x_preferred":[
+        "Grahamstown"
+    ],
+    "name:est_x_preferred":[
         "Grahamstown"
     ],
     "name:fin_x_preferred":[
@@ -93,6 +102,9 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0945\u0939\u0945\u092e\u0938\u094d\u091f\u093e\u0909\u0928"
     ],
+    "name:mlg_x_preferred":[
+        "Grahamstown"
+    ],
     "name:msa_x_preferred":[
         "Grahamstown"
     ],
@@ -120,11 +132,20 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u044d\u0445\u044d\u043c\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0435\u0439\u0430\u043c\u0441\u0442\u0430\u0443\u043d"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u200d\u0dbb\u0dd0\u0dc4\u0dd0\u0db8\u0dca\u0dc3\u0dca\u0da7\u0dc0\u0dd4\u0db1\u0dca"
     ],
+    "name:sot_x_preferred":[
+        "Grahamstown"
+    ],
     "name:spa_x_preferred":[
         "Grahamstown"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0458\u0430\u043c\u0441\u0442\u0430\u0443\u043d"
     ],
     "name:swa_x_preferred":[
         "Grahamstown"
@@ -150,6 +171,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u0439\u0430\u043c\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0435\u043c\u0441\u0442\u0430\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Grahamstad"
     ],
@@ -164,6 +188,9 @@
     ],
     "name:xho_x_preferred":[
         "IRhini"
+    ],
+    "name:yue_x_preferred":[
+        "\u5609\u54b8\u57ce"
     ],
     "name:zho_x_preferred":[
         "\u683c\u62c9\u7f55\u93ae"
@@ -312,7 +339,7 @@
         }
     ],
     "wof:id":101929223,
-    "wof:lastmodified":1561840236,
+    "wof:lastmodified":1563373420,
     "wof:name":"Grahamstown",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

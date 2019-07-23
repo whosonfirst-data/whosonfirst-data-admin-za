@@ -34,6 +34,12 @@
     "name:afr_x_preferred":[
         "Nelson Mandelabaai Metropolitaanse Munisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Nelson Mandela Bay Metropolitan Municipality"
+    ],
+    "name:dan_x_preferred":[
+        "Nelson Mandela Bay Metro Municipality"
+    ],
     "name:deu_x_preferred":[
         "Nelson Mandela Bay"
     ],
@@ -41,11 +47,16 @@
         "Nelson Mandela Bay"
     ],
     "name:eng_x_variant":[
-        "Nelson Mandela Bay Metropolitan Municipality",
-        "Nelson Mandela Bay"
+        "Nelson Mandela Bay Metropolitan Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Nelson Mandela Bay linnaringkond"
     ],
     "name:fra_x_preferred":[
         "M\u00e9tropole Nelson Mandela"
+    ],
+    "name:fra_x_variant":[
+        "Nelson Mandela Bay"
     ],
     "name:ita_x_preferred":[
         "municipalit\u00e0 metropolitana di Nelson Mandela Bay"
@@ -55,6 +66,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub12c\uc2a8\ub9cc\ub378\ub77c\ubca0\uc774"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d46\u0d7d\u0d38\u0d7a \u0d2e\u0d23\u0d4d\u0d1f\u0d47\u0d32 \u0d2c\u0d47 \u0d2e\u0d46\u0d1f\u0d4d\u0d30\u0d4b\u0d2a\u0d4a\u0d33\u0d3f\u0d31\u0d4d\u0d31\u0d7b \u0d2e\u0d41\u0d28\u0d3f\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:nld_x_preferred":[
         "Nelson Mandelabaai"
@@ -73,6 +87,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad Metropolitana Nelson Mandela"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u043b\u0441\u043e\u043d \u041c\u0430\u043d\u0434\u0435\u043b\u0430 \u0431\u0443\u0445\u0442\u0430\u0441\u044b \u0448\u04d9\u04bb\u04d9\u0440 \u0431\u04af\u043b\u0433\u0435\u0441\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433 \u0411\u0443\u0445\u0442\u0430 \u041d\u0435\u043b\u044c\u0441\u043e\u043d\u0430 \u041c\u0430\u043d\u0434\u0435\u043b\u0438"
@@ -116,7 +133,7 @@
         }
     ],
     "wof:id":1108730527,
-    "wof:lastmodified":1561840187,
+    "wof:lastmodified":1563372797,
     "wof:name":"Nelson Mandela Bay",
     "wof:parent_id":85688927,
     "wof:placetype":"county",

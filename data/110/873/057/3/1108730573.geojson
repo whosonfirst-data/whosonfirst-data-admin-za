@@ -47,8 +47,14 @@
         "Mopani District Municipality",
         "Mopani"
     ],
+    "name:est_x_preferred":[
+        "Mopani ringkond"
+    ],
     "name:fra_x_preferred":[
         "Mopani"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Mopani"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Mopani"
@@ -73,6 +79,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Mopani"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u5e15\u5c3c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1108730573,
-    "wof:lastmodified":1561840205,
+    "wof:lastmodified":1563372832,
     "wof:name":"Mopani",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

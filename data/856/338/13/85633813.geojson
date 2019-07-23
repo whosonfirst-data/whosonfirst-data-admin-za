@@ -38,6 +38,9 @@
     "name:aka_x_preferred":[
         "Afrika Anaafo"
     ],
+    "name:aka_x_variant":[
+        "Abibir Anaafo"
+    ],
     "name:als_x_preferred":[
         "S\u00fcdafrika"
     ],
@@ -63,8 +66,14 @@
     "name:ast_x_preferred":[
         "Rep\u00fablica Sudafricana"
     ],
+    "name:ast_x_variant":[
+        "Sud\u00e1frica"
+    ],
     "name:azb_x_preferred":[
         "\u06af\u0648\u0646\u0626\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627"
+    ],
+    "name:azb_x_variant":[
+        "\u06af\u0648\u0646\u0626\u06cc \u0622\u0641\u0631\u06cc\u06a9\u0627"
     ],
     "name:aze_x_preferred":[
         "C\u0259nubi Afrika Respublikas\u0131"
@@ -84,14 +93,23 @@
     "name:bar_x_preferred":[
         "Sidafrika"
     ],
-    "name:bel_x_preferred":[
-        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0410\u0444\u0440\u044b\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+    "name:bar_x_variant":[
+        "Siadafrika"
     ],
-    "name:bel_x_variant":[
+    "name:bcl_x_preferred":[
+        "Sur na Aprika"
+    ],
+    "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0410\u0444\u0440\u044b\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0986\u09ab\u09cd\u09b0\u09bf\u0995\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0622\u067e\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:bho_x_preferred":[
+        "\u0926\u0915\u094d\u0916\u093f\u0928 \u0905\u092b\u093c\u094d\u0930\u0940\u0915\u093e"
     ],
     "name:bjn_x_preferred":[
         "Aprika Salatan"
@@ -114,6 +132,9 @@
     "name:bre_x_preferred":[
         "Suafrika"
     ],
+    "name:brh_x_preferred":[
+        "Soel\u00ed Afr\u00edk\u00e1"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u0430 \u0410\u0444\u0440\u0438\u043a\u0430"
     ],
@@ -124,6 +145,9 @@
     ],
     "name:bxr_x_preferred":[
         "\u0423\u0440\u0434\u0430 \u0410\u0444\u0440\u0438\u043a\u0430 (\u0443\u043b\u0430\u0441)"
+    ],
+    "name:bxr_x_variant":[
+        "\u0423\u0440\u0434\u0430 \u0410\u0444\u0440\u0438\u043a\u044b\u043d \u0423\u043b\u0430\u0441"
     ],
     "name:cat_x_preferred":[
         "Sud-\u00e0frica"
@@ -146,6 +170,9 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430-\u0410\u0444\u0440\u0438\u043a\u0438\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a4\u13a6\u13c3\u13ee\u13ac\u13bf\u13a8\u13cd\u13db"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0103\u043d\u0442\u0103\u0440 \u0410\u0444\u0440\u0438\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
@@ -195,6 +222,9 @@
     "name:dsb_x_preferred":[
         "P\u00f3dpo\u0142dnjowa Afrika"
     ],
+    "name:dty_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u093f\u0915\u093e"
+    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0f60\u0f74\u0f50\u0f0b\u0f68\u0f55\u0f0b\u0f62\u0f72\u0f0b\u0f40\u0f0b"
     ],
@@ -203,6 +233,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03cc\u03c4\u03b9\u03b1 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eml_x_preferred":[
+        "S\u00fcd Africa"
     ],
     "name:eng_x_preferred":[
         "South Africa"
@@ -239,7 +272,8 @@
         "Anyiehe Afrika"
     ],
     "name:ewe_x_variant":[
-        "Anyiehe Afrika nutome"
+        "Anyiehe Afrika nutome",
+        "South Africa"
     ],
     "name:ext_x_preferred":[
         "Sud\u00e1frica"
@@ -295,8 +329,20 @@
     "name:glv_x_preferred":[
         "Yn Affrick Yiass"
     ],
+    "name:gom_x_preferred":[
+        "Dokxin Afrika"
+    ],
+    "name:gor_x_preferred":[
+        "Afrika Selatan"
+    ],
     "name:grn_x_preferred":[
         "Yvy\u00e1frika"
+    ],
+    "name:grn_x_variant":[
+        "Yvyafrika"
+    ],
+    "name:gsw_x_preferred":[
+        "S\u00fcdafrika"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
@@ -363,6 +409,9 @@
     "name:ile_x_preferred":[
         "Sud-Africa"
     ],
+    "name:ile_x_variant":[
+        "Sud Africa"
+    ],
     "name:ilo_x_preferred":[
         "Abagatan nga Aprika"
     ],
@@ -372,14 +421,14 @@
     "name:ind_x_preferred":[
         "Afrika Selatan"
     ],
+    "name:inh_x_preferred":[
+        "\u0417I\u0438\u043b\u0431\u0443\u0445\u0435-\u0410\u0444\u0440\u0438\u043a\u0435\u0440\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
     "name:isl_x_preferred":[
         "Su\u00f0ur-Afr\u00edka"
     ],
     "name:ita_x_preferred":[
         "Sud Africa",
-        "Sudafrica"
-    ],
-    "name:ita_x_variant":[
         "Sudafrica"
     ],
     "name:jam_x_preferred":[
@@ -393,9 +442,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u5357\u30a2\u30d5\u30ea\u30ab",
-        "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
-    ],
-    "name:jpn_x_variant":[
         "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
     ],
     "name:kaa_x_preferred":[
@@ -425,6 +471,12 @@
     "name:kbd_x_preferred":[
         "\u0418\u043f\u0448\u044d \u0410\u0444\u0440\u0438\u043a\u044d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0418\u043f\u0448\u044a\u044d \u0410\u0444\u0440\u0438\u043a\u044d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Afrika Had\u025b ki\u014b"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17b6\u17a0\u17d2\u179c\u17d2\u179a\u17b7\u1780\u1781\u17b6\u1784\u178f\u17d2\u1794\u17bc\u1784"
     ],
@@ -432,7 +484,8 @@
         "Ab\u0129rika ya Kuthini"
     ],
     "name:kik_x_variant":[
-        "Afrika Kusini"
+        "Afrika Kusini",
+        "South Ab\u0129rika"
     ],
     "name:kin_x_preferred":[
         "Afurika y\u2019Epfo"
@@ -472,6 +525,9 @@
     "name:lao_x_preferred":[
         "\u0ead\u0eb2\u0e9f\u0eb0\u0ea5\u0eb4\u0e81\u0eb2\u0ec3\u0e95\u0ec9"
     ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec1\u0ead\u0e9f\u0ea3\u0eb4\u0e81\u0eb2\u0ec3\u0e95\u0ec9"
+    ],
     "name:lat_x_preferred":[
         "Africa Australis"
     ],
@@ -483,6 +539,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041a\u044c\u0438\u0431\u043b\u0435-\u0410\u0444\u0440\u0438\u043a\u0430\u0434\u0438\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Sudafrica"
     ],
     "name:lij_x_preferred":[
         "Sudafrica"
@@ -520,6 +579,15 @@
     "name:lug_x_preferred":[
         "Sawusafirika"
     ],
+    "name:lug_x_variant":[
+        "South Africa"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5357\u975e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u094d\u0930\u093f\u0915\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d26\u0d15\u0d4d\u0d37\u0d3f\u0d23\u0d3e\u0d2b\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u0d15"
     ],
@@ -534,6 +602,9 @@
     ],
     "name:min_x_preferred":[
         "Afrika Salatan"
+    ],
+    "name:min_x_variant":[
+        "Afrika Selatan"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
@@ -573,6 +644,15 @@
     ],
     "name:mzn_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0622\u0641\u0631\u06cc\u062e\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Africa Huitztl\u0101mpa"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m-hui-kok"
     ],
     "name:nau_x_preferred":[
         "South Aprika"
@@ -632,6 +712,9 @@
     "name:oci_x_preferred":[
         "Sud-Africa"
     ],
+    "name:olo_x_preferred":[
+        "Suvi Afriekku"
+    ],
     "name:ori_x_preferred":[
         "\u0b26\u0b15\u0b4d\u0b37\u0b3f\u0b23 \u0b06\u0b2b\u0b4d\u0b30\u0b3f\u0b15\u0b3e"
     ],
@@ -646,6 +729,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a05\u0a2b\u0a3c\u0a30\u0a40\u0a15\u0a3e"
+    ],
+    "name:pan_x_variant":[
+        "\u0a26\u0a71\u0a16\u0a23 \u0a05\u0a2b\u0a3c\u0a30\u0a40\u0a15\u0a3e"
     ],
     "name:pap_x_preferred":[
         "Sur Afrika"
@@ -709,14 +795,23 @@
     "name:sah_x_preferred":[
         "\u0421\u043e\u0495\u0443\u0440\u0443\u0443 \u0410\u0444\u0440\u0438\u043a\u0430 \u04e8\u0440\u04e9\u0441\u043f\u04af\u04af\u0431\u04af\u043b\u04af\u043a\u044d\u0442\u044d"
     ],
+    "name:sah_x_variant":[
+        "\u0421\u043e\u0495\u0443\u0440\u0443\u0443 \u0410\u0444\u0440\u0438\u043a\u0430"
+    ],
     "name:san_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923-\u0906\u092b\u094d\u0930\u093f\u0915\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5a\u1c67\u1c6e \u1c5f\u1c6f\u1c77\u1c68\u1c64\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "\u00c0frica d\u00fb Sud"
     ],
     "name:sco_x_preferred":[
         "Sooth Africae"
+    ],
+    "name:sgs_x_preferred":[
+        "P\u0117it\u016b Afr\u0117kas Respobl\u0117ka"
     ],
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0"
@@ -732,6 +827,9 @@
     ],
     "name:slv_x_variant":[
         "Ju\u017enoafri\u0161ka republika"
+    ],
+    "name:sma_x_preferred":[
+        "\u00c5arjel-Afrika"
     ],
     "name:sme_x_preferred":[
         "Lulli-Afrihkk\u00e1"
@@ -776,7 +874,8 @@
         "INingizimu Afrika"
     ],
     "name:ssw_x_variant":[
-        "iRiphabhulikhi ye Ningizimu Afrika"
+        "iRiphabhulikhi ye Ningizimu Afrika",
+        "IRiphabhulikhi yeNingizimu Afrika"
     ],
     "name:stq_x_preferred":[
         "Suud-Afrikoa"
@@ -808,6 +907,9 @@
     "name:tat_x_preferred":[
         "\u041a\u04e9\u043d\u044c\u044f\u043a \u0410\u0444\u0440\u0438\u043a\u0430 \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
     ],
+    "name:tcy_x_preferred":[
+        "\u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3 \u0c86\u0cab\u0ccd\u0cb0\u0cbf\u0c95\u0cbe"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c06\u0c2b\u0c4d\u0c30\u0c3f\u0c15\u0c3e"
     ],
@@ -816,6 +918,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0410\u0444\u0440\u0438\u049b\u043e\u0438 \u04b6\u0430\u043d\u0443\u0431\u04e3"
+    ],
+    "name:tgk_x_variant":[
+        "\u0410\u0444\u0440\u0438\u049b\u043e\u0438 \u04b6\u0430\u043d\u0443\u0431\u04e3"
     ],
     "name:tgl_x_preferred":[
         "South Africa"
@@ -863,6 +968,9 @@
     ],
     "name:tur_x_variant":[
         "G\u00fcney Afrika"
+    ],
+    "name:udm_x_preferred":[
+        "\u041b\u044b\u043c\u0448\u043e\u0440 \u0410\u0444\u0440\u0438\u043a\u0430\u044b\u0441\u044c \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u062c\u06d5\u0646\u06c7\u0628\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627"
@@ -922,6 +1030,9 @@
     "name:vol_x_preferred":[
         "Sul\u00fcdafrik\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "L\u00f5un\u00f5-Afriga Vabariik"
+    ],
     "name:war_x_preferred":[
         "Salatan nga Aprik\u00e1"
     ],
@@ -955,6 +1066,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Ariwa Afirika"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u975e\u5171\u548c\u570b"
     ],
     "name:zea_x_preferred":[
         "Zuud-Afrika"
@@ -1106,7 +1220,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1561840149,
+    "wof:lastmodified":1563372019,
     "wof:name":"South Africa",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

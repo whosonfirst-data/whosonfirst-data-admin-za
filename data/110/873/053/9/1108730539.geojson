@@ -44,6 +44,9 @@
         "Mangaung Metropolitan Municipality",
         "Mangaung"
     ],
+    "name:est_x_preferred":[
+        "Mangaungi linnaringkond"
+    ],
     "name:fra_x_preferred":[
         "Mangaung"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio Metropolitano de Mangaung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9686\u65b9\u4e39\u5927\u90fd\u6703\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1108730539,
-    "wof:lastmodified":1561840184,
+    "wof:lastmodified":1563372791,
     "wof:name":"Mangaung",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

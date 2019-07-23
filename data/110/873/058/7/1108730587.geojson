@@ -44,8 +44,14 @@
         "Nkangala District Municipality",
         "Nkangala"
     ],
+    "name:est_x_preferred":[
+        "Nkangala ringkond"
+    ],
     "name:fra_x_preferred":[
         "Nkangala"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Nkangala"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Nkangala"
@@ -70,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Nkangala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u5361\u683c\u62c9\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108730587,
-    "wof:lastmodified":1561840213,
+    "wof:lastmodified":1563372847,
     "wof:name":"Nkangala",
     "wof:parent_id":85688895,
     "wof:placetype":"county",

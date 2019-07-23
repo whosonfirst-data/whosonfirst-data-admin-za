@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Gert Sibande-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Gert Sibande District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Gert Sibande"
     ],
@@ -41,11 +44,16 @@
         "Gert Sibande"
     ],
     "name:eng_x_variant":[
-        "Gert Sibande District Municipality",
-        "Gert Sibande"
+        "Gert Sibande District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Gert Sibande ringkond"
     ],
     "name:fra_x_preferred":[
         "Gert Sibande"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Gert Sibande"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Gert Sibande"
@@ -70,6 +78,12 @@
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Gert Sibande"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u723e\u7279\u00b7\u897f\u73ed\u5fb7\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Gert Sibande District Municipality"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +121,7 @@
         }
     ],
     "wof:id":1108730585,
-    "wof:lastmodified":1561840214,
+    "wof:lastmodified":1563372849,
     "wof:name":"Gert Sibande",
     "wof:parent_id":85688895,
     "wof:placetype":"county",

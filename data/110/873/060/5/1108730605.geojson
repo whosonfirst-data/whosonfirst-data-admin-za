@@ -34,6 +34,9 @@
     "name:afr_x_preferred":[
         "Ngaka Modiri Molema-distriksmunisipaliteit"
     ],
+    "name:ceb_x_preferred":[
+        "Ngaka Modiri Molema District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Ngaka Modiri Molema"
     ],
@@ -41,11 +44,16 @@
         "Ngaka Modiri Molema"
     ],
     "name:eng_x_variant":[
-        "Ngaka Modiri Molema District Municipality",
-        "Ngaka Modiri Molema"
+        "Ngaka Modiri Molema District Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Ngaka Modiri Molema ringkond"
     ],
     "name:fra_x_preferred":[
         "Ngaka Modiri Molema"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Ngaka Modiri Molema"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Ngaka Modiri Molema"
@@ -73,6 +81,9 @@
     ],
     "name:tsn_x_preferred":[
         "Ngaka Modiri Molema District Municipality"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5361\u83ab\u8fea\u91cc\u83ab\u840a\u99ac\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1108730605,
-    "wof:lastmodified":1561840216,
+    "wof:lastmodified":1563372853,
     "wof:name":"Ngaka Modiri Molema",
     "wof:parent_id":85688931,
     "wof:placetype":"county",

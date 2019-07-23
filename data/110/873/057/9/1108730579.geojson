@@ -47,8 +47,14 @@
         "Waterberg District Municipality",
         "Waterberg"
     ],
+    "name:est_x_preferred":[
+        "Waterbergi ringkond"
+    ],
     "name:fra_x_preferred":[
         "Waterberg"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Waterberg"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Waterberg"
@@ -70,6 +76,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0442\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0442\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u7279\u8c9d\u683c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":1108730579,
-    "wof:lastmodified":1561840204,
+    "wof:lastmodified":1563372829,
     "wof:name":"Waterberg",
     "wof:parent_id":85688935,
     "wof:placetype":"county",
