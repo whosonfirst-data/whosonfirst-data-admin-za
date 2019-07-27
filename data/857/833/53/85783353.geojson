@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5195356.394357,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.396665,-29.643669,30.396665,-29.643669",
     "geom:latitude":-29.643669,
     "geom:longitude":30.396665,
@@ -66,6 +66,9 @@
     "name:fra_x_preferred":[
         "Ourebia ourebi"
     ],
+    "name:glg_x_preferred":[
+        "Ourebia ourebi"
+    ],
     "name:hau_x_preferred":[
         "Batsiya"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ea\u30d3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d8\u10d1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc624\ub9ac\ube44\uc601\uc591"
@@ -122,6 +128,9 @@
     ],
     "name:srp_x_preferred":[
         "Ourebia ourebi"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0440\u0438\u0431\u0438"
     ],
     "name:swa_x_preferred":[
         "Taya"
@@ -179,10 +188,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,7 +215,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860488,
+    "wof:lastmodified":1564193513,
     "wof:name":"Oribi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

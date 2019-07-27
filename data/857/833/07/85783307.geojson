@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9507115.021012,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.857635,-34.148755,18.857635,-34.148755",
     "geom:latitude":-34.148755,
     "geom:longitude":18.857635,
@@ -25,7 +25,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:deu_x_preferred":[
+        "Harbour Island"
+    ],
     "name:eng_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:swe_x_preferred":[
         "Harbour Island"
     ],
     "name:unk_x_variant":[
@@ -64,11 +73,11 @@
     "wd:wordcount":87,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
         101928041,
-        1108730611,
-        85688905
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860481,
+    "wof:lastmodified":1564193512,
     "wof:name":"Harbour Island",
     "wof:parent_id":101928041,
     "wof:placetype":"neighbourhood",

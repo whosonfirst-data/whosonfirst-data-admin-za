@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7869981.191254,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.0827,-26.165075,28.0827,-26.165075",
     "geom:latitude":-26.165075,
     "geom:longitude":28.0827,
@@ -26,7 +26,22 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:ceb_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:deu_x_preferred":[
+        "Orange Grove"
+    ],
     "name:eng_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:ita_x_preferred":[
+        "Orange Grove"
+    ],
+    "name:swe_x_preferred":[
         "Orange Grove"
     ],
     "name:unk_x_variant":[
@@ -64,11 +79,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925779,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859534,
+    "wof:lastmodified":1564193527,
     "wof:name":"Orange Grove",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

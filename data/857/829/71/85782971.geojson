@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2587317.565744,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.045003,-26.205816,28.045003,-26.205816",
     "geom:latitude":-26.205816,
     "geom:longitude":28.045003,
@@ -30,6 +30,9 @@
     ],
     "name:eng_x_variant":[
         "Central Business District"
+    ],
+    "name:por_x_preferred":[
+        "CBD"
     ],
     "name:unk_x_variant":[
         "Central Business District"
@@ -66,11 +69,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":148,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925779,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860436,
+    "wof:lastmodified":1564193504,
     "wof:name":"CBD",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12398843.975392,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.055528,-29.771762,31.055528,-29.771762",
     "geom:latitude":-29.771762,
     "geom:longitude":31.055528,
@@ -23,7 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:afr_x_preferred":[
+        "Durban-Noord"
+    ],
     "name:eng_x_preferred":[
+        "Durban North"
+    ],
+    "name:nso_x_preferred":[
         "Durban North"
     ],
     "name:unk_x_variant":[
@@ -60,10 +66,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859506,
+    "wof:lastmodified":1564193547,
     "wof:name":"Durban North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

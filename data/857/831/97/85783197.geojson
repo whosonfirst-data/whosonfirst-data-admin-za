@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6166324.653278,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.96262,-33.710662,18.96262,-33.710662",
     "geom:latitude":-33.710662,
     "geom:longitude":18.96262,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Groenvlei"
+    ],
     "name:eng_x_preferred":[
         "Groenvlei"
     ],
@@ -59,10 +62,10 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":16,
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730615,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860467,
+    "wof:lastmodified":1564193536,
     "wof:name":"Groenvlei",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

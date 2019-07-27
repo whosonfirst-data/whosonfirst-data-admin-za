@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4565468.638409,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.186545,-25.726218,28.186545,-25.726218",
     "geom:latitude":-25.726218,
     "geom:longitude":28.186545,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Capital Park"
+    ],
     "name:eng_x_preferred":[
         "Hercules"
     ],
@@ -65,11 +68,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":74,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859515,
+    "wof:lastmodified":1564193516,
     "wof:name":"Capital Park",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

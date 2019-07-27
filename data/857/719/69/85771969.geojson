@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6403374.958854,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.032191,-29.853306,31.032191,-29.853306",
     "geom:latitude":-29.853306,
     "geom:longitude":31.032191,
@@ -25,7 +25,37 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Addington"
+    ],
+    "name:deu_x_preferred":[
+        "Addington"
+    ],
     "name:eng_x_preferred":[
+        "Addington"
+    ],
+    "name:fra_x_preferred":[
+        "Addington"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d9\u05e0\u05d2\u05d8\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Addington"
+    ],
+    "name:nld_x_preferred":[
+        "Addington"
+    ],
+    "name:nor_x_preferred":[
+        "Addington"
+    ],
+    "name:pol_x_preferred":[
+        "Addington"
+    ],
+    "name:spa_x_preferred":[
+        "Addington"
+    ],
+    "name:swe_x_preferred":[
         "Addington"
     ],
     "name:unk_x_variant":[
@@ -64,11 +94,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":154,
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927971,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859495,
+    "wof:lastmodified":1564193543,
     "wof:name":"Addington",
     "wof:parent_id":101927971,
     "wof:placetype":"neighbourhood",

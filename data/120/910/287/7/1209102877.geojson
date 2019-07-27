@@ -27,6 +27,129 @@
     "iso:country":"ZA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0642\u0639 \u062c\u063a\u0631\u0627\u0641\u064a"
+    ],
+    "name:asm_x_preferred":[
+        "\u09a0\u09be\u0987"
+    ],
+    "name:bih_x_preferred":[
+        "\u091c\u0917\u0939"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Localitzaci\u00f3 absoluta"
+    ],
+    "name:cym_x_preferred":[
+        "Lle"
+    ],
+    "name:deu_x_preferred":[
+        "Standort"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "Geograafiline asend"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Sijainti"
+    ],
+    "name:fra_x_preferred":[
+        "Position"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e7\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0935\u0938\u094d\u0925\u093f\u0924\u093f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u056d\u0561\u0580\u0570\u0561\u0563\u0580\u0561\u056f\u0561\u0576 \u0564\u056b\u0580\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Luogo"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0ca5\u0cb3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10dd\u10d2\u10e0\u10d0\u10e4\u10d8\u10e3\u10da\u10d8 \u10db\u10d3\u10d4\u10d1\u10d0\u10e0\u10d4\u10dd\u10d1\u10d0"
+    ],
+    "name:lat_x_preferred":[
+        "Locus"
+    ],
+    "name:lav_x_preferred":[
+        "\u0122eogr\u0101fiskais st\u0101voklis"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u093e\u092f\u094d"
+    ],
+    "name:nld_x_preferred":[
+        "Locatie"
+    ],
+    "name:nor_x_preferred":[
+        "Sted"
+    ],
+    "name:pol_x_preferred":[
+        "Po\u0142o\u017cenie geograficzne"
+    ],
+    "name:por_x_preferred":[
+        "Localiza\u00e7\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435"
+    ],
+    "name:sah_x_preferred":[
+        "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u0439 \u0431\u0430\u043b\u0430\u04bb\u044b\u0430\u043d\u043d\u044c\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Locu"
+    ],
+    "name:slk_x_preferred":[
+        "Stanovisko"
+    ],
+    "name:spa_x_preferred":[
+        "Localizaci\u00f3n geogr\u00e1fica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:sun_x_preferred":[
+        "Patempatan"
+    ],
+    "name:swe_x_preferred":[
+        "Ort"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02"
+    ],
+    "name:tgl_x_preferred":[
+        "Lokasyon"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Co\u011frafi konum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0456\u0447\u043d\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0642\u0627\u0645\u0627\u062a"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5730\u7406\u4f4d\u7f6e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5730\u7406\u4f4d\u7f6e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -44,7 +167,7 @@
         }
     ],
     "wof:id":1209102877,
-    "wof:lastmodified":1536297676,
+    "wof:lastmodified":1564194191,
     "wof:name":"Location",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",

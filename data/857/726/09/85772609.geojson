@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8179706.214996,
+    "geom:area_square_m":0.0,
     "geom:bbox":"26.178518,-29.122081,26.178518,-29.122081",
     "geom:latitude":-29.122081,
     "geom:longitude":26.178518,
@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Universitas"
     ],
+    "name:spa_x_preferred":[
+        "Universitas"
+    ],
     "name:unk_x_variant":[
         "Universitas"
     ],
@@ -81,11 +84,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":78,
     "wof:belongsto":[
+        85688915,
         102191573,
         85633813,
         101927069,
-        1108730539,
-        85688915
+        1108730539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859553,
+    "wof:lastmodified":1564193542,
     "wof:name":"Universitas",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

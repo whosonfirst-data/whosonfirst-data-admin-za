@@ -43,11 +43,17 @@
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03c1\u03b1\u03c4\u03cc\u03c0\u03b5\u03b4\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c1\u03b1\u03c4\u03ce\u03bd\u03b1\u03c2"
+    ],
     "name:epo_x_preferred":[
         "Kazerno"
     ],
     "name:est_x_preferred":[
         "Kasarm"
+    ],
+    "name:eus_x_preferred":[
+        "Kaserna"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0628\u0627\u0632\u062e\u0627\u0646\u0647"
@@ -58,17 +64,26 @@
     "name:fra_x_preferred":[
         "Caserne"
     ],
+    "name:glg_x_preferred":[
+        "Cuartel"
+    ],
     "name:hbs_x_preferred":[
         "Kasarna"
     ],
     "name:hrv_x_preferred":[
         "Vojarna"
     ],
+    "name:ind_x_preferred":[
+        "Tangsi"
+    ],
     "name:ita_x_preferred":[
         "Caserma"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30c3\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0440\u043c\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc0dd\ud65c\uad00"
@@ -90,6 +105,9 @@
     ],
     "name:pol_x_preferred":[
         "Koszary"
+    ],
+    "name:ron_x_preferred":[
+        "Cazarm\u0103"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0440\u043c\u0430"
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":101928685,
-    "wof:lastmodified":1527715922,
+    "wof:lastmodified":1564194941,
     "wof:name":"Barracks",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
