@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Glenvista"
+    ],
+    "name:nso_x_preferred":[
+        "Glenvista"
+    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,11 +51,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101926003,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1126103717,
-    "wof:lastmodified":1509412258,
+    "wof:lastmodified":1564195040,
     "wof:name":"Glenvista",
     "wof:parent_id":101926003,
     "wof:placetype":"neighbourhood",

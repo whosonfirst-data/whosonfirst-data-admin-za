@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001267,
-    "geom:area_square_m":12992236.335799,
+    "geom:area_square_m":12992236.335801,
     "geom:bbox":"18.3907186915,-33.9866411365,18.4515380859,-33.9524735452",
     "geom:latitude":-33.971737,
     "geom:longitude":18.420569,
@@ -26,11 +26,32 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "Newlands"
+    ],
+    "name:ceb_x_preferred":[
+        "Newlands"
+    ],
+    "name:deu_x_preferred":[
+        "Newlands"
+    ],
     "name:eng_x_preferred":[
         "Newlands"
     ],
     "name:eng_x_variant":[
         "Nuweland"
+    ],
+    "name:fra_x_preferred":[
+        "Newlands"
+    ],
+    "name:pol_x_preferred":[
+        "Newlands"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u043b\u0435\u043d\u0434\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044e\u043b\u0435\u043d\u0434\u0441"
     ],
     "name:unk_x_variant":[
         "Nuweland",
@@ -97,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639339,
+    "wof:lastmodified":1564193526,
     "wof:name":"Newlands",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

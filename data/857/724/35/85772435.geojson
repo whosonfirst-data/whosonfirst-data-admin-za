@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15361130.196431,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.045337,-29.867867,31.045337,-29.867867",
     "geom:latitude":-29.867867,
     "geom:longitude":31.045337,
@@ -25,8 +25,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:asm_x_preferred":[
+        "\u09ac\u09bf\u09a8\u09cd\u09a6\u09c1"
+    ],
+    "name:aze_x_preferred":[
+        "N\u00f6qt\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Point"
+    ],
     "name:ces_x_preferred":[
         "Point"
+    ],
+    "name:cym_x_preferred":[
+        "Pwynt"
     ],
     "name:deu_x_preferred":[
         "Point"
@@ -72,6 +84,9 @@
     ],
     "name:ron_x_preferred":[
         "Point"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0439\u043d\u0442"
     ],
     "name:slv_x_preferred":[
         "To\u010dka"
@@ -122,10 +137,10 @@
     "wd:wordcount":735,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859538,
+    "wof:lastmodified":1564193524,
     "wof:name":"Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9511208.211175,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.241277,-25.747321,28.241277,-25.747321",
     "geom:latitude":-25.747321,
     "geom:longitude":28.241277,
@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Hatfield"
+    ],
     "name:deu_x_preferred":[
         "Hatfield"
     ],
@@ -59,8 +62,17 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0442\u0444\u0438\u043b\u0434"
     ],
+    "name:spa_x_preferred":[
+        "Hatfield"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0442\u0444\u0438\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Hatfield"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0442\u0444\u0456\u043b\u0434"
     ],
     "name:unk_x_variant":[
         "Hatfield"
@@ -101,11 +113,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":230,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859514,
+    "wof:lastmodified":1564193546,
     "wof:name":"Hatfield",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

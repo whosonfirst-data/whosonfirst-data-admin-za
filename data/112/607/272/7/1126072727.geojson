@@ -18,6 +18,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Menlo Park"
+    ],
+    "name:hun_x_preferred":[
+        "Menlo Park"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30f3\u30ed\u30fc\u30d1\u30fc\u30af"
+    ],
+    "name:pol_x_preferred":[
+        "Menlo Park"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u043b\u043e-\u041f\u0430\u0440\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e19\u0e42\u0e25\u0e1e\u0e32\u0e23\u0e4c\u0e01"
+    ],
+    "name:zho_x_preferred":[
+        "\u95e8\u6d1b\u5e15\u514b"
+    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPLX",
@@ -41,10 +62,10 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1126072727,
-    "wof:lastmodified":1509410760,
+    "wof:lastmodified":1564195139,
     "wof:name":"Menlo Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

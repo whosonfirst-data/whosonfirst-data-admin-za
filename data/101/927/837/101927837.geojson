@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":6252236.883678,
+    "geom:area_square_m":6252236.883679,
     "geom:bbox":"30.5528049469,-29.6003990173,30.5942802429,-29.570356369",
     "geom:latitude":-29.583349,
     "geom:longitude":30.574655,
@@ -25,10 +25,10 @@
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043b\u043e\u0432\u0430\u044f \u0433\u0430\u0440\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u0442\u0430\u043b\u043e\u0432\u0430\u044f \u0433\u0430\u0440\u0430"
-    ],
     "name:cat_x_preferred":[
+        "Table Mountain"
+    ],
+    "name:ceb_x_preferred":[
         "Table Mountain"
     ],
     "name:ces_x_preferred":[
@@ -42,6 +42,9 @@
     ],
     "name:epo_x_preferred":[
         "Tablomonto"
+    ],
+    "name:est_x_preferred":[
+        "Laudm\u00e4gi"
     ],
     "name:eus_x_preferred":[
         "Table Mountain"
@@ -61,8 +64,14 @@
     "name:heb_x_preferred":[
         "\u05d4\u05e8 \u05d4\u05e9\u05d5\u05dc\u05d7\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u092c\u0932 \u092e\u093e\u0909\u0902\u091f\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Stolna planina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0572\u0561\u0576\u0561\u0571\u0587 \u056c\u0565\u057c"
     ],
     "name:ind_x_preferred":[
         "Gunung Meja"
@@ -70,11 +79,26 @@
     "name:ita_x_preferred":[
         "Table Mountain"
     ],
+    "name:ita_x_variant":[
+        "Montagna della Tavola"
+    ],
     "name:jpn_x_preferred":[
         "\u30c6\u30fc\u30d6\u30eb\u30de\u30a6\u30f3\u30c6\u30f3"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cc7\u0cac\u0cb2\u0ccd \u0caa\u0cb0\u0ccd\u0cb5\u0ca4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d2\u10d8\u10d3\u10d8\u10e1 \u10db\u10d7\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud14c\uc774\ube14 \uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\uc774\ube14\uc0b0"
+    ],
+    "name:lav_x_preferred":[
+        "Tafelb\u0113rhs"
     ],
     "name:lit_x_preferred":[
         "Stalo kalnas"
@@ -84,6 +108,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d47\u0d2c\u0d3f\u0d7e \u0d2a\u0d7c\u200c\u0d35\u0d4d\u0d35\u0d24\u0d02"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0947\u092c\u0932 \u092e\u093e\u0909\u0902\u091f\u0928"
     ],
     "name:nep_x_preferred":[
         "\u091f\u0947\u092c\u0932 \u0939\u093f\u092e\u093e\u0932"
@@ -106,6 +133,9 @@
     "name:por_x_preferred":[
         "Montanha da Mesa"
     ],
+    "name:ron_x_preferred":[
+        "Muntele Masa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u043b\u043e\u0432\u0430\u044f"
     ],
@@ -123,6 +153,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0b9a\u0bc8 \u0bae\u0bb2\u0bc8"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e42\u0e15\u0e4a\u0e30"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u043e\u043b\u043e\u0432\u0430 \u0433\u043e\u0440\u0430"
@@ -180,7 +213,7 @@
         }
     ],
     "wof:id":101927837,
-    "wof:lastmodified":1527715640,
+    "wof:lastmodified":1564194846,
     "wof:name":"Table Mountain",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"ZA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Buffelspruit"
+    ],
+    "name:nso_x_preferred":[
+        "Buffelspruit"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +42,7 @@
         "gn:id":1014995
     },
     "wof:country":"ZA",
-    "wof:geomhash":"45a0d04e10f2a0204ad030cf875c2afd",
+    "wof:geomhash":"c122c4f918cede447a4aded1fef4e380",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209610319,
-    "wof:lastmodified":1536281868,
+    "wof:lastmodified":1564194107,
     "wof:name":"Buffelspruit",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.866670000000006,
+    27.86667000000001,
     -25.4,
-    27.866670000000006,
+    27.86667000000001,
     -25.4
 ],
   "geometry": {"coordinates":[27.86667000000001,-25.4],"type":"Point"}

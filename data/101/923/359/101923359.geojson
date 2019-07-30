@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1757830.800005,
+    "geom:area_square_m":1757830.800004,
     "geom:bbox":"29.0023040771,-23.6521587372,29.022480011,-23.6339168549",
     "geom:latitude":-23.641707,
     "geom:longitude":29.014081,
@@ -19,7 +19,16 @@
     "name:ara_x_preferred":[
         "\u0637\u064a\u0628\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0637\u06cc\u0628\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u06cc\u0628\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Tibane"
+    ],
+    "name:ita_x_preferred":[
         "Tibane"
     ],
     "name:kab_x_preferred":[
@@ -32,6 +41,9 @@
         "Tibane"
     ],
     "name:ron_x_preferred":[
+        "Tibane"
+    ],
+    "name:spa_x_preferred":[
         "Tibane"
     ],
     "name:unk_x_variant":[
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":101923359,
-    "wof:lastmodified":1527688299,
+    "wof:lastmodified":1564194712,
     "wof:name":"Tibane",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

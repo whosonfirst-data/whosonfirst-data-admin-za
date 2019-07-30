@@ -27,6 +27,12 @@
     "iso:country":"ZA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lochiel"
+    ],
+    "name:fra_x_preferred":[
+        "Lochiel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +42,7 @@
         "gn:id":982494
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fbdf6d227100fe7df3259f4939d3b4ce",
+    "wof:geomhash":"97fdc1d3fc6cbf85bfdafa1402eeb9f6",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209098037,
-    "wof:lastmodified":1536297824,
+    "wof:lastmodified":1564194000,
     "wof:name":"Lochiel",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.782740000000004,
+    30.78274,
     -26.1405,
-    30.782740000000004,
+    30.78274,
     -26.1405
 ],
   "geometry": {"coordinates":[30.78274,-26.1405],"type":"Point"}

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11370991.942083,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.944061,-26.060545,27.944061,-26.060545",
     "geom:latitude":-26.060545,
     "geom:longitude":27.944061,
@@ -25,7 +25,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Northgate"
+    ],
     "name:eng_x_preferred":[
+        "Northgate"
+    ],
+    "name:fra_x_preferred":[
+        "Northgate"
+    ],
+    "name:pol_x_preferred":[
         "Northgate"
     ],
     "name:unk_x_variant":[
@@ -62,10 +71,10 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860450,
+    "wof:lastmodified":1564193540,
     "wof:name":"Northgate",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -46,6 +46,9 @@
     "name:gla_x_preferred":[
         "Aird nan Saighead"
     ],
+    "name:gla_x_variant":[
+        "Suidhe Artair"
+    ],
     "name:gle_x_preferred":[
         "Aird nan Saighead"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:hun_x_preferred":[
         "Arthur's Seat"
+    ],
+    "name:hun_x_variant":[
+        "Arthur\u2019s Seat"
+    ],
+    "name:isl_x_preferred":[
+        "S\u00e6ti Art\u00fars"
     ],
     "name:ita_x_preferred":[
         "Arthur's Seat"
@@ -70,8 +79,14 @@
     "name:pol_x_preferred":[
         "Arthur's Seat"
     ],
+    "name:pol_x_variant":[
+        "Arthur\u2019s Seat"
+    ],
     "name:por_x_preferred":[
         "Arthur's Seat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u043d \u0410\u0440\u0442\u0443\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Arthur's Seat"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":101924503,
-    "wof:lastmodified":1527670488,
+    "wof:lastmodified":1564194630,
     "wof:name":"Arthur's Seat",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

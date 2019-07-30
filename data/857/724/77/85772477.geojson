@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":995739.592639,
+    "geom:area_square_m":995739.592638,
     "geom:bbox":"18.4888305581,-33.9079434361,18.5021362388,-33.8931545444",
     "geom:latitude":-33.90063,
     "geom:longitude":18.495212,
@@ -28,6 +28,12 @@
     "mz:tier_metro":1,
     "name:bul_x_preferred":[
         "\u0420\u044a\u0433\u0431\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Rugby"
+    ],
+    "name:ceb_x_preferred":[
+        "Rugby"
     ],
     "name:dan_x_preferred":[
         "Rugby"
@@ -68,6 +74,9 @@
     "name:lav_x_preferred":[
         "Regbijs"
     ],
+    "name:lim_x_preferred":[
+        "Rugby"
+    ],
     "name:nld_x_preferred":[
         "Rugby"
     ],
@@ -92,11 +101,17 @@
     "name:spa_x_preferred":[
         "Rugby"
     ],
+    "name:szl_x_preferred":[
+        "Rugby"
+    ],
     "name:tam_x_preferred":[
         "\u0b87\u0bb0\u0b95\u0bcd\u0baa\u0bbf"
     ],
     "name:tur_x_preferred":[
         "Rugby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0431\u0456"
     ],
     "name:unk_x_variant":[
         "Rugby"
@@ -171,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639340,
+    "wof:lastmodified":1564193527,
     "wof:name":"Rugby",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

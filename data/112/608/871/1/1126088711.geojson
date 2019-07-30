@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Bonaeropark"
+    ],
+    "name:nso_x_preferred":[
+        "Bonaero Park"
+    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPL",
@@ -41,11 +47,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925773,
-        1108730507,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1126088711,
-    "wof:lastmodified":1509411533,
+    "wof:lastmodified":1564195123,
     "wof:name":"Bonaero Park",
     "wof:parent_id":101925773,
     "wof:placetype":"neighbourhood",
