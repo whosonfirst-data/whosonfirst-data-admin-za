@@ -10,12 +10,14 @@
     "geom:latitude":-23.785335,
     "geom:longitude":29.289763,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"NP",
     "label:eng_x_preferred_longname":[
         "Limpopo Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NP"
     ],
     "lbl:latitude":-23.786037,
     "lbl:longitude":29.341886,
@@ -450,7 +452,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1563372021,
+    "wof:lastmodified":1565740277,
     "wof:name":"Limpopo",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

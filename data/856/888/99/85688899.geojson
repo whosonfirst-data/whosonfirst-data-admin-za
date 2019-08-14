@@ -10,12 +10,14 @@
     "geom:latitude":-29.453405,
     "geom:longitude":21.402809,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"NC",
     "label:eng_x_preferred_longname":[
         "Northern Cape Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
     ],
     "lbl:latitude":-29.46391,
     "lbl:longitude":21.846696,
@@ -425,7 +427,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1563372054,
+    "wof:lastmodified":1565740300,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

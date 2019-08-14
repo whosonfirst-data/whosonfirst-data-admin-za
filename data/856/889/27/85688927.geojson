@@ -10,12 +10,14 @@
     "geom:latitude":-32.154027,
     "geom:longitude":26.446361,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"EC",
     "label:eng_x_preferred_longname":[
         "Eastern Cape Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "EC"
     ],
     "lbl:latitude":-32.19228,
     "lbl:longitude":26.501313,
@@ -431,7 +433,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1563372034,
+    "wof:lastmodified":1565740286,
     "wof:name":"Eastern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

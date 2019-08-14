@@ -10,12 +10,14 @@
     "geom:latitude":-28.614403,
     "geom:longitude":26.867264,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"FS",
     "label:eng_x_preferred_longname":[
         "Free State Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "FS"
     ],
     "lbl:latitude":-28.59211,
     "lbl:longitude":26.682325,
@@ -169,7 +171,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1553551133,
+    "wof:lastmodified":1565740296,
     "wof:name":"Free State",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

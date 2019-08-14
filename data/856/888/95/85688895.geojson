@@ -10,12 +10,14 @@
     "geom:latitude":-25.873651,
     "geom:longitude":30.298984,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"MP",
     "label:eng_x_preferred_longname":[
         "Mpumalanga Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "MP"
     ],
     "lbl:latitude":-26.375424,
     "lbl:longitude":29.854636,
@@ -416,7 +418,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1563372050,
+    "wof:lastmodified":1565740298,
     "wof:name":"Mpumalanga",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

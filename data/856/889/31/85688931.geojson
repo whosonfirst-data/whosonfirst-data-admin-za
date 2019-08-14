@@ -10,12 +10,14 @@
     "geom:latitude":-26.268135,
     "geom:longitude":25.519648,
     "iso:country":"ZA",
-    "label:eng_x_abbreviation":"NW",
     "label:eng_x_preferred_longname":[
         "North West Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
     ],
     "lbl:latitude":-26.701793,
     "lbl:longitude":25.477234,
@@ -388,7 +390,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1563372045,
+    "wof:lastmodified":1565740294,
     "wof:name":"North West",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
