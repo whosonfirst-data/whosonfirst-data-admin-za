@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.308977,
     "lbl:longitude":28.75336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.308977,
     "mps:longitude":28.75336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tsolo"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-31.3167,
     "wd:longitude":28.75,
     "wd:wordcount":95,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":947739,
         "gp:id":1588289,
-        "qs:id":317678,
         "qs_pg:id":317678,
         "wd:id":"Q7849843"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101928559,
-    "wof:lastmodified":1563373649,
+    "wof:lastmodified":1566664106,
     "wof:name":"Tsolo",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"23.69482,-28.81972,23.73482,-28.77972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Campbell"
     ],
@@ -43,8 +47,7 @@
         "Campbell"
     ],
     "name:und_x_variant":[
-        "Campbell-Beukes",
-        "Campbell"
+        "Campbell-Beukes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1225830669,
-    "wof:lastmodified":1564195749,
+    "wof:lastmodified":1566664719,
     "wof:name":"Campbell",
     "wof:parent_id":1108730595,
     "wof:placetype":"locality",

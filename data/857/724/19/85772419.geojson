@@ -9,14 +9,15 @@
     "geom:bbox":"18.45703125,-33.9160131134,18.4680175781,-33.9037337838",
     "geom:latitude":-33.91084,
     "geom:longitude":18.461787,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.91638,
     "gn:longitude":18.47107,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.913692,
     "lbl:longitude":18.471279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.91106,
     "mps:longitude":18.461682,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
     ],
     "name:eng_x_variant":[
         "Paarden Eiland"
-    ],
-    "name:unk_x_variant":[
-        "Paardeneiland"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -85,8 +83,7 @@
     "qs_pg:woe_id":1586385,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -97,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3363104,
         "gp:id":1586385,
-        "qs:id":189345,
         "qs_pg:id":189345
     },
     "wof:country":"ZA",
@@ -115,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379835,
+    "wof:lastmodified":1566662944,
     "wof:name":"Paardeneiland",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

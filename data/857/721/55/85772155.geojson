@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5598901.753059,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.207005,-25.719528,28.207005,-25.719528",
     "geom:latitude":-25.719528,
     "geom:longitude":28.207005,
     "gn:latitude":-25.71867,
     "gn:longitude":28.20673,
     "iso:country":"ZA",
+    "lbl:bbox":"28.202005,-25.724528,28.212005,-25.714528",
     "lbl:latitude":-25.719528,
     "lbl:longitude":28.207005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.713286,
     "mps:longitude":28.204154,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Gezina"
-    ],
-    "name:unk_x_variant":[
         "Gezina"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1002037,
         "gp:id":1581724,
-        "qs:id":1187839,
         "qs_pg:id":1187839
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859510,
+    "wof:lastmodified":1566662965,
     "wof:name":"Gezina",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

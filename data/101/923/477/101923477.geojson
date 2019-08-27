@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.848811,
     "lbl:longitude":29.389627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.848811,
     "mps:longitude":29.389627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Seshego"
     ],
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "Seshego"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moletsi"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":956375,
         "gp:id":1587358,
-        "qs:id":193908,
         "qs_pg:id":193908,
         "wd:id":"Q2584600",
         "wk:page":"Seshego"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101923477,
-    "wof:lastmodified":1563373217,
+    "wof:lastmodified":1566663864,
     "wof:name":"Seshego",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

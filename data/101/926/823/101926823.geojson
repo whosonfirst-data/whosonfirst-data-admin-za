@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.295201,
     "lbl:longitude":27.954372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.295201,
     "mps:longitude":27.954372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Paul Roux"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-28.3,
     "wd:longitude":27.95,
     "wd:wordcount":378,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101926823,
-    "wof:lastmodified":1563373609,
+    "wof:lastmodified":1566664082,
     "wof:name":"Paul Roux",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

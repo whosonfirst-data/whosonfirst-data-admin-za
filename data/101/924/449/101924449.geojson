@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.569387,
     "lbl:longitude":30.372481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.569387,
     "mps:longitude":30.372481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alverton"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.97,
     "wd:longitude":-0.82,
     "wd:wordcount":526,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101924449,
-    "wof:lastmodified":1564194633,
+    "wof:lastmodified":1566663805,
     "wof:name":"Alverton",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

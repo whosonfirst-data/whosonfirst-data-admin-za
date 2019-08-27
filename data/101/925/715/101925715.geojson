@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.105935,
     "lbl:longitude":27.751122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.105935,
     "mps:longitude":27.751122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Boltonia"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
         102191573,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":8063417,
         "gp:id":55878717,
-        "qs:id":1208241,
+        "qs_pg:id":1208241,
         "wd:id":"Q4940265"
     },
     "wof:country":"ZA",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101925715,
-    "wof:lastmodified":1563373320,
+    "wof:lastmodified":1566663931,
     "wof:name":"Boltonia",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

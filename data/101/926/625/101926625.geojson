@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.42179,
     "lbl:longitude":29.163006,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-27.42179,
     "mps:longitude":29.163006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Vrede"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1675.0,
     "wd:latitude":-27.43,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":942701,
         "gp:id":1591565,
-        "qs:id":84007,
         "qs_pg:id":84007,
         "wd:id":"Q1983656",
         "wk:page":"Vrede"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101926625,
-    "wof:lastmodified":1563373607,
+    "wof:lastmodified":1566664081,
     "wof:name":"Vrede",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

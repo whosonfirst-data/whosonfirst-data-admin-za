@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-31.550605,
     "lbl:longitude":28.892313,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Cape",
     "meso:gadm_admin":"O.R.Tambo",
     "meso:gadm_hasc2":"ZA.EC.TA",
@@ -31,6 +33,7 @@
     "mps:longitude":28.892313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "O.R.Tambo"
     ],
@@ -39,9 +42,9 @@
         "O.R.Tambo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"15,947.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Mthatha",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108730523,
-    "wof:lastmodified":1554504994,
+    "wof:lastmodified":1566663554,
     "wof:name":"O.R.Tambo",
     "wof:parent_id":85688927,
     "wof:placetype":"county",

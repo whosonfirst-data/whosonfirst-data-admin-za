@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4555314.012814,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.176956,-25.742797,28.176956,-25.742797",
     "geom:latitude":-25.742797,
     "geom:longitude":28.176956,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.171956,-25.747797,28.181956,-25.737797",
     "lbl:latitude":-25.742797,
     "lbl:longitude":28.176956,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.735611,
     "mps:longitude":28.161696,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Asiatic Bazaar"
-    ],
-    "name:unk_x_variant":[
         "Asiatic Bazaar"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877915,
-        "qs:id":997056,
         "qs_pg:id":997056
     },
     "wof:country":"ZA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860433,
+    "wof:lastmodified":1566662929,
     "wof:name":"Asiatic Bazaar",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

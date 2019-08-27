@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.20486,
     "lbl:longitude":27.656373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.20486,
     "mps:longitude":27.656373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Finsbury"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":537,
     "wof:belongsto":[
         102191573,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101925897,
-    "wof:lastmodified":1564194782,
+    "wof:lastmodified":1566663958,
     "wof:name":"Finsbury",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

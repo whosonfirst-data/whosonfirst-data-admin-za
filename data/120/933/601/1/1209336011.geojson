@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.07414,-26.04163,29.11414,-26.00163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":999070
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b7eb9a6b3ef804e17fb6c12c19a4fd93",
+    "wof:geomhash":"f953a67be557c75f6080da4cd2559aa5",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209336011,
-    "wof:lastmodified":1536290219,
+    "wof:lastmodified":1566663396,
     "wof:name":"Grootpan",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.094140000000003,
+    29.09414,
     -26.02163,
-    29.094140000000003,
+    29.09414,
     -26.02163
 ],
   "geometry": {"coordinates":[29.09414,-26.02163],"type":"Point"}

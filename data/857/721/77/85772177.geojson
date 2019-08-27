@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1589210.373557,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.009014,-29.847244,31.009014,-29.847244",
     "geom:latitude":-29.847244,
     "geom:longitude":31.009014,
     "gn:latitude":-29.84738,
     "gn:longitude":31.01303,
     "iso:country":"ZA",
+    "lbl:bbox":"31.004014,-29.852244,31.014014,-29.842244",
     "lbl:latitude":-29.847244,
     "lbl:longitude":31.009014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.846123,
     "mps:longitude":31.008591,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Greyville"
-    ],
-    "name:unk_x_variant":[
         "Greyville"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1000004,
         "gp:id":1581949,
-        "qs:id":1170353,
         "qs_pg:id":1170353
     },
     "wof:country":"ZA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859513,
+    "wof:lastmodified":1566662965,
     "wof:name":"Greyville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

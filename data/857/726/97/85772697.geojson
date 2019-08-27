@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":8253007.816031,
+    "geom:area_square_m":8253007.816032,
     "geom:bbox":"18.444361213,-33.8977767091,18.4966432771,-33.8753048743",
     "geom:latitude":-33.886806,
     "geom:longitude":18.470849,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.88909,
     "gn:longitude":18.49136,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.797862,
     "lbl:longitude":18.521234,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.889466,
     "mps:longitude":18.468731,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Zonnekus"
-    ],
-    "name:unk_x_variant":[
         "Zonnekus"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -83,8 +81,7 @@
     "qs_pg:woe_id":1589154,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -95,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3358908,
         "gp:id":1589154,
-        "qs:id":235156,
         "qs_pg:id":235156
     },
     "wof:country":"ZA",
@@ -113,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379836,
+    "wof:lastmodified":1566662960,
     "wof:name":"Zonnekus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-28.453644,
     "lbl:longitude":30.717503,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kwazulu-Natal",
     "mps:latitude":-28.442293,
     "mps:longitude":30.735762,
@@ -284,7 +285,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0430\u0437\u0443\u043b\u0443-\u041d\u0430\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Natal"
     ],
     "name:urd_x_preferred":[
@@ -401,9 +402,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"129,825",
     "statoids:area_mi":"50,126",
     "statoids:as_of_date":"2001-10-10",
@@ -458,11 +459,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740290,
+    "wof:lastmodified":1566662992,
     "wof:name":"Kwazulu-Natal",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2745590,
     "wof:population_rank":12,

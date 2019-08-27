@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":3264794.540661,
+    "geom:area_square_m":3264794.540662,
     "geom:bbox":"29.1110630035,-23.9556293488,29.1424503326,-23.9397621155",
     "geom:latitude":-23.947422,
     "geom:longitude":29.124189,
     "iso:country":"ZA",
     "lbl:latitude":-23.950109,
     "lbl:longitude":29.11765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.950109,
     "mps:longitude":29.11765,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ga-Mashashane"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101923513,
-    "wof:lastmodified":1501216577,
+    "wof:lastmodified":1566663901,
     "wof:name":"GaMashashane",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

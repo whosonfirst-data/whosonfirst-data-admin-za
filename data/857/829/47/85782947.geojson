@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.798623,
     "lbl:longitude":18.46188,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.739937,
     "mps:longitude":18.444798,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:ron_x_preferred":[
         "Bloubergstrand"
     ],
-    "name:unk_x_variant":[
-        "Bloubergstrand"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u9b6f\u5821\u53f2\u7279\u862d"
     ],
@@ -89,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3369897,
         "gp:id":55877919,
-        "qs:id":465252,
         "qs_pg:id":465252,
         "wd:id":"Q2907090",
         "wk:page":"Bloubergstrand"
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371937,
+    "wof:lastmodified":1566662930,
     "wof:name":"Bloubergstrand",
     "wof:parent_id":101928019,
     "wof:placetype":"neighbourhood",

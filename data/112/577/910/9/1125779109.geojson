@@ -9,14 +9,18 @@
     "geom:bbox":"29.86993,-24.76021,29.86993,-24.76021",
     "geom:latitude":-24.76021,
     "geom:longitude":29.86993,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"29.84993,-24.78021,29.88993,-24.74021",
     "lbl:latitude":-24.76021,
     "lbl:longitude":29.86993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Jane Furse"
@@ -39,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0439\u043d-\u0424\u0435\u0440\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jane Furse Settlement"
     ],
     "name:urd_x_preferred":[
@@ -60,7 +64,7 @@
     "qs_pg:qs_id":903591,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125779109,
-    "wof:lastmodified":1563374013,
+    "wof:lastmodified":1566664327,
     "wof:name":"Jane Furse",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

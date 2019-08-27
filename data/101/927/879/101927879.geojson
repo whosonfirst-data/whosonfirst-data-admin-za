@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.670302,
     "lbl:longitude":30.234995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.670302,
     "mps:longitude":30.234995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pietermaritzburg"
     ],
@@ -366,7 +369,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":596.0,
     "wd:latitude":-29.583333,
     "wd:longitude":30.416667,
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":101927879,
-    "wof:lastmodified":1563373499,
+    "wof:lastmodified":1566664024,
     "wof:name":"Pietermaritzburg",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

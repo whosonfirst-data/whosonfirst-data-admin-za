@@ -9,14 +9,18 @@
     "geom:bbox":"20.01734,-34.8223,20.01734,-34.8223",
     "geom:latitude":-34.8223,
     "geom:longitude":20.01734,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"19.99734,-34.8423,20.03734,-34.8023",
     "lbl:latitude":-34.8223,
     "lbl:longitude":20.01734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "L'Agulhas"
@@ -45,9 +49,6 @@
     "name:rus_x_preferred":[
         "\u0410\u0433\u0443\u043b\u044c\u044f\u0441"
     ],
-    "name:unk_x_variant":[
-        "L\u2019Agulhas"
-    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1579384,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1125821845,
-    "wof:lastmodified":1563373975,
+    "wof:lastmodified":1566664310,
     "wof:name":"Agulhas",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.166378,
     "lbl:longitude":29.626163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.166378,
     "mps:longitude":29.626163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Perdekop"
     ],
@@ -31,7 +34,7 @@
     "name:nso_x_preferred":[
         "Perdekop"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paardekop"
     ],
     "qs:a0":"South Africa",
@@ -48,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":1889.0,
     "wd:latitude":-27.166667,
     "wd:longitude":29.633333,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101926573,
-    "wof:lastmodified":1563373589,
+    "wof:lastmodified":1566664071,
     "wof:name":"Perdekop",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

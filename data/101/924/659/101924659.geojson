@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000795,
-    "geom:area_square_m":8798856.443966,
+    "geom:area_square_m":8798856.443963,
     "geom:bbox":"24.3301753998,-26.4888362885,24.3502750397,-26.4299983978",
     "geom:latitude":-26.458916,
     "geom:longitude":24.341668,
     "iso:country":"ZA",
     "lbl:latitude":-26.456288,
     "lbl:longitude":24.341859,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.456288,
     "mps:longitude":24.341859,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tlhakmeng"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101924659,
-    "wof:lastmodified":1501216558,
+    "wof:lastmodified":1566663817,
     "wof:name":"Tlhakgameng",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.931747,
     "lbl:longitude":18.43087,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.92285,
     "mps:longitude":18.450056,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
         "Zonnebloem"
     ],
     "name:ita_x_preferred":[
-        "Zonnebloem"
-    ],
-    "name:unk_x_variant":[
         "Zonnebloem"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -73,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":104,
     "wof:belongsto":[
         85688905,
@@ -85,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878180,
-        "qs:id":1091831,
         "qs_pg:id":1091831,
         "wd:id":"Q3575986"
     },
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371983,
+    "wof:lastmodified":1566662950,
     "wof:name":"Zonnebloem",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

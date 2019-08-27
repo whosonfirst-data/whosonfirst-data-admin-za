@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6131296.962021,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.91741,-31.342506,20.91741,-31.342506",
     "geom:latitude":-31.342506,
     "geom:longitude":20.91741,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"20.91241,-31.347506,20.92241,-31.337506",
     "lbl:latitude":-31.342506,
     "lbl:longitude":20.91741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-31.341526,
     "mps:longitude":20.91342,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Amandelboom"
-    ],
-    "name:unk_x_variant":[
         "Amandelboom"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688899,
         102191573,
         85633813,
-        1108730593,
-        85688899
+        1108730593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55880791,
-        "qs:id":1339835
+        "qs_pg:id":1339835
     },
     "wof:country":"ZA",
     "wof:geomhash":"eace0e3e8e681d58cbacc64f50c160d6",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860498,
+    "wof:lastmodified":1566662935,
     "wof:name":"Amandelboom",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

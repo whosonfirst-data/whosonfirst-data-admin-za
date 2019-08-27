@@ -12,8 +12,10 @@
     "gn:latitude":-25.74973,
     "gn:longitude":28.24314,
     "iso:country":"ZA",
+    "lbl:bbox":"28.236277,-25.752321,28.246277,-25.742321",
     "lbl:latitude":-25.747321,
     "lbl:longitude":28.241277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.748271,
     "mps:longitude":28.250111,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0442\u0444\u0456\u043b\u0434"
     ],
-    "name:unk_x_variant":[
-        "Hatfield"
-    ],
     "name:vol_x_preferred":[
         "Hatfield"
     ],
@@ -110,7 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":230,
     "wof:belongsto":[
         85688923,
@@ -123,7 +122,6 @@
     "wof:concordances":{
         "gn:id":997344,
         "gp:id":1582139,
-        "qs:id":224944,
         "qs_pg:id":224944
     },
     "wof:country":"ZA",
@@ -142,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193546,
+    "wof:lastmodified":1566662964,
     "wof:name":"Hatfield",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

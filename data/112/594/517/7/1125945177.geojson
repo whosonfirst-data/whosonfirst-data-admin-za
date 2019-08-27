@@ -9,14 +9,18 @@
     "geom:bbox":"22.57574,-33.99385,22.57574,-33.99385",
     "geom:latitude":-33.99385,
     "geom:longitude":22.57574,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"22.55574,-34.01385,22.59574,-33.97385",
     "lbl:latitude":-33.99385,
     "lbl:longitude":22.57574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Wildernis"
@@ -75,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0456\u043d\u043a\u0440\u0430\u043d\u0442\u0437"
     ],
-    "name:unk_x_variant":[
-        "Wildernis"
-    ],
     "name:zho_x_preferred":[
         "\u97cb\u723e\u5fb7\u5c3c\u65af"
     ],
@@ -102,7 +103,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1588890,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1125945177,
-    "wof:lastmodified":1563373788,
+    "wof:lastmodified":1566664207,
     "wof:name":"Wilderness",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

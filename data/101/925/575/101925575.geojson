@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.887506,
     "lbl:longitude":29.134968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.887506,
     "mps:longitude":29.134968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0648\u0631"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.485,
     "wd:longitude":-0.627,
     "wd:wordcount":541,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":1013327,
         "gp:id":1580388,
-        "qs:id":266813,
         "qs_pg:id":266813
     },
     "wof:country":"ZA",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101925575,
-    "wof:lastmodified":1527688521,
+    "wof:lastmodified":1566663930,
     "wof:name":"Clewer",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

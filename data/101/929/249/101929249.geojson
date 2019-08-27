@@ -12,17 +12,17 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.827507,
     "lbl:longitude":25.392169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.827507,
     "mps:longitude":25.392169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "KwaNobuhle"
     ],
     "name:eng_x_variant":[
-        "Nabule"
-    ],
-    "name:unk_x_variant":[
         "Nabule"
     ],
     "qs:a0":"South Africa",
@@ -39,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501216578,
+    "wof:lastmodified":1566663980,
     "wof:name":"Kwa Nobuhle",
     "wof:parent_id":1108730527,
     "wof:placetype":"locality",

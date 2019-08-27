@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.672765,
     "lbl:longitude":29.030837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.672765,
     "mps:longitude":29.030837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ngqeleni"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-31.67,
     "wd:longitude":29.028,
     "wd:wordcount":82,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":971016,
         "gp:id":1590859,
-        "qs:id":244710,
         "qs_pg:id":244710,
         "wd:id":"Q7022639"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101928729,
-    "wof:lastmodified":1561840253,
+    "wof:lastmodified":1566664160,
     "wof:name":"Ngqeleni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

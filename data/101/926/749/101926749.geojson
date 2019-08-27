@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.985949,
     "lbl:longitude":26.741276,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.985949,
     "mps:longitude":26.741276,
     "mz:hierarchy_label":1,
@@ -282,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.983056,
     "wd:longitude":26.720833,
@@ -297,10 +299,12 @@
     "wof:concordances":{
         "gn:id":940909,
         "gp:id":1591602,
-        "qs:id":276178,
         "qs_pg:id":236230,
         "wd:id":"Q1015631",
         "wk:page":"Welkom"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":276178
     },
     "wof:country":"ZA",
     "wof:geomhash":"54a18269c2122bbc4d78e244352ef694",
@@ -314,7 +318,7 @@
         }
     ],
     "wof:id":101926749,
-    "wof:lastmodified":1563373584,
+    "wof:lastmodified":1566664068,
     "wof:name":"Welkom",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

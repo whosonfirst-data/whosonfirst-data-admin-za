@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.178754,
     "lbl:longitude":22.131913,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-34.178754,
     "mps:longitude":22.131913,
     "mz:hierarchy_label":1,
@@ -119,9 +121,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0441\u0435\u043b-\u0411\u0435\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Mosselbaai"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u585e\u723e\u8c9d"
@@ -234,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.183333,
     "wd:longitude":22.133333,
@@ -249,10 +248,12 @@
     "wof:concordances":{
         "gn:id":973709,
         "gp:id":1585379,
-        "qs:id":130223,
-        "qs_pg:id":1172290,
+        "qs_pg:id":130223,
         "wd:id":"Q995615",
         "wk:page":"Mossel Bay"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1172290
     },
     "wof:country":"ZA",
     "wof:geomhash":"a6abfde4d82f0b5552b1c171cb66a606",
@@ -266,7 +267,7 @@
         }
     ],
     "wof:id":101928083,
-    "wof:lastmodified":1563373658,
+    "wof:lastmodified":1566664113,
     "wof:name":"Mossel Bay",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

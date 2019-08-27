@@ -11,8 +11,10 @@
     "geom:longitude":28.21701,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.21201,-25.729241,28.22201,-25.719241",
     "lbl:latitude":-25.724241,
     "lbl:longitude":28.21701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.726026,
     "mps:longitude":28.217327,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Deerness"
     ],
     "name:swe_x_preferred":[
-        "Deerness"
-    ],
-    "name:unk_x_variant":[
         "Deerness"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":213,
     "wof:belongsto":[
         85688923,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877951,
-        "qs:id":493730,
         "qs_pg:id":493730
     },
     "wof:country":"ZA",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193502,
+    "wof:lastmodified":1566662929,
     "wof:name":"Deerness",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.069716,
     "lbl:longitude":25.853269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.069716,
     "mps:longitude":25.853269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Itsoseng"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.083,
     "wd:longitude":25.882,
     "wd:wordcount":65,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":994432,
         "gp:id":1582453,
-        "qs:id":383910,
         "qs_pg:id":383910,
         "wd:id":"Q6094912"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101925697,
-    "wof:lastmodified":1563373358,
+    "wof:lastmodified":1566663952,
     "wof:name":"Itsoseng",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

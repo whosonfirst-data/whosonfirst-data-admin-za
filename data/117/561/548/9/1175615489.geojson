@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.657681,
     "lbl:longitude":28.007259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.657681,
     "mps:longitude":28.007259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Three Rivers"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":424,
     "wof:belongsto":[
         102191573,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":949049,
         "gp:id":55879533,
-        "qs:id":895685
+        "qs_pg:id":895685
     },
     "wof:country":"ZA",
     "wof:geomhash":"feae6e5ed5c6f4f6afda341a8d6871d2",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1175615489,
-    "wof:lastmodified":1564194381,
+    "wof:lastmodified":1566663645,
     "wof:name":"Three Rivers",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

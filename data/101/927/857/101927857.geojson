@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.63635,
     "lbl:longitude":31.131462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.63635,
     "mps:longitude":31.131462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Mercy"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.6333,
     "wd:longitude":31.1333,
     "wd:wordcount":143,
@@ -62,7 +65,6 @@
         "fct:id":"14630112-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":984896,
         "gp:id":1583661,
-        "qs:id":1090590,
         "qs_pg:id":1090590,
         "wd:id":"Q6463836",
         "wk:page":"La Mercy"
@@ -82,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373459,
+    "wof:lastmodified":1566664001,
     "wof:name":"La Mercy",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

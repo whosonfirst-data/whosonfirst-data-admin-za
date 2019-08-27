@@ -12,8 +12,10 @@
     "gn:latitude":-26.16191,
     "gn:longitude":28.02732,
     "iso:country":"ZA",
+    "lbl:bbox":"28.018295,-26.169214,28.028295,-26.159214",
     "lbl:latitude":-26.164214,
     "lbl:longitude":28.023295,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.159135,
     "mps:longitude":28.02292,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Parkview"
     ],
     "name:nld_x_preferred":[
-        "Parkview"
-    ],
-    "name:unk_x_variant":[
         "Parkview"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.166667,
     "wd:longitude":28.033333,
     "wd:wordcount":99,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":966189,
         "gp:id":1586427,
-        "qs:id":244810,
         "qs_pg:id":244810,
         "wd:id":"Q7138740",
         "wk:page":"Parkview, Gauteng"
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371967,
+    "wof:lastmodified":1566662943,
     "wof:name":"Parkview",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

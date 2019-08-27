@@ -9,15 +9,18 @@
     "geom:bbox":"25.58804,-32.72173,25.58804,-32.72173",
     "geom:latitude":-32.72173,
     "geom:longitude":25.58804,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":16155,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
     "gn:population":16155,
     "iso:country":"ZA",
+    "lbl:bbox":"25.56804,-32.74173,25.60804,-32.70173",
     "lbl:latitude":-32.72173,
     "lbl:longitude":25.58804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Somerset-Oos"
@@ -64,9 +67,6 @@
     "name:sot_x_preferred":[
         "Somerset East"
     ],
-    "name:unk_x_variant":[
-        "Somerset-Oos"
-    ],
     "name:zho_x_preferred":[
         "\u6771\u7d22\u6885\u585e\u7279"
     ],
@@ -82,7 +82,7 @@
     "qs_pg:qs_id":275874,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125788325,
-    "wof:lastmodified":1563373987,
+    "wof:lastmodified":1566664315,
     "wof:name":"Somerset East",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

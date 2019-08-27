@@ -12,8 +12,10 @@
     "gn:latitude":-26.14665,
     "gn:longitude":27.91197,
     "iso:country":"ZA",
+    "lbl:bbox":"27.840795,-26.095541,27.850795,-26.085541",
     "lbl:latitude":-26.090541,
     "lbl:longitude":27.845795,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.093769,
     "mps:longitude":27.875852,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Constantiakloof"
     ],
     "name:eng_x_preferred":[
-        "Constantia Kloof"
-    ],
-    "name:unk_x_variant":[
         "Constantia Kloof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -76,7 +75,6 @@
     "wof:concordances":{
         "gn:id":7302282,
         "gp:id":55877943,
-        "qs:id":489188,
         "qs_pg:id":489188
     },
     "wof:country":"ZA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193503,
+    "wof:lastmodified":1566662930,
     "wof:name":"Constantia Kloof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-33.317267,
     "lbl:longitude":19.676018,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Cape",
     "meso:gadm_admin":"Cape Winelands",
     "meso:gadm_hasc2":"ZA.WC.CW",
@@ -31,6 +33,7 @@
     "mps:longitude":19.676018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kaapse Wynlande-distriksmunisipaliteit"
     ],
@@ -86,9 +89,9 @@
         "\u74e6\u6069\u862d\u89d2\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"22,289.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Worcester",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108730615,
-    "wof:lastmodified":1563372816,
+    "wof:lastmodified":1566663578,
     "wof:name":"Cape Winelands",
     "wof:parent_id":85688905,
     "wof:placetype":"county",

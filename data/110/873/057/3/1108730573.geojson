@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-23.721275,
     "lbl:longitude":30.736012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Limpopo",
     "meso:gadm_admin":"Mopani",
     "meso:gadm_hasc2":"ZA.NP.MP",
@@ -31,6 +33,7 @@
     "mps:longitude":30.736012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mopani-distriksmunisipaliteit"
     ],
@@ -84,9 +87,9 @@
         "\u9ed8\u5e15\u5c3c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"11,098.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Giyani",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108730573,
-    "wof:lastmodified":1563372832,
+    "wof:lastmodified":1566663596,
     "wof:name":"Mopani",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

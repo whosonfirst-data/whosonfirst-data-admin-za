@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.22848,-31.01262,29.26848,-30.97262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0627"
     ],
@@ -181,8 +185,7 @@
         "\u041a\u043e\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Xola",
-        "Cola"
+        "Xola"
     ],
     "name:vie_x_preferred":[
         "Cola"
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1243559333,
-    "wof:lastmodified":1564195215,
+    "wof:lastmodified":1566664364,
     "wof:name":"Cola",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

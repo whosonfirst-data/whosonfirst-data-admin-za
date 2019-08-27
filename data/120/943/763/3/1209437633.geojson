@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.39949,-30.30758,28.43949,-30.26758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":1001834
     },
     "wof:country":"ZA",
-    "wof:geomhash":"55550f8cf7125d55464cd7bff0b5bdab",
+    "wof:geomhash":"1c0c0079f2bf409bfc0e4de090ef5108",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209437633,
-    "wof:lastmodified":1536287055,
+    "wof:lastmodified":1566663426,
     "wof:name":"Gladstone",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.419490000000003,
+    28.41949,
     -30.28758,
-    28.419490000000003,
+    28.41949,
     -30.28758
 ],
   "geometry": {"coordinates":[28.41949,-30.28758],"type":"Point"}

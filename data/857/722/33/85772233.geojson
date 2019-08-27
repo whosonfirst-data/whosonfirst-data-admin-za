@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18161664.309179,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.642401,-33.967618,25.642401,-33.967618",
     "geom:latitude":-33.967618,
     "geom:longitude":25.642401,
     "gn:latitude":-33.97426,
     "gn:longitude":25.63634,
     "iso:country":"ZA",
+    "lbl:bbox":"25.637401,-33.972618,25.647401,-33.962618",
     "lbl:latitude":-33.967618,
     "lbl:longitude":25.642401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.965553,
     "mps:longitude":25.643465,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Humewood"
-    ],
-    "name:unk_x_variant":[
         "Humewood"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688927,
         102191573,
         85633813,
         101929259,
-        1108730527,
-        85688927
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":995078,
         "gp:id":1582380,
-        "qs:id":1081068,
         "qs_pg:id":1081068
     },
     "wof:country":"ZA",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859517,
+    "wof:lastmodified":1566662938,
     "wof:name":"Humewood",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

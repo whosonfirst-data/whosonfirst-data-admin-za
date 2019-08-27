@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.628127,
     "lbl:longitude":29.541918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-31.628127,
     "mps:longitude":29.541918,
     "mz:hierarchy_label":1,
@@ -36,7 +38,7 @@
     "name:ron_x_preferred":[
         "Port St. Johns"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Umzimvubu"
     ],
     "name:xho_x_preferred":[
@@ -151,7 +153,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":643,
     "wof:belongsto":[
@@ -164,7 +166,7 @@
     "wof:concordances":{
         "gn:id":964408,
         "gp:id":1586617,
-        "qs:id":7904
+        "qs_pg:id":7904
     },
     "wof:country":"ZA",
     "wof:geomhash":"7cdf68d65e507dec85865411f9e2b8a7",
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101928693,
-    "wof:lastmodified":1564194918,
+    "wof:lastmodified":1566664121,
     "wof:name":"Port St. Johns",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

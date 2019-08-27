@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.032131,
     "lbl:longitude":23.045998,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-34.032131,
     "mps:longitude":23.045998,
     "mz:hierarchy_label":1,
@@ -99,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043d\u0438\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "De Nysna"
     ],
     "name:ven_x_preferred":[
@@ -216,7 +218,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.035556,
     "wd:longitude":23.048889,
@@ -231,10 +233,12 @@
     "wof:concordances":{
         "gn:id":988698,
         "gp:id":1582928,
-        "qs:id":947000,
-        "qs_pg:id":1118747,
+        "qs_pg:id":947000,
         "wd:id":"Q251137",
         "wk:page":"Knysna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118747
     },
     "wof:country":"ZA",
     "wof:geomhash":"aa6adbb23b70a9d3d87fa7d784e29548",
@@ -248,7 +252,7 @@
         }
     ],
     "wof:id":101928071,
-    "wof:lastmodified":1563373662,
+    "wof:lastmodified":1566664115,
     "wof:name":"Knysna",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

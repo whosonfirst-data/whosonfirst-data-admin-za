@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.309548,
     "lbl:longitude":29.472536,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-24.309548,
     "mps:longitude":29.472536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Lebowakgomo"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-24.305,
     "wd:longitude":29.565,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":984087,
         "gp:id":55881587,
-        "qs:id":355364,
         "qs_pg:id":355364,
         "wd:id":"Q544201",
         "wk:page":"Lebowakgomo"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1175615621,
-    "wof:lastmodified":1563372881,
+    "wof:lastmodified":1566663638,
     "wof:name":"Lebowakgomo",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

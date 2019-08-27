@@ -9,14 +9,17 @@
     "geom:bbox":"27.9656925201,-26.127866745,28.0291023254,-26.0361709595",
     "geom:latitude":-26.083491,
     "geom:longitude":27.995281,
-    "geonames:id":"957654,957655",
+    "gn:id":"957654,957655",
     "iso:country":"ZA",
     "lbl:latitude":-26.085493,
     "lbl:longitude":27.990478,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.085493,
     "mps:longitude":27.990478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sandton"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":-26.107,
     "wd:longitude":28.051667,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101925681,
-    "wof:lastmodified":1563373290,
+    "wof:lastmodified":1566663914,
     "wof:name":"Sandton",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.966085,
     "lbl:longitude":25.622381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.966085,
     "mps:longitude":25.622381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dithakong"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.083333,
     "wd:longitude":23.85,
     "wd:wordcount":523,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101925631,
-    "wof:lastmodified":1564194781,
+    "wof:lastmodified":1566663958,
     "wof:name":"Dithakong",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

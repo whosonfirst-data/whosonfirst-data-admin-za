@@ -5,26 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":4900117.157151,
+    "geom:area_square_m":4900117.157152,
     "geom:bbox":"30.7621822357,-29.8671760559,30.7852268219,-29.8327083588",
     "geom:latitude":-29.851231,
     "geom:longitude":30.771885,
     "iso:country":"ZA",
     "lbl:latitude":-29.85668,
     "lbl:longitude":30.76997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.85668,
     "mps:longitude":30.76997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "KwaNgendezi"
     ],
     "name:eng_x_variant":[
         "Kwa-Ndengezi",
         "KwaNdengezi"
-    ],
-    "name:unk_x_variant":[
-        "KwaNgendezi"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -42,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -54,7 +54,6 @@
         "fct:id":"1462ff78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":985460,
         "gp:id":1583562,
-        "qs:id":1300360,
         "qs_pg:id":1300360
     },
     "wof:country":"ZA",
@@ -72,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497298673,
+    "wof:lastmodified":1566663987,
     "wof:name":"KwaNdengezi",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

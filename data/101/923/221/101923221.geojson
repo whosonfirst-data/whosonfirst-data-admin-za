@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.356787,
     "lbl:longitude":28.090919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.356787,
     "mps:longitude":28.090919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u043d\u0442\u044a\u0440\u043f\u0440\u0430\u0439\u0437"
     ],
@@ -126,7 +129,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1044,
     "wof:belongsto":[
         102191573,
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101923221,
-    "wof:lastmodified":1564194695,
+    "wof:lastmodified":1566663865,
     "wof:name":"Enterprise",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

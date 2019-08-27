@@ -12,8 +12,10 @@
     "gn:latitude":-26.09764,
     "gn:longitude":28.07796,
     "iso:country":"ZA",
+    "lbl:bbox":"28.068648,-26.101152,28.078648,-26.091152",
     "lbl:latitude":-26.096152,
     "lbl:longitude":28.073648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.100212,
     "mps:longitude":28.075747,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Strathavon"
     ],
     "name:nld_x_preferred":[
-        "Strathavon"
-    ],
-    "name:unk_x_variant":[
         "Strathavon"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.096,
     "wd:longitude":28.067,
     "wd:wordcount":55,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":951869,
         "gp:id":1587807,
-        "qs:id":482600,
         "qs_pg:id":482600,
         "wd:id":"Q7622029",
         "wk:page":"Strathavon"
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371958,
+    "wof:lastmodified":1566662940,
     "wof:name":"Strathavon",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.792337,
     "lbl:longitude":29.510457,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-25.792337,
     "mps:longitude":29.510457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Middelburg"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1490.0,
     "wd:latitude":-25.768417,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101925517,
-    "wof:lastmodified":1563373316,
+    "wof:lastmodified":1566663928,
     "wof:name":"Middelburg",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"31.09067,-28.6207,31.09067,-28.6207",
     "geom:latitude":-28.6207,
     "geom:longitude":31.09067,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"31.07067,-28.6407,31.11067,-28.6007",
     "lbl:latitude":-28.6207,
     "lbl:longitude":31.09067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Nkandla"
@@ -66,7 +70,7 @@
     "name:ron_x_preferred":[
         "Nkandla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nkandhla"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
     "qs_pg:qs_id":370205,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125879587,
-    "wof:lastmodified":1563373876,
+    "wof:lastmodified":1566664254,
     "wof:name":"Nkandla",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

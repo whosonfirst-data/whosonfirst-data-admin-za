@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.256697,
     "lbl:longitude":27.863482,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-26.256697,
     "mps:longitude":27.863482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Soweto"
     ],
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mpanzaville"
     ],
     "name:urd_x_preferred":[
@@ -217,7 +220,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":101926037,
-    "wof:lastmodified":1563373577,
+    "wof:lastmodified":1566664064,
     "wof:name":"Soweto",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

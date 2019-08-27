@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.98363,
     "lbl:longitude":26.674595,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-26.98363,
     "mps:longitude":26.674595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Orkney"
     ],
@@ -62,7 +65,7 @@
     "name:tsn_x_preferred":[
         "Orkney"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eastleigh"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.978889,
     "wd:longitude":26.669167,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":967476,
         "gp:id":1586325,
-        "qs:id":1221643,
         "qs_pg:id":1221643,
         "wd:id":"Q1788096",
         "wk:page":"Orkney, North West"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101926565,
-    "wof:lastmodified":1563373603,
+    "wof:lastmodified":1566664078,
     "wof:name":"Orkney",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

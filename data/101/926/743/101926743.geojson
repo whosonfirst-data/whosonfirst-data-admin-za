@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.96994,
     "lbl:longitude":26.829234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.96994,
     "mps:longitude":26.829234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Thabong"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":809,
     "wof:belongsto":[
         102191573,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101926743,
-    "wof:lastmodified":1563373630,
+    "wof:lastmodified":1566664095,
     "wof:name":"Thabong",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

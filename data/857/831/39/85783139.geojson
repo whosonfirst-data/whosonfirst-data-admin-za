@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14408844.987374,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.941044,-26.231955,27.941044,-26.231955",
     "geom:latitude":-26.231955,
     "geom:longitude":27.941044,
@@ -15,6 +15,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.231955,
     "lbl:longitude":27.941044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.230921,
     "mps:longitude":27.947799,
     "mz:hierarchy_label":0,
@@ -29,9 +30,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Orlando"
-    ],
-    "name:unk_x_variant":[
         "Orlando"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -64,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -76,12 +74,11 @@
     "wof:concordances":{
         "gn:id":967471,
         "gp:id":55878184,
-        "qs:id":474260,
         "qs_pg:id":474260
     },
     "wof:concordances_alt":{
         "gp:id":1586326,
-        "qs:id":903086
+        "qs_pg:id":903086
     },
     "wof:country":"ZA",
     "wof:geomhash":"cb41a1e5f370988d22b748039e8d4465",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379837,
+    "wof:lastmodified":1566662952,
     "wof:name":"Orlando",
     "wof:parent_id":101926037,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.178264,
     "lbl:longitude":27.959531,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gauteng",
     "meso:gadm_admin":"City of Johannesburg",
     "meso:gadm_hasc2":"ZA.GT.JO",
@@ -31,6 +33,7 @@
     "mps:longitude":27.959531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Stad Johannesburg Metropolitaanse Munisipaliteit"
     ],
@@ -81,9 +84,9 @@
         "\u7d04\u7ff0\u5167\u65af\u5821\u5e02\u5927\u90fd\u6703\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"1,645.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Johannesburg",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108730509,
-    "wof:lastmodified":1563372827,
+    "wof:lastmodified":1566663590,
     "wof:name":"Johannesburg",
     "wof:parent_id":85688923,
     "wof:placetype":"county",

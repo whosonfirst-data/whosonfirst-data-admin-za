@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.050045,
     "lbl:longitude":23.374956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-34.050045,
     "mps:longitude":23.374956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Plettenbergbaai"
     ],
@@ -53,7 +56,7 @@
     "name:ron_x_preferred":[
         "Plettenbergbaai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Formosa"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-34.05,
     "wd:longitude":23.366667,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":964712,
         "gp:id":1586589,
-        "qs:id":1030260,
         "qs_pg:id":1030260,
         "wd:id":"Q922360",
         "wk:page":"Plettenberg Bay"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101928073,
-    "wof:lastmodified":1563373695,
+    "wof:lastmodified":1566664140,
     "wof:name":"Plettenberg Bay",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"30.23264,-22.85531,30.27264,-22.81531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":979928
     },
     "wof:country":"ZA",
-    "wof:geomhash":"50a791694992616f4eb3e1ef24cda0d3",
+    "wof:geomhash":"d7c2397d6152448885d086d50dd7fa7e",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209310267,
-    "wof:lastmodified":1536291053,
+    "wof:lastmodified":1566663309,
     "wof:name":"Makuleni",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.252640000000003,
+    30.25264,
     -22.83531,
-    30.252640000000003,
+    30.25264,
     -22.83531
 ],
   "geometry": {"coordinates":[30.25264,-22.83531],"type":"Point"}

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.153054,
     "lbl:longitude":30.061042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.153054,
     "mps:longitude":30.061042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u06cc\u0645"
     ],
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0456\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elim Hospital"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
         102191573,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101924079,
-    "wof:lastmodified":1564194634,
+    "wof:lastmodified":1566663805,
     "wof:name":"Elim",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

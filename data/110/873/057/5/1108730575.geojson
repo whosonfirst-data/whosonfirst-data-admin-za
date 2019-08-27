@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.815974,
     "lbl:longitude":30.086013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Limpopo",
     "meso:gadm_admin":"Vhembe",
     "meso:gadm_hasc2":"ZA.NP.VH",
@@ -31,6 +33,7 @@
     "mps:longitude":30.086013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Vhembe-distriksmunisipaliteit"
     ],
@@ -81,9 +84,9 @@
         "\u7a46\u5e0c\u59c6\u8c9d\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"21,407.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Thohoyandou",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108730575,
-    "wof:lastmodified":1563372833,
+    "wof:lastmodified":1566663597,
     "wof:name":"Vhembe",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

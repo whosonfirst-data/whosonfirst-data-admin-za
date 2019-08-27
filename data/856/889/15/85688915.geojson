@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-28.59211,
     "lbl:longitude":26.682325,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Free State",
     "mps:latitude":-28.5992,
     "mps:longitude":26.683766,
@@ -44,7 +45,7 @@
     "name:swe_x_preferred":[
         "Fristaten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province of the Orange Free State"
     ],
     "ne:abbrev":"",
@@ -116,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"76,495",
     "statoids:area_mi":"29,535",
     "statoids:as_of_date":"2001-10-10",
@@ -171,11 +172,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740296,
+    "wof:lastmodified":1566663002,
     "wof:name":"Free State",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":4039939,
     "wof:population_rank":12,

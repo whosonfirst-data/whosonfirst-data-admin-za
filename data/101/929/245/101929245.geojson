@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.762129,
     "lbl:longitude":25.405954,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-33.762129,
     "mps:longitude":25.405954,
     "mz:hierarchy_label":1,
@@ -216,7 +218,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.75,
     "wd:longitude":25.4,
@@ -232,7 +234,6 @@
         "fct:id":"1463be22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":946877,
         "gp:id":1588375,
-        "qs:id":7983,
         "qs_pg:id":7983,
         "wd:id":"Q1020192",
         "wk:page":"Uitenhage"
@@ -252,7 +253,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373389,
+    "wof:lastmodified":1566663969,
     "wof:name":"Uitenhage",
     "wof:parent_id":1108730527,
     "wof:placetype":"locality",

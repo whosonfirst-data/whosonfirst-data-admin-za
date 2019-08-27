@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9353337.975932,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.251892,-26.089841,28.251892,-26.089841",
     "geom:latitude":-26.089841,
     "geom:longitude":28.251892,
     "gn:latitude":-26.08559,
     "gn:longitude":28.24551,
     "iso:country":"ZA",
+    "lbl:bbox":"28.246892,-26.094841,28.256892,-26.084841",
     "lbl:latitude":-26.089841,
     "lbl:longitude":28.251892,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.093477,
     "mps:longitude":28.252268,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Aston Manor"
-    ],
-    "name:unk_x_variant":[
         "Aston Manor"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":230,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925731,
-        1108730507,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7909716,
         "gp:id":55878567,
-        "qs:id":1060093,
         "qs_pg:id":1060093
     },
     "wof:country":"ZA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860460,
+    "wof:lastmodified":1566662953,
     "wof:name":"Aston Manor",
     "wof:parent_id":101925731,
     "wof:placetype":"neighbourhood",

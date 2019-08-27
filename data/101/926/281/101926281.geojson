@@ -9,10 +9,12 @@
     "geom:bbox":"29.4527683258,-26.4671764374,29.4849376678,-26.4567375183",
     "geom:latitude":-26.461325,
     "geom:longitude":29.467657,
-    "geonames:id":"1019756,1019760",
+    "gn:id":"1019756,1019760",
     "iso:country":"ZA",
     "lbl:latitude":-26.462057,
     "lbl:longitude":29.469266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.462057,
     "mps:longitude":29.469266,
     "mz:hierarchy_label":1,
@@ -174,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":1660.0,
     "wd:latitude":-26.45,
     "wd:longitude":29.45,
@@ -204,7 +206,7 @@
         }
     ],
     "wof:id":101926281,
-    "wof:lastmodified":1563373565,
+    "wof:lastmodified":1566664058,
     "wof:name":"Bethal",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.470921,
     "lbl:longitude":29.113295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.470921,
     "mps:longitude":29.113295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Evander"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.4719,
     "wd:longitude":29.11,
     "wd:wordcount":225,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101926297,
-    "wof:lastmodified":1561840248,
+    "wof:lastmodified":1566664093,
     "wof:name":"Evander",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

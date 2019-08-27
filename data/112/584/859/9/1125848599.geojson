@@ -9,14 +9,18 @@
     "geom:bbox":"17.78623,-29.59169,17.78623,-29.59169",
     "geom:latitude":-29.59169,
     "geom:longitude":17.78623,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"17.76623,-29.61169,17.80623,-29.57169",
     "lbl:latitude":-29.59169,
     "lbl:longitude":17.78623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Nababeep"
@@ -33,7 +37,7 @@
     "name:ron_x_preferred":[
         "Nababeeb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nabaiep"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1585619,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Northern Cape",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125848599,
-    "wof:lastmodified":1563374006,
+    "wof:lastmodified":1566664324,
     "wof:name":"Nababiep",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",

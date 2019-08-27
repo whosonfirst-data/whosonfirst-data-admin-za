@@ -12,8 +12,10 @@
     "gn:latitude":-29.87064,
     "gn:longitude":30.98874,
     "iso:country":"ZA",
+    "lbl:bbox":"30.978244,-29.869818,30.988244,-29.859818",
     "lbl:latitude":-29.864818,
     "lbl:longitude":30.983244,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.863279,
     "mps:longitude":30.977328,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Glenwood"
     ],
     "name:nso_x_preferred":[
-        "Glenwood"
-    ],
-    "name:unk_x_variant":[
         "Glenwood"
     ],
     "name:war_x_preferred":[
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-29.866667,
     "wd:longitude":30.983333,
     "wd:wordcount":54,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":1001490,
         "gp:id":1581805,
-        "qs:id":7786,
         "qs_pg:id":7786,
         "wd:id":"Q3347444",
         "wk:page":"Glenwood, KwaZulu-Natal"
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372005,
+    "wof:lastmodified":1566662965,
     "wof:name":"Glenwood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"30.27274,-24.0397,30.27274,-24.0397",
     "geom:latitude":-24.0397,
     "geom:longitude":30.27274,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"30.25274,-24.0597,30.29274,-24.0197",
     "lbl:latitude":-24.0397,
     "lbl:longitude":30.27274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Shiluvane"
@@ -27,7 +31,7 @@
     "name:nso_x_preferred":[
         "Shiluvane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shilobane"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -47,7 +51,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1587408,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Limpopo",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125850053,
-    "wof:lastmodified":1514504530,
+    "wof:lastmodified":1566664313,
     "wof:name":"Shiluvane",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

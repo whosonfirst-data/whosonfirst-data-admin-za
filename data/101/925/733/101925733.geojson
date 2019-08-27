@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.139664,
     "lbl:longitude":28.162502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.139664,
     "mps:longitude":28.162502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Edenvale"
     ],
@@ -269,7 +272,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.141111,
     "wd:longitude":28.152778,
     "wd:wordcount":382,
@@ -284,7 +287,6 @@
         "fct:id":"14629cd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1006834,
         "gp:id":1580969,
-        "qs:id":193840,
         "qs_pg:id":193840,
         "wd:id":"Q3643050",
         "wk:page":"Edenvale, Gauteng"
@@ -304,7 +306,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373331,
+    "wof:lastmodified":1566663936,
     "wof:name":"Edenvale",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.711405,
     "lbl:longitude":27.094089,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-26.711405,
     "mps:longitude":27.094089,
     "mz:hierarchy_label":1,
@@ -237,7 +239,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1350.0,
     "wd:latitude":-26.715,
@@ -253,10 +255,12 @@
     "wof:concordances":{
         "gn:id":964349,
         "gp:id":1586625,
-        "qs:id":239646,
-        "qs_pg:id":1153666,
+        "qs_pg:id":239646,
         "wd:id":"Q605167",
         "wk:page":"Potchefstroom"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153666
     },
     "wof:country":"ZA",
     "wof:geomhash":"00d148b6b6345a4d8e6ae57dee27d518",
@@ -270,7 +274,7 @@
         }
     ],
     "wof:id":101926447,
-    "wof:lastmodified":1563373553,
+    "wof:lastmodified":1566664051,
     "wof:name":"Potchefstroom",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

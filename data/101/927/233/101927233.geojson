@@ -5,26 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002696,
-    "geom:area_square_m":30110804.811478,
+    "geom:area_square_m":30110804.811476,
     "geom:bbox":"31.1425704956,-25.4843196869,31.2248706818,-25.3988838196",
     "geom:latitude":-25.431625,
     "geom:longitude":31.180758,
     "iso:country":"ZA",
     "lbl:latitude":-25.423648,
     "lbl:longitude":31.183567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.423648,
     "mps:longitude":31.183567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "eNyamazaneni"
     ],
     "name:eng_x_variant":[
         "KaNyamazane",
         "Nyamasaan",
-        "Nyamazane"
-    ],
-    "name:unk_x_variant":[
         "Nyamazane"
     ],
     "qs:a0":"South Africa",
@@ -41,7 +41,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501216581,
+    "wof:lastmodified":1566664008,
     "wof:name":"KaNyamazane",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

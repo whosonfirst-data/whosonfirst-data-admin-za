@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.032652,
     "lbl:longitude":18.450565,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.028612,
     "mps:longitude":18.455623,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Meadowridge"
     ],
     "name:nld_x_preferred":[
-        "Meadowridge"
-    ],
-    "name:unk_x_variant":[
         "Meadowridge"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -64,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gn:id":3364244,
         "gp:id":1584851,
-        "qs:id":1014169,
         "qs_pg:id":1014169,
         "wd:id":"Q15252589",
         "wk:page":"Meadowridge"
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371975,
+    "wof:lastmodified":1566662947,
     "wof:name":"Meadowridge",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

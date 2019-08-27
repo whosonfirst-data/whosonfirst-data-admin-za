@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.53348,-31.14699,28.57348,-31.10699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":988243
     },
     "wof:country":"ZA",
-    "wof:geomhash":"38ce9abe61fae6f43283aa44786e6032",
+    "wof:geomhash":"a81833d6d99e120c16bfcb6d3c510ea5",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209219571,
-    "wof:lastmodified":1536294010,
+    "wof:lastmodified":1566663419,
     "wof:name":"Komkulu",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     28.55348,
-    -31.126990000000006,
+    -31.12699000000001,
     28.55348,
-    -31.126990000000006
+    -31.12699000000001
 ],
   "geometry": {"coordinates":[28.55348,-31.12699000000001],"type":"Point"}
 }

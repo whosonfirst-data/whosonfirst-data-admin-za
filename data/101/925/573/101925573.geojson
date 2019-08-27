@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.884263,
     "lbl:longitude":28.114764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.884263,
     "mps:longitude":28.114764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Heuweloord"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.883333,
     "wd:longitude":28.1,
     "wd:wordcount":24,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101925573,
-    "wof:lastmodified":1561840232,
+    "wof:lastmodified":1566663934,
     "wof:name":"Heuweloord",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

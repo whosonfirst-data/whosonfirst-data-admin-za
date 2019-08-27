@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-32.325988,
     "lbl:longitude":28.174967,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-32.325988,
     "mps:longitude":28.174967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Butterworth"
     ],
@@ -233,9 +236,6 @@
     "name:tur_x_preferred":[
         "Butterworth"
     ],
-    "name:unk_x_variant":[
-        "Gcuwa"
-    ],
     "name:vec_x_preferred":[
         "Butterworth"
     ],
@@ -282,7 +282,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-32.333333,
     "wd:longitude":28.15,
@@ -297,7 +297,6 @@
     "wof:concordances":{
         "gn:id":1014489,
         "gp:id":1580229,
-        "qs:id":193831,
         "qs_pg:id":193831,
         "wd:id":"Q1018158",
         "wk:page":"Butterworth, Eastern Cape"
@@ -314,7 +313,7 @@
         }
     ],
     "wof:id":101929027,
-    "wof:lastmodified":1563373419,
+    "wof:lastmodified":1566663979,
     "wof:name":"Butterworth",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",

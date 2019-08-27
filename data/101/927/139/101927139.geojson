@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.749141,
     "lbl:longitude":25.313825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.749141,
     "mps:longitude":25.313825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Fauresmith"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.75,
     "wd:longitude":25.316667,
     "wd:wordcount":562,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101927139,
-    "wof:lastmodified":1563373493,
+    "wof:lastmodified":1566664022,
     "wof:name":"Fauresmith",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",

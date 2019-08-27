@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.198244,
     "lbl:longitude":18.375219,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.242027,
     "mps:longitude":18.383852,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Scarborough"
     ],
     "name:nld_x_preferred":[
-        "Scarborough"
-    ],
-    "name:unk_x_variant":[
         "Scarborough"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -70,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3361769,
         "gp:id":1587219,
-        "qs:id":482585,
         "qs_pg:id":482585,
         "wd:id":"Q7430257",
         "wk:page":"Scarborough, Cape Town"
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371959,
+    "wof:lastmodified":1566662941,
     "wof:name":"Scarborough",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

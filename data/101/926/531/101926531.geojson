@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.909008,
     "lbl:longitude":27.452966,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-26.909008,
     "mps:longitude":27.452966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Parys"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.9,
     "wd:longitude":27.45,
@@ -108,10 +111,12 @@
     "wof:concordances":{
         "gn:id":966166,
         "gp:id":1586432,
-        "qs:id":130214,
-        "qs_pg:id":1118872,
+        "qs_pg:id":130214,
         "wd:id":"Q2835080",
         "wk:page":"Parys"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118872
     },
     "wof:country":"ZA",
     "wof:geomhash":"09b0d6ad67bc7fa5d8e95c39360688ad",
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101926531,
-    "wof:lastmodified":1563373597,
+    "wof:lastmodified":1566664076,
     "wof:name":"Parys",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

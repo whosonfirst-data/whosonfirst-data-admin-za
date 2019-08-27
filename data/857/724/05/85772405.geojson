@@ -12,8 +12,10 @@
     "gn:latitude":-26.14619,
     "gn:longitude":27.97068,
     "iso:country":"ZA",
+    "lbl:bbox":"27.956611,-26.137316,27.966611,-26.127316",
     "lbl:latitude":-26.132316,
     "lbl:longitude":27.961611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.138513,
     "mps:longitude":27.942814,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Northcliff"
     ],
     "name:nld_x_preferred":[
-        "Northcliff"
-    ],
-    "name:unk_x_variant":[
         "Northcliff"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":969688,
         "gp:id":1586020,
-        "qs:id":118698,
         "qs_pg:id":118698,
         "wd:id":"Q14943754",
         "wk:page":"Northcliff"
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371966,
+    "wof:lastmodified":1566662943,
     "wof:name":"Northcliff",
     "wof:parent_id":101925737,
     "wof:placetype":"neighbourhood",

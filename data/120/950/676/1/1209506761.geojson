@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.98209,-24.90688,30.02209,-24.86688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -34,7 +38,7 @@
         "gn:id":1003333
     },
     "wof:country":"ZA",
-    "wof:geomhash":"09d7cdf251384e41a631cb6bf0a610b3",
+    "wof:geomhash":"927fa7fab6f03bdbda0059874bb604da",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209506761,
-    "wof:lastmodified":1536285010,
+    "wof:lastmodified":1566663372,
     "wof:name":"Ga-Malekana",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.002090000000006,
+    30.00209000000001,
     -24.88688,
-    30.002090000000006,
+    30.00209000000001,
     -24.88688
 ],
   "geometry": {"coordinates":[30.00209000000001,-24.88688],"type":"Point"}

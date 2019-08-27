@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.315116,
     "lbl:longitude":26.820324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.315116,
     "mps:longitude":26.820324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ventersdorp"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.316667,
     "wd:longitude":26.816667,
     "wd:wordcount":304,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":944531,
         "gp:id":56189473,
-        "qs:id":760654,
+        "qs_pg:id":760654,
         "wd:id":"Q2000158"
     },
     "wof:country":"ZA",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101926079,
-    "wof:lastmodified":1563373555,
+    "wof:lastmodified":1566664053,
     "wof:name":"Ventersdorp",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

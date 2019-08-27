@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"26.42539,-29.54844,26.46539,-29.50844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":1018539
     },
     "wof:country":"ZA",
-    "wof:geomhash":"75b6d57ecc63c230119fe8a756ff5fb1",
+    "wof:geomhash":"c9c443130f9e90d97d9300a4bc2f05c9",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209416791,
-    "wof:lastmodified":1536287661,
+    "wof:lastmodified":1566663352,
     "wof:name":"Blouboskop",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.445390000000003,
-    -29.528440000000003,
-    26.445390000000003,
-    -29.528440000000003
+    26.44539,
+    -29.52844,
+    26.44539,
+    -29.52844
 ],
   "geometry": {"coordinates":[26.44539,-29.52844],"type":"Point"}
 }

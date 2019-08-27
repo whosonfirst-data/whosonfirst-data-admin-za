@@ -9,14 +9,15 @@
     "geom:bbox":"18.3911132786,-33.939850708,18.4103393555,-33.9282903151",
     "geom:latitude":-33.93402,
     "geom:longitude":18.400324,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.93333,
     "gn:longitude":18.4,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.940828,
     "lbl:longitude":18.399269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.933904,
     "mps:longitude":18.400324,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
         "Higgovale"
     ],
     "name:nld_x_preferred":[
-        "Higgovale"
-    ],
-    "name:unk_x_variant":[
         "Higgovale"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -94,7 +92,7 @@
     "qs_pg:woe_id":1582230,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -105,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3366833,
         "gp:id":1582230,
-        "qs:id":1081067,
         "qs_pg:id":1081067,
         "wd:id":"Q3135348",
         "wk:page":"Higgovale, Cape Town"
@@ -125,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371957,
+    "wof:lastmodified":1566662940,
     "wof:name":"Higgovale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

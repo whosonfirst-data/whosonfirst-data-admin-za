@@ -10,8 +10,10 @@
     "geom:latitude":-29.75793,
     "geom:longitude":30.738424,
     "iso:country":"ZA",
+    "lbl:bbox":"30.733424,-29.76293,30.743424,-29.75293",
     "lbl:latitude":-29.75793,
     "lbl:longitude":30.738424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.781066,
     "mps:longitude":30.731503,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Botha's Hill"
     ],
     "name:nso_x_preferred":[
-        "Botha's Hill"
-    ],
-    "name:unk_x_variant":[
         "Botha's Hill"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -70,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-29.752,
     "wd:longitude":30.74,
     "wd:wordcount":101,
@@ -101,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371935,
+    "wof:lastmodified":1566662929,
     "wof:name":"Botha's Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7647523.396734,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.900124,-33.016759,27.900124,-33.016759",
     "geom:latitude":-33.016759,
     "geom:longitude":27.900124,
     "gn:latitude":-33.03109,
     "gn:longitude":27.90985,
     "iso:country":"ZA",
+    "lbl:bbox":"27.895124,-33.021759,27.905124,-33.011759",
     "lbl:latitude":-33.016759,
     "lbl:longitude":27.900124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.019163,
     "mps:longitude":27.897186,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Buffalo Harbor"
-    ],
-    "name:unk_x_variant":[
         "Buffalo Harbor"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688927,
         102191573,
         85633813,
         101929165,
-        1108730513,
-        85688927
+        1108730513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1015245,
         "gp:id":1580177,
-        "qs:id":189307,
         "qs_pg:id":189307
     },
     "wof:country":"ZA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859503,
+    "wof:lastmodified":1566662967,
     "wof:name":"Buffalo Harbor",
     "wof:parent_id":101929165,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":2366670.413275,
+    "geom:area_square_m":2366670.413274,
     "geom:bbox":"18.5055999511,-33.9091305487,18.5230571057,-33.8856787838",
     "geom:latitude":-33.898112,
     "geom:longitude":18.515296,
@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.910568,
     "lbl:longitude":18.521441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.898401,
     "mps:longitude":18.515164,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Factreton"
-    ],
-    "name:unk_x_variant":[
         "Factreton"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -73,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3367945,
         "gp:id":1581230,
-        "qs:id":115922,
         "qs_pg:id":115922
     },
     "wof:country":"ZA",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316286,
+    "wof:lastmodified":1566662965,
     "wof:name":"Factreton",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":4332957.420035,
+    "geom:area_square_m":4332957.420033,
     "geom:bbox":"18.4103393555,-33.9189909702,18.4362182447,-33.8932173185",
     "geom:latitude":-33.906038,
     "geom:longitude":18.424888,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.92253,
     "gn:longitude":18.4161,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.919636,
     "lbl:longitude":18.410784,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.905975,
     "mps:longitude":18.426179,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Schotschekloof"
-    ],
-    "name:unk_x_variant":[
         "Schotschekloof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -82,7 +80,7 @@
     "qs_pg:woe_id":1587242,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -93,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3361739,
         "gp:id":1587242,
-        "qs:id":898184,
         "qs_pg:id":898184
     },
     "wof:country":"ZA",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379836,
+    "wof:lastmodified":1566662941,
     "wof:name":"Schotschekloof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"18.70663,-33.94208,18.70663,-33.94208",
     "geom:latitude":-33.94208,
     "geom:longitude":18.70663,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"18.68663,-33.96208,18.72663,-33.92208",
     "lbl:latitude":-33.94208,
     "lbl:longitude":18.70663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kuilsrivier"
@@ -39,9 +43,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0451\u0439\u043b\u0441\u0440\u0438\u0444\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Kuils River"
-    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPL",
@@ -61,7 +62,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1583198,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1125843881,
-    "wof:lastmodified":1561840264,
+    "wof:lastmodified":1566664325,
     "wof:name":"Kuilsrivier",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

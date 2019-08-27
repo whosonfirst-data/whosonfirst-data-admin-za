@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-30.109231,
     "lbl:longitude":29.664939,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KwaZulu-Natal",
     "meso:gadm_admin":"Sisonke",
     "meso:gadm_hasc2":"ZA.NL.SS",
@@ -31,6 +33,7 @@
     "mps:longitude":29.664939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sisonke-distriksmunisipaliteit"
     ],
@@ -78,9 +81,9 @@
         "Sisonke"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"10,109.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Ixopo",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108730569,
-    "wof:lastmodified":1563372834,
+    "wof:lastmodified":1566663598,
     "wof:name":"Sisonke",
     "wof:parent_id":85688911,
     "wof:placetype":"county",

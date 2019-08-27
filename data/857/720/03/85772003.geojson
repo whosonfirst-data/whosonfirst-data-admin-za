@@ -12,8 +12,10 @@
     "gn:latitude":-28.75299,
     "gn:longitude":24.78548,
     "iso:country":"ZA",
+    "lbl:bbox":"24.777622,-28.762842,24.787622,-28.752842",
     "lbl:latitude":-28.757842,
     "lbl:longitude":24.782622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.753703,
     "mps:longitude":24.784229,
     "mz:hierarchy_label":0,
@@ -94,10 +96,6 @@
     "name:tur_x_preferred":[
         "Beaconsfield"
     ],
-    "name:unk_x_variant":[
-        "Beaconfield",
-        "Beaconsfield"
-    ],
     "name:vol_x_preferred":[
         "Beaconsfield"
     ],
@@ -133,7 +131,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688899,
         102191573,
@@ -145,7 +143,6 @@
     "wof:concordances":{
         "gn:id":1020676,
         "gp:id":1579683,
-        "qs:id":1028587,
         "qs_pg:id":1028587
     },
     "wof:country":"ZA",
@@ -164,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193548,
+    "wof:lastmodified":1566662966,
     "wof:name":"Beaconsfield",
     "wof:parent_id":101924789,
     "wof:placetype":"neighbourhood",

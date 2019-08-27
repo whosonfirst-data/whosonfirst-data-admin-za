@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":387902.276391,
+    "geom:area_square_m":387902.27639,
     "geom:bbox":"28.4031448364,-26.2459907532,28.4119148254,-26.2375469208",
     "geom:latitude":-26.241698,
     "geom:longitude":28.407312,
     "iso:country":"ZA",
     "lbl:latitude":-26.24163,
     "lbl:longitude":28.407246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.24163,
     "mps:longitude":28.407246,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New State Areas"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -61,7 +64,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1500027729,
+    "wof:lastmodified":1566663908,
     "wof:name":"New State Areas",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

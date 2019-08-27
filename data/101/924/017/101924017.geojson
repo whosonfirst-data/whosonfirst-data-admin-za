@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.03813,
     "lbl:longitude":30.647798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.03813,
     "mps:longitude":30.647798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Jimmy Jones"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":240,
     "wof:belongsto":[
         102191573,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101924017,
-    "wof:lastmodified":1564194665,
+    "wof:lastmodified":1566663838,
     "wof:name":"Jimmy Jones",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

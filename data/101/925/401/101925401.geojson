@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.674084,
     "lbl:longitude":27.317112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.674084,
     "mps:longitude":27.317112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0430"
     ],
@@ -720,7 +723,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -743,7 +746,7 @@
         }
     ],
     "wof:id":101925401,
-    "wof:lastmodified":1564194753,
+    "wof:lastmodified":1566663920,
     "wof:name":"Colombia",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

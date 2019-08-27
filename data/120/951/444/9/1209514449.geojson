@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.3544,-31.02469,28.3944,-30.98469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":1003747
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8d321fd1746461771ddb855f7d6af110",
+    "wof:geomhash":"f9225c4a86b683ad3242ef4d1508ba6e",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209514449,
-    "wof:lastmodified":1536284778,
+    "wof:lastmodified":1566663392,
     "wof:name":"Frankstead",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     28.3744,
-    -31.004690000000004,
+    -31.00469,
     28.3744,
-    -31.004690000000004
+    -31.00469
 ],
   "geometry": {"coordinates":[28.3744,-31.00469],"type":"Point"}
 }

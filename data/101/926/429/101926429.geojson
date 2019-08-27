@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.680067,
     "lbl:longitude":27.875267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.680067,
     "mps:longitude":27.875267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sharpeville"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Sharpeville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sharpville"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":491,
     "wof:belongsto":[
         102191573,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":956162,
         "gp:id":1587393,
-        "qs:id":1159780,
         "qs_pg:id":1159780,
         "wd:id":"Q1422014",
         "wk:page":"Sharpeville"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101926429,
-    "wof:lastmodified":1563373614,
+    "wof:lastmodified":1566664084,
     "wof:name":"Sharpeville",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

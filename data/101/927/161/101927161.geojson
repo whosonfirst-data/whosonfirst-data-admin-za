@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.991552,
     "lbl:longitude":27.020313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.991552,
     "mps:longitude":27.020313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Van Stadensrus"
     ],
@@ -40,7 +43,7 @@
     "name:ron_x_variant":[
         "Vanstadensrus"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Van Staden\u2019s Rust"
     ],
     "qs:a0":"South Africa",
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.983,
     "wd:longitude":27.016,
     "wd:wordcount":107,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101927161,
-    "wof:lastmodified":1561840237,
+    "wof:lastmodified":1566663988,
     "wof:name":"Van Stadensrus",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

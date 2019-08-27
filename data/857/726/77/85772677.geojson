@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22011001.010408,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.082056,-26.108677,28.082056,-26.108677",
     "geom:latitude":-26.108677,
     "geom:longitude":28.082056,
     "gn:latitude":-26.11075,
     "gn:longitude":28.08466,
     "iso:country":"ZA",
+    "lbl:bbox":"28.077056,-26.113677,28.087056,-26.103677",
     "lbl:latitude":-26.108677,
     "lbl:longitude":28.082056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.075089,
     "mps:longitude":28.116697,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Wynberg"
-    ],
-    "name:unk_x_variant":[
         "Wynberg"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925745,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":937832,
         "gp:id":1589033,
-        "qs:id":183885,
         "qs_pg:id":183885
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859559,
+    "wof:lastmodified":1566662961,
     "wof:name":"Wynberg",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

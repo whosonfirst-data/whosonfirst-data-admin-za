@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1598433.062739,
+    "geom:area_square_m":2567561.997279,
     "geom:bbox":"27.1014213562,-33.2952842712,27.1246166229,-33.2537002563",
     "geom:latitude":-33.273117,
     "geom:longitude":27.112243,
     "iso:country":"ZA",
     "lbl:latitude":-33.264431,
     "lbl:longitude":27.10909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.264431,
     "mps:longitude":27.10909,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Gwalana"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         101929205,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1175615585,
-    "wof:lastmodified":1534986003,
+    "wof:lastmodified":1566663628,
     "wof:name":"Mgwalana",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.937924,
     "lbl:longitude":18.43488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.929688,
     "mps:longitude":18.426198,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
         "City Bowl"
     ],
     "name:nld_x_preferred":[
-        "City Bowl"
-    ],
-    "name:unk_x_variant":[
         "City Bowl"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":185,
     "wof:belongsto":[
         85688905,
@@ -84,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877900,
-        "qs:id":1294439,
         "qs_pg:id":1294439,
         "wd:id":"Q2974549"
     },
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371934,
+    "wof:lastmodified":1566662929,
     "wof:name":"City Bowl",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

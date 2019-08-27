@@ -12,8 +12,10 @@
     "gn:latitude":-25.72589,
     "gn:longitude":28.3137,
     "iso:country":"ZA",
+    "lbl:bbox":"28.293,-25.742246,28.303,-25.732246",
     "lbl:latitude":-25.737246,
     "lbl:longitude":28.298,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.731266,
     "mps:longitude":28.303703,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:swe_x_preferred":[
         "Silverton"
     ],
-    "name:unk_x_variant":[
-        "Silverton"
-    ],
     "name:vol_x_preferred":[
         "Silverton"
     ],
@@ -110,7 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":116,
     "wof:belongsto":[
         85688923,
@@ -123,7 +122,6 @@
     "wof:concordances":{
         "gn:id":955577,
         "gp:id":1587493,
-        "qs:id":1041080,
         "qs_pg:id":1041080
     },
     "wof:country":"ZA",
@@ -142,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193523,
+    "wof:lastmodified":1566662943,
     "wof:name":"Silverton",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

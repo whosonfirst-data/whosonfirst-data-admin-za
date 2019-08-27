@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16220693.511426,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.816671,-26.272741,27.816671,-26.272741",
     "geom:latitude":-26.272741,
     "geom:longitude":27.816671,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"27.811671,-26.277741,27.821671,-26.267741",
     "lbl:latitude":-26.272741,
     "lbl:longitude":27.816671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.278224,
     "mps:longitude":27.842661,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Protea Glen"
     ],
     "name:eng_x_preferred":[
-        "Protea Glen"
-    ],
-    "name:unk_x_variant":[
         "Protea Glen"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -63,18 +62,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101926029,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878107,
-        "qs:id":1339648,
         "qs_pg:id":1339648
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860453,
+    "wof:lastmodified":1566662955,
     "wof:name":"Protea Glen",
     "wof:parent_id":101926029,
     "wof:placetype":"neighbourhood",

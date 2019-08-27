@@ -9,14 +9,18 @@
     "geom:bbox":"24.81383,-33.76007,24.81383,-33.76007",
     "geom:latitude":-33.76007,
     "geom:longitude":24.81383,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"24.79383,-33.78007,24.83383,-33.74007",
     "lbl:latitude":-33.76007,
     "lbl:longitude":24.81383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Patensie"
@@ -48,7 +52,7 @@
     "name:spa_x_preferred":[
         "Patensie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patentie"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1586437,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Eastern Cape",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1125942583,
-    "wof:lastmodified":1563373787,
+    "wof:lastmodified":1566664207,
     "wof:name":"Patensie",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

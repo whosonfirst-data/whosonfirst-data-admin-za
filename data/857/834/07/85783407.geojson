@@ -11,8 +11,10 @@
     "geom:longitude":19.235261,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"19.230261,-34.426583,19.240261,-34.416583",
     "lbl:latitude":-34.421583,
     "lbl:longitude":19.235261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.418017,
     "mps:longitude":19.231057,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u043d\u0442-\u041f\u043b\u0435\u0437\u0430\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Mount Pleasant"
-    ],
     "name:vol_x_preferred":[
         "Mount Pleasant"
     ],
@@ -117,7 +116,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -128,7 +127,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55881572,
-        "qs:id":1091841,
         "qs_pg:id":1091841
     },
     "wof:country":"ZA",
@@ -147,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193516,
+    "wof:lastmodified":1566662937,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":101928043,
     "wof:placetype":"neighbourhood",

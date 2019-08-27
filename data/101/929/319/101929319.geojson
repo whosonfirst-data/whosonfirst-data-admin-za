@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.734195,
     "lbl:longitude":30.397192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.734195,
     "mps:longitude":30.397192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oorbietjie"
     ],
@@ -165,7 +168,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2318,
     "wof:belongsto":[
         102191573,
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101929319,
-    "wof:lastmodified":1563373429,
+    "wof:lastmodified":1566663984,
     "wof:name":"Oribi",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

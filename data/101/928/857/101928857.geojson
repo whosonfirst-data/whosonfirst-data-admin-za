@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.905834,
     "lbl:longitude":26.962563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.905834,
     "mps:longitude":26.962563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ezibeleni"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":282,
     "wof:belongsto":[
         102191573,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101928857,
-    "wof:lastmodified":1561840250,
+    "wof:lastmodified":1566664118,
     "wof:name":"eZibeleni",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",

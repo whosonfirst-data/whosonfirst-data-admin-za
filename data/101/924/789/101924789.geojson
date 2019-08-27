@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.734759,
     "lbl:longitude":24.747725,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-28.734759,
     "mps:longitude":24.747725,
     "mz:hierarchy_label":1,
@@ -354,7 +356,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1184.0,
     "wd:latitude":-28.738611,
@@ -370,10 +372,12 @@
     "wof:concordances":{
         "gn:id":990930,
         "gp:id":1582804,
-        "qs:id":130260,
-        "qs_pg:id":1306457,
+        "qs_pg:id":130260,
         "wd:id":"Q125905",
         "wk:page":"Kimberley, Northern Cape"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1306457
     },
     "wof:country":"ZA",
     "wof:geomhash":"e60bc55ba49f0ac05d4fc1f9ec07143b",
@@ -387,7 +391,7 @@
         }
     ],
     "wof:id":101924789,
-    "wof:lastmodified":1563373198,
+    "wof:lastmodified":1566663851,
     "wof:name":"Kimberley",
     "wof:parent_id":1108730599,
     "wof:placetype":"locality",

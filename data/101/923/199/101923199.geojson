@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1316681.811352,
+    "geom:area_square_m":1316681.811354,
     "geom:bbox":"27.9270095825,-23.253660202,27.9410972595,-23.2370185852",
     "geom:latitude":-23.2464,
     "geom:longitude":27.934239,
     "iso:country":"ZA",
     "lbl:latitude":-23.245996,
     "lbl:longitude":27.936107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.245996,
     "mps:longitude":27.936107,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "KwaKouletsi"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101923199,
-    "wof:lastmodified":1501216578,
+    "wof:lastmodified":1566663884,
     "wof:name":"Kauletsi",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.212678,
     "lbl:longitude":28.334036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.212678,
     "mps:longitude":28.334036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Apex"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":579,
     "wof:belongsto":[
         102191573,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101925917,
-    "wof:lastmodified":1564194788,
+    "wof:lastmodified":1566663963,
     "wof:name":"Apex",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

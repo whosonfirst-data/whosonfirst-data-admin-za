@@ -9,14 +9,15 @@
     "geom:bbox":"18.3454077149,-33.986640984,18.3966064453,-33.9456379345",
     "geom:latitude":-33.964715,
     "geom:longitude":18.373755,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.95166,
     "gn:longitude":18.38437,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.953238,
     "lbl:longitude":18.383423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.966048,
     "mps:longitude":18.37936,
     "mz:hierarchy_label":1,
@@ -50,10 +51,6 @@
         "\u30ad\u30e3\u30f3\u30d7\u30b9\u6e7e"
     ],
     "name:nld_x_preferred":[
-        "Camps Bay"
-    ],
-    "name:unk_x_variant":[
-        "Kampsbaai",
         "Camps Bay"
     ],
     "name:zho_x_preferred":[
@@ -106,8 +103,7 @@
     "qs_pg:woe_id":1580272,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -118,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3369169,
         "gp:id":1580272,
-        "qs:id":223092,
         "qs_pg:id":223092,
         "wd:id":"Q2935571",
         "wk:page":"Camps Bay"
@@ -135,7 +130,7 @@
         }
     ],
     "wof:id":85772073,
-    "wof:lastmodified":1563372008,
+    "wof:lastmodified":1566662967,
     "wof:name":"Camps Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

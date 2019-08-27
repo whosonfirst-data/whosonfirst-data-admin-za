@@ -9,15 +9,18 @@
     "geom:bbox":"17.9442,-33.01167,17.9442,-33.01167",
     "geom:latitude":-33.01167,
     "geom:longitude":17.9442,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":68284,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:population":68284,
     "iso:country":"ZA",
+    "lbl:bbox":"17.9242,-33.03167,17.9642,-32.99167",
     "lbl:latitude":-33.01167,
     "lbl:longitude":17.9442,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Saldanha"
@@ -67,7 +70,7 @@
     "name:rus_x_variant":[
         "\u0421\u0430\u043b\u0434\u0430\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoedjesbaai"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -91,7 +94,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1587148,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125888143,
-    "wof:lastmodified":1563373834,
+    "wof:lastmodified":1566664230,
     "wof:name":"Saldanha",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",

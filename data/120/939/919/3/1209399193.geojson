@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.58654,-23.85085,28.62654,-23.81085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":991175
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5acdac52bb87f092470ba15c34bcc783",
+    "wof:geomhash":"95f0179d1c65f6ebb241a96f18666588",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209399193,
-    "wof:lastmodified":1536288202,
+    "wof:lastmodified":1566663327,
     "wof:name":"Kgopung",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.606540000000006,
+    28.60654000000001,
     -23.83085,
-    28.606540000000006,
+    28.60654000000001,
     -23.83085
 ],
   "geometry": {"coordinates":[28.60654000000001,-23.83085],"type":"Point"}

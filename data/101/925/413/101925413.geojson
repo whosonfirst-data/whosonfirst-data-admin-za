@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.669036,
     "lbl:longitude":28.5172,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-25.669036,
     "mps:longitude":28.5172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Cullinan"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1450.0,
     "wd:latitude":-25.672778,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":1012413,
         "gp:id":1580501,
-        "qs:id":970183,
         "qs_pg:id":970183,
         "wd:id":"Q2450605",
         "wk:page":"Cullinan, Gauteng"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101925413,
-    "wof:lastmodified":1563373295,
+    "wof:lastmodified":1566663915,
     "wof:name":"Cullinan",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

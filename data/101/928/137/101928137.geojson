@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.235126,
     "lbl:longitude":28.854795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.235126,
     "mps:longitude":28.854795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sibi"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":252,
     "wof:belongsto":[
         102191573,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101928137,
-    "wof:lastmodified":1564194938,
+    "wof:lastmodified":1566664139,
     "wof:name":"Sibi",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

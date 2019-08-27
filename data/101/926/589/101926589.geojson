@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.201243,
     "lbl:longitude":25.978405,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.201243,
     "mps:longitude":25.978405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Wolmaransstad"
     ],
@@ -53,7 +56,7 @@
     "name:tsn_x_preferred":[
         "Wolmaransstad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wolmaranstad"
     ],
     "name:ven_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.216667,
     "wd:longitude":25.966667,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":938457,
         "gp:id":1588990,
-        "qs:id":370198,
         "qs_pg:id":370198,
         "wd:id":"Q3642582",
         "wk:page":"Wolmaransstad"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101926589,
-    "wof:lastmodified":1563373588,
+    "wof:lastmodified":1566664071,
     "wof:name":"Wolmaransstad",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

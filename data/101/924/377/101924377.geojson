@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.208326,
     "lbl:longitude":30.500675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.208326,
     "mps:longitude":30.500675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bismark"
     ],
@@ -177,7 +180,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":334,
     "wof:belongsto":[
         102191573,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101924377,
-    "wof:lastmodified":1561840224,
+    "wof:lastmodified":1566663820,
     "wof:name":"Bismarck",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

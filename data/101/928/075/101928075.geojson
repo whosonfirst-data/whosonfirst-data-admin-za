@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.040059,
     "lbl:longitude":23.348251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.040059,
     "mps:longitude":23.348251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "New Horizons"
     ],
@@ -267,7 +270,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13503,
     "wof:belongsto":[
         102191573,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":101928075,
-    "wof:lastmodified":1563373703,
+    "wof:lastmodified":1566664143,
     "wof:name":"New Horizons",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

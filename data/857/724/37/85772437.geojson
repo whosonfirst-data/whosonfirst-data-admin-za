@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7607919.003652,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.155804,-25.749341,28.155804,-25.749341",
     "geom:latitude":-25.749341,
     "geom:longitude":28.155804,
     "gn:latitude":-25.74841,
     "gn:longitude":28.15401,
     "iso:country":"ZA",
+    "lbl:bbox":"28.150804,-25.754341,28.160804,-25.744341",
     "lbl:latitude":-25.749341,
     "lbl:longitude":28.155804,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.757846,
     "mps:longitude":28.149693,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "Pretoria-Wes"
-    ],
-    "name:unk_x_variant":[
-        "Pretoria West"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925469,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7870453,
         "gp:id":1586641,
-        "qs:id":964567,
         "qs_pg:id":964567
     },
     "wof:country":"ZA",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859539,
+    "wof:lastmodified":1566662944,
     "wof:name":"Pretoria West",
     "wof:parent_id":101925469,
     "wof:placetype":"neighbourhood",

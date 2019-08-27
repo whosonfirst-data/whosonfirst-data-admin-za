@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.601927,
     "lbl:longitude":32.086258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.601927,
     "mps:longitude":32.086258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "KwaMbonambi"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-28.6,
     "wd:longitude":32.0833,
     "wd:wordcount":76,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":985609,
         "gp:id":1583507,
-        "qs:id":276194,
         "qs_pg:id":276194,
         "wd:id":"Q3643003"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101927687,
-    "wof:lastmodified":1563373451,
+    "wof:lastmodified":1566663997,
     "wof:name":"KwaMbonambi",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

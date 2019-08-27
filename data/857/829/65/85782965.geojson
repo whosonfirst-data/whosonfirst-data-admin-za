@@ -11,8 +11,10 @@
     "geom:longitude":25.601442,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"25.596442,-33.949325,25.606442,-33.939325",
     "lbl:latitude":-33.944325,
     "lbl:longitude":25.601442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.946777,
     "mps:longitude":25.603059,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0440\u0430\u043b"
     ],
-    "name:unk_x_variant":[
-        "Central"
-    ],
     "name:vol_x_preferred":[
         "Central"
     ],
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688927,
         102191573,
@@ -130,7 +129,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877931,
-        "qs:id":224259,
         "qs_pg:id":224259
     },
     "wof:country":"ZA",
@@ -149,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193503,
+    "wof:lastmodified":1566662929,
     "wof:name":"Central",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5240747.036391,
+    "geom:area_square_m":0.0,
     "geom:bbox":"26.208918,-29.117126,26.208918,-29.117126",
     "geom:latitude":-29.117126,
     "geom:longitude":26.208918,
     "gn:latitude":-29.12078,
     "gn:longitude":26.20529,
     "iso:country":"ZA",
+    "lbl:bbox":"26.203918,-29.122126,26.213918,-29.112126",
     "lbl:latitude":-29.117126,
     "lbl:longitude":26.208918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.116637,
     "mps:longitude":26.203988,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Willows"
-    ],
-    "name:unk_x_variant":[
         "Willows"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688915,
         102191573,
         85633813,
         101927069,
-        1108730539,
-        85688915
+        1108730539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":939662,
         "gp:id":1588919,
-        "qs:id":246267,
         "qs_pg:id":246267
     },
     "wof:country":"ZA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859559,
+    "wof:lastmodified":1566662960,
     "wof:name":"Willows",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6778296.498464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.960025,-33.737603,18.960025,-33.737603",
     "geom:latitude":-33.737603,
     "geom:longitude":18.960025,
     "gn:latitude":-34.04472,
     "gn:longitude":19.51879,
     "iso:country":"ZA",
+    "lbl:bbox":"18.955025,-33.742603,18.965025,-33.732603",
     "lbl:latitude":-33.737603,
     "lbl:longitude":18.960025,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.735987,
     "mps:longitude":18.94384,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:eng_x_preferred":[
         "Bertville"
     ],
-    "name:unk_x_variant":[
-        "Berea",
-        "Bertville"
+    "name:und_x_variant":[
+        "Berea"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -60,18 +61,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730615,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3370134,
         "gp:id":55878990,
-        "qs:id":1001938
+        "qs_pg:id":1001938
     },
     "wof:country":"ZA",
     "wof:geomhash":"83e2accdaa02ac730a35d22e4c43b92f",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860469,
+    "wof:lastmodified":1566662932,
     "wof:name":"Bertville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

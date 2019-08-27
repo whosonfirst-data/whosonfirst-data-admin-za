@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6487950.139847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.036334,-26.208893,28.036334,-26.208893",
     "geom:latitude":-26.208893,
     "geom:longitude":28.036334,
     "gn:latitude":-26.2092,
     "gn:longitude":28.04535,
     "iso:country":"ZA",
+    "lbl:bbox":"28.031334,-26.213893,28.041334,-26.203893",
     "lbl:latitude":-26.208893,
     "lbl:longitude":28.036334,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.210873,
     "mps:longitude":28.043463,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:eng_x_preferred":[
         "Marshalltown"
     ],
-    "name:unk_x_variant":[
-        "Marshallstown",
-        "Marshalltown"
+    "name:und_x_variant":[
+        "Marshallstown"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -63,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925831,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978652,
         "gp:id":1584613,
-        "qs:id":432736,
         "qs_pg:id":432736
     },
     "wof:country":"ZA",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859525,
+    "wof:lastmodified":1566662947,
     "wof:name":"Marshalltown",
     "wof:parent_id":101925831,
     "wof:placetype":"neighbourhood",

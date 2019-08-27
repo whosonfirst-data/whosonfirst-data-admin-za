@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"23.27221,-26.34874,23.31221,-26.30874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":956540
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b486cd5272f5b2f41e7bd08441ab2e74",
+    "wof:geomhash":"3cfc7069bbc849772b076bdcebe83da7",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209504215,
-    "wof:lastmodified":1536285085,
+    "wof:lastmodified":1566663372,
     "wof:name":"Selobane",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     23.29221,
-    -26.328740000000003,
+    -26.32874,
     23.29221,
-    -26.328740000000003
+    -26.32874
 ],
   "geometry": {"coordinates":[23.29221,-26.32874],"type":"Point"}
 }

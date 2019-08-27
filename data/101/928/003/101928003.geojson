@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.645801,
     "lbl:longitude":19.013452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.645801,
     "mps:longitude":19.013452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wellington"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-33.633333,
     "wd:longitude":18.983333,
     "wd:wordcount":588,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3359510,
         "gp:id":1591603,
-        "qs:id":8044,
         "qs_pg:id":8044,
         "wd:id":"Q1534385",
         "wk:page":"Wellington, Western Cape"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101928003,
-    "wof:lastmodified":1563373709,
+    "wof:lastmodified":1566664146,
     "wof:name":"Wellington",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.379259,
     "lbl:longitude":32.417391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.379259,
     "mps:longitude":32.417391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saint Lucia"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":958273,
         "gp:id":1587129,
-        "qs:id":905735,
+        "qs_pg:id":905735,
         "wd:id":"Q7594034"
     },
     "wof:country":"ZA",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101927653,
-    "wof:lastmodified":1561840241,
+    "wof:lastmodified":1566664034,
     "wof:name":"St. Lucia Estuary",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",

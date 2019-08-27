@@ -9,14 +9,15 @@
     "geom:bbox":"18.3893530274,-34.1754530976,18.4477257325,-34.1368757877",
     "geom:latitude":-34.157728,
     "geom:longitude":18.417581,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.15591,
     "gn:longitude":18.41995,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-34.156768,
     "lbl:longitude":18.420586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.157198,
     "mps:longitude":18.414662,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Glencairn"
     ],
     "name:fra_x_preferred":[
-        "Glencairn"
-    ],
-    "name:unk_x_variant":[
         "Glencairn"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -88,7 +86,7 @@
     "qs_pg:woe_id":1581775,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":261,
     "wof:belongsto":[
         102191573,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3367640,
         "gp:id":1581775,
-        "qs:id":118260,
         "qs_pg:id":118260
     },
     "wof:country":"ZA",
@@ -118,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193546,
+    "wof:lastmodified":1566662963,
     "wof:name":"Glencairn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

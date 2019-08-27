@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.824565,
     "lbl:longitude":18.495267,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.828456,
     "mps:longitude":18.510087,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:nld_x_preferred":[
         "Tafelzicht"
-    ],
-    "name:unk_x_variant":[
-        "Table View"
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u5821\u7dad"
@@ -73,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -85,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3360687,
         "gp:id":1587944,
-        "qs:id":1312254,
         "qs_pg:id":1312254,
         "wd:id":"Q2630680",
         "wk:page":"Table View"
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":85772575,
-    "wof:lastmodified":1563371960,
+    "wof:lastmodified":1566662941,
     "wof:name":"Table View",
     "wof:parent_id":101928019,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,15 @@
     "geom:bbox":"18.3838598633,-34.1422682138,18.4075927735,-34.1215148326",
     "geom:latitude":-34.132538,
     "geom:longitude":18.396956,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.12286,
     "gn:longitude":18.39755,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-34.123496,
     "lbl:longitude":18.397053,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.132416,
     "mps:longitude":18.397192,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
         "\u0421\u0430\u043d \u0412\u0430\u043b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Sun Valley"
-    ],
-    "name:unk_x_variant":[
         "Sun Valley"
     ],
     "name:vol_x_preferred":[
@@ -118,7 +116,7 @@
     "qs_pg:woe_id":1587847,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -129,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3360873,
         "gp:id":1587847,
-        "qs:id":250496,
         "qs_pg:id":250496
     },
     "wof:country":"ZA",
@@ -147,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193522,
+    "wof:lastmodified":1566662942,
     "wof:name":"Sun Valley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.271914,
     "lbl:longitude":28.003392,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-26.271914,
     "mps:longitude":28.003392,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Johannesburg"
     ],
@@ -418,7 +421,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0433\u0430\u043d\u043d\u0435\u0441\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Joburg"
     ],
     "name:urd_x_preferred":[
@@ -484,7 +487,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":1753.0,
     "wd:latitude":-26.145,
@@ -518,7 +521,7 @@
         }
     ],
     "wof:id":101925987,
-    "wof:lastmodified":1563373372,
+    "wof:lastmodified":1566663960,
     "wof:name":"Johannesburg",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":-29.1221,
     "gn:longitude":26.17596,
     "iso:country":"ZA",
+    "lbl:bbox":"26.173518,-29.127081,26.183518,-29.117081",
     "lbl:latitude":-29.122081,
     "lbl:longitude":26.178518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.121215,
     "mps:longitude":26.175722,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:spa_x_preferred":[
         "Universitas"
     ],
-    "name:unk_x_variant":[
-        "Universitas"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":1018725,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":78,
     "wof:belongsto":[
         85688915,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":945957,
         "gp:id":1588442,
-        "qs:id":1300574,
         "qs_pg:id":1300574
     },
     "wof:country":"ZA",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193542,
+    "wof:lastmodified":1566662960,
     "wof:name":"Universitas",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

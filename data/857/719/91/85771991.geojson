@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.968368,
     "lbl:longitude":18.504392,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.967913,
     "mps:longitude":18.513014,
     "mz:hierarchy_label":1,
@@ -122,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043b\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Athlone"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u9686"
     ],
@@ -157,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -169,7 +167,6 @@
     "wof:concordances":{
         "gn:id":3370356,
         "gp:id":1579529,
-        "qs:id":409088,
         "qs_pg:id":409088
     },
     "wof:country":"ZA",
@@ -188,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193544,
+    "wof:lastmodified":1566662962,
     "wof:name":"Athlone",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

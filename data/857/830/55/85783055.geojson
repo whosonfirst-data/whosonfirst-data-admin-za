@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15375790.182255,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.957524,-26.288153,27.957524,-26.288153",
     "geom:latitude":-26.288153,
     "geom:longitude":27.957524,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"27.952524,-26.293153,27.962524,-26.283153",
     "lbl:latitude":-26.288153,
     "lbl:longitude":27.957524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.321451,
     "mps:longitude":27.903833,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Naturena"
-    ],
-    "name:unk_x_variant":[
         "Naturena"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101926019,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878078,
-        "qs:id":1199336,
         "qs_pg:id":1199336
     },
     "wof:country":"ZA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860449,
+    "wof:lastmodified":1566662957,
     "wof:name":"Naturena",
     "wof:parent_id":101926019,
     "wof:placetype":"neighbourhood",

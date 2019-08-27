@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.127836,
     "lbl:longitude":27.86928,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.127836,
     "mps:longitude":27.86928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Roodepoort"
     ],
@@ -168,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.1625,
     "wd:longitude":27.8725,
@@ -183,7 +186,6 @@
     "wof:concordances":{
         "gn:id":936374,
         "gp:id":1586976,
-        "qs:id":183861,
         "qs_pg:id":183861,
         "wd:id":"Q2166182",
         "wk:page":"Roodepoort"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":101925757,
-    "wof:lastmodified":1563373340,
+    "wof:lastmodified":1566663941,
     "wof:name":"Roodepoort",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

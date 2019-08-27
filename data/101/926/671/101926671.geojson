@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.752436,
     "lbl:longitude":29.979539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.752436,
     "mps:longitude":29.979539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u0631\u0633\u0627\u064a\u062f"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101926671,
-    "wof:lastmodified":1564194885,
+    "wof:lastmodified":1566664083,
     "wof:name":"Riverside",
     "wof:parent_id":1108730557,
     "wof:placetype":"locality",

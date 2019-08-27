@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.352965,
     "lbl:longitude":30.14564,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.352965,
     "mps:longitude":30.14564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wakkerstroom"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.35,
     "wd:longitude":30.133333,
     "wd:wordcount":195,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":942136,
         "gp:id":1588733,
-        "qs:id":912111,
         "qs_pg:id":912111,
         "wd:id":"Q1565776",
         "wk:page":"Wakkerstroom"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101927435,
-    "wof:lastmodified":1563373523,
+    "wof:lastmodified":1566664036,
     "wof:name":"Wakkerstroom",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

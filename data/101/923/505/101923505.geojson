@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.934911,
     "lbl:longitude":29.45619,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-23.934911,
     "mps:longitude":29.45619,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Pietersburg"
     ],
@@ -233,9 +236,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043a\u0432\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Polokwane"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0648\u06a9\u0648\u0627\u0646\u06d2"
     ],
@@ -277,7 +277,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":101923505,
-    "wof:lastmodified":1563373208,
+    "wof:lastmodified":1566663857,
     "wof:name":"Pietersburg",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

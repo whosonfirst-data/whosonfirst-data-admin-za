@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.157011,
     "lbl:longitude":28.668571,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-26.157011,
     "mps:longitude":28.668571,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Delmas"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.15,
     "wd:longitude":28.683333,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":1011031,
         "gp:id":1580645,
-        "qs:id":130256,
         "qs_pg:id":130256,
         "wd:id":"Q1184513",
         "wk:page":"Delmas, Mpumalanga"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1175615689,
-    "wof:lastmodified":1563372867,
+    "wof:lastmodified":1566663630,
     "wof:name":"Delmas",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

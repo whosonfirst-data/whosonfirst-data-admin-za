@@ -9,14 +9,18 @@
     "geom:bbox":"24.55499,-31.867,24.55499,-31.867",
     "geom:latitude":-31.867,
     "geom:longitude":24.55499,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"24.53499,-31.887,24.57499,-31.847",
     "lbl:latitude":-31.867,
     "lbl:longitude":24.55499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Nieu-Bethesda"
@@ -51,9 +55,6 @@
     "name:sot_x_preferred":[
         "Nieu-Bethesda"
     ],
-    "name:unk_x_variant":[
-        "New Bethesda"
-    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +76,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1585883,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Eastern Cape",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1125818035,
-    "wof:lastmodified":1563373829,
+    "wof:lastmodified":1566664228,
     "wof:name":"Nieu-Bethesda",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

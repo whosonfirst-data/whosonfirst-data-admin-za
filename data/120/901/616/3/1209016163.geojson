@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.52583,-30.00404,25.56583,-29.96404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":942628
     },
     "wof:country":"ZA",
-    "wof:geomhash":"93f4c4fb773f7fd970f4bda2b6589634",
+    "wof:geomhash":"4c8fa9ee1d6b6edce76a3d94a2fa2b06",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209016163,
-    "wof:lastmodified":1536300292,
+    "wof:lastmodified":1566663326,
     "wof:name":"Vredevlei",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     25.54583,
-    -29.984040000000004,
+    -29.98404,
     25.54583,
-    -29.984040000000004
+    -29.98404
 ],
   "geometry": {"coordinates":[25.54583,-29.98404],"type":"Point"}
 }

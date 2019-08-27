@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.285827,
     "lbl:longitude":28.05935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.285827,
     "mps:longitude":28.05935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Glenvista"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.281389,
     "wd:longitude":28.047222,
     "wd:wordcount":166,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1001496,
         "gp:id":1581804,
-        "qs:id":482573,
+        "qs_pg:id":482573,
         "wd:id":"Q5569422",
         "wk:page":"Glenvista"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101926003,
-    "wof:lastmodified":1563373619,
+    "wof:lastmodified":1566664088,
     "wof:name":"Glenvista",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

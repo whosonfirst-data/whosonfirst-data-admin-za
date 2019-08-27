@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.993901,
     "lbl:longitude":18.469276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.99575,
     "mps:longitude":18.476759,
     "mz:hierarchy_label":1,
@@ -77,9 +78,6 @@
     "name:swe_x_preferred":[
         "Kenilworth"
     ],
-    "name:unk_x_variant":[
-        "Kenilworth"
-    ],
     "name:vol_x_preferred":[
         "Kenilworth"
     ],
@@ -116,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -128,7 +126,6 @@
     "wof:concordances":{
         "gn:id":8030538,
         "gp:id":55878017,
-        "qs:id":393479,
         "qs_pg:id":393479
     },
     "wof:country":"ZA",
@@ -147,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193540,
+    "wof:lastmodified":1566662958,
     "wof:name":"Kenilworth",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

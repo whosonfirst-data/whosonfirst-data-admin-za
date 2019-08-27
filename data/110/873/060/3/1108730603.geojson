@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-25.514686,
     "lbl:longitude":27.128727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North West",
     "meso:gadm_admin":"Bojanala",
     "meso:gadm_hasc2":"ZA.NW.BP",
@@ -31,6 +33,7 @@
     "mps:longitude":27.128727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Bojanala Platinum-distriksmunisipaliteit"
     ],
@@ -73,9 +76,9 @@
         "\u535a\u624e\u7d0d\u62c9\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"18,332.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Rustenburg",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108730603,
-    "wof:lastmodified":1563372852,
+    "wof:lastmodified":1566663623,
     "wof:name":"Bojanala",
     "wof:parent_id":85688931,
     "wof:placetype":"county",

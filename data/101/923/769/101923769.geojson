@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.84868,
     "lbl:longitude":26.496058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.84868,
     "mps:longitude":26.496058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Molatedidam"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101923769,
-    "wof:lastmodified":1563373244,
+    "wof:lastmodified":1566663882,
     "wof:name":"Molatedi",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

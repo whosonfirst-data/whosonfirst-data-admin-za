@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.903747,
     "lbl:longitude":18.404732,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.912477,
     "mps:longitude":18.407507,
     "mz:hierarchy_label":1,
@@ -53,10 +54,6 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0438\u043d-\u041f\u043e\u0439\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Groenpunt",
-        "Green Point"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3369157,
@@ -86,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -98,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3367445,
         "gp:id":1581931,
-        "qs:id":183823,
         "qs_pg:id":183823,
         "wd:id":"Q2282472",
         "wk:page":"Green Point, Cape Town"
@@ -119,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372002,
+    "wof:lastmodified":1566662964,
     "wof:name":"Green Point",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

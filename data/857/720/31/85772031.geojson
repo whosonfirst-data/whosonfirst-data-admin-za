@@ -12,8 +12,10 @@
     "gn:latitude":-26.1344,
     "gn:longitude":27.97033,
     "iso:country":"ZA",
+    "lbl:bbox":"27.969827,-26.13749,27.979827,-26.12749",
     "lbl:latitude":-26.13249,
     "lbl:longitude":27.974827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.129682,
     "mps:longitude":27.971079,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Blackheath"
     ],
     "name:nld_x_preferred":[
-        "Blackheath"
-    ],
-    "name:unk_x_variant":[
         "Blackheath"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.133333,
     "wd:longitude":27.966667,
     "wd:wordcount":19,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":1019102,
         "gp:id":1579852,
-        "qs:id":901972,
         "qs_pg:id":901972,
         "wd:id":"Q879903",
         "wk:page":"Blackheath, Gauteng"
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372009,
+    "wof:lastmodified":1566662968,
     "wof:name":"Blackheath",
     "wof:parent_id":101925753,
     "wof:placetype":"neighbourhood",

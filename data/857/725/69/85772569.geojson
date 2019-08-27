@@ -12,8 +12,10 @@
     "gn:latitude":-25.75746,
     "gn:longitude":28.21133,
     "iso:country":"ZA",
+    "lbl:bbox":"28.207835,-25.759522,28.217835,-25.749522",
     "lbl:latitude":-25.754522,
     "lbl:longitude":28.212835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.75166,
     "mps:longitude":28.212879,
     "mz:hierarchy_label":0,
@@ -68,9 +70,6 @@
     "name:swe_x_preferred":[
         "Sunnyside"
     ],
-    "name:unk_x_variant":[
-        "Sunnyside"
-    ],
     "name:vol_x_preferred":[
         "Sunnyside"
     ],
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -116,7 +115,6 @@
     "wof:concordances":{
         "gn:id":951360,
         "gp:id":1587864,
-        "qs:id":118820,
         "qs_pg:id":118820
     },
     "wof:country":"ZA",
@@ -135,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193520,
+    "wof:lastmodified":1566662940,
     "wof:name":"Sunnyside",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

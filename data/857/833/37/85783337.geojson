@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20221579.186159,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.951955,-32.986393,27.951955,-32.986393",
     "geom:latitude":-32.986393,
     "geom:longitude":27.951955,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"27.946955,-32.991393,27.956955,-32.981393",
     "lbl:latitude":-32.986393,
     "lbl:longitude":27.951955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.983568,
     "mps:longitude":27.951908,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Nahoon Beach"
-    ],
-    "name:unk_x_variant":[
         "Nahoon Beach"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -57,19 +56,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688927,
         102191573,
         85633813,
-        1108730513,
-        85688927
+        1108730513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7290330,
         "gp:id":55879121,
-        "qs:id":1199338,
         "qs_pg:id":1198303
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199338
     },
     "wof:country":"ZA",
     "wof:geomhash":"9ef97159a0cd2cdaff16b43ca98c4cf8",
@@ -87,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860485,
+    "wof:lastmodified":1566662936,
     "wof:name":"Nahoon Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

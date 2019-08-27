@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.098282,
     "lbl:longitude":27.798818,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.098282,
     "mps:longitude":27.798818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Krugersdorp"
     ],
@@ -174,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.101944,
     "wd:longitude":27.771944,
@@ -191,10 +194,12 @@
         "gn:id":986822,
         "gp:id":1583081,
         "loc:id":"n82084285",
-        "qs:id":276189,
-        "qs_pg:id":1118759,
+        "qs_pg:id":276189,
         "wd:id":"Q644506",
         "wk:page":"Krugersdorp"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118759
     },
     "wof:country":"ZA",
     "wof:geomhash":"4ee281fe1260c9fcb6d780d4fb3a3cb9",
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":1175615599,
-    "wof:lastmodified":1563372863,
+    "wof:lastmodified":1566663629,
     "wof:name":"Krugersdorp",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

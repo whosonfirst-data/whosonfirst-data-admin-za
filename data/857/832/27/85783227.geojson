@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6975637.083321,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.700832,-33.893149,18.700832,-33.893149",
     "geom:latitude":-33.893149,
     "geom:longitude":18.700832,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"18.695832,-33.898149,18.705832,-33.888149",
     "lbl:latitude":-33.893149,
     "lbl:longitude":18.700832,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.894321,
     "mps:longitude":18.707847,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Protea Hoogte"
-    ],
-    "name:unk_x_variant":[
         "Protea Hoogte"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -59,17 +58,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730611,
-        85688905
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879032,
-        "qs:id":18070
+        "qs_pg:id":18070
     },
     "wof:country":"ZA",
     "wof:geomhash":"27e78dce09758049bc6eead237d1fe54",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860472,
+    "wof:lastmodified":1566662932,
     "wof:name":"Protea Hoogte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

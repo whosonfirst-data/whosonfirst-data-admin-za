@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.84289,-23.66569,28.88289,-23.62569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":946535
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e4f61d18b48722efbf20b80ec4f80e02",
+    "wof:geomhash":"60438565e4671a45c355c38b94012f9e",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209404573,
-    "wof:lastmodified":1536288037,
+    "wof:lastmodified":1566663360,
     "wof:name":"Uitspan",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.862890000000004,
+    28.86289,
     -23.64569,
-    28.862890000000004,
+    28.86289,
     -23.64569
 ],
   "geometry": {"coordinates":[28.86289,-23.64569],"type":"Point"}

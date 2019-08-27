@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.858639,
     "lbl:longitude":28.331252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.858639,
     "mps:longitude":28.331252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lota"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191573,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101928829,
-    "wof:lastmodified":1564194908,
+    "wof:lastmodified":1566664109,
     "wof:name":"Lota",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7076456.211608,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.756591,-28.738742,24.756591,-28.738742",
     "geom:latitude":-28.738742,
     "geom:longitude":24.756591,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"24.751591,-28.743742,24.761591,-28.733742",
     "lbl:latitude":-28.738742,
     "lbl:longitude":24.756591,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-28.738361,
     "mps:longitude":24.759311,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Big Hole Area"
-    ],
-    "name:unk_x_variant":[
         "Big Hole Area"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -57,18 +56,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688899,
         102191573,
         85633813,
         101924789,
-        1108730599,
-        85688899
+        1108730599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879763,
-        "qs:id":1080200,
         "qs_pg:id":1080200
     },
     "wof:country":"ZA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860491,
+    "wof:lastmodified":1566662936,
     "wof:name":"Big Hole Area",
     "wof:parent_id":101924789,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"23.46859,-27.86816,23.50859,-27.82816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bretby"
     ],
@@ -52,8 +56,7 @@
         "Bretby"
     ],
     "name:und_x_variant":[
-        "Grypoort",
-        "Bretby"
+        "Grypoort"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209234509,
-    "wof:lastmodified":1564194086,
+    "wof:lastmodified":1566663359,
     "wof:name":"Bretby",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.859446,
     "lbl:longitude":30.806214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.859446,
     "mps:longitude":30.806214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0430\u043d\u0445\u0438\u043b"
     ],
@@ -37,9 +40,6 @@
     "name:nld_x_preferred":[
         "Mariannhill"
     ],
-    "name:unk_x_variant":[
-        "Mariannhill"
-    ],
     "name:zho_x_preferred":[
         "\u746a\u9e97\u5b89\u5e0c\u723e"
     ],
@@ -57,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.85,
     "wd:longitude":30.833333,
     "wd:wordcount":70,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101927959,
-    "wof:lastmodified":1563373487,
+    "wof:lastmodified":1566664018,
     "wof:name":"Marianhill",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

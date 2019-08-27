@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-32.19228,
     "lbl:longitude":26.501313,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Eastern Cape",
     "mps:latitude":-32.146907,
     "mps:longitude":26.785587,
@@ -376,9 +377,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-10",
+    "src:population_date":"2011-10-10",
     "statoids:area_km":"168,966",
     "statoids:area_mi":"65,238",
     "statoids:as_of_date":"2011-10-10",
@@ -433,11 +434,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740286,
+    "wof:lastmodified":1566662985,
     "wof:name":"Eastern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":6562053,
     "wof:population_rank":13,

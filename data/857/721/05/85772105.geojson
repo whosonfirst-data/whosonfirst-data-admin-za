@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000772,
-    "geom:area_square_m":7921910.885516,
+    "geom:area_square_m":7921910.885513,
     "geom:bbox":"18.3783666993,-33.9046159996,18.4203393555,-33.8626959775",
     "geom:latitude":-33.883282,
     "geom:longitude":18.400251,
@@ -15,6 +15,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.899825,
     "lbl:longitude":18.383538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.871833,
     "mps:longitude":18.40931,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Drieankerbaai"
-    ],
-    "name:unk_x_variant":[
         "Drieankerbaai"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,15 +59,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"1466d81e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3368439,
         "gp:id":1580846,
-        "qs:id":239290
+        "qs_pg:id":239290
     },
     "wof:country":"ZA",
     "wof:geomhash":"99820f0177bc1272a163c8c645dc7253",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1507659321,
+    "wof:lastmodified":1566662964,
     "wof:name":"Drieankerbaai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

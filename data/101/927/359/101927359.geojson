@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.268528,
     "lbl:longitude":30.856418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.268528,
     "mps:longitude":30.856418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Glenmore"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101927359,
-    "wof:lastmodified":1564194832,
+    "wof:lastmodified":1566664016,
     "wof:name":"Glenmore",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

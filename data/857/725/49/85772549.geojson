@@ -13,8 +13,10 @@
     "gn:longitude":27.85849,
     "gn:population":1695047,
     "iso:country":"ZA",
+    "lbl:bbox":"27.854026,-26.245575,27.864026,-26.235575",
     "lbl:latitude":-26.240575,
     "lbl:longitude":27.859026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.251441,
     "mps:longitude":27.845388,
     "mz:hierarchy_label":0,
@@ -198,10 +200,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Mpanzaville",
-        "Soweto"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0648\u06cc\u062a\u0648"
     ],
@@ -250,7 +248,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         85688923,
@@ -263,7 +261,6 @@
     "wof:concordances":{
         "gn:id":953781,
         "gp:id":1587677,
-        "qs:id":1075481,
         "qs_pg:id":1075481,
         "wd:id":"Q217426",
         "wk:page":"Soweto"
@@ -284,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371964,
+    "wof:lastmodified":1566662942,
     "wof:name":"Soweto",
     "wof:parent_id":101926037,
     "wof:placetype":"neighbourhood",

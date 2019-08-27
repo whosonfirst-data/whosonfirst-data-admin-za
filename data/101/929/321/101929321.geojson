@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.741586,
     "lbl:longitude":30.440377,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-30.741586,
     "mps:longitude":30.440377,
     "mz:hierarchy_label":1,
@@ -180,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.741111,
     "wd:longitude":30.454722,
@@ -195,10 +197,12 @@
     "wof:concordances":{
         "gn:id":964406,
         "gp:id":1586618,
-        "qs:id":1030261,
-        "qs_pg:id":1153665,
+        "qs_pg:id":1030261,
         "wd:id":"Q121395",
         "wk:page":"Port Shepstone"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153665
     },
     "wof:country":"ZA",
     "wof:geomhash":"9a53aeccc156167e5f27a0078c19165f",
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":101929321,
-    "wof:lastmodified":1563373430,
+    "wof:lastmodified":1566663985,
     "wof:name":"Port Shepstone",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"18.3618872071,-33.9342453112,18.3966064453,-33.9037337838",
     "geom:latitude":-33.920466,
     "geom:longitude":18.376114,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.92795,
     "gn:longitude":18.38259,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.928065,
     "lbl:longitude":18.377923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.921686,
     "mps:longitude":18.374048,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     "name:spa_x_preferred":[
         "Bah\u00eda de Bantry"
     ],
-    "name:unk_x_variant":[
-        "Bantry Bay"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3369157,
@@ -130,9 +128,8 @@
     "qs_pg:woe_id":1579625,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":775,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191573,
         85688905,
@@ -143,7 +140,6 @@
     "wof:concordances":{
         "gn:id":3370202,
         "gp:id":1579625,
-        "qs:id":247160,
         "qs_pg:id":247160
     },
     "wof:country":"ZA",
@@ -161,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193543,
+    "wof:lastmodified":1566662962,
     "wof:name":"Bantry Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

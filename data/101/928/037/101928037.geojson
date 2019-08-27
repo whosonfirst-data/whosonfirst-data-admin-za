@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.067884,
     "lbl:longitude":18.7844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.067884,
     "mps:longitude":18.7844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Strand"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-34.116667,
     "wd:longitude":18.816667,
     "wd:wordcount":1218,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3360934,
         "gp:id":1587805,
-        "qs:id":7933,
         "qs_pg:id":7933,
         "wd:id":"Q2407668",
         "wk:page":"Strand, Western Cape"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101928037,
-    "wof:lastmodified":1563373673,
+    "wof:lastmodified":1566664123,
     "wof:name":"Strand",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

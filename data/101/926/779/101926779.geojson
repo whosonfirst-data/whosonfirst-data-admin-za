@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.086055,
     "lbl:longitude":27.137324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-28.086055,
     "mps:longitude":27.137324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Ventersburg"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.083333,
     "wd:longitude":27.133333,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":944540,
         "gp:id":1588571,
-        "qs:id":1300583,
         "qs_pg:id":1300583,
         "wd:id":"Q3642271",
         "wk:page":"Ventersburg"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101926779,
-    "wof:lastmodified":1563373588,
+    "wof:lastmodified":1566664071,
     "wof:name":"Ventersburg",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

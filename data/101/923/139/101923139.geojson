@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.039955,
     "lbl:longitude":29.910953,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-23.039955,
     "mps:longitude":29.910953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Louis Trichardt"
     ],
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-23.05,
     "wd:longitude":29.9,
@@ -180,10 +183,12 @@
     "wof:concordances":{
         "gn:id":981827,
         "gp:id":1583969,
-        "qs:id":130231,
-        "qs_pg:id":1118785,
+        "qs_pg:id":130231,
         "wd:id":"Q1641474",
         "wk:page":"Louis Trichardt"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118785
     },
     "wof:country":"ZA",
     "wof:geomhash":"453628993d773962db0212860b40cc0b",
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":101923139,
-    "wof:lastmodified":1563373247,
+    "wof:lastmodified":1566663884,
     "wof:name":"Louis Trichardt",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

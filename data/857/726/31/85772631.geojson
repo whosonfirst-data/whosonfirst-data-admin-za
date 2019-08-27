@@ -12,8 +12,10 @@
     "gn:latitude":-26.13648,
     "gn:longitude":28.07994,
     "iso:country":"ZA",
+    "lbl:bbox":"28.072818,-26.140116,28.082818,-26.130116",
     "lbl:latitude":-26.135116,
     "lbl:longitude":28.077818,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.134959,
     "mps:longitude":28.074562,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0435\u0439\u0432\u0435\u0440\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Waverly"
-    ],
     "name:vol_x_preferred":[
         "Waverly"
     ],
@@ -110,7 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -122,8 +121,10 @@
     "wof:concordances":{
         "gn:id":941376,
         "gp:id":1588788,
-        "qs:id":1170455,
         "qs_pg:id":466086
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1170455
     },
     "wof:country":"ZA",
     "wof:geomhash":"a526195b5dd5ae1134b82758f5c5a98e",
@@ -141,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193542,
+    "wof:lastmodified":1566662960,
     "wof:name":"Waverly",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":-26.22869,
     "gn:longitude":28.02561,
     "iso:country":"ZA",
+    "lbl:bbox":"28.021916,-26.233599,28.031916,-26.223599",
     "lbl:latitude":-26.228599,
     "lbl:longitude":28.026916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.23186,
     "mps:longitude":28.018453,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Booysens"
     ],
     "name:nld_x_preferred":[
-        "Booysens"
-    ],
-    "name:unk_x_variant":[
         "Booysens"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -80,7 +79,6 @@
     "wof:concordances":{
         "gn:id":1017458,
         "gp:id":1579997,
-        "qs:id":241268,
         "qs_pg:id":241268,
         "wd:id":"Q4944129",
         "wk:page":"Booysens, Pretoria"
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372011,
+    "wof:lastmodified":1566662968,
     "wof:name":"Booysens",
     "wof:parent_id":101925931,
     "wof:placetype":"neighbourhood",

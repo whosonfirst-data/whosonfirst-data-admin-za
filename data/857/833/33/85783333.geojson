@@ -11,8 +11,10 @@
     "geom:longitude":27.891266,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"27.886266,-32.982335,27.896266,-32.972335",
     "lbl:latitude":-32.977335,
     "lbl:longitude":27.891266,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.973737,
     "mps:longitude":27.891105,
     "mz:hierarchy_label":0,
@@ -273,9 +275,6 @@
     "name:ukr_x_variant":[
         "\u0441\u0432\u0456\u0442\u0430\u043d\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Dawn"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0628\u062d \u0635\u0627\u062f\u0642"
     ],
@@ -333,7 +332,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1230,
     "wof:belongsto":[
         85688927,
@@ -345,7 +344,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879320,
-        "qs:id":987404,
         "qs_pg:id":987404,
         "wd:id":"Q11326182"
     },
@@ -365,7 +363,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371944,
+    "wof:lastmodified":1566662935,
     "wof:name":"Dawn",
     "wof:parent_id":101929165,
     "wof:placetype":"neighbourhood",

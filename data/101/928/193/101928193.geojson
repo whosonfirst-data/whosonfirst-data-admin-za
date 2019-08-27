@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.321908,
     "lbl:longitude":28.67411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.321908,
     "mps:longitude":28.67411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stanford"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0444\u043e\u0440\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Stanford"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -45,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":10.0,
     "wd:latitude":-34.4417,
     "wd:longitude":19.4556,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101928193,
-    "wof:lastmodified":1564194906,
+    "wof:lastmodified":1566664107,
     "wof:name":"Stanford Hill",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

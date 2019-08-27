@@ -9,16 +9,19 @@
     "geom:bbox":"29.54123,-28.81229,29.54123,-28.81229",
     "geom:latitude":-28.81229,
     "geom:longitude":29.54123,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"29.53623,-28.81729,29.54623,-28.80729",
     "lbl:latitude":-28.81229,
     "lbl:longitude":29.54123,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Winterton"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -38,17 +41,17 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":55881389,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101926957,
-        1108730553,
-        85688911
+        1108730553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1126089385,
-    "wof:lastmodified":1509411568,
+    "wof:lastmodified":1566664275,
     "wof:name":"Winterton Sh",
     "wof:parent_id":101926957,
     "wof:placetype":"neighbourhood",

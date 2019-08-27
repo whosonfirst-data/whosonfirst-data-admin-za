@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.168028,
     "lbl:longitude":29.014185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.168028,
     "mps:longitude":29.014185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Waterval"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-23.159,
     "wd:longitude":30.068,
     "wd:wordcount":2295,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101925029,
-    "wof:lastmodified":1564194772,
+    "wof:lastmodified":1566663946,
     "wof:name":"Waterval",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

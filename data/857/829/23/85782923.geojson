@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001226,
-    "geom:area_square_m":12572315.585522,
+    "geom:area_square_m":12572315.585516,
     "geom:bbox":"18.3344213867,-34.0139651223,18.3856201172,-33.9675438157",
     "geom:latitude":-33.988236,
     "geom:longitude":18.362143,
@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.983142,
     "lbl:longitude":18.362984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.981985,
     "mps:longitude":18.357489,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Atlantic Seaboard"
-    ],
-    "name:unk_x_variant":[
         "Atlantic Seaboard"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877903,
-        "qs:id":230838,
         "qs_pg:id":230838
     },
     "wof:country":"ZA",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269401,
+    "wof:lastmodified":1566662930,
     "wof:name":"Atlantic Seaboard",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

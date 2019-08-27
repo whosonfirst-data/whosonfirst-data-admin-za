@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-32.836174,
     "lbl:longitude":27.212337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.836174,
     "mps:longitude":27.212337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dimbaza"
     ],
@@ -34,7 +37,7 @@
     "name:nso_x_preferred":[
         "Dimbaza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dimbasa"
     ],
     "qs:a0":"South Africa",
@@ -51,7 +54,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191573,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101929087,
-    "wof:lastmodified":1563373418,
+    "wof:lastmodified":1566663978,
     "wof:name":"Dimbaza",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

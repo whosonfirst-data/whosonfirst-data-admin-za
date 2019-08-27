@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"31.80011,-28.4622,31.84011,-28.4222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092c\u092f\u093e\u0932\u093e"
     ],
@@ -49,8 +53,7 @@
         "Bayala"
     ],
     "name:und_x_variant":[
-        "eBayala",
-        "Bayala"
+        "eBayala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1276127227,
-    "wof:lastmodified":1564193932,
+    "wof:lastmodified":1566663261,
     "wof:name":"Bayala",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.376555,
     "lbl:longitude":31.254517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.376555,
     "mps:longitude":31.254517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Melville"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Melville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mellville"
     ],
     "name:vol_x_preferred":[
@@ -105,7 +108,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":362,
     "wof:belongsto":[
         102191573,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101927789,
-    "wof:lastmodified":1564194855,
+    "wof:lastmodified":1566664042,
     "wof:name":"Melville",
     "wof:parent_id":1108730567,
     "wof:placetype":"locality",

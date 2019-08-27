@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002804,
-    "geom:area_square_m":31109630.046183,
+    "geom:area_square_m":31109630.046182,
     "geom:bbox":"28.2467842102,-26.2340011597,28.330488205,-26.1695747375",
     "geom:latitude":-26.201084,
     "geom:longitude":28.287463,
     "iso:country":"ZA",
     "lbl:latitude":-26.211037,
     "lbl:longitude":28.291588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.211037,
     "mps:longitude":28.291588,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":7870421,
         "gp:id":55878612,
-        "qs:id":1115020
+        "qs_pg:id":1115020
     },
     "wof:country":"ZA",
     "wof:geomhash":"7fff96577c147d4ef7a8488cd46df843",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101925941,
-    "wof:lastmodified":1500027737,
+    "wof:lastmodified":1566663929,
     "wof:name":"Boksburg North",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

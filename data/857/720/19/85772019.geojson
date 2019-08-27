@@ -15,6 +15,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.043166,
     "lbl:longitude":18.44826,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.044464,
     "mps:longitude":18.45449,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
         "Bergvliet"
     ],
     "name:nld_x_preferred":[
-        "Bergvliet"
-    ],
-    "name:unk_x_variant":[
         "Bergvliet"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":-34.045833,
     "wd:longitude":18.454167,
@@ -93,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3370105,
         "gp:id":1579756,
-        "qs:id":1170280,
         "qs_pg:id":1170280,
         "wd:id":"Q2897143",
         "wk:page":"Bergvliet"
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372009,
+    "wof:lastmodified":1566662967,
     "wof:name":"Bergvliet",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

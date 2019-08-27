@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.915963,
     "lbl:longitude":18.38925,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.912254,
     "mps:longitude":18.390549,
     "mz:hierarchy_label":1,
@@ -51,10 +52,6 @@
     "name:spa_x_preferred":[
         "Sea Point"
     ],
-    "name:unk_x_variant":[
-        "Seepunt",
-        "Sea Point"
-    ],
     "name:zho_x_preferred":[
         "\u6d77\u89d2"
     ],
@@ -87,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-33.915278,
     "wd:longitude":18.3925,
     "wd:wordcount":1910,
@@ -102,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3361711,
         "gp:id":1587255,
-        "qs:id":893287,
         "qs_pg:id":893287,
         "wd:id":"Q2383557",
         "wk:page":"Sea Point"
@@ -123,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371964,
+    "wof:lastmodified":1566662943,
     "wof:name":"Sea Point",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

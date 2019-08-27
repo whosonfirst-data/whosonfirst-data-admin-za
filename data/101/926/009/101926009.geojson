@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.282306,
     "lbl:longitude":28.114861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.282306,
     "mps:longitude":28.114861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alberton"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":1570.0,
     "wd:latitude":-26.267222,
     "wd:longitude":28.121944,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101926009,
-    "wof:lastmodified":1563373570,
+    "wof:lastmodified":1566664061,
     "wof:name":"Alberton",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

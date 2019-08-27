@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6113876.570351,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.235137,-25.714578,28.235137,-25.714578",
     "geom:latitude":-25.714578,
     "geom:longitude":28.235137,
     "gn:latitude":-25.71736,
     "gn:longitude":28.23218,
     "iso:country":"ZA",
+    "lbl:bbox":"28.230137,-25.719578,28.240137,-25.709578",
     "lbl:latitude":-25.714578,
     "lbl:longitude":28.235137,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.706015,
     "mps:longitude":28.232153,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Villieria"
-    ],
-    "name:unk_x_variant":[
         "Villieria"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":943941,
         "gp:id":1588627,
-        "qs:id":118871,
         "qs_pg:id":118871
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859553,
+    "wof:lastmodified":1566662961,
     "wof:name":"Villieria",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

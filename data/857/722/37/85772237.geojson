@@ -12,8 +12,10 @@
     "gn:latitude":-25.87044,
     "gn:longitude":28.21777,
     "iso:country":"ZA",
+    "lbl:bbox":"28.211781,-25.875969,28.221781,-25.865969",
     "lbl:latitude":-25.870969,
     "lbl:longitude":28.216781,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.885182,
     "mps:longitude":28.218928,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:ron_x_preferred":[
         "Irene"
     ],
-    "name:unk_x_variant":[
-        "Irene"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u6797\u5c3c"
     ],
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":994557,
         "gp:id":1582434,
-        "qs:id":223098,
         "qs_pg:id":223098,
         "wd:id":"Q3644425",
         "wk:page":"Irene, Gauteng"
@@ -114,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371956,
+    "wof:lastmodified":1566662939,
     "wof:name":"Irene",
     "wof:parent_id":101925565,
     "wof:placetype":"neighbourhood",

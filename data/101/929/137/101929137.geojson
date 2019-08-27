@@ -9,14 +9,17 @@
     "geom:bbox":"28.002161026,-32.9526748657,28.0325050354,-32.9375915527",
     "geom:latitude":-32.94395,
     "geom:longitude":28.014927,
-    "geonames:id":"1000936,1000937",
+    "gn:id":"1000936,1000937",
     "iso:country":"ZA",
     "lbl:latitude":-32.944738,
     "lbl:longitude":28.013121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.944738,
     "mps:longitude":28.013121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gonubie"
     ],
@@ -38,7 +41,7 @@
     "name:ron_x_preferred":[
         "Gonubie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Conubie Mouth"
     ],
     "qs:a0":"South Africa",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-32.943,
     "wd:longitude":28.008,
     "wd:wordcount":168,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101929137,
-    "wof:lastmodified":1563373416,
+    "wof:lastmodified":1566663977,
     "wof:name":"Gonubie",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

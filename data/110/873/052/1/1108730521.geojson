@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-30.923938,
     "lbl:longitude":27.254678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Cape",
     "meso:gadm_admin":"Joe Gqabi",
     "meso:gadm_hasc2":"ZA.EC.UH",
@@ -31,6 +33,7 @@
     "mps:longitude":27.254678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Joe Gqabi-distriksmunisipaliteit"
     ],
@@ -78,9 +81,9 @@
         "Joe Gqabi District Municipality"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"25,401.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Barkley East",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108730521,
-    "wof:lastmodified":1563372798,
+    "wof:lastmodified":1566663552,
     "wof:name":"Joe Gqabi",
     "wof:parent_id":85688927,
     "wof:placetype":"county",

@@ -11,8 +11,10 @@
     "geom:longitude":28.045003,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.040003,-26.210816,28.050003,-26.200816",
     "lbl:latitude":-26.205816,
     "lbl:longitude":28.045003,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.191086,
     "mps:longitude":28.065152,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:por_x_preferred":[
         "CBD"
-    ],
-    "name:unk_x_variant":[
-        "Central Business District"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":148,
     "wof:belongsto":[
         85688923,
@@ -78,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877932,
-        "qs:id":1080191,
         "qs_pg:id":1080191
     },
     "wof:country":"ZA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193504,
+    "wof:lastmodified":1566662930,
     "wof:name":"CBD",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

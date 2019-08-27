@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.709839,
     "lbl:longitude":29.066211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.709839,
     "mps:longitude":29.066211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Taung"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.5325,
     "wd:longitude":24.785556,
     "wd:wordcount":507,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101923395,
-    "wof:lastmodified":1564194712,
+    "wof:lastmodified":1566663879,
     "wof:name":"Taung",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

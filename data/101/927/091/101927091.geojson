@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.268251,
     "lbl:longitude":26.724776,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.268251,
     "mps:longitude":26.724776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Botshabelo"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":679,
     "wof:belongsto":[
@@ -175,7 +178,6 @@
     "wof:concordances":{
         "gn:id":1016670,
         "gp:id":1589290,
-        "qs:id":1247870,
         "qs_pg:id":1247870,
         "wd:id":"Q894856",
         "wk:page":"Botshabelo"
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":101927091,
-    "wof:lastmodified":1563373458,
+    "wof:lastmodified":1566664000,
     "wof:name":"Botshabelo",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24716381.097353,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.084573,-26.035473,28.084573,-26.035473",
     "geom:latitude":-26.035473,
     "geom:longitude":28.084573,
     "gn:latitude":-26.0355,
     "gn:longitude":28.06552,
     "iso:country":"ZA",
+    "lbl:bbox":"28.079573,-26.040473,28.089573,-26.030473",
     "lbl:latitude":-26.035473,
     "lbl:longitude":28.084573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.0294,
     "mps:longitude":28.074194,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Sunninghill"
-    ],
-    "name:unk_x_variant":[
         "Sunninghill"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925663,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7871262,
         "gp:id":55864707,
-        "qs:id":422643,
         "qs_pg:id":422643
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860412,
+    "wof:lastmodified":1566662927,
     "wof:name":"Sunninghill",
     "wof:parent_id":101925663,
     "wof:placetype":"neighbourhood",

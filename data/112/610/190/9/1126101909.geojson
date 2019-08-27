@@ -9,14 +9,17 @@
     "geom:bbox":"25.60762,-33.93697,25.60762,-33.93697",
     "geom:latitude":-33.93697,
     "geom:longitude":25.60762,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"25.60262,-33.94197,25.61262,-33.93197",
     "lbl:latitude":-33.93697,
     "lbl:longitude":25.60762,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "North End"
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "North End"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Noordeine"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1586017,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Eastern Cape",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126101909,
-    "wof:lastmodified":1564195041,
+    "wof:lastmodified":1566664219,
     "wof:name":"North End",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

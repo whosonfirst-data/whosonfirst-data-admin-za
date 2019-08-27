@@ -12,8 +12,10 @@
     "gn:latitude":-26.0941,
     "gn:longitude":28.00123,
     "iso:country":"ZA",
+    "lbl:bbox":"27.96872,-26.101782,27.97872,-26.091782",
     "lbl:latitude":-26.096782,
     "lbl:longitude":27.97372,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.092185,
     "mps:longitude":28.003039,
     "mz:hierarchy_label":0,
@@ -137,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043d\u0434\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Randburg"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0646\u062f\u0628\u0648\u0631\u062c"
     ],
@@ -179,7 +178,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -191,7 +190,6 @@
     "wof:concordances":{
         "gn:id":963241,
         "gp:id":1586784,
-        "qs:id":1146114,
         "qs_pg:id":1146114,
         "wd:id":"Q2296366",
         "wk:page":"Randburg"
@@ -212,7 +210,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371973,
+    "wof:lastmodified":1566662946,
     "wof:name":"Randburg",
     "wof:parent_id":101925681,
     "wof:placetype":"neighbourhood",

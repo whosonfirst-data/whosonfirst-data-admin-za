@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2210871.798573,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.051812,-26.072287,28.051812,-26.072287",
     "geom:latitude":-26.072287,
     "geom:longitude":28.051812,
     "gn:latitude":-26.07452,
     "gn:longitude":28.05136,
     "iso:country":"ZA",
+    "lbl:bbox":"28.046812,-26.077287,28.056812,-26.067287",
     "lbl:latitude":-26.072287,
     "lbl:longitude":28.051812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.073079,
     "mps:longitude":28.037861,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Duxberry"
-    ],
-    "name:unk_x_variant":[
         "Duxberry"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925745,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1007255,
         "gp:id":1580923,
-        "qs:id":189323,
         "qs_pg:id":189323
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859507,
+    "wof:lastmodified":1566662964,
     "wof:name":"Duxberry",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

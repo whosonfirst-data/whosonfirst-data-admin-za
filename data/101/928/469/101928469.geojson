@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2719281.312221,
+    "geom:area_square_m":2719281.31222,
     "geom:bbox":"28.7072715759,-30.9231071472,28.7444782257,-30.9068698883",
     "geom:latitude":-30.91387,
     "geom:longitude":28.727766,
     "iso:country":"ZA",
     "lbl:latitude":-30.913433,
     "lbl:longitude":28.732699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.913433,
     "mps:longitude":28.732699,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Qanqu"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101928469,
-    "wof:lastmodified":1501216570,
+    "wof:lastmodified":1566664147,
     "wof:name":"Qhanqu",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

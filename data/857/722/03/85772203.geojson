@@ -12,8 +12,10 @@
     "gn:latitude":-25.72444,
     "gn:longitude":28.1644,
     "iso:country":"ZA",
+    "lbl:bbox":"28.181545,-25.731218,28.191545,-25.721218",
     "lbl:latitude":-25.726218,
     "lbl:longitude":28.186545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.720858,
     "mps:longitude":28.185578,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Capital Park"
     ],
     "name:eng_x_preferred":[
-        "Hercules"
-    ],
-    "name:unk_x_variant":[
         "Hercules"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":74,
     "wof:belongsto":[
         85688923,
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":996889,
         "gp:id":1582205,
-        "qs:id":894366,
         "qs_pg:id":894366
     },
     "wof:country":"ZA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193516,
+    "wof:lastmodified":1566662938,
     "wof:name":"Capital Park",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

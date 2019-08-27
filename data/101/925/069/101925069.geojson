@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.206373,
     "lbl:longitude":26.426526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.206373,
     "mps:longitude":26.426526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Uitkyk"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101925069,
-    "wof:lastmodified":1563373364,
+    "wof:lastmodified":1566663956,
     "wof:name":"Uitkyk",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

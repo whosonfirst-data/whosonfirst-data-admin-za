@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.918325,
     "lbl:longitude":25.158477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-27.918325,
     "mps:longitude":25.158477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Christiana"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.933333,
     "wd:longitude":25.15,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":1013550,
         "gp:id":1580352,
-        "qs:id":130257,
         "qs_pg:id":130257,
         "wd:id":"Q1082602",
         "wk:page":"Christiana, North West"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101926727,
-    "wof:lastmodified":1563373642,
+    "wof:lastmodified":1566664102,
     "wof:name":"Christiana",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

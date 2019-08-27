@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.713292,
     "lbl:longitude":26.63526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North West",
     "meso:gadm_admin":"Dr Kenneth Kaunda",
     "meso:gadm_hasc2":"ZA.NW.KK",
@@ -31,6 +33,7 @@
     "mps:longitude":26.63526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Dr. Kenneth Kaunda-distriksmunisipaliteit"
     ],
@@ -86,9 +89,9 @@
         "\u80af\u5c3c\u601d\u00b7\u5361\u7fc1\u9054\u535a\u58eb\u5730\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"14,645.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Klerksdorp",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108730609,
-    "wof:lastmodified":1563372850,
+    "wof:lastmodified":1566663621,
     "wof:name":"Dr Kenneth Kaunda",
     "wof:parent_id":85688931,
     "wof:placetype":"county",

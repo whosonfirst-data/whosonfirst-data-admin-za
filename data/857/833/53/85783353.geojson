@@ -11,8 +11,10 @@
     "geom:longitude":30.396665,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"30.391665,-29.648669,30.401665,-29.638669",
     "lbl:latitude":-29.643669,
     "lbl:longitude":30.396665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.64295,
     "mps:longitude":30.394794,
     "mz:hierarchy_label":0,
@@ -147,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u0431\u0456"
     ],
-    "name:unk_x_variant":[
-        "Oribi"
-    ],
     "name:vie_x_preferred":[
         "Linh d\u01b0\u01a1ng Oribi"
     ],
@@ -186,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688911,
         102191573,
@@ -196,7 +195,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879661,
-        "qs:id":1339790,
         "qs_pg:id":1339790
     },
     "wof:country":"ZA",
@@ -215,7 +213,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193513,
+    "wof:lastmodified":1566662936,
     "wof:name":"Oribi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

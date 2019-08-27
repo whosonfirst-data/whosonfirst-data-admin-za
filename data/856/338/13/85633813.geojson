@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-29.708985,
     "lbl:longitude":23.666291,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-29.708985,
     "mps:longitude":23.666291,
     "mz:hierarchy_label":1,
@@ -992,15 +994,9 @@
         "Sor-Afrika",
         "Sudurafrika"
     ],
-    "name:und_x_preferred":[
-        "Su\u00f0urafr\u00edka"
-    ],
     "name:und_x_variant":[
-        "Etel\u00e4-Afrikka",
+        "Su\u00f0urafr\u00edka",
         "Suid Afrika",
-        "S\u00f8r-Afrika"
-    ],
-    "name:unk_x_variant":[
         "Union of South Africa"
     ],
     "name:urd_x_preferred":[
@@ -1140,7 +1136,7 @@
         "meso",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"27",
     "statoids:ds":"ZA",
@@ -1188,7 +1184,7 @@
         "mzb:id":"south-africa",
         "ne:adm0_a3":"ZAF",
         "nyt:id":"N15027749381736022171",
-        "qs:id":84017,
+        "qs_pg:id":84017,
         "uncrt:id":"ZA",
         "wd:id":"Q258",
         "wk:page":"South Africa",
@@ -1220,7 +1216,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740277,
+    "wof:lastmodified":1566662970,
     "wof:name":"South Africa",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -9,14 +9,15 @@
     "geom:bbox":"18.3399145508,-34.1320917341,18.4195437549,-34.0675465175",
     "geom:latitude":-34.099645,
     "geom:longitude":18.372522,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.10071,
     "gn:longitude":18.36501,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-34.100645,
     "lbl:longitude":18.371865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.09724,
     "mps:longitude":18.361003,
     "mz:hierarchy_label":1,
@@ -48,9 +49,6 @@
         "Noordhoek"
     ],
     "name:spa_x_preferred":[
-        "Noordhoek"
-    ],
-    "name:unk_x_variant":[
         "Noordhoek"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -100,7 +98,7 @@
     "qs_pg:woe_id":1590917,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -111,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3363610,
         "gp:id":1590917,
-        "qs:id":8039,
         "qs_pg:id":8039,
         "wd:id":"Q378376",
         "wk:page":"Noordhoek, Cape Town"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372015,
+    "wof:lastmodified":1566662970,
     "wof:name":"Noordhoek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

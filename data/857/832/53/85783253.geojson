@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15916462.718442,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.85154,-33.963309,18.85154,-33.963309",
     "geom:latitude":-33.963309,
     "geom:longitude":18.85154,
     "gn:latitude":-33.96728,
     "gn:longitude":18.84876,
     "iso:country":"ZA",
+    "lbl:bbox":"18.84654,-33.968309,18.85654,-33.958309",
     "lbl:latitude":-33.963309,
     "lbl:longitude":18.85154,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.972062,
     "mps:longitude":18.841799,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Paradyskloof"
-    ],
-    "name:unk_x_variant":[
         "Paradyskloof"
     ],
     "qs:gn_fcode":"PPL",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730615,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626702,
         "gp:id":55879078,
-        "qs:id":72697,
         "qs_pg:id":72697
     },
     "wof:country":"ZA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860476,
+    "wof:lastmodified":1566662933,
     "wof:name":"Paradyskloof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

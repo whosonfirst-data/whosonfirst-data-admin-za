@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.614778,
     "lbl:longitude":31.035307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.614778,
     "mps:longitude":31.035307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Green Valley"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191573,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101924471,
-    "wof:lastmodified":1564194633,
+    "wof:lastmodified":1566663805,
     "wof:name":"Green Valley",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.429686,
     "lbl:longitude":32.066459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.429686,
     "mps:longitude":32.066459,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jozini"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.43,
     "wd:longitude":32.067,
     "wd:wordcount":68,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101927455,
-    "wof:lastmodified":1563373462,
+    "wof:lastmodified":1566664003,
     "wof:name":"Jozini",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",

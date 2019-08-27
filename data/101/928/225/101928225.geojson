@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1451622.730524,
+    "geom:area_square_m":1451622.730525,
     "geom:bbox":"28.6552581787,-30.4110946655,28.6736221313,-30.3950309753",
     "geom:latitude":-30.402805,
     "geom:longitude":28.664004,
     "iso:country":"ZA",
     "lbl:latitude":-30.402826,
     "lbl:longitude":28.664004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.402826,
     "mps:longitude":28.664004,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Lugado"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101928225,
-    "wof:lastmodified":1501216578,
+    "wof:lastmodified":1566664144,
     "wof:name":"Lugada",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

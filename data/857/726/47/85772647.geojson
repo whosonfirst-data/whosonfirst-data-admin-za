@@ -12,8 +12,10 @@
     "gn:latitude":-26.17254,
     "gn:longitude":28.02775,
     "iso:country":"ZA",
+    "lbl:bbox":"28.022371,-26.177066,28.032371,-26.167066",
     "lbl:latitude":-26.172066,
     "lbl:longitude":28.027371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.170086,
     "mps:longitude":28.033211,
     "mz:hierarchy_label":0,
@@ -37,10 +39,6 @@
     ],
     "name:nld_x_preferred":[
         "Westcliff"
-    ],
-    "name:unk_x_variant":[
-        "Westcliff",
-        "Westcliffe"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -72,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.166667,
     "wd:longitude":28.033333,
     "wd:wordcount":40,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":940387,
         "gp:id":1588844,
-        "qs:id":898182,
         "qs_pg:id":898182,
         "wd:id":"Q7987273",
         "wk:page":"Westcliff, Gauteng"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371997,
+    "wof:lastmodified":1566662961,
     "wof:name":"Westcliffe",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

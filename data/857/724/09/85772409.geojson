@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.987309,
     "lbl:longitude":18.58366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.993811,
     "mps:longitude":18.583316,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Nyanga"
     ],
     "name:fra_x_preferred":[
-        "Nyanga"
-    ],
-    "name:unk_x_variant":[
         "Nyanga"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -70,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3363455,
         "gp:id":1586179,
-        "qs:id":979693,
         "qs_pg:id":979693,
         "wd:id":"Q7019937",
         "wk:page":"Nyanga, Cape Town"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371969,
+    "wof:lastmodified":1566662944,
     "wof:name":"Nyanga",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

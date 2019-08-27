@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.05124,
     "lbl:longitude":18.467159,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.044027,
     "mps:longitude":18.470096,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
         "Heathfield"
     ],
     "name:swe_x_preferred":[
-        "Heathfield"
-    ],
-    "name:unk_x_variant":[
         "Heathfield"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -76,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":108,
     "wof:belongsto":[
         85688905,
@@ -89,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3366939,
         "gp:id":1582155,
-        "qs:id":1013672,
         "qs_pg:id":1013672
     },
     "wof:country":"ZA",
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639408,
+    "wof:lastmodified":1566662963,
     "wof:name":"Heathfield",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

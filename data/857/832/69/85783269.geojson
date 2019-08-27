@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9606564.5165,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.85276,-33.926566,18.85276,-33.926566",
     "geom:latitude":-33.926566,
     "geom:longitude":18.85276,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"18.84776,-33.931566,18.85776,-33.921566",
     "lbl:latitude":-33.926566,
     "lbl:longitude":18.85276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.923354,
     "mps:longitude":18.837777,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Plankenbrug"
-    ],
-    "name:unk_x_variant":[
         "Plankenbrug"
     ],
     "qs:gn_id":0,
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730615,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879087,
-        "qs:id":230841
+        "qs_pg:id":230841
     },
     "wof:country":"ZA",
     "wof:geomhash":"8ea826e455355d2c2e248c66b9b2b9c9",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860479,
+    "wof:lastmodified":1566662932,
     "wof:name":"Plankenbrug",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":-26.214959,
     "geom:longitude":27.879812,
     "iso:country":"ZA",
+    "lbl:bbox":"27.874812,-26.219959,27.884812,-26.209959",
     "lbl:latitude":-26.214959,
     "lbl:longitude":27.879812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.234129,
     "mps:longitude":27.895758,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u043e\u0432\u043b\u0435\u043d\u0434\u0441"
     ],
-    "name:unk_x_variant":[
-        "Meadowlands"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_id":0,
     "qs:gn_local":993800,
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -108,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193530,
+    "wof:lastmodified":1566662949,
     "wof:name":"Meadowlands",
     "wof:parent_id":101926037,
     "wof:placetype":"neighbourhood",

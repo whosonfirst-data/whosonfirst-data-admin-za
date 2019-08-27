@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3410390.975212,
+    "geom:area_square_m":3410390.97521,
     "geom:bbox":"28.226682663,-25.6595020294,28.2588272095,-25.6417675018",
     "geom:latitude":-25.650358,
     "geom:longitude":28.242171,
     "iso:country":"ZA",
     "lbl:latitude":-25.647858,
     "lbl:longitude":28.239737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.647858,
     "mps:longitude":28.239737,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1008947,
         "gp:id":1580811,
-        "qs:id":1309527
+        "qs_pg:id":1309527
     },
     "wof:country":"ZA",
     "wof:geomhash":"2de4ffe70975300605a9cbe1e6082103",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101925391,
-    "wof:lastmodified":1500027706,
+    "wof:lastmodified":1566663907,
     "wof:name":"Doornpoort",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

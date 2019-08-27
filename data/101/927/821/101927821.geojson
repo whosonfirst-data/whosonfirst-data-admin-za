@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.558563,
     "lbl:longitude":30.335952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.558563,
     "mps:longitude":30.335952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oak Park"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":180,
     "wof:belongsto":[
         102191573,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101927821,
-    "wof:lastmodified":1564194819,
+    "wof:lastmodified":1566663997,
     "wof:name":"Oak Park",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

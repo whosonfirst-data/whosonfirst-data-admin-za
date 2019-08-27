@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.729174,
     "lbl:longitude":29.934668,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.729174,
     "mps:longitude":29.934668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Newcastle"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1194.0,
     "wd:latitude":-27.746389,
@@ -178,10 +181,12 @@
     "wof:concordances":{
         "gn:id":971421,
         "gp:id":1585757,
-        "qs:id":130222,
-        "qs_pg:id":969917,
+        "qs_pg:id":130222,
         "wd:id":"Q1027294",
         "wk:page":"Newcastle, KwaZulu-Natal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":969917
     },
     "wof:country":"ZA",
     "wof:geomhash":"ace42c35898d4b619f2813b3795bccf4",
@@ -195,7 +200,7 @@
         }
     ],
     "wof:id":101926669,
-    "wof:lastmodified":1563373569,
+    "wof:lastmodified":1566664060,
     "wof:name":"Newcastle",
     "wof:parent_id":1108730557,
     "wof:placetype":"locality",

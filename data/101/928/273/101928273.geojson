@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.521666,
     "lbl:longitude":27.397913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.521666,
     "mps:longitude":27.397913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sterkspruit"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-30.524,
     "wd:longitude":27.37,
     "wd:wordcount":155,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101928273,
-    "wof:lastmodified":1563373656,
+    "wof:lastmodified":1566664111,
     "wof:name":"Sterkspruit",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",

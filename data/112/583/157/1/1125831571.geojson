@@ -9,14 +9,18 @@
     "geom:bbox":"18.91268,-34.3535,18.91268,-34.3535",
     "geom:latitude":-34.3535,
     "geom:longitude":18.91268,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"18.89268,-34.3735,18.93268,-34.3335",
     "lbl:latitude":-34.3535,
     "lbl:longitude":18.91268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Bettysbaai"
@@ -48,9 +52,6 @@
     "name:spa_x_preferred":[
         "Bettysbaai"
     ],
-    "name:unk_x_variant":[
-        "Bettysbaai"
-    ],
     "qs_pg:aaroncc":"ZA",
     "qs_pg:gn_country":"ZA",
     "qs_pg:gn_fcode":"PPL",
@@ -72,7 +73,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1579791,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1125831571,
-    "wof:lastmodified":1563374014,
+    "wof:lastmodified":1566664328,
     "wof:name":"Betty's Bay",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",

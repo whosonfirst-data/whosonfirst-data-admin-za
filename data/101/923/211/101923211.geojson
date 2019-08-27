@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.304166,
     "lbl:longitude":29.165628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.304166,
     "mps:longitude":29.165628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naledi"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191573,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101923211,
-    "wof:lastmodified":1564194692,
+    "wof:lastmodified":1566663862,
     "wof:name":"Naledi",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

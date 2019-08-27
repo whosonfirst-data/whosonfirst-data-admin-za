@@ -9,15 +9,18 @@
     "geom:bbox":"29.00974,-24.19436,29.00974,-24.19436",
     "geom:latitude":-24.19436,
     "geom:longitude":29.00974,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":101090,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
     "gn:population":101090,
     "iso:country":"ZA",
+    "lbl:bbox":"28.98974,-24.21436,29.02974,-24.17436",
     "lbl:latitude":-24.19436,
     "lbl:longitude":29.00974,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Mokopane"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u043e\u043f\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potgietersrust"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +175,7 @@
     "qs_pg:qs_id":130212,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":1125865315,
-    "wof:lastmodified":1563373826,
+    "wof:lastmodified":1566664226,
     "wof:name":"Mokopane",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.095643,
     "lbl:longitude":28.047632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.05351,
     "mps:longitude":27.970191,
     "mz:hierarchy_label":0,
@@ -81,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -93,7 +94,6 @@
     "wof:concordances":{
         "gn:id":957654,
         "gp:id":1587189,
-        "qs:id":124960,
         "qs_pg:id":124960
     },
     "wof:country":"ZA",
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193522,
+    "wof:lastmodified":1566662942,
     "wof:name":"Sandton",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

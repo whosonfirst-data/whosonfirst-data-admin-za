@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.286561,
     "lbl:longitude":31.429329,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-28.286561,
     "mps:longitude":31.429329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Ulundi"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":540.0,
     "wd:latitude":-28.335,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":946257,
         "gp:id":56122533,
-        "qs:id":130205,
         "qs_pg:id":130205,
         "wd:id":"Q1013421",
         "wk:page":"Ulundi"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101927633,
-    "wof:lastmodified":1563373458,
+    "wof:lastmodified":1566664000,
     "wof:name":"Ulundi",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

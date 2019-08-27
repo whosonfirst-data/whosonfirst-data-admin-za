@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.040751,
     "lbl:longitude":24.533066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.040751,
     "mps:longitude":24.533066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kameelputs"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-28.048,
     "wd:longitude":24.539,
     "wd:wordcount":22,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101924783,
-    "wof:lastmodified":1561840225,
+    "wof:lastmodified":1566663824,
     "wof:name":"Kameelputs",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

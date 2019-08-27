@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.328414,
     "lbl:longitude":28.100319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.328414,
     "mps:longitude":28.100319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Katlehong"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":199,
     "wof:belongsto":[
         102191573,
@@ -77,7 +80,7 @@
         "fct:id":"1462e862-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":991632,
         "gp:id":1582676,
-        "qs:id":1118609,
+        "qs_pg:id":1118609,
         "wd:id":"Q2612280",
         "wk:page":"Katlehong"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1175615583,
-    "wof:lastmodified":1563372861,
+    "wof:lastmodified":1566663628,
     "wof:name":"Katlehong",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.365062,
     "lbl:longitude":29.881228,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.365062,
     "mps:longitude":29.881228,
     "mz:hierarchy_label":1,
@@ -72,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u043a\u0441\u0440\u0443\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volkrust"
     ],
     "name:zho_x_preferred":[
@@ -186,7 +188,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1660.0,
     "wd:latitude":-27.366667,
@@ -202,10 +204,12 @@
     "wof:concordances":{
         "gn:id":943032,
         "gp:id":1588668,
-        "qs:id":276182,
-        "qs_pg:id":1118994,
+        "qs_pg:id":276182,
         "wd:id":"Q118638",
         "wk:page":"Volksrust"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118994
     },
     "wof:country":"ZA",
     "wof:geomhash":"8e032041d02b70cf1fad0b1c2b0f66f1",
@@ -219,7 +223,7 @@
         }
     ],
     "wof:id":101926613,
-    "wof:lastmodified":1563373606,
+    "wof:lastmodified":1566664080,
     "wof:name":"Volksrust",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

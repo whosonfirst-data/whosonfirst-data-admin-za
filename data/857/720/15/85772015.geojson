@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.898193,
     "lbl:longitude":18.626367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.897972,
     "mps:longitude":18.640014,
     "mz:hierarchy_label":1,
@@ -71,9 +72,6 @@
     "name:swe_x_preferred":[
         "Bellville"
     ],
-    "name:unk_x_variant":[
-        "Bellville"
-    ],
     "name:vol_x_preferred":[
         "Bellville"
     ],
@@ -106,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -118,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3370141,
         "gp:id":1579727,
-        "qs:id":1075480,
         "qs_pg:id":1075480
     },
     "wof:country":"ZA",
@@ -137,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193553,
+    "wof:lastmodified":1566662969,
     "wof:name":"Bellville",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

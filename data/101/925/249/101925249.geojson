@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.460003,
     "lbl:longitude":27.109418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.460003,
     "mps:longitude":27.109418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430"
     ],
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kwa-Bala"
     ],
     "qs:a0":"South Africa",
@@ -99,7 +102,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":371,
     "wof:belongsto":[
         102191573,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101925249,
-    "wof:lastmodified":1564194774,
+    "wof:lastmodified":1566663947,
     "wof:name":"Bala",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.265475,
     "lbl:longitude":25.705769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.265475,
     "mps:longitude":25.705769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Springfontein"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":1515.0,
     "wd:latitude":-30.2625,
     "wd:longitude":25.703889,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101928157,
-    "wof:lastmodified":1563373646,
+    "wof:lastmodified":1566664105,
     "wof:name":"Springfontein",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",

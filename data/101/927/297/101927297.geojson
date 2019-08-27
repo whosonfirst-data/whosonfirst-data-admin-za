@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.776142,
     "lbl:longitude":31.03978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.776142,
     "mps:longitude":31.03978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Emjindini"
     ],
@@ -96,7 +99,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191573,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101927297,
-    "wof:lastmodified":1563373521,
+    "wof:lastmodified":1566664035,
     "wof:name":"Emjindini",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

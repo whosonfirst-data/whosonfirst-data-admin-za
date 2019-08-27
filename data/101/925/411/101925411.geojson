@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.674705,
     "lbl:longitude":28.113487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.674705,
     "mps:longitude":28.113487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Amandasig"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7306539,
         "gp:id":55878540,
-        "qs:id":207709
+        "qs_pg:id":207709
     },
     "wof:country":"ZA",
     "wof:geomhash":"ed1badb8fa5fc4d61a107b811b681c62",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101925411,
-    "wof:lastmodified":1564194773,
+    "wof:lastmodified":1566663946,
     "wof:name":"Amandasig",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

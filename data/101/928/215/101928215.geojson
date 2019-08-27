@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1259805.290634,
+    "geom:area_square_m":1259805.290633,
     "geom:bbox":"28.387758255,-30.3729324341,28.4004077911,-30.3551254272",
     "geom:latitude":-30.363369,
     "geom:longitude":28.393376,
     "iso:country":"ZA",
     "lbl:latitude":-30.363365,
     "lbl:longitude":28.392944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.363365,
     "mps:longitude":28.392944,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Thaba Chitja"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101928215,
-    "wof:lastmodified":1501216559,
+    "wof:lastmodified":1566664141,
     "wof:name":"Thaba Chicha",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

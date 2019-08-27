@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":1854344.770453,
+    "geom:area_square_m":2057531.343219,
     "geom:bbox":"28.110584259,-26.2286109924,28.1286296844,-26.2113742828",
     "geom:latitude":-26.220941,
     "geom:longitude":28.120705,
     "iso:country":"ZA",
     "lbl:latitude":-26.224084,
     "lbl:longitude":28.122148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.224084,
     "mps:longitude":28.122148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         101925937,
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":959139,
         "gp:id":1582504,
-        "qs:id":1170442
+        "qs_pg:id":1170442
     },
     "wof:country":"ZA",
     "wof:geomhash":"cae1dd167f41dfe6cb38d58a27c0a773",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1175615479,
-    "wof:lastmodified":1534985999,
+    "wof:lastmodified":1566663642,
     "wof:name":"Rosherville",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.44538,-26.18472,27.48538,-26.14472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":995991
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ed9e642faffa74b054307b22faa54776",
+    "wof:geomhash":"4a6be4340521f01d74862e46053de007",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209537925,
-    "wof:lastmodified":1536284079,
+    "wof:lastmodified":1566663314,
     "wof:name":"Holfontein",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     27.46538,
-    -26.164720000000006,
+    -26.16472000000001,
     27.46538,
-    -26.164720000000006
+    -26.16472000000001
 ],
   "geometry": {"coordinates":[27.46538,-26.16472000000001],"type":"Point"}
 }

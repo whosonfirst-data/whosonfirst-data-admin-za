@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-24.087887,
     "lbl:longitude":28.000606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Limpopo",
     "meso:gadm_admin":"Waterberg",
     "meso:gadm_hasc2":"ZA.NP.WA",
@@ -31,6 +33,7 @@
     "mps:longitude":28.000606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Waterberg-distriksmunisipaliteit"
     ],
@@ -84,9 +87,9 @@
         "\u74e6\u7279\u8c9d\u683c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"49,519.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Modimolle",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108730579,
-    "wof:lastmodified":1563372829,
+    "wof:lastmodified":1566663591,
     "wof:name":"Waterberg",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

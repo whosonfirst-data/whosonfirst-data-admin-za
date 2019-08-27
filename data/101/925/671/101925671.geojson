@@ -9,15 +9,18 @@
     "geom:bbox":"28.1697788239,-26.05717659,28.2514057159,-25.9757671356",
     "geom:latitude":-26.012466,
     "geom:longitude":28.208929,
-    "geonames:id":"949879,949880",
+    "gn:id":"949879,949880",
     "gn:population":511655,
     "iso:country":"ZA",
     "lbl:latitude":-26.008881,
     "lbl:longitude":28.21233,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-26.008881,
     "mps:longitude":28.21233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Tembisa"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":345,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949880,
-        "qs:id":1029472,
         "qs_pg:id":1029472,
         "wd:id":"Q1580709"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101925671,
-    "wof:lastmodified":1563373347,
+    "wof:lastmodified":1566663945,
     "wof:name":"Tembisa",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

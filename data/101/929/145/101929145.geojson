@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-32.968092,
     "lbl:longitude":27.938398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.968092,
     "mps:longitude":27.938398,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":1020695,
         "gp:id":1579679,
-        "qs:id":1143539,
         "qs_pg:id":1143539
     },
     "wof:country":"ZA",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":101929145,
-    "wof:lastmodified":1497297410,
+    "wof:lastmodified":1566663974,
     "wof:name":"Beacon Bay",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

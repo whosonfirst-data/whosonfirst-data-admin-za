@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":2100662.206545,
+    "geom:area_square_m":2100662.206546,
     "geom:bbox":"27.8367881775,-26.8464183807,27.8533325195,-26.8313179016",
     "geom:latitude":-26.838247,
     "geom:longitude":27.845242,
     "iso:country":"ZA",
     "lbl:latitude":-26.838286,
     "lbl:longitude":27.845096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.838286,
     "mps:longitude":27.845096,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":937459,
         "gp:id":1589085,
-        "qs:id":1012993,
         "qs_pg:id":1012993
     },
     "wof:country":"ZA",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":101926489,
-    "wof:lastmodified":1497300203,
+    "wof:lastmodified":1566664087,
     "wof:name":"Zamdela",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
