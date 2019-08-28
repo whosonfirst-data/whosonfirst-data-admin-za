@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.468146,
     "lbl:longitude":30.19511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.468146,
     "mps:longitude":30.19511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vaalkopdam"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191573,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101927669,
-    "wof:lastmodified":1527715635,
+    "wof:lastmodified":1566664003,
     "wof:name":"Vaalkop",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",

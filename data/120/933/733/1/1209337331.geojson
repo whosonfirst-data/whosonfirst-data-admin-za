@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.59667,-31.90333,27.63667,-31.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":985917
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c64e7bef5902378283293ddd3ed4c6de",
+    "wof:geomhash":"04ebc139b6f35af680a7667b16f76609",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209337331,
-    "wof:lastmodified":1536290176,
+    "wof:lastmodified":1566663396,
     "wof:name":"KwaGambu",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.616670000000006,
+    27.61667000000001,
     -31.88333,
-    27.616670000000006,
+    27.61667000000001,
     -31.88333
 ],
   "geometry": {"coordinates":[27.61667000000001,-31.88333],"type":"Point"}

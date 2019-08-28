@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.524548,
     "lbl:longitude":24.774111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.524548,
     "mps:longitude":24.774111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Taung"
     ],
@@ -73,7 +76,7 @@
     "name:tur_x_preferred":[
         "Taung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taungs"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.5325,
     "wd:longitude":24.785556,
     "wd:wordcount":507,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":950002,
         "gp:id":1587978,
-        "qs:id":1029473,
         "qs_pg:id":1029473,
         "wd:id":"Q2096879"
     },
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101924725,
-    "wof:lastmodified":1563373145,
+    "wof:lastmodified":1566663819,
     "wof:name":"Taung",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

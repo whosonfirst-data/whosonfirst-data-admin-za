@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.73572,
     "lbl:longitude":29.474789,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-25.73572,
     "mps:longitude":29.474789,
     "mz:hierarchy_label":1,
@@ -184,7 +186,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1490.0,
     "wd:latitude":-25.768417,
@@ -199,7 +201,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976361,
-        "qs:id":1029483,
+        "qs_pg:id":1029483,
         "wd:id":"Q1931836",
         "wk:page":"Middelburg, Mpumalanga"
     },
@@ -215,7 +217,7 @@
         }
     ],
     "wof:id":101925479,
-    "wof:lastmodified":1563373299,
+    "wof:lastmodified":1566663917,
     "wof:name":"Middelburg",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.901345,
     "lbl:longitude":29.457225,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-23.901345,
     "mps:longitude":29.457225,
     "mz:hierarchy_label":1,
@@ -216,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043a\u0432\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Pietersburg Township"
     ],
     "name:urd_x_preferred":[
@@ -354,7 +356,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -382,7 +384,7 @@
         }
     ],
     "wof:id":101923501,
-    "wof:lastmodified":1563373242,
+    "wof:lastmodified":1566663880,
     "wof:name":"Pietersburg",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

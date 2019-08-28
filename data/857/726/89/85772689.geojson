@@ -12,8 +12,10 @@
     "gn:latitude":-26.18299,
     "gn:longitude":28.06501,
     "iso:country":"ZA",
+    "lbl:bbox":"28.057899,-26.188132,28.067899,-26.178132",
     "lbl:latitude":-26.183132,
     "lbl:longitude":28.062899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.169744,
     "mps:longitude":28.06082,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Yeoville"
     ],
     "name:nld_x_preferred":[
-        "Yeoville"
-    ],
-    "name:unk_x_variant":[
         "Yeoville"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -86,7 +85,6 @@
     "wof:concordances":{
         "gn:id":937617,
         "gp:id":1589069,
-        "qs:id":893294,
         "qs_pg:id":893294,
         "wd:id":"Q8052507",
         "wk:page":"Yeoville"
@@ -107,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371994,
+    "wof:lastmodified":1566662959,
     "wof:name":"Yeoville",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

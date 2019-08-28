@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5931383.979243,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.088038,-26.149871,28.088038,-26.149871",
     "geom:latitude":-26.149871,
     "geom:longitude":28.088038,
     "gn:latitude":-26.17855,
     "gn:longitude":28.11092,
     "iso:country":"ZA",
+    "lbl:bbox":"28.083038,-26.154871,28.093038,-26.144871",
     "lbl:latitude":-26.149871,
     "lbl:longitude":28.088038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.148931,
     "mps:longitude":28.092501,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u0443\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bruma"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":993800,
@@ -79,20 +78,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":63,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925779,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7870422,
         "gp:id":55877926,
-        "qs:id":489187
+        "qs_pg:id":489187
     },
     "wof:country":"ZA",
     "wof:geomhash":"01e387d994aa8bbf26adbc4c7b3760f6",
@@ -110,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860434,
+    "wof:lastmodified":1566662928,
     "wof:name":"Bruma",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

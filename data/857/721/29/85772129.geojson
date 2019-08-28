@@ -12,8 +12,10 @@
     "gn:latitude":-26.166,
     "gn:longitude":28.01166,
     "iso:country":"ZA",
+    "lbl:bbox":"27.990674,-26.152191,28.000674,-26.142191",
     "lbl:latitude":-26.147191,
     "lbl:longitude":27.995674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.153197,
     "mps:longitude":27.996669,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Emmarentia"
     ],
     "name:nld_x_preferred":[
-        "Emmarentia"
-    ],
-    "name:unk_x_variant":[
         "Emmarentia"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.156,
     "wd:longitude":28.003,
     "wd:wordcount":697,
@@ -86,7 +85,6 @@
     "wof:concordances":{
         "gn:id":1005578,
         "gp:id":1581109,
-        "qs:id":118022,
         "qs_pg:id":118022,
         "wd:id":"Q5373389"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372001,
+    "wof:lastmodified":1566662964,
     "wof:name":"Emmarentia",
     "wof:parent_id":101925753,
     "wof:placetype":"neighbourhood",

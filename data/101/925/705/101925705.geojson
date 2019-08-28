@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.09305,
     "lbl:longitude":28.168365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-26.09305,
     "mps:longitude":28.168365,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Modderfontein"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":975144,
         "gp:id":1585178,
-        "qs:id":1164347,
         "qs_pg:id":1164347
     },
     "wof:country":"ZA",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101925705,
-    "wof:lastmodified":1564194765,
+    "wof:lastmodified":1566663935,
     "wof:name":"Modderfontein",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.790849,
     "lbl:longitude":28.105107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.790849,
     "mps:longitude":28.105107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Laudium"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1539,
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":984185,
         "gp:id":55877940,
-        "qs:id":207695,
+        "qs_pg:id":207695,
         "wd:id":"Q6497896",
         "wk:page":"Laudium"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101925523,
-    "wof:lastmodified":1563373381,
+    "wof:lastmodified":1566663964,
     "wof:name":"Laudium",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

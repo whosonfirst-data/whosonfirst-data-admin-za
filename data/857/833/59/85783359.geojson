@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4880562.255012,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.345886,-29.608327,30.345886,-29.608327",
     "geom:latitude":-29.608327,
     "geom:longitude":30.345886,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"30.340886,-29.613327,30.350886,-29.603327",
     "lbl:latitude":-29.608327,
     "lbl:longitude":30.345886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.606894,
     "mps:longitude":30.344239,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Prestbury"
     ],
     "name:pol_x_preferred":[
-        "Prestbury"
-    ],
-    "name:unk_x_variant":[
         "Prestbury"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927839,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879704,
-        "qs:id":1112902,
         "qs_pg:id":1112902
     },
     "wof:country":"ZA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860490,
+    "wof:lastmodified":1566662934,
     "wof:name":"Prestbury",
     "wof:parent_id":101927839,
     "wof:placetype":"neighbourhood",

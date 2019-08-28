@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.52697,-32.72548,27.56697,-32.68548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Keiweg"
     ],
@@ -37,10 +41,6 @@
         "Kei Road"
     ],
     "name:sot_x_preferred":[
-        "Kei Road"
-    ],
-    "name:und_x_variant":[
-        "Keiweg",
         "Kei Road"
     ],
     "src:geom":"geonames",
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1310706569,
-    "wof:lastmodified":1564194397,
+    "wof:lastmodified":1566663657,
     "wof:name":"Kei Road",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",

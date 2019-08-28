@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-29.948712,
     "lbl:longitude":25.586731,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Free State",
     "meso:gadm_admin":"Xhariep",
     "meso:gadm_hasc2":"ZA.FS.XH",
@@ -31,6 +33,7 @@
     "mps:longitude":25.586731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Xhariep-distriksmunisipaliteit"
     ],
@@ -72,9 +75,9 @@
         "\u514b\u91cc\u57c3\u666e\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"34,249.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Trompsberg",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108730531,
-    "wof:lastmodified":1563372793,
+    "wof:lastmodified":1566663546,
     "wof:name":"Xhariep",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

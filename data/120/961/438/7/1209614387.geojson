@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.41639,-30.77586,28.45639,-30.73586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":983375
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a012968f32cd89e43da31187a773e4e6",
+    "wof:geomhash":"0d1ca2122d1fe8126fc276753eaeb54d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209614387,
-    "wof:lastmodified":1536281739,
+    "wof:lastmodified":1566663374,
     "wof:name":"Lekgwareng",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.436390000000006,
+    28.43639000000001,
     -30.75586,
-    28.436390000000006,
+    28.43639000000001,
     -30.75586
 ],
   "geometry": {"coordinates":[28.43639000000001,-30.75586],"type":"Point"}

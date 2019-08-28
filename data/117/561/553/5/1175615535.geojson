@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.55279,
     "lbl:longitude":28.035747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.55279,
     "mps:longitude":28.035747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Meyerton"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.558611,
     "wd:longitude":28.098611,
     "wd:wordcount":283,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":976764,
         "gp:id":1584936,
-        "qs:id":1029489,
         "qs_pg:id":1029489,
         "wd:id":"Q2082061",
         "wk:page":"Meyerton, Gauteng"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1175615535,
-    "wof:lastmodified":1563372883,
+    "wof:lastmodified":1566663640,
     "wof:name":"Meyerton",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

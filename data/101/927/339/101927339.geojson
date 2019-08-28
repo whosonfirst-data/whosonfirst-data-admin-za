@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.984355,
     "lbl:longitude":30.812507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.984355,
     "mps:longitude":30.812507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tjakastad"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191573,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101927339,
-    "wof:lastmodified":1563373439,
+    "wof:lastmodified":1566663990,
     "wof:name":"Tjakastad",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

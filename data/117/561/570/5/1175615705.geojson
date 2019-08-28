@@ -15,6 +15,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.921477,
     "lbl:longitude":18.499661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.931967,
     "mps:longitude":18.48175,
     "mz:hierarchy_label":1,
@@ -634,9 +635,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0442\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Maitland"
-    ],
     "name:vec_x_preferred":[
         "Maitland"
     ],
@@ -707,7 +705,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":604,
     "wof:belongsto":[
         85688905,
@@ -722,9 +720,11 @@
         "fct:id":"1466f18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3364369,
         "gp:id":55878046,
-        "qs:id":982209,
-        "qs_pg:id":1277742,
+        "qs_pg:id":982209,
         "wd:id":"Q1531980"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1277742
     },
     "wof:country":"ZA",
     "wof:geomhash":"e1bcd5a020d7115406d228f71bb167de",
@@ -742,7 +742,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372889,
+    "wof:lastmodified":1566663644,
     "wof:name":"Maitland",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

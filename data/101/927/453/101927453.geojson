@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.424841,
     "lbl:longitude":30.819201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.424841,
     "mps:longitude":30.819201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Paulpietersburg"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.416667,
     "wd:longitude":30.816667,
     "wd:wordcount":123,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101927453,
-    "wof:lastmodified":1563373467,
+    "wof:lastmodified":1566664008,
     "wof:name":"Paulpietersburg",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

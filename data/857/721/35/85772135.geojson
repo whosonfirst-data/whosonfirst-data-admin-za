@@ -12,8 +12,10 @@
     "gn:latitude":-26.40971,
     "gn:longitude":27.83678,
     "iso:country":"ZA",
+    "lbl:bbox":"27.846028,-26.41983,27.856028,-26.40983",
     "lbl:latitude":-26.41483,
     "lbl:longitude":27.851028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.414812,
     "mps:longitude":27.882118,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Ennerdale"
     ],
     "name:ron_x_preferred":[
-        "Ennerdale"
-    ],
-    "name:unk_x_variant":[
         "Ennerdale"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.409722,
     "wd:longitude":27.836944,
     "wd:wordcount":38,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gn:id":8063428,
         "gp:id":1581144,
-        "qs:id":118120,
         "qs_pg:id":118120,
         "wd:id":"Q3643770",
         "wk:page":"Ennerdale, Gauteng"
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372001,
+    "wof:lastmodified":1566662963,
     "wof:name":"Ennerdale",
     "wof:parent_id":101926201,
     "wof:placetype":"neighbourhood",

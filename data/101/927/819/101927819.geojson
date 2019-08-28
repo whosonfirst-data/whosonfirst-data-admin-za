@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.551707,
     "lbl:longitude":30.301946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.551707,
     "mps:longitude":30.301946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hilton"
     ],
@@ -28,7 +31,7 @@
     "name:nso_x_preferred":[
         "Hilton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hilton Road"
     ],
     "qs:a0":"South Africa",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.55,
     "wd:longitude":30.3,
     "wd:wordcount":149,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":996419,
         "gp:id":1582256,
-        "qs:id":998740,
         "qs_pg:id":998740,
         "wd:id":"Q5764449",
         "wk:page":"Hilton, KwaZulu-Natal"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101927819,
-    "wof:lastmodified":1561840238,
+    "wof:lastmodified":1566663997,
     "wof:name":"Hilton",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11901207.19415,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.924985,-26.081419,27.924985,-26.081419",
     "geom:latitude":-26.081419,
     "geom:longitude":27.924985,
     "iso:country":"ZA",
+    "lbl:bbox":"27.919985,-26.086419,27.929985,-26.076419",
     "lbl:latitude":-26.081419,
     "lbl:longitude":27.924985,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.071717,
     "mps:longitude":27.902302,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Honeydew"
-    ],
-    "name:unk_x_variant":[
         "Honeydew"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -59,13 +58,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":104,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859517,
+    "wof:lastmodified":1566662940,
     "wof:name":"Honeydew",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

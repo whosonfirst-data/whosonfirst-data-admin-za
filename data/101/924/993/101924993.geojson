@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.151389,
     "lbl:longitude":28.855754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.151389,
     "mps:longitude":28.855754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vaalbank"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.155556,
     "wd:longitude":28.846944,
     "wd:wordcount":222,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101924993,
-    "wof:lastmodified":1563373163,
+    "wof:lastmodified":1566663829,
     "wof:name":"Vaalbank",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

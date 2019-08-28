@@ -9,10 +9,12 @@
     "geom:bbox":"28.4509239197,-26.2725296021,28.4868717194,-26.2473602295",
     "geom:latitude":-26.25808,
     "geom:longitude":28.471075,
-    "geonames:id":"952865,952869",
+    "gn:id":"952865,952869",
     "iso:country":"ZA",
     "lbl:latitude":-26.259063,
     "lbl:longitude":28.471347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.259063,
     "mps:longitude":28.471347,
     "mz:hierarchy_label":1,
@@ -219,7 +221,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":101925983,
-    "wof:lastmodified":1563373315,
+    "wof:lastmodified":1566663927,
     "wof:name":"Springs",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

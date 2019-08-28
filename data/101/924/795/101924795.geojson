@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.118975,
     "lbl:longitude":24.75665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.118975,
     "mps:longitude":24.75665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ratanang"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101924795,
-    "wof:lastmodified":1563373167,
+    "wof:lastmodified":1566663832,
     "wof:name":"Ratanang",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",

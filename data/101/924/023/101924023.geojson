@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.048173,
     "lbl:longitude":30.389968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.048173,
     "mps:longitude":30.389968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lwamondo"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-23.011,
     "wd:longitude":30.357,
     "wd:wordcount":199,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101924023,
-    "wof:lastmodified":1561840223,
+    "wof:lastmodified":1566663804,
     "wof:name":"Lwamondo",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

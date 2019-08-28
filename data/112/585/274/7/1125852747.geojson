@@ -9,14 +9,18 @@
     "geom:bbox":"19.35048,-34.58301,19.35048,-34.58301",
     "geom:latitude":-34.58301,
     "geom:longitude":19.35048,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"19.33048,-34.60301,19.37048,-34.56301",
     "lbl:latitude":-34.58301,
     "lbl:longitude":19.35048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Gansbaai"
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Gansbaai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gans Bay"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1581645,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1125852747,
-    "wof:lastmodified":1563373980,
+    "wof:lastmodified":1566664312,
     "wof:name":"Gansbaai",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.673101,
     "lbl:longitude":27.848069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.673101,
     "mps:longitude":27.848069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boipatong"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":431,
     "wof:belongsto":[
         102191573,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1017877,
         "gp:id":55879738,
-        "qs:id":1017057,
+        "qs_pg:id":1017057,
         "wd:id":"Q4938403",
         "wk:page":"Boipatong"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101926409,
-    "wof:lastmodified":1563373572,
+    "wof:lastmodified":1566664062,
     "wof:name":"Boipatong",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9373765.754601,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.431454,-34.194424,18.431454,-34.194424",
     "geom:latitude":-34.194424,
     "geom:longitude":18.431454,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"18.426454,-34.199424,18.436454,-34.189424",
     "lbl:latitude":-34.194424,
     "lbl:longitude":18.431454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.19423,
     "mps:longitude":18.443059,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Simons Kloof"
-    ],
-    "name:unk_x_variant":[
         "Simons Kloof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,17 +59,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730611,
-        85688905
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879063,
-        "qs:id":474293,
         "qs_pg:id":474293
     },
     "wof:country":"ZA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860473,
+    "wof:lastmodified":1566662932,
     "wof:name":"Simons Kloof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

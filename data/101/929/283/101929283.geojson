@@ -12,19 +12,19 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.172041,
     "lbl:longitude":30.769586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.172041,
     "mps:longitude":30.769586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magabeni"
     ],
     "name:eng_x_variant":[
         "Madadeni",
         "Magabheni"
-    ],
-    "name:unk_x_variant":[
-        "Madadeni"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -40,7 +40,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191573,
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715591,
+    "wof:lastmodified":1566663978,
     "wof:name":"Magabeni",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.211756,
     "lbl:longitude":28.210989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.211756,
     "mps:longitude":28.210989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Angelo"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1364,
     "wof:belongsto":[
         102191573,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101925907,
-    "wof:lastmodified":1564194739,
+    "wof:lastmodified":1566663906,
     "wof:name":"Angelo",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

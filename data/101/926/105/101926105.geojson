@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.320688,
     "lbl:longitude":27.834743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.320688,
     "mps:longitude":27.834743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lenasia"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":983199,
         "gp:id":1583810,
-        "qs:id":1015218,
+        "qs_pg:id":1015218,
         "wd:id":"Q2751060",
         "wk:page":"Lenasia"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101926105,
-    "wof:lastmodified":1563373548,
+    "wof:lastmodified":1566664048,
     "wof:name":"Lenasia",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

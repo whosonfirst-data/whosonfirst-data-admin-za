@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.887915,
     "lbl:longitude":25.629661,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.887915,
     "mps:longitude":25.629661,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Mahikeng"
     ],
@@ -250,9 +253,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0444\u0456\u043a\u0435\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Mafeking"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06c1\u06cc\u06a9\u06cc\u0646\u06af"
     ],
@@ -291,7 +291,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-25.85,
     "wd:longitude":25.633333,
@@ -321,7 +321,7 @@
         }
     ],
     "wof:id":101925609,
-    "wof:lastmodified":1563373367,
+    "wof:lastmodified":1566663958,
     "wof:name":"Mafikeng",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.53991,-26.22882,25.57991,-26.18882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":946631
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e20f828702fe4778d5c875c58ce446bf",
+    "wof:geomhash":"dd39a3144041bde7a1022ed750b17d2c",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209604281,
-    "wof:lastmodified":1536282064,
+    "wof:lastmodified":1566663387,
     "wof:name":"Uitkyk",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     25.55991,
-    -26.208820000000006,
+    -26.20882000000001,
     25.55991,
-    -26.208820000000006
+    -26.20882000000001
 ],
   "geometry": {"coordinates":[25.55991,-26.20882000000001],"type":"Point"}
 }

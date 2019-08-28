@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.055775,
     "lbl:longitude":30.223562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.055775,
     "mps:longitude":30.223562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Port Edward"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-31.05,
     "wd:longitude":30.216667,
     "wd:wordcount":374,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":964424,
         "gp:id":1586613,
-        "qs:id":7895,
         "qs_pg:id":7895,
         "wd:id":"Q3644265",
         "wk:page":"Port Edward, KwaZulu-Natal"
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101929337,
-    "wof:lastmodified":1563373386,
+    "wof:lastmodified":1566663967,
     "wof:name":"Port Edward",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

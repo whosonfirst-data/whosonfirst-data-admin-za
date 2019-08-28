@@ -9,15 +9,18 @@
     "geom:bbox":"29.46885,-23.90448,29.46885,-23.90448",
     "geom:latitude":-23.90448,
     "geom:longitude":29.46885,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":123749,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA",
     "gn:population":123749,
     "iso:country":"ZA",
+    "lbl:bbox":"29.44885,-23.92448,29.48885,-23.88448",
     "lbl:latitude":-23.90448,
     "lbl:longitude":29.46885,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Pietersburg"
@@ -214,9 +217,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043a\u0432\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Pietersburg"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0648\u06a9\u0648\u0627\u0646\u06d2"
     ],
@@ -250,7 +250,7 @@
     "qs_pg:qs_id":1030268,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":1125781413,
-    "wof:lastmodified":1564195155,
+    "wof:lastmodified":1566664319,
     "wof:name":"Polokwane",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

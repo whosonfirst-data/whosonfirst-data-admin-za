@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.929137,
     "lbl:longitude":26.80981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.929137,
     "mps:longitude":26.80981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Riebeeckstad"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.9167,
     "wd:longitude":26.8167,
     "wd:wordcount":106,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":962310,
         "gp:id":1586879,
-        "qs:id":308589,
         "qs_pg:id":308589,
         "wd:id":"Q7333063"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101926733,
-    "wof:lastmodified":1561840246,
+    "wof:lastmodified":1566664073,
     "wof:name":"Riebeeckstad",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":19.451934,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"19.446934,-33.620606,19.456934,-33.610606",
     "lbl:latitude":-33.615606,
     "lbl:longitude":19.451934,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.614643,
     "mps:longitude":19.456707,
     "mz:hierarchy_label":0,
@@ -135,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u043e\u0440\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Panorama"
-    ],
     "name:uzb_x_preferred":[
         "Panorama"
     ],
@@ -174,7 +173,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -185,7 +184,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55880933,
-        "qs:id":1080204,
         "qs_pg:id":1080204
     },
     "wof:country":"ZA",
@@ -204,7 +202,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193509,
+    "wof:lastmodified":1566662934,
     "wof:name":"Panorama",
     "wof:parent_id":101928005,
     "wof:placetype":"neighbourhood",

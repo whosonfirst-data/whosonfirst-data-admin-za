@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.768207,
     "lbl:longitude":30.790671,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-27.768207,
     "mps:longitude":30.790671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Vryheid"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.769444,
     "wd:longitude":30.791389,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101927503,
-    "wof:lastmodified":1563373441,
+    "wof:lastmodified":1566663990,
     "wof:name":"Vryheid",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

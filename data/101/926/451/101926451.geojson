@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.736135,
     "lbl:longitude":29.615838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.736135,
     "mps:longitude":29.615838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Morgenzon"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.733056,
     "wd:longitude":29.615278,
     "wd:wordcount":227,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101926451,
-    "wof:lastmodified":1563373620,
+    "wof:lastmodified":1566664089,
     "wof:name":"Morgenzon",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

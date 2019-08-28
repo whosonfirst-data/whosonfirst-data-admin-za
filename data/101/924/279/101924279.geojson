@@ -14,10 +14,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.644044,
     "lbl:longitude":30.219723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-23.644044,
     "mps:longitude":30.219723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Ga-Kgapane"
     ],
@@ -36,9 +39,6 @@
     "name:nso_x_preferred":[
         "Ga-Kgapane"
     ],
-    "name:unk_x_variant":[
-        "Ga-Kgapane"
-    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-23.649,
     "wd:longitude":30.226,
@@ -70,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1003462,
         "gp:id":1586550,
-        "qs:id":84043,
         "qs_pg:id":84043,
         "wd:id":"Q5515188",
         "wk:page":"Ga-Kgapane"
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":101924279,
-    "wof:lastmodified":1563373170,
+    "wof:lastmodified":1566663834,
     "wof:name":"GaKgapane",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

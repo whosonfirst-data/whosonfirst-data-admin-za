@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.79359,
     "lbl:longitude":30.000045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.79359,
     "mps:longitude":30.000045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Magneetshoogte"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.792,
     "wd:longitude":29.966,
     "wd:wordcount":20,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1175615455,
-    "wof:lastmodified":1563372874,
+    "wof:lastmodified":1566663634,
     "wof:name":"Magneetshoogte",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

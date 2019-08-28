@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.816657,
     "lbl:longitude":27.295935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.816657,
     "mps:longitude":27.295935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Amandelbult"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.806,
     "wd:longitude":27.307,
     "wd:wordcount":20,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101923759,
-    "wof:lastmodified":1561840228,
+    "wof:lastmodified":1566663886,
     "wof:name":"Amandelbult",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.624283,
     "lbl:longitude":27.783085,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-25.624283,
     "mps:longitude":27.783085,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-25.616667,
     "wd:longitude":27.766667,
@@ -216,7 +218,6 @@
     "wof:concordances":{
         "gn:id":1015621,
         "gp:id":1580129,
-        "qs:id":273866,
         "qs_pg:id":273866,
         "wd:id":"Q3948",
         "wk:page":"Brits, North West"
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":101925365,
-    "wof:lastmodified":1563373277,
+    "wof:lastmodified":1566663907,
     "wof:name":"Brits",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

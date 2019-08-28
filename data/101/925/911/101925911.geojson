@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.207926,
     "lbl:longitude":28.20035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.207926,
     "mps:longitude":28.20035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Delmore"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191573,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101925911,
-    "wof:lastmodified":1527688523,
+    "wof:lastmodified":1566663958,
     "wof:name":"Delmore",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

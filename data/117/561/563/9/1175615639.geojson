@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":840113.166514,
+    "geom:area_square_m":3344553.595763,
     "geom:bbox":"31.5884284973,-25.793214798,31.6201095581,-25.7727508545",
     "geom:latitude":-25.784855,
     "geom:longitude":31.607254,
     "iso:country":"ZA",
     "lbl:latitude":-25.788728,
     "lbl:longitude":31.593212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.788728,
     "mps:longitude":31.593212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magogeni"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         101927299,
@@ -62,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534986006,
+    "wof:lastmodified":1566663637,
     "wof:name":"Magogeni",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",

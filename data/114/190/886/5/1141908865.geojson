@@ -9,12 +9,16 @@
     "geom:bbox":"25.6100023994,-25.8300138155,25.6100023994,-25.8300138155",
     "geom:latitude":-25.830014,
     "geom:longitude":25.610002,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"ZA",
+    "lbl:bbox":"25.5900023994,-25.8500138155,25.6300023994,-25.8100138155",
     "lbl:latitude":-25.830014,
     "lbl:longitude":25.610002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mmabatho"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1141908865,
-    "wof:lastmodified":1563374540,
+    "wof:lastmodified":1566664720,
     "wof:name":"Mmabatho",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

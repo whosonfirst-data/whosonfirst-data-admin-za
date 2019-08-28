@@ -11,8 +11,10 @@
     "geom:longitude":28.072129,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.067129,-26.208953,28.077129,-26.198953",
     "lbl:latitude":-26.203953,
     "lbl:longitude":28.072129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.211049,
     "mps:longitude":28.073993,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Jeppestown"
     ],
     "name:nso_x_preferred":[
-        "Jeppestown"
-    ],
-    "name:unk_x_variant":[
         "Jeppestown"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.204167,
     "wd:longitude":28.072778,
     "wd:wordcount":208,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55864708,
-        "qs:id":473033,
         "qs_pg:id":473033,
         "wd:id":"Q6180441"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371930,
+    "wof:lastmodified":1566662927,
     "wof:name":"Jeppestown",
     "wof:parent_id":101925831,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.087479,
     "lbl:longitude":26.779498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.087479,
     "mps:longitude":26.779498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vierfontein"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-27.0972,
     "wd:longitude":26.7758,
     "wd:wordcount":75,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101926571,
-    "wof:lastmodified":1563373629,
+    "wof:lastmodified":1566664095,
     "wof:name":"Vierfontein",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

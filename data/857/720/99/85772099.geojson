@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.994689,
     "lbl:longitude":18.599188,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.989861,
     "mps:longitude":18.605633,
     "mz:hierarchy_label":1,
@@ -83,9 +84,6 @@
     "name:ukr_x_preferred":[
         "Crossroads"
     ],
-    "name:unk_x_variant":[
-        "Crossroads"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3369157,
@@ -115,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -127,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3369035,
         "gp:id":1580493,
-        "qs:id":40497,
         "qs_pg:id":40497
     },
     "wof:country":"ZA",
@@ -146,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193551,
+    "wof:lastmodified":1566662968,
     "wof:name":"Crossroads",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

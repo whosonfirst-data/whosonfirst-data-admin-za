@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.315946,
     "lbl:longitude":30.73928,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-30.315946,
     "mps:longitude":30.73928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Scottburgh"
     ],
@@ -50,9 +53,6 @@
     "name:ron_x_preferred":[
         "Scottburgh"
     ],
-    "name:unk_x_variant":[
-        "Scottsburgh"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u79d1\u7279\u5821"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":19.0,
     "wd:latitude":-30.283333,
@@ -88,10 +88,12 @@
     "wof:concordances":{
         "gn:id":956878,
         "gp:id":1587251,
-        "qs:id":275877,
         "qs_pg:id":233528,
         "wd:id":"Q933028",
         "wk:page":"Scottburgh"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275877
     },
     "wof:country":"ZA",
     "wof:geomhash":"ec90ec0fdf05c8aaa8da7781b0882654",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101929291,
-    "wof:lastmodified":1563373424,
+    "wof:lastmodified":1566663982,
     "wof:name":"Scottburgh",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

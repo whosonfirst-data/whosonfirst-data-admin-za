@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.761122,
     "lbl:longitude":30.056462,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mpumalanga",
     "meso:gadm_admin":"Gert Sibande",
     "meso:gadm_hasc2":"ZA.MP.GS",
@@ -31,6 +33,7 @@
     "mps:longitude":30.056462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Gert Sibande-distriksmunisipaliteit"
     ],
@@ -86,9 +89,9 @@
         "Gert Sibande District Municipality"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"31,846.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Secunda",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108730585,
-    "wof:lastmodified":1563372849,
+    "wof:lastmodified":1566663619,
     "wof:name":"Gert Sibande",
     "wof:parent_id":85688895,
     "wof:placetype":"county",

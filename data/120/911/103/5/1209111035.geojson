@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.68194,-31.94003,28.72194,-31.90003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":986373
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2cd2b074b222efb41885d883aeef7d26",
+    "wof:geomhash":"28e4f56707481aefc96d21b778ee8634",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209111035,
-    "wof:lastmodified":1536297407,
+    "wof:lastmodified":1566663397,
     "wof:name":"Ku-Mankazana",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.701940000000004,
+    28.70194,
     -31.92003,
-    28.701940000000004,
+    28.70194,
     -31.92003
 ],
   "geometry": {"coordinates":[28.70194,-31.92003],"type":"Point"}

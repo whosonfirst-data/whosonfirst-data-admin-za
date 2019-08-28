@@ -9,14 +9,17 @@
     "geom:bbox":"18.8162612915,-34.1654052734,18.8965950012,-34.0430755615",
     "geom:latitude":-34.094118,
     "geom:longitude":18.852285,
-    "geonames:id":"3367559,6692437",
+    "gn:id":"3367559,6692437",
     "iso:country":"ZA",
     "lbl:latitude":-34.071596,
     "lbl:longitude":18.852894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.071596,
     "mps:longitude":18.852894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gordonsbaai"
     ],
@@ -44,7 +47,7 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0434\u043e\u043d\u0441-\u0411\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fishhoek"
     ],
     "qs:a0":"South Africa",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-34.166667,
     "wd:longitude":18.866667,
     "wd:wordcount":563,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101928041,
-    "wof:lastmodified":1563373656,
+    "wof:lastmodified":1566664111,
     "wof:name":"Gordon's Bay",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

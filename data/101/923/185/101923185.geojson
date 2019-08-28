@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.175734,
     "lbl:longitude":29.248926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.175734,
     "mps:longitude":29.248926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Dalmeny"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.983,
     "wd:longitude":-3.37,
     "wd:wordcount":881,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101923185,
-    "wof:lastmodified":1564194738,
+    "wof:lastmodified":1566663906,
     "wof:name":"Dalmeny",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.244106,
     "lbl:longitude":28.257669,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.244106,
     "mps:longitude":28.257669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Boksburg"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1694.0,
     "wd:latitude":-26.216667,
@@ -140,7 +143,6 @@
         "fct:id":"14625a50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1017780,
         "gp:id":1579955,
-        "qs:id":240008,
         "qs_pg:id":240008,
         "wd:id":"Q891229",
         "wk:page":"Boksburg"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373373,
+    "wof:lastmodified":1566663960,
     "wof:name":"Boksburg",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

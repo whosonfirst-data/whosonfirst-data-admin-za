@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.17029,
     "lbl:longitude":29.71799,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-26.17029,
     "mps:longitude":29.71799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Hendrina"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.15,
     "wd:longitude":29.7167,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":996930,
         "gp:id":1582194,
-        "qs:id":84039,
         "qs_pg:id":84039,
         "wd:id":"Q2753004",
         "wk:page":"Hendrina"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101925841,
-    "wof:lastmodified":1563373343,
+    "wof:lastmodified":1566663943,
     "wof:name":"Hendrina",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.806012,
     "lbl:longitude":27.819742,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-26.806012,
     "mps:longitude":27.819742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Sasolburg"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.814167,
     "wd:longitude":27.828611,
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":957487,
         "gp:id":1587210,
-        "qs:id":130210,
-        "qs_pg:id":995449,
+        "qs_pg:id":130210,
         "wd:id":"Q963786",
         "wk:page":"Sasolburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":995449
     },
     "wof:country":"ZA",
     "wof:geomhash":"032ecf561e2c3207ff8981c461058dc9",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101926487,
-    "wof:lastmodified":1563373616,
+    "wof:lastmodified":1566664086,
     "wof:name":"Sasolburg",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

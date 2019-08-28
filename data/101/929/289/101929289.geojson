@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.20881,
     "lbl:longitude":30.797674,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-30.20881,
     "mps:longitude":30.797674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Umkomaas"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.201,
     "wd:longitude":30.794,
@@ -85,7 +88,6 @@
         "fct:id":"1463c05c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":946128,
         "gp:id":1588415,
-        "qs:id":7988,
         "qs_pg:id":7988,
         "wd:id":"Q2096887",
         "wk:page":"Umkomaas"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373390,
+    "wof:lastmodified":1566663969,
     "wof:name":"Umkomaas",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

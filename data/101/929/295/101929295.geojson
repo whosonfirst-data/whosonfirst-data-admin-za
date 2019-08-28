@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.311643,
     "lbl:longitude":30.667172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.311643,
     "mps:longitude":30.667172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Umzinto"
     ],
@@ -34,9 +37,6 @@
     "name:ron_x_preferred":[
         "Umzinto"
     ],
-    "name:unk_x_variant":[
-        "Umzinto"
-    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -51,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-30.316667,
     "wd:longitude":30.666667,
     "wd:wordcount":565,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101929295,
-    "wof:lastmodified":1563373397,
+    "wof:lastmodified":1566663972,
     "wof:name":"uMzinto",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.151045,
     "lbl:longitude":27.974334,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-26.151045,
     "mps:longitude":27.974334,
     "mz:hierarchy_label":1,
@@ -554,7 +556,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":1753.0,
     "wd:latitude":-26.145,
@@ -576,7 +578,6 @@
         "gp:id":1582504,
         "loc:id":"n79104288",
         "nyt:id":"N12338710593959915451",
-        "qs:id":809869,
         "qs_pg:id":809869,
         "wd:id":"Q34647",
         "wk:page":"Johannesburg"
@@ -596,7 +597,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373283,
+    "wof:lastmodified":1566663910,
     "wof:megacity":1,
     "wof:name":"Johannesburg",
     "wof:parent_id":1108730509,

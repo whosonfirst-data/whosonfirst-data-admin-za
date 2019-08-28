@@ -11,8 +11,10 @@
     "geom:longitude":26.22077,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"26.21577,-29.120663,26.22577,-29.110663",
     "lbl:latitude":-29.115663,
     "lbl:longitude":26.22077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.11428,
     "mps:longitude":26.224839,
     "mz:hierarchy_label":0,
@@ -156,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0434\u0440\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
-        "Arboretum"
-    ],
     "name:uzb_x_preferred":[
         "Dendrariy"
     ],
@@ -189,7 +188,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688915,
         102191573,
@@ -200,7 +199,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877911,
-        "qs:id":1311087,
         "qs_pg:id":1311087
     },
     "wof:country":"ZA",
@@ -219,7 +217,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193501,
+    "wof:lastmodified":1566662928,
     "wof:name":"Arboretum",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

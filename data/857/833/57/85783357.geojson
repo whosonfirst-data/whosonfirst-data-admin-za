@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6963978.859717,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.104645,-26.712493,27.104645,-26.712493",
     "geom:latitude":-26.712493,
     "geom:longitude":27.104645,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"27.099645,-26.717493,27.109645,-26.707493",
     "lbl:latitude":-26.712493,
     "lbl:longitude":27.104645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.715022,
     "mps:longitude":27.106384,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Van der Hoffpark"
-    ],
-    "name:unk_x_variant":[
         "Van der Hoffpark"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688931,
         102191573,
         85633813,
-        1108730609,
-        85688931
+        1108730609
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879677,
-        "qs:id":267553,
         "qs_pg:id":267553
     },
     "wof:country":"ZA",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860489,
+    "wof:lastmodified":1566662934,
     "wof:name":"Van der Hoffpark",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.802649,
     "lbl:longitude":30.615955,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-29.802649,
     "mps:longitude":30.615955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Mpumalanga"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
         "fct:id":"14633a56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":973111,
         "gp:id":1590735,
-        "qs:id":275883,
         "qs_pg:id":275883,
         "wd:id":"Q1005268",
         "wk:page":"Mpumalanga, KwaZulu-Natal"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373437,
+    "wof:lastmodified":1566663989,
     "wof:name":"Mpumalanga",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

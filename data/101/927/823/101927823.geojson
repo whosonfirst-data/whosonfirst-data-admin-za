@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.565384,
     "lbl:longitude":30.186229,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-29.565384,
     "mps:longitude":30.186229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Mpophomeni"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-29.568056,
     "wd:longitude":30.186111,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":973139,
         "gp:id":1585481,
-        "qs:id":945181,
         "qs_pg:id":945181,
         "wd:id":"Q2491104",
         "wk:page":"Mpophomeni"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101927823,
-    "wof:lastmodified":1563373501,
+    "wof:lastmodified":1566664026,
     "wof:name":"Mpophomeni",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.928285,
     "lbl:longitude":18.406475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.92513,
     "mps:longitude":18.403339,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:spa_x_preferred":[
         "Tamboerskloof"
     ],
-    "name:unk_x_variant":[
-        "Tamboerskloof"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3369157,
@@ -85,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-33.929167,
     "wd:longitude":18.404167,
     "wd:wordcount":164,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3360647,
         "gp:id":1587968,
-        "qs:id":906038,
         "qs_pg:id":906038,
         "wd:id":"Q3073402",
         "wk:page":"Tamboerskloof"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371962,
+    "wof:lastmodified":1566662942,
     "wof:name":"Tamboerskloof",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

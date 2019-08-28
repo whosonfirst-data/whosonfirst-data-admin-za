@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2706557.640412,
+    "geom:area_square_m":2706557.640413,
     "geom:bbox":"23.3404083252,-26.8060321808,23.3625259399,-26.7904567719",
     "geom:latitude":-26.797975,
     "geom:longitude":23.351967,
     "iso:country":"ZA",
     "lbl:latitude":-26.797736,
     "lbl:longitude":23.351967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.797736,
     "mps:longitude":23.351967,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Linopeng"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101924665,
-    "wof:lastmodified":1501216578,
+    "wof:lastmodified":1566663843,
     "wof:name":"Dinopeng",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",

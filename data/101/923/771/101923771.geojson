@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.849344,
     "lbl:longitude":29.795817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.849344,
     "mps:longitude":29.795817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Glen Cowie"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.84,
     "wd:longitude":29.804,
     "wd:wordcount":507,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101923771,
-    "wof:lastmodified":1561840228,
+    "wof:lastmodified":1566663875,
     "wof:name":"Glen Cowie",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

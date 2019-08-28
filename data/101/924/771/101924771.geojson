@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2716829.675244,
+    "geom:area_square_m":2716829.675243,
     "geom:bbox":"24.3931789398,-27.9065914154,24.4178695679,-27.8952503204",
     "geom:latitude":-27.900643,
     "geom:longitude":24.406177,
     "iso:country":"ZA",
     "lbl:latitude":-27.900754,
     "lbl:longitude":24.406177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.900754,
     "mps:longitude":24.406177,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Madepelesa"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101924771,
-    "wof:lastmodified":1501216577,
+    "wof:lastmodified":1566663822,
     "wof:name":"Madipelesa",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

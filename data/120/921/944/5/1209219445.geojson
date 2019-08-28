@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.66255,-30.92852,28.70255,-30.88852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":1005706
     },
     "wof:country":"ZA",
-    "wof:geomhash":"080792118554805ec374fe28a8432201",
+    "wof:geomhash":"c268937e4dcf3b1c790f19a2a0d81b19",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209219445,
-    "wof:lastmodified":1536294015,
+    "wof:lastmodified":1566663422,
     "wof:name":"eLundi",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     28.68255,
-    -30.908520000000006,
+    -30.90852000000001,
     28.68255,
-    -30.908520000000006
+    -30.90852000000001
 ],
   "geometry": {"coordinates":[28.68255,-30.90852000000001],"type":"Point"}
 }

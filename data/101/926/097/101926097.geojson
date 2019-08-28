@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.31841,
     "lbl:longitude":27.655375,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-26.31841,
     "mps:longitude":27.655375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Westonaria"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.317778,
     "wd:longitude":27.650556,
@@ -96,9 +99,11 @@
     "wof:concordances":{
         "gn:id":940316,
         "gp:id":1588860,
-        "qs:id":760653,
-        "qs_pg:id":1119001,
+        "qs_pg:id":760653,
         "wd:id":"Q2671197"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1119001
     },
     "wof:country":"ZA",
     "wof:geomhash":"b062179ec6f3c397fbb4338f627040d8",
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":101926097,
-    "wof:lastmodified":1563373574,
+    "wof:lastmodified":1566664063,
     "wof:name":"Westonaria",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7914818.05941,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.220479,-25.680883,28.220479,-25.680883",
     "geom:latitude":-25.680883,
     "geom:longitude":28.220479,
     "gn:latitude":-25.67629,
     "gn:longitude":28.21987,
     "iso:country":"ZA",
+    "lbl:bbox":"28.215479,-25.685883,28.225479,-25.675883",
     "lbl:latitude":-25.680883,
     "lbl:longitude":28.220479,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.664119,
     "mps:longitude":28.219848,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Sinoville"
-    ],
-    "name:unk_x_variant":[
         "Sinoville"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925421,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955487,
         "gp:id":1587505,
-        "qs:id":1077754,
         "qs_pg:id":1077754
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859547,
+    "wof:lastmodified":1566662942,
     "wof:name":"Sinoville",
     "wof:parent_id":101925421,
     "wof:placetype":"neighbourhood",

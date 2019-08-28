@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.772963,
     "lbl:longitude":24.524477,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-25.772963,
     "mps:longitude":24.524477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":933491,
         "gp:id":1265673,
-        "qs:id":130130
+        "qs_pg:id":130130
     },
     "wof:country":"ZA",
     "wof:geomhash":"4163f00aa27b73c4acbf79a90ad744d0",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101924633,
-    "wof:lastmodified":1505338704,
+    "wof:lastmodified":1566663812,
     "wof:name":"Mabule",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

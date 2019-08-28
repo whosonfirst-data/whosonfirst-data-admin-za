@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-28.40899,
     "lbl:longitude":24.393235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Northern Cape",
     "meso:gadm_admin":"Frances Baard",
     "meso:gadm_hasc2":"ZA.NC.FB",
@@ -31,6 +33,7 @@
     "mps:longitude":24.393235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Frances Baard-distriksmunisipaliteit"
     ],
@@ -80,9 +83,9 @@
         "\u5f17\u6717\u897f\u7d72\u00b7\u5df4\u723e\u5fb7\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"12,349.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Kimberley",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108730599,
-    "wof:lastmodified":1563372817,
+    "wof:lastmodified":1566663578,
     "wof:name":"Frances Baard",
     "wof:parent_id":85688899,
     "wof:placetype":"county",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.545694,
     "lbl:longitude":29.014765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.545694,
     "mps:longitude":29.014765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Libode"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":770.0,
     "wd:latitude":-31.533333,
     "wd:longitude":29.016667,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1175615681,
-    "wof:lastmodified":1563372868,
+    "wof:lastmodified":1566663630,
     "wof:name":"Libode",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

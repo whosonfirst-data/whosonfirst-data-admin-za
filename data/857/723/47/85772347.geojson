@@ -12,8 +12,10 @@
     "gn:latitude":-26.17498,
     "gn:longitude":28.00887,
     "iso:country":"ZA",
+    "lbl:bbox":"28.005642,-26.180853,28.015642,-26.170853",
     "lbl:latitude":-26.175853,
     "lbl:longitude":28.010642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.178644,
     "mps:longitude":28.010652,
     "mz:hierarchy_label":0,
@@ -98,9 +100,6 @@
     "name:swe_x_preferred":[
         "Melville"
     ],
-    "name:unk_x_variant":[
-        "Melville"
-    ],
     "name:vol_x_preferred":[
         "Melville"
     ],
@@ -134,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -146,7 +145,6 @@
     "wof:concordances":{
         "gn:id":7778854,
         "gp:id":1584881,
-        "qs:id":7830,
         "qs_pg:id":7830
     },
     "wof:country":"ZA",
@@ -165,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193532,
+    "wof:lastmodified":1566662949,
     "wof:name":"Melville",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

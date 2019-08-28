@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.666667,
     "lbl:longitude":27.243694,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-25.666667,
     "mps:longitude":27.243694,
     "mz:hierarchy_label":1,
@@ -333,7 +335,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1170.0,
     "wd:latitude":-25.659722,
@@ -349,10 +351,12 @@
     "wof:concordances":{
         "gn:id":958724,
         "gp:id":1591195,
-        "qs:id":232138,
-        "qs_pg:id":1119069,
+        "qs_pg:id":232138,
         "wd:id":"Q182049",
         "wk:page":"Rustenburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1119069
     },
     "wof:country":"ZA",
     "wof:geomhash":"7fb68ac269e9b2ea3cbb958fedd152e2",
@@ -366,7 +370,7 @@
         }
     ],
     "wof:id":101925429,
-    "wof:lastmodified":1563373351,
+    "wof:lastmodified":1566663947,
     "wof:name":"Rustenburg",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

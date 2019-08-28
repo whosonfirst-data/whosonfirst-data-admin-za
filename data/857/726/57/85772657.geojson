@@ -9,14 +9,15 @@
     "geom:bbox":"18.4020200749,-34.1027076875,18.4474144754,-34.0663119036",
     "geom:latitude":-34.082713,
     "geom:longitude":18.42856,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.07607,
     "gn:longitude":18.43792,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-34.078387,
     "lbl:longitude":18.449016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.079856,
     "mps:longitude":18.428916,
     "mz:hierarchy_label":1,
@@ -71,9 +72,6 @@
     "name:swe_x_preferred":[
         "Westlake"
     ],
-    "name:unk_x_variant":[
-        "Westlake"
-    ],
     "name:vol_x_preferred":[
         "Westlake"
     ],
@@ -124,7 +122,7 @@
     "qs_pg:woe_id":1588856,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":215,
     "wof:belongsto":[
         102191573,
@@ -136,7 +134,6 @@
     "wof:concordances":{
         "gn:id":3359461,
         "gp:id":1588856,
-        "qs:id":432826,
         "qs_pg:id":432826
     },
     "wof:country":"ZA",
@@ -154,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193541,
+    "wof:lastmodified":1566662958,
     "wof:name":"Westlake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

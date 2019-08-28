@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":1464969.196954,
+    "geom:area_square_m":2672216.753028,
     "geom:bbox":"30.8160457611,-28.1994419098,30.8486709595,-28.1784992218",
     "geom:latitude":-28.188479,
     "geom:longitude":30.830156,
     "iso:country":"ZA",
     "lbl:latitude":-28.190991,
     "lbl:longitude":30.82141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.190991,
     "mps:longitude":30.82141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Nondwene"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         101927621,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1175615683,
-    "wof:lastmodified":1534986008,
+    "wof:lastmodified":1566663631,
     "wof:name":"Nondweni",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"18.4447891063,-34.1003952744,18.4680175781,-34.0799620031",
     "geom:latitude":-34.089982,
     "geom:longitude":18.455991,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.08446,
     "gn:longitude":18.45583,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-34.090089,
     "lbl:longitude":18.459291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.09245,
     "mps:longitude":18.451151,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u043a\u0441\u0430\u0439\u0434"
     ],
-    "name:unk_x_variant":[
-        "Lakeside"
-    ],
     "name:vol_x_preferred":[
         "Lakeside"
     ],
@@ -127,7 +125,7 @@
     "qs_pg:woe_id":1583679,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -138,7 +136,6 @@
     "wof:concordances":{
         "gn:id":7910441,
         "gp:id":1583679,
-        "qs:id":118628,
         "qs_pg:id":118628
     },
     "wof:country":"ZA",
@@ -156,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193518,
+    "wof:lastmodified":1566662939,
     "wof:name":"Lakeside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.97249,
     "lbl:longitude":30.733249,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.97249,
     "mps:longitude":30.733249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Mondlo"
     ],
@@ -41,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0434\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Mondlo"
-    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.982778,
     "wd:longitude":30.7175,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":974670,
         "gp:id":1585280,
-        "qs:id":84022,
         "qs_pg:id":84022,
         "wd:id":"Q2611079",
         "wk:page":"Mondlo"
@@ -92,7 +91,7 @@
         }
     ],
     "wof:id":101927589,
-    "wof:lastmodified":1563373481,
+    "wof:lastmodified":1566664014,
     "wof:name":"eMondlo",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

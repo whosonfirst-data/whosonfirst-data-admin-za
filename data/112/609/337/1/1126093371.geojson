@@ -9,14 +9,17 @@
     "geom:bbox":"28.10165,-26.20304,28.10165,-26.20304",
     "geom:latitude":-26.20304,
     "geom:longitude":28.10165,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"28.09665,-26.20804,28.10665,-26.19804",
     "lbl:latitude":-26.20304,
     "lbl:longitude":28.10165,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Malvern"
@@ -57,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0432\u0435\u0440\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malvern East"
     ],
     "name:vol_x_preferred":[
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1584415,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Gauteng",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126093371,
-    "wof:lastmodified":1564195144,
+    "wof:lastmodified":1566664304,
     "wof:name":"Malvern",
     "wof:parent_id":101925831,
     "wof:placetype":"neighbourhood",

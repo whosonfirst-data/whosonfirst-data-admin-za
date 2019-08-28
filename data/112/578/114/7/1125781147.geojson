@@ -9,14 +9,18 @@
     "geom:bbox":"21.98378,-28.89531,21.98378,-28.89531",
     "geom:latitude":-28.89531,
     "geom:longitude":21.98378,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"21.96378,-28.91531,22.00378,-28.87531",
     "lbl:latitude":-28.89531,
     "lbl:longitude":21.98378,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Groblershoop"
@@ -45,7 +49,7 @@
     "name:ron_x_preferred":[
         "Groblershoop"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sternham"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
     "qs_pg:qs_id":1243003,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1125781147,
-    "wof:lastmodified":1563373995,
+    "wof:lastmodified":1566664320,
     "wof:name":"Groblershoop",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",

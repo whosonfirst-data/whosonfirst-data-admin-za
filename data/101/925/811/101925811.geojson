@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.16364,
     "lbl:longitude":28.310072,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-26.16364,
     "mps:longitude":28.310072,
     "mz:hierarchy_label":1,
@@ -249,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1645.0,
     "wd:latitude":-26.188333,
@@ -266,7 +268,6 @@
         "fct:id":"14624e2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1020098,
         "gp:id":1579744,
-        "qs:id":461093,
         "qs_pg:id":461093,
         "wd:id":"Q818106",
         "wk:page":"Benoni, Gauteng"
@@ -286,7 +287,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373294,
+    "wof:lastmodified":1566663914,
     "wof:megacity":1,
     "wof:name":"Benoni",
     "wof:parent_id":1108730507,

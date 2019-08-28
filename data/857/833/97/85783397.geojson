@@ -12,8 +12,10 @@
     "gn:latitude":-34.15,
     "gn:longitude":18.15,
     "iso:country":"ZA",
+    "lbl:bbox":"18.992498,-34.145352,19.002498,-34.135352",
     "lbl:latitude":-34.140352,
     "lbl:longitude":18.997498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.136814,
     "mps:longitude":18.995361,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0410\u0415\u0421 Steenbras"
-    ],
-    "name:unk_x_variant":[
-        "Steenbras"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPL",
@@ -70,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":215,
     "wof:belongsto":[
         85688905,
@@ -82,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3361055,
         "gp:id":55881514,
-        "qs:id":226047,
+        "qs_pg:id":226047,
         "wd:id":"Q7605880"
     },
     "wof:country":"ZA",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371949,
+    "wof:lastmodified":1566662936,
     "wof:name":"Steenbras",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

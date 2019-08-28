@@ -9,17 +9,19 @@
     "geom:bbox":"27.57422,-27.24179,27.57422,-27.24179",
     "geom:latitude":-27.24179,
     "geom:longitude":27.57422,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11445,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:population":11445,
     "iso:country":"ZA",
+    "lbl:bbox":"27.56922,-27.24679,27.57922,-27.23679",
     "lbl:latitude":-27.24179,
     "lbl:longitude":27.57422,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kopjes"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -39,18 +41,18 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":55880297,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Free State",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688915,
         102191573,
         85633813,
         101926599,
-        1108730537,
-        85688915
+        1108730537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1126097589,
-    "wof:lastmodified":1509411959,
+    "wof:lastmodified":1566664306,
     "wof:name":"Koppies Sh",
     "wof:parent_id":101926599,
     "wof:placetype":"neighbourhood",

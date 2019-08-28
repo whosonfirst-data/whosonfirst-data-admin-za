@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.662434,
     "lbl:longitude":18.507473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-31.662434,
     "mps:longitude":18.507473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Vredendal"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-31.664444,
     "wd:longitude":18.506111,
@@ -96,10 +99,12 @@
     "wof:concordances":{
         "gn:id":3359736,
         "gp:id":1591569,
-        "qs:id":848242,
-        "qs_pg:id":1002919,
+        "qs_pg:id":848242,
         "wd:id":"Q1341350",
         "wk:page":"Vredendal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1002919
     },
     "wof:country":"ZA",
     "wof:geomhash":"30aa2e02ada754801bad5c8e2850ed64",
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101927991,
-    "wof:lastmodified":1563373434,
+    "wof:lastmodified":1566663987,
     "wof:name":"Vredendal",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":28.015162,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.010162,-25.934405,28.020162,-25.924405",
     "lbl:latitude":-25.929405,
     "lbl:longitude":28.015162,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.936487,
     "mps:longitude":28.017992,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
         "Diepsloot"
     ],
     "name:spa_x_preferred":[
-        "Diepsloot"
-    ],
-    "name:unk_x_variant":[
         "Diepsloot"
     ],
     "name:xho_x_preferred":[
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877958,
-        "qs:id":230839,
         "qs_pg:id":230839
     },
     "wof:country":"ZA",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193503,
+    "wof:lastmodified":1566662929,
     "wof:name":"Diepsloot",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

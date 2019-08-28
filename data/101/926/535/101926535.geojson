@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.934032,
     "lbl:longitude":27.913715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.934032,
     "mps:longitude":27.913715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0627\u064a\u062f\u064a\u0632\u062f\u0627\u0644"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191573,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":1013200,
         "gp:id":1580401,
-        "qs:id":1300229,
         "qs_pg:id":1300229
     },
     "wof:country":"ZA",
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101926535,
-    "wof:lastmodified":1564194862,
+    "wof:lastmodified":1566664050,
     "wof:name":"Clydesdale",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

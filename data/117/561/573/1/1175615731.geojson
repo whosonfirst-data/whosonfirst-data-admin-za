@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.763885,
     "lbl:longitude":32.055499,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-28.763885,
     "mps:longitude":32.055499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Richardsbaai"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0447\u0430\u0440\u0434\u0441-\u0411\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Richardsbaai"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0686\u0631\u0688\u0632 \u0628\u06d2"
     ],
@@ -166,7 +166,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.782778,
     "wd:longitude":32.0375,
@@ -182,7 +182,6 @@
     "wof:concordances":{
         "gn:id":962367,
         "gp:id":1579491,
-        "qs:id":275878,
         "qs_pg:id":275878,
         "wd:id":"Q1471757",
         "wk:page":"Richards Bay"
@@ -199,7 +198,7 @@
         }
     ],
     "wof:id":1175615731,
-    "wof:lastmodified":1563372876,
+    "wof:lastmodified":1566663635,
     "wof:name":"Richards Bay",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

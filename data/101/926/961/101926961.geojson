@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.874308,
     "lbl:longitude":27.87605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.874308,
     "mps:longitude":27.87605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ficksburg"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":1628.0,
     "wd:latitude":-28.873694,
     "wd:longitude":27.878111,
@@ -92,10 +95,12 @@
     "wof:concordances":{
         "gn:id":1004303,
         "gp:id":1581270,
-        "qs:id":276199,
-        "qs_pg:id":900204,
+        "qs_pg:id":276199,
         "wd:id":"Q1014580",
         "wk:page":"Ficksburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":900204
     },
     "wof:country":"ZA",
     "wof:geomhash":"bdb466fb54015e0cee034f646c48fadd",
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":101926961,
-    "wof:lastmodified":1563373591,
+    "wof:lastmodified":1566664073,
     "wof:name":"Ficksburg",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

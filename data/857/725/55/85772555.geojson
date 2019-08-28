@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":15747524.848106,
+    "geom:area_square_m":15747524.84811,
     "geom:bbox":"18.3837352298,-34.0876873735,18.4271607431,-34.0267430462",
     "geom:latitude":-34.058144,
     "geom:longitude":18.403792,
@@ -15,6 +15,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.076271,
     "lbl:longitude":18.468078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.060153,
     "mps:longitude":18.405272,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Steenberg"
-    ],
-    "name:unk_x_variant":[
         "Steenberg"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":592,
     "wof:belongsto":[
         85688905,
@@ -76,9 +74,11 @@
         "fct:id":"1466eec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3361077,
         "gp:id":1587730,
-        "qs:id":237156,
-        "qs_pg:id":1118939,
+        "qs_pg:id":237156,
         "wd:id":"Q7605878"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118939
     },
     "wof:country":"ZA",
     "wof:geomhash":"5ab18e7b256f08cb2ae2019ee96a5f64",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639329,
+    "wof:lastmodified":1566662942,
     "wof:name":"Steenberg",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

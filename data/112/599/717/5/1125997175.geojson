@@ -9,15 +9,18 @@
     "geom:bbox":"21.58001,-34.20544,21.58001,-34.20544",
     "geom:latitude":-34.20544,
     "geom:longitude":21.58001,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":6372,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"21.56001,-34.22544,21.60001,-34.18544",
     "lbl:latitude":-34.20544,
     "lbl:longitude":21.58001,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Albertinia"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0456\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Albertiniahotel"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1579393,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125997175,
-    "wof:lastmodified":1563373887,
+    "wof:lastmodified":1566664260,
     "wof:name":"Albertina",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

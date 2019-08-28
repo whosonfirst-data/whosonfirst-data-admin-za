@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13415335.94903,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.799965,-30.205338,30.799965,-30.205338",
     "geom:latitude":-30.205338,
     "geom:longitude":30.799965,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"30.794965,-30.210338,30.804965,-30.200338",
     "lbl:latitude":-30.205338,
     "lbl:longitude":30.799965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.198808,
     "mps:longitude":30.802936,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Umbumbulu Farms"
-    ],
-    "name:unk_x_variant":[
         "Umbumbulu Farms"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101929289,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879372,
-        "qs:id":893083,
         "qs_pg:id":893083
     },
     "wof:country":"ZA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860486,
+    "wof:lastmodified":1566662935,
     "wof:name":"Umbumbulu Farms",
     "wof:parent_id":101929289,
     "wof:placetype":"neighbourhood",

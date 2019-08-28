@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.935151,
     "lbl:longitude":18.380593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.942328,
     "mps:longitude":18.376179,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
         "Clifton"
     ],
     "name:nld_x_preferred":[
-        "Clifton"
-    ],
-    "name:unk_x_variant":[
         "Clifton"
     ],
     "name:zho_x_preferred":[
@@ -82,8 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -95,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3369090,
         "gp:id":1589388,
-        "qs:id":1269128,
         "qs_pg:id":1269128,
         "wd:id":"Q2979103",
         "wk:page":"Clifton, Cape Town"
@@ -116,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372015,
+    "wof:lastmodified":1566662970,
     "wof:name":"Clifton",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

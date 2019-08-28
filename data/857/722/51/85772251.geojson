@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.912346,
     "lbl:longitude":18.507519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.906895,
     "mps:longitude":18.504515,
     "mz:hierarchy_label":1,
@@ -128,9 +129,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0441\u0456\u043d\u0433\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Kensington"
-    ],
     "name:vie_x_preferred":[
         "Kensington"
     ],
@@ -166,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -178,7 +176,6 @@
     "wof:concordances":{
         "gn:id":3365998,
         "gp:id":1582715,
-        "qs:id":1013467,
         "qs_pg:id":1013467
     },
     "wof:country":"ZA",
@@ -197,7 +194,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193517,
+    "wof:lastmodified":1566662938,
     "wof:name":"Kensington",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

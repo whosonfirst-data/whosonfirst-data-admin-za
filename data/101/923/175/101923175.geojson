@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.130028,
     "lbl:longitude":28.703842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.130028,
     "mps:longitude":28.703842,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vergelegen"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":545,
     "wof:belongsto":[
         102191573,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101923175,
-    "wof:lastmodified":1563373235,
+    "wof:lastmodified":1566663876,
     "wof:name":"Vergelegen",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.683127,
     "lbl:longitude":25.462815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.683127,
     "mps:longitude":25.462815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Delareyville"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.683333,
     "wd:longitude":25.466667,
     "wd:wordcount":97,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":1011062,
         "gp:id":1580641,
-        "qs:id":1243007,
         "qs_pg:id":1243007,
         "wd:id":"Q2082049",
         "wk:page":"Delareyville"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101926423,
-    "wof:lastmodified":1563373563,
+    "wof:lastmodified":1566664057,
     "wof:name":"Delareyville",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

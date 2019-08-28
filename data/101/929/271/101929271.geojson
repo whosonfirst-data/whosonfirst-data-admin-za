@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":8492566.349572,
+    "geom:area_square_m":8492566.34957,
     "geom:bbox":"30.8366889954,-30.0407104492,30.9056434631,-30.0089569092",
     "geom:latitude":-30.026224,
     "geom:longitude":30.870495,
     "iso:country":"ZA",
     "lbl:latitude":-30.026654,
     "lbl:longitude":30.873891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.026654,
     "mps:longitude":30.873891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kwamakhutha"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -64,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1500027556,
+    "wof:lastmodified":1566663980,
     "wof:name":"Kwamakhutha",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.7471,
     "lbl:longitude":32.068344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.7471,
     "mps:longitude":32.068344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arboretum"
     ],
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0434\u0440\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aboretum"
     ],
     "name:uzb_x_preferred":[
@@ -171,7 +174,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5369,
     "wof:belongsto":[
         102191573,
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":101927699,
-    "wof:lastmodified":1563373512,
+    "wof:lastmodified":1566664031,
     "wof:name":"Arboretum",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

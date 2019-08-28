@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":4883983.457578,
+    "geom:area_square_m":4883983.457579,
     "geom:bbox":"27.8339195251,-26.7830505371,27.8548278809,-26.7545108795",
     "geom:latitude":-26.769121,
     "geom:longitude":27.844269,
     "iso:country":"ZA",
     "lbl:latitude":-26.770652,
     "lbl:longitude":27.845116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.770652,
     "mps:longitude":27.845116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Elizna Naud\u00e9"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":945260,
         "gp:id":1588496,
-        "qs:id":1171612,
         "qs_pg:id":1171612
     },
     "wof:country":"ZA",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101926473,
-    "wof:lastmodified":1497292797,
+    "wof:lastmodified":1566664086,
     "wof:name":"Vaalpark",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

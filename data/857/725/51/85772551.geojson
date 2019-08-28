@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000411,
-    "geom:area_square_m":4214417.423229,
+    "geom:area_square_m":4214417.423227,
     "geom:bbox":"18.4496531985,-34.0708623238,18.4797312999,-34.050383631",
     "geom:latitude":-34.060604,
     "geom:longitude":18.465803,
@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.061764,
     "lbl:longitude":18.475076,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.060345,
     "mps:longitude":18.46702,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Square Hill"
-    ],
-    "name:unk_x_variant":[
         "Square Hill"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -73,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3361101,
         "gp:id":1587715,
-        "qs:id":1093015,
         "qs_pg:id":1093015
     },
     "wof:country":"ZA",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497315373,
+    "wof:lastmodified":1566662940,
     "wof:name":"Square Hill",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

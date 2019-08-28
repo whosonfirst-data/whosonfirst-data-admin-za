@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3344219.696791,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.995178,-29.952555,30.995178,-29.952555",
     "geom:latitude":-29.952555,
     "geom:longitude":30.995178,
     "gn:latitude":-29.94662,
     "gn:longitude":30.99467,
     "iso:country":"ZA",
+    "lbl:bbox":"30.990178,-29.957555,31.000178,-29.947555",
     "lbl:latitude":-29.952555,
     "lbl:longitude":30.995178,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.952555,
     "mps:longitude":30.995178,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Treasure Beach"
-    ],
-    "name:unk_x_variant":[
         "Treasure Beach"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,9 +60,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":488,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191573
     ],
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":948208,
         "gp:id":1588195,
-        "qs:id":1093016,
         "qs_pg:id":1093016
     },
     "wof:country":"ZA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859551,
+    "wof:lastmodified":1566662940,
     "wof:name":"Treasure Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

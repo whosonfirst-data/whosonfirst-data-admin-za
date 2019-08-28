@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":821638.681247,
+    "geom:area_square_m":821638.681246,
     "geom:bbox":"29.7936038971,-30.8740158081,29.8071842194,-30.8620510101",
     "geom:latitude":-30.86748,
     "geom:longitude":29.801049,
     "iso:country":"ZA",
     "lbl:latitude":-30.867372,
     "lbl:longitude":29.801512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.867372,
     "mps:longitude":29.801512,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1019264,
         "gp:id":1589242,
-        "qs:id":276206
+        "qs_pg:id":276206
     },
     "wof:country":"ZA",
     "wof:geomhash":"6797e22ec2d2504eba1ab5ef317fd00f",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101928449,
-    "wof:lastmodified":1500027914,
+    "wof:lastmodified":1566664111,
     "wof:name":"Mbizana",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",

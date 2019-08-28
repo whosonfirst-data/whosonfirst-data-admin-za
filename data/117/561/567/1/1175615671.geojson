@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.498474,
     "lbl:longitude":29.166054,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-26.498474,
     "mps:longitude":29.166054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Secunda"
     ],
@@ -148,7 +151,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-26.55,
     "wd:longitude":29.166667,
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":956767,
         "gp:id":1591643,
-        "qs:id":275876,
         "qs_pg:id":275876,
         "wd:id":"Q2110377",
         "wk:page":"Secunda, Mpumalanga"
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":1175615671,
-    "wof:lastmodified":1563372859,
+    "wof:lastmodified":1566663627,
     "wof:name":"Secunda",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

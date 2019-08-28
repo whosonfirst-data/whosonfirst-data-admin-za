@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.790771,
     "lbl:longitude":29.496487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.790771,
     "mps:longitude":29.496487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Underberg"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.783333,
     "wd:longitude":29.5,
     "wd:wordcount":383,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":945995,
         "gp:id":1588437,
-        "qs:id":1221057,
         "qs_pg:id":1221057,
         "wd:id":"Q1003352",
         "wk:page":"Underberg, KwaZulu-Natal"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101927149,
-    "wof:lastmodified":1563373537,
+    "wof:lastmodified":1566664044,
     "wof:name":"Underberg",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",

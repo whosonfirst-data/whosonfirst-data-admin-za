@@ -12,8 +12,10 @@
     "gn:latitude":-25.77586,
     "gn:longitude":28.21795,
     "iso:country":"ZA",
+    "lbl:bbox":"28.21189,-25.781645,28.22189,-25.771645",
     "lbl:latitude":-25.776645,
     "lbl:longitude":28.21689,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.786684,
     "mps:longitude":28.207205,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Groenkloof"
     ],
     "name:nld_x_preferred":[
-        "Groenkloof"
-    ],
-    "name:unk_x_variant":[
         "Groenkloof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-25.775108,
     "wd:longitude":28.217956,
     "wd:wordcount":319,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gn:id":6295617,
         "gp:id":55877997,
-        "qs:id":961553,
         "qs_pg:id":961553,
         "wd:id":"Q2566863",
         "wk:page":"Groenkloof"
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371988,
+    "wof:lastmodified":1566662955,
     "wof:name":"Groenkloof",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

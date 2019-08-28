@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.123375,
     "lbl:longitude":28.259772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.123375,
     "mps:longitude":28.259772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bonaeropark"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.1231,
     "wd:longitude":28.2556,
     "wd:wordcount":361,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":7290084,
         "gp:id":55878305,
-        "qs:id":887151,
+        "qs_pg:id":887151,
         "wd:id":"Q4941079",
         "wk:page":"Bonaero Park"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101925773,
-    "wof:lastmodified":1561840235,
+    "wof:lastmodified":1566663962,
     "wof:name":"Bonaero Park",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

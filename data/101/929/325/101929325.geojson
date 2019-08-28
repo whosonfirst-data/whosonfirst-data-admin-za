@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.84866,
     "lbl:longitude":30.370414,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-30.84866,
     "mps:longitude":30.370414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Margate"
     ],
@@ -56,7 +59,7 @@
     "name:spa_x_preferred":[
         "Margate"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berkleys"
     ],
     "qs:a0":"South Africa",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-30.850833,
     "wd:longitude":30.380556,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":978895,
         "gp:id":1584571,
-        "qs:id":223103,
         "qs_pg:id":223103,
         "wd:id":"Q631231",
         "wk:page":"Margate, KwaZulu-Natal"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101929325,
-    "wof:lastmodified":1563373409,
+    "wof:lastmodified":1566663975,
     "wof:name":"Margate",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

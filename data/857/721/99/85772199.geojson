@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.965067,
     "lbl:longitude":18.546459,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.97542,
     "mps:longitude":18.549357,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Heideveld"
     ],
     "name:nld_x_preferred":[
-        "Heideveld"
-    ],
-    "name:unk_x_variant":[
         "Heideveld"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -67,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-33.966667,
     "wd:longitude":18.55,
     "wd:wordcount":158,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3366930,
         "gp:id":1582170,
-        "qs:id":894372,
         "qs_pg:id":894372,
         "wd:id":"Q5698789",
         "wk:page":"Heideveld"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372004,
+    "wof:lastmodified":1566662965,
     "wof:name":"Heideveld",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

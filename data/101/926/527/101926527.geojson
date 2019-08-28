@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000913,
-    "geom:area_square_m":10065972.894509,
+    "geom:area_square_m":10065972.894512,
     "geom:bbox":"26.5721683502,-26.9179573059,26.6142520905,-26.8764438629",
     "geom:latitude":-26.895429,
     "geom:longitude":26.596115,
     "iso:country":"ZA",
     "lbl:latitude":-26.894964,
     "lbl:longitude":26.596434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.894964,
     "mps:longitude":26.596434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":993611,
         "gp:id":1582519,
-        "qs:id":383919,
         "qs_pg:id":383919
     },
     "wof:country":"ZA",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":101926527,
-    "wof:lastmodified":1497295538,
+    "wof:lastmodified":1566664069,
     "wof:name":"Jouberton",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

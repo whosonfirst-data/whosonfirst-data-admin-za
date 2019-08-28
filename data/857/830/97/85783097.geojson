@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4675792.031256,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.148966,-25.878787,28.148966,-25.878787",
     "geom:latitude":-25.878787,
     "geom:longitude":28.148966,
     "gn:latitude":-25.89428,
     "gn:longitude":28.15076,
     "iso:country":"ZA",
+    "lbl:bbox":"28.143966,-25.883787,28.153966,-25.873787",
     "lbl:latitude":-25.878787,
     "lbl:longitude":28.148966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.871581,
     "mps:longitude":28.157959,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Rooihuiskraal"
     ],
     "name:eng_x_preferred":[
-        "Rooihuiskraal North"
-    ],
-    "name:unk_x_variant":[
         "Rooihuiskraal North"
     ],
     "qs:gn_fcode":"PPL",
@@ -63,19 +62,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959931,
         "gp:id":1586996,
-        "qs:id":1312126,
         "qs_pg:id":43569
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1312126
     },
     "wof:country":"ZA",
     "wof:geomhash":"d068fe1c03fe7588248e41afca5a02bf",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860453,
+    "wof:lastmodified":1566662957,
     "wof:name":"Rooihuiskraal North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

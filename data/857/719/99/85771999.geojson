@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7248404.644267,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.981528,-29.877383,30.981528,-29.877383",
     "geom:latitude":-29.877383,
     "geom:longitude":30.981528,
     "gn:latitude":-29.89168,
     "gn:longitude":30.98996,
     "iso:country":"ZA",
+    "lbl:bbox":"30.976528,-29.882383,30.986528,-29.872383",
     "lbl:latitude":-29.877383,
     "lbl:longitude":30.981528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.882945,
     "mps:longitude":30.977319,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Bayhead"
-    ],
-    "name:unk_x_variant":[
         "Bayhead"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":31,
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1020733,
         "gp:id":1579672,
-        "qs:id":1187838,
         "qs_pg:id":1187838,
         "wd:id":"Q4874532"
     },
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859498,
+    "wof:lastmodified":1566662963,
     "wof:name":"Bayhead",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

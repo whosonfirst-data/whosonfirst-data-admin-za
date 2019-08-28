@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-30.389361,
     "lbl:longitude":28.892504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Cape",
     "meso:gadm_admin":"Alfred Nzo",
     "meso:gadm_hasc2":"ZA.EC.AN",
@@ -31,6 +33,7 @@
     "mps:longitude":28.892504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Alfred Nzo-distriksmunisipaliteit"
     ],
@@ -95,9 +98,9 @@
         "\u963f\u723e\u5f17\u96f7\u5fb7\u00b7\u6069\u4f50\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"7,870.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Mount Ayliff",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108730525,
-    "wof:lastmodified":1563372800,
+    "wof:lastmodified":1566663557,
     "wof:name":"Alfred Nzo",
     "wof:parent_id":85688927,
     "wof:placetype":"county",

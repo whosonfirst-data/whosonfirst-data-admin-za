@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.912502,
     "lbl:longitude":27.041539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.912502,
     "mps:longitude":27.041539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Derby"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":1010821,
         "gp:id":1580661,
-        "qs:id":29082,
         "qs_pg:id":29082,
         "wd:id":"Q5261400"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101925597,
-    "wof:lastmodified":1563373336,
+    "wof:lastmodified":1566663938,
     "wof:name":"Derby",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

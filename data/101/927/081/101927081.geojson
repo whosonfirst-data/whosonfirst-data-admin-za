@@ -9,14 +9,17 @@
     "geom:bbox":"26.6680831909,-29.2291030884,26.731798172,-29.1983909607",
     "geom:latitude":-29.21614,
     "geom:longitude":26.698473,
-    "geonames:id":"1016670,1016671",
+    "gn:id":"1016670,1016671",
     "iso:country":"ZA",
     "lbl:latitude":-29.216902,
     "lbl:longitude":26.692681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.216902,
     "mps:longitude":26.692681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Botshabelo"
     ],
@@ -160,7 +163,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":679,
     "wof:belongsto":[
         102191573,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101927081,
-    "wof:lastmodified":1563373503,
+    "wof:lastmodified":1566664026,
     "wof:name":"Botshabelo",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

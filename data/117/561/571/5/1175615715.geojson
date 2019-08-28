@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.077152,
     "lbl:longitude":29.107284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.077152,
     "mps:longitude":29.107284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Indermark"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-23.08,
     "wd:longitude":29.105,
     "wd:wordcount":20,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1175615715,
-    "wof:lastmodified":1561840218,
+    "wof:lastmodified":1566663642,
     "wof:name":"Indermark",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

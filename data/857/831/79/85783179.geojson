@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5888489.178577,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.140774,-26.164101,28.140774,-26.164101",
     "geom:latitude":-26.164101,
     "geom:longitude":28.140774,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.135774,-26.169101,28.145774,-26.159101",
     "lbl:latitude":-26.164101,
     "lbl:longitude":28.140774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.162566,
     "mps:longitude":28.140463,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Essexwold"
-    ],
-    "name:unk_x_variant":[
         "Essexwold"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925733,
-        1108730507,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878845,
-        "qs:id":974147,
         "qs_pg:id":974147
     },
     "wof:country":"ZA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860464,
+    "wof:lastmodified":1566662953,
     "wof:name":"Essexwold",
     "wof:parent_id":101925733,
     "wof:placetype":"neighbourhood",

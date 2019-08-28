@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.855508,
     "lbl:longitude":26.365519,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-27.855508,
     "mps:longitude":26.365519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Wesselsbron"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-27.85,
     "wd:longitude":26.366667,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":940424,
         "gp:id":1588833,
-        "qs:id":84005,
         "qs_pg:id":84005,
         "wd:id":"Q2234104",
         "wk:page":"Wesselsbron"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101926703,
-    "wof:lastmodified":1563373598,
+    "wof:lastmodified":1566664076,
     "wof:name":"Wesselsbron",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2991865.881617,
+    "geom:area_square_m":0.0,
     "geom:bbox":"26.18866,-29.109491,26.18866,-29.109491",
     "geom:latitude":-29.109491,
     "geom:longitude":26.18866,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"26.18366,-29.114491,26.19366,-29.104491",
     "lbl:latitude":-29.109491,
     "lbl:longitude":26.18866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.105927,
     "mps:longitude":26.18693,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Park West"
-    ],
-    "name:unk_x_variant":[
         "Park West"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -57,19 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":30,
     "wof:belongsto":[
+        85688915,
         102191573,
         85633813,
         101927069,
-        1108730539,
-        85688915
+        1108730539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878094,
-        "qs:id":383273,
         "qs_pg:id":383273
     },
     "wof:country":"ZA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860451,
+    "wof:lastmodified":1566662957,
     "wof:name":"Park West",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

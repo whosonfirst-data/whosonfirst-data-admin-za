@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.509367,
     "lbl:longitude":30.003914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.509367,
     "mps:longitude":30.003914,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ermelo"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.533333,
     "wd:longitude":29.983333,
     "wd:wordcount":675,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101927375,
-    "wof:lastmodified":1563373535,
+    "wof:lastmodified":1566664043,
     "wof:name":"Wesselton",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

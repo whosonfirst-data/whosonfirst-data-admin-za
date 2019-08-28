@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.700039,
     "lbl:longitude":28.159757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.700039,
     "mps:longitude":28.159757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mountain View"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":247,
     "wof:belongsto":[
         102191573,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101925439,
-    "wof:lastmodified":1563373307,
+    "wof:lastmodified":1566663921,
     "wof:name":"Mountain View",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

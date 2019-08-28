@@ -11,8 +11,10 @@
     "geom:longitude":28.008066,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.003066,-26.014007,28.013066,-26.004007",
     "lbl:latitude":-26.009007,
     "lbl:longitude":28.008066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.00749,
     "mps:longitude":27.999848,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Witkoppen"
     ],
     "name:nld_x_preferred":[
-        "Witkoppen"
-    ],
-    "name:unk_x_variant":[
         "Witkoppen"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.011,
     "wd:longitude":28.005,
     "wd:wordcount":18,
@@ -80,7 +79,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55864715,
-        "qs:id":1336020,
         "qs_pg:id":1336020,
         "wd:id":"Q8028322"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371938,
+    "wof:lastmodified":1566662931,
     "wof:name":"Witkoppen",
     "wof:parent_id":101925679,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.741696,
     "lbl:longitude":28.535405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.741696,
     "mps:longitude":28.535405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rayton"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.739444,
     "wd:longitude":28.528889,
     "wd:wordcount":412,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":963049,
         "gp:id":1586815,
-        "qs:id":1170420,
         "qs_pg:id":1170420,
         "wd:id":"Q3644375",
         "wk:page":"Rayton"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101925475,
-    "wof:lastmodified":1563373348,
+    "wof:lastmodified":1566663945,
     "wof:name":"Rayton",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

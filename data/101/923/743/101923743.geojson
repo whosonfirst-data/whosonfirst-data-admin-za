@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.775197,
     "lbl:longitude":27.731871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.775197,
     "mps:longitude":27.731871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rooiberg"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.776,
     "wd:longitude":27.738,
     "wd:wordcount":66,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":960144,
         "gp:id":1586983,
-        "qs:id":460315,
         "qs_pg:id":460315,
         "wd:id":"Q7366177"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101923743,
-    "wof:lastmodified":1561840229,
+    "wof:lastmodified":1566663898,
     "wof:name":"Rooiberg",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

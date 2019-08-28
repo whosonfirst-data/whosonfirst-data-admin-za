@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":4136290.624063,
+    "geom:area_square_m":4136290.624062,
     "geom:bbox":"25.7864303589,-25.3205471039,25.8166770935,-25.2965583801",
     "geom:latitude":-25.309843,
     "geom:longitude":25.800343,
     "iso:country":"ZA",
     "lbl:latitude":-25.31101,
     "lbl:longitude":25.800343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.31101,
     "mps:longitude":25.800343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Gopani"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101925149,
-    "wof:lastmodified":1501216580,
+    "wof:lastmodified":1566663964,
     "wof:name":"Gopane",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

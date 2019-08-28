@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-32.892432,
     "lbl:longitude":27.52997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.892432,
     "mps:longitude":27.52997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ilitha"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191573,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101929115,
-    "wof:lastmodified":1563373427,
+    "wof:lastmodified":1566663984,
     "wof:name":"Ilitha",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",

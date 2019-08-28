@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.816919,
     "lbl:longitude":30.653633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.816919,
     "mps:longitude":30.653633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mpumalanga"
     ],
@@ -53,9 +56,6 @@
     "name:rus_x_preferred":[
         "\u041c\u043f\u0443\u043c\u0430\u043b\u0430\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "Hammersdale"
-    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -84,7 +84,6 @@
         "fct:id":"1462c972-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":998080,
         "gp:id":1582080,
-        "qs:id":193852,
         "qs_pg:id":193852,
         "wd:id":"Q1005268"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373477,
+    "wof:lastmodified":1566664013,
     "wof:name":"Hammarsdale",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.860645,
     "lbl:longitude":29.453418,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-23.860645,
     "mps:longitude":29.453418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Polokwane"
     ],
@@ -262,7 +265,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -274,7 +277,7 @@
     "wof:concordances":{
         "gn:id":965289,
         "gp:id":12517460,
-        "qs:id":1030268,
+        "qs_pg:id":1030268,
         "wd:id":"Q131662",
         "wk:page":"Polokwane"
     },
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":101923475,
-    "wof:lastmodified":1563373254,
+    "wof:lastmodified":1566663889,
     "wof:name":"Pietersburg",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

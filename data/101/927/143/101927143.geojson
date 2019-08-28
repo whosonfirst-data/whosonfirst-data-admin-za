@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.748099,
     "lbl:longitude":29.516984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.748099,
     "mps:longitude":29.516984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Himeville"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-29.75,
     "wd:longitude":29.5,
     "wd:wordcount":527,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":996409,
         "gp:id":1582258,
-        "qs:id":244420,
         "qs_pg:id":244420,
         "wd:id":"Q1619054",
         "wk:page":"Himeville"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101927143,
-    "wof:lastmodified":1563373476,
+    "wof:lastmodified":1566664013,
     "wof:name":"Himeville",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",

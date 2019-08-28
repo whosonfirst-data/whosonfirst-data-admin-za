@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-26.701793,
     "lbl:longitude":25.477234,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"North West",
     "mps:latitude":-26.689081,
     "mps:longitude":25.501592,
@@ -232,7 +233,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e-\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North-West"
     ],
     "name:urd_x_preferred":[
@@ -334,9 +335,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"104,882",
     "statoids:area_mi":"40,495",
     "statoids:as_of_date":"2001-10-10",
@@ -390,11 +391,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740294,
+    "wof:lastmodified":1566662999,
     "wof:name":"North West",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":3509953,
     "wof:population_rank":12,

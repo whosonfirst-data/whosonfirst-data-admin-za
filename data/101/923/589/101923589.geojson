@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.184187,
     "lbl:longitude":29.009686,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-24.184187,
     "mps:longitude":29.009686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Mokopane"
     ],
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u043e\u043f\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potgietersrust"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -186,10 +189,12 @@
     "wof:concordances":{
         "gn:id":964315,
         "gp:id":1586629,
-        "qs:id":130212,
-        "qs_pg:id":492983,
+        "qs_pg:id":130212,
         "wd:id":"Q326927",
         "wk:page":"Mokopane"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":492983
     },
     "wof:country":"ZA",
     "wof:geomhash":"6902eb9b06063aef0dc6325815858da2",
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":101923589,
-    "wof:lastmodified":1563373237,
+    "wof:lastmodified":1566663878,
     "wof:name":"Potgietersrus",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",

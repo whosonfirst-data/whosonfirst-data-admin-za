@@ -12,8 +12,10 @@
     "gn:latitude":-25.7464,
     "gn:longitude":28.18714,
     "iso:country":"ZA",
+    "lbl:bbox":"28.182894,-25.753651,28.192894,-25.743651",
     "lbl:latitude":-25.748651,
     "lbl:longitude":28.187894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.749761,
     "mps:longitude":28.186535,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:spa_x_preferred":[
         "Prisi\u00f3n Central de Pretoria"
     ],
-    "name:unk_x_variant":[
-        "Pretoria Central"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":964137,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":219,
     "wof:belongsto":[
         85688923,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":7870452,
         "gp:id":55878104,
-        "qs:id":1209100,
         "qs_pg:id":1209100,
         "wd:id":"Q7242170"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371991,
+    "wof:lastmodified":1566662957,
     "wof:name":"Pretoria Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

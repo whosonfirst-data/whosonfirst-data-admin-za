@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7205860.362562,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.181425,-25.776363,28.181425,-25.776363",
     "geom:latitude":-25.776363,
     "geom:longitude":28.181425,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.176425,-25.781363,28.186425,-25.771363",
     "lbl:latitude":-25.776363,
     "lbl:longitude":28.181425,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.775863,
     "mps:longitude":28.171669,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Skanskop"
-    ],
-    "name:unk_x_variant":[
         "Skanskop"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,17 +59,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878135,
-        "qs:id":221887,
         "qs_pg:id":221887
     },
     "wof:country":"ZA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860455,
+    "wof:lastmodified":1566662952,
     "wof:name":"Skanskop",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

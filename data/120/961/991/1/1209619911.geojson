@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.71608,-31.08014,29.75608,-31.04014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":977439
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9328586ce56cf65cebff86e8119b6f59",
+    "wof:geomhash":"20261e3949c30c98f756c8ac445e9730",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209619911,
-    "wof:lastmodified":1536281555,
+    "wof:lastmodified":1566663373,
     "wof:name":"Mcwati",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     29.73608,
-    -31.060140000000004,
+    -31.06014,
     29.73608,
-    -31.060140000000004
+    -31.06014
 ],
   "geometry": {"coordinates":[29.73608,-31.06014],"type":"Point"}
 }

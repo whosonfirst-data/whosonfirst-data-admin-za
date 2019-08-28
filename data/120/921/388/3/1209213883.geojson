@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.58696,-31.49034,25.62696,-31.45034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":981566
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cde5b8e58f513a45c43ff33f4f107a0c",
+    "wof:geomhash":"7687d648165187c1ff934d007ed4bc5f",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209213883,
-    "wof:lastmodified":1536294199,
+    "wof:lastmodified":1566663422,
     "wof:name":"Lucernedale",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     25.60696,
-    -31.470340000000004,
+    -31.47034,
     25.60696,
-    -31.470340000000004
+    -31.47034
 ],
   "geometry": {"coordinates":[25.60696,-31.47034],"type":"Point"}
 }

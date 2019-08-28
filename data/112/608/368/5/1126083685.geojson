@@ -9,21 +9,21 @@
     "geom:bbox":"31.01123,-29.83705,31.01123,-29.83705",
     "geom:latitude":-29.83705,
     "geom:longitude":31.01123,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-29.83495,
     "gn:longitude":31.00561,
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"31.00623,-29.84205,31.01623,-29.83205",
     "lbl:latitude":-29.83705,
     "lbl:longitude":31.01123,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Essenwood"
-    ],
-    "name:unk_x_variant":[
         "Essenwood"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1581198,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Kwazulu Natal",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1004985,
         "gp:id":1581198,
-        "qs:id":189324,
         "qs_pg:id":189324
     },
     "wof:country":"ZA",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126083685,
-    "wof:lastmodified":1534379836,
+    "wof:lastmodified":1566664283,
     "wof:name":"Essenwood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

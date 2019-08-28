@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6333896.617185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.277872,-25.721157,28.277872,-25.721157",
     "geom:latitude":-25.721157,
     "geom:longitude":28.277872,
     "gn:latitude":-25.25,
     "gn:longitude":27.95,
     "iso:country":"ZA",
+    "lbl:bbox":"28.272872,-25.726157,28.282872,-25.716157",
     "lbl:latitude":-25.721157,
     "lbl:longitude":28.277872,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.733442,
     "mps:longitude":28.272432,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Koedoespoort"
-    ],
-    "name:unk_x_variant":[
         "Koedoespoort"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":988567,
         "gp:id":55878023,
-        "qs:id":204791,
         "qs_pg:id":204791
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860444,
+    "wof:lastmodified":1566662955,
     "wof:name":"Koedoespoort",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

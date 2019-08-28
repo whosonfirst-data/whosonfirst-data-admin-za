@@ -11,8 +11,10 @@
     "geom:longitude":28.281555,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"28.276555,-25.780161,28.286555,-25.770161",
     "lbl:latitude":-25.775161,
     "lbl:longitude":28.281555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.773963,
     "mps:longitude":28.293479,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Lynnwood Glen"
     ],
     "name:eng_x_preferred":[
-        "Lynnwood Glen"
-    ],
-    "name:unk_x_variant":[
         "Lynnwood Glen"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878040,
-        "qs:id":1339630,
         "qs_pg:id":1339630
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193539,
+    "wof:lastmodified":1566662957,
     "wof:name":"Lynnwood Glen",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

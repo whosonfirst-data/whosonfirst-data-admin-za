@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3809925.858503,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.252487,-25.727952,28.252487,-25.727952",
     "geom:latitude":-25.727952,
     "geom:longitude":28.252487,
     "gn:latitude":-25.72969,
     "gn:longitude":28.25323,
     "iso:country":"ZA",
+    "lbl:bbox":"28.247487,-25.732952,28.257487,-25.722952",
     "lbl:latitude":-25.727952,
     "lbl:longitude":28.252487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.726013,
     "mps:longitude":28.247491,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Queenswood"
-    ],
-    "name:unk_x_variant":[
         "Queenswood"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925471,
-        1108730545,
-        85688923
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963514,
         "gp:id":1586730,
-        "qs:id":1187883,
         "qs_pg:id":1187883
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859540,
+    "wof:lastmodified":1566662944,
     "wof:name":"Queenswood",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.100634,
     "lbl:longitude":26.311385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.100634,
     "mps:longitude":26.311385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0648\u0627\u0649"
     ],
@@ -117,7 +120,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":644,
     "wof:belongsto":[
         102191573,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101927023,
-    "wof:lastmodified":1564194816,
+    "wof:lastmodified":1566663993,
     "wof:name":"Midway",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

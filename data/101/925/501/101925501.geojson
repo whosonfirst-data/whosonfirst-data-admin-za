@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.776274,
     "lbl:longitude":28.334136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.776274,
     "mps:longitude":28.334136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wapadrand"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":942011,
         "gp:id":55878157,
-        "qs:id":1100855,
+        "qs_pg:id":1100855,
         "wd:id":"Q21055956"
     },
     "wof:country":"ZA",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101925501,
-    "wof:lastmodified":1563373330,
+    "wof:lastmodified":1566663936,
     "wof:name":"Wapadrand",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

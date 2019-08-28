@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.13702,-29.55588,27.17702,-29.51588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":976121
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fdf42e261268cb7a7f02e128b51d4ed5",
+    "wof:geomhash":"be1a141f3c36ab67e7dc8cdaaa19139c",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209113617,
-    "wof:lastmodified":1536297325,
+    "wof:lastmodified":1566663400,
     "wof:name":"Middelpunt",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.157020000000006,
+    27.15702000000001,
     -29.53588,
-    27.157020000000006,
+    27.15702000000001,
     -29.53588
 ],
   "geometry": {"coordinates":[27.15702000000001,-29.53588],"type":"Point"}

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000715,
-    "geom:area_square_m":7991115.330902,
+    "geom:area_square_m":7991115.330897,
     "geom:bbox":"27.0277500153,-25.381313324,27.0843162537,-25.346288681",
     "geom:latitude":-25.359184,
     "geom:longitude":27.059026,
     "iso:country":"ZA",
     "lbl:latitude":-25.359458,
     "lbl:longitude":27.058598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.359458,
     "mps:longitude":27.058598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":984073,
         "gp:id":1583740,
-        "qs:id":1081076
+        "qs_pg:id":1081076
     },
     "wof:country":"ZA",
     "wof:geomhash":"e80b839a94d3cf29898fd5946950a7b2",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101925195,
-    "wof:lastmodified":1500028299,
+    "wof:lastmodified":1566663908,
     "wof:name":"Leidig",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"27.8767681122,-25.6275920868,28.026758194,-25.5626831055",
     "geom:latitude":-25.603207,
     "geom:longitude":27.955737,
-    "geonames:id":"1002851,1105754",
+    "gn:id":"1002851,1105754",
     "iso:country":"ZA",
     "lbl:latitude":-25.610814,
     "lbl:longitude":27.956873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.610814,
     "mps:longitude":27.956873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ga-Rankuwa"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1590,
     "wof:belongsto":[
         102191573,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101925359,
-    "wof:lastmodified":1563373328,
+    "wof:lastmodified":1566663935,
     "wof:name":"Ga-Rankuwa",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

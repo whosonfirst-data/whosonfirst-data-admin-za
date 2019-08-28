@@ -9,14 +9,18 @@
     "geom:bbox":"28.34112,-32.7046,28.34112,-32.7046",
     "geom:latitude":-32.7046,
     "geom:longitude":28.34112,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"28.32112,-32.7246,28.36112,-32.6846",
     "lbl:latitude":-32.7046,
     "lbl:longitude":28.34112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Morganbaai"
@@ -33,7 +37,7 @@
     "name:nso_x_preferred":[
         "Morgans Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morgan Bay Village"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1585333,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Eastern Cape",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125976879,
-    "wof:lastmodified":1563373899,
+    "wof:lastmodified":1566664265,
     "wof:name":"Morgan's Bay",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",

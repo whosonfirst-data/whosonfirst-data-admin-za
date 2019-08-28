@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"32.26777,-27.11994,32.30777,-27.07994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":985176
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6fd13fa792629df40b2f383a5c18d45f",
+    "wof:geomhash":"b87f6abcfa2f7531e98055a6cf64d641",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209423863,
-    "wof:lastmodified":1536287442,
+    "wof:lastmodified":1566663416,
     "wof:name":"KwaZamazama",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     32.28777,
-    -27.099940000000004,
+    -27.09994,
     32.28777,
-    -27.099940000000004
+    -27.09994
 ],
   "geometry": {"coordinates":[32.28777,-27.09994],"type":"Point"}
 }

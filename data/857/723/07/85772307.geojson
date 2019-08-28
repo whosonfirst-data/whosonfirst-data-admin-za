@@ -12,8 +12,10 @@
     "gn:latitude":-25.76569,
     "gn:longitude":28.28083,
     "iso:country":"ZA",
+    "lbl:bbox":"28.285396,-25.761087,28.295396,-25.751087",
     "lbl:latitude":-25.756087,
     "lbl:longitude":28.290396,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.763746,
     "mps:longitude":28.284386,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Lynnwood Manor"
     ],
     "name:nld_x_preferred":[
-        "Lynnwood Manor"
-    ],
-    "name:unk_x_variant":[
         "Lynnwood Manor"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-25.76344,
     "wd:longitude":28.28218,
     "wd:wordcount":94,
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":981116,
         "gp:id":1584113,
-        "qs:id":1090594,
         "qs_pg:id":1090594,
         "wd:id":"Q15243203"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371977,
+    "wof:lastmodified":1566662948,
     "wof:name":"Lynnwood Manor",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

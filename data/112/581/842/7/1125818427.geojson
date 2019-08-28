@@ -9,14 +9,18 @@
     "geom:bbox":"18.69961,-33.88427,18.69961,-33.88427",
     "geom:latitude":-33.88427,
     "geom:longitude":18.69961,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"18.67961,-33.90427,18.71961,-33.86427",
     "lbl:latitude":-33.88427,
     "lbl:longitude":18.69961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Brackenfell"
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Brackenfell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brakenfell"
     ],
     "qs_pg:aaroncc":"ZA",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1580071,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Western Cape",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125818427,
-    "wof:lastmodified":1561840256,
+    "wof:lastmodified":1566664228,
     "wof:name":"Brackenfell",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

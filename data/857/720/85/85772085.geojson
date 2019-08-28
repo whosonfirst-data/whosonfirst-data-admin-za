@@ -9,15 +9,15 @@
     "geom:bbox":"18.4046033242,-34.039004679,18.4491338042,-33.9962010124",
     "geom:latitude":-34.020572,
     "geom:longitude":18.430226,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6922,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.03139,
     "gn:longitude":18.41833,
     "gn:population":6922,
     "iso:country":"ZA",
     "lbl:latitude":-34.027468,
     "lbl:longitude":18.417085,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.025733,
     "mps:longitude":18.428709,
     "mz:hierarchy_label":1,
@@ -75,9 +75,6 @@
     "name:spa_x_preferred":[
         "Constantia"
     ],
-    "name:unk_x_variant":[
-        "Constantia"
-    ],
     "name:zho_x_preferred":[
         "\u5eb7\u65af\u5766\u5947\u4e9e"
     ],
@@ -128,7 +125,7 @@
     "qs_pg:woe_id":1580450,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -140,7 +137,6 @@
     "wof:concordances":{
         "gn:id":3369056,
         "gp:id":1580450,
-        "qs:id":386622,
         "qs_pg:id":386622,
         "wd:id":"Q1127739",
         "wk:page":"Constantia, Cape Town"
@@ -160,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563372014,
+    "wof:lastmodified":1566662969,
     "wof:name":"Constantia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

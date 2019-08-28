@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.98691,
     "lbl:longitude":30.273576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.98691,
     "mps:longitude":30.273576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Munster"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":972614,
         "gp:id":1585570,
-        "qs:id":271198,
         "qs_pg:id":271198,
         "wd:id":"Q138412"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101929333,
-    "wof:lastmodified":1561840236,
+    "wof:lastmodified":1566663977,
     "wof:name":"Munster",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

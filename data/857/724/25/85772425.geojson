@@ -12,8 +12,10 @@
     "gn:latitude":-26.18205,
     "gn:longitude":28.02671,
     "iso:country":"ZA",
+    "lbl:bbox":"28.022567,-26.186637,28.032567,-26.176637",
     "lbl:latitude":-26.181637,
     "lbl:longitude":28.027567,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.204689,
     "mps:longitude":27.97493,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Parktown"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u514b\u6566"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":-26.166667,
     "wd:longitude":28.016667,
     "wd:wordcount":1010,
@@ -107,7 +106,6 @@
     "wof:concordances":{
         "gn:id":966190,
         "gp:id":1586426,
-        "qs:id":250493,
         "qs_pg:id":250493,
         "wd:id":"Q7138733",
         "wk:page":"Parktown"
@@ -128,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371973,
+    "wof:lastmodified":1566662946,
     "wof:name":"Parktown",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

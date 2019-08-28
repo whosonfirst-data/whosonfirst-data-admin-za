@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.430226,
     "lbl:longitude":29.470793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.430226,
     "mps:longitude":29.470793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bethal"
     ],
@@ -58,9 +61,6 @@
     "name:ron_x_preferred":[
         "Bethal"
     ],
-    "name:unk_x_variant":[
-        "Bethal"
-    ],
     "name:ven_x_preferred":[
         "Bethal"
     ],
@@ -81,7 +81,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101926253,
-    "wof:lastmodified":1563373621,
+    "wof:lastmodified":1566664090,
     "wof:name":"Bethalrand",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

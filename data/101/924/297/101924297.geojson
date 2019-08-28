@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.69536,
     "lbl:longitude":30.133368,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-23.69536,
     "mps:longitude":30.133368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Modjadjiskloof"
     ],
@@ -44,7 +47,7 @@
     "name:ron_x_preferred":[
         "Duiwelskloof"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duweiskloof"
     ],
     "name:ven_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":1007514,
         "gp:id":1580888,
-        "qs:id":84061,
         "qs_pg:id":84061,
         "wd:id":"Q2302331",
         "wk:page":"Modjadjiskloof"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101924297,
-    "wof:lastmodified":1563373187,
+    "wof:lastmodified":1566663845,
     "wof:name":"Duiwelskloof",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

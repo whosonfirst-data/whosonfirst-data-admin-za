@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.880124,
     "lbl:longitude":18.555306,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.87234,
     "mps:longitude":18.56486,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Mte Vista"
     ],
     "name:fin_x_preferred":[
-        "Monte Vista"
-    ],
-    "name:unk_x_variant":[
         "Monte Vista"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -70,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":127,
     "wof:belongsto":[
         85688905,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3363978,
         "gp:id":1585294,
-        "qs:id":907352,
         "qs_pg:id":907352
     },
     "wof:country":"ZA",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193528,
+    "wof:lastmodified":1566662946,
     "wof:name":"Monte Vista",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

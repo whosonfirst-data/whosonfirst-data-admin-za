@@ -12,8 +12,10 @@
     "gn:latitude":-33.01623,
     "gn:longitude":27.91601,
     "iso:country":"ZA",
+    "lbl:bbox":"27.913669,-33.020006,27.923669,-33.010006",
     "lbl:latitude":-33.015006,
     "lbl:longitude":27.918669,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.015573,
     "mps:longitude":27.921431,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Quigney"
     ],
     "name:nso_x_preferred":[
-        "Quigney"
-    ],
-    "name:unk_x_variant":[
         "Quigney"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-33.016,
     "wd:longitude":27.915,
     "wd:wordcount":64,
@@ -84,7 +83,6 @@
     "wof:concordances":{
         "gn:id":963502,
         "gp:id":1586734,
-        "qs:id":1170418,
         "qs_pg:id":1170418,
         "wd:id":"Q7271940",
         "wk:page":"Quigney, Eastern Cape"
@@ -105,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371967,
+    "wof:lastmodified":1566662944,
     "wof:name":"Quigney",
     "wof:parent_id":101929165,
     "wof:placetype":"neighbourhood",

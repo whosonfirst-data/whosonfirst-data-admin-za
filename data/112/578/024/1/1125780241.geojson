@@ -9,15 +9,18 @@
     "geom:bbox":"25.63333,-25.85,25.63333,-25.85",
     "geom:latitude":-25.85,
     "geom:longitude":25.63333,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":76754,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA",
     "gn:population":76754,
     "iso:country":"ZA",
+    "lbl:bbox":"25.61333,-25.87,25.65333,-25.83",
     "lbl:latitude":-25.85,
     "lbl:longitude":25.63333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Mmabatho"
@@ -64,7 +67,7 @@
     "name:spa_x_preferred":[
         "Mabato"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mabatho"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":275880,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125780241,
-    "wof:lastmodified":1563373985,
+    "wof:lastmodified":1566664314,
     "wof:name":"Mmabatho",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

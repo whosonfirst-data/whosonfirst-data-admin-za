@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.997556,
     "lbl:longitude":27.539858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.997556,
     "mps:longitude":27.539858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Magaliesburg"
     ],
@@ -46,9 +49,6 @@
     "name:tur_x_preferred":[
         "Magaliesburg"
     ],
-    "name:unk_x_variant":[
-        "Magaliesburg"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u52a0\u5229\u65af\u5821"
     ],
@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.0,
     "wd:longitude":27.545833,
     "wd:wordcount":213,
@@ -82,7 +82,6 @@
     "wof:concordances":{
         "gn:id":980557,
         "gp:id":1584222,
-        "qs:id":1277741,
         "qs_pg:id":1277741,
         "wd:id":"Q3643154",
         "wk:page":"Magaliesburg"
@@ -99,7 +98,7 @@
         }
     ],
     "wof:id":101925629,
-    "wof:lastmodified":1563373301,
+    "wof:lastmodified":1566663919,
     "wof:name":"Magaliesberg",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

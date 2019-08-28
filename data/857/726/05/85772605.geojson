@@ -12,8 +12,10 @@
     "gn:latitude":-29.96572,
     "gn:longitude":30.88639,
     "iso:country":"ZA",
+    "lbl:bbox":"30.874264,-29.965901,30.884264,-29.955901",
     "lbl:latitude":-29.960901,
     "lbl:longitude":30.879264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.984924,
     "mps:longitude":30.887413,
     "mz:hierarchy_label":0,
@@ -64,9 +66,6 @@
     "name:spa_x_preferred":[
         "Umlazi"
     ],
-    "name:unk_x_variant":[
-        "Umlazi"
-    ],
     "name:war_x_preferred":[
         "Umlazi"
     ],
@@ -106,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85688911,
         102191573,
@@ -118,7 +117,6 @@
     "wof:concordances":{
         "gn:id":946103,
         "gp:id":1588418,
-        "qs:id":7996,
         "qs_pg:id":7996,
         "wd:id":"Q183292",
         "wk:page":"Umlazi"
@@ -139,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371993,
+    "wof:lastmodified":1566662959,
     "wof:name":"Umlazi",
     "wof:parent_id":101927987,
     "wof:placetype":"neighbourhood",

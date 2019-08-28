@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001063,
-    "geom:area_square_m":10910079.411626,
+    "geom:area_square_m":10910079.411625,
     "geom:bbox":"18.5335820204,-33.9328506144,18.5851342774,-33.8991750028",
     "geom:latitude":-33.916599,
     "geom:longitude":18.559584,
@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.933168,
     "lbl:longitude":18.53505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.922851,
     "mps:longitude":18.564247,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Eppingdust"
     ],
     "name:eng_x_variant":[
-        "Eppingdust"
-    ],
-    "name:unk_x_variant":[
         "Eppingdust"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55864717,
-        "qs:id":1091766,
         "qs_pg:id":1091766
     },
     "wof:country":"ZA",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269409,
+    "wof:lastmodified":1566662931,
     "wof:name":"Epping Industrial",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

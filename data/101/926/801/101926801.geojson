@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.230506,
     "lbl:longitude":28.305786,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-28.230506,
     "mps:longitude":28.305786,
     "mz:hierarchy_label":1,
@@ -189,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1687.0,
     "wd:latitude":-28.233333,
@@ -205,10 +207,12 @@
     "wof:concordances":{
         "gn:id":1019704,
         "gp:id":1579785,
-        "qs:id":276212,
-        "qs_pg:id":995359,
+        "qs_pg:id":276212,
         "wd:id":"Q831326",
         "wk:page":"Bethlehem, Free State"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":995359
     },
     "wof:country":"ZA",
     "wof:geomhash":"2e7b639d9b1986ab83fa91fc9968293c",
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":101926801,
-    "wof:lastmodified":1563373625,
+    "wof:lastmodified":1566664092,
     "wof:name":"Bethlehem",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

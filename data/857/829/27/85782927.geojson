@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.993036,
     "lbl:longitude":18.470504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.997204,
     "mps:longitude":18.448376,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Southern Suburbs"
     ],
     "name:spa_x_preferred":[
-        "Southern Suburbs"
-    ],
-    "name:unk_x_variant":[
         "Southern Suburbs"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -66,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1360,
     "wof:belongsto":[
         85688905,
@@ -78,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55877906,
-        "qs:id":986702,
         "qs_pg:id":986702,
         "wd:id":"Q7570518"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371933,
+    "wof:lastmodified":1566662928,
     "wof:name":"Southern Suburbs",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

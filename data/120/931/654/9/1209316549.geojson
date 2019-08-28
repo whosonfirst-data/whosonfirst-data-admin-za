@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.69812,-29.10292,25.73812,-29.06292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":1003722
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ea6da1a83adbf8a3445ec752a0804eb1",
+    "wof:geomhash":"d4e834f865bb1519e35ec1f8e3cf0a43",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209316549,
-    "wof:lastmodified":1536290844,
+    "wof:lastmodified":1566663310,
     "wof:name":"Franshoek",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.718120000000006,
+    25.71812000000001,
     -29.08292,
-    25.718120000000006,
+    25.71812000000001,
     -29.08292
 ],
   "geometry": {"coordinates":[25.71812000000001,-29.08292],"type":"Point"}

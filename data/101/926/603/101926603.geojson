@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.274499,
     "lbl:longitude":28.502859,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-27.274499,
     "mps:longitude":28.502859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Frankfort"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1003763,
         "gp:id":1589621,
-        "qs:id":370244,
         "qs_pg:id":370244,
         "wd:id":"Q3642328"
     },
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101926603,
-    "wof:lastmodified":1561840245,
+    "wof:lastmodified":1566664063,
     "wof:name":"Frankfort",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",

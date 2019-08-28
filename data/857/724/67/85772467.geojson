@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":7147583.963832,
+    "geom:area_square_m":7147583.963833,
     "geom:bbox":"18.4240722656,-33.9228506449,18.4587915039,-33.8854971966",
     "geom:latitude":-33.906047,
     "geom:longitude":18.442786,
@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.916745,
     "lbl:longitude":18.426435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.902523,
     "mps:longitude":18.445417,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Roggebaai"
-    ],
-    "name:unk_x_variant":[
         "Roggebaai"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,8 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -74,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3362324,
         "gp:id":1586953,
-        "qs:id":239205,
         "qs_pg:id":239205
     },
     "wof:country":"ZA",
@@ -93,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316249,
+    "wof:lastmodified":1566662943,
     "wof:name":"Roggebaai",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

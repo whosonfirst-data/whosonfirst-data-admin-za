@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.948679,
     "lbl:longitude":18.580456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.949724,
     "mps:longitude":18.597034,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Sidneyvale"
-    ],
-    "name:unk_x_variant":[
         "Sidneyvale"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3361650,
         "gp:id":1587443,
-        "qs:id":432792,
         "qs_pg:id":432792
     },
     "wof:country":"ZA",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497310416,
+    "wof:lastmodified":1566662941,
     "wof:name":"Sidneyvale",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

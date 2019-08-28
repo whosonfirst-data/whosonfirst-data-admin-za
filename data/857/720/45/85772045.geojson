@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14270778.954704,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.950232,-26.087327,27.950232,-26.087327",
     "geom:latitude":-26.087327,
     "geom:longitude":27.950232,
     "gn:latitude":-26.08607,
     "gn:longitude":27.95034,
     "iso:country":"ZA",
+    "lbl:bbox":"27.945232,-26.092327,27.955232,-26.082327",
     "lbl:latitude":-26.087327,
     "lbl:longitude":27.950232,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.09425,
     "mps:longitude":27.947892,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Boskruin"
-    ],
-    "name:unk_x_variant":[
         "Boskruin"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925703,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1016941,
         "gp:id":1580024,
-        "qs:id":889327,
         "qs_pg:id":889327
     },
     "wof:country":"ZA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859501,
+    "wof:lastmodified":1566662967,
     "wof:name":"Boskruin",
     "wof:parent_id":101925703,
     "wof:placetype":"neighbourhood",

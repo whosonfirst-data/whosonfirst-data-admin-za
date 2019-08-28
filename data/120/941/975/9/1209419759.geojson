@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.01484,-30.9998,29.05484,-30.9598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":986092
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d6350aed2899efc4b71b8b210cb50315",
+    "wof:geomhash":"9ab20a748791618efa61fc99dce9492b",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209419759,
-    "wof:lastmodified":1536287570,
+    "wof:lastmodified":1566663353,
     "wof:name":"KuSusa",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.034840000000006,
+    29.03484000000001,
     -30.9798,
-    29.034840000000006,
+    29.03484000000001,
     -30.9798
 ],
   "geometry": {"coordinates":[29.03484000000001,-30.9798],"type":"Point"}

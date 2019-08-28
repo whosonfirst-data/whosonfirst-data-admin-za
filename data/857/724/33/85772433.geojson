@@ -14,6 +14,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-34.020152,
     "lbl:longitude":18.475805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.023647,
     "mps:longitude":18.46889,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
         "Plumstead"
     ],
     "name:nld_x_preferred":[
-        "Plumstead"
-    ],
-    "name:unk_x_variant":[
         "Plumstead"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -76,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3362764,
         "gp:id":1586591,
-        "qs:id":7892,
         "qs_pg:id":7892,
         "wd:id":"Q3392656",
         "wk:page":"Plumstead, Cape Town"
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371966,
+    "wof:lastmodified":1566662943,
     "wof:name":"Plumstead",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

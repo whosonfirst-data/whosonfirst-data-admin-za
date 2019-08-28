@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"30.40551,-29.89839,30.44551,-29.85839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":981711
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9e0315bc4a7a5040d109dfe594e45eae",
+    "wof:geomhash":"166dc6d476430b81039fdedc61f9acba",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209427957,
-    "wof:lastmodified":1536287322,
+    "wof:lastmodified":1566663415,
     "wof:name":"Lovodale",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     30.42551,
-    -29.878390000000003,
+    -29.87839,
     30.42551,
-    -29.878390000000003
+    -29.87839
 ],
   "geometry": {"coordinates":[30.42551,-29.87839],"type":"Point"}
 }

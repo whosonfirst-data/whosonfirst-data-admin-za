@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.743706,
     "lbl:longitude":28.259675,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-25.743706,
     "mps:longitude":28.259675,
     "mz:hierarchy_label":1,
@@ -393,7 +395,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tshwane"
     ],
     "name:urd_x_preferred":[
@@ -552,7 +554,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -567,7 +569,6 @@
         "gn:id":964137,
         "gp:id":1586638,
         "loc:id":"n79023000",
-        "qs:id":809996,
         "qs_pg:id":809996,
         "wd:id":"Q3926",
         "wk:page":"Pretoria"
@@ -587,7 +588,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373292,
+    "wof:lastmodified":1566663914,
     "wof:megacity":1,
     "wof:name":"Pretoria",
     "wof:parent_id":1108730545,

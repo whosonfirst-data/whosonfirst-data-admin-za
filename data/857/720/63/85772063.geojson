@@ -9,14 +9,15 @@
     "geom:bbox":"18.4927368164,-33.9023364045,18.5119628906,-33.8872603127",
     "geom:latitude":-33.893889,
     "geom:longitude":18.50249,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLX",
     "gn:latitude":-33.90982,
     "gn:longitude":18.48198,
+    "gn:population":0,
     "iso:country":"ZA",
     "lbl:latitude":-33.907115,
     "lbl:longitude":18.476278,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.893849,
     "mps:longitude":18.501712,
     "mz:hierarchy_label":1,
@@ -263,9 +264,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043a\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Brooklyn"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u06a9\u0644\u0646"
     ],
@@ -337,7 +335,7 @@
     "qs_pg:woe_id":1580151,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191573,
         85688905,
@@ -348,7 +346,6 @@
     "wof:concordances":{
         "gn:id":3369300,
         "gp:id":1580151,
-        "qs:id":919948,
         "qs_pg:id":919948
     },
     "wof:country":"ZA",
@@ -366,7 +363,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193552,
+    "wof:lastmodified":1566662969,
     "wof:name":"Brooklyn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

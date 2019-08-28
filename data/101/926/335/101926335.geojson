@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.529549,
     "lbl:longitude":27.852455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.529549,
     "mps:longitude":27.852455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Evaton"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191573,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101926335,
-    "wof:lastmodified":1563373595,
+    "wof:lastmodified":1566664075,
     "wof:name":"Evaton",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",

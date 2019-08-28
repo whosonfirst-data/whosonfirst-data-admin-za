@@ -9,15 +9,17 @@
     "geom:bbox":"28.16859,-26.1323,28.16859,-26.1323",
     "geom:latitude":-26.1323,
     "geom:longitude":28.16859,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":7345,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"28.16359,-26.1373,28.17359,-26.1273",
     "lbl:latitude":-26.1323,
     "lbl:longitude":28.16859,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Edenglen"
@@ -42,18 +44,18 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":55878859,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424942,
     "woe:name_adm0":"South Africa",
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925733,
-        1108730507,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126061695,
-    "wof:lastmodified":1509410232,
+    "wof:lastmodified":1566664291,
     "wof:name":"Edenglen",
     "wof:parent_id":101925733,
     "wof:placetype":"neighbourhood",

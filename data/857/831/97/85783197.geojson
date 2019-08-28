@@ -11,8 +11,10 @@
     "geom:longitude":18.96262,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"18.95762,-33.715662,18.96762,-33.705662",
     "lbl:latitude":-33.710662,
     "lbl:longitude":18.96262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.712491,
     "mps:longitude":18.965042,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Groenvlei"
     ],
     "name:eng_x_preferred":[
-        "Groenvlei"
-    ],
-    "name:unk_x_variant":[
         "Groenvlei"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":16,
     "wof:belongsto":[
         85688905,
@@ -70,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878983,
-        "qs:id":1155249
+        "qs_pg:id":1155249
     },
     "wof:country":"ZA",
     "wof:geomhash":"2c7fa60f9379cfdc6efe568c2a64a73d",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564193536,
+    "wof:lastmodified":1566662953,
     "wof:name":"Groenvlei",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

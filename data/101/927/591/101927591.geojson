@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.019084,
     "lbl:longitude":32.270748,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-28.019084,
     "mps:longitude":32.270748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Hluhluwe"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":65.0,
     "wd:latitude":-28.018889,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":996256,
         "gp:id":1582279,
-        "qs:id":244419,
         "qs_pg:id":244419,
         "wd:id":"Q1004768",
         "wk:page":"Hluhluwe"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101927591,
-    "wof:lastmodified":1563373494,
+    "wof:lastmodified":1566664022,
     "wof:name":"Hluhluwe",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",

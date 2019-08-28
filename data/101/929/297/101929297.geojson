@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-30.370295,
     "lbl:longitude":30.703057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.370295,
     "mps:longitude":30.703057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pennington"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-30.383333,
     "wd:longitude":30.7,
     "wd:wordcount":216,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":6692734,
         "gp:id":55879431,
-        "qs:id":270622,
         "qs_pg:id":270622,
         "wd:id":"Q10993937",
         "wk:page":"Pennington, KwaZulu-Natal"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101929297,
-    "wof:lastmodified":1563373425,
+    "wof:lastmodified":1566663983,
     "wof:name":"Pennington",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",

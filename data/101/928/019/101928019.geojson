@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.827341,
     "lbl:longitude":18.509245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.829359,
     "mps:longitude":18.509401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tafelsig"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-33.816667,
     "wd:longitude":18.483333,
     "wd:wordcount":191,
@@ -78,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373707,
+    "wof:lastmodified":1566664145,
     "wof:name":"Table View",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

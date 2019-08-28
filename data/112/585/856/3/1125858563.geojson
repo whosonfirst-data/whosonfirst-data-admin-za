@@ -9,15 +9,18 @@
     "geom:bbox":"22.58295,-32.35671,22.58295,-32.35671",
     "geom:latitude":-32.35671,
     "geom:longitude":22.58295,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":44737,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA2",
     "gn:population":44737,
     "iso:country":"ZA",
+    "lbl:bbox":"22.56295,-32.37671,22.60295,-32.33671",
     "lbl:latitude":-32.35671,
     "lbl:longitude":22.58295,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Beaufort-Wes"
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0442-\u0412\u0435\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Beaufort-Wes"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u0641\u0648\u0631\u0679 \u063a\u0631\u0628\u06cc"
     ],
@@ -118,7 +118,7 @@
     "qs_pg:qs_id":276213,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1125858563,
-    "wof:lastmodified":1563373981,
+    "wof:lastmodified":1566664312,
     "wof:name":"Beaufort West",
     "wof:parent_id":1108730623,
     "wof:placetype":"locality",

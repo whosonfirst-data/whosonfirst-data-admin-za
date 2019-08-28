@@ -9,14 +9,18 @@
     "geom:bbox":"18.89217,-32.18173,18.89217,-32.18173",
     "geom:latitude":-32.18173,
     "geom:longitude":18.89217,
-    "gn:gn_country":"ZA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"ZA",
+    "lbl:bbox":"18.87217,-32.20173,18.91217,-32.16173",
     "lbl:latitude":-32.18173,
     "lbl:longitude":18.89217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Clanwilliam"
@@ -60,7 +64,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043b\u0430\u043d\u0443\u0438\u043b\u044c\u044f\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Clanwillian"
     ],
     "name:ven_x_preferred":[
@@ -90,7 +94,7 @@
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1580368,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1125780171,
-    "wof:lastmodified":1563373992,
+    "wof:lastmodified":1566664318,
     "wof:name":"Clanwilliam",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",

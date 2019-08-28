@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.887959,
     "lbl:longitude":31.474659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-28.887959,
     "mps:longitude":31.474659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Eshowe"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-28.888333,
     "wd:longitude":31.448333,
@@ -102,10 +105,12 @@
     "wof:concordances":{
         "gn:id":1005040,
         "gp:id":1581187,
-        "qs:id":276202,
-        "qs_pg:id":1118671,
+        "qs_pg:id":276202,
         "wd:id":"Q1367652",
         "wk:page":"Eshowe"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118671
     },
     "wof:country":"ZA",
     "wof:geomhash":"ec1e2532d2e30fc327efe3f037ed37f2",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101927731,
-    "wof:lastmodified":1563373441,
+    "wof:lastmodified":1566663991,
     "wof:name":"Eshowe",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",

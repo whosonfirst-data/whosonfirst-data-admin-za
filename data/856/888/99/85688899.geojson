@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-29.46391,
     "lbl:longitude":21.846696,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Northern Cape",
     "mps:latitude":-28.92523,
     "mps:longitude":21.745338,
@@ -265,9 +266,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041a\u0430\u043f\u0441\u044c\u043a\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Province of Northern Cape"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u06a9\u06cc\u067e"
     ],
@@ -370,9 +368,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"372,889",
     "statoids:area_mi":"143,973",
     "statoids:as_of_date":"2001-10-10",
@@ -427,11 +425,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1565740300,
+    "wof:lastmodified":1566663008,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1145861,
     "wof:population_rank":12,

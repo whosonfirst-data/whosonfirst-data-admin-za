@@ -12,8 +12,10 @@
     "gn:latitude":-25.7464,
     "gn:longitude":28.22137,
     "iso:country":"ZA",
+    "lbl:bbox":"28.206811,-25.751051,28.216811,-25.741051",
     "lbl:latitude":-25.746051,
     "lbl:longitude":28.211811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-25.736818,
     "mps:longitude":28.215996,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:nld_x_preferred":[
         "Arcadia"
     ],
-    "name:unk_x_variant":[
-        "Arcadia"
-    ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":964137,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":8063413,
         "gp:id":55877912,
-        "qs:id":241529,
         "qs_pg:id":241529,
         "wd:id":"Q1752035",
         "wk:page":"Arcadia, Pretoria"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371936,
+    "wof:lastmodified":1566662929,
     "wof:name":"Arcadia",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

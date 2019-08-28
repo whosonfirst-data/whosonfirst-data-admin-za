@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-25.644111,
     "lbl:longitude":26.694252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.644111,
     "mps:longitude":26.694252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Swartruggens"
     ],
@@ -37,7 +40,7 @@
     "name:ron_x_preferred":[
         "Swartruggens"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodeon"
     ],
     "qs:a0":"South Africa",
@@ -54,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.65,
     "wd:longitude":26.7,
     "wd:wordcount":149,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":950833,
         "gp:id":1589168,
-        "qs:id":383934,
+        "qs_pg:id":383934,
         "wd:id":"Q3643036",
         "wk:page":"Swartruggens"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101925373,
-    "wof:lastmodified":1563373374,
+    "wof:lastmodified":1566663961,
     "wof:name":"Swartruggens",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

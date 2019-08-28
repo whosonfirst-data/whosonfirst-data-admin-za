@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-27.220392,
     "lbl:longitude":23.224236,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Northern Cape",
     "meso:gadm_admin":"John Taolo Gaetsewe",
     "meso:gadm_hasc2":"ZA.NC.KG",
@@ -31,6 +33,7 @@
     "mps:longitude":23.224236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "John Taolo Gaetsewe-distriksmunisipaliteit"
     ],
@@ -84,9 +87,9 @@
         "\u7d04\u7ff0\u00b7\u9676\u6d1b\u00b7\u52a0\u57c3\u6fa4\u97cb\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"23,681.0",
     "statoids:as_of_date":"2001-10-10",
     "statoids:capital":"Kuruman",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108730591,
-    "wof:lastmodified":1563372820,
+    "wof:lastmodified":1566663582,
     "wof:name":"John Taolo Gaetsewe",
     "wof:parent_id":85688899,
     "wof:placetype":"county",

@@ -9,14 +9,17 @@
     "geom:bbox":"18.6806144714,-34.0251846313,18.7463722229,-33.9582214355",
     "geom:latitude":-33.996995,
     "geom:longitude":18.714777,
-    "geonames:id":"3368155,3368156",
+    "gn:id":"3368155,3368156",
     "iso:country":"ZA",
     "lbl:latitude":-33.996035,
     "lbl:longitude":18.717019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.996035,
     "mps:longitude":18.717019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Eersterivier"
     ],
@@ -41,9 +44,6 @@
     "name:por_x_preferred":[
         "Rio Eerste"
     ],
-    "name:unk_x_variant":[
-        "Eerste River"
-    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-34.0,
     "wd:longitude":18.716667,
     "wd:wordcount":273,
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":3368156,
         "gp:id":1589554,
-        "qs:id":326897,
         "qs_pg:id":326897,
         "wd:id":"Q4854168"
     },
@@ -90,7 +89,7 @@
         }
     ],
     "wof:id":101928031,
-    "wof:lastmodified":1563373669,
+    "wof:lastmodified":1566664120,
     "wof:name":"Eersterivier",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.43419,-31.69268,29.47419,-31.65268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":946094
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5ebabaeb3164cef4d8d0d9812c28c10b",
+    "wof:geomhash":"fd0e9836cc61e7b66fb32c23afcb7ee5",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209319287,
-    "wof:lastmodified":1536290753,
+    "wof:lastmodified":1566663311,
     "wof:name":"Umngazi Mouth",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.454190000000004,
+    29.45419,
     -31.67268,
-    29.454190000000004,
+    29.45419,
     -31.67268
 ],
   "geometry": {"coordinates":[29.45419,-31.67268],"type":"Point"}

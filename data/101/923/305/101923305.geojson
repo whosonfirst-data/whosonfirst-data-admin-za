@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.523606,
     "lbl:longitude":29.839114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.523606,
     "mps:longitude":29.839114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Eisleben"
     ],
@@ -192,7 +195,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.516667,
     "wd:longitude":11.55,
     "wd:wordcount":995,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":101923305,
-    "wof:lastmodified":1564194718,
+    "wof:lastmodified":1566663885,
     "wof:name":"Eisleben",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",

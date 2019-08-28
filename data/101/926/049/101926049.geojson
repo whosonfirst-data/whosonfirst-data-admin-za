@@ -12,11 +12,14 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.297791,
     "lbl:longitude":27.652782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.297791,
     "mps:longitude":27.652782,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "West Rand Garden"
     ],
     "qs:a0":"South Africa",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101926049,
-    "wof:lastmodified":1497290119,
+    "wof:lastmodified":1566664057,
     "wof:name":"West Rand Garden Estate",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

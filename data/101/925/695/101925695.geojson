@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2683886.17442,
+    "geom:area_square_m":2683886.174421,
     "geom:bbox":"28.168844223,-26.0786857605,28.1930332184,-26.0548648834",
     "geom:latitude":-26.066764,
     "geom:longitude":28.183182,
     "iso:country":"ZA",
     "lbl:latitude":-26.0718,
     "lbl:longitude":28.18703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.0718,
     "mps:longitude":28.18703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8030227,
         "gp:id":55878555,
-        "qs:id":207715
+        "qs_pg:id":207715
     },
     "wof:country":"ZA",
     "wof:geomhash":"899b999ddda4c2578bd4aff6e2e5583a",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101925695,
-    "wof:lastmodified":1500027720,
+    "wof:lastmodified":1566663926,
     "wof:name":"Chloorkop",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5465390.103663,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.152161,-26.240251,28.152161,-26.240251",
     "geom:latitude":-26.240251,
     "geom:longitude":28.152161,
@@ -13,6 +13,7 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.240251,
     "lbl:longitude":28.152161,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.239296,
     "mps:longitude":28.152511,
     "mz:hierarchy_label":0,
@@ -26,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Elsiehof"
-    ],
-    "name:unk_x_variant":[
         "Elsiehof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,17 +58,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
-        1108730507,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878732,
-        "qs:id":239561,
         "qs_pg:id":239561
     },
     "wof:country":"ZA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860461,
+    "wof:lastmodified":1566662952,
     "wof:name":"Elsiehof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.52834,-31.82264,27.56834,-31.78264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633813
@@ -36,7 +40,7 @@
         "gn:id":979056
     },
     "wof:country":"ZA",
-    "wof:geomhash":"aeb7de1b6635383a189eb897bbe2e9ff",
+    "wof:geomhash":"e9e58ef4a7b14a82ed349c8c363d04cb",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209638111,
-    "wof:lastmodified":1536280975,
+    "wof:lastmodified":1566663332,
     "wof:name":"Maqwathini",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -54,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.548340000000003,
-    -31.802640000000004,
-    27.548340000000003,
-    -31.802640000000004
+    27.54834,
+    -31.80264,
+    27.54834,
+    -31.80264
 ],
   "geometry": {"coordinates":[27.54834,-31.80264],"type":"Point"}
 }

@@ -18,6 +18,7 @@
     "mps:longitude":28.233901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "OR Tambo Internasionale Lughawe"
     ],
@@ -131,7 +132,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424942,
         "county_id":56189451,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":102546665,
-    "wof:lastmodified":1563371733,
+    "wof:lastmodified":1566662806,
     "wof:name":"OR Tambo International Airport",
     "wof:parent_id":85783143,
     "wof:placetype":"campus",

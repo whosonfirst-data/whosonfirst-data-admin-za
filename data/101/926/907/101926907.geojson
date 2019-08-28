@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.563952,
     "lbl:longitude":28.800878,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-28.563952,
     "mps:longitude":28.800878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Phuthaditjhaba"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Phuthaditjhaba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Phutaditjhaba"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1646.0,
     "wd:latitude":-28.516667,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101926907,
-    "wof:lastmodified":1563373539,
+    "wof:lastmodified":1566664046,
     "wof:name":"Phuthaditjhaba",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

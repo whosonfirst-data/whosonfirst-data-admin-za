@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":4007550.250231,
+    "geom:area_square_m":4007550.25023,
     "geom:bbox":"24.6874351501,-25.9532012939,24.7147884369,-25.9305706024",
     "geom:latitude":-25.941399,
     "geom:longitude":24.701269,
     "iso:country":"ZA",
     "lbl:latitude":-25.94159,
     "lbl:longitude":24.701269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-25.94159,
     "mps:longitude":24.701269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Logaring"
     ],
     "qs:a0":"South Africa",
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101924647,
-    "wof:lastmodified":1501216578,
+    "wof:lastmodified":1566663835,
     "wof:name":"Logageng",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",

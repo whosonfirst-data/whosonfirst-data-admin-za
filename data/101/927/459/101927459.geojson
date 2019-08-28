@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-27.451208,
     "lbl:longitude":31.030444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.451208,
     "mps:longitude":31.030444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hartland"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191573,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101927459,
-    "wof:lastmodified":1564194847,
+    "wof:lastmodified":1566664035,
     "wof:name":"Hartland",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

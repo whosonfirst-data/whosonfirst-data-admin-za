@@ -12,8 +12,10 @@
     "gn:latitude":-26.18995,
     "gn:longitude":28.04895,
     "iso:country":"ZA",
+    "lbl:bbox":"28.042067,-26.193832,28.052067,-26.183832",
     "lbl:latitude":-26.188832,
     "lbl:longitude":28.047067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-26.181598,
     "mps:longitude":28.048359,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:rus_x_preferred":[
         "\u0425\u0438\u043b\u043b\u0431\u0440\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Hillbrow"
-    ],
     "name:zho_x_preferred":[
         "\u5e0c\u723e\u5e03\u7f85\u5340"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688923,
         102191573,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":996515,
         "gp:id":1582245,
-        "qs:id":1170375,
         "qs_pg:id":1170375,
         "wd:id":"Q3132723",
         "wk:page":"Hillbrow"
@@ -125,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563371954,
+    "wof:lastmodified":1566662938,
     "wof:name":"Hillbrow",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

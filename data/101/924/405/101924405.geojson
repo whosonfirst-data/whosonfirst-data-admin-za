@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.353784,
     "lbl:longitude":30.942597,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.353784,
     "mps:longitude":30.942597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hoedspruit"
     ],
@@ -69,7 +72,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.35,
     "wd:longitude":30.966667,
     "wd:wordcount":274,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101924405,
-    "wof:lastmodified":1563373182,
+    "wof:lastmodified":1566663841,
     "wof:name":"Hoedspruit",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",

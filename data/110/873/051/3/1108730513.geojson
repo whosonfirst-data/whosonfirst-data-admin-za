@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-32.981695,
     "lbl:longitude":27.64412,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Cape",
     "meso:gadm_admin":"Buffalo City",
     "meso:gadm_hasc2":"NO DATA",
@@ -31,6 +33,7 @@
     "mps:longitude":27.64412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Buffalo City Metropolitaanse Munisipaliteit"
     ],
@@ -89,7 +92,7 @@
         "\u6c34\u725b\u57ce\u5730\u65b9\u653f\u5e9c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108730513,
-    "wof:lastmodified":1563372843,
+    "wof:lastmodified":1566663613,
     "wof:name":"Buffalo City",
     "wof:parent_id":85688927,
     "wof:placetype":"county",

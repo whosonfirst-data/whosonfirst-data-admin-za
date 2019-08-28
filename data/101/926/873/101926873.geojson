@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-28.54421,
     "lbl:longitude":25.25196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.54421,
     "mps:longitude":25.25196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boshof"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-28.55,
     "wd:longitude":25.233333,
     "wd:wordcount":143,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101926873,
-    "wof:lastmodified":1563373558,
+    "wof:lastmodified":1566664055,
     "wof:name":"Boshof",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

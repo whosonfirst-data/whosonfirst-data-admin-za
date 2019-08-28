@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2724837.030913,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.578918,-33.947916,25.578918,-33.947916",
     "geom:latitude":-33.947916,
     "geom:longitude":25.578918,
     "gn:latitude":-33.95,
     "gn:longitude":25.58333,
     "iso:country":"ZA",
+    "lbl:bbox":"25.573918,-33.952916,25.583918,-33.942916",
     "lbl:latitude":-33.947916,
     "lbl:longitude":25.578918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.946264,
     "mps:longitude":25.579933,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Glendinningvale"
-    ],
-    "name:unk_x_variant":[
         "Glendinningvale"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688927,
         102191573,
         85633813,
         101929259,
-        1108730527,
-        85688927
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1001715,
         "gp:id":1581781,
-        "qs:id":184781,
         "qs_pg:id":184781
     },
     "wof:country":"ZA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859510,
+    "wof:lastmodified":1566662963,
     "wof:name":"Glendinningvale",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

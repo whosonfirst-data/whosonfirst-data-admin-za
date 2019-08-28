@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6746394.710578,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.349457,-29.574412,30.349457,-29.574412",
     "geom:latitude":-29.574412,
     "geom:longitude":30.349457,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"30.344457,-29.579412,30.354457,-29.569412",
     "lbl:latitude":-29.574412,
     "lbl:longitude":30.349457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-29.579281,
     "mps:longitude":30.347132,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Town Bush Valley"
-    ],
-    "name:unk_x_variant":[
         "Town Bush Valley"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -57,18 +56,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
         85633813,
         101927839,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879727,
-        "qs:id":1112904,
         "qs_pg:id":1112904
     },
     "wof:country":"ZA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860490,
+    "wof:lastmodified":1566662934,
     "wof:name":"Town Bush Valley",
     "wof:parent_id":101927839,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-24.708859,
     "lbl:longitude":30.207943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-24.708859,
     "mps:longitude":30.207943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Steelpoort"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-24.73,
     "wd:longitude":30.2,
     "wd:wordcount":238,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1175615675,
-    "wof:lastmodified":1561840216,
+    "wof:lastmodified":1566663628,
     "wof:name":"Steelpoort",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",

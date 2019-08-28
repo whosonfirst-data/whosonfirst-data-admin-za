@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.074873,
     "lbl:longitude":30.879038,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.074873,
     "mps:longitude":30.879038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mooiplaas"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.956,
     "wd:longitude":30.578,
     "wd:wordcount":21,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101927343,
-    "wof:lastmodified":1561840242,
+    "wof:lastmodified":1566664045,
     "wof:name":"Mooiplaas",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

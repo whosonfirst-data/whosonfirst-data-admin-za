@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9149119.243651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.423364,-34.194134,18.423364,-34.194134",
     "geom:latitude":-34.194134,
     "geom:longitude":18.423364,
     "gn:id":"",
     "iso:country":"ZA",
+    "lbl:bbox":"18.418364,-34.199134,18.428364,-34.189134",
     "lbl:latitude":-34.194134,
     "lbl:longitude":18.423364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.205532,
     "mps:longitude":18.405913,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Admirals Kloof"
-    ],
-    "name:unk_x_variant":[
         "Admirals Kloof"
     ],
     "qs:gn_adm0_cc":"ZA",
@@ -60,17 +59,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730611,
-        85688905
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55879065,
-        "qs:id":1091838,
         "qs_pg:id":1091838
     },
     "wof:country":"ZA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860474,
+    "wof:lastmodified":1566662933,
     "wof:name":"Admirals Kloof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

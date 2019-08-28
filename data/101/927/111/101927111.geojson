@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-29.520368,
     "lbl:longitude":26.98209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.520368,
     "mps:longitude":26.98209,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klipfontein"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":448,
     "wof:belongsto":[
         102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101927111,
-    "wof:lastmodified":1563373473,
+    "wof:lastmodified":1566664011,
     "wof:name":"Klipfontein",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"ZA",
     "lbl:latitude":-33.599379,
     "lbl:longitude":26.885239,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-33.599379,
     "mps:longitude":26.885239,
     "mz:hierarchy_label":1,
@@ -84,7 +86,7 @@
     "name:swa_x_preferred":[
         "Port Alfred"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "The Kowie"
     ],
     "name:zho_x_preferred":[
@@ -198,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-33.6,
     "wd:longitude":26.883333,
@@ -213,10 +215,12 @@
     "wof:concordances":{
         "gn:id":964432,
         "gp:id":1586610,
-        "qs:id":1030266,
         "qs_pg:id":432388,
         "wd:id":"Q1693203",
         "wk:page":"Port Alfred"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030266
     },
     "wof:country":"ZA",
     "wof:geomhash":"4449ea3df4e617ff4236f45dcb12bc67",
@@ -230,7 +234,7 @@
         }
     ],
     "wof:id":101929235,
-    "wof:lastmodified":1563373398,
+    "wof:lastmodified":1566663972,
     "wof:name":"Port Alfred",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

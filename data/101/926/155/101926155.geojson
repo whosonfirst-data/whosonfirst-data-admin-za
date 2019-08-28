@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-26.365295,
     "lbl:longitude":28.368342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-26.365295,
     "mps:longitude":28.368342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tsakane"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":713,
     "wof:belongsto":[
         102191573,
@@ -72,7 +75,6 @@
         "fct:id":"1463b9ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":948046,
         "gp:id":1588214,
-        "qs:id":1171611,
         "qs_pg:id":1171611,
         "wd:id":"Q7849323",
         "wk:page":"Tsakane"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563373598,
+    "wof:lastmodified":1566664077,
     "wof:name":"Tsakane",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

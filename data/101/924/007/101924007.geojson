@@ -12,10 +12,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-23.018371,
     "lbl:longitude":30.709587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.018371,
     "mps:longitude":30.709587,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Malamulele"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-22.971111,
     "wd:longitude":30.673611,
     "wd:wordcount":2262,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101924007,
-    "wof:lastmodified":1563373138,
+    "wof:lastmodified":1566663813,
     "wof:name":"Ka-Malamulele",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",

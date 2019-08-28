@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":4676914.273937,
+    "geom:area_square_m":4676914.273935,
     "geom:bbox":"27.029756546,-31.9877548218,27.0642032623,-31.9689655304",
     "geom:latitude":-31.97775,
     "geom:longitude":27.047004,
@@ -13,10 +13,13 @@
     "iso:country":"ZA",
     "lbl:latitude":-31.976019,
     "lbl:longitude":27.046676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-31.976019,
     "mps:longitude":27.046676,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":994939,
         "gp:id":1582400,
-        "qs:id":1300325
+        "qs_pg:id":1300325
     },
     "wof:country":"ZA",
     "wof:geomhash":"4818c21e69d1ab3a122fb1a2a3970589",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101928917,
-    "wof:lastmodified":1505338708,
+    "wof:lastmodified":1566664159,
     "wof:name":"IIinge",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
