@@ -219,6 +219,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -236,6 +237,10 @@
         "woe:id":1587712
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9667b8f90c3f5686d0cdeae4af1048db",
     "wof:hierarchy":[
         {
@@ -247,7 +252,7 @@
         }
     ],
     "wof:id":101925983,
-    "wof:lastmodified":1566663927,
+    "wof:lastmodified":1582348505,
     "wof:name":"Springs",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

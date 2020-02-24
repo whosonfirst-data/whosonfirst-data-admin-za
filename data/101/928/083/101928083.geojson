@@ -231,7 +231,8 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -256,6 +257,10 @@
         "qs_pg:id":1172290
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"a6abfde4d82f0b5552b1c171cb66a606",
     "wof:hierarchy":[
         {
@@ -267,7 +272,7 @@
         }
     ],
     "wof:id":101928083,
-    "wof:lastmodified":1566664113,
+    "wof:lastmodified":1582348512,
     "wof:name":"Mossel Bay",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

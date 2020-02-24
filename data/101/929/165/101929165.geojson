@@ -330,6 +330,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -352,6 +353,10 @@
         "wk:page":"East London, Eastern Cape"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98a42a75b4b7c59c729cf188413c2763",
     "wof:hierarchy":[
         {
@@ -363,7 +368,7 @@
         }
     ],
     "wof:id":101929165,
-    "wof:lastmodified":1566663976,
+    "wof:lastmodified":1582348506,
     "wof:name":"East London",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",
