@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.154668,
-    "geom:area_square_m":169093435708.86496,
+    "geom:area_square_m":169093435637.630737,
     "geom:bbox":"22.73574,-34.21386,30.19472,-30.0018",
     "geom:latitude":-32.154027,
     "geom:longitude":26.446361,
@@ -188,6 +188,9 @@
     "name:msa_x_preferred":[
         "Cape Timur"
     ],
+    "name:nan_x_preferred":[
+        "Tang Cape S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Oost-Kaap"
     ],
@@ -215,6 +218,9 @@
     "name:pol_x_preferred":[
         "Prowincja Przyl\u0105dkowa Wschodnia"
     ],
+    "name:por_br_x_preferred":[
+        "Cabo Oriental"
+    ],
     "name:por_x_preferred":[
         "Cabo Oriental"
     ],
@@ -238,6 +244,12 @@
     ],
     "name:spa_x_preferred":[
         "Provincia Oriental del Cabo"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u041a\u0435\u0458\u043f"
+    ],
+    "name:srp_el_x_preferred":[
+        "Isto\u010dni Kejp"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u041a\u0435\u0458\u043f"
@@ -298,6 +310,18 @@
     ],
     "name:yue_x_preferred":[
         "\u6771\u958b\u666e"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e1c\u5f00\u666e\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6771\u958b\u666e\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e1c\u5f00\u666e\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u958b\u666e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6771\u958b\u666e\u7701"
@@ -438,7 +462,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1583882935,
+    "wof:lastmodified":1587428959,
     "wof:name":"Eastern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

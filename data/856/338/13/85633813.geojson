@@ -65,6 +65,9 @@
     "name:arg_x_preferred":[
         "Sudafrica"
     ],
+    "name:ary_x_preferred":[
+        "\u062c\u0646\u0648\u0628 \u0625\u0641\u0631\u064a\u0642\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u0646\u0648\u0628 \u0627\u0641\u0631\u064a\u0642\u064a\u0627"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:bam_x_variant":[
         "Worodugu Afriki"
+    ],
+    "name:ban_x_preferred":[
+        "Afrika Selatan"
     ],
     "name:bar_x_preferred":[
         "Sidafrika"
@@ -191,8 +197,14 @@
     "name:cor_x_preferred":[
         "Afrika Dhyhow"
     ],
+    "name:cos_x_preferred":[
+        "Africa suttana"
+    ],
     "name:crh_x_preferred":[
         "Cen\u00fcbiy Afrika"
+    ],
+    "name:csb_x_preferred":[
+        "P\u00f4\u0142niow\u00f4 Afrika"
     ],
     "name:cym_x_preferred":[
         "De Affrica"
@@ -202,6 +214,12 @@
     ],
     "name:dan_x_preferred":[
         "Sydafrika"
+    ],
+    "name:deu_at_x_preferred":[
+        "S\u00fcdafrika"
+    ],
+    "name:deu_ch_x_preferred":[
+        "S\u00fcdafrika"
     ],
     "name:deu_x_colloquial":[
         "Rep. Sudafrika",
@@ -217,6 +235,9 @@
     "name:deu_x_variant":[
         "Rep. S\u00fcdafrika",
         "Republik S\u00fcdafrika"
+    ],
+    "name:din_x_preferred":[
+        "Paank\u0254c Pagu\u00f6t Apir\u00efka"
     ],
     "name:diq_x_preferred":[
         "Afrikaya Veroci"
@@ -241,6 +262,12 @@
     ],
     "name:eml_x_preferred":[
         "S\u00fcd Africa"
+    ],
+    "name:eng_ca_x_preferred":[
+        "South Africa"
+    ],
+    "name:eng_gb_x_preferred":[
+        "South Africa"
     ],
     "name:eng_x_preferred":[
         "South Africa"
@@ -339,6 +366,9 @@
     ],
     "name:gor_x_preferred":[
         "Afrika Selatan"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf3f\ud800\udf3d\ud800\udf38\ud800\udf42\ud800\udf30 \ud800\udf30\ud800\udf46\ud800\udf42\ud800\udf39\ud800\udf3a\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Yvy\u00e1frika"
@@ -647,6 +677,9 @@
     "name:mya_x_variant":[
         "\u1010\u1031\u102c\u1004\u103a\u1021\u102c\u1016\u101b\u102d\u1000"
     ],
+    "name:myv_x_preferred":[
+        "\u041b\u0435\u043c\u0431\u0435\u0451\u043d\u043a\u0441\u043e\u043d\u044c-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u044c \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044c"
+    ],
     "name:mzn_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627"
     ],
@@ -700,6 +733,9 @@
     ],
     "name:nov_x_preferred":[
         "Sud Afrika"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07e5\u07d9\u07cf\u07ec\u07d8\u07ce\u07ef \u07dd\u07d8\u07ca\u07ec\u07dd\u07cc\u07f2\u07ec\u07e0\u07ca"
     ],
     "name:nrm_x_preferred":[
         "Afrique du Sud"
@@ -842,6 +878,9 @@
     "name:sme_x_variant":[
         "M\u00e1tta-Afrihk\u00e1"
     ],
+    "name:smn_x_preferred":[
+        "Maad\u00e2-Afrik"
+    ],
     "name:sna_x_preferred":[
         "South Africa"
     ],
@@ -868,6 +907,12 @@
     ],
     "name:srd_x_preferred":[
         "Sud\u00e0frica"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0408\u0443\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u0447\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Ju\u017enoafri\u010dka Republika"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0443\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u0447\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
@@ -899,6 +944,9 @@
     ],
     "name:szl_x_preferred":[
         "Republika Po\u0142ed\u0144owyj Afriki"
+    ],
+    "name:szy_x_preferred":[
+        "South africa"
     ],
     "name:tah_x_preferred":[
         "\u2019Afirita i \u2019Apato\u2019a"
@@ -1222,7 +1270,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1583797459,
+    "wof:lastmodified":1587428954,
     "wof:name":"South Africa",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

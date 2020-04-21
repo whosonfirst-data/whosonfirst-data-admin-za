@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":34.691554,
-    "geom:area_square_m":373377770701.269775,
+    "geom:area_square_m":373377770583.423889,
     "geom:bbox":"16.45189,-32.944995,25.54933,-24.76586",
     "geom:latitude":-29.453405,
     "geom:longitude":21.402809,
@@ -65,11 +65,20 @@
     "name:dan_x_preferred":[
         "Nord-Kapprovinsen"
     ],
+    "name:deu_ch_x_preferred":[
+        "Nordkap"
+    ],
     "name:deu_x_preferred":[
         "Nordkap"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c1\u03b5\u03b9\u03cc\u03c4\u03b5\u03c1\u03bf \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Northern Cape"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Northern Cape"
     ],
     "name:eng_x_preferred":[
         "Northern Cape"
@@ -103,6 +112,9 @@
     ],
     "name:frr_x_preferred":[
         "Nuurdkap"
+    ],
+    "name:glg_x_preferred":[
+        "Cabo Setentrional"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0a95\u0ac7\u0aaa"
@@ -173,6 +185,9 @@
     "name:msa_x_preferred":[
         "Northern Cape"
     ],
+    "name:nan_x_preferred":[
+        "Pak Cape S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Noord-Kaap"
     ],
@@ -206,6 +221,9 @@
     "name:pol_x_preferred":[
         "Prowincja Przyl\u0105dkowa P\u00f3\u0142nocna"
     ],
+    "name:por_br_x_preferred":[
+        "Cabo Setentrional"
+    ],
     "name:por_x_preferred":[
         "Cabo Setentrional"
     ],
@@ -232,6 +250,12 @@
     ],
     "name:spa_x_preferred":[
         "Provincia Septentrional del Cabo"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u041a\u0435\u0458\u043f"
+    ],
+    "name:srp_el_x_preferred":[
+        "Severni Kejp"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u041a\u0435\u0458\u043f"
@@ -281,6 +305,9 @@
     "name:vol_x_preferred":[
         "Nol\u00fcdakepi\u00e4n"
     ],
+    "name:wuu_x_preferred":[
+        "\u5317\u5f00\u666e\u7701"
+    ],
     "name:xho_x_preferred":[
         "IPhondo yaseMntla-Koloni"
     ],
@@ -290,6 +317,18 @@
     "name:yue_x_preferred":[
         "\u5317\u958b\u666e"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u5f00\u666e\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5317\u958b\u666e\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5317\u5f00\u666e\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u958b\u666e\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u958b\u666e\u7701"
     ],
@@ -297,7 +336,8 @@
         "IKipi laseNyakatho"
     ],
     "name:zul_x_variant":[
-        "Nyakatho Kapa"
+        "Nyakatho Kapa",
+        "INyakatho Kapa"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZAF",
@@ -429,7 +469,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1583882941,
+    "wof:lastmodified":1587428968,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

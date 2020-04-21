@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.141412,
-    "geom:area_square_m":126052855956.004272,
+    "geom:area_square_m":126052857771.614807,
     "geom:bbox":"26.40754,-25.42279,31.883835,-22.12503",
     "geom:latitude":-23.785335,
     "geom:longitude":29.289763,
@@ -71,6 +71,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bc\u03c0\u03cc\u03c0\u03bf"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Limpopo"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Limpopo"
     ],
     "name:eng_x_preferred":[
         "Limpopo"
@@ -184,6 +190,9 @@
     "name:msa_x_preferred":[
         "Limpopo"
     ],
+    "name:nan_x_preferred":[
+        "Limpopo S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Limpopo"
     ],
@@ -209,6 +218,9 @@
         "Prowincja P\u00f3\u0142nocna"
     ],
     "name:pol_x_variant":[
+        "Limpopo"
+    ],
+    "name:por_br_x_preferred":[
         "Limpopo"
     ],
     "name:por_x_preferred":[
@@ -246,6 +258,12 @@
     ],
     "name:spa_x_variant":[
         "Provincia de Limpopo"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0438\u043c\u043f\u043e\u043f\u043e"
+    ],
+    "name:srp_el_x_preferred":[
+        "Limpopo"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043c\u043f\u043e\u043f\u043e"
@@ -320,6 +338,18 @@
     "name:yue_x_preferred":[
         "\u6797\u6ce2\u6ce2"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6797\u6ce2\u6ce2\u7701"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6797\u6ce2\u6ce2\u7701"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6797\u6ce2\u6ce2\u7701"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6797\u6ce2\u6ce2\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u90e8\u7701"
     ],
@@ -328,6 +358,9 @@
     ],
     "name:zul_x_preferred":[
         "Limpopo"
+    ],
+    "name:zul_x_variant":[
+        "ILimpopo"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZAF",
@@ -457,7 +490,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1583882939,
+    "wof:lastmodified":1587428955,
     "wof:name":"Limpopo",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
