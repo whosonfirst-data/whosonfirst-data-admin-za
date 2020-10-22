@@ -9,7 +9,6 @@
     "geom:bbox":"18.4927368164,-33.9547517161,18.5175468228,-33.9091748809",
     "geom:latitude":-33.931737,
     "geom:longitude":18.504969,
-    "gn:id":"",
     "gn:latitude":-33.94222,
     "gn:longitude":18.50681,
     "iso:country":"ZA",
@@ -69,8 +68,7 @@
         102191573,
         85633813,
         101928027,
-        1108730611,
-        85783079
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +78,9 @@
         "qs_pg:id":1079260
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88979f29bd2870584565c33a1d0a9e17",
     "wof:hierarchy":[
         {
@@ -87,15 +88,12 @@
             "country_id":85633813,
             "county_id":1108730611,
             "locality_id":101928027,
-            "neighbourhood_id":85783079,
+            "neighbourhood_id":1175615673,
             "region_id":85688905
         }
     ],
     "wof:id":1175615673,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1566663627,
+    "wof:lastmodified":1603257609,
     "wof:name":"Pinelands",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

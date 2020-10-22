@@ -91,7 +91,6 @@
     "wd:wordcount":171,
     "wof:belongsto":[
         102191573,
-        101925807,
         85633813,
         85688895,
         1108730587
@@ -105,18 +104,21 @@
         "wk:page":"Delmas, Mpumalanga"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"532a648626d0b9427a05770bbabbeadc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730587,
-            "locality_id":101925807,
+            "locality_id":1175615689,
             "region_id":85688895
         }
     ],
     "wof:id":1175615689,
-    "wof:lastmodified":1566663630,
+    "wof:lastmodified":1603257610,
     "wof:name":"Delmas",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

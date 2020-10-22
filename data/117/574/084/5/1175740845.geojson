@@ -84,8 +84,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730559,
-        85688911
+        85688911,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +96,9 @@
         "wk:page":"Pongola, KwaZulu-Natal"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d1821341f14233b10338e6aa2bf1d3c",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1175740845,
-    "wof:lastmodified":1587163114,
+    "wof:lastmodified":1603257613,
     "wof:name":"Pongola",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

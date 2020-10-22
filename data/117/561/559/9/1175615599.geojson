@@ -184,7 +184,6 @@
     "wd:wordcount":1141,
     "wof:belongsto":[
         102191573,
-        101925717,
         85633813,
         85688923,
         1108730543
@@ -202,18 +201,21 @@
         "qs_pg:id":1118759
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ee281fe1260c9fcb6d780d4fb3a3cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
-            "locality_id":101925717,
+            "locality_id":1175615599,
             "region_id":85688923
         }
     ],
     "wof:id":1175615599,
-    "wof:lastmodified":1566663629,
+    "wof:lastmodified":1603257610,
     "wof:name":"Krugersdorp",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",

@@ -91,7 +91,6 @@
     "wd:wordcount":167,
     "wof:belongsto":[
         102191573,
-        101926257,
         85633813,
         85688923,
         1108730507
@@ -106,18 +105,21 @@
         "wk:page":"Nigel, Gauteng"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3ef8cd608f8b1847a837aa47da1adba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
-            "locality_id":101926257,
+            "locality_id":1175615569,
             "region_id":85688923
         }
     ],
     "wof:id":1175615569,
-    "wof:lastmodified":1566663625,
+    "wof:lastmodified":1603257609,
     "wof:name":"Nigel",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",

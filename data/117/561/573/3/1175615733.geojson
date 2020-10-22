@@ -91,7 +91,6 @@
     "wd:wordcount":366,
     "wof:belongsto":[
         102191573,
-        101928585,
         85633813,
         85688927,
         1108730519
@@ -105,18 +104,21 @@
         "wk:page":"Middelburg, Eastern Cape"
     },
     "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d99d9a19bc5946086687d954898e6296",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730519,
-            "locality_id":101928585,
+            "locality_id":1175615733,
             "region_id":85688927
         }
     ],
     "wof:id":1175615733,
-    "wof:lastmodified":1566663635,
+    "wof:lastmodified":1603257611,
     "wof:name":"Middelburg",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
