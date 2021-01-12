@@ -92,15 +92,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":975693
     },
     "wof:country":"ZA",
-    "wof:geomhash":"601b59ea8e161f94826b505eaea58cd9",
+    "wof:geomhash":"0f7a3c2f362ebcf94b4defb18fc07dac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +111,23 @@
         }
     ],
     "wof:id":1343351255,
-    "wof:lastmodified":1566662877,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411806,
     "wof:name":"Mission",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -121,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.37512000000001,
+    29.37512,
     -23.48446,
-    29.37512000000001,
+    29.37512,
     -23.48446
 ],
-  "geometry": {"coordinates":[29.37512000000001,-23.48446],"type":"Point"}
+  "geometry": {"coordinates":[29.37512,-23.48446],"type":"Point"}
 }

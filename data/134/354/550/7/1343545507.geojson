@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1002982
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a2fb21cc9255f5807f9f194609ff060d",
+    "wof:geomhash":"244e0397d63bb7d17bc454992a0356e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343545507,
-    "wof:lastmodified":1566662815,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411775,
     "wof:name":"Ga-Nonyane",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.06667,
-    -23.61667000000001,
+    -23.61667,
     29.06667,
-    -23.61667000000001
+    -23.61667
 ],
-  "geometry": {"coordinates":[29.06667,-23.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.06667,-23.61667],"type":"Point"}
 }

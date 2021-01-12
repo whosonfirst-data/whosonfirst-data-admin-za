@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996454
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7025ab02316a56844abc610849a5fdfa",
+    "wof:geomhash":"0a849d4e5cc6527634c1258ba03d0128",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +93,23 @@
         }
     ],
     "wof:id":1293205271,
-    "wof:lastmodified":1566663125,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411909,
     "wof:name":"Hillside",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -103,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.61667000000001,
+    25.61667,
     -31.6,
-    25.61667000000001,
+    25.61667,
     -31.6
 ],
-  "geometry": {"coordinates":[25.61667000000001,-31.6],"type":"Point"}
+  "geometry": {"coordinates":[25.61667,-31.6],"type":"Point"}
 }

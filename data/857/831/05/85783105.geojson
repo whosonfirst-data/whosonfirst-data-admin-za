@@ -9,7 +9,6 @@
     "geom:bbox":"30.884224,-29.840995,30.884224,-29.840995",
     "geom:latitude":-29.840995,
     "geom:longitude":30.884224,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"30.879224,-29.845995,30.889224,-29.835995",
     "lbl:latitude":-29.840995,
@@ -147,10 +146,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688911,
         102191573,
         85633813,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,10 +173,23 @@
         }
     ],
     "wof:id":85783105,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411842,
     "wof:name":"Sarnia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

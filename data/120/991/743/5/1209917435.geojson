@@ -77,15 +77,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":950192
     },
     "wof:country":"ZA",
-    "wof:geomhash":"50dfdafecaa9d0baf01fbf98874d82e1",
+    "wof:geomhash":"d941d0908e08c93b29fdce6adb0fe7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +96,23 @@
         }
     ],
     "wof:id":1209917435,
-    "wof:lastmodified":1566663321,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411993,
     "wof:name":"Talavera",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -107,9 +123,9 @@
 },
   "bbox": [
     30.34531,
-    -29.27864000000001,
+    -29.27864,
     30.34531,
-    -29.27864000000001
+    -29.27864
 ],
-  "geometry": {"coordinates":[30.34531,-29.27864000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.34531,-29.27864],"type":"Point"}
 }

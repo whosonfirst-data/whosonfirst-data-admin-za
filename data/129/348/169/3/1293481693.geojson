@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1016312
     },
     "wof:country":"ZA",
-    "wof:geomhash":"68447f3cf76379e4c441b461448a8b92",
+    "wof:geomhash":"c6decbb0aac495394a578b077a67ee52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1293481693,
-    "wof:lastmodified":1566663054,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411879,
     "wof:name":"Brakfontein",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -73,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.83382000000001,
+    29.83382,
     -26.96135,
-    29.83382000000001,
+    29.83382,
     -26.96135
 ],
-  "geometry": {"coordinates":[29.83382000000001,-26.96135],"type":"Point"}
+  "geometry": {"coordinates":[29.83382,-26.96135],"type":"Point"}
 }

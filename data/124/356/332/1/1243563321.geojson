@@ -116,8 +116,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730553
+        1108730553,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +135,23 @@
         }
     ],
     "wof:id":1243563321,
-    "wof:lastmodified":1566664422,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412434,
     "wof:name":"Langley",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":988240
     },
     "wof:country":"ZA",
-    "wof:geomhash":"eaef5d3a226facaba4b3c521350dee88",
+    "wof:geomhash":"3b2c8c2e53cd24b0ff1a7b6d8d063902",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293888523,
-    "wof:lastmodified":1566663168,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411928,
     "wof:name":"Komkulu",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86629000000001,
+    28.86629,
     -31.67609,
-    28.86629000000001,
+    28.86629,
     -31.67609
 ],
-  "geometry": {"coordinates":[28.86629000000001,-31.67609],"type":"Point"}
+  "geometry": {"coordinates":[28.86629,-31.67609],"type":"Point"}
 }

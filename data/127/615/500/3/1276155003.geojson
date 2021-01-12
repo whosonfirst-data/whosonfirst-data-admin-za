@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965874
     },
     "wof:country":"ZA",
-    "wof:geomhash":"016328c5714d45c8fd9b8e7a9918dbcd",
+    "wof:geomhash":"c3158172433a983c430a5301dcce2143",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276155003,
-    "wof:lastmodified":1566663264,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411968,
     "wof:name":"Pera II",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.28851,
-    -33.28400999999999,
+    -33.28401,
     27.28851,
-    -33.28400999999999
+    -33.28401
 ],
-  "geometry": {"coordinates":[27.28851,-33.28400999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.28851,-33.28401],"type":"Point"}
 }

@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":944864
     },
     "wof:country":"ZA",
-    "wof:geomhash":"77815332a47953b9a7fdfa7b23a2728c",
+    "wof:geomhash":"da8d77750ff53ff737ba754e69c7fc75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1293301733,
-    "wof:lastmodified":1566663031,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411868,
     "wof:name":"Van Rooyen",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     30.35,
-    -28.11667000000001,
+    -28.11667,
     30.35,
-    -28.11667000000001
+    -28.11667
 ],
-  "geometry": {"coordinates":[30.35,-28.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.35,-28.11667],"type":"Point"}
 }

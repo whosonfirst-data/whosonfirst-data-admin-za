@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003244
     },
     "wof:country":"ZA",
-    "wof:geomhash":"68108c6b2124ac42cfc7ab748dce6dea",
+    "wof:geomhash":"e64bdb8f6171fe0eb9a5fadf574f9665",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343557545,
-    "wof:lastmodified":1566662819,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411778,
     "wof:name":"Ga-Matokomane",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.37737000000001,
+    30.37737,
     -24.50616,
-    30.37737000000001,
+    30.37737,
     -24.50616
 ],
-  "geometry": {"coordinates":[30.37737000000001,-24.50616],"type":"Point"}
+  "geometry": {"coordinates":[30.37737,-24.50616],"type":"Point"}
 }

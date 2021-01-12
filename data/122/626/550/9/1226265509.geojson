@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1009692
     },
     "wof:country":"ZA",
-    "wof:geomhash":"26423454f7597f4d3247f341f01fb723",
+    "wof:geomhash":"bdcbe74541b79e5ee6a3909f23b037b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226265509,
-    "wof:lastmodified":1566664607,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412510,
     "wof:name":"Dludlu",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.61667000000001,
+    28.61667,
     -30.76667,
-    28.61667000000001,
+    28.61667,
     -30.76667
 ],
-  "geometry": {"coordinates":[28.61667000000001,-30.76667],"type":"Point"}
+  "geometry": {"coordinates":[28.61667,-30.76667],"type":"Point"}
 }

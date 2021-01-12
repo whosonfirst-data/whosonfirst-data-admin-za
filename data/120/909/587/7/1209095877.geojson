@@ -46,7 +46,7 @@
         "gn:id":980164
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6b83ad7df1e272e1a7003178299d0203",
+    "wof:geomhash":"7b0f54d00d157621473a90468faaeae7",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209095877,
-    "wof:lastmodified":1566663304,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411986,
     "wof:name":"Majika",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.86667000000001,
+    30.86667,
     -22.81667,
-    30.86667000000001,
+    30.86667,
     -22.81667
 ],
-  "geometry": {"coordinates":[30.86667000000001,-22.81667],"type":"Point"}
+  "geometry": {"coordinates":[30.86667,-22.81667],"type":"Point"}
 }

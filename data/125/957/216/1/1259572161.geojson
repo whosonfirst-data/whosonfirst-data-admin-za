@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949019
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9dcb9d3381acfebaa67bfc0a22785c6a",
+    "wof:geomhash":"a6ac9adfd8a407099531a13df6649597",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259572161,
-    "wof:lastmodified":1566664543,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412484,
     "wof:name":"Thulwe",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.21306,
-    -25.22487000000001,
+    -25.22487,
     28.21306,
-    -25.22487000000001
+    -25.22487
 ],
-  "geometry": {"coordinates":[28.21306,-25.22487000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.21306,-25.22487],"type":"Point"}
 }

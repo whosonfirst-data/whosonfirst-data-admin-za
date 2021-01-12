@@ -9,7 +9,6 @@
     "geom:bbox":"28.3255,-26.177624,28.3255,-26.177624",
     "geom:latitude":-26.177624,
     "geom:longitude":28.3255,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.3205,-26.182624,28.3305,-26.172624",
     "lbl:latitude":-26.177624,
@@ -60,10 +59,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,10 +85,23 @@
         }
     ],
     "wof:id":85783183,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411842,
     "wof:name":"Morehill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

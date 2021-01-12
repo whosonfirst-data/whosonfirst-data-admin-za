@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":960958
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6b32a521868a53e9b0d1c59925fd38c0",
+    "wof:geomhash":"b5c54dace33087e9e40a6b87ae47e5cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1225849899,
-    "wof:lastmodified":1566664717,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412557,
     "wof:name":"Rocklyn",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.36907,
-    -31.43527000000001,
+    -31.43527,
     26.36907,
-    -31.43527000000001
+    -31.43527
 ],
-  "geometry": {"coordinates":[26.36907,-31.43527000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.36907,-31.43527],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":986524
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bd52fb9732ab7db97b42a1e5b796d76e",
+    "wof:geomhash":"e8d6e1317347aca1365e436df7688604",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226347037,
-    "wof:lastmodified":1566664625,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412518,
     "wof:name":"KuGwabeni",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.63216,
-    -30.91744000000001,
+    -30.91744,
     29.63216,
-    -30.91744000000001
+    -30.91744
 ],
-  "geometry": {"coordinates":[29.63216,-30.91744000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.63216,-30.91744],"type":"Point"}
 }

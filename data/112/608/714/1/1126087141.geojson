@@ -165,11 +165,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925681,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +191,23 @@
         }
     ],
     "wof:id":1126087141,
-    "wof:lastmodified":1566664280,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412377,
     "wof:name":"Windsor",
     "wof:parent_id":101925681,
     "wof:placetype":"neighbourhood",

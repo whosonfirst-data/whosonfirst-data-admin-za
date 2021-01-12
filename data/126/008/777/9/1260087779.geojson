@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":937616
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d574a7d57ae2d02c8544f7354b6b794e",
+    "wof:geomhash":"a0d5774e94d96adbdc8d8b2a333c5c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260087779,
-    "wof:lastmodified":1566663501,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412069,
     "wof:name":"Yestervarkfontein",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.5183,
-    -30.10147000000001,
+    -30.10147,
     26.5183,
-    -30.10147000000001
+    -30.10147
 ],
-  "geometry": {"coordinates":[26.5183,-30.10147000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.5183,-30.10147],"type":"Point"}
 }

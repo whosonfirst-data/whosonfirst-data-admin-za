@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1659400.599308,
-    "geom:bbox":"25.8332977295,-25.3186645508,25.8505344391,-25.2955474854",
+    "geom:area_square_m":1659424.63253,
+    "geom:bbox":"25.833298,-25.318665,25.850534,-25.295547",
     "geom:latitude":-25.305008,
     "geom:longitude":25.842932,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12517439
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a1331dc7eafae90210f80deee4a63d11",
+    "wof:geomhash":"af6e2879b76b7f550bc3dfbea05b56cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925145,
-    "wof:lastmodified":1566663928,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412231,
     "wof:name":"Motlhabeng",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.83329772949219,
-    -25.31866455078125,
-    25.85053443908691,
-    -25.29554748535156
+    25.833298,
+    -25.318665,
+    25.850534,
+    -25.295547
 ],
-  "geometry": {"coordinates":[[[25.85053443908691,-25.31866455078125],[25.83329772949219,-25.30074119567871],[25.839111328125,-25.29823303222656],[25.84492492675781,-25.29554748535156],[25.85053443908691,-25.31866455078125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.850534,-25.318665],[25.833298,-25.300741],[25.839111,-25.298233],[25.844925,-25.295547],[25.850534,-25.318665]]],"type":"Polygon"}
 }

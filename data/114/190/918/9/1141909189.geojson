@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.8832905667,-29.666730531,17.8832905667,-29.666730531",
+    "geom:bbox":"17.883291,-29.666731,17.883291,-29.666731",
     "geom:latitude":-29.666731,
     "geom:longitude":17.883291,
     "gn:country":null,
@@ -207,8 +207,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -222,7 +222,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499131040,
-    "wof:geomhash":"0b4b248ea0d9c9f64e6a746c2edfbc1b",
+    "wof:geomhash":"5c141d050921f44b47be71ed7d51f6cb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -233,7 +233,23 @@
         }
     ],
     "wof:id":1141909189,
-    "wof:lastmodified":1566664721,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Springbok",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -248,10 +264,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.88329056669079,
-    -29.66673053102676,
-    17.88329056669079,
-    -29.66673053102676
+    17.883291,
+    -29.666731,
+    17.883291,
+    -29.666731
 ],
-  "geometry": {"coordinates":[17.88329056669079,-29.66673053102676],"type":"Point"}
+  "geometry": {"coordinates":[17.883291,-29.666731],"type":"Point"}
 }

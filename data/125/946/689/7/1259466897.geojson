@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991111
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7169fa30704c366c5266ecc6ff2264b2",
+    "wof:geomhash":"05ad3cc5e120dcda4341cc22c78a425c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259466897,
-    "wof:lastmodified":1566664526,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412477,
     "wof:name":"Khibitswane",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     24.76508,
-    -27.52114000000001,
+    -27.52114,
     24.76508,
-    -27.52114000000001
+    -27.52114
 ],
-  "geometry": {"coordinates":[24.76508,-27.52114000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.76508,-27.52114],"type":"Point"}
 }

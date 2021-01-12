@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005634
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4dabc334c307605aa2c01d4d48a079e4",
+    "wof:geomhash":"966d7b5c0426ebce90b35c8f9e1a1e76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310510335,
-    "wof:lastmodified":1566663748,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412157,
     "wof:name":"Embulwane",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.87849000000001,
+    30.87849,
     -29.17828,
-    30.87849000000001,
+    30.87849,
     -29.17828
 ],
-  "geometry": {"coordinates":[30.87849000000001,-29.17828],"type":"Point"}
+  "geometry": {"coordinates":[30.87849,-29.17828],"type":"Point"}
 }

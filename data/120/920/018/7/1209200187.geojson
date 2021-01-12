@@ -40,7 +40,7 @@
         "gn:id":1000266
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3368d9ae300bd59363a6be675bc4e82c",
+    "wof:geomhash":"29d63f69c9db23d4ca59d635a2b3f5a4",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209200187,
-    "wof:lastmodified":1566663405,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412028,
     "wof:name":"Graspan",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     22.48549,
-    -30.10654000000001,
+    -30.10654,
     22.48549,
-    -30.10654000000001
+    -30.10654
 ],
-  "geometry": {"coordinates":[22.48549,-30.10654000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.48549,-30.10654],"type":"Point"}
 }

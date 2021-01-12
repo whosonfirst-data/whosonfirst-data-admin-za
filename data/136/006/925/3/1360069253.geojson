@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980204
     },
     "wof:country":"ZA",
-    "wof:geomhash":"42ff7fec6d29c38cb3f67fed63d648ed",
+    "wof:geomhash":"5abb78606d10c01e0d6e9257f46c5bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1360069253,
-    "wof:lastmodified":1566663774,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412168,
     "wof:name":"Maipeeng",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     23.12287,
-    -27.13844000000001,
+    -27.13844,
     23.12287,
-    -27.13844000000001
+    -27.13844
 ],
-  "geometry": {"coordinates":[23.12287,-27.13844000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.12287,-27.13844],"type":"Point"}
 }

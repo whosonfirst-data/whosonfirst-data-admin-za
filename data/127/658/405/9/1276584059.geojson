@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979452
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e02c9cf604aebf5502981696436c17a1",
+    "wof:geomhash":"a01a6b9dbee492bac6605f911a9043fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276584059,
-    "wof:lastmodified":1566663229,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411953,
     "wof:name":"Mangati",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.38124,
-    -32.08450999999999,
+    -32.08451,
     28.38124,
-    -32.08450999999999
+    -32.08451
 ],
-  "geometry": {"coordinates":[28.38124,-32.08450999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.38124,-32.08451],"type":"Point"}
 }

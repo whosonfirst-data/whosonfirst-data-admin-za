@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":187766.762859,
-    "geom:bbox":"28.33319664,-26.234834671,28.3381671906,-26.2278594971",
+    "geom:area_square_m":187772.837445,
+    "geom:bbox":"28.333197,-26.234835,28.338167,-26.227859",
     "geom:latitude":-26.231366,
     "geom:longitude":28.335567,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878636
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2ee153c198dfdd61349072cfcd615428",
+    "wof:geomhash":"6a4ef7d6666f6b8a9489ba4db79080f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925947,
-    "wof:lastmodified":1566663932,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412233,
     "wof:name":"Leachville",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.33319664001465,
-    -26.23483467102051,
-    28.33816719055176,
-    -26.22785949707031
+    28.333197,
+    -26.234835,
+    28.338167,
+    -26.227859
 ],
-  "geometry": {"coordinates":[[[28.33524894714355,-26.22785949707031],[28.33816719055176,-26.23384666442871],[28.33539009094238,-26.23483467102051],[28.33319664001465,-26.22808265686035],[28.33524894714355,-26.22785949707031]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.335249,-26.227859],[28.338167,-26.233847],[28.33539,-26.234835],[28.333197,-26.228083],[28.335249,-26.227859]]],"type":"Polygon"}
 }

@@ -40,7 +40,7 @@
         "gn:id":983375
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0d1ca2122d1fe8126fc276753eaeb54d",
+    "wof:geomhash":"fe5fa9eee5947a08a95a19b2c6842a4c",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209614387,
-    "wof:lastmodified":1566663374,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412015,
     "wof:name":"Lekgwareng",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.43639000000001,
+    28.43639,
     -30.75586,
-    28.43639000000001,
+    28.43639,
     -30.75586
 ],
-  "geometry": {"coordinates":[28.43639000000001,-30.75586],"type":"Point"}
+  "geometry": {"coordinates":[28.43639,-30.75586],"type":"Point"}
 }

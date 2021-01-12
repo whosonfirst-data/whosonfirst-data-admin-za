@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.5699812405,-32.3496158663,22.5699812405,-32.3496158663",
+    "geom:bbox":"22.569981,-32.349616,22.569981,-32.349616",
     "geom:latitude":-32.349616,
     "geom:longitude":22.569981,
     "gn:country":null,
@@ -219,8 +219,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730623
+        1108730623,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -230,7 +230,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499130685,
-    "wof:geomhash":"93c0e2a046e4e1f3cd2368d0bed137a5",
+    "wof:geomhash":"fc3c9899ba756575507217c9bb7e2071",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -241,7 +241,23 @@
         }
     ],
     "wof:id":1141907131,
-    "wof:lastmodified":1566664720,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Beaufort West",
     "wof:parent_id":1108730623,
     "wof:placetype":"locality",
@@ -253,10 +269,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.56998124053763,
-    -32.34961586632392,
-    22.56998124053763,
-    -32.34961586632392
+    22.569981,
+    -32.349616,
+    22.569981,
+    -32.349616
 ],
-  "geometry": {"coordinates":[22.56998124053763,-32.34961586632392],"type":"Point"}
+  "geometry": {"coordinates":[22.569981,-32.349616],"type":"Point"}
 }

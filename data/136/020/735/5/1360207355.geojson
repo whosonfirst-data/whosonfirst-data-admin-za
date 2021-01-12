@@ -239,8 +239,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730515
+        1108730515,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +258,23 @@
         }
     ],
     "wof:id":1360207355,
-    "wof:lastmodified":1566663775,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412168,
     "wof:name":"Dorset",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",

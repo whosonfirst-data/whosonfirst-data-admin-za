@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978272
     },
     "wof:country":"ZA",
-    "wof:geomhash":"86bc7e8f519e23158ccae848b751a0bc",
+    "wof:geomhash":"f7e0fb2e61a99b01818d135975c00dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1259871229,
-    "wof:lastmodified":1566664572,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412496,
     "wof:name":"Matibidi",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -74,9 +90,9 @@
 },
   "bbox": [
     30.75,
-    -24.61667000000001,
+    -24.61667,
     30.75,
-    -24.61667000000001
+    -24.61667
 ],
-  "geometry": {"coordinates":[30.75,-24.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.75,-24.61667],"type":"Point"}
 }

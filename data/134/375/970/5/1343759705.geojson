@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3360281
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a231d6f3cf481468ab440107106164a2",
+    "wof:geomhash":"0b1dfa734e0e620290c1b24971855e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1343759705,
-    "wof:lastmodified":1566662917,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411826,
     "wof:name":"Uitkoms",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.95613999999999,
+    17.95614,
     -29.80253,
-    17.95613999999999,
+    17.95614,
     -29.80253
 ],
-  "geometry": {"coordinates":[17.95613999999999,-29.80253],"type":"Point"}
+  "geometry": {"coordinates":[17.95614,-29.80253],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1004388
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5ed6c855360839ec5ef4a2380deb1b14",
+    "wof:geomhash":"81716ed6cd8c93d55d76a7ce503e5d39",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209114791,
-    "wof:lastmodified":1566663398,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412025,
     "wof:name":"Feessaal",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.11667000000001,
+    31.11667,
     -28.15,
-    31.11667000000001,
+    31.11667,
     -28.15
 ],
-  "geometry": {"coordinates":[31.11667000000001,-28.15],"type":"Point"}
+  "geometry": {"coordinates":[31.11667,-28.15],"type":"Point"}
 }

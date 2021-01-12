@@ -374,8 +374,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -393,7 +393,23 @@
         }
     ],
     "wof:id":1293195625,
-    "wof:lastmodified":1566663156,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411923,
     "wof:name":"Tornado",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

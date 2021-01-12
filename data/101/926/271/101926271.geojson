@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":2034878.958351,
-    "geom:bbox":"25.4990787506,-26.45520401,25.5202217102,-26.4378967285",
+    "geom:area_square_m":2034852.784958,
+    "geom:bbox":"25.499079,-26.455204,25.520222,-26.437897",
     "geom:latitude":-26.44659,
-    "geom:longitude":25.509765,
+    "geom:longitude":25.509766,
     "iso:country":"ZA",
     "lbl:latitude":-26.446517,
     "lbl:longitude":25.509766,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1585116
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f0dfc735384805a8ea62470218e90f28",
+    "wof:geomhash":"9b9e35e2ad7b56fde612c7f22c1a4260",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926271,
-    "wof:lastmodified":1566664085,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412292,
     "wof:name":"Diretsane",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.49907875061035,
-    -26.45520401000977,
-    25.52022171020508,
-    -26.43789672851562
+    25.499079,
+    -26.455204,
+    25.520222,
+    -26.437897
 ],
-  "geometry": {"coordinates":[[[25.50990867614746,-26.45520401000977],[25.49907875061035,-26.44179153442383],[25.51007461547852,-26.43789672851562],[25.52022171020508,-26.45186805725098],[25.50990867614746,-26.45520401000977]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.509909,-26.455204],[25.499079,-26.441792],[25.510075,-26.437897],[25.520222,-26.451868],[25.509909,-26.455204]]],"type":"Polygon"}
 }

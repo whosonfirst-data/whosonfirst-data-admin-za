@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":942452
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c3f7e2e00809cddcc03cb12030696feb",
+    "wof:geomhash":"aeed3b4e567e38810b55aaf217170e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226349739,
-    "wof:lastmodified":1566664626,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412519,
     "wof:name":"Vrywoning",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.96667,
-    -29.11667000000001,
+    -29.11667,
     26.96667,
-    -29.11667000000001
+    -29.11667
 ],
-  "geometry": {"coordinates":[26.96667,-29.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96667,-29.11667],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.0986385,-28.791638,32.0986385,-28.791638",
+    "geom:bbox":"32.098638,-28.791638,32.098638,-28.791638",
     "geom:latitude":-28.791638,
     "geom:longitude":32.098638,
     "gn:country":"ZA",
@@ -46,8 +46,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497297830,
-    "wof:geomhash":"1ac1ec2be4fd5dfb1a18deeeda78d98b",
+    "wof:geomhash":"2e6f4054064cb28735e01751cde88dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1125961917,
-    "wof:lastmodified":1566664272,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412374,
     "wof:name":"Meer en See",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -77,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.0986385,
+    32.098638,
     -28.791638,
-    32.0986385,
+    32.098638,
     -28.791638
 ],
-  "geometry": {"coordinates":[32.0986385,-28.791638],"type":"Point"}
+  "geometry": {"coordinates":[32.098638,-28.791638],"type":"Point"}
 }

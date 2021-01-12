@@ -58,7 +58,7 @@
         "wk:page":"Uvongo"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e00ae744efff6e50483327cd9158eb30",
+    "wof:geomhash":"0e630cac21eef477da3c7f1f7c180f6d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1209624145,
-    "wof:lastmodified":1566663323,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411993,
     "wof:name":"Uvongo Beach",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -77,9 +93,9 @@
 },
   "bbox": [
     30.3979,
-    -30.83214000000001,
+    -30.83214,
     30.3979,
-    -30.83214000000001
+    -30.83214
 ],
-  "geometry": {"coordinates":[30.3979,-30.83214000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.3979,-30.83214],"type":"Point"}
 }

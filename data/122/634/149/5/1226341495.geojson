@@ -125,15 +125,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970716
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2263c885120e8e29fdcbf9c9b23b9839",
+    "wof:geomhash":"47fe05265273486d1b0ed52f2551b400",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +144,23 @@
         }
     ],
     "wof:id":1226341495,
-    "wof:lastmodified":1566664627,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412519,
     "wof:name":"Niagara",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -154,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.44437000000001,
+    28.44437,
     -30.94581,
-    28.44437000000001,
+    28.44437,
     -30.94581
 ],
-  "geometry": {"coordinates":[28.44437000000001,-30.94581],"type":"Point"}
+  "geometry": {"coordinates":[28.44437,-30.94581],"type":"Point"}
 }

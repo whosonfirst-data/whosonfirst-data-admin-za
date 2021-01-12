@@ -40,7 +40,7 @@
         "gn:id":971492
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9c7dd22cc3f29a4fcd1f49535879cdf0",
+    "wof:geomhash":"14f0768aebb55bb7d632064d76e25808",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209399315,
-    "wof:lastmodified":1566663326,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411995,
     "wof:name":"Net Recht",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     29.87397,
-    -23.68142000000001,
+    -23.68142,
     29.87397,
-    -23.68142000000001
+    -23.68142
 ],
-  "geometry": {"coordinates":[29.87397,-23.68142000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.87397,-23.68142],"type":"Point"}
 }

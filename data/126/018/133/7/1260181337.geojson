@@ -96,15 +96,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1019296
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0979147d743c946d02e1c2bd853fec23",
+    "wof:geomhash":"926e0f3d6b70fcd09c0ff1551c30387e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +115,23 @@
         }
     ],
     "wof:id":1260181337,
-    "wof:lastmodified":1566663510,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412073,
     "wof:name":"Bittern",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -125,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.57509000000001,
+    28.57509,
     -30.30453,
-    28.57509000000001,
+    28.57509,
     -30.30453
 ],
-  "geometry": {"coordinates":[28.57509000000001,-30.30453],"type":"Point"}
+  "geometry": {"coordinates":[28.57509,-30.30453],"type":"Point"}
 }

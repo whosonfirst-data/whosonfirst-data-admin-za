@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976233
     },
     "wof:country":"ZA",
-    "wof:geomhash":"02efcbdc584037a5952e638e9ca0b8fd",
+    "wof:geomhash":"85b8999d7288a34f52cd77a86e0b37aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242579527,
-    "wof:lastmodified":1566664381,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412417,
     "wof:name":"Middelkroon",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.38333,
-    -29.86667000000001,
+    -29.86667,
     26.38333,
-    -29.86667000000001
+    -29.86667
 ],
-  "geometry": {"coordinates":[26.38333,-29.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.38333,-29.86667],"type":"Point"}
 }

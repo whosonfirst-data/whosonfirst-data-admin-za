@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.1361275,-30.761381,30.1361275,-30.761381",
+    "geom:bbox":"30.136128,-30.761381,30.136128,-30.761381",
     "geom:latitude":-30.761381,
     "geom:longitude":30.136128,
     "gn:country":null,
@@ -67,8 +67,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497300674,
-    "wof:geomhash":"1ff8ccbfd5a8de37e3641770dde0bb9f",
+    "wof:geomhash":"e309f7eebc5ed7f183b08d18f1089ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +89,23 @@
         }
     ],
     "wof:id":1126018131,
-    "wof:lastmodified":1566664295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412383,
     "wof:name":"Izingolweni",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -99,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.1361275,
+    30.136128,
     -30.761381,
-    30.1361275,
+    30.136128,
     -30.761381
 ],
-  "geometry": {"coordinates":[30.1361275,-30.761381],"type":"Point"}
+  "geometry": {"coordinates":[30.136128,-30.761381],"type":"Point"}
 }

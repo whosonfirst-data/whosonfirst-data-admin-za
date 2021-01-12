@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963442
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5b12e1f6cb62eb30564a3969834c81d9",
+    "wof:geomhash":"8b780e9cc5d852a7a70f65adda58d23f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226781373,
-    "wof:lastmodified":1566664666,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412536,
     "wof:name":"Qwili Qwili",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.74027,
-    -32.28279000000001,
+    -32.28279,
     27.74027,
-    -32.28279000000001
+    -32.28279
 ],
-  "geometry": {"coordinates":[27.74027,-32.28279000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.74027,-32.28279],"type":"Point"}
 }

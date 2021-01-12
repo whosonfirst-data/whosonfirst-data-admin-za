@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":927348.138591,
-    "geom:bbox":"28.2554931641,-26.2913780212,28.2691402435,-26.280134201",
+    "geom:area_square_m":927368.72874,
+    "geom:bbox":"28.255493,-26.291378,28.26914,-26.280134",
     "geom:latitude":-26.28568,
     "geom:longitude":28.262237,
     "iso:country":"ZA",
@@ -37,13 +37,13 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
-    "wof:geomhash":"3872bc207d743c77564ef729707c1dc3",
+    "wof:geomhash":"39f9debc7beed680cb0afb9e963ccd98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":101926043,
-    "wof:lastmodified":1566664085,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412292,
     "wof:name":"Windmill Park",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.2554931640625,
-    -26.29137802124023,
-    28.26914024353027,
-    -26.2801342010498
+    28.255493,
+    -26.291378,
+    28.26914,
+    -26.280134
 ],
-  "geometry": {"coordinates":[[[28.26072883605957,-26.29137802124023],[28.2554931640625,-26.2830638885498],[28.26357460021973,-26.2801342010498],[28.26914024353027,-26.28792953491211],[28.26072883605957,-26.29137802124023]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.260729,-26.291378],[28.255493,-26.283064],[28.263575,-26.280134],[28.26914,-26.28793],[28.260729,-26.291378]]],"type":"Polygon"}
 }

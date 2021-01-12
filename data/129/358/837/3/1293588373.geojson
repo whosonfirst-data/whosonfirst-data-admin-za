@@ -90,15 +90,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979269
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8a333d73acd565a3208ead69afb4b331",
+    "wof:geomhash":"b7dd87840a0a40fbdbfa43da93c6e862",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +109,23 @@
         }
     ],
     "wof:id":1293588373,
-    "wof:lastmodified":1566663103,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411900,
     "wof:name":"Manu",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -119,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.61142000000001,
+    28.61142,
     -32.44029,
-    28.61142000000001,
+    28.61142,
     -32.44029
 ],
-  "geometry": {"coordinates":[28.61142000000001,-32.44029],"type":"Point"}
+  "geometry": {"coordinates":[28.61142,-32.44029],"type":"Point"}
 }

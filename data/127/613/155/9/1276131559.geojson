@@ -95,15 +95,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1012626
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8c9fa6cfe78e35f5743f6ed2e9526e52",
+    "wof:geomhash":"43b9c5389c73181d77a4b059eaebb100",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +114,23 @@
         }
     ],
     "wof:id":1276131559,
-    "wof:lastmodified":1566663242,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411958,
     "wof:name":"Covington",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -125,9 +141,9 @@
 },
   "bbox": [
     31.55976,
-    -28.76522000000001,
+    -28.76522,
     31.55976,
-    -28.76522000000001
+    -28.76522
 ],
-  "geometry": {"coordinates":[31.55976,-28.76522000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.55976,-28.76522],"type":"Point"}
 }

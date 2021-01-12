@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":940385
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c12944054060802e4dba21b06f88a9e8",
+    "wof:geomhash":"5b508f38f7e2e09ed76c54d4f43226ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326952267,
-    "wof:lastmodified":1566662673,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411722,
     "wof:name":"Westdene",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36667000000001,
+    27.36667,
     -26.4,
-    27.36667000000001,
+    27.36667,
     -26.4
 ],
-  "geometry": {"coordinates":[27.36667000000001,-26.4],"type":"Point"}
+  "geometry": {"coordinates":[27.36667,-26.4],"type":"Point"}
 }

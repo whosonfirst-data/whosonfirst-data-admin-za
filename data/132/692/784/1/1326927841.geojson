@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7798499
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4a8b6a5b953c843e882d0a110e6ef3ea",
+    "wof:geomhash":"559bcae5a901f64bd9c3ed218bfc7007",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1326927841,
-    "wof:lastmodified":1566662668,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411720,
     "wof:name":"Mulbarton",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     28.04921,
-    -26.28962000000001,
+    -26.28962,
     28.04921,
-    -26.28962000000001
+    -26.28962
 ],
-  "geometry": {"coordinates":[28.04921,-26.28962000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.04921,-26.28962],"type":"Point"}
 }

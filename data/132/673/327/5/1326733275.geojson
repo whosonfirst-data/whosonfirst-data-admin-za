@@ -42,15 +42,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1017279
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9d747ce7314aa46045de1d7d3119cb2f",
+    "wof:geomhash":"277e9d64ca5fdc1b446e46a07fec7a66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +61,23 @@
         }
     ],
     "wof:id":1326733275,
-    "wof:lastmodified":1566662657,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411715,
     "wof:name":"Boschfontein",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.11667000000001,
+    29.11667,
     -30.58333,
-    29.11667000000001,
+    29.11667,
     -30.58333
 ],
-  "geometry": {"coordinates":[29.11667000000001,-30.58333],"type":"Point"}
+  "geometry": {"coordinates":[29.11667,-30.58333],"type":"Point"}
 }

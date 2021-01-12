@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979453
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3a1465811f63900fcd98001060369409",
+    "wof:geomhash":"6334d07c0a4111642890581db3875ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260165667,
-    "wof:lastmodified":1566663514,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412075,
     "wof:name":"Mangata",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.70815,
-    -23.46352000000001,
+    -23.46352,
     29.70815,
-    -23.46352000000001
+    -23.46352
 ],
-  "geometry": {"coordinates":[29.70815,-23.46352000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.70815,-23.46352],"type":"Point"}
 }

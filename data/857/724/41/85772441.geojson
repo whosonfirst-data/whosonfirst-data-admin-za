@@ -120,10 +120,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688911,
         102191573,
         85633813,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,10 +148,23 @@
         }
     ],
     "wof:id":85772441,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348444,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411839,
     "wof:name":"Prospect",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

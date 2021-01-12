@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1009472
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d1857014f8528011e771ab3982e7f245",
+    "wof:geomhash":"2c45f69bbc4fa5875ab5fb43e760860c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +78,23 @@
         }
     ],
     "wof:id":1310337089,
-    "wof:lastmodified":1566663739,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412154,
     "wof:name":"Donnington",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -89,9 +105,9 @@
 },
   "bbox": [
     27.39828,
-    -32.70415999999999,
+    -32.70416,
     27.39828,
-    -32.70415999999999
+    -32.70416
 ],
-  "geometry": {"coordinates":[27.39828,-32.70415999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.39828,-32.70416],"type":"Point"}
 }

@@ -125,15 +125,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981134
     },
     "wof:country":"ZA",
-    "wof:geomhash":"effa7210e41e17ed31d0b84f31b1ac00",
+    "wof:geomhash":"e7753373b09389c8ec3f9dff1915a31b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +144,23 @@
         }
     ],
     "wof:id":1293412507,
-    "wof:lastmodified":1566663050,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411877,
     "wof:name":"Lyngdal",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -154,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36667000000001,
-    -31.61667000000001,
-    27.36667000000001,
-    -31.61667000000001
+    27.36667,
+    -31.61667,
+    27.36667,
+    -31.61667
 ],
-  "geometry": {"coordinates":[27.36667000000001,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.36667,-31.61667],"type":"Point"}
 }

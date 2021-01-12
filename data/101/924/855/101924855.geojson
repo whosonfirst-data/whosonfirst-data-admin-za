@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":649662.441957,
-    "geom:bbox":"28.8619270325,-25.0498695374,28.8725910187,-25.041727066",
+    "geom:area_square_m":649676.452971,
+    "geom:bbox":"28.861927,-25.04987,28.872591,-25.041727",
     "geom:latitude":-25.045926,
     "geom:longitude":28.866982,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1585386
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3413a0511d216eca7ebf02b7425b6769",
+    "wof:geomhash":"5fe49c30a115dcaf32d3d6be880d81d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924855,
-    "wof:lastmodified":1566663845,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412198,
     "wof:name":"Koedoespoort",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8619270324707,
-    -25.04986953735352,
-    28.87259101867676,
-    -25.04172706604004
+    28.861927,
+    -25.04987,
+    28.872591,
+    -25.041727
 ],
-  "geometry": {"coordinates":[[[28.87259101867676,-25.04423904418945],[28.87052917480469,-25.04986953735352],[28.8619270324707,-25.04816436767578],[28.86310195922852,-25.04172706604004],[28.87259101867676,-25.04423904418945]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.872591,-25.044239],[28.870529,-25.04987],[28.861927,-25.048164],[28.863102,-25.041727],[28.872591,-25.044239]]],"type":"Polygon"}
 }

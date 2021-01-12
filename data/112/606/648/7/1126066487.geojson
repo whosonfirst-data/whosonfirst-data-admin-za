@@ -48,10 +48,10 @@
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688927,
         102191573,
         85633813,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,23 @@
         }
     ],
     "wof:id":1126066487,
-    "wof:lastmodified":1566664293,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412382,
     "wof:name":"Bhongweni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1023549
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ebf3e7fa12d31d7a1ebd3734bad02aa8",
+    "wof:geomhash":"9cfbaa7b376488630b5a40caf6c10cec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243005023,
-    "wof:lastmodified":1566664337,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412400,
     "wof:name":"Agnes Rest",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01917000000001,
+    27.01917,
     -31.68766,
-    27.01917000000001,
+    27.01917,
     -31.68766
 ],
-  "geometry": {"coordinates":[27.01917000000001,-31.68766],"type":"Point"}
+  "geometry": {"coordinates":[27.01917,-31.68766],"type":"Point"}
 }

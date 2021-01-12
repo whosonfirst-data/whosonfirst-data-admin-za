@@ -45,7 +45,7 @@
         "gn:id":998454
     },
     "wof:country":"ZA",
-    "wof:geomhash":"223b917782a1664fa729b1588c07875a",
+    "wof:geomhash":"28ebb2f98d0db29579adf1d94656bf85",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -53,7 +53,23 @@
         }
     ],
     "wof:id":1209437681,
-    "wof:lastmodified":1566663427,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412038,
     "wof:name":"Gxara",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -64,9 +80,9 @@
 },
   "bbox": [
     28.37715,
-    -32.59970999999999,
+    -32.59971,
     28.37715,
-    -32.59970999999999
+    -32.59971
 ],
-  "geometry": {"coordinates":[28.37715,-32.59970999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.37715,-32.59971],"type":"Point"}
 }

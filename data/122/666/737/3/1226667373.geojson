@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8030242
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2aefa4b1ff1798a6e9cc49bee62396aa",
+    "wof:geomhash":"29b990dee8ae22836705919198b58f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226667373,
-    "wof:lastmodified":1566664643,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412526,
     "wof:name":"Nelspruti",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.9787,
-    -25.47102000000001,
+    -25.47102,
     30.9787,
-    -25.47102000000001
+    -25.47102
 ],
-  "geometry": {"coordinates":[30.9787,-25.47102000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.9787,-25.47102],"type":"Point"}
 }

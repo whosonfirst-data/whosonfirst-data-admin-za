@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":950182
     },
     "wof:country":"ZA",
-    "wof:geomhash":"37b29441556d00185b1444376c743280",
+    "wof:geomhash":"b3e813a9d2149494b158f600cc21d1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1293003763,
-    "wof:lastmodified":1566663021,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411864,
     "wof:name":"Taleni",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.68677000000001,
+    29.68677,
     -30.69402,
-    29.68677000000001,
+    29.68677,
     -30.69402
 ],
-  "geometry": {"coordinates":[29.68677000000001,-30.69402],"type":"Point"}
+  "geometry": {"coordinates":[29.68677,-30.69402],"type":"Point"}
 }

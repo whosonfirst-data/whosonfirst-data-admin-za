@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730617
+        1108730617,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3369405
     },
     "wof:country":"ZA",
-    "wof:geomhash":"34c4f4f4e6c03f8b0f86a0df69cfd568",
+    "wof:geomhash":"1b465daa8b816b169b08acdc9c8d52ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1292979085,
-    "wof:lastmodified":1566663119,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411907,
     "wof:name":"Brandfontein",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     19.87121,
-    -34.76430999999999,
+    -34.76431,
     19.87121,
-    -34.76430999999999
+    -34.76431
 ],
-  "geometry": {"coordinates":[19.87121,-34.76430999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.87121,-34.76431],"type":"Point"}
 }

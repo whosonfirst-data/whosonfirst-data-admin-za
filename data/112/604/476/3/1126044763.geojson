@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.777267,-24.3930315,31.777267,-24.3930315",
+    "geom:bbox":"31.777267,-24.393031,31.777267,-24.393031",
     "geom:latitude":-24.393031,
     "geom:longitude":31.777267,
     "gn:country":null,
@@ -64,8 +64,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497302365,
-    "wof:geomhash":"fe549bf3277adee930470e088d397897",
+    "wof:geomhash":"8289e9d1c50ea9283c48f2d83d5c3b89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +85,23 @@
         }
     ],
     "wof:id":1126044763,
-    "wof:lastmodified":1566664222,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412353,
     "wof:name":"Satara",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -96,9 +112,9 @@
 },
   "bbox": [
     31.777267,
-    -24.3930315,
+    -24.393031,
     31.777267,
-    -24.3930315
+    -24.393031
 ],
-  "geometry": {"coordinates":[31.777267,-24.3930315],"type":"Point"}
+  "geometry": {"coordinates":[31.777267,-24.393031],"type":"Point"}
 }

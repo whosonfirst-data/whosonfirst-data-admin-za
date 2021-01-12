@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959116
     },
     "wof:country":"ZA",
-    "wof:geomhash":"527212d031d01094f02222a459e09c5a",
+    "wof:geomhash":"e15393073062f6cab41df26dfd1c1d63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260388217,
-    "wof:lastmodified":1566663486,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412062,
     "wof:name":"Rossdale",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.93333,
-    -30.11667000000001,
+    -30.11667,
     28.93333,
-    -30.11667000000001
+    -30.11667
 ],
-  "geometry": {"coordinates":[28.93333,-30.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.93333,-30.11667],"type":"Point"}
 }

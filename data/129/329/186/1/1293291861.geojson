@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980409
     },
     "wof:country":"ZA",
-    "wof:geomhash":"84155fb70ea377e8e2f3f60b86164b56",
+    "wof:geomhash":"310165588746fb563e8cb64f5a0a8fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293291861,
-    "wof:lastmodified":1566663135,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411914,
     "wof:name":"Magqubeni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.55042000000001,
+    28.55042,
     -31.25571,
-    28.55042000000001,
+    28.55042,
     -31.25571
 ],
-  "geometry": {"coordinates":[28.55042000000001,-31.25571],"type":"Point"}
+  "geometry": {"coordinates":[28.55042,-31.25571],"type":"Point"}
 }

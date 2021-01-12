@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991489
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d85efebea8b79a63c33438ba33a7cdb0",
+    "wof:geomhash":"4e1f18744813cc62e414150e5f918bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1209820269,
-    "wof:lastmodified":1566663369,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412013,
     "wof:name":"Kei Mouth",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -73,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.36667000000001,
+    28.36667,
     -32.65,
-    28.36667000000001,
+    28.36667,
     -32.65
 ],
-  "geometry": {"coordinates":[28.36667000000001,-32.65],"type":"Point"}
+  "geometry": {"coordinates":[28.36667,-32.65],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973242
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c6b98422ad9220b581bcf8984b1aef52",
+    "wof:geomhash":"756416555492a240a706e8f77e0c5a3e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309701885,
-    "wof:lastmodified":1566664175,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412330,
     "wof:name":"Mphakane 1",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.7121,
-    -23.49627000000001,
+    -23.49627,
     29.7121,
-    -23.49627000000001
+    -23.49627
 ],
-  "geometry": {"coordinates":[29.7121,-23.49627000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.7121,-23.49627],"type":"Point"}
 }

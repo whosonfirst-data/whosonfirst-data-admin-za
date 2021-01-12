@@ -69,15 +69,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1022073
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ebdd653e27daa07e099058b44e29a447",
+    "wof:geomhash":"e069a1eb5a39a6080de7a3c88efe31dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +88,23 @@
         }
     ],
     "wof:id":1293673477,
-    "wof:lastmodified":1566663105,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411901,
     "wof:name":"Athol",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -98,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.34584000000001,
+    31.34584,
     -24.71636,
-    31.34584000000001,
+    31.34584,
     -24.71636
 ],
-  "geometry": {"coordinates":[31.34584000000001,-24.71636],"type":"Point"}
+  "geometry": {"coordinates":[31.34584,-24.71636],"type":"Point"}
 }

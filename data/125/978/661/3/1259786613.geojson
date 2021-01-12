@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730559
+        1108730559,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980403
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1de6d72cf471a022bf9d5bdf565365dc",
+    "wof:geomhash":"39b562065dedb9d1e034fc75e270f443",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1259786613,
-    "wof:lastmodified":1566664533,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412480,
     "wof:name":"Magudu",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",
@@ -76,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.64877000000001,
+    31.64877,
     -27.53353,
-    31.64877000000001,
+    31.64877,
     -27.53353
 ],
-  "geometry": {"coordinates":[31.64877000000001,-27.53353],"type":"Point"}
+  "geometry": {"coordinates":[31.64877,-27.53353],"type":"Point"}
 }

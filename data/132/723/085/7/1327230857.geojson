@@ -245,15 +245,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997195
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cf7313760d10292241b3162cf1317c8f",
+    "wof:geomhash":"8d66701df0acc5e037caba9f348340b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -264,7 +264,23 @@
         }
     ],
     "wof:id":1327230857,
-    "wof:lastmodified":1566662695,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411731,
     "wof:name":"Hebron",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -274,10 +290,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.43602000000001,
+    26.43602,
     -30.67533,
-    26.43602000000001,
+    26.43602,
     -30.67533
 ],
-  "geometry": {"coordinates":[26.43602000000001,-30.67533],"type":"Point"}
+  "geometry": {"coordinates":[26.43602,-30.67533],"type":"Point"}
 }

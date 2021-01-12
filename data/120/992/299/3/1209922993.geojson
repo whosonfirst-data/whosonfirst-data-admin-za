@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730559
+        1108730559,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11495908
     },
     "wof:country":"ZA",
-    "wof:geomhash":"18480bff58b9d7bd0c4752231f328d99",
+    "wof:geomhash":"3d7ccb3af9c250a52d64971cdeb18b38",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209922993,
-    "wof:lastmodified":1566663379,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412017,
     "wof:name":"Hlahlindlela",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.72917,
-    -28.03944000000001,
+    -28.03944,
     30.72917,
-    -28.03944000000001
+    -28.03944
 ],
-  "geometry": {"coordinates":[30.72917,-28.03944000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.72917,-28.03944],"type":"Point"}
 }

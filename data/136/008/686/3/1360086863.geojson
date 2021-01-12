@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1012290
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b41b6800d65f84dee4d4920a8a633222",
+    "wof:geomhash":"4e8e82501274f5ddd1d4ced5ca5b1c40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360086863,
-    "wof:lastmodified":1566663767,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412165,
     "wof:name":"Cyferfontein",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.14967,
-    -29.69672000000001,
+    -29.69672,
     26.14967,
-    -29.69672000000001
+    -29.69672
 ],
-  "geometry": {"coordinates":[26.14967,-29.69672000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.14967,-29.69672],"type":"Point"}
 }

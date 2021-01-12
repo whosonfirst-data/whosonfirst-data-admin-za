@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":898767.002395,
-    "geom:bbox":"30.5799388885,-23.1981124878,30.5959205627,-23.1862831116",
-    "geom:latitude":-23.192022,
-    "geom:longitude":30.58783,
+    "geom:area_square_m":898763.873809,
+    "geom:bbox":"30.579939,-23.198112,30.595921,-23.186283",
+    "geom:latitude":-23.192021,
+    "geom:longitude":30.587831,
     "iso:country":"ZA",
     "lbl:latitude":-23.192179,
     "lbl:longitude":30.587831,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1583898
     },
     "wof:country":"ZA",
-    "wof:geomhash":"38a21c0d190ba9287149d5c93b6a9646",
+    "wof:geomhash":"83aeaaff0bdf8c43652347f6355a713b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924093,
-    "wof:lastmodified":1566663846,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412198,
     "wof:name":"Ka-Tomu",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.5799388885498,
-    -23.19811248779297,
-    30.59592056274414,
-    -23.18628311157227
+    30.579939,
+    -23.198112,
+    30.595921,
+    -23.186283
 ],
-  "geometry": {"coordinates":[[[30.59592056274414,-23.18975639343262],[30.58373260498047,-23.19811248779297],[30.5799388885498,-23.19292449951172],[30.59348678588867,-23.18628311157227],[30.59592056274414,-23.18975639343262]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.595921,-23.189756],[30.583733,-23.198112],[30.579939,-23.192924],[30.593487,-23.186283],[30.595921,-23.189756]]],"type":"Polygon"}
 }

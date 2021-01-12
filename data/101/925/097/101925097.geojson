@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":804604.605577,
-    "geom:bbox":"26.4808330536,-25.2625751495,26.4906272888,-25.2504405975",
-    "geom:latitude":-25.256338,
+    "geom:area_square_m":804542.909865,
+    "geom:bbox":"26.480833,-25.262575,26.490627,-25.250441",
+    "geom:latitude":-25.256339,
     "geom:longitude":26.485697,
     "iso:country":"ZA",
     "lbl:latitude":-25.256383,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1584183
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0e99dd19fed3476fc0230684466a257c",
+    "wof:geomhash":"fc41b3f3835a7a31f77a38e481c9fae0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925097,
-    "wof:lastmodified":1566663924,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412230,
     "wof:name":"Tshwaro",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.48083305358887,
-    -25.26257514953613,
-    26.49062728881836,
-    -25.25044059753418
+    26.480833,
+    -25.262575,
+    26.490627,
+    -25.250441
 ],
-  "geometry": {"coordinates":[[[26.49062728881836,-25.25371170043945],[26.48811149597168,-25.26257514953613],[26.48083305358887,-25.25857353210449],[26.48295974731445,-25.25044059753418],[26.49062728881836,-25.25371170043945]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[26.490627,-25.253712],[26.488111,-25.262575],[26.480833,-25.258574],[26.48296,-25.250441],[26.490627,-25.253712]]],"type":"Polygon"}
 }

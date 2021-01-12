@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":102501.791688,
-    "geom:bbox":"31.8925247192,-27.3200645447,31.8981742859,-27.3167591095",
+    "geom:area_square_m":102505.324235,
+    "geom:bbox":"31.892525,-27.320065,31.898174,-27.316759",
     "geom:latitude":-27.317865,
     "geom:longitude":31.895883,
     "iso:country":"ZA",
@@ -61,8 +61,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730559
+        1108730559,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         "wk:page":"Golela"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"302667403c67b4526066c1f3ec0c319b",
+    "wof:geomhash":"aa9137fbdbf289c99419ce67ee2c68b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +83,23 @@
         }
     ],
     "wof:id":101927417,
-    "wof:lastmodified":1566664025,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412269,
     "wof:name":"Golela",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",
@@ -93,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.89252471923828,
-    -27.32006454467773,
-    31.89817428588867,
-    -27.31675910949707
+    31.892525,
+    -27.320065,
+    31.898174,
+    -27.316759
 ],
-  "geometry": {"coordinates":[[[31.89817428588867,-27.31675910949707],[31.89694976806641,-27.32006454467773],[31.89252471923828,-27.31677055358887],[31.89817428588867,-27.31675910949707]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[31.898174,-27.316759],[31.89695,-27.320065],[31.892525,-27.316771],[31.898174,-27.316759]]],"type":"Polygon"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1007968
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2071fee73060cf503382b58d9d95b676",
+    "wof:geomhash":"0e8195c5e34dab2ddb92fa847c51d8ff",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209637769,
-    "wof:lastmodified":1566663333,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411998,
     "wof:name":"Drieweeksleegte",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     22.1341,
-    -30.93809000000001,
+    -30.93809,
     22.1341,
-    -30.93809000000001
+    -30.93809
 ],
-  "geometry": {"coordinates":[22.1341,-30.93809000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.1341,-30.93809],"type":"Point"}
 }

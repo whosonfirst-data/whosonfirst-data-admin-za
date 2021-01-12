@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968401
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bd2a394ed01f8c0ea12cd7ea733c5376",
+    "wof:geomhash":"0f2b5d608f438cc1e1ccd08939301f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343881167,
-    "wof:lastmodified":1566662926,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411830,
     "wof:name":"Old Bunting",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.17649,
-    -31.66594000000001,
+    -31.66594,
     29.17649,
-    -31.66594000000001
+    -31.66594
 ],
-  "geometry": {"coordinates":[29.17649,-31.66594000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.17649,-31.66594],"type":"Point"}
 }

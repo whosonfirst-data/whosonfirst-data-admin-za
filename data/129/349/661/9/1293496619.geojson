@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1009640
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b37499f34d544c978fe598fe0af14a7e",
+    "wof:geomhash":"31e07849224f71c0c104aa89fa8574f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293496619,
-    "wof:lastmodified":1566663063,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411882,
     "wof:name":"Dolwana",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.95,
-    -28.61667000000001,
+    -28.61667,
     30.95,
-    -28.61667000000001
+    -28.61667
 ],
-  "geometry": {"coordinates":[30.95,-28.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.95,-28.61667],"type":"Point"}
 }

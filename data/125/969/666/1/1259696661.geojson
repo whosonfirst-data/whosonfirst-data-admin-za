@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985928
     },
     "wof:country":"ZA",
-    "wof:geomhash":"eebb7dad9355b6851812e209b0002a07",
+    "wof:geomhash":"a9f58f03e621552c7ce7e46cf35776be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1259696661,
-    "wof:lastmodified":1566664567,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412494,
     "wof:name":"KwaDweshula",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.27639000000001,
+    30.27639,
     -30.55655,
-    30.27639000000001,
+    30.27639,
     -30.55655
 ],
-  "geometry": {"coordinates":[30.27639000000001,-30.55655],"type":"Point"}
+  "geometry": {"coordinates":[30.27639,-30.55655],"type":"Point"}
 }

@@ -95,15 +95,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984155
     },
     "wof:country":"ZA",
-    "wof:geomhash":"66a312def108c52f283f84f39a06b5ab",
+    "wof:geomhash":"fa5b513c972e20af4e4846481ef22760",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +114,23 @@
         }
     ],
     "wof:id":1343761103,
-    "wof:lastmodified":1566662857,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411796,
     "wof:name":"Lavinia",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -125,9 +141,9 @@
 },
   "bbox": [
     26.9234,
-    -31.65214000000001,
+    -31.65214,
     26.9234,
-    -31.65214000000001
+    -31.65214
 ],
-  "geometry": {"coordinates":[26.9234,-31.65214000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.9234,-31.65214],"type":"Point"}
 }

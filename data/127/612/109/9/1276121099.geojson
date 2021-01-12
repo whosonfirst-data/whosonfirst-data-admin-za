@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970423
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3b0c328e15b36fc19d72e1f10065036e",
+    "wof:geomhash":"8214fa3c176ec6553020b289a2e45549",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276121099,
-    "wof:lastmodified":1566663261,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411967,
     "wof:name":"Nkifa Farm",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.63831,
-    -29.80107000000001,
+    -29.80107,
     29.63831,
-    -29.80107000000001
+    -29.80107
 ],
-  "geometry": {"coordinates":[29.63831,-29.80107000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.63831,-29.80107],"type":"Point"}
 }

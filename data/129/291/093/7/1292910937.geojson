@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011421
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ab06e5adf7fcfc3a13ba1cb5224d1b3b",
+    "wof:geomhash":"68477298e6a03fb5266575075c4be2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1292910937,
-    "wof:lastmodified":1566663114,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411905,
     "wof:name":"Deelkraal",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.51468,
-    -29.42279000000001,
+    -29.42279,
     26.51468,
-    -29.42279000000001
+    -29.42279
 ],
-  "geometry": {"coordinates":[26.51468,-29.42279000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.51468,-29.42279],"type":"Point"}
 }

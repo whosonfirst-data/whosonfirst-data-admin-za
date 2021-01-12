@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979367
     },
     "wof:country":"ZA",
-    "wof:geomhash":"01a2640afcc202a50917d12c0f2259a4",
+    "wof:geomhash":"0b472a7f268743c7c3295e14c38b4b65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193262175,
-    "wof:lastmodified":1566663484,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412061,
     "wof:name":"Mankgekgetha",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.86667000000001,
+    27.86667,
     -25.18333,
-    27.86667000000001,
+    27.86667,
     -25.18333
 ],
-  "geometry": {"coordinates":[27.86667000000001,-25.18333],"type":"Point"}
+  "geometry": {"coordinates":[27.86667,-25.18333],"type":"Point"}
 }

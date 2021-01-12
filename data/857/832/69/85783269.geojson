@@ -9,7 +9,6 @@
     "geom:bbox":"18.85276,-33.926566,18.85276,-33.926566",
     "geom:latitude":-33.926566,
     "geom:longitude":18.85276,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.84776,-33.931566,18.85776,-33.921566",
     "lbl:latitude":-33.926566,
@@ -57,10 +56,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,10 +82,23 @@
         }
     ],
     "wof:id":85783269,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411833,
     "wof:name":"Plankenbrug",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

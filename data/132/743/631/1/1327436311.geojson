@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997906
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ca68e7563817382e7d9b913e3a8631f9",
+    "wof:geomhash":"7ff553c055a1dbd626d639daedddabbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327436311,
-    "wof:lastmodified":1566662766,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411764,
     "wof:name":"Hardale",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.476,
-    -31.16622000000001,
+    -31.16622,
     28.476,
-    -31.16622000000001
+    -31.16622
 ],
-  "geometry": {"coordinates":[28.476,-31.16622000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.476,-31.16622],"type":"Point"}
 }

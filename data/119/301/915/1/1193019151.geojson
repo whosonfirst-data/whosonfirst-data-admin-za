@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973450
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b13f96da5670ba7ceec1360ac74794c7",
+    "wof:geomhash":"82a6bfceec1956f7faf3c7490a93948f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193019151,
-    "wof:lastmodified":1566663457,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412050,
     "wof:name":"Mount Saint Bernard",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.38173,
-    -28.91284000000001,
+    -28.91284,
     30.38173,
-    -28.91284000000001
+    -28.91284
 ],
-  "geometry": {"coordinates":[30.38173,-28.91284000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.38173,-28.91284],"type":"Point"}
 }

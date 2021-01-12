@@ -184,7 +184,7 @@
         "gn:id":1022268
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a759a609a449a5763fc2c76dd58c2475",
+    "wof:geomhash":"39d11dcb601b2649fc48d39ca3d05c7d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -192,7 +192,23 @@
         }
     ],
     "wof:id":1209638261,
-    "wof:lastmodified":1566663333,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411997,
     "wof:name":"Armistice",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -203,9 +219,9 @@
 },
   "bbox": [
     26.60678,
-    -33.24724000000001,
+    -33.24724,
     26.60678,
-    -33.24724000000001
+    -33.24724
 ],
-  "geometry": {"coordinates":[26.60678,-33.24724000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60678,-33.24724],"type":"Point"}
 }

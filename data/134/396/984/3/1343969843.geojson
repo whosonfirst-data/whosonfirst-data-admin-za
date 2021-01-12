@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1006719
     },
     "wof:country":"ZA",
-    "wof:geomhash":"90fd3ebbd77adf4fcd303776e1b785d2",
+    "wof:geomhash":"8e32fd5c6329e32d47e5fce29a34043e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343969843,
-    "wof:lastmodified":1566662813,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411774,
     "wof:name":"Eensaamkraal",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.46679,
-    -29.93002000000001,
+    -29.93002,
     26.46679,
-    -29.93002000000001
+    -29.93002
 ],
-  "geometry": {"coordinates":[26.46679,-29.93002000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.46679,-29.93002],"type":"Point"}
 }

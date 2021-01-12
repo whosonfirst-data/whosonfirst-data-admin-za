@@ -40,7 +40,7 @@
         "gn:id":995991
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4a6be4340521f01d74862e46053de007",
+    "wof:geomhash":"760e17584d28328c75651d0f4f53814d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209537925,
-    "wof:lastmodified":1566663314,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411990,
     "wof:name":"Holfontein",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     27.46538,
-    -26.16472000000001,
+    -26.16472,
     27.46538,
-    -26.16472000000001
+    -26.16472
 ],
-  "geometry": {"coordinates":[27.46538,-26.16472000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.46538,-26.16472],"type":"Point"}
 }

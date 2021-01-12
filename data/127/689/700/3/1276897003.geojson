@@ -377,15 +377,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965911
     },
     "wof:country":"ZA",
-    "wof:geomhash":"83f295ec834d819e42ce6b16b847d3a7",
+    "wof:geomhash":"658e10d655a5f25e7fb60fe3a40c6d00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -396,7 +396,23 @@
         }
     ],
     "wof:id":1276897003,
-    "wof:lastmodified":1566663210,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411944,
     "wof:name":"Peninsula",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -406,10 +422,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.82969000000001,
+    26.82969,
     -31.92737,
-    26.82969000000001,
+    26.82969,
     -31.92737
 ],
-  "geometry": {"coordinates":[26.82969000000001,-31.92737],"type":"Point"}
+  "geometry": {"coordinates":[26.82969,-31.92737],"type":"Point"}
 }

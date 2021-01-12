@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1023069
     },
     "wof:country":"ZA",
-    "wof:geomhash":"46eace6b9d2243964d7912009d753d2d",
+    "wof:geomhash":"2805c509a32fea04e8227693b0ec3a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1276654395,
-    "wof:lastmodified":1566663285,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411978,
     "wof:name":"Althea",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     27.90708,
-    -26.42664000000001,
+    -26.42664,
     27.90708,
-    -26.42664000000001
+    -26.42664
 ],
-  "geometry": {"coordinates":[27.90708,-26.42664000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.90708,-26.42664],"type":"Point"}
 }

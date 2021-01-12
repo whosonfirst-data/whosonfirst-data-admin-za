@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980262
     },
     "wof:country":"ZA",
-    "wof:geomhash":"72473d76a3c7c74080784851127db95b",
+    "wof:geomhash":"bf6b1a6574e5afb3a2b24ef3be59766a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1210029125,
-    "wof:lastmodified":1566663448,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412046,
     "wof:name":"Mahlutshini",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.59377000000001,
+    29.59377,
     -29.55475,
-    29.59377000000001,
+    29.59377,
     -29.55475
 ],
-  "geometry": {"coordinates":[29.59377000000001,-29.55475],"type":"Point"}
+  "geometry": {"coordinates":[29.59377,-29.55475],"type":"Point"}
 }

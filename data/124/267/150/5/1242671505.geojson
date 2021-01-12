@@ -41,8 +41,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +50,7 @@
         "wk:page":"Pomfret%2C_North_West"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3de02219a4dddd3bc3bbb2eded51574f",
+    "wof:geomhash":"869da3fbf3d08fbc797f94cd1b48e03b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +61,23 @@
         }
     ],
     "wof:id":1242671505,
-    "wof:lastmodified":1566664396,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412423,
     "wof:name":"Pomfret",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.52442000000001,
+    23.52442,
     -25.8156,
-    23.52442000000001,
+    23.52442,
     -25.8156
 ],
-  "geometry": {"coordinates":[23.52442000000001,-25.8156],"type":"Point"}
+  "geometry": {"coordinates":[23.52442,-25.8156],"type":"Point"}
 }

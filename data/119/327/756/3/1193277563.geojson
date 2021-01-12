@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1001285
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5b49b072c8155d4e3f0ed6852bf584ca",
+    "wof:geomhash":"a19ef359b1b36276a1e8dd8d8af1c711",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193277563,
-    "wof:lastmodified":1566663482,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412060,
     "wof:name":"Goede Hoop (3)",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.28822000000001,
+    26.28822,
     -30.03113,
-    26.28822000000001,
+    26.28822,
     -30.03113
 ],
-  "geometry": {"coordinates":[26.28822000000001,-30.03113],"type":"Point"}
+  "geometry": {"coordinates":[26.28822,-30.03113],"type":"Point"}
 }

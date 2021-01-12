@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":951283
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0ad7d857eee1ec39b820c8fa7992a168",
+    "wof:geomhash":"83a4e29f50b38e91b3de6e20da5d2314",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260074603,
-    "wof:lastmodified":1566663492,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412065,
     "wof:name":"Suswe",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.69427,
-    -23.87502000000001,
+    -23.87502,
     28.69427,
-    -23.87502000000001
+    -23.87502
 ],
-  "geometry": {"coordinates":[28.69427,-23.87502000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.69427,-23.87502],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":974909
     },
     "wof:country":"ZA",
-    "wof:geomhash":"db40ae38c8724a2f408185a2b3fb7ccb",
+    "wof:geomhash":"d6ee89502cb170da276a87d0d8994ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242567557,
-    "wof:lastmodified":1566664402,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412426,
     "wof:name":"Mohlarutse",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.23333,
-    -24.61667000000001,
+    -24.61667,
     30.23333,
-    -24.61667000000001
+    -24.61667
 ],
-  "geometry": {"coordinates":[30.23333,-24.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.23333,-24.61667],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.5033231188,-28.6083455213,16.5033231188,-28.6083455213",
+    "geom:bbox":"16.503323,-28.608346,16.503323,-28.608346",
     "geom:latitude":-28.608346,
     "geom:longitude":16.503323,
     "iso:country":"ZA",
@@ -174,8 +174,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,7 +183,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499130984,
-    "wof:geomhash":"0077f060475e5785a984d688caf31edd",
+    "wof:geomhash":"fb122322a9dcfcd93e1e9c0dc8730b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +194,23 @@
         }
     ],
     "wof:id":1141908853,
-    "wof:lastmodified":1566664721,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Alexander Bay",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -204,10 +220,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.50332311876861,
-    -28.60834552125692,
-    16.50332311876861,
-    -28.60834552125692
+    16.503323,
+    -28.608346,
+    16.503323,
+    -28.608346
 ],
-  "geometry": {"coordinates":[16.50332311876861,-28.60834552125692],"type":"Point"}
+  "geometry": {"coordinates":[16.503323,-28.608346],"type":"Point"}
 }

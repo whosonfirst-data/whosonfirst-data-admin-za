@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981171
     },
     "wof:country":"ZA",
-    "wof:geomhash":"33a1042a7ba9201764b86ca1912dfe82",
+    "wof:geomhash":"f14e5f02d96f72055e96998214850662",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343457871,
-    "wof:lastmodified":1566662908,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411822,
     "wof:name":"Lwandlana",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.18333,
-    -31.36667000000001,
+    -31.36667,
     29.18333,
-    -31.36667000000001
+    -31.36667
 ],
-  "geometry": {"coordinates":[29.18333,-31.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.18333,-31.36667],"type":"Point"}
 }

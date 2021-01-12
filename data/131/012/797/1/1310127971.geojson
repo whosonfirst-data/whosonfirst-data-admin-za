@@ -344,8 +344,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -363,7 +363,23 @@
         }
     ],
     "wof:id":1310127971,
-    "wof:lastmodified":1566663645,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412115,
     "wof:name":"Kelvin",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985940
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3afd64bbddf70d3852dabc3a081602f2",
+    "wof:geomhash":"79efd3bb2abdfe5a9ac720d22dcec9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343284663,
-    "wof:lastmodified":1566662912,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411824,
     "wof:name":"KwaDudumashe",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.32455,
-    -31.90102000000001,
+    -31.90102,
     27.32455,
-    -31.90102000000001
+    -31.90102
 ],
-  "geometry": {"coordinates":[27.32455,-31.90102000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.32455,-31.90102],"type":"Point"}
 }

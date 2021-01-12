@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981019
     },
     "wof:country":"ZA",
-    "wof:geomhash":"987a180ad5ddc1ca8a1bf20301931bba",
+    "wof:geomhash":"bad5a2c1c2bd40af939144b7f24da32f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276537875,
-    "wof:lastmodified":1566663293,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411981,
     "wof:name":"Mabaalstad",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.61667000000001,
+    26.61667,
     -25.83333,
-    26.61667000000001,
+    26.61667,
     -25.83333
 ],
-  "geometry": {"coordinates":[26.61667000000001,-25.83333],"type":"Point"}
+  "geometry": {"coordinates":[26.61667,-25.83333],"type":"Point"}
 }

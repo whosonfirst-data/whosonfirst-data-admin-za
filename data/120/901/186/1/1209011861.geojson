@@ -40,7 +40,7 @@
         "gn:id":992829
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c9bb1a8d38a306ad3ccd168cbd6ca97c",
+    "wof:geomhash":"237513d59ecfd0be687ebe6015ef5df6",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209011861,
-    "wof:lastmodified":1566663326,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411995,
     "wof:name":"Kalkfontein",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     26.67586,
-    -29.74984000000001,
+    -29.74984,
     26.67586,
-    -29.74984000000001
+    -29.74984
 ],
-  "geometry": {"coordinates":[26.67586,-29.74984000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.67586,-29.74984],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":974786
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c8c9847052cb2e0f80880f62a9065e5e",
+    "wof:geomhash":"90ff5212699fa04bad9cf4905c29dd64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276204469,
-    "wof:lastmodified":1566663218,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411948,
     "wof:name":"Molen Drift",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.35532000000001,
+    22.35532,
     -33.95838,
-    22.35532000000001,
+    22.35532,
     -33.95838
 ],
-  "geometry": {"coordinates":[22.35532000000001,-33.95838],"type":"Point"}
+  "geometry": {"coordinates":[22.35532,-33.95838],"type":"Point"}
 }

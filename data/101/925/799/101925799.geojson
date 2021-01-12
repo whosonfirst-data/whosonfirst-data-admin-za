@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
-    "geom:area_square_m":176697.884183,
-    "geom:bbox":"27.718290329,-26.1629943848,27.724615097,-26.1586456299",
+    "geom:area_square_m":176679.777911,
+    "geom:bbox":"27.71829,-26.162994,27.724615,-26.158646",
     "geom:latitude":-26.160892,
     "geom:longitude":27.721402,
     "iso:country":"ZA",
@@ -107,15 +107,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1586785
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bd256a4c0e8a1c7712b8e5fd890305f9",
+    "wof:geomhash":"66c2ec57bf8528cbd9a3fb92b1148e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +126,23 @@
         }
     ],
     "wof:id":101925799,
-    "wof:lastmodified":1566663907,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412223,
     "wof:name":"Robinson",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -136,10 +152,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.71829032897949,
-    -26.16299438476562,
-    27.7246150970459,
-    -26.15864562988281
+    27.71829,
+    -26.162994,
+    27.724615,
+    -26.158646
 ],
-  "geometry": {"coordinates":[[[27.72223663330078,-26.16299438476562],[27.71829032897949,-26.16229820251465],[27.72052574157715,-26.15864562988281],[27.7246150970459,-26.15976333618164],[27.72223663330078,-26.16299438476562]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.722237,-26.162994],[27.71829,-26.162298],[27.720526,-26.158646],[27.724615,-26.159763],[27.722237,-26.162994]]],"type":"Polygon"}
 }

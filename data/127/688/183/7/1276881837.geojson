@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11238942
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a2208b9714c363f3bfda35d30ed3771c",
+    "wof:geomhash":"50cd0d7bc31e7c32271ec2e3dba4b03d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276881837,
-    "wof:lastmodified":1566663196,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411939,
     "wof:name":"Tshelimnyama",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.80679,
-    -29.83992000000001,
+    -29.83992,
     30.80679,
-    -29.83992000000001
+    -29.83992
 ],
-  "geometry": {"coordinates":[30.80679,-29.83992000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.80679,-29.83992],"type":"Point"}
 }

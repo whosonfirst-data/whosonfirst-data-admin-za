@@ -401,8 +401,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -420,7 +420,23 @@
         }
     ],
     "wof:id":1226137169,
-    "wof:lastmodified":1566664659,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412533,
     "wof:name":"Hanover",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963733
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a6f3f16230ec8e11b8807d6b5a9e7f82",
+    "wof:geomhash":"286080ce237deebf56eb5b71426e8705",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343863007,
-    "wof:lastmodified":1566662919,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411827,
     "wof:name":"Qasa",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.61671,
-    -30.97084000000001,
+    -30.97084,
     29.61671,
-    -30.97084000000001
+    -30.97084
 ],
-  "geometry": {"coordinates":[29.61671,-30.97084000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.61671,-30.97084],"type":"Point"}
 }

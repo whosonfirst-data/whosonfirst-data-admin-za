@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996569
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3ce246fae180c6f69568e9a0aa9a25fd",
+    "wof:geomhash":"7ecfd6f4756bad6174249728254b8e89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1276232557,
-    "wof:lastmodified":1566663259,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411966,
     "wof:name":"Highlands",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     29.95198,
-    -30.33382000000001,
+    -30.33382,
     29.95198,
-    -30.33382000000001
+    -30.33382
 ],
-  "geometry": {"coordinates":[29.95198,-30.33382000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.95198,-30.33382],"type":"Point"}
 }

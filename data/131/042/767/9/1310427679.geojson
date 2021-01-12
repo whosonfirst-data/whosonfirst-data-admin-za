@@ -171,15 +171,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":962332
     },
     "wof:country":"ZA",
-    "wof:geomhash":"534b43c4b906e8bc3099e9c4726c1c9d",
+    "wof:geomhash":"6b270754c6dc8a0979df7550cc084f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -190,7 +190,23 @@
         }
     ],
     "wof:id":1310427679,
-    "wof:lastmodified":1566663701,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412138,
     "wof:name":"Richmond",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -201,9 +217,9 @@
 },
   "bbox": [
     27.9374,
-    -26.69372000000001,
+    -26.69372,
     27.9374,
-    -26.69372000000001
+    -26.69372
 ],
-  "geometry": {"coordinates":[27.9374,-26.69372000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.9374,-26.69372],"type":"Point"}
 }

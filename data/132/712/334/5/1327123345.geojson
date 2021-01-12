@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003347
     },
     "wof:country":"ZA",
-    "wof:geomhash":"797ff61d6071b89907d2eb09f7bf4999",
+    "wof:geomhash":"fcd131806d50254242a32533f58a0e88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1327123345,
-    "wof:lastmodified":1566662689,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411729,
     "wof:name":"Ga-Makgatle",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     23.86112,
-    -27.02517000000001,
+    -27.02517,
     23.86112,
-    -27.02517000000001
+    -27.02517
 ],
-  "geometry": {"coordinates":[23.86112,-27.02517000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.86112,-27.02517],"type":"Point"}
 }

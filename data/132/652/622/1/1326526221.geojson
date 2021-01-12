@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":937585
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e41036a7bafd6b9aac8b9884cbb1df4c",
+    "wof:geomhash":"cc1572638ffa4c94d9750dab85f2e752",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326526221,
-    "wof:lastmodified":1566662744,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411752,
     "wof:name":"Yskor",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.4,
-    -24.61667000000001,
+    -24.61667,
     27.4,
-    -24.61667000000001
+    -24.61667
 ],
-  "geometry": {"coordinates":[27.4,-24.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.4,-24.61667],"type":"Point"}
 }

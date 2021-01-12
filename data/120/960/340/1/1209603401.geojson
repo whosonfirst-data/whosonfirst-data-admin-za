@@ -40,7 +40,7 @@
         "gn:id":3361584
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9b07ba4109209b93c88da5ac91b829c4",
+    "wof:geomhash":"b03d988f2e9dc482a71d0cd3221cadba",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209603401,
-    "wof:lastmodified":1566663386,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412020,
     "wof:name":"Skerpenhevwel",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.61667000000001,
+    19.61667,
     -33.78333,
-    19.61667000000001,
+    19.61667,
     -33.78333
 ],
-  "geometry": {"coordinates":[19.61667000000001,-33.78333],"type":"Point"}
+  "geometry": {"coordinates":[19.61667,-33.78333],"type":"Point"}
 }

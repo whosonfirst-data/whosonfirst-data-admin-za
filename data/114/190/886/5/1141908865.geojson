@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.6100023994,-25.8300138155,25.6100023994,-25.8300138155",
+    "geom:bbox":"25.610002,-25.830014,25.610002,-25.830014",
     "geom:latitude":-25.830014,
     "geom:longitude":25.610002,
     "gn:country":null,
@@ -183,8 +183,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +194,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499130986,
-    "wof:geomhash":"f56897c83dc135ce6a943e1025c6b705",
+    "wof:geomhash":"56fc40f9c376dc5875f4270e5001c9c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +205,23 @@
         }
     ],
     "wof:id":1141908865,
-    "wof:lastmodified":1566664720,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412558,
     "wof:name":"Mmabatho",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -217,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.61000239940398,
-    -25.83001381551662,
-    25.61000239940398,
-    -25.83001381551662
+    25.610002,
+    -25.830014,
+    25.610002,
+    -25.830014
 ],
-  "geometry": {"coordinates":[25.61000239940398,-25.83001381551662],"type":"Point"}
+  "geometry": {"coordinates":[25.610002,-25.830014],"type":"Point"}
 }

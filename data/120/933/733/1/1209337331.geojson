@@ -40,7 +40,7 @@
         "gn:id":985917
     },
     "wof:country":"ZA",
-    "wof:geomhash":"04ebc139b6f35af680a7667b16f76609",
+    "wof:geomhash":"5ffe3878d27be83f476174873585fc60",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209337331,
-    "wof:lastmodified":1566663396,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412025,
     "wof:name":"KwaGambu",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.61667000000001,
+    27.61667,
     -31.88333,
-    27.61667000000001,
+    27.61667,
     -31.88333
 ],
-  "geometry": {"coordinates":[27.61667000000001,-31.88333],"type":"Point"}
+  "geometry": {"coordinates":[27.61667,-31.88333],"type":"Point"}
 }

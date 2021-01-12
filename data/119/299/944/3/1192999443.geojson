@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730617
+        1108730617,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963941
     },
     "wof:country":"ZA",
-    "wof:geomhash":"00a578dfd5378db1a9be52bae19507fc",
+    "wof:geomhash":"2f0e48200c48f7f7a3e96cf88636f3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1192999443,
-    "wof:lastmodified":1566663479,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412059,
     "wof:name":"Protem",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     20.07873,
-    -34.26824000000001,
+    -34.26824,
     20.07873,
-    -34.26824000000001
+    -34.26824
 ],
-  "geometry": {"coordinates":[20.07873,-34.26824000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.07873,-34.26824],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":940801
     },
     "wof:country":"ZA",
-    "wof:geomhash":"979f21248921e9a46415c0b1c5721612",
+    "wof:geomhash":"d2575fa1febc5f348d54fbd897a9064b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259387507,
-    "wof:lastmodified":1566664494,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412463,
     "wof:name":"Weltevrede",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.13778,
-    -30.68752000000001,
+    -30.68752,
     26.13778,
-    -30.68752000000001
+    -30.68752
 ],
-  "geometry": {"coordinates":[26.13778,-30.68752000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.13778,-30.68752],"type":"Point"}
 }

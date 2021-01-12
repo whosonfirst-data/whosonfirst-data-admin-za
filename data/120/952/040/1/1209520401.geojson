@@ -58,7 +58,7 @@
         "gn:id":1003949
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6c0ab1d6c5c4a0476d8989a4afda552d",
+    "wof:geomhash":"e581cbadd2e9606c2dddc4c85567d52e",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1209520401,
-    "wof:lastmodified":1566663338,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412000,
     "wof:name":"Fort Brown",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -76,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.61667000000001,
+    26.61667,
     -33.13333,
-    26.61667000000001,
+    26.61667,
     -33.13333
 ],
-  "geometry": {"coordinates":[26.61667000000001,-33.13333],"type":"Point"}
+  "geometry": {"coordinates":[26.61667,-33.13333],"type":"Point"}
 }

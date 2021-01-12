@@ -9,7 +9,6 @@
     "geom:bbox":"22.22181,-33.603345,22.22181,-33.603345",
     "geom:latitude":-33.603345,
     "geom:longitude":22.22181,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"22.21681,-33.608345,22.22681,-33.598345",
     "lbl:latitude":-33.603345,
@@ -61,11 +60,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730621,
         101928061,
-        1108730621
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,10 +88,23 @@
         }
     ],
     "wof:id":85783403,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348442,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411836,
     "wof:name":"Bridgton",
     "wof:parent_id":101928061,
     "wof:placetype":"neighbourhood",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981183
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2b627e711749fb39439a93a1edbef855",
+    "wof:geomhash":"376842d1df7a3629749685513ada5b71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243004971,
-    "wof:lastmodified":1566664338,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412400,
     "wof:name":"Luzupu",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.43637,
-    -31.35597000000001,
+    -31.35597,
     29.43637,
-    -31.35597000000001
+    -31.35597
 ],
-  "geometry": {"coordinates":[29.43637,-31.35597000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.43637,-31.35597],"type":"Point"}
 }

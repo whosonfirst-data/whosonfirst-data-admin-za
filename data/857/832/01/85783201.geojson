@@ -9,7 +9,6 @@
     "geom:bbox":"19.001567,-33.729188,19.001567,-33.729188",
     "geom:latitude":-33.729188,
     "geom:longitude":19.001567,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.996567,-33.734188,19.006567,-33.724188",
     "lbl:latitude":-33.729188,
@@ -58,11 +57,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730615,
         101928013,
-        1108730615
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,10 +85,23 @@
         }
     ],
     "wof:id":85783201,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411834,
     "wof:name":"Klein Nederburg",
     "wof:parent_id":101928013,
     "wof:placetype":"neighbourhood",

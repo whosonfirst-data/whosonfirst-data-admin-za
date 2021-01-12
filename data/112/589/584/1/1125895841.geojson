@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.5752855,-23.8537,31.5752855,-23.8537",
+    "geom:bbox":"31.575285,-23.8537,31.575285,-23.8537",
     "geom:latitude":-23.8537,
     "geom:longitude":31.575285,
     "gn:country":null,
@@ -49,8 +49,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +59,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497295558,
-    "wof:geomhash":"84d0da896ef887f64de91da8f4fcafc8",
+    "wof:geomhash":"186b3fb6b7b0647eb2a7464ebfa3e10a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +70,23 @@
         }
     ],
     "wof:id":1125895841,
-    "wof:lastmodified":1566664249,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412365,
     "wof:name":"Letaba",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -80,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.5752855,
+    31.575285,
     -23.8537,
-    31.5752855,
+    31.575285,
     -23.8537
 ],
-  "geometry": {"coordinates":[31.5752855,-23.8537],"type":"Point"}
+  "geometry": {"coordinates":[31.575285,-23.8537],"type":"Point"}
 }

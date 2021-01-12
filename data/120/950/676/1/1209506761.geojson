@@ -38,7 +38,7 @@
         "gn:id":1003333
     },
     "wof:country":"ZA",
-    "wof:geomhash":"927fa7fab6f03bdbda0059874bb604da",
+    "wof:geomhash":"d18a6c3c89ae2171540637d4e3360f42",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -46,7 +46,23 @@
         }
     ],
     "wof:id":1209506761,
-    "wof:lastmodified":1566663372,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412014,
     "wof:name":"Ga-Malekana",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -56,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.00209000000001,
+    30.00209,
     -24.88688,
-    30.00209000000001,
+    30.00209,
     -24.88688
 ],
-  "geometry": {"coordinates":[30.00209000000001,-24.88688],"type":"Point"}
+  "geometry": {"coordinates":[30.00209,-24.88688],"type":"Point"}
 }

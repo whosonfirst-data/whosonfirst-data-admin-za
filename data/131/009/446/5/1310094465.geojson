@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":956362
     },
     "wof:country":"ZA",
-    "wof:geomhash":"301cdb4567f78979c102de2f2427ed5f",
+    "wof:geomhash":"f509e790a08ad27d094800073b16175f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310094465,
-    "wof:lastmodified":1566663682,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412130,
     "wof:name":"Setabeng",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     23.50543,
-    -25.89942000000001,
+    -25.89942,
     23.50543,
-    -25.89942000000001
+    -25.89942
 ],
-  "geometry": {"coordinates":[23.50543,-25.89942000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.50543,-25.89942],"type":"Point"}
 }

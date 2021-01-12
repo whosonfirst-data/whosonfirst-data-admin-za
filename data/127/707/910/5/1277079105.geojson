@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":986389
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6dd1a992a3ca1fe5d67d2604395c05af",
+    "wof:geomhash":"14e9b91cbe9a019115a9e0f4b261c03c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1277079105,
-    "wof:lastmodified":1566663183,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411933,
     "wof:name":"KuMahasana",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.71558,
-    -32.31865999999999,
+    -32.31866,
     28.71558,
-    -32.31865999999999
+    -32.31866
 ],
-  "geometry": {"coordinates":[28.71558,-32.31865999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.71558,-32.31866],"type":"Point"}
 }

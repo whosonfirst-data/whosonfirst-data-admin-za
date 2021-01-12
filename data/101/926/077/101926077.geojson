@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":165683.931914,
-    "geom:bbox":"27.7365646362,-26.3222465515,27.7409248352,-26.3177242279",
+    "geom:area_square_m":165679.351881,
+    "geom:bbox":"27.736565,-26.322247,27.740925,-26.317724",
     "geom:latitude":-26.319775,
     "geom:longitude":27.738666,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1582504
     },
     "wof:country":"ZA",
-    "wof:geomhash":"525e77ef8e5ea29cc12b34fb85125bbc",
+    "wof:geomhash":"d939775f15e1185423a82950067bc03b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926077,
-    "wof:lastmodified":1566664054,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412280,
     "wof:name":"West Rand Agricultural Holdings",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.73656463623047,
-    -26.32224655151367,
-    27.74092483520508,
-    -26.31772422790527
+    27.736565,
+    -26.322247,
+    27.740925,
+    -26.317724
 ],
-  "geometry": {"coordinates":[[[27.73709487915039,-26.32224655151367],[27.73656463623047,-26.31796264648438],[27.74038124084473,-26.31772422790527],[27.74092483520508,-26.32106018066406],[27.73709487915039,-26.32224655151367]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.737095,-26.322247],[27.736565,-26.317963],[27.740381,-26.317724],[27.740925,-26.32106],[27.737095,-26.322247]]],"type":"Polygon"}
 }

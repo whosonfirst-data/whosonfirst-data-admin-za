@@ -72,10 +72,10 @@
     "wd:longitude":28.010278,
     "wd:wordcount":29,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[
         85772039
@@ -104,10 +104,23 @@
         }
     ],
     "wof:id":85772463,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348444,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411839,
     "wof:name":"Robertsham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

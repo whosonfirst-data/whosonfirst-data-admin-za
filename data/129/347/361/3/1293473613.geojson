@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970502
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bb6f4b3d9015b185ff5158a1a5b73001",
+    "wof:geomhash":"4b04aec0c3359ed700a6da952d42e659",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1293473613,
-    "wof:lastmodified":1566663067,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411884,
     "wof:name":"Nkajaneng",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.54497000000001,
+    23.54497,
     -27.09645,
-    23.54497000000001,
+    23.54497,
     -27.09645
 ],
-  "geometry": {"coordinates":[23.54497000000001,-27.09645],"type":"Point"}
+  "geometry": {"coordinates":[23.54497,-27.09645],"type":"Point"}
 }

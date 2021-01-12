@@ -9,7 +9,6 @@
     "geom:bbox":"28.314119,-25.76799,28.314119,-25.76799",
     "geom:latitude":-25.76799,
     "geom:longitude":28.314119,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.309119,-25.77299,28.319119,-25.76299",
     "lbl:latitude":-25.76799,
@@ -65,10 +64,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":60,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,10 +92,23 @@
         }
     ],
     "wof:id":85782995,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348440,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411832,
     "wof:name":"Die Wilgers",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

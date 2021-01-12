@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":977608
     },
     "wof:country":"ZA",
-    "wof:geomhash":"81642a826a7851420fc3ad1db703759f",
+    "wof:geomhash":"84b86fbdd76d203c4ad4ae0acfa1c610",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1277079259,
-    "wof:lastmodified":1566663178,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411932,
     "wof:name":"Mbokazi",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.34775,
-    -31.43574000000001,
+    -31.43574,
     29.34775,
-    -31.43574000000001
+    -31.43574
 ],
-  "geometry": {"coordinates":[29.34775,-31.43574000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.34775,-31.43574],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11205555
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3dda5dc91d06d4d3c4c8c4e3af517e0c",
+    "wof:geomhash":"3e506b58e716f492e5f32fb57530147e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276546133,
-    "wof:lastmodified":1566663295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411982,
     "wof:name":"Mafusini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.4529,
-    -31.54919000000001,
+    -31.54919,
     29.4529,
-    -31.54919000000001
+    -31.54919
 ],
-  "geometry": {"coordinates":[29.4529,-31.54919000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.4529,-31.54919],"type":"Point"}
 }

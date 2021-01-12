@@ -53,8 +53,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         "wk:page":"Mbuzini"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d05bdf835dcb90f6014bf5638f9be2a7",
+    "wof:geomhash":"4e2e79e6c195203a7be7ad82c2adb4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +73,23 @@
         }
     ],
     "wof:id":1209707529,
-    "wof:lastmodified":1566663343,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412002,
     "wof:name":"Mbuzini",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -83,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.95254000000001,
+    31.95254,
     -25.93318,
-    31.95254000000001,
+    31.95254,
     -25.93318
 ],
-  "geometry": {"coordinates":[31.95254000000001,-25.93318],"type":"Point"}
+  "geometry": {"coordinates":[31.95254,-25.93318],"type":"Point"}
 }

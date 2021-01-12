@@ -161,15 +161,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973428
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4258ebaf4da200a81f3f97684148a603",
+    "wof:geomhash":"cae1aa3258f51984dfb6ef2a9889a768",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -180,7 +180,23 @@
         }
     ],
     "wof:id":1309905129,
-    "wof:lastmodified":1566664171,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412328,
     "wof:name":"Mount Zion",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -190,10 +206,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.77639000000001,
+    29.77639,
     -30.80353,
-    29.77639000000001,
+    29.77639,
     -30.80353
 ],
-  "geometry": {"coordinates":[29.77639000000001,-30.80353],"type":"Point"}
+  "geometry": {"coordinates":[29.77639,-30.80353],"type":"Point"}
 }

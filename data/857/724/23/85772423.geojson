@@ -75,11 +75,11 @@
     "wd:longitude":28.017778,
     "wd:wordcount":344,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925745,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,10 +106,23 @@
         }
     ],
     "wof:id":85772423,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348444,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411840,
     "wof:name":"Parkhurst",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",

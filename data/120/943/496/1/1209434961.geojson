@@ -62,7 +62,7 @@
         "wk:page":"Okiep"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5f1fe1440f227a30c4f7f09bc8b21a3a",
+    "wof:geomhash":"712b55d4b809978cef654565acd4a742",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -70,7 +70,23 @@
         }
     ],
     "wof:id":1209434961,
-    "wof:lastmodified":1566663427,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412037,
     "wof:name":"Okiep",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -80,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.88162999999999,
+    17.88163,
     -29.59435,
-    17.88162999999999,
+    17.88163,
     -29.59435
 ],
-  "geometry": {"coordinates":[17.88162999999999,-29.59435],"type":"Point"}
+  "geometry": {"coordinates":[17.88163,-29.59435],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963686
     },
     "wof:country":"ZA",
-    "wof:geomhash":"907e0be2e5ee05c02a4dd10b8d6f3a0e",
+    "wof:geomhash":"b9dcf360b55af1dedfe1bdd7f5ad0848",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310110565,
-    "wof:lastmodified":1566663715,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412144,
     "wof:name":"Qitsi",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.93333,
-    -31.86667000000001,
+    -31.86667,
     27.93333,
-    -31.86667000000001
+    -31.86667
 ],
-  "geometry": {"coordinates":[27.93333,-31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.93333,-31.86667],"type":"Point"}
 }

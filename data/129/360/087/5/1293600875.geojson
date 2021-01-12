@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":989802
     },
     "wof:country":"ZA",
-    "wof:geomhash":"08d5175c510c37a2ace91d35c5daa615",
+    "wof:geomhash":"bafcc6304db00bef59ff0793a743d72f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293600875,
-    "wof:lastmodified":1566663108,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411901,
     "wof:name":"Klipdam",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.91781,
-    -30.59114000000001,
+    -30.59114,
     26.91781,
-    -30.59114000000001
+    -30.59114
 ],
-  "geometry": {"coordinates":[26.91781,-30.59114000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.91781,-30.59114],"type":"Point"}
 }

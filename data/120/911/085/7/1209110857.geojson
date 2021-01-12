@@ -40,7 +40,7 @@
         "gn:id":956298
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3165ae394f649ec5f8b838423b425a43",
+    "wof:geomhash":"26c98f3346ebe3eac731b2809adf80eb",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209110857,
-    "wof:lastmodified":1566663398,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412025,
     "wof:name":"Seven Fountains",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.32209000000001,
+    26.32209,
     -33.43937,
-    26.32209000000001,
+    26.32209,
     -33.43937
 ],
-  "geometry": {"coordinates":[26.32209000000001,-33.43937],"type":"Point"}
+  "geometry": {"coordinates":[26.32209,-33.43937],"type":"Point"}
 }

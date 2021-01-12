@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963396
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8efe7cf807ca7151d90aa8d9c8fd42c7",
+    "wof:geomhash":"b78fb39dd74312bffe7de3115fd52fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1210015821,
-    "wof:lastmodified":1566663443,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412044,
     "wof:name":"Raden",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.52339000000001,
+    26.52339,
     -30.95903,
-    26.52339000000001,
+    26.52339,
     -30.95903
 ],
-  "geometry": {"coordinates":[26.52339000000001,-30.95903],"type":"Point"}
+  "geometry": {"coordinates":[26.52339,-30.95903],"type":"Point"}
 }

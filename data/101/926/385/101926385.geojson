@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":492312.752204,
-    "geom:bbox":"27.8978328705,-26.6404800415,27.9113368988,-26.6337585449",
+    "geom:area_square_m":492287.451696,
+    "geom:bbox":"27.897833,-26.64048,27.911337,-26.633759",
     "geom:latitude":-26.63606,
     "geom:longitude":27.905133,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730541
+        1108730541,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1582504
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1907903c50f8a13f976640ccb7b50e38",
+    "wof:geomhash":"7d467a5c58f8f0b1d07e2a981d3f633d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926385,
-    "wof:lastmodified":1566664069,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412286,
     "wof:name":"Unitas Park",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.8978328704834,
-    -26.64048004150391,
-    27.91133689880371,
-    -26.63375854492188
+    27.897833,
+    -26.64048,
+    27.911337,
+    -26.633759
 ],
-  "geometry": {"coordinates":[[[27.91133689880371,-26.63375854492188],[27.90616416931152,-26.64048004150391],[27.90200805664062,-26.63715553283691],[27.8978328704834,-26.63396453857422],[27.91133689880371,-26.63375854492188]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.911337,-26.633759],[27.906164,-26.64048],[27.902008,-26.637156],[27.897833,-26.633965],[27.911337,-26.633759]]],"type":"Polygon"}
 }

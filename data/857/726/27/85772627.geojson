@@ -84,11 +84,11 @@
     "wd:longitude":28.233333,
     "wd:wordcount":349,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730545,
         101925471,
-        1108730545
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,10 +117,23 @@
         }
     ],
     "wof:id":85772627,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348446,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411844,
     "wof:name":"Waterkloof",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

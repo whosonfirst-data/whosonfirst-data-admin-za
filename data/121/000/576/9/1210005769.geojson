@@ -90,15 +90,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":977117
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cd1b33c97380ffc7c131f6562544c03f",
+    "wof:geomhash":"c835122c37b31ce7802d2bda31ad81f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +109,23 @@
         }
     ],
     "wof:id":1210005769,
-    "wof:lastmodified":1566663438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412042,
     "wof:name":"Melrose",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -120,9 +136,9 @@
 },
   "bbox": [
     23.45899,
-    -26.81337000000001,
+    -26.81337,
     23.45899,
-    -26.81337000000001
+    -26.81337
 ],
-  "geometry": {"coordinates":[23.45899,-26.81337000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.45899,-26.81337],"type":"Point"}
 }

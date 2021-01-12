@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1020918
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d39cded7928bffd2c29ddeaa5e66f0ff",
+    "wof:geomhash":"ebfcb8295c7b7f53018a88b88fccb973",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1225957305,
-    "wof:lastmodified":1566664594,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412505,
     "wof:name":"Bassonsdrif",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.61667000000001,
+    30.61667,
     -28.75,
-    30.61667000000001,
+    30.61667,
     -28.75
 ],
-  "geometry": {"coordinates":[30.61667000000001,-28.75],"type":"Point"}
+  "geometry": {"coordinates":[30.61667,-28.75],"type":"Point"}
 }

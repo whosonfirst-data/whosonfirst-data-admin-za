@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":944827
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4a79b5155ee5501cf33bd82285c29706",
+    "wof:geomhash":"d657528abfd4d98299b69dd35a674e97",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226045753,
-    "wof:lastmodified":1566664634,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412522,
     "wof:name":"Van Tonders Pass",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.28333,
-    -28.36667000000001,
+    -28.36667,
     30.28333,
-    -28.36667000000001
+    -28.36667
 ],
-  "geometry": {"coordinates":[30.28333,-28.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.28333,-28.36667],"type":"Point"}
 }

@@ -44,8 +44,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +53,7 @@
         "wk:page":"Gouda%2C_Western_Cape"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fad8255ee1e613ddeb4af9353ac0e4bd",
+    "wof:geomhash":"0dc1dd776a807ed76b0985dfa24a60c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,23 @@
         }
     ],
     "wof:id":1327112711,
-    "wof:lastmodified":1566662775,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411768,
     "wof:name":"Gouda",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -75,9 +91,9 @@
 },
   "bbox": [
     19.04006,
-    -33.30034000000001,
+    -33.30034,
     19.04006,
-    -33.30034000000001
+    -33.30034
 ],
-  "geometry": {"coordinates":[19.04006,-33.30034000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.04006,-33.30034],"type":"Point"}
 }

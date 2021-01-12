@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978095
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c547451f55decf6c4f7cbe2b73faa3b0",
+    "wof:geomhash":"9a99c5383401e3c2ac8015df950bf8ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":1327118209,
-    "wof:lastmodified":1566662774,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411768,
     "wof:name":"Matlhabanenong",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -68,9 +84,9 @@
 },
   "bbox": [
     23.76667,
-    -27.36667000000001,
+    -27.36667,
     23.76667,
-    -27.36667000000001
+    -27.36667
 ],
-  "geometry": {"coordinates":[23.76667,-27.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.76667,-27.36667],"type":"Point"}
 }

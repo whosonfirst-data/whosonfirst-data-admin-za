@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":974152
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8ae6722a8e7b2d6368f6b370aa19b353",
+    "wof:geomhash":"c055dee30a7ed1889a59c9cec48dc95a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260069267,
-    "wof:lastmodified":1566663505,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412071,
     "wof:name":"Mookaothupa",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     24.6095,
-    -27.62812000000001,
+    -27.62812,
     24.6095,
-    -27.62812000000001
+    -27.62812
 ],
-  "geometry": {"coordinates":[24.6095,-27.62812000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.6095,-27.62812],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985186
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6ab7a476fcdd8982e5090e4a7e93a8b1",
+    "wof:geomhash":"a08a3cd4656e4571cf8989dcd8877244",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293612043,
-    "wof:lastmodified":1566663078,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411889,
     "wof:name":"KwaXokoshe",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.47026,
-    -31.61582000000001,
+    -31.61582,
     28.47026,
-    -31.61582000000001
+    -31.61582
 ],
-  "geometry": {"coordinates":[28.47026,-31.61582000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.47026,-31.61582],"type":"Point"}
 }

@@ -116,15 +116,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":939931
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0d983e0d7f1f819be37f2fa696b2e742",
+    "wof:geomhash":"33806878b94757258852645d4f9498e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +135,23 @@
         }
     ],
     "wof:id":1327346385,
-    "wof:lastmodified":1566662712,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411738,
     "wof:name":"Wilderness",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -145,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.36667000000001,
+    31.36667,
     -28.71667,
-    31.36667000000001,
+    31.36667,
     -28.71667
 ],
-  "geometry": {"coordinates":[31.36667000000001,-28.71667],"type":"Point"}
+  "geometry": {"coordinates":[31.36667,-28.71667],"type":"Point"}
 }

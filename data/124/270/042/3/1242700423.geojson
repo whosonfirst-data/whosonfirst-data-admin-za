@@ -71,15 +71,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730515
+        1108730515,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959219
     },
     "wof:country":"ZA",
-    "wof:geomhash":"eabe11b52fd45951f5b29d7a92279dd4",
+    "wof:geomhash":"3640c2bd27a34d1ca045673c2f4ed1dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +90,23 @@
         }
     ],
     "wof:id":1242700423,
-    "wof:lastmodified":1566664429,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412437,
     "wof:name":"Rosedale",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",
@@ -101,9 +117,9 @@
 },
   "bbox": [
     26.56791,
-    -33.37289000000001,
+    -33.37289,
     26.56791,
-    -33.37289000000001
+    -33.37289
 ],
-  "geometry": {"coordinates":[26.56791,-33.37289000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.56791,-33.37289],"type":"Point"}
 }

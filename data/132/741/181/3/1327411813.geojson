@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730613
+        1108730613,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3362402
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0bebe633ec895c7985279445affdd3d6",
+    "wof:geomhash":"e459409906fefdc35a448cf47766a741",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1327411813,
-    "wof:lastmodified":1566662703,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411734,
     "wof:name":"Rietpoort",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",
@@ -77,9 +93,9 @@
 },
   "bbox": [
     18.04228,
-    -30.95347000000001,
+    -30.95347,
     18.04228,
-    -30.95347000000001
+    -30.95347
 ],
-  "geometry": {"coordinates":[18.04228,-30.95347000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.04228,-30.95347],"type":"Point"}
 }

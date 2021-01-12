@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963364
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b999afcea8a573e20c62dddc4310b771",
+    "wof:geomhash":"27541709d7f9b3a11ab0ce29cb3c833d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343650699,
-    "wof:lastmodified":1566662812,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411774,
     "wof:name":"Raghas",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.36667000000001,
+    25.36667,
     -25.81667,
-    25.36667000000001,
+    25.36667,
     -25.81667
 ],
-  "geometry": {"coordinates":[25.36667000000001,-25.81667],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,-25.81667],"type":"Point"}
 }

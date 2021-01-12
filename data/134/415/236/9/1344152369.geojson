@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":938727
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ffd2f59a26048cdf951e21c279557f21",
+    "wof:geomhash":"6cbffeecb67f6c723dd10c81a635616b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1344152369,
-    "wof:lastmodified":1566662832,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411784,
     "wof:name":"Witputs",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     23.40824,
-    -27.23482000000001,
+    -27.23482,
     23.40824,
-    -27.23482000000001
+    -27.23482
 ],
-  "geometry": {"coordinates":[23.40824,-27.23482000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.40824,-27.23482],"type":"Point"}
 }

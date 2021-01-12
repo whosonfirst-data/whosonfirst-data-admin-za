@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996790
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3c77fde9b0e4f9abb859f5b460394bcb",
+    "wof:geomhash":"2ff477cf398027403bae340ea827192a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226451419,
-    "wof:lastmodified":1566664610,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412512,
     "wof:name":"Hesselwood",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.55121,
-    -29.07219000000001,
+    -29.07219,
     30.55121,
-    -29.07219000000001
+    -29.07219
 ],
-  "geometry": {"coordinates":[30.55121,-29.07219000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.55121,-29.07219],"type":"Point"}
 }

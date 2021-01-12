@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1323901.958173,
-    "geom:bbox":"29.2937717438,-30.9676055908,29.3068351746,-30.9517021179",
+    "geom:area_square_m":1323953.473385,
+    "geom:bbox":"29.293772,-30.967606,29.306835,-30.951702",
     "geom:latitude":-30.960299,
     "geom:longitude":29.300916,
     "iso:country":"ZA",
@@ -64,8 +64,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
         "wd:id":"Q7672894"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1d839260ed0eb787754196be0b573c86",
+    "wof:geomhash":"b57ca51fbec2bad318c7becff84f0c89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +85,23 @@
         }
     ],
     "wof:id":101928505,
-    "wof:lastmodified":1566664105,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412300,
     "wof:name":"Tabankulu",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -95,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.29377174377441,
-    -30.96760559082031,
-    29.30683517456055,
-    -30.95170211791992
+    29.293772,
+    -30.967606,
+    29.306835,
+    -30.951702
 ],
-  "geometry": {"coordinates":[[[29.29941749572754,-30.9533634185791],[29.30683517456055,-30.95170211791992],[29.30366325378418,-30.96760559082031],[29.29377174377441,-30.96669578552246],[29.29941749572754,-30.9533634185791]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.299417,-30.953363],[29.306835,-30.951702],[29.303663,-30.967606],[29.293772,-30.966696],[29.299417,-30.953363]]],"type":"Polygon"}
 }

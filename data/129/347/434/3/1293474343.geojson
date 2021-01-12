@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979551
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0449bee2ab28d656b0a2f444e70a4804",
+    "wof:geomhash":"da61cd683c0150ac749eaf4dac990c70",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293474343,
-    "wof:lastmodified":1566663068,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411884,
     "wof:name":"Manamela",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.22632,
-    -23.71117000000001,
+    -23.71117,
     29.22632,
-    -23.71117000000001
+    -23.71117
 ],
-  "geometry": {"coordinates":[29.22632,-23.71117000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.22632,-23.71117],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730527
+        1108730527,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981718
     },
     "wof:country":"ZA",
-    "wof:geomhash":"31ac3a528c2ad00d7bd60989f413031f",
+    "wof:geomhash":"ae2420fc93eb0fd9c200c53e6cfc198d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310600267,
-    "wof:lastmodified":1566663755,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412160,
     "wof:name":"Lovemore Park",
     "wof:parent_id":1108730527,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.52713,
-    -34.01544000000001,
+    -34.01544,
     25.52713,
-    -34.01544000000001
+    -34.01544
 ],
-  "geometry": {"coordinates":[25.52713,-34.01544000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.52713,-34.01544],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730559
+        1108730559,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998532
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fbefe6584c6befa062e97b62b64bf350",
+    "wof:geomhash":"29e27faa8e2410dd3ae717dc543be2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310705003,
-    "wof:lastmodified":1566663659,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412120,
     "wof:name":"Gusenzamo",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.65417,
-    -28.17504000000001,
+    -28.17504,
     31.65417,
-    -28.17504000000001
+    -28.17504
 ],
-  "geometry": {"coordinates":[31.65417,-28.17504000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.65417,-28.17504],"type":"Point"}
 }

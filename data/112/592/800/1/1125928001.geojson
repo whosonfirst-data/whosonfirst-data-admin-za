@@ -249,8 +249,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -272,7 +272,23 @@
         }
     ],
     "wof:id":1125928001,
-    "wof:lastmodified":1566664210,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412348,
     "wof:name":"Goodwood",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",

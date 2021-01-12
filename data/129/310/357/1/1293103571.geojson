@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":977555
     },
     "wof:country":"ZA",
-    "wof:geomhash":"aeab10ea13c265eeb76b86db9facbd8f",
+    "wof:geomhash":"e57397e9e5c3663638163c26f0b3327b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1293103571,
-    "wof:lastmodified":1566663150,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411920,
     "wof:name":"Mbozisa",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86667000000001,
+    28.86667,
     -31.88333,
-    28.86667000000001,
+    28.86667,
     -31.88333
 ],
-  "geometry": {"coordinates":[28.86667000000001,-31.88333],"type":"Point"}
+  "geometry": {"coordinates":[28.86667,-31.88333],"type":"Point"}
 }

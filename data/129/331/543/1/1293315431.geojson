@@ -131,15 +131,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978856
     },
     "wof:country":"ZA",
-    "wof:geomhash":"100f3037abb64a0df778bfaad8d9ab57",
+    "wof:geomhash":"c8f6b035189a8156eed2d0a6c47a8757",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +150,23 @@
         }
     ],
     "wof:id":1293315431,
-    "wof:lastmodified":1566663029,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411867,
     "wof:name":"Mariazell",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -160,10 +176,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.36667000000001,
+    28.36667,
     -30.3,
-    28.36667000000001,
+    28.36667,
     -30.3
 ],
-  "geometry": {"coordinates":[28.36667000000001,-30.3],"type":"Point"}
+  "geometry": {"coordinates":[28.36667,-30.3],"type":"Point"}
 }

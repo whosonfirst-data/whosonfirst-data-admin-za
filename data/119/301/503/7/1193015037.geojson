@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":993643
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c872e98441b9ca21a01b2b105516fb20",
+    "wof:geomhash":"ea50c5293013bad8dedc0a2fa3e338c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193015037,
-    "wof:lastmodified":1566663455,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412050,
     "wof:name":"Josefsdeel",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.21751,
-    -30.58157000000001,
+    -30.58157,
     26.21751,
-    -30.58157000000001
+    -30.58157
 ],
-  "geometry": {"coordinates":[26.21751,-30.58157000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.21751,-30.58157],"type":"Point"}
 }

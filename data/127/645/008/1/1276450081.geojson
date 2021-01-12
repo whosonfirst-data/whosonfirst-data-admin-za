@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965272
     },
     "wof:country":"ZA",
-    "wof:geomhash":"79573510ce5f7e4365c31c168b1d13be",
+    "wof:geomhash":"63072b37b9d4c6c1b86674043fb3305e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276450081,
-    "wof:lastmodified":1566663205,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411943,
     "wof:name":"Pieterskop",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.54817,
-    -30.50847000000001,
+    -30.50847,
     26.54817,
-    -30.50847000000001
+    -30.50847
 ],
-  "geometry": {"coordinates":[26.54817,-30.50847000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.54817,-30.50847],"type":"Point"}
 }

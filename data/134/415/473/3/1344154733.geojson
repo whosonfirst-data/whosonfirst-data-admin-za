@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":969682
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0fa8905966c1b7cefaf2f284d4283115",
+    "wof:geomhash":"3c216d39a4a18520730d71dd36c1d2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1344154733,
-    "wof:lastmodified":1566662832,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411783,
     "wof:name":"Northdene",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.37736,
-    -26.40092000000001,
+    -26.40092,
     27.37736,
-    -26.40092000000001
+    -26.40092
 ],
-  "geometry": {"coordinates":[27.37736,-26.40092000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.37736,-26.40092],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976855
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1c1023e54445c143f132e337b2c2dab9",
+    "wof:geomhash":"bb9ea454544b989b9ecde5db3e2d28be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242990987,
-    "wof:lastmodified":1566664456,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412447,
     "wof:name":"Metsikgetlane",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.62315,
-    -25.33542000000001,
+    -25.33542,
     26.62315,
-    -25.33542000000001
+    -25.33542
 ],
-  "geometry": {"coordinates":[26.62315,-25.33542000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.62315,-25.33542],"type":"Point"}
 }

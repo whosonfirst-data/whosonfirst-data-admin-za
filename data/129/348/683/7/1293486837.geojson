@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963676
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a3905c24eb780a6779b1b7b3186040fc",
+    "wof:geomhash":"eb6ace5eb05fbd86dfa2bca02ab166bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293486837,
-    "wof:lastmodified":1566663057,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411880,
     "wof:name":"Qoboshane",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.56102000000001,
+    27.56102,
     -30.44348,
-    27.56102000000001,
+    27.56102,
     -30.44348
 ],
-  "geometry": {"coordinates":[27.56102000000001,-30.44348],"type":"Point"}
+  "geometry": {"coordinates":[27.56102,-30.44348],"type":"Point"}
 }

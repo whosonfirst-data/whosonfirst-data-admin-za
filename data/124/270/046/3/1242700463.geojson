@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985744
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e88acfbced7fd11b7d331de587b1aed8",
+    "wof:geomhash":"89a01c523987fb9bef4614d27d93c968",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242700463,
-    "wof:lastmodified":1566664428,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412436,
     "wof:name":"Kwa Lubilo",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11667000000001,
+    27.11667,
     -33.31667,
-    27.11667000000001,
+    27.11667,
     -33.31667
 ],
-  "geometry": {"coordinates":[27.11667000000001,-33.31667],"type":"Point"}
+  "geometry": {"coordinates":[27.11667,-33.31667],"type":"Point"}
 }

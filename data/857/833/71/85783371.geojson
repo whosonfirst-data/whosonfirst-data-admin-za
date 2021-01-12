@@ -9,7 +9,6 @@
     "geom:bbox":"27.457581,-26.924519,27.457581,-26.924519",
     "geom:latitude":-26.924519,
     "geom:longitude":27.457581,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"27.452581,-26.929519,27.462581,-26.919519",
     "lbl:latitude":-26.924519,
@@ -56,10 +55,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688915,
         102191573,
         85633813,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,10 +81,23 @@
         }
     ],
     "wof:id":85783371,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348442,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411835,
     "wof:name":"Mahlomola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

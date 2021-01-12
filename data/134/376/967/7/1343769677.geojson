@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":999298
     },
     "wof:country":"ZA",
-    "wof:geomhash":"faa448e5e191c188dff01b8ad97a257b",
+    "wof:geomhash":"3ee29dfb91189d9fff264d3b01a11e04",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343769677,
-    "wof:lastmodified":1566662857,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411796,
     "wof:name":"Groothoek",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.86667000000001,
+    26.86667,
     -29.28333,
-    26.86667000000001,
+    26.86667,
     -29.28333
 ],
-  "geometry": {"coordinates":[26.86667000000001,-29.28333],"type":"Point"}
+  "geometry": {"coordinates":[26.86667,-29.28333],"type":"Point"}
 }

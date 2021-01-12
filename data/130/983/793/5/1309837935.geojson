@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013115
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d9d2e7b42887046541e6dfb5a6f60333",
+    "wof:geomhash":"294d03b9249727e635ca2f1332f0736f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1309837935,
-    "wof:lastmodified":1566664174,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412329,
     "wof:name":"Cokomfini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.76767000000001,
+    28.76767,
     -31.0608,
-    28.76767000000001,
+    28.76767,
     -31.0608
 ],
-  "geometry": {"coordinates":[28.76767000000001,-31.0608],"type":"Point"}
+  "geometry": {"coordinates":[28.76767,-31.0608],"type":"Point"}
 }

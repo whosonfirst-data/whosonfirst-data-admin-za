@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1000558
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e60128bdbe346c23f4b10ee2a87788e2",
+    "wof:geomhash":"787a7b8752f73959db2c2dde9c08b4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343880989,
-    "wof:lastmodified":1566662925,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411830,
     "wof:name":"Gqutyini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.8815,
-    -31.62662000000001,
+    -31.62662,
     27.8815,
-    -31.62662000000001
+    -31.62662
 ],
-  "geometry": {"coordinates":[27.8815,-31.62662000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.8815,-31.62662],"type":"Point"}
 }

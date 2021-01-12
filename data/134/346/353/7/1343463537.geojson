@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":972155
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d80f397d7c3ba38b47739247b59329a0",
+    "wof:geomhash":"6a203173fe06e14e4f677d24685c8190",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343463537,
-    "wof:lastmodified":1566662841,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411788,
     "wof:name":"Namaga",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.36667000000001,
+    26.36667,
     -30.96667,
-    26.36667000000001,
+    26.36667,
     -30.96667
 ],
-  "geometry": {"coordinates":[26.36667000000001,-30.96667],"type":"Point"}
+  "geometry": {"coordinates":[26.36667,-30.96667],"type":"Point"}
 }

@@ -80,8 +80,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +89,7 @@
         "wk:page":"Lephalale"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"30a356b5d86f615a8040890d4298b7c6",
+    "wof:geomhash":"1222ad8b94d07ac3ad54e023ceb9c70c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +100,23 @@
         }
     ],
     "wof:id":1259579949,
-    "wof:lastmodified":1566664544,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412485,
     "wof:name":"Lephalale",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -110,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.74477000000001,
+    27.74477,
     -23.66607,
-    27.74477000000001,
+    27.74477,
     -23.66607
 ],
-  "geometry": {"coordinates":[27.74477000000001,-23.66607],"type":"Point"}
+  "geometry": {"coordinates":[27.74477,-23.66607],"type":"Point"}
 }

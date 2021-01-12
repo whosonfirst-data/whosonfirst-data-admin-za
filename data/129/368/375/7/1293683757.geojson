@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":966608
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5a95f9ac395b812839e4dc569217da88",
+    "wof:geomhash":"688a05738e8a4c020e0169fc4ff6f198",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293683757,
-    "wof:lastmodified":1566663089,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411894,
     "wof:name":"Padgesvlei",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.36667000000001,
+    29.36667,
     -26.78333,
-    29.36667000000001,
+    29.36667,
     -26.78333
 ],
-  "geometry": {"coordinates":[29.36667000000001,-26.78333],"type":"Point"}
+  "geometry": {"coordinates":[29.36667,-26.78333],"type":"Point"}
 }

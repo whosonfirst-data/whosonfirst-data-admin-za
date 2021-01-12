@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":989305
     },
     "wof:country":"ZA",
-    "wof:geomhash":"269245bf1e774438e0e7b8a4c69cf714",
+    "wof:geomhash":"23659d5526fe13e832364ef25308fdb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259887511,
-    "wof:lastmodified":1566664579,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412499,
     "wof:name":"Klipkuil",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.51157000000001,
+    26.51157,
     -30.42505,
-    26.51157000000001,
+    26.51157,
     -30.42505
 ],
-  "geometry": {"coordinates":[26.51157000000001,-30.42505],"type":"Point"}
+  "geometry": {"coordinates":[26.51157,-30.42505],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971845
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e3c65d11dd8dad81db7a19b52cb1f14a",
+    "wof:geomhash":"88db159702d5d4d2a37b6cf848653d49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326843283,
-    "wof:lastmodified":1566662738,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411749,
     "wof:name":"Ndabeni",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.02829000000001,
+    32.02829,
     -26.93936,
-    32.02829000000001,
+    32.02829,
     -26.93936
 ],
-  "geometry": {"coordinates":[32.02829000000001,-26.93936],"type":"Point"}
+  "geometry": {"coordinates":[32.02829,-26.93936],"type":"Point"}
 }

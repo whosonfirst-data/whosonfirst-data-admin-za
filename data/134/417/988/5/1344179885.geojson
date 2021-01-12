@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963661
     },
     "wof:country":"ZA",
-    "wof:geomhash":"73ca1bab87a5c9d3e222d7b000d06050",
+    "wof:geomhash":"8ca514b74eaa1a7a9cce8760a8aad372",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1344179885,
-    "wof:lastmodified":1566662896,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411815,
     "wof:name":"Qolora",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.43649000000001,
-    -31.13469000000001,
-    29.43649000000001,
-    -31.13469000000001
+    29.43649,
+    -31.13469,
+    29.43649,
+    -31.13469
 ],
-  "geometry": {"coordinates":[29.43649000000001,-31.13469000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.43649,-31.13469],"type":"Point"}
 }

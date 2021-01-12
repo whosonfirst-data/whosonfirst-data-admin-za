@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978427
     },
     "wof:country":"ZA",
-    "wof:geomhash":"20a18a04e1992aaaf52a9d93b47cc48f",
+    "wof:geomhash":"9203e33d40f5b83391e2e3b7b4c1c24d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1243347937,
-    "wof:lastmodified":1566664425,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412435,
     "wof:name":"Masikhwa",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.61667000000001,
+    30.61667,
     -22.83333,
-    30.61667000000001,
+    30.61667,
     -22.83333
 ],
-  "geometry": {"coordinates":[30.61667000000001,-22.83333],"type":"Point"}
+  "geometry": {"coordinates":[30.61667,-22.83333],"type":"Point"}
 }

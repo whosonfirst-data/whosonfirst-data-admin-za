@@ -9,7 +9,6 @@
     "geom:bbox":"27.944061,-26.060545,27.944061,-26.060545",
     "geom:latitude":-26.060545,
     "geom:longitude":27.944061,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"27.939061,-26.065545,27.949061,-26.055545",
     "lbl:latitude":-26.060545,
@@ -70,10 +69,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,10 +96,23 @@
         }
     ],
     "wof:id":85783063,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348446,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411844,
     "wof:name":"Northgate",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949706
     },
     "wof:country":"ZA",
-    "wof:geomhash":"365b547e3d37596c23c9f075def097f0",
+    "wof:geomhash":"62e6433e8df2311a4c070491454d4866",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327252391,
-    "wof:lastmodified":1566662677,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411724,
     "wof:name":"Thabanapitsi",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.5,
-    -24.61667000000001,
+    -24.61667,
     29.5,
-    -24.61667000000001
+    -24.61667
 ],
-  "geometry": {"coordinates":[29.5,-24.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.5,-24.61667],"type":"Point"}
 }

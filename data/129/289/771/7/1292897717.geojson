@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":937877
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8789410fd36c6cc0d0e13f85b9b92f39",
+    "wof:geomhash":"3cc7421f8113bb307a050a3a374c586a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1292897717,
-    "wof:lastmodified":1566663043,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411874,
     "wof:name":"Wyedrif",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",
@@ -70,9 +86,9 @@
 },
   "bbox": [
     28.93333,
-    -25.11667000000001,
+    -25.11667,
     28.93333,
-    -25.11667000000001
+    -25.11667
 ],
-  "geometry": {"coordinates":[28.93333,-25.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.93333,-25.11667],"type":"Point"}
 }

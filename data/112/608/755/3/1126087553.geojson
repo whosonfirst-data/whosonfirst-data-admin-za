@@ -48,11 +48,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730507,
         101925985,
-        1108730507
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,23 @@
         }
     ],
     "wof:id":1126087553,
-    "wof:lastmodified":1566664276,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412376,
     "wof:name":"Dawnview",
     "wof:parent_id":101925985,
     "wof:placetype":"neighbourhood",

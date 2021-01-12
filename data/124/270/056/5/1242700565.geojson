@@ -56,15 +56,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730515
+        1108730515,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":989173
     },
     "wof:country":"ZA",
-    "wof:geomhash":"496666ffa3c8ddedd1c39d9bf3d2c294",
+    "wof:geomhash":"10d51a2493139eea86760792ba56f753",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +75,23 @@
         }
     ],
     "wof:id":1242700565,
-    "wof:lastmodified":1566664430,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412437,
     "wof:name":"Klipplaat",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",
@@ -85,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34077000000001,
+    24.34077,
     -33.01907,
-    24.34077000000001,
+    24.34077,
     -33.01907
 ],
-  "geometry": {"coordinates":[24.34077000000001,-33.01907],"type":"Point"}
+  "geometry": {"coordinates":[24.34077,-33.01907],"type":"Point"}
 }

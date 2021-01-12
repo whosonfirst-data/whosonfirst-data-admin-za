@@ -9,7 +9,6 @@
     "geom:bbox":"28.006536,-26.023596,28.006536,-26.023596",
     "geom:latitude":-26.023596,
     "geom:longitude":28.006536,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.001536,-26.028596,28.011536,-26.018596",
     "lbl:latitude":-26.023596,
@@ -68,11 +67,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925679,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,10 +95,23 @@
         }
     ],
     "wof:id":85783011,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411843,
     "wof:name":"Fourways",
     "wof:parent_id":101925679,
     "wof:placetype":"neighbourhood",

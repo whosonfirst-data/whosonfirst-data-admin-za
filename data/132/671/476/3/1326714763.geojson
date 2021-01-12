@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949215
     },
     "wof:country":"ZA",
-    "wof:geomhash":"75f8faadf9855b1d257637f26a690205",
+    "wof:geomhash":"efb44105a0f08525d82d0b591c3e826f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326714763,
-    "wof:lastmodified":1566662734,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411747,
     "wof:name":"Tholo-Mosilone",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.86667000000001,
+    29.86667,
     -24.9,
-    29.86667000000001,
+    29.86667,
     -24.9
 ],
-  "geometry": {"coordinates":[29.86667000000001,-24.9],"type":"Point"}
+  "geometry": {"coordinates":[29.86667,-24.9],"type":"Point"}
 }

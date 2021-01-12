@@ -141,11 +141,11 @@
         "state_id":2346981
     },
     "wof:belongsto":[
-        85783143,
         102191573,
         85633813,
-        101925731,
         102089237,
+        101925731,
+        85783143,
         85688923
     ],
     "wof:breaches":[],
@@ -171,7 +171,23 @@
         }
     ],
     "wof:id":102546665,
-    "wof:lastmodified":1566662806,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411771,
     "wof:name":"OR Tambo International Airport",
     "wof:parent_id":85783143,
     "wof:placetype":"campus",

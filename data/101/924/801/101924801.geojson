@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":137410.591102,
-    "geom:bbox":"24.9953651428,-29.4117279053,25.0,-29.4062232971",
+    "geom:area_square_m":137424.607399,
+    "geom:bbox":"24.995365,-29.411728,25.0,-29.406223",
     "geom:latitude":-29.409539,
     "geom:longitude":24.998455,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1582945
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fbdc9459a00d962766f213d931266f01",
+    "wof:geomhash":"9940ea990dc2eea751dcc03a9290b968",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924801,
-    "wof:lastmodified":1566663845,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412198,
     "wof:name":"Ditlhake",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.99536514282227,
-    -29.41172790527344,
+    24.995365,
+    -29.411728,
     25.0,
-    -29.40622329711914
+    -29.406223
 ],
-  "geometry": {"coordinates":[[[25.0,-29.40622329711914],[25.0,-29.41172790527344],[24.99536514282227,-29.41066551208496],[25.0,-29.40622329711914]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.0,-29.406223],[25.0,-29.411728],[24.995365,-29.410666],[25.0,-29.406223]]],"type":"Polygon"}
 }

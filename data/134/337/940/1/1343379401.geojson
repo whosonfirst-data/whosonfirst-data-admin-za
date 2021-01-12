@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730609
+        1108730609,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":952848
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5ca98ab6dde2f6dccb4bb88657e577c0",
+    "wof:geomhash":"34831d3b2a69e452ec1bcea218f76be2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1343379401,
-    "wof:lastmodified":1566662817,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411776,
     "wof:name":"Springvale",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     26.8077,
-    -26.87727000000001,
+    -26.87727,
     26.8077,
-    -26.87727000000001
+    -26.87727
 ],
-  "geometry": {"coordinates":[26.8077,-26.87727000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.8077,-26.87727],"type":"Point"}
 }

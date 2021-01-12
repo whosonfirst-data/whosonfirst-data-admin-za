@@ -9,7 +9,6 @@
     "geom:bbox":"28.185634,-25.761497,28.185634,-25.761497",
     "geom:latitude":-25.761497,
     "geom:longitude":28.185634,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.180634,-25.766497,28.190634,-25.756497",
     "lbl:latitude":-25.761497,
@@ -61,11 +60,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730545,
         101925469,
-        1108730545
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,10 +88,23 @@
         }
     ],
     "wof:id":85783101,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411842,
     "wof:name":"Salvokop",
     "wof:parent_id":101925469,
     "wof:placetype":"neighbourhood",

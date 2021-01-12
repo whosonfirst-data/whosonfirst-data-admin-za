@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1007158
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cbbc246070e4093fe7598d2d8da89c51",
+    "wof:geomhash":"c7bbd31225b6676d2bd8d25aa4847361",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1243168991,
-    "wof:lastmodified":1566664466,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412451,
     "wof:name":"Dwarsfontein",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.79479000000001,
+    28.79479,
     -26.03327,
-    28.79479000000001,
+    28.79479,
     -26.03327
 ],
-  "geometry": {"coordinates":[28.79479000000001,-26.03327],"type":"Point"}
+  "geometry": {"coordinates":[28.79479,-26.03327],"type":"Point"}
 }

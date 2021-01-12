@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955759
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2f282b4563d9adc479270f1a9eedf85c",
+    "wof:geomhash":"32cb952dfae60520896e0615c6854683",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193020933,
-    "wof:lastmodified":1566663479,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412059,
     "wof:name":"Siginqini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.72084000000001,
+    27.72084,
     -31.46991,
-    27.72084000000001,
+    27.72084,
     -31.46991
 ],
-  "geometry": {"coordinates":[27.72084000000001,-31.46991],"type":"Point"}
+  "geometry": {"coordinates":[27.72084,-31.46991],"type":"Point"}
 }

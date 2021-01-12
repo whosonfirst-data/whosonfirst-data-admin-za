@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968450
     },
     "wof:country":"ZA",
-    "wof:geomhash":"510ed99401f935559f604d0b8085afd8",
+    "wof:geomhash":"2c43416d151aaf7c938863f1c37373c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226543107,
-    "wof:lastmodified":1566664704,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412552,
     "wof:name":"oGagwini",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.64756,
-    -30.03859000000001,
+    -30.03859,
     30.64756,
-    -30.03859000000001
+    -30.03859
 ],
-  "geometry": {"coordinates":[30.64756,-30.03859000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.64756,-30.03859],"type":"Point"}
 }

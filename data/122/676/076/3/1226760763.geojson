@@ -63,15 +63,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":987655
     },
     "wof:country":"ZA",
-    "wof:geomhash":"79fcf1d0f375004a24a8dfd9ce2bef54",
+    "wof:geomhash":"4b598aaf112cac2355e6c3008e8fd538",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +82,23 @@
         }
     ],
     "wof:id":1226760763,
-    "wof:lastmodified":1566664664,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412535,
     "wof:name":"Kosi",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -93,9 +109,9 @@
 },
   "bbox": [
     32.86667,
-    -26.86667000000001,
+    -26.86667,
     32.86667,
-    -26.86667000000001
+    -26.86667
 ],
-  "geometry": {"coordinates":[32.86667,-26.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[32.86667,-26.86667],"type":"Point"}
 }

@@ -9,7 +9,6 @@
     "geom:bbox":"18.848578,-33.943559,18.848578,-33.943559",
     "geom:latitude":-33.943559,
     "geom:longitude":18.848578,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.843578,-33.948559,18.853578,-33.938559",
     "lbl:latitude":-33.943559,
@@ -57,10 +56,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,10 +82,23 @@
         }
     ],
     "wof:id":85783249,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411834,
     "wof:name":"Die Boord",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

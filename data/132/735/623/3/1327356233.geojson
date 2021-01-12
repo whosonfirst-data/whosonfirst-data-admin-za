@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11427364
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5c226bfec2e496350f1b451fdfc710bc",
+    "wof:geomhash":"b51e9801448971ec737aba6a5f5a158c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327356233,
-    "wof:lastmodified":1566662723,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411743,
     "wof:name":"Amacwera",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.20029000000001,
+    29.20029,
     -31.10998,
-    29.20029000000001,
+    29.20029,
     -31.10998
 ],
-  "geometry": {"coordinates":[29.20029000000001,-31.10998],"type":"Point"}
+  "geometry": {"coordinates":[29.20029,-31.10998],"type":"Point"}
 }

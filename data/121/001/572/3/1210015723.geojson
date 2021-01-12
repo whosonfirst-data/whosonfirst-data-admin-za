@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973030
     },
     "wof:country":"ZA",
-    "wof:geomhash":"83aefe1bcf30599a44529e390e6b8937",
+    "wof:geomhash":"c2f008a708a6eed5c0bc0d8bd760fbd3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1210015723,
-    "wof:lastmodified":1566663440,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412043,
     "wof:name":"Mreshaneni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.79003,
-    -31.22309000000001,
+    -31.22309,
     29.79003,
-    -31.22309000000001
+    -31.22309
 ],
-  "geometry": {"coordinates":[29.79003,-31.22309000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.79003,-31.22309],"type":"Point"}
 }

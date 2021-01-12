@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1014158
     },
     "wof:country":"ZA",
-    "wof:geomhash":"282c362001e9045d50c31b4c8af7ad42",
+    "wof:geomhash":"fc2a8752bdb461dd47d6a7d28ba47ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310209825,
-    "wof:lastmodified":1566663706,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412140,
     "wof:name":"Cancele",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.81327000000001,
+    28.81327,
     -30.81662,
-    28.81327000000001,
+    28.81327,
     -30.81662
 ],
-  "geometry": {"coordinates":[28.81327000000001,-30.81662],"type":"Point"}
+  "geometry": {"coordinates":[28.81327,-30.81662],"type":"Point"}
 }

@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1001292
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cb9bf7f0585d11ff3c625454c3b81393",
+    "wof:geomhash":"3269458e5841c5459541cea54d163763",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1225943333,
-    "wof:lastmodified":1566664588,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412503,
     "wof:name":"Goedehoop",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -73,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.90589000000001,
+    26.90589,
     -30.82228,
-    26.90589000000001,
+    26.90589,
     -30.82228
 ],
-  "geometry": {"coordinates":[26.90589000000001,-30.82228],"type":"Point"}
+  "geometry": {"coordinates":[26.90589,-30.82228],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984404
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c1dea834b45decc486ef3902fda9c97a",
+    "wof:geomhash":"89fcb4ba29d89de589383896c3a5eec7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310337101,
-    "wof:lastmodified":1566663741,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412155,
     "wof:name":"Langpoort",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.41667,
-    -31.61667000000001,
+    -31.61667,
     27.41667,
-    -31.61667000000001
+    -31.61667
 ],
-  "geometry": {"coordinates":[27.41667,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.41667,-31.61667],"type":"Point"}
 }

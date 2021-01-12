@@ -185,15 +185,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973544
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b4c6108adc7433a6fc1985890c34bdde",
+    "wof:geomhash":"a2b6b9830e071c37184826bf18e005f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -204,7 +204,23 @@
         }
     ],
     "wof:id":1327465769,
-    "wof:lastmodified":1566662701,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411734,
     "wof:name":"Mount Carmel",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -215,9 +231,9 @@
 },
   "bbox": [
     26.7013,
-    -30.81384000000001,
+    -30.81384,
     26.7013,
-    -30.81384000000001
+    -30.81384
 ],
-  "geometry": {"coordinates":[26.7013,-30.81384000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.7013,-30.81384],"type":"Point"}
 }

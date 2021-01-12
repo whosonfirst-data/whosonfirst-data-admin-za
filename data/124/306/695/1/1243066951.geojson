@@ -119,15 +119,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":994989
     },
     "wof:country":"ZA",
-    "wof:geomhash":"59a41c7b130b6541279c093782d89292",
+    "wof:geomhash":"54aee5122b0d050659a549a45965d2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +138,23 @@
         }
     ],
     "wof:id":1243066951,
-    "wof:lastmodified":1566664356,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412407,
     "wof:name":"Ida",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -149,9 +165,9 @@
 },
   "bbox": [
     27.55626,
-    -31.40327000000001,
+    -31.40327,
     27.55626,
-    -31.40327000000001
+    -31.40327
 ],
-  "geometry": {"coordinates":[27.55626,-31.40327000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.55626,-31.40327],"type":"Point"}
 }

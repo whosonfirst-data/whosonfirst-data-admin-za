@@ -9,7 +9,6 @@
     "geom:bbox":"19.451934,-33.615606,19.451934,-33.615606",
     "geom:latitude":-33.615606,
     "geom:longitude":19.451934,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"19.446934,-33.620606,19.456934,-33.610606",
     "lbl:latitude":-33.615606,
@@ -175,11 +174,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730615,
         101928005,
-        1108730615
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -203,10 +202,23 @@
         }
     ],
     "wof:id":85783393,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411834,
     "wof:name":"Panorama",
     "wof:parent_id":101928005,
     "wof:placetype":"neighbourhood",

@@ -77,15 +77,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973512
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ce1325ba4e6934168c95de181fbfb949",
+    "wof:geomhash":"a639d6404cdfe2f406d91ba4bbf098a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +96,23 @@
         }
     ],
     "wof:id":1327356263,
-    "wof:lastmodified":1566662722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411742,
     "wof:name":"Mount Hope",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -106,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.33927000000001,
-    -31.24007000000001,
-    29.33927000000001,
-    -31.24007000000001
+    29.33927,
+    -31.24007,
+    29.33927,
+    -31.24007
 ],
-  "geometry": {"coordinates":[29.33927000000001,-31.24007000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.33927,-31.24007],"type":"Point"}
 }

@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":942699
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e0889eb55e1708f26b77571391d1ea4b",
+    "wof:geomhash":"5ef337bb27fae1c9cfce5da130d22182",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +93,23 @@
         }
     ],
     "wof:id":1310316569,
-    "wof:lastmodified":1566663684,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412131,
     "wof:name":"Vrede",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -104,9 +120,9 @@
 },
   "bbox": [
     26.52651,
-    -29.91519000000001,
+    -29.91519,
     26.52651,
-    -29.91519000000001
+    -29.91519
 ],
-  "geometry": {"coordinates":[26.52651,-29.91519000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.52651,-29.91519],"type":"Point"}
 }

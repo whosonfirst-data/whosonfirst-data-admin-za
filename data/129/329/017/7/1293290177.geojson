@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3364273
     },
     "wof:country":"ZA",
-    "wof:geomhash":"23b2d639d83bc33e6a72ea73459d337c",
+    "wof:geomhash":"a7987d7ba7ec5550e532e6881d18be8c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293290177,
-    "wof:lastmodified":1566663137,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411915,
     "wof:name":"Matjieskloof",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     17.86676,
-    -29.67054000000001,
+    -29.67054,
     17.86676,
-    -29.67054000000001
+    -29.67054
 ],
-  "geometry": {"coordinates":[17.86676,-29.67054000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.86676,-29.67054],"type":"Point"}
 }

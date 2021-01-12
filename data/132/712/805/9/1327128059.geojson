@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996180
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4eef7b9f2b111448ef457f13a49a57cd",
+    "wof:geomhash":"6a1fb668007761dfdcafd11cc992bca4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327128059,
-    "wof:lastmodified":1566662689,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411729,
     "wof:name":"Hoekfontein",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.91667,
-    -25.61667000000001,
+    -25.61667,
     27.91667,
-    -25.61667000000001
+    -25.61667
 ],
-  "geometry": {"coordinates":[27.91667,-25.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.91667,-25.61667],"type":"Point"}
 }

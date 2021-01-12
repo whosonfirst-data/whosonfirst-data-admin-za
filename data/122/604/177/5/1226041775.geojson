@@ -92,15 +92,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978340
     },
     "wof:country":"ZA",
-    "wof:geomhash":"443487dd55bb681f541f9f48354da300",
+    "wof:geomhash":"4caaa615dd6e5a856e9f7a79a67401dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +111,23 @@
         }
     ],
     "wof:id":1226041775,
-    "wof:lastmodified":1566664637,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412524,
     "wof:name":"Matane",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -122,9 +138,9 @@
 },
   "bbox": [
     29.59047,
-    -31.48519000000001,
+    -31.48519,
     29.59047,
-    -31.48519000000001
+    -31.48519
 ],
-  "geometry": {"coordinates":[29.59047,-31.48519000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.59047,-31.48519],"type":"Point"}
 }

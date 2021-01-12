@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973238
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9a8c7d35dcfca33cf9abdb49c7a988f2",
+    "wof:geomhash":"bf1670ceb283f3a4fc585e04ac660a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310294767,
-    "wof:lastmodified":1566663716,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412145,
     "wof:name":"Mphalong",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.78587000000001,
+    29.78587,
     -23.8059,
-    29.78587000000001,
+    29.78587,
     -23.8059
 ],
-  "geometry": {"coordinates":[29.78587000000001,-23.8059],"type":"Point"}
+  "geometry": {"coordinates":[29.78587,-23.8059],"type":"Point"}
 }

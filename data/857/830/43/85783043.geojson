@@ -9,7 +9,6 @@
     "geom:bbox":"28.237495,-25.848307,28.237495,-25.848307",
     "geom:latitude":-25.848307,
     "geom:longitude":28.237495,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:latitude":-25.848307,
     "lbl:longitude":28.237495,
@@ -60,11 +59,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730545,
         101925471,
-        1108730545
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,10 +87,23 @@
         }
     ],
     "wof:id":85783043,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348446,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411843,
     "wof:name":"Mazakhele",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",

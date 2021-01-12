@@ -51,11 +51,11 @@
     "woe:name_adm1":"Eastern Cape",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688927,
         102191573,
         85633813,
+        1108730527,
         101929259,
-        1108730527
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,23 @@
         }
     ],
     "wof:id":1126105315,
-    "wof:lastmodified":1566664219,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412352,
     "wof:name":"Parsons Hill",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991222
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c8feb2457ffc04d83f82056bfd3aeb34",
+    "wof:geomhash":"4b9fd45e9df5dcd0e5eafa9f582566f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1243438027,
-    "wof:lastmodified":1566664489,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412461,
     "wof:name":"Kgareyatlhose",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56947000000001,
+    23.56947,
     -26.16309,
-    23.56947000000001,
+    23.56947,
     -26.16309
 ],
-  "geometry": {"coordinates":[23.56947000000001,-26.16309],"type":"Point"}
+  "geometry": {"coordinates":[23.56947,-26.16309],"type":"Point"}
 }

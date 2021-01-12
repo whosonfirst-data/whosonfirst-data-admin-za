@@ -40,7 +40,7 @@
         "gn:id":955362
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e84e03bddc7ad728e5f37de21924f7d2",
+    "wof:geomhash":"f46737c880e660f236aee1c6c1c48260",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209105211,
-    "wof:lastmodified":1566663424,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412036,
     "wof:name":"Sitoleni",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     28.08175,
-    -31.49139000000001,
+    -31.49139,
     28.08175,
-    -31.49139000000001
+    -31.49139
 ],
-  "geometry": {"coordinates":[28.08175,-31.49139000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.08175,-31.49139],"type":"Point"}
 }

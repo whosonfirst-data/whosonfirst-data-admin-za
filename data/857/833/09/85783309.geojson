@@ -9,7 +9,6 @@
     "geom:bbox":"18.866039,-34.164195,18.866039,-34.164195",
     "geom:latitude":-34.164195,
     "geom:longitude":18.866039,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.861039,-34.169195,18.871039,-34.159195",
     "lbl:latitude":-34.164195,
@@ -59,11 +58,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":36,
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730611,
         101928041,
-        1108730611
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,10 +86,23 @@
         }
     ],
     "wof:id":85783309,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411835,
     "wof:name":"Mountainside",
     "wof:parent_id":101928041,
     "wof:placetype":"neighbourhood",

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1165355.005785,
-    "geom:bbox":"29.7088108063,-23.0940246582,29.7210693359,-23.0810489655",
+    "geom:area_square_m":1165342.607403,
+    "geom:bbox":"29.708811,-23.094025,29.721069,-23.081049",
     "geom:latitude":-23.087964,
     "geom:longitude":29.714608,
     "iso:country":"ZA",
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":1584168
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4f9c9d6b5bf2ee4e24d38c3cd6f58af3",
+    "wof:geomhash":"f9046e6f6490e1f9f00b72bd87594a75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101923159,
-    "wof:lastmodified":1566663856,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412202,
     "wof:name":"Madabani",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.70881080627441,
-    -23.09402465820312,
-    29.7210693359375,
-    -23.0810489654541
+    29.708811,
+    -23.094025,
+    29.721069,
+    -23.081049
 ],
-  "geometry": {"coordinates":[[[29.71138572692871,-23.0810489654541],[29.7210693359375,-23.08506774902344],[29.71760368347168,-23.09402465820312],[29.70881080627441,-23.09243965148926],[29.71138572692871,-23.0810489654541]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.711386,-23.081049],[29.721069,-23.085068],[29.717604,-23.094025],[29.708811,-23.09244],[29.711386,-23.081049]]],"type":"Polygon"}
 }

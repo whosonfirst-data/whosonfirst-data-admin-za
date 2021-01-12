@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85632635,
-        85678223,
-        1108561279
+        1108561279,
+        85678223
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1022518
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2f8b163c37a712cd61be0aece23c83d8",
+    "wof:geomhash":"a78935d8236142c743e6dfa66c20e99a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1293904799,
-    "wof:lastmodified":1566663042,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411873,
     "wof:name":"Anysspruit",
     "wof:parent_id":1108561279,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.61667000000001,
+    31.61667,
     -27.03333,
-    31.61667000000001,
+    31.61667,
     -27.03333
 ],
-  "geometry": {"coordinates":[31.61667000000001,-27.03333],"type":"Point"}
+  "geometry": {"coordinates":[31.61667,-27.03333],"type":"Point"}
 }

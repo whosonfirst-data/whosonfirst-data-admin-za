@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1006692
     },
     "wof:country":"ZA",
-    "wof:geomhash":"10710976714cf00148e611295690fa19",
+    "wof:geomhash":"3fba3899d5017f8987b11b4643a5d40e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243368339,
-    "wof:lastmodified":1566664342,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412402,
     "wof:name":"Eensgevonden",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.21429,
-    -30.95517000000001,
+    -30.95517,
     26.21429,
-    -30.95517000000001
+    -30.95517
 ],
-  "geometry": {"coordinates":[26.21429,-30.95517000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.21429,-30.95517],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":782543.879036,
-    "geom:bbox":"31.8372612,-25.9569759369,31.8492259979,-25.9410419464",
-    "geom:latitude":-25.948415,
+    "geom:area_square_m":782516.334642,
+    "geom:bbox":"31.837261,-25.956976,31.849226,-25.941042",
+    "geom:latitude":-25.948416,
     "geom:longitude":31.842992,
     "iso:country":"ZA",
     "lbl:latitude":-25.948229,
@@ -44,8 +44,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +54,7 @@
         "wd:id":"Q20858948"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"803bc11d293584ab1cbcc9daf5f96fbb",
+    "wof:geomhash":"1cc99382162e783d772c7303e0d03392",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,7 +65,23 @@
         }
     ],
     "wof:id":101927335,
-    "wof:lastmodified":1566664019,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412266,
     "wof:name":"Mananga",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -75,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.83726119995117,
-    -25.95697593688965,
-    31.8492259979248,
-    -25.94104194641113
+    31.837261,
+    -25.956976,
+    31.849226,
+    -25.941042
 ],
-  "geometry": {"coordinates":[[[31.83726119995117,-25.95521354675293],[31.8442325592041,-25.94104194641113],[31.8492259979248,-25.94116020202637],[31.84068298339844,-25.95697593688965],[31.83726119995117,-25.95521354675293]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[31.837261,-25.955214],[31.844233,-25.941042],[31.849226,-25.94116],[31.840683,-25.956976],[31.837261,-25.955214]]],"type":"Polygon"}
 }

@@ -54,8 +54,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,23 @@
         }
     ],
     "wof:id":1125901175,
-    "wof:lastmodified":1566664262,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412370,
     "wof:name":"The Crags",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",

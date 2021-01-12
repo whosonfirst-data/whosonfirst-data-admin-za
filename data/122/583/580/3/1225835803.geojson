@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":944145
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5ffe03dbd2cefcf9104dee600c945bff",
+    "wof:geomhash":"dbc90ad965967551fdb4a433158a7e81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1225835803,
-    "wof:lastmodified":1566664718,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412558,
     "wof:name":"Verschep",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     21.21667,
-    -29.11667000000001,
+    -29.11667,
     21.21667,
-    -29.11667000000001
+    -29.11667
 ],
-  "geometry": {"coordinates":[21.21667,-29.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.21667,-29.11667],"type":"Point"}
 }

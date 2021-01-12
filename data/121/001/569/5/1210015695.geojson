@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985985
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4c83075e8c2cf811613ffa32dda08e0d",
+    "wof:geomhash":"7a33497c6d42b150bba0db5da31f7d05",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1210015695,
-    "wof:lastmodified":1566663438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412042,
     "wof:name":"KwaCetshe",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.479,
-    -30.86582000000001,
+    -30.86582,
     29.479,
-    -30.86582000000001
+    -30.86582
 ],
-  "geometry": {"coordinates":[29.479,-30.86582000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.479,-30.86582],"type":"Point"}
 }

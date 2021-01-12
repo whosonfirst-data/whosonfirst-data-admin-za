@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":967821
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fa39d80324893a817d1bca2d0422edb4",
+    "wof:geomhash":"0a3f6b33c4f56e4d318d4ed893ee3bac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309827515,
-    "wof:lastmodified":1566664185,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412335,
     "wof:name":"Onverwag",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.00462000000001,
+    31.00462,
     -24.83705,
-    31.00462000000001,
+    31.00462,
     -24.83705
 ],
-  "geometry": {"coordinates":[31.00462000000001,-24.83705],"type":"Point"}
+  "geometry": {"coordinates":[31.00462,-24.83705],"type":"Point"}
 }

@@ -63,10 +63,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":31,
     "wof:belongsto":[
-        85688911,
         102191573,
         85633813,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,10 +92,23 @@
         }
     ],
     "wof:id":85771999,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348447,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411846,
     "wof:name":"Bayhead",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

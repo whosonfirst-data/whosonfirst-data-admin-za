@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978563
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d7a60a04b698ff9da3091d90aa4ffc8a",
+    "wof:geomhash":"81c9f5eb34a89d332c73bd59267c0a73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209814683,
-    "wof:lastmodified":1566663430,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412039,
     "wof:name":"Marwatini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.61667000000001,
+    28.61667,
     -30.95,
-    28.61667000000001,
+    28.61667,
     -30.95
 ],
-  "geometry": {"coordinates":[28.61667000000001,-30.95],"type":"Point"}
+  "geometry": {"coordinates":[28.61667,-30.95],"type":"Point"}
 }

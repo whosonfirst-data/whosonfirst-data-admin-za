@@ -40,7 +40,7 @@
         "gn:id":977772
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0f6666ec3aa19682a0372f8ab31668e1",
+    "wof:geomhash":"73025a2eb33646971b34b48e19528fc3",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209419891,
-    "wof:lastmodified":1566663353,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412006,
     "wof:name":"Mazizini",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.71802000000001,
+    28.71802,
     -31.95086,
-    28.71802000000001,
+    28.71802,
     -31.95086
 ],
-  "geometry": {"coordinates":[28.71802000000001,-31.95086],"type":"Point"}
+  "geometry": {"coordinates":[28.71802,-31.95086],"type":"Point"}
 }

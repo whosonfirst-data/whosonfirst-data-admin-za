@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":945235
     },
     "wof:country":"ZA",
-    "wof:geomhash":"693dab53fc0db6cbfea03524e43356a6",
+    "wof:geomhash":"ffa1e1b10f12cbc78689d32e82ed74a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242766563,
-    "wof:lastmodified":1566664441,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412442,
     "wof:name":"Vaalplaats",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.65648,
-    -26.32022000000001,
+    -26.32022,
     25.65648,
-    -26.32022000000001
+    -26.32022
 ],
-  "geometry": {"coordinates":[25.65648,-26.32022000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.65648,-26.32022],"type":"Point"}
 }

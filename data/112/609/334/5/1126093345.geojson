@@ -121,11 +121,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925779,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,23 @@
         }
     ],
     "wof:id":1126093345,
-    "wof:lastmodified":1566664306,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412387,
     "wof:name":"Pomona",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",

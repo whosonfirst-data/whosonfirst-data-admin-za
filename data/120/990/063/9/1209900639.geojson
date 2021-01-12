@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005401
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f2118176d86cf8e4c9f6a41d7da07bfa",
+    "wof:geomhash":"bc96112da297c6b8e4e1389a53da6764",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209900639,
-    "wof:lastmodified":1566663336,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411999,
     "wof:name":"Enkelbosch",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.46512,
-    -23.85747000000001,
+    -23.85747,
     29.46512,
-    -23.85747000000001
+    -23.85747
 ],
-  "geometry": {"coordinates":[29.46512,-23.85747000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.46512,-23.85747],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":577730.805054,
-    "geom:bbox":"25.8025798798,-31.6588573456,25.814037323,-31.6473560333",
+    "geom:area_square_m":577686.067747,
+    "geom:bbox":"25.80258,-31.658857,25.814037,-31.647356",
     "geom:latitude":-31.65314,
     "geom:longitude":25.808097,
     "iso:country":"ZA",
@@ -70,8 +70,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +81,7 @@
         "wk:page":"Hofmeyr"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8bcfa16cdf64c2bc250cca7c7efc6546",
+    "wof:geomhash":"9d98a3104478b3245aaa899dc18f48ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +92,23 @@
         }
     ],
     "wof:id":101928707,
-    "wof:lastmodified":1566664108,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412302,
     "wof:name":"Hofmeyr",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -102,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.80257987976074,
-    -31.65885734558105,
-    25.81403732299805,
-    -31.6473560333252
+    25.80258,
+    -31.658857,
+    25.814037,
+    -31.647356
 ],
-  "geometry": {"coordinates":[[[25.80257987976074,-31.65518951416016],[25.81072807312012,-31.6473560333252],[25.81403732299805,-31.65236854553223],[25.80292892456055,-31.65885734558105],[25.80257987976074,-31.65518951416016]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.80258,-31.65519],[25.810728,-31.647356],[25.814037,-31.652369],[25.802929,-31.658857],[25.80258,-31.65519]]],"type":"Polygon"}
 }

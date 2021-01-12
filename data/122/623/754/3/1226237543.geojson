@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730609
+        1108730609,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998312
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fe5608ce65c6bcbe1ef20a349676738b",
+    "wof:geomhash":"c51ee386821c889f2d71a2287bb2d9ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226237543,
-    "wof:lastmodified":1566664667,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412536,
     "wof:name":"Haaskraal",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.03481,
-    -26.76804000000001,
+    -26.76804,
     27.03481,
-    -26.76804000000001
+    -26.76804
 ],
-  "geometry": {"coordinates":[27.03481,-26.76804000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.03481,-26.76804],"type":"Point"}
 }

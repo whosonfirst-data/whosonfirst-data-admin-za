@@ -9,7 +9,6 @@
     "geom:bbox":"28.123748,-26.156935,28.123748,-26.156935",
     "geom:latitude":-26.156935,
     "geom:longitude":28.123748,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.118748,-26.161935,28.128748,-26.151935",
     "lbl:latitude":-26.156935,
@@ -61,11 +60,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730507,
         101925733,
-        1108730507
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,10 +88,23 @@
         }
     ],
     "wof:id":85782809,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348440,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411833,
     "wof:name":"Senderwood",
     "wof:parent_id":101925733,
     "wof:placetype":"neighbourhood",

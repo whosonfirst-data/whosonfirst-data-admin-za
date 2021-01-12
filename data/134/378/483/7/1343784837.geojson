@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":945868
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8a00488715448efb01aa7d61edcaad1a",
+    "wof:geomhash":"d86d87e9ec48b8cd1a6cbf80096783a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343784837,
-    "wof:lastmodified":1566662862,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411798,
     "wof:name":"Upper Tabase",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.50696,
-    -31.61939000000001,
+    -31.61939,
     28.50696,
-    -31.61939000000001
+    -31.61939
 ],
-  "geometry": {"coordinates":[28.50696,-31.61939000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.50696,-31.61939],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013576
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cccc7441db433ee0a1a8eff1cc9cc938",
+    "wof:geomhash":"6b2d047f34441d4be982e0293d697e08",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326651193,
-    "wof:lastmodified":1566662756,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411759,
     "wof:name":"Chochocho",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.11382,
-    -24.69662000000001,
+    -24.69662,
     31.11382,
-    -24.69662000000001
+    -24.69662
 ],
-  "geometry": {"coordinates":[31.11382,-24.69662000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.11382,-24.69662],"type":"Point"}
 }

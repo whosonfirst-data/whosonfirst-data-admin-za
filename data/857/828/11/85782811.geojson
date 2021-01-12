@@ -9,7 +9,6 @@
     "geom:bbox":"28.008066,-26.009007,28.008066,-26.009007",
     "geom:latitude":-26.009007,
     "geom:longitude":28.008066,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.003066,-26.014007,28.013066,-26.004007",
     "lbl:latitude":-26.009007,
@@ -70,11 +69,11 @@
     "wd:longitude":28.005,
     "wd:wordcount":18,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925679,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,10 +98,23 @@
         }
     ],
     "wof:id":85782811,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348440,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411833,
     "wof:name":"Witkoppen",
     "wof:parent_id":101925679,
     "wof:placetype":"neighbourhood",

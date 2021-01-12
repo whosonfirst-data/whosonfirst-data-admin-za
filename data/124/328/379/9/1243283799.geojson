@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730599
+        1108730599,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011599
     },
     "wof:country":"ZA",
-    "wof:geomhash":"76c0fb818f0f5ae369d21d2c6091fda1",
+    "wof:geomhash":"cccfdf1c7678bc003f79f6f8c04cdcbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243283799,
-    "wof:lastmodified":1566664471,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412454,
     "wof:name":"De Beers Farm",
     "wof:parent_id":1108730599,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     24.75,
-    -28.86667000000001,
+    -28.86667,
     24.75,
-    -28.86667000000001
+    -28.86667
 ],
-  "geometry": {"coordinates":[24.75,-28.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.75,-28.86667],"type":"Point"}
 }

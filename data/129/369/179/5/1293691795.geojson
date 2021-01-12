@@ -185,15 +185,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":995422
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cda7d8f654f3c7da8dc2deb3843eab41",
+    "wof:geomhash":"6201cce120587d9e9d9cf8dbb56a169f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -204,7 +204,23 @@
         }
     ],
     "wof:id":1293691795,
-    "wof:lastmodified":1566663099,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411898,
     "wof:name":"Horseshoe",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -214,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11667000000001,
+    27.11667,
     -32.7,
-    27.11667000000001,
+    27.11667,
     -32.7
 ],
-  "geometry": {"coordinates":[27.11667000000001,-32.7],"type":"Point"}
+  "geometry": {"coordinates":[27.11667,-32.7],"type":"Point"}
 }

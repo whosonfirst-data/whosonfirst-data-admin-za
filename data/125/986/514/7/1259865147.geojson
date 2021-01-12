@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":990247
     },
     "wof:country":"ZA",
-    "wof:geomhash":"95517db5a0157792bf9d2394cbd1659e",
+    "wof:geomhash":"4982423b5855ab18dc73dd97d8a144f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1259865147,
-    "wof:lastmodified":1566664584,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412501,
     "wof:name":"Klein Mier Nommer Een",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     20.27571,
-    -26.73904000000001,
+    -26.73904,
     20.27571,
-    -26.73904000000001
+    -26.73904
 ],
-  "geometry": {"coordinates":[20.27571,-26.73904000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.27571,-26.73904],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965403
     },
     "wof:country":"ZA",
-    "wof:geomhash":"215f731766a94f869764369ab28d3387",
+    "wof:geomhash":"fcd233e4d164465ad7f342277466c673",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1343842369,
-    "wof:lastmodified":1566662850,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411792,
     "wof:name":"Phungwe",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     31.47575,
-    -24.69400000000001,
+    -24.694,
     31.47575,
-    -24.69400000000001
+    -24.694
 ],
-  "geometry": {"coordinates":[31.47575,-24.69400000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.47575,-24.694],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":948995
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f41888c605d86d44459aa4cbf12ec15a",
+    "wof:geomhash":"4b70b9b19ffc6103d29dc41c38822383",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226645083,
-    "wof:lastmodified":1566664688,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412544,
     "wof:name":"Thwalikhulu",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97609000000001,
+    28.97609,
     -31.96765,
-    28.97609000000001,
+    28.97609,
     -31.96765
 ],
-  "geometry": {"coordinates":[28.97609000000001,-31.96765],"type":"Point"}
+  "geometry": {"coordinates":[28.97609,-31.96765],"type":"Point"}
 }

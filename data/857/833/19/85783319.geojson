@@ -9,7 +9,6 @@
     "geom:bbox":"18.674453,-34.058674,18.674453,-34.058674",
     "geom:latitude":-34.058674,
     "geom:longitude":18.674453,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.669453,-34.063674,18.679453,-34.053674",
     "lbl:latitude":-34.058674,
@@ -430,11 +429,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730611,
         101928029,
-        1108730611
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -458,10 +457,23 @@
         }
     ],
     "wof:id":85783319,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411835,
     "wof:name":"Harare",
     "wof:parent_id":101928029,
     "wof:placetype":"neighbourhood",

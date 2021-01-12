@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.617335,-32.1682375,25.617335,-32.1682375",
+    "geom:bbox":"25.617335,-32.168237,25.617335,-32.168237",
     "geom:latitude":-32.168237,
     "geom:longitude":25.617335,
     "gn:country":null,
@@ -118,8 +118,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +130,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497295535,
-    "wof:geomhash":"ad6a52606d3ad9f298b79842e5168727",
+    "wof:geomhash":"875d07601839cf6d908c77b02d554cad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +141,23 @@
         }
     ],
     "wof:id":1125895511,
-    "wof:lastmodified":1566664244,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412363,
     "wof:name":"Cradock",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -157,9 +173,9 @@
 },
   "bbox": [
     25.617335,
-    -32.1682375,
+    -32.168237,
     25.617335,
-    -32.1682375
+    -32.168237
 ],
-  "geometry": {"coordinates":[25.617335,-32.1682375],"type":"Point"}
+  "geometry": {"coordinates":[25.617335,-32.168237],"type":"Point"}
 }

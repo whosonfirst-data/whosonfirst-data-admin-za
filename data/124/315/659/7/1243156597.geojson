@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973620
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4f3b6d49267636d68858f128ff068d2a",
+    "wof:geomhash":"0114cd6003e78af94c99dfcffb501022",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243156597,
-    "wof:lastmodified":1566664409,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412428,
     "wof:name":"Motshele",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.95758,
-    -23.65927000000001,
+    -23.65927,
     29.95758,
-    -23.65927000000001
+    -23.65927
 ],
-  "geometry": {"coordinates":[29.95758,-23.65927000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.95758,-23.65927],"type":"Point"}
 }

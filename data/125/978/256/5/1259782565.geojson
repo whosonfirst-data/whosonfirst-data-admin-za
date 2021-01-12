@@ -86,15 +86,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1000853
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8904e61cf675a2bf3ded8a74c9851dca",
+    "wof:geomhash":"a4f5c5bd4535fa0f7b541fe40a944055",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +105,23 @@
         }
     ],
     "wof:id":1259782565,
-    "wof:lastmodified":1566664533,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412480,
     "wof:name":"Good Hope",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -115,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.45479000000001,
+    26.45479,
     -31.90733,
-    26.45479000000001,
+    26.45479,
     -31.90733
 ],
-  "geometry": {"coordinates":[26.45479000000001,-31.90733],"type":"Point"}
+  "geometry": {"coordinates":[26.45479,-31.90733],"type":"Point"}
 }

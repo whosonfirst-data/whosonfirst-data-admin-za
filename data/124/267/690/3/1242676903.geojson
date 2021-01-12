@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":975621
     },
     "wof:country":"ZA",
-    "wof:geomhash":"369c09f8fcc572eeca0f215a95959a18",
+    "wof:geomhash":"989fe8951caf463e38152f7291c6a6e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242676903,
-    "wof:lastmodified":1566664398,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412424,
     "wof:name":"Mjikweni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.75971,
-    -32.00445999999999,
+    -32.00446,
     28.75971,
-    -32.00445999999999
+    -32.00446
 ],
-  "geometry": {"coordinates":[28.75971,-32.00445999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.75971,-32.00446],"type":"Point"}
 }

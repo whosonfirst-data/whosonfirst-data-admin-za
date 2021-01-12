@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":988378
     },
     "wof:country":"ZA",
-    "wof:geomhash":"01d39dc28253c7a5bb1577de414e0b80",
+    "wof:geomhash":"1e11e564aae2cad8d0516461e414cee2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1210010399,
-    "wof:lastmodified":1566663440,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412043,
     "wof:name":"Kokomeng",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.05007,
-    -27.62709000000001,
+    -27.62709,
     25.05007,
-    -27.62709000000001
+    -27.62709
 ],
-  "geometry": {"coordinates":[25.05007,-27.62709000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.05007,-27.62709],"type":"Point"}
 }

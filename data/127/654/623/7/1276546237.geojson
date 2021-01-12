@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984927
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e807f213daff6665de474422e9e7f581",
+    "wof:geomhash":"6b3159fcd7f8bdbe3b87e32225bd0706",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276546237,
-    "wof:lastmodified":1566663295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411982,
     "wof:name":"Lalini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.70166,
-    -31.33767000000001,
+    -31.33767,
     28.70166,
-    -31.33767000000001
+    -31.33767
 ],
-  "geometry": {"coordinates":[28.70166,-31.33767000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.70166,-31.33767],"type":"Point"}
 }

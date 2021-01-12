@@ -51,11 +51,11 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730611,
         101928027,
-        1108730611
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,23 @@
         }
     ],
     "wof:id":1126061601,
-    "wof:lastmodified":1566664290,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412381,
     "wof:name":"Danga",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

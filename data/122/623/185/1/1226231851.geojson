@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":944644
     },
     "wof:country":"ZA",
-    "wof:geomhash":"58c266c373743c17de4f720c42896b68",
+    "wof:geomhash":"4fda6b4b8c9821178039035d0ade9d89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226231851,
-    "wof:lastmodified":1566664670,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412537,
     "wof:name":"Veekraal",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.9064,
-    -23.90242000000001,
+    -23.90242,
     29.9064,
-    -23.90242000000001
+    -23.90242
 ],
-  "geometry": {"coordinates":[29.9064,-23.90242000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.9064,-23.90242],"type":"Point"}
 }

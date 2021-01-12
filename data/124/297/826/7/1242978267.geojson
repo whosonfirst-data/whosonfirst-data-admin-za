@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":992619
     },
     "wof:country":"ZA",
-    "wof:geomhash":"093c0a27e1515dc893ccf252065097de",
+    "wof:geomhash":"f8fc9e12276a84a3b2113e2ed00543b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242978267,
-    "wof:lastmodified":1566664451,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412445,
     "wof:name":"Kalwerspruit",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.83333,
-    -27.36667000000001,
+    -27.36667,
     28.83333,
-    -27.36667000000001
+    -27.36667
 ],
-  "geometry": {"coordinates":[28.83333,-27.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.83333,-27.36667],"type":"Point"}
 }

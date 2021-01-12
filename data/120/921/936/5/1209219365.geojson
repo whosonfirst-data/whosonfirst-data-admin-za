@@ -52,7 +52,7 @@
         "gn:id":945804
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9b8d7e93afffba99ec4b56087b8187d9",
+    "wof:geomhash":"6fdbd3201213f748b0f3bced8bbaf95b",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1209219365,
-    "wof:lastmodified":1566663418,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412033,
     "wof:name":"Uvongo",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.58654000000001,
+    26.58654,
     -31.40847,
-    26.58654000000001,
+    26.58654,
     -31.40847
 ],
-  "geometry": {"coordinates":[26.58654000000001,-31.40847],"type":"Point"}
+  "geometry": {"coordinates":[26.58654,-31.40847],"type":"Point"}
 }

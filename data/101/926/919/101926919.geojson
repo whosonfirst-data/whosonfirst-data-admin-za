@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":301620.934167,
-    "geom:bbox":"25.7697200775,-28.6609783173,25.7768306732,-28.6549091339",
-    "geom:latitude":-28.657738,
+    "geom:area_square_m":301623.48633,
+    "geom:bbox":"25.76972,-28.660978,25.776831,-28.654909",
+    "geom:latitude":-28.657737,
     "geom:longitude":25.773422,
     "iso:country":"ZA",
     "lbl:latitude":-28.657866,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730533
+        1108730533,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55880255
     },
     "wof:country":"ZA",
-    "wof:geomhash":"64c90587fe65a96cf6fec6f54532828a",
+    "wof:geomhash":"0c2b318eb0b59c6734fe681cca9b8dab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926919,
-    "wof:lastmodified":1566664099,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412297,
     "wof:name":"Tswaraganang",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.76972007751465,
-    -28.66097831726074,
-    25.77683067321777,
-    -28.65490913391113
+    25.76972,
+    -28.660978,
+    25.776831,
+    -28.654909
 ],
-  "geometry": {"coordinates":[[[25.77683067321777,-28.65920829772949],[25.77186393737793,-28.66097831726074],[25.76972007751465,-28.65596008300781],[25.77569389343262,-28.65490913391113],[25.77683067321777,-28.65920829772949]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.776831,-28.659208],[25.771864,-28.660978],[25.76972,-28.65596],[25.775694,-28.654909],[25.776831,-28.659208]]],"type":"Polygon"}
 }

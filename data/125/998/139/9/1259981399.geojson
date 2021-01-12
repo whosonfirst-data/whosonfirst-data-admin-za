@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":954242
     },
     "wof:country":"ZA",
-    "wof:geomhash":"68c2d47a72d7c3542d72460afd3e508b",
+    "wof:geomhash":"4d4be6b639ab68941fe2d1150d44bf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259981399,
-    "wof:lastmodified":1566664498,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412465,
     "wof:name":"Soetvlei",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.87262,
-    -30.51119000000001,
+    -30.51119,
     26.87262,
-    -30.51119000000001
+    -30.51119
 ],
-  "geometry": {"coordinates":[26.87262,-30.51119000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.87262,-30.51119],"type":"Point"}
 }

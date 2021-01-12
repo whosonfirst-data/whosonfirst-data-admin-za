@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955609
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4051887819403432e70c0c19e4d72aed",
+    "wof:geomhash":"220a8585d7260255736d2e056b7ac5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1310288757,
-    "wof:lastmodified":1566663719,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412145,
     "wof:name":"Silkaatskop",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.43489000000001,
+    26.43489,
     -25.04365,
-    26.43489000000001,
+    26.43489,
     -25.04365
 ],
-  "geometry": {"coordinates":[26.43489000000001,-25.04365],"type":"Point"}
+  "geometry": {"coordinates":[26.43489,-25.04365],"type":"Point"}
 }

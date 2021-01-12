@@ -9,7 +9,6 @@
     "geom:bbox":"28.181425,-25.776363,28.181425,-25.776363",
     "geom:latitude":-25.776363,
     "geom:longitude":28.181425,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.176425,-25.781363,28.186425,-25.771363",
     "lbl:latitude":-25.776363,
@@ -61,10 +60,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,10 +87,23 @@
         }
     ],
     "wof:id":85783109,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411842,
     "wof:name":"Skanskop",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

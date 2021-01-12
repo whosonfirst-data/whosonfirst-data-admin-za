@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991104
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c4480a5be10e7f6fb13310505977d0f8",
+    "wof:geomhash":"fa89675ac86acbb4775ab3cfd1c9d3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343863203,
-    "wof:lastmodified":1566662921,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411829,
     "wof:name":"Khohlong",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.86383,
-    -30.30877000000001,
+    -30.30877,
     28.86383,
-    -30.30877000000001
+    -30.30877
 ],
-  "geometry": {"coordinates":[28.86383,-30.30877000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.86383,-30.30877],"type":"Point"}
 }

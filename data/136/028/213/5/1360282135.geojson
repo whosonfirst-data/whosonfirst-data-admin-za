@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973741
     },
     "wof:country":"ZA",
-    "wof:geomhash":"07bc21e5cdc5d862e5f57cd1bf4ca79c",
+    "wof:geomhash":"3304ddca1b625745b4f8c9c4d03d0f80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360282135,
-    "wof:lastmodified":1566663791,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412176,
     "wof:name":"Moshira",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.09705,
-    -24.34452000000001,
+    -24.34452,
     30.09705,
-    -24.34452000000001
+    -24.34452
 ],
-  "geometry": {"coordinates":[30.09705,-24.34452000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.09705,-24.34452],"type":"Point"}
 }

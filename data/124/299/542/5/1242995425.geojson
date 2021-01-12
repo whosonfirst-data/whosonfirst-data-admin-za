@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730599
+        1108730599,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959585
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c2be5751957f078d4f484c905fc94759",
+    "wof:geomhash":"6576cea5b2aace7adaea93426b78c914",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242995425,
-    "wof:lastmodified":1566664457,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412448,
     "wof:name":"Rooipan",
     "wof:parent_id":1108730599,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     24.34389,
-    -28.77752000000001,
+    -28.77752,
     24.34389,
-    -28.77752000000001
+    -28.77752
 ],
-  "geometry": {"coordinates":[24.34389,-28.77752000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.34389,-28.77752],"type":"Point"}
 }

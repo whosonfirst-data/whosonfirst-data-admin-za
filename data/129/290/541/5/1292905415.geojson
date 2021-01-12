@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730535
+        1108730535,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1021419
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cba3979ef1581429d46a1b0de60c3009",
+    "wof:geomhash":"9b786497c0e7405a3652e419d2c75016",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1292905415,
-    "wof:lastmodified":1566663119,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411907,
     "wof:name":"Balaclava",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     26.96667,
-    -29.36667000000001,
+    -29.36667,
     26.96667,
-    -29.36667000000001
+    -29.36667
 ],
-  "geometry": {"coordinates":[26.96667,-29.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.96667,-29.36667],"type":"Point"}
 }

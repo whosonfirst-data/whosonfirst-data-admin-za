@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973679
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e62076a3ad7a7a429ba293357b1dceb2",
+    "wof:geomhash":"4df5987c09bb9023284acea78561a630",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243359393,
-    "wof:lastmodified":1566664419,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412432,
     "wof:name":"Motantanyana",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.43142000000001,
+    29.43142,
     -24.33646,
-    29.43142000000001,
+    29.43142,
     -24.33646
 ],
-  "geometry": {"coordinates":[29.43142000000001,-24.33646],"type":"Point"}
+  "geometry": {"coordinates":[29.43142,-24.33646],"type":"Point"}
 }

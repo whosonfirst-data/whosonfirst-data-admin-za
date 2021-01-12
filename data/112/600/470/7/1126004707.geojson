@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.682132,-33.9991565,22.682132,-33.9991565",
+    "geom:bbox":"22.682132,-33.999156,22.682132,-33.999156",
     "geom:latitude":-33.999156,
     "geom:longitude":22.682132,
     "gn:country":null,
@@ -46,8 +46,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497299867,
-    "wof:geomhash":"e1d6a847326758e0ee2d2e0c0581f674",
+    "wof:geomhash":"c92f73c78fc16d3908855ba7345d0f94",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1126004707,
-    "wof:lastmodified":1566664296,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412383,
     "wof:name":"Kleinkrantz",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -78,9 +94,9 @@
 },
   "bbox": [
     22.682132,
-    -33.9991565,
+    -33.999156,
     22.682132,
-    -33.9991565
+    -33.999156
 ],
-  "geometry": {"coordinates":[22.682132,-33.9991565],"type":"Point"}
+  "geometry": {"coordinates":[22.682132,-33.999156],"type":"Point"}
 }

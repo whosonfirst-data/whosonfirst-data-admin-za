@@ -115,7 +115,7 @@
         "gn:id":1003762
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7f3faa90703ce8b57b8ed9c07315fc41",
+    "wof:geomhash":"6e9deeb63e48465de70aa578ff5fe1fc",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -123,7 +123,23 @@
         }
     ],
     "wof:id":1209326063,
-    "wof:lastmodified":1566663382,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412019,
     "wof:name":"Frankfort",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -133,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.67344000000001,
+    26.67344,
     -29.54465,
-    26.67344000000001,
+    26.67344,
     -29.54465
 ],
-  "geometry": {"coordinates":[26.67344000000001,-29.54465],"type":"Point"}
+  "geometry": {"coordinates":[26.67344,-29.54465],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003372
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1d015817d9fe64d4bfc1a0c9d52c3fec",
+    "wof:geomhash":"0b66f1291009f3b42e873b9359ad6075",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243156591,
-    "wof:lastmodified":1566664409,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412428,
     "wof:name":"Ga-Mafefe",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.11352,
-    -24.20347000000001,
+    -24.20347,
     30.11352,
-    -24.20347000000001
+    -24.20347
 ],
-  "geometry": {"coordinates":[30.11352,-24.20347000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.11352,-24.20347],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":961825
     },
     "wof:country":"ZA",
-    "wof:geomhash":"874e7e770f0c5b710ed846447a84d78c",
+    "wof:geomhash":"e4ec381e8e4c304f78c40c2322501af2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276229561,
-    "wof:lastmodified":1566663248,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411961,
     "wof:name":"Riethork",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.89417000000001,
+    26.89417,
     -30.27814,
-    26.89417000000001,
+    26.89417,
     -30.27814
 ],
-  "geometry": {"coordinates":[26.89417000000001,-30.27814],"type":"Point"}
+  "geometry": {"coordinates":[26.89417,-30.27814],"type":"Point"}
 }

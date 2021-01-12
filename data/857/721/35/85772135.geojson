@@ -78,11 +78,11 @@
     "wd:longitude":27.836944,
     "wd:wordcount":38,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101926201,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,10 +109,23 @@
         }
     ],
     "wof:id":85772135,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348447,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411846,
     "wof:name":"Ennerdale",
     "wof:parent_id":101926201,
     "wof:placetype":"neighbourhood",

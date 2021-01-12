@@ -101,15 +101,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011827
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bc4b2d1061cb794265895619427d5bf6",
+    "wof:geomhash":"124bb1ef3bbf8a304dda2bb653d9f915",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +120,23 @@
         }
     ],
     "wof:id":1226236831,
-    "wof:lastmodified":1566664669,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412537,
     "wof:name":"Darling",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -131,9 +147,9 @@
 },
   "bbox": [
     29.31892,
-    -27.00349000000001,
+    -27.00349,
     29.31892,
-    -27.00349000000001
+    -27.00349
 ],
-  "geometry": {"coordinates":[29.31892,-27.00349000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.31892,-27.00349],"type":"Point"}
 }

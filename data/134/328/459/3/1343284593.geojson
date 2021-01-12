@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955430
     },
     "wof:country":"ZA",
-    "wof:geomhash":"55f3653a61e7c4eb238724263e910faf",
+    "wof:geomhash":"8ffee9fd57bdc9609ef8d19961145660",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343284593,
-    "wof:lastmodified":1566662912,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411824,
     "wof:name":"Siqikini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.91119,
-    -31.75762000000001,
+    -31.75762,
     28.91119,
-    -31.75762000000001
+    -31.75762
 ],
-  "geometry": {"coordinates":[28.91119,-31.75762000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.91119,-31.75762],"type":"Point"}
 }

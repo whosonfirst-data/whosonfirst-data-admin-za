@@ -315,8 +315,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -334,7 +334,23 @@
         }
     ],
     "wof:id":1327013715,
-    "wof:lastmodified":1566662640,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411709,
     "wof:name":"Washington",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",

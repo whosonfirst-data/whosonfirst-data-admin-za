@@ -40,7 +40,7 @@
         "gn:id":1009968
     },
     "wof:country":"ZA",
-    "wof:geomhash":"aad9bfcb370d244958ec01c497dcb195",
+    "wof:geomhash":"1ec0bde37eeb6918532918c4b070fa3e",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209620037,
-    "wof:lastmodified":1566663325,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411994,
     "wof:name":"Die Vlakte",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.91547000000001,
+    25.91547,
     -31.67846,
-    25.91547000000001,
+    25.91547,
     -31.67846
 ],
-  "geometry": {"coordinates":[25.91547000000001,-31.67846],"type":"Point"}
+  "geometry": {"coordinates":[25.91547,-31.67846],"type":"Point"}
 }

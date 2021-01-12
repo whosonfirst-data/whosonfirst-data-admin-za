@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":2043131.079482,
-    "geom:bbox":"30.0488624573,-23.2009811401,30.062171936,-23.1855201721",
+    "geom:area_square_m":2043132.976857,
+    "geom:bbox":"30.048862,-23.200981,30.062172,-23.18552",
     "geom:latitude":-23.193067,
     "geom:longitude":30.055623,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1583969
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c7191373fece5c47dce9b3650fb03bbf",
+    "wof:geomhash":"e1ecdaac898bcf76d9147e60f93d4212",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924095,
-    "wof:lastmodified":1566663841,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412196,
     "wof:name":"Magangeni",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.04886245727539,
-    -23.20098114013672,
-    30.06217193603516,
-    -23.18552017211914
+    30.048862,
+    -23.200981,
+    30.062172,
+    -23.18552
 ],
-  "geometry": {"coordinates":[[[30.06094741821289,-23.18552017211914],[30.06217193603516,-23.20098114013672],[30.05029678344727,-23.20024871826172],[30.04886245727539,-23.18563079833984],[30.06094741821289,-23.18552017211914]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.060947,-23.18552],[30.062172,-23.200981],[30.050297,-23.200249],[30.048862,-23.185631],[30.060947,-23.18552]]],"type":"Polygon"}
 }

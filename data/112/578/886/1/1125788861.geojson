@@ -121,8 +121,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +143,23 @@
         }
     ],
     "wof:id":1125788861,
-    "wof:lastmodified":1566664314,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412391,
     "wof:name":"Kendal",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",

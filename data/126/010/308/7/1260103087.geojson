@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1017729
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7a3d5ac45bc2006ca1c8868b87818181",
+    "wof:geomhash":"4b854325f74a28e086ea7ad303ec273a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1260103087,
-    "wof:lastmodified":1566663526,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412080,
     "wof:name":"Bolotwa",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -77,9 +93,9 @@
 },
   "bbox": [
     28.27439,
-    -31.84800000000001,
+    -31.848,
     28.27439,
-    -31.84800000000001
+    -31.848
 ],
-  "geometry": {"coordinates":[28.27439,-31.84800000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.27439,-31.848],"type":"Point"}
 }

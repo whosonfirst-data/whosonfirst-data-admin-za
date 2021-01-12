@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955431
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e6847db67c0231a5265e62fce5277952",
+    "wof:geomhash":"d1f603159bbfd205dde648d1aa36a364",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293906211,
-    "wof:lastmodified":1566663041,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411873,
     "wof:name":"Siqhingeni",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.02244,
-    -30.80304000000001,
+    -30.80304,
     29.02244,
-    -30.80304000000001
+    -30.80304
 ],
-  "geometry": {"coordinates":[29.02244,-30.80304000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.02244,-30.80304],"type":"Point"}
 }

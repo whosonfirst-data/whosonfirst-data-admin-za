@@ -122,15 +122,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1021839
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5343a363af95057bb908632778a64aea",
+    "wof:geomhash":"df9c0fc2a9f64a52263007f4cf844a81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +141,23 @@
         }
     ],
     "wof:id":1276774933,
-    "wof:lastmodified":1566663269,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411970,
     "wof:name":"Babel",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -151,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.90439000000001,
+    26.90439,
     -30.10075,
-    26.90439000000001,
+    26.90439,
     -30.10075
 ],
-  "geometry": {"coordinates":[26.90439000000001,-30.10075],"type":"Point"}
+  "geometry": {"coordinates":[26.90439,-30.10075],"type":"Point"}
 }

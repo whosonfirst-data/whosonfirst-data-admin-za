@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":956017
     },
     "wof:country":"ZA",
-    "wof:geomhash":"19a3cb194099ab5a81648c985918be1c",
+    "wof:geomhash":"40fcdc66a3ffc3592de272e75ea930cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343863181,
-    "wof:lastmodified":1566662922,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411829,
     "wof:name":"Shilabeni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.35953,
-    -31.76072000000001,
+    -31.76072,
     28.35953,
-    -31.76072000000001
+    -31.76072
 ],
-  "geometry": {"coordinates":[28.35953,-31.76072000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.35953,-31.76072],"type":"Point"}
 }

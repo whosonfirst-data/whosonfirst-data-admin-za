@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980547
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a7deb4169bae3555ed34a780ab0ecc79",
+    "wof:geomhash":"eabddf57dac0065cf869d6fc8bb783b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310693257,
-    "wof:lastmodified":1566663745,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412156,
     "wof:name":"Magareng",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.61667000000001,
+    28.61667,
     -25.08333,
-    28.61667000000001,
+    28.61667,
     -25.08333
 ],
-  "geometry": {"coordinates":[28.61667000000001,-25.08333],"type":"Point"}
+  "geometry": {"coordinates":[28.61667,-25.08333],"type":"Point"}
 }

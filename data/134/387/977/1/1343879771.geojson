@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973753
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ddb3b4fa11c78a93ac54f6ae1dd2dbf8",
+    "wof:geomhash":"6ba041d092d3072783fb00b5fd31ac77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1343879771,
-    "wof:lastmodified":1566662909,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411822,
     "wof:name":"Mosesrivier",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.36667000000001,
+    29.36667,
     -25.18333,
-    29.36667000000001,
+    29.36667,
     -25.18333
 ],
-  "geometry": {"coordinates":[29.36667000000001,-25.18333],"type":"Point"}
+  "geometry": {"coordinates":[29.36667,-25.18333],"type":"Point"}
 }

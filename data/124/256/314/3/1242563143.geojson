@@ -68,15 +68,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1016558
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7945281274d335f6ce38086e25b0fdb0",
+    "wof:geomhash":"7670ee5d679baa3557c589157283054d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +87,23 @@
         }
     ],
     "wof:id":1242563143,
-    "wof:lastmodified":1566664403,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412426,
     "wof:name":"Bowden",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -98,9 +114,9 @@
 },
   "bbox": [
     23.5,
-    -28.36667000000001,
+    -28.36667,
     23.5,
-    -28.36667000000001
+    -28.36667
 ],
-  "geometry": {"coordinates":[23.5,-28.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.5,-28.36667],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971065
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ba7e7cd0e5bc99ac60d8a1f7c8783369",
+    "wof:geomhash":"0f69234345ce7dcf1398fb81545270fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1225843975,
-    "wof:lastmodified":1566664713,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412555,
     "wof:name":"Ngonyama",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.68333,
-    -31.86667000000001,
+    -31.86667,
     27.68333,
-    -31.86667000000001
+    -31.86667
 ],
-  "geometry": {"coordinates":[27.68333,-31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.68333,-31.86667],"type":"Point"}
 }

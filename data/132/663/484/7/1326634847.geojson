@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":978556
     },
     "wof:country":"ZA",
-    "wof:geomhash":"55dc1680873952aa97444df7b5832a4c",
+    "wof:geomhash":"e1cf2755baeb6dd1598043119fd48886",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1326634847,
-    "wof:lastmodified":1566662746,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411754,
     "wof:name":"Marydale",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -82,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.20817000000001,
+    28.20817,
     -31.34459,
-    28.20817000000001,
+    28.20817,
     -31.34459
 ],
-  "geometry": {"coordinates":[28.20817000000001,-31.34459],"type":"Point"}
+  "geometry": {"coordinates":[28.20817,-31.34459],"type":"Point"}
 }

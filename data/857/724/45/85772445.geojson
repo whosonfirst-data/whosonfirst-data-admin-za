@@ -73,11 +73,11 @@
     "wd:longitude":27.915,
     "wd:wordcount":64,
     "wof:belongsto":[
-        85688927,
         102191573,
         85633813,
+        1108730513,
         101929165,
-        1108730513
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,10 +104,23 @@
         }
     ],
     "wof:id":85772445,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348443,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411839,
     "wof:name":"Quigney",
     "wof:parent_id":101929165,
     "wof:placetype":"neighbourhood",

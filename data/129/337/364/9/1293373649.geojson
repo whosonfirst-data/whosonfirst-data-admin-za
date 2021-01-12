@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730609
+        1108730609,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1007327
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cbf29774c8c0020be3bec57cb220bb06",
+    "wof:geomhash":"d3db86f988aae3611b955767b355e622",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293373649,
-    "wof:lastmodified":1566663032,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411869,
     "wof:name":"Dupperspos",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.42448,
-    -26.52329000000001,
+    -26.52329,
     26.42448,
-    -26.52329000000001
+    -26.52329
 ],
-  "geometry": {"coordinates":[26.42448,-26.52329000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.42448,-26.52329],"type":"Point"}
 }

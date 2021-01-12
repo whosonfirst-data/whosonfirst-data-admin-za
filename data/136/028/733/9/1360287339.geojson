@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":992919
     },
     "wof:country":"ZA",
-    "wof:geomhash":"894b057c7da3af5328e395c0c3dc3492",
+    "wof:geomhash":"b42a082283af6c18d798fa880136bbe8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360287339,
-    "wof:lastmodified":1566663789,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412175,
     "wof:name":"Kalkbult",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.26386,
-    -29.29844000000001,
+    -29.29844,
     26.26386,
-    -29.29844000000001
+    -29.29844
 ],
-  "geometry": {"coordinates":[26.26386,-29.29844000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26386,-29.29844],"type":"Point"}
 }

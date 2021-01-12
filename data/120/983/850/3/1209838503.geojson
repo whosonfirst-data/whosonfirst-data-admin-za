@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":950152
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a4397823d2badeb6dcb308c559c00608",
+    "wof:geomhash":"afc6b3f2d136c95728982440ae70f3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209838503,
-    "wof:lastmodified":1566663341,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412001,
     "wof:name":"Tambekeni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.3594,
-    -31.67344000000001,
+    -31.67344,
     28.3594,
-    -31.67344000000001
+    -31.67344
 ],
-  "geometry": {"coordinates":[28.3594,-31.67344000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.3594,-31.67344],"type":"Point"}
 }

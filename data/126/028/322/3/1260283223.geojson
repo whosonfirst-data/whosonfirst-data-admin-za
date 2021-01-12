@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1007458
     },
     "wof:country":"ZA",
-    "wof:geomhash":"dbb4c2d10f50826405d41c4b9f4e307d",
+    "wof:geomhash":"9108b45001bb9830e1a8eb14df00d4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260283223,
-    "wof:lastmodified":1566663523,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412079,
     "wof:name":"Dumasini",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.66657,
-    -30.37662000000001,
+    -30.37662,
     28.66657,
-    -30.37662000000001
+    -30.37662
 ],
-  "geometry": {"coordinates":[28.66657,-30.37662000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.66657,-30.37662],"type":"Point"}
 }

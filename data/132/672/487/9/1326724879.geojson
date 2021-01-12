@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970281
     },
     "wof:country":"ZA",
-    "wof:geomhash":"63edef12fb3c2827a3cfe20fd1cfc2d9",
+    "wof:geomhash":"e79f6b66a935aef856006d182b0edae1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1326724879,
-    "wof:lastmodified":1566662646,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411711,
     "wof:name":"Nkwe",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     28.74586,
-    -23.40102000000001,
+    -23.40102,
     28.74586,
-    -23.40102000000001
+    -23.40102
 ],
-  "geometry": {"coordinates":[28.74586,-23.40102000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.74586,-23.40102],"type":"Point"}
 }

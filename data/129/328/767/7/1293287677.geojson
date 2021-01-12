@@ -42,15 +42,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997342
     },
     "wof:country":"ZA",
-    "wof:geomhash":"946a05008f23dba2ba4c644089f19886",
+    "wof:geomhash":"6bdc1ddd4b3c960b47c25c1a366e7c03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +61,23 @@
         }
     ],
     "wof:id":1293287677,
-    "wof:lastmodified":1566663146,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411919,
     "wof:name":"Hatherley",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.36667000000001,
+    28.36667,
     -25.73333,
-    28.36667000000001,
+    28.36667,
     -25.73333
 ],
-  "geometry": {"coordinates":[28.36667000000001,-25.73333],"type":"Point"}
+  "geometry": {"coordinates":[28.36667,-25.73333],"type":"Point"}
 }

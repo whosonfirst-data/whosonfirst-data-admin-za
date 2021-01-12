@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":937516
     },
     "wof:country":"ZA",
-    "wof:geomhash":"97735c97a12749fe26f93b2ea4e95326",
+    "wof:geomhash":"a13134dcd3b63369023214eb7dc82dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310600153,
-    "wof:lastmodified":1566663750,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412158,
     "wof:name":"Zaaifontein",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.96683,
-    -31.10634000000001,
+    -31.10634,
     25.96683,
-    -31.10634000000001
+    -31.10634
 ],
-  "geometry": {"coordinates":[25.96683,-31.10634000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.96683,-31.10634],"type":"Point"}
 }

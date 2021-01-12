@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985929
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ba9b37f6eb399984f2b79f55f4d989bc",
+    "wof:geomhash":"62f9f75ac8b3329b1a0756cd28a33903",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243368557,
-    "wof:lastmodified":1566664344,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412402,
     "wof:name":"Kwa-Dunjane",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.79957000000001,
+    28.79957,
     -31.07767,
-    28.79957000000001,
+    28.79957,
     -31.07767
 ],
-  "geometry": {"coordinates":[28.79957000000001,-31.07767],"type":"Point"}
+  "geometry": {"coordinates":[28.79957,-31.07767],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":961098
     },
     "wof:country":"ZA",
-    "wof:geomhash":"090642a8bbc2f5d214f776e6a0ae1361",
+    "wof:geomhash":"089c1af4f9ed8fcfd81392235dfcb196",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1276767697,
-    "wof:lastmodified":1566663251,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411962,
     "wof:name":"River View",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.08927000000001,
+    30.08927,
     -30.36803,
-    30.08927000000001,
+    30.08927,
     -30.36803
 ],
-  "geometry": {"coordinates":[30.08927000000001,-30.36803],"type":"Point"}
+  "geometry": {"coordinates":[30.08927,-30.36803],"type":"Point"}
 }

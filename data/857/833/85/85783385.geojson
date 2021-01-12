@@ -9,7 +9,6 @@
     "geom:bbox":"19.139931,-33.284072,19.139931,-33.284072",
     "geom:latitude":-33.284072,
     "geom:longitude":19.139931,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"19.134931,-33.289072,19.144931,-33.279072",
     "lbl:latitude":-33.284072,
@@ -141,10 +140,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1789,
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,10 +167,23 @@
         }
     ],
     "wof:id":85783385,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348442,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411835,
     "wof:name":"Chris Hani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

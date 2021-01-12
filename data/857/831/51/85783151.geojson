@@ -9,7 +9,6 @@
     "geom:bbox":"28.130808,-26.186328,28.130808,-26.186328",
     "geom:latitude":-26.186328,
     "geom:longitude":28.130808,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"28.125808,-26.191328,28.135808,-26.181328",
     "lbl:latitude":-26.186328,
@@ -65,11 +64,11 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":143,
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730509,
         101925831,
-        1108730509
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,10 +92,23 @@
         }
     ],
     "wof:id":85783151,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348445,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411841,
     "wof:name":"Oriel",
     "wof:parent_id":101925831,
     "wof:placetype":"neighbourhood",

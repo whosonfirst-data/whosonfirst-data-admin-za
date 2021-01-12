@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":980058
     },
     "wof:country":"ZA",
-    "wof:geomhash":"28d884919085f20c49725f8316603fb6",
+    "wof:geomhash":"c2594b95c25a99eec38cff4fe814fb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1225928373,
-    "wof:lastmodified":1566664593,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412505,
     "wof:name":"Makgari",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86432000000001,
+    28.86432,
     -22.94795,
-    28.86432000000001,
+    28.86432,
     -22.94795
 ],
-  "geometry": {"coordinates":[28.86432000000001,-22.94795],"type":"Point"}
+  "geometry": {"coordinates":[28.86432,-22.94795],"type":"Point"}
 }

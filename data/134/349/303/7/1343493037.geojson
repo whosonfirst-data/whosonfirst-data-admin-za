@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979173
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cad1253e9198674feb2c7c4c0d556cdc",
+    "wof:geomhash":"165d2c94b6e4a318f8675e010be6bdfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343493037,
-    "wof:lastmodified":1566662859,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411797,
     "wof:name":"Manzotweni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.60478,
-    -31.90609000000001,
+    -31.90609,
     28.60478,
-    -31.90609000000001
+    -31.90609
 ],
-  "geometry": {"coordinates":[28.60478,-31.90609000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.60478,-31.90609],"type":"Point"}
 }

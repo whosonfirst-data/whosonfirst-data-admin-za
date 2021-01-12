@@ -9,7 +9,6 @@
     "geom:bbox":"18.889748,-33.935099,18.889748,-33.935099",
     "geom:latitude":-33.935099,
     "geom:longitude":18.889748,
-    "gn:id":"",
     "iso:country":"ZA",
     "lbl:bbox":"18.884748,-33.940099,18.894748,-33.930099",
     "lbl:latitude":-33.935099,
@@ -58,11 +57,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
+        1108730615,
         101928023,
-        1108730615
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,10 +85,23 @@
         }
     ],
     "wof:id":85783259,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "eng"
     ],
-    "wof:lastmodified":1582348441,
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411833,
     "wof:name":"Aanhou Wen",
     "wof:parent_id":101928023,
     "wof:placetype":"neighbourhood",

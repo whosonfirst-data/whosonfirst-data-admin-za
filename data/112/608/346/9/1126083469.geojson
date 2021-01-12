@@ -81,11 +81,11 @@
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688911,
         102191573,
         85633813,
+        1108730571,
         101927937,
-        1108730571
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +107,23 @@
         }
     ],
     "wof:id":1126083469,
-    "wof:lastmodified":1566664280,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412377,
     "wof:name":"Red Hill",
     "wof:parent_id":101927937,
     "wof:placetype":"neighbourhood",

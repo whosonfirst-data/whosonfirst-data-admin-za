@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965155
     },
     "wof:country":"ZA",
-    "wof:geomhash":"16de77e78e30f1ab1f9fc6ff492445cc",
+    "wof:geomhash":"b33904d5a6db019b9eea8d69e8c39982",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209714731,
-    "wof:lastmodified":1566663363,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412011,
     "wof:name":"Pine Tops",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.20658,
-    -32.73849000000001,
+    -32.73849,
     28.20658,
-    -32.73849000000001
+    -32.73849
 ],
-  "geometry": {"coordinates":[28.20658,-32.73849000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.20658,-32.73849],"type":"Point"}
 }

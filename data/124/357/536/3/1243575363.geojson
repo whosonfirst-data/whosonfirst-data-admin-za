@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":992744
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1d029f9fc5e5a3acaa3cf0999d725a54",
+    "wof:geomhash":"54e69d9784b88d9ae6d5231ecc2995f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243575363,
-    "wof:lastmodified":1566664417,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412432,
     "wof:name":"Kalkoenkrans",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.13333,
-    -26.86667000000001,
+    -26.86667,
     30.13333,
-    -26.86667000000001
+    -26.86667
 ],
-  "geometry": {"coordinates":[30.13333,-26.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.13333,-26.86667],"type":"Point"}
 }

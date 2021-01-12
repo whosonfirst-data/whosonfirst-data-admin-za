@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":406429.055229,
-    "geom:bbox":"27.9102287292,-26.9375743866,27.918088913,-26.9302940369",
+    "geom:area_square_m":406376.089761,
+    "geom:bbox":"27.910229,-26.937574,27.918089,-26.930294",
     "geom:latitude":-26.933797,
     "geom:longitude":27.914033,
     "iso:country":"ZA",
@@ -61,8 +61,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23a7acfed1b22b8d754750d838b055d6",
+    "wof:geomhash":"8f565e2a37d03260acd7ec82f8950c67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +85,23 @@
         }
     ],
     "wof:id":101926535,
-    "wof:lastmodified":1582348509,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412279,
     "wof:name":"Clydesdale",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -95,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.91022872924805,
-    -26.93757438659668,
-    27.91808891296387,
-    -26.93029403686523
+    27.910229,
+    -26.937574,
+    27.918089,
+    -26.930294
 ],
-  "geometry": {"coordinates":[[[27.91557502746582,-26.93757438659668],[27.91022872924805,-26.93616104125977],[27.91134262084961,-26.93135261535645],[27.91808891296387,-26.93029403686523],[27.91557502746582,-26.93757438659668]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.915575,-26.937574],[27.910229,-26.936161],[27.911343,-26.931353],[27.918089,-26.930294],[27.915575,-26.937574]]],"type":"Polygon"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1012759
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ded3e539140adea2976633a5992c004c",
+    "wof:geomhash":"0fc34c79c21601586736cf41cf9ef864",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243386447,
-    "wof:lastmodified":1566664334,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412398,
     "wof:name":"Corbetts Hope",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.35,
-    -30.61667000000001,
+    -30.61667,
     26.35,
-    -30.61667000000001
+    -30.61667
 ],
-  "geometry": {"coordinates":[26.35,-30.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.35,-30.61667],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985439
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1cbb64af4c445d36428ba57eaca8820a",
+    "wof:geomhash":"05f3b016427945bf33f3cde88bbd8ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293521169,
-    "wof:lastmodified":1566663040,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411872,
     "wof:name":"KwaNikwe",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.87831,
-    -30.89022000000001,
+    -30.89022,
     29.87831,
-    -30.89022000000001
+    -30.89022
 ],
-  "geometry": {"coordinates":[29.87831,-30.89022000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.87831,-30.89022],"type":"Point"}
 }

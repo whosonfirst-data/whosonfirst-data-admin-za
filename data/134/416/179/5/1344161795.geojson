@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979254
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bc61224675532bf95a40e37ef3e2f89b",
+    "wof:geomhash":"9908a8fce5894a65431114f0bb395c26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1344161795,
-    "wof:lastmodified":1566662899,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411817,
     "wof:name":"Manxelene",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.59237000000001,
+    28.59237,
     -30.98273,
-    28.59237000000001,
+    28.59237,
     -30.98273
 ],
-  "geometry": {"coordinates":[28.59237000000001,-30.98273],"type":"Point"}
+  "geometry": {"coordinates":[28.59237,-30.98273],"type":"Point"}
 }

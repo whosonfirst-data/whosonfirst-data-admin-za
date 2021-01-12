@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11280719
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7f83c17d06da64ad1bafd58a88a9b70c",
+    "wof:geomhash":"6f3bdbe1771b342735b563322bc467f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276251181,
-    "wof:lastmodified":1566663244,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411959,
     "wof:name":"Moletsane",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.84997000000001,
+    27.84997,
     -26.2541,
-    27.84997000000001,
+    27.84997,
     -26.2541
 ],
-  "geometry": {"coordinates":[27.84997000000001,-26.2541],"type":"Point"}
+  "geometry": {"coordinates":[27.84997,-26.2541],"type":"Point"}
 }

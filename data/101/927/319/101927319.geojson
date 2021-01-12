@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":348062.724984,
-    "geom:bbox":"31.7210006714,-25.8881378174,31.7311553955,-25.8827896118",
+    "geom:area_square_m":348027.525884,
+    "geom:bbox":"31.721001,-25.888138,31.731155,-25.88279",
     "geom:latitude":-25.88469,
     "geom:longitude":31.725703,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1584652
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b2d03352eb6ebcfd08bf377eb66b8707",
+    "wof:geomhash":"7872ec0a2bb772edeccaaed5df716a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101927319,
-    "wof:lastmodified":1566664042,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412276,
     "wof:name":"Mtokotshwala",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.72100067138672,
-    -25.88813781738281,
-    31.73115539550781,
-    -25.88278961181641
+    31.721001,
+    -25.888138,
+    31.731155,
+    -25.88279
 ],
-  "geometry": {"coordinates":[[[31.73115539550781,-25.88282012939453],[31.72624206542969,-25.88813781738281],[31.72100067138672,-25.88458824157715],[31.72156715393066,-25.88278961181641],[31.73115539550781,-25.88282012939453]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[31.731155,-25.88282],[31.726242,-25.888138],[31.721001,-25.884588],[31.721567,-25.88279],[31.731155,-25.88282]]],"type":"Polygon"}
 }
