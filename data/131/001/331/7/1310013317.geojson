@@ -548,15 +548,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1004135
     },
     "wof:country":"ZA",
-    "wof:geomhash":"57f146e408d0b1b30f86bcd7eed42eda",
+    "wof:geomhash":"acbf9d3439c37e266574ad33bba9c06a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -567,7 +567,23 @@
         }
     ],
     "wof:id":1310013317,
-    "wof:lastmodified":1566663695,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412136,
     "wof:name":"Florida",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -578,9 +594,9 @@
 },
   "bbox": [
     26.1639,
-    -29.94709000000001,
+    -29.94709,
     26.1639,
-    -29.94709000000001
+    -29.94709
 ],
-  "geometry": {"coordinates":[26.1639,-29.94709000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.1639,-29.94709],"type":"Point"}
 }

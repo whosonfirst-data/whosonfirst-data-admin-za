@@ -47,7 +47,7 @@
         "wk:page":"Fontainebleau%2C_Gauteng"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"acec740017b941036e14b92dcc67d17c",
+    "wof:geomhash":"df2c9c02c1117dfcac2d7b5e8992faf8",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -55,7 +55,23 @@
         }
     ],
     "wof:id":1209336797,
-    "wof:lastmodified":1566663396,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412025,
     "wof:name":"Fontainebleau",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.97084000000001,
+    27.97084,
     -26.10302,
-    27.97084000000001,
+    27.97084,
     -26.10302
 ],
-  "geometry": {"coordinates":[27.97084000000001,-26.10302],"type":"Point"}
+  "geometry": {"coordinates":[27.97084,-26.10302],"type":"Point"}
 }

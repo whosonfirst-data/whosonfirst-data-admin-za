@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985523
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3d6261e74080b5e381081126a4b40868",
+    "wof:geomhash":"335400bb094688b9140f6475ed8b074d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1293009263,
-    "wof:lastmodified":1566663023,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411865,
     "wof:name":"KwaMthole",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.11904000000001,
-    -28.17054000000001,
-    32.11904000000001,
-    -28.17054000000001
+    32.11904,
+    -28.17054,
+    32.11904,
+    -28.17054
 ],
-  "geometry": {"coordinates":[32.11904000000001,-28.17054000000001],"type":"Point"}
+  "geometry": {"coordinates":[32.11904,-28.17054],"type":"Point"}
 }

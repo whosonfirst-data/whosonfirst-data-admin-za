@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1015762
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5127f4f5f9809acc388886f783010cdc",
+    "wof:geomhash":"9bd6961dca4dc96529791f94c4e81a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343258549,
-    "wof:lastmodified":1566662864,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411800,
     "wof:name":"Breedpan",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.13333,
-    -24.11667000000001,
+    -24.11667,
     27.13333,
-    -24.11667000000001
+    -24.11667
 ],
-  "geometry": {"coordinates":[27.13333,-24.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.13333,-24.11667],"type":"Point"}
 }

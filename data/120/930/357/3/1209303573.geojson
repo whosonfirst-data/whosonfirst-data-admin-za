@@ -44,7 +44,7 @@
         "gn:id":1003327
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8947bf71078886c578b54a505aedc340",
+    "wof:geomhash":"c977218912897648eadd1af3c67b66d8",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1209303573,
-    "wof:lastmodified":1566663329,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411996,
     "wof:name":"Ga-Maloka",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     26.09688,
-    -26.42457000000001,
+    -26.42457,
     26.09688,
-    -26.42457000000001
+    -26.42457
 ],
-  "geometry": {"coordinates":[26.09688,-26.42457000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.09688,-26.42457],"type":"Point"}
 }

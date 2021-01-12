@@ -46,7 +46,7 @@
         "gn:id":1014995
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c122c4f918cede447a4aded1fef4e380",
+    "wof:geomhash":"eb50a066e93a35bbcf195886ca392ddb",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209610319,
-    "wof:lastmodified":1566663374,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412015,
     "wof:name":"Buffelspruit",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.86667000000001,
+    27.86667,
     -25.4,
-    27.86667000000001,
+    27.86667,
     -25.4
 ],
-  "geometry": {"coordinates":[27.86667000000001,-25.4],"type":"Point"}
+  "geometry": {"coordinates":[27.86667,-25.4],"type":"Point"}
 }

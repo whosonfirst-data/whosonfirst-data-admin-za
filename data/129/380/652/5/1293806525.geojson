@@ -92,15 +92,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":948754
     },
     "wof:country":"ZA",
-    "wof:geomhash":"63d35059ca3818b103fc25a66dff0d12",
+    "wof:geomhash":"62432d1185eacabbad1159610421d5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +111,23 @@
         }
     ],
     "wof:id":1293806525,
-    "wof:lastmodified":1566663143,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411917,
     "wof:name":"Tina",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -122,9 +138,9 @@
 },
   "bbox": [
     28.75,
-    -30.86667000000001,
+    -30.86667,
     28.75,
-    -30.86667000000001
+    -30.86667
 ],
-  "geometry": {"coordinates":[28.75,-30.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.75,-30.86667],"type":"Point"}
 }

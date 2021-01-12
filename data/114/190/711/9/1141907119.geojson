@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.3833540433,-29.1329129855,19.3833540433,-29.1329129855",
+    "geom:bbox":"19.383354,-29.132913,19.383354,-29.132913",
     "geom:latitude":-29.132913,
     "geom:longitude":19.383354,
     "iso:country":"ZA",
@@ -117,14 +117,14 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
     "wof:created":1499130684,
-    "wof:geomhash":"c7e5c011a3dbe68470b7dd1dae06e80a",
+    "wof:geomhash":"9312fa1b720334a3c8b3f14e8e30b8db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +135,23 @@
         }
     ],
     "wof:id":1141907119,
-    "wof:lastmodified":1566664722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Poffader",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -145,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.38335404325937,
-    -29.13291298545164,
-    19.38335404325937,
-    -29.13291298545164
+    19.383354,
+    -29.132913,
+    19.383354,
+    -29.132913
 ],
-  "geometry": {"coordinates":[19.38335404325937,-29.13291298545164],"type":"Point"}
+  "geometry": {"coordinates":[19.383354,-29.132913],"type":"Point"}
 }

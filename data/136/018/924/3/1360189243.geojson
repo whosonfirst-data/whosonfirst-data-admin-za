@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955647
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8807f1114af0a02f6c1543e0d5265367",
+    "wof:geomhash":"40f946a2168d9b64d27016e6a8e1fe55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360189243,
-    "wof:lastmodified":1566663780,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412170,
     "wof:name":"Sikolweni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.46425,
-    -30.99289000000001,
+    -30.99289,
     29.46425,
-    -30.99289000000001
+    -30.99289
 ],
-  "geometry": {"coordinates":[29.46425,-30.99289000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.46425,-30.99289],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":627891.036398,
-    "geom:bbox":"29.4314517975,-26.4939212799,29.438709259,-26.4839954376",
-    "geom:latitude":-26.488569,
+    "geom:area_square_m":627890.458621,
+    "geom:bbox":"29.431452,-26.493921,29.438709,-26.483995",
+    "geom:latitude":-26.488568,
     "geom:longitude":29.434983,
     "iso:country":"ZA",
     "lbl:latitude":-26.48849,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005515
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9aa86c088ccb380a29c6d6f4fc84b09c",
+    "wof:geomhash":"ec53ac6706ca03f948a0b981f7163026",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926307,
-    "wof:lastmodified":1566664045,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412277,
     "wof:name":"eMzinoni",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.43145179748535,
-    -26.49392127990723,
-    29.4387092590332,
-    -26.48399543762207
+    29.431452,
+    -26.493921,
+    29.438709,
+    -26.483995
 ],
-  "geometry": {"coordinates":[[[29.43145179748535,-26.49246788024902],[29.43222808837891,-26.48399543762207],[29.4387092590332,-26.48412895202637],[29.43719673156738,-26.49392127990723],[29.43145179748535,-26.49246788024902]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.431452,-26.492468],[29.432228,-26.483995],[29.438709,-26.484129],[29.437197,-26.493921],[29.431452,-26.492468]]],"type":"Polygon"}
 }

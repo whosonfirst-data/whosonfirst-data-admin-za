@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1001763
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b02fc88abaa0377a83bf1e9c01048952",
+    "wof:geomhash":"ef970e4561fd756904e47cd40fa22667",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259692573,
-    "wof:lastmodified":1566664567,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412494,
     "wof:name":"Glen Bain",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.00822,
-    -30.04704000000001,
+    -30.04704,
     30.00822,
-    -30.04704000000001
+    -30.04704
 ],
-  "geometry": {"coordinates":[30.00822,-30.04704000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.00822,-30.04704],"type":"Point"}
 }

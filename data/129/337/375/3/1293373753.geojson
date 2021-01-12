@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":938793
     },
     "wof:country":"ZA",
-    "wof:geomhash":"58b2687bd2d1e17e3d28b6cdae12ea59",
+    "wof:geomhash":"a2a498ebab1f3d523f5a71e9e17ac59e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293373753,
-    "wof:lastmodified":1566663034,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411870,
     "wof:name":"Witpan",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.23333,
-    -26.86667000000001,
+    -26.86667,
     25.23333,
-    -26.86667000000001
+    -26.86667
 ],
-  "geometry": {"coordinates":[25.23333,-26.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.23333,-26.86667],"type":"Point"}
 }

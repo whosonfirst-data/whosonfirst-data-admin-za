@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":957492
     },
     "wof:country":"ZA",
-    "wof:geomhash":"aea6736b3ff328e15fc5b9d7d72b9794",
+    "wof:geomhash":"38aeee2b3b7c02ca440e6afb435ae330",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242883247,
-    "wof:lastmodified":1566664377,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412415,
     "wof:name":"Sarsden Estate",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.02059,
-    -29.44184000000001,
+    -29.44184,
     30.02059,
-    -29.44184000000001
+    -29.44184
 ],
-  "geometry": {"coordinates":[30.02059,-29.44184000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.02059,-29.44184],"type":"Point"}
 }

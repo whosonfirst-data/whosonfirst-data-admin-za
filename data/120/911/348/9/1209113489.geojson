@@ -40,7 +40,7 @@
         "gn:id":986853
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8b3b14e6a675cf5b5f11faf15811f2c5",
+    "wof:geomhash":"925859d9dc29c5f309947a291459aec3",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209113489,
-    "wof:lastmodified":1566663399,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412026,
     "wof:name":"Kroonspruit",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.29479000000001,
+    26.29479,
     -29.658,
-    26.29479000000001,
+    26.29479,
     -29.658
 ],
-  "geometry": {"coordinates":[26.29479000000001,-29.658],"type":"Point"}
+  "geometry": {"coordinates":[26.29479,-29.658],"type":"Point"}
 }

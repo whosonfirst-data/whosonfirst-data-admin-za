@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":945896
     },
     "wof:country":"ZA",
-    "wof:geomhash":"65b82166b3fc962ab477bfc53ef0fbd7",
+    "wof:geomhash":"351a9e3696edb65ae6782f74ae07d9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1260289279,
-    "wof:lastmodified":1566663525,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412080,
     "wof:name":"Upper Mjika",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.64754000000001,
+    28.64754,
     -31.43531,
-    28.64754000000001,
+    28.64754,
     -31.43531
 ],
-  "geometry": {"coordinates":[28.64754000000001,-31.43531],"type":"Point"}
+  "geometry": {"coordinates":[28.64754,-31.43531],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1006732
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1d8bffcfce6837b67e396bebf8fab134",
+    "wof:geomhash":"c5b12fbe1419870cf4d06e8613d00803",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209219437,
-    "wof:lastmodified":1566663422,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412035,
     "wof:name":"Eensaam",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     28.09435,
-    -31.42607000000001,
+    -31.42607,
     28.09435,
-    -31.42607000000001
+    -31.42607
 ],
-  "geometry": {"coordinates":[28.09435,-31.42607000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.09435,-31.42607],"type":"Point"}
 }

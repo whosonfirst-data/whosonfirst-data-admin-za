@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730535
+        1108730535,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1000020
     },
     "wof:country":"ZA",
-    "wof:geomhash":"89dd0a2ebc8b2d1156575dff3ff038eb",
+    "wof:geomhash":"6cd34fcd930170a02befda9c72031dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310206867,
-    "wof:lastmodified":1566663703,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412139,
     "wof:name":"Greys",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.81667,
-    -28.61667000000001,
+    -28.61667,
     28.81667,
-    -28.61667000000001
+    -28.61667
 ],
-  "geometry": {"coordinates":[28.81667,-28.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.81667,-28.61667],"type":"Point"}
 }

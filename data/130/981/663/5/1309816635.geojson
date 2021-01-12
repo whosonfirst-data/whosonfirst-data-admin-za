@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":982891
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bc3f63df23d271f4f5aeff43566f4b5f",
+    "wof:geomhash":"fd8c6ea4e1527e54ab2de5138cc57f05",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1309816635,
-    "wof:lastmodified":1566664203,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412346,
     "wof:name":"Lidgetton",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.09997000000001,
+    30.09997,
     -29.44047,
-    30.09997000000001,
+    30.09997,
     -29.44047
 ],
-  "geometry": {"coordinates":[30.09997000000001,-29.44047],"type":"Point"}
+  "geometry": {"coordinates":[30.09997,-29.44047],"type":"Point"}
 }

@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1750043.438897,
-    "geom:bbox":"24.9072418213,-27.6672019958,24.9193592072,-27.651714325",
+    "geom:area_square_m":1750039.95713,
+    "geom:bbox":"24.907242,-27.667202,24.919359,-27.651714",
     "geom:latitude":-27.65946,
-    "geom:longitude":24.913022,
+    "geom:longitude":24.913023,
     "iso:country":"ZA",
     "lbl:latitude":-27.659351,
     "lbl:longitude":24.913023,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":56122550
     },
     "wof:country":"ZA",
-    "wof:geomhash":"521c97bec1727cd72f8c0e8632e56f90",
+    "wof:geomhash":"9f5774cad5ff18ccc6e1c376a46bf688",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101924751,
-    "wof:lastmodified":1566663829,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412191,
     "wof:name":"Mothanthanyaneng",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.90724182128906,
-    -27.66720199584961,
-    24.91935920715332,
-    -27.65171432495117
+    24.907242,
+    -27.667202,
+    24.919359,
+    -27.651714
 ],
-  "geometry": {"coordinates":[[[24.90724182128906,-27.65264701843262],[24.91778755187988,-27.65171432495117],[24.91935920715332,-27.66580009460449],[24.90775871276855,-27.66720199584961],[24.90724182128906,-27.65264701843262]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[24.907242,-27.652647],[24.917788,-27.651714],[24.919359,-27.6658],[24.907759,-27.667202],[24.907242,-27.652647]]],"type":"Polygon"}
 }

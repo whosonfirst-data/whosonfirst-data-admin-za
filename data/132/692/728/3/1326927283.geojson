@@ -713,15 +713,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":982299
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8d0319cb117b145e95824f00632e5b91",
+    "wof:geomhash":"227efa113156b4d9205f96eb3761b046",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -732,7 +732,23 @@
         }
     ],
     "wof:id":1326927283,
-    "wof:lastmodified":1566662670,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411721,
     "wof:name":"London",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -742,10 +758,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.86667000000001,
+    30.86667,
     -24.76667,
-    30.86667000000001,
+    30.86667,
     -24.76667
 ],
-  "geometry": {"coordinates":[30.86667000000001,-24.76667],"type":"Point"}
+  "geometry": {"coordinates":[30.86667,-24.76667],"type":"Point"}
 }

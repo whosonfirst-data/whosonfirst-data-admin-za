@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":442467.031206,
-    "geom:bbox":"27.312789917,-25.6769313812,27.3216667175,-25.671125412",
+    "geom:area_square_m":442498.776018,
+    "geom:bbox":"27.31279,-25.676931,27.321667,-25.671125",
     "geom:latitude":-25.674097,
     "geom:longitude":27.317112,
     "iso:country":"ZA",
@@ -727,15 +727,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1591195
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fd938e36cfaea6494316aff55ee60642",
+    "wof:geomhash":"ff23df07aca14bf52f32b01b851f1776",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -746,7 +746,23 @@
         }
     ],
     "wof:id":101925401,
-    "wof:lastmodified":1566663920,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412228,
     "wof:name":"Colombia",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -756,10 +772,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31278991699219,
-    -25.67693138122559,
-    27.3216667175293,
-    -25.6711254119873
+    27.31279,
+    -25.676931,
+    27.321667,
+    -25.671125
 ],
-  "geometry": {"coordinates":[[[27.31278991699219,-25.6711254119873],[27.32087707519531,-25.67215919494629],[27.3216667175293,-25.67693138122559],[27.31325149536133,-25.67611694335938],[27.31278991699219,-25.6711254119873]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.31279,-25.671125],[27.320877,-25.672159],[27.321667,-25.676931],[27.313251,-25.676117],[27.31279,-25.671125]]],"type":"Polygon"}
 }

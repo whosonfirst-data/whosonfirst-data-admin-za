@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":956519
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4341b19c1e5cdc55a20265e8c35677f4",
+    "wof:geomhash":"3ede7eac69fa200aa003c5c6ca1d1629",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1326652783,
-    "wof:lastmodified":1566662757,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411759,
     "wof:name":"Semonkong",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.54432000000001,
-    -30.42344000000001,
-    28.54432000000001,
-    -30.42344000000001
+    28.54432,
+    -30.42344,
+    28.54432,
+    -30.42344
 ],
-  "geometry": {"coordinates":[28.54432000000001,-30.42344000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.54432,-30.42344],"type":"Point"}
 }

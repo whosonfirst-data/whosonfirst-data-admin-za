@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1017402
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f789f3a883950ba07c206953adef13db",
+    "wof:geomhash":"09505767aa8fbb89f27dd4bb16e77e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1326943401,
-    "wof:lastmodified":1566662661,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411717,
     "wof:name":"Borderland Estate",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.17194000000001,
+    30.17194,
     -30.94663,
-    30.17194000000001,
+    30.17194,
     -30.94663
 ],
-  "geometry": {"coordinates":[30.17194000000001,-30.94663],"type":"Point"}
+  "geometry": {"coordinates":[30.17194,-30.94663],"type":"Point"}
 }

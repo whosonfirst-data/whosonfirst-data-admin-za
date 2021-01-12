@@ -40,7 +40,7 @@
         "gn:id":998173
     },
     "wof:country":"ZA",
-    "wof:geomhash":"953b0cd2b4615004ba92fed968af1708",
+    "wof:geomhash":"1086caecd70b0261aa60a3544b73cfac",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209504733,
-    "wof:lastmodified":1566663372,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412014,
     "wof:name":"Ha-Magau",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.84809000000001,
+    29.84809,
     -23.13271,
-    29.84809000000001,
+    29.84809,
     -23.13271
 ],
-  "geometry": {"coordinates":[29.84809000000001,-23.13271],"type":"Point"}
+  "geometry": {"coordinates":[29.84809,-23.13271],"type":"Point"}
 }

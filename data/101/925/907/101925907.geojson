@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
-    "geom:area_square_m":240448.267414,
-    "geom:bbox":"28.2069454193,-26.2139778137,28.2139415741,-26.2096328735",
+    "geom:area_square_m":240469.941339,
+    "geom:bbox":"28.206945,-26.213978,28.213942,-26.209633",
     "geom:latitude":-26.211923,
     "geom:longitude":28.210922,
     "iso:country":"ZA",
@@ -80,13 +80,13 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
-    "wof:geomhash":"98f6c34a100d6adbce1a7388432e9daa",
+    "wof:geomhash":"3eecbe6c3f05053368d70e2be152c79f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +97,23 @@
         }
     ],
     "wof:id":101925907,
-    "wof:lastmodified":1566663906,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412223,
     "wof:name":"Angelo",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -107,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.20694541931152,
-    -26.2139778137207,
-    28.21394157409668,
-    -26.20963287353516
+    28.206945,
+    -26.213978,
+    28.213942,
+    -26.209633
 ],
-  "geometry": {"coordinates":[[[28.20992088317871,-26.20963287353516],[28.21394157409668,-26.20968246459961],[28.21321868896484,-26.21380424499512],[28.20694541931152,-26.2139778137207],[28.20992088317871,-26.20963287353516]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.209921,-26.209633],[28.213942,-26.209682],[28.213219,-26.213804],[28.206945,-26.213978],[28.209921,-26.209633]]],"type":"Polygon"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985210
     },
     "wof:country":"ZA",
-    "wof:geomhash":"36fa1ea715884ab5ffcd522e0cc35b76",
+    "wof:geomhash":"54a3430cd05f979ed1e60c8b62d827e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243177141,
-    "wof:lastmodified":1566664474,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412455,
     "wof:name":"KwaTshatshu",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.32962,
-    -31.85119000000001,
+    -31.85119,
     27.32962,
-    -31.85119000000001
+    -31.85119
 ],
-  "geometry": {"coordinates":[27.32962,-31.85119000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.32962,-31.85119],"type":"Point"}
 }

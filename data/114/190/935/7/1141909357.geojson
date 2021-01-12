@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.2299128812,-29.1199938774,26.2299128812,-29.1199938774",
+    "geom:bbox":"26.229913,-29.119994,26.229913,-29.119994",
     "geom:latitude":-29.119994,
     "geom:longitude":26.229913,
     "gn:country":"ZA",
@@ -480,8 +480,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -491,7 +491,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499131068,
-    "wof:geomhash":"05622d580c58502cff6d6eb4c53abb58",
+    "wof:geomhash":"a9d71e6246fbfa295fbef691252391e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -502,7 +502,23 @@
         }
     ],
     "wof:id":1141909357,
-    "wof:lastmodified":1566664720,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Bloemfontein",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -516,10 +532,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.22991288117737,
-    -29.1199938773787,
-    26.22991288117737,
-    -29.1199938773787
+    26.229913,
+    -29.119994,
+    26.229913,
+    -29.119994
 ],
-  "geometry": {"coordinates":[26.22991288117737,-29.1199938773787],"type":"Point"}
+  "geometry": {"coordinates":[26.229913,-29.119994],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":962467
     },
     "wof:country":"ZA",
-    "wof:geomhash":"01b8df6030fd1e527dd0bca76929ac80",
+    "wof:geomhash":"2ca71f8f5c9ca9b17b1322c7498efea6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327455403,
-    "wof:lastmodified":1566662774,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411767,
     "wof:name":"Rhenosterhoek",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.67494000000001,
+    30.67494,
     -25.19176,
-    30.67494000000001,
+    30.67494,
     -25.19176
 ],
-  "geometry": {"coordinates":[30.67494000000001,-25.19176],"type":"Point"}
+  "geometry": {"coordinates":[30.67494,-25.19176],"type":"Point"}
 }

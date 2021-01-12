@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.9678535,-25.441776,30.9678535,-25.441776",
+    "geom:bbox":"30.967854,-25.441776,30.967854,-25.441776",
     "geom:latitude":-25.441776,
     "geom:longitude":30.967854,
     "gn:country":null,
@@ -124,8 +124,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497303477,
-    "wof:geomhash":"321cd4ea3115f05a436e408887ac0403",
+    "wof:geomhash":"cbd305d5546ce31c0fa02884704ba36d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +145,23 @@
         }
     ],
     "wof:id":1126057939,
-    "wof:lastmodified":1566664222,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412353,
     "wof:name":"Riverside",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -155,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.9678535,
+    30.967854,
     -25.441776,
-    30.9678535,
+    30.967854,
     -25.441776
 ],
-  "geometry": {"coordinates":[30.9678535,-25.441776],"type":"Point"}
+  "geometry": {"coordinates":[30.967854,-25.441776],"type":"Point"}
 }

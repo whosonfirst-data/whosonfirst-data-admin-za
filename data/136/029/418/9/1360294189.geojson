@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":975567
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7ad60a4a8d1a67c250f43e7b85683bee",
+    "wof:geomhash":"320eb2ac9e1d712ab21b81624fe345ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360294189,
-    "wof:lastmodified":1566663785,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412173,
     "wof:name":"Mkhomazana",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.66222,
-    -29.68264000000001,
+    -29.68264,
     29.66222,
-    -29.68264000000001
+    -29.68264
 ],
-  "geometry": {"coordinates":[29.66222,-29.68264000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.66222,-29.68264],"type":"Point"}
 }

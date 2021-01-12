@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998645
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fa2b112e03010d7f5669a91bc26396f5",
+    "wof:geomhash":"4e5d0348e911e088532bad617b777b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310632673,
-    "wof:lastmodified":1566663688,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412133,
     "wof:name":"Gubuzi",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.14571,
-    -30.74064000000001,
+    -30.74064,
     29.14571,
-    -30.74064000000001
+    -30.74064
 ],
-  "geometry": {"coordinates":[29.14571,-30.74064000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.14571,-30.74064],"type":"Point"}
 }

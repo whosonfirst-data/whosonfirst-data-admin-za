@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997594
     },
     "wof:country":"ZA",
-    "wof:geomhash":"57337d8424ab41a213473fc821f63f64",
+    "wof:geomhash":"118b7437ba5fa5ae0c33345efdf2743b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310204085,
-    "wof:lastmodified":1566663704,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412140,
     "wof:name":"Hartebeesnek (1)",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.70263,
-    -31.96839000000001,
+    -31.96839,
     26.70263,
-    -31.96839000000001
+    -31.96839
 ],
-  "geometry": {"coordinates":[26.70263,-31.96839000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.70263,-31.96839],"type":"Point"}
 }

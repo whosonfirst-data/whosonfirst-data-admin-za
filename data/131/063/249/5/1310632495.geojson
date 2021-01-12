@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":977838
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7c59dc0ff89df76c69cb7fb6d0e5b1aa",
+    "wof:geomhash":"21df3656c5954c7d48ad332491a4cb27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310632495,
-    "wof:lastmodified":1566663689,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412133,
     "wof:name":"Mayalweni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.11704000000001,
+    29.11704,
     -31.78947,
-    29.11704000000001,
+    29.11704,
     -31.78947
 ],
-  "geometry": {"coordinates":[29.11704000000001,-31.78947],"type":"Point"}
+  "geometry": {"coordinates":[29.11704,-31.78947],"type":"Point"}
 }

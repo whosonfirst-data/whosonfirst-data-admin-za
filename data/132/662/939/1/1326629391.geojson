@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971686
     },
     "wof:country":"ZA",
-    "wof:geomhash":"317892429eada4b4451a761fb9433c08",
+    "wof:geomhash":"88ff117cc8971fa5968cfa7d5f995b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326629391,
-    "wof:lastmodified":1566662749,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411755,
     "wof:name":"Ndundumeni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.39304000000001,
+    28.39304,
     -31.74228,
-    28.39304000000001,
+    28.39304,
     -31.74228
 ],
-  "geometry": {"coordinates":[28.39304000000001,-31.74228],"type":"Point"}
+  "geometry": {"coordinates":[28.39304,-31.74228],"type":"Point"}
 }

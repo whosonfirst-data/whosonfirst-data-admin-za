@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":967498
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f869e5b26daca4fe5e204975f237c40b",
+    "wof:geomhash":"d8c1ad22fdb94b005ed99d2cd78cdf03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +93,23 @@
         }
     ],
     "wof:id":1276897033,
-    "wof:lastmodified":1566663211,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411945,
     "wof:name":"Orel",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -103,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36667000000001,
+    27.36667,
     -31.63333,
-    27.36667000000001,
+    27.36667,
     -31.63333
 ],
-  "geometry": {"coordinates":[27.36667000000001,-31.63333],"type":"Point"}
+  "geometry": {"coordinates":[27.36667,-31.63333],"type":"Point"}
 }

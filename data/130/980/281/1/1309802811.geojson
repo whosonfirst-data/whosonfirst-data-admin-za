@@ -83,15 +83,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1023551
     },
     "wof:country":"ZA",
-    "wof:geomhash":"50d239cdf19d77c4d8ac92e2d6daa386",
+    "wof:geomhash":"589ed450e46001b3d94c268c6fc5ade4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +102,23 @@
         }
     ],
     "wof:id":1309802811,
-    "wof:lastmodified":1566664195,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412340,
     "wof:name":"Agnes",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -112,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.03334000000001,
+    27.03334,
     -31.69611,
-    27.03334000000001,
+    27.03334,
     -31.69611
 ],
-  "geometry": {"coordinates":[27.03334000000001,-31.69611],"type":"Point"}
+  "geometry": {"coordinates":[27.03334,-31.69611],"type":"Point"}
 }

@@ -68,15 +68,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997139
     },
     "wof:country":"ZA",
-    "wof:geomhash":"96e669e911f779fa146bd51e5ef5ca46",
+    "wof:geomhash":"100e6a3628c9ee070dcf7db836d59797",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +87,23 @@
         }
     ],
     "wof:id":1344261651,
-    "wof:lastmodified":1566662893,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411814,
     "wof:name":"Heilbron",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -97,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.06337000000001,
-    -31.69522000000001,
-    26.06337000000001,
-    -31.69522000000001
+    26.06337,
+    -31.69522,
+    26.06337,
+    -31.69522
 ],
-  "geometry": {"coordinates":[26.06337000000001,-31.69522000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.06337,-31.69522],"type":"Point"}
 }

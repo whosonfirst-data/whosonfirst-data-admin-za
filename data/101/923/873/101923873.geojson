@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1081141.31031,
-    "geom:bbox":"30.828163147,-22.6419219971,30.8427200317,-22.6284351349",
+    "geom:area_square_m":1081152.848483,
+    "geom:bbox":"30.828163,-22.641922,30.84272,-22.628435",
     "geom:latitude":-22.636306,
     "geom:longitude":30.836506,
     "iso:country":"ZA",
@@ -40,8 +40,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +49,7 @@
         "gp:id":1582076
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d5a8af9f79f3ebd466e239f7013ebb4c",
+    "wof:geomhash":"6aeb4ed6d10b9cc9ad91cd0dbd7234ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":101923873,
-    "wof:lastmodified":1566663864,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412206,
     "wof:name":"Hamakuya",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.82816314697266,
-    -22.64192199707031,
-    30.84272003173828,
-    -22.6284351348877
+    30.828163,
+    -22.641922,
+    30.84272,
+    -22.628435
 ],
-  "geometry": {"coordinates":[[[30.84272003173828,-22.63666725158691],[30.83700180053711,-22.64192199707031],[30.82816314697266,-22.63953971862793],[30.83939170837402,-22.6284351348877],[30.84272003173828,-22.63666725158691]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.84272,-22.636667],[30.837002,-22.641922],[30.828163,-22.63954],[30.839392,-22.628435],[30.84272,-22.636667]]],"type":"Polygon"}
 }

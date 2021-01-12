@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":939533
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c2bfc2d51dfed47158585ac8b0aeafb2",
+    "wof:geomhash":"82a3f717cebe456125083090a79fb0bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1210029509,
-    "wof:lastmodified":1566663450,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412047,
     "wof:name":"Windside",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.68333,
-    -29.36667000000001,
+    -29.36667,
     29.68333,
-    -29.36667000000001
+    -29.36667
 ],
-  "geometry": {"coordinates":[29.68333,-29.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.68333,-29.36667],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730567
+        1108730567,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968438
     },
     "wof:country":"ZA",
-    "wof:geomhash":"168ad310580cc75e1c861c1d93987eee",
+    "wof:geomhash":"beefd39a0e2558a284fe21b5ab28e2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276445217,
-    "wof:lastmodified":1566663197,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411939,
     "wof:name":"oGonothini",
     "wof:parent_id":1108730567,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.95636,
-    -29.44662000000001,
+    -29.44662,
     30.95636,
-    -29.44662000000001
+    -29.44662
 ],
-  "geometry": {"coordinates":[30.95636,-29.44662000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.95636,-29.44662],"type":"Point"}
 }

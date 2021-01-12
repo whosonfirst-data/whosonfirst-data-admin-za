@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11524778
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c2e59f5ff303c13c81c28f2c4985243c",
+    "wof:geomhash":"90e21b2711768f1f383e4fde6018567b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310398089,
-    "wof:lastmodified":1566663700,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412138,
     "wof:name":"Jet Park",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.21821,
-    -26.15167000000001,
+    -26.15167,
     28.21821,
-    -26.15167000000001
+    -26.15167
 ],
-  "geometry": {"coordinates":[28.21821,-26.15167000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.21821,-26.15167],"type":"Point"}
 }

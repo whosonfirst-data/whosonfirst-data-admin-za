@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":943422
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f1fea4da047e307166e97f212d60424e",
+    "wof:geomhash":"7a9437bc480e079d2fa0515f8f0b5d22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310288821,
-    "wof:lastmodified":1566663719,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412146,
     "wof:name":"Vlakplaats",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.67684,
-    -25.18837000000001,
+    -25.18837,
     26.67684,
-    -25.18837000000001
+    -25.18837
 ],
-  "geometry": {"coordinates":[26.67684,-25.18837000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.67684,-25.18837],"type":"Point"}
 }

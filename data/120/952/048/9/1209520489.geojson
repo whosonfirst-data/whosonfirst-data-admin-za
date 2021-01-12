@@ -40,7 +40,7 @@
         "gn:id":972984
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0dd27187f73d41dbf332f6d32582cf23",
+    "wof:geomhash":"3202ba05acf5e65a5e7b61a329e697a5",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209520489,
-    "wof:lastmodified":1566663337,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411999,
     "wof:name":"Msingizane",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     28.25863,
-    -30.66584000000001,
+    -30.66584,
     28.25863,
-    -30.66584000000001
+    -30.66584
 ],
-  "geometry": {"coordinates":[28.25863,-30.66584000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.25863,-30.66584],"type":"Point"}
 }

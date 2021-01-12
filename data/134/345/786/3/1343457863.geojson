@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":972820
     },
     "wof:country":"ZA",
-    "wof:geomhash":"989962d0fd92ff91056d2f9b444fb2fd",
+    "wof:geomhash":"1bcba5120812093361e0560a3162af14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343457863,
-    "wof:lastmodified":1566662908,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411821,
     "wof:name":"Mtshekelweni",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.89117,
-    -32.02529000000001,
+    -32.02529,
     28.89117,
-    -32.02529000000001
+    -32.02529
 ],
-  "geometry": {"coordinates":[28.89117,-32.02529000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.89117,-32.02529],"type":"Point"}
 }

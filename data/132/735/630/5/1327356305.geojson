@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":986509
     },
     "wof:country":"ZA",
-    "wof:geomhash":"29f3b4798243ddb01db8c7a36c3c426d",
+    "wof:geomhash":"fb03468cd0e733a5335c5dfd17901b03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1327356305,
-    "wof:lastmodified":1566662723,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411743,
     "wof:name":"KuHota",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     27.68136,
-    -31.64069000000001,
+    -31.64069,
     27.68136,
-    -31.64069000000001
+    -31.64069
 ],
-  "geometry": {"coordinates":[27.68136,-31.64069000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.68136,-31.64069],"type":"Point"}
 }

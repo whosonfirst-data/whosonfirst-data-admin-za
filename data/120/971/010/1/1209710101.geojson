@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":956685
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bad8b49252d8554a27e05da0a8f7e932",
+    "wof:geomhash":"5e910b926c77745a3c1ead49da0a5717",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209710101,
-    "wof:lastmodified":1566663363,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412011,
     "wof:name":"Seema",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.93333,
-    -23.61667000000001,
+    -23.61667,
     28.93333,
-    -23.61667000000001
+    -23.61667
 ],
-  "geometry": {"coordinates":[28.93333,-23.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.93333,-23.61667],"type":"Point"}
 }

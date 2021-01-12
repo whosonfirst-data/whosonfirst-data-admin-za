@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1016959
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e4b801aefc0634dc6b526d2ee37590fa",
+    "wof:geomhash":"5c5bafaf081e752ee3295cd070a5110a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1259791117,
-    "wof:lastmodified":1566664525,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412476,
     "wof:name":"Boskop",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     26.21428,
-    -29.50847000000001,
+    -29.50847,
     26.21428,
-    -29.50847000000001
+    -29.50847
 ],
-  "geometry": {"coordinates":[26.21428,-29.50847000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.21428,-29.50847],"type":"Point"}
 }

@@ -623,8 +623,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -642,7 +642,23 @@
         }
     ],
     "wof:id":1343881225,
-    "wof:lastmodified":1566662927,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411831,
     "wof:name":"Amsterdam",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",

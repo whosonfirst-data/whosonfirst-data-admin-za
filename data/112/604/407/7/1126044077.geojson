@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.355731,-34.0860535,18.355731,-34.0860535",
+    "geom:bbox":"18.355731,-34.086053,18.355731,-34.086053",
     "geom:latitude":-34.086053,
     "geom:longitude":18.355731,
     "gn:country":null,
@@ -46,8 +46,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497302326,
-    "wof:geomhash":"86b398ba22975e7c314f3eca7c847704",
+    "wof:geomhash":"57509cbebdbfb5733f7fb44f1fb7019f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1126044077,
-    "wof:lastmodified":1566664222,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412354,
     "wof:name":"Chapmans Peak",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",
@@ -78,9 +94,9 @@
 },
   "bbox": [
     18.355731,
-    -34.0860535,
+    -34.086053,
     18.355731,
-    -34.0860535
+    -34.086053
 ],
-  "geometry": {"coordinates":[18.355731,-34.0860535],"type":"Point"}
+  "geometry": {"coordinates":[18.355731,-34.086053],"type":"Point"}
 }

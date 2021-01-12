@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003082
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5be17880e167cb4fbc8d3800b134c51b",
+    "wof:geomhash":"778f955499f9a7da637e047420175288",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1225834801,
-    "wof:lastmodified":1566664719,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412558,
     "wof:name":"Ga-Nkwana",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.78822000000001,
+    29.78822,
     -24.40628,
-    29.78822000000001,
+    29.78822,
     -24.40628
 ],
-  "geometry": {"coordinates":[29.78822000000001,-24.40628],"type":"Point"}
+  "geometry": {"coordinates":[29.78822,-24.40628],"type":"Point"}
 }

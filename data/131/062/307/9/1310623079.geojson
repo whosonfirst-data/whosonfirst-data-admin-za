@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11237558
     },
     "wof:country":"ZA",
-    "wof:geomhash":"65c5777d284b4b0f00885297a5d11509",
+    "wof:geomhash":"1acc6711987225f565dc1d5157774380",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310623079,
-    "wof:lastmodified":1566663674,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412127,
     "wof:name":"Bronkhorstspruit NU",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.42798,
-    -26.01992000000001,
+    -26.01992,
     28.42798,
-    -26.01992000000001
+    -26.01992
 ],
-  "geometry": {"coordinates":[28.42798,-26.01992000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.42798,-26.01992],"type":"Point"}
 }

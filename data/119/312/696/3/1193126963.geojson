@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":966039
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cdbfc0370f9fa4b6c695a14885decd0c",
+    "wof:geomhash":"ddaa972e0fd4d95a14b607813bd65cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193126963,
-    "wof:lastmodified":1566663463,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412053,
     "wof:name":"Paxengwe",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.13697,
-    -23.82847000000001,
+    -23.82847,
     29.13697,
-    -23.82847000000001
+    -23.82847
 ],
-  "geometry": {"coordinates":[29.13697,-23.82847000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.13697,-23.82847],"type":"Point"}
 }

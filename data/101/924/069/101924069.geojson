@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":724779.21058,
-    "geom:bbox":"30.2433547974,-23.1610336304,30.25116539,-23.1504058838",
+    "geom:area_square_m":724829.011711,
+    "geom:bbox":"30.243355,-23.161034,30.251165,-23.150406",
     "geom:latitude":-23.155873,
     "geom:longitude":30.247204,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55881375
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b05e8d285b718bf0aaf49e1f877c34e3",
+    "wof:geomhash":"432572afab28b1e02b8bad360d7acc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924069,
-    "wof:lastmodified":1566663845,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412198,
     "wof:name":"Ha-Mukhoro",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.24335479736328,
-    -23.16103363037109,
-    30.25116539001465,
-    -23.15040588378906
+    30.243355,
+    -23.161034,
+    30.251165,
+    -23.150406
 ],
-  "geometry": {"coordinates":[[[30.24371528625488,-23.15249633789062],[30.25116539001465,-23.15040588378906],[30.25037574768066,-23.15975761413574],[30.24335479736328,-23.16103363037109],[30.24371528625488,-23.15249633789062]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.243715,-23.152496],[30.251165,-23.150406],[30.250376,-23.159758],[30.243355,-23.161034],[30.243715,-23.152496]]],"type":"Polygon"}
 }

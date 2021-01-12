@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984433
     },
     "wof:country":"ZA",
-    "wof:geomhash":"dcf6094bdac5394590f7b5d8192be26c",
+    "wof:geomhash":"bd1383a9167652a0f978eede402478b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293698375,
-    "wof:lastmodified":1566663098,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411898,
     "wof:name":"Langlaagte",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.01603,
-    -30.22694000000001,
+    -30.22694,
     26.01603,
-    -30.22694000000001
+    -30.22694
 ],
-  "geometry": {"coordinates":[26.01603,-30.22694000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.01603,-30.22694],"type":"Point"}
 }

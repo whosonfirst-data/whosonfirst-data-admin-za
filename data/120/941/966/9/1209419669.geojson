@@ -130,7 +130,7 @@
         "gn:id":1019724
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e8b3629b9008e9d0dcb8a08c780243c1",
+    "wof:geomhash":"de14a6889893e287d730888e66c402b2",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -138,7 +138,23 @@
         }
     ],
     "wof:id":1209419669,
-    "wof:lastmodified":1566663351,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412005,
     "wof:name":"Bethel",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -149,9 +165,9 @@
 },
   "bbox": [
     28.20631,
-    -32.35449000000001,
+    -32.35449,
     28.20631,
-    -32.35449000000001
+    -32.35449
 ],
-  "geometry": {"coordinates":[28.20631,-32.35449000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.20631,-32.35449],"type":"Point"}
 }

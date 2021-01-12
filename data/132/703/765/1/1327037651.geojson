@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":987683
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e6a8c7c9736775b99f8082d1ea42fb69",
+    "wof:geomhash":"25184d8a850b63c6e2d871b770422a66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327037651,
-    "wof:lastmodified":1566662724,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411743,
     "wof:name":"Korthoek",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.88272000000001,
+    25.88272,
     -29.97236,
-    25.88272000000001,
+    25.88272,
     -29.97236
 ],
-  "geometry": {"coordinates":[25.88272000000001,-29.97236],"type":"Point"}
+  "geometry": {"coordinates":[25.88272,-29.97236],"type":"Point"}
 }

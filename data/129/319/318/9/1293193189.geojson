@@ -356,15 +356,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1105756
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6ecbcea729deec06b4c5cc6313d27bad",
+    "wof:geomhash":"e1b3410ed0c6243514ffdc5270716a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -375,7 +375,23 @@
         }
     ],
     "wof:id":1293193189,
-    "wof:lastmodified":1566663156,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411923,
     "wof:name":"Pyramid",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",
@@ -385,10 +401,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.23707000000001,
+    28.23707,
     -25.59053,
-    28.23707000000001,
+    28.23707,
     -25.59053
 ],
-  "geometry": {"coordinates":[28.23707000000001,-25.59053],"type":"Point"}
+  "geometry": {"coordinates":[28.23707,-25.59053],"type":"Point"}
 }

@@ -281,15 +281,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981568
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e683ea69750981ed5ddc654a58cea10f",
+    "wof:geomhash":"dda04db3188889db3f19460b0c97ffaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +300,23 @@
         }
     ],
     "wof:id":1242586205,
-    "wof:lastmodified":1566664399,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412424,
     "wof:name":"Lucerne",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -310,10 +326,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.74007000000001,
+    30.74007,
     -28.92572,
-    30.74007000000001,
+    30.74007,
     -28.92572
 ],
-  "geometry": {"coordinates":[30.74007000000001,-28.92572],"type":"Point"}
+  "geometry": {"coordinates":[30.74007,-28.92572],"type":"Point"}
 }

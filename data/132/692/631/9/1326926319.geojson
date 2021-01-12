@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":943027
     },
     "wof:country":"ZA",
-    "wof:geomhash":"77650b913cc2806a182de32186786aad",
+    "wof:geomhash":"40a0005dc69a2283a6e198cbbd1f1d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326926319,
-    "wof:lastmodified":1566662670,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411721,
     "wof:name":"Vollgraaffsig",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     21.83688,
-    -28.72862000000001,
+    -28.72862,
     21.83688,
-    -28.72862000000001
+    -28.72862
 ],
-  "geometry": {"coordinates":[21.83688,-28.72862000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.83688,-28.72862],"type":"Point"}
 }

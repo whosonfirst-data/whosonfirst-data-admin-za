@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85632635,
-        85678223,
-        1108561285
+        1108561285,
+        85678223
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1016565
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c3ddc5d3cfa53baf927b29a5f380160f",
+    "wof:geomhash":"80b4bcc10e715399640e57810b412f42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1326727365,
-    "wof:lastmodified":1566662643,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411710,
     "wof:name":"Bovenvallei",
     "wof:parent_id":1108561285,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     31.26667,
-    -27.11667000000001,
+    -27.11667,
     31.26667,
-    -27.11667000000001
+    -27.11667
 ],
-  "geometry": {"coordinates":[31.26667,-27.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.26667,-27.11667],"type":"Point"}
 }

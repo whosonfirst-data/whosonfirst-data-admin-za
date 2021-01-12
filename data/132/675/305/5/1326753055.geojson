@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1019615
     },
     "wof:country":"ZA",
-    "wof:geomhash":"99335f65cefc6d3693ba62d35e311186",
+    "wof:geomhash":"4a29b0c2d2167543b96c647249f49ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326753055,
-    "wof:lastmodified":1566662649,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411712,
     "wof:name":"Bhala",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.49655,
-    -30.93734000000001,
+    -30.93734,
     29.49655,
-    -30.93734000000001
+    -30.93734
 ],
-  "geometry": {"coordinates":[29.49655,-30.93734000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.49655,-30.93734],"type":"Point"}
 }

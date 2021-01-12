@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955760
     },
     "wof:country":"ZA",
-    "wof:geomhash":"81a33ab4414575a5c5220d86c78d866e",
+    "wof:geomhash":"c5fe36acb157b84cab561be194d44a86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242776955,
-    "wof:lastmodified":1566664432,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412438,
     "wof:name":"Sigingini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.9365,
-    -31.71549000000001,
+    -31.71549,
     27.9365,
-    -31.71549000000001
+    -31.71549
 ],
-  "geometry": {"coordinates":[27.9365,-31.71549000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.9365,-31.71549],"type":"Point"}
 }

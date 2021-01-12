@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":950479.491639,
-    "geom:bbox":"28.2303543091,-25.0776119232,28.2440853119,-25.0672149658",
+    "geom:area_square_m":950505.565318,
+    "geom:bbox":"28.230354,-25.077612,28.244085,-25.067215",
     "geom:latitude":-25.07249,
     "geom:longitude":28.237062,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1587991
     },
     "wof:country":"ZA",
-    "wof:geomhash":"970de1b6a6c8c5a003f9a2f207dabdd4",
+    "wof:geomhash":"c6d6ca806dc81834831166e545fb4305",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924895,
-    "wof:lastmodified":1566663812,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412184,
     "wof:name":"Syferkraal",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.23035430908203,
-    -25.07761192321777,
-    28.24408531188965,
-    -25.06721496582031
+    28.230354,
+    -25.077612,
+    28.244085,
+    -25.067215
 ],
-  "geometry": {"coordinates":[[[28.23977661132812,-25.07761192321777],[28.23035430908203,-25.07504653930664],[28.23406410217285,-25.06721496582031],[28.24408531188965,-25.07032585144043],[28.23977661132812,-25.07761192321777]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.239777,-25.077612],[28.230354,-25.075047],[28.234064,-25.067215],[28.244085,-25.070326],[28.239777,-25.077612]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.7800321032,-28.5494860649,29.7800321032,-28.5494860649",
+    "geom:bbox":"29.780032,-28.549486,29.780032,-28.549486",
     "geom:latitude":-28.549486,
     "geom:longitude":29.780032,
     "iso:country":"ZA",
@@ -249,8 +249,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730553
+        1108730553,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +258,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499130690,
-    "wof:geomhash":"aa88eccf3bae6468d2917857f7509664",
+    "wof:geomhash":"4e56d42a2184c5fa12dc56209e24a608",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -269,7 +269,23 @@
         }
     ],
     "wof:id":1141907165,
-    "wof:lastmodified":1566664722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Ladysmith",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",
@@ -279,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.78003210319667,
-    -28.54948606487636,
-    29.78003210319667,
-    -28.54948606487636
+    29.780032,
+    -28.549486,
+    29.780032,
+    -28.549486
 ],
-  "geometry": {"coordinates":[29.78003210319667,-28.54948606487636],"type":"Point"}
+  "geometry": {"coordinates":[29.780032,-28.549486],"type":"Point"}
 }

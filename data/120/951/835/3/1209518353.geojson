@@ -40,7 +40,7 @@
         "gn:id":11467777
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8520d374b147186443c300530161fdf1",
+    "wof:geomhash":"699d3f03ff1addc606d0e8424a6e3636",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209518353,
-    "wof:lastmodified":1566663391,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412022,
     "wof:name":"Thengani",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     32.67387,
-    -27.01457000000001,
+    -27.01457,
     32.67387,
-    -27.01457000000001
+    -27.01457
 ],
-  "geometry": {"coordinates":[32.67387,-27.01457000000001],"type":"Point"}
+  "geometry": {"coordinates":[32.67387,-27.01457],"type":"Point"}
 }

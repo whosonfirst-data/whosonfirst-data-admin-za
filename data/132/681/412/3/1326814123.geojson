@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1009825
     },
     "wof:country":"ZA",
-    "wof:geomhash":"798b668e1eacef7bc4e4a81097acc8b9",
+    "wof:geomhash":"221a3bd7d7027cbbc648432217dc261b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326814123,
-    "wof:lastmodified":1566662650,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411713,
     "wof:name":"Dinokaneng",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.60951,
-    -24.93762000000001,
+    -24.93762,
     26.60951,
-    -24.93762000000001
+    -24.93762
 ],
-  "geometry": {"coordinates":[26.60951,-24.93762000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.60951,-24.93762],"type":"Point"}
 }

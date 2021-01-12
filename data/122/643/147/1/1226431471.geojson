@@ -54,15 +54,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":965934
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3133f09cc1f5ae84f77567a223749a81",
+    "wof:geomhash":"bd02777b171dfa28c211680fb35bb31d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +73,23 @@
         }
     ],
     "wof:id":1226431471,
-    "wof:lastmodified":1566664603,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412509,
     "wof:name":"Pender",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -84,9 +100,9 @@
 },
   "bbox": [
     23.39537,
-    -26.93799000000001,
+    -26.93799,
     23.39537,
-    -26.93799000000001
+    -26.93799
 ],
-  "geometry": {"coordinates":[23.39537,-26.93799000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.39537,-26.93799],"type":"Point"}
 }

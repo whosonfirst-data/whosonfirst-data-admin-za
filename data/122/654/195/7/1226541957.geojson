@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":987811
     },
     "wof:country":"ZA",
-    "wof:geomhash":"872aa6af5919415b8ff0ee5d69d11d7f",
+    "wof:geomhash":"036ca6fbff30384698a6d3b801947ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1226541957,
-    "wof:lastmodified":1566664701,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412550,
     "wof:name":"Koppies Nedersetting",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.60212000000001,
-    -27.25199000000001,
-    27.60212000000001,
-    -27.25199000000001
+    27.60212,
+    -27.25199,
+    27.60212,
+    -27.25199
 ],
-  "geometry": {"coordinates":[27.60212000000001,-27.25199000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.60212,-27.25199],"type":"Point"}
 }

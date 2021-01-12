@@ -40,7 +40,7 @@
         "gn:id":946631
     },
     "wof:country":"ZA",
-    "wof:geomhash":"dd39a3144041bde7a1022ed750b17d2c",
+    "wof:geomhash":"61621caa7a336027cba98b19309a2c42",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209604281,
-    "wof:lastmodified":1566663387,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412021,
     "wof:name":"Uitkyk",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     25.55991,
-    -26.20882000000001,
+    -26.20882,
     25.55991,
-    -26.20882000000001
+    -26.20882
 ],
-  "geometry": {"coordinates":[25.55991,-26.20882000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.55991,-26.20882],"type":"Point"}
 }

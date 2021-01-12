@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991244
     },
     "wof:country":"ZA",
-    "wof:geomhash":"67bd843558a52e0954d189f076767e18",
+    "wof:geomhash":"93daf37ec54b12e1f339f3b1f6085fce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293005539,
-    "wof:lastmodified":1566663022,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411865,
     "wof:name":"Keylock",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.2676,
-    -31.99289000000001,
+    -31.99289,
     27.2676,
-    -31.99289000000001
+    -31.99289
 ],
-  "geometry": {"coordinates":[27.2676,-31.99289000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.2676,-31.99289],"type":"Point"}
 }

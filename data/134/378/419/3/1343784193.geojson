@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996416
     },
     "wof:country":"ZA",
-    "wof:geomhash":"442b40f81576379d5fef14e7676f54bb",
+    "wof:geomhash":"5fd14a8f82d5e132891105b36d3dff17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343784193,
-    "wof:lastmodified":1566662862,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411798,
     "wof:name":"Hiltonia",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.78259000000001,
+    27.78259,
     -26.37005,
-    27.78259000000001,
+    27.78259,
     -26.37005
 ],
-  "geometry": {"coordinates":[27.78259000000001,-26.37005],"type":"Point"}
+  "geometry": {"coordinates":[27.78259,-26.37005],"type":"Point"}
 }

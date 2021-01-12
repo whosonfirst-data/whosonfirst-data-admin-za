@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":541054.763179,
-    "geom:bbox":"28.4000797272,-26.1788387299,28.4066848755,-26.1703796387",
-    "geom:latitude":-26.174295,
+    "geom:area_square_m":541020.446774,
+    "geom:bbox":"28.40008,-26.178839,28.406685,-26.17038",
+    "geom:latitude":-26.174296,
     "geom:longitude":28.403398,
     "iso:country":"ZA",
     "lbl:latitude":-26.17426,
@@ -40,13 +40,13 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
-    "wof:geomhash":"8db48e2cee35e0e768cf66e1bf6622da",
+    "wof:geomhash":"1aca9ef5ae8891721ac2ac3c1f571131",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101925845,
-    "wof:lastmodified":1566663915,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412226,
     "wof:name":"Bezuidenhout Park",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.40007972717285,
-    -26.1788387298584,
-    28.40668487548828,
-    -26.17037963867188
+    28.40008,
+    -26.178839,
+    28.406685,
+    -26.17038
 ],
-  "geometry": {"coordinates":[[[28.40007972717285,-26.17037963867188],[28.40668487548828,-26.17048263549805],[28.40642547607422,-26.17784881591797],[28.40462112426758,-26.17814064025879],[28.40071296691895,-26.1788387298584],[28.40007972717285,-26.17037963867188]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.40008,-26.17038],[28.406685,-26.170483],[28.406425,-26.177849],[28.404621,-26.178141],[28.400713,-26.178839],[28.40008,-26.17038]]],"type":"Polygon"}
 }

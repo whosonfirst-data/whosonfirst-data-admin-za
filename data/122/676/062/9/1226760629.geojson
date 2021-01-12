@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":991445
     },
     "wof:country":"ZA",
-    "wof:geomhash":"09a4f860084bc7b8cbd209f1991d9da2",
+    "wof:geomhash":"54ac83cb8cc36bd75843beb99d205f80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226760629,
-    "wof:lastmodified":1566664664,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412535,
     "wof:name":"Kelso Beach",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.7,
-    -30.36667000000001,
+    -30.36667,
     30.7,
-    -30.36667000000001
+    -30.36667
 ],
-  "geometry": {"coordinates":[30.7,-30.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.7,-30.36667],"type":"Point"}
 }

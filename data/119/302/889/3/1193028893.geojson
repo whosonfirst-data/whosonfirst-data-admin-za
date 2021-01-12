@@ -86,15 +86,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730553
+        1108730553,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1022344
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fe3a01899208cda4892dffddb3868fca",
+    "wof:geomhash":"421cc928a89733baef4309dad5945972",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +105,23 @@
         }
     ],
     "wof:id":1193028893,
-    "wof:lastmodified":1566663476,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412058,
     "wof:name":"Ardmore",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",
@@ -116,9 +132,9 @@
 },
   "bbox": [
     29.4935,
-    -29.01372000000001,
+    -29.01372,
     29.4935,
-    -29.01372000000001
+    -29.01372
 ],
-  "geometry": {"coordinates":[29.4935,-29.01372000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.4935,-29.01372],"type":"Point"}
 }

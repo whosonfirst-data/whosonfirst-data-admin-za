@@ -113,15 +113,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1004612
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d74a6af18e6027e535163699a6013b9d",
+    "wof:geomhash":"0009d153925037cb8198ce0eb226f973",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +132,23 @@
         }
     ],
     "wof:id":1360197671,
-    "wof:lastmodified":1566663795,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412178,
     "wof:name":"Fairfield",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -142,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.41012000000001,
+    30.41012,
     -30.31565,
-    30.41012000000001,
+    30.41012,
     -30.31565
 ],
-  "geometry": {"coordinates":[30.41012000000001,-30.31565],"type":"Point"}
+  "geometry": {"coordinates":[30.41012,-30.31565],"type":"Point"}
 }

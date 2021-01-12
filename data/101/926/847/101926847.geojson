@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
-    "geom:area_square_m":244097.479136,
-    "geom:bbox":"28.9937362671,-28.3795776367,28.9996566772,-28.3743095398",
+    "geom:area_square_m":244103.250119,
+    "geom:bbox":"28.993736,-28.379578,28.999657,-28.37431",
     "geom:latitude":-28.377226,
     "geom:longitude":28.996541,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730535
+        1108730535,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55881528
     },
     "wof:country":"ZA",
-    "wof:geomhash":"56710f102dbb3fcddb416d4f500e0f23",
+    "wof:geomhash":"bf410ee3c161f4e6d6e477d8b300f1de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926847,
-    "wof:lastmodified":1566664085,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412292,
     "wof:name":"Mary Dale",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.99373626708984,
-    -28.37957763671875,
-    28.99965667724609,
-    -28.37430953979492
+    28.993736,
+    -28.379578,
+    28.999657,
+    -28.37431
 ],
-  "geometry": {"coordinates":[[[28.99965667724609,-28.37957763671875],[28.99382591247559,-28.37881088256836],[28.99373626708984,-28.37430953979492],[28.99959373474121,-28.37636375427246],[28.99965667724609,-28.37957763671875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.999657,-28.379578],[28.993826,-28.378811],[28.993736,-28.37431],[28.999594,-28.376364],[28.999657,-28.379578]]],"type":"Polygon"}
 }

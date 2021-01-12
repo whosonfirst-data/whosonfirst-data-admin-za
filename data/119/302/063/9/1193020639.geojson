@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":950463
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d0806fc027e8b4824d12fa5b5036cca9",
+    "wof:geomhash":"8eb449a4d26dc526553e4b949d75e984",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193020639,
-    "wof:lastmodified":1566663477,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412058,
     "wof:name":"Tabase",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.32142,
-    -30.52714000000001,
+    -30.52714,
     28.32142,
-    -30.52714000000001
+    -30.52714
 ],
-  "geometry": {"coordinates":[28.32142,-30.52714000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.32142,-30.52714],"type":"Point"}
 }

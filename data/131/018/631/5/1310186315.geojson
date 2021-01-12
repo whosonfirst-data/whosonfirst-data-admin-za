@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3368834
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4dd6e33178b17e28191f8268864be15d",
+    "wof:geomhash":"7a47deb5b92e47ecdc77c2bf38f84ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310186315,
-    "wof:lastmodified":1566663711,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412142,
     "wof:name":"De Meul",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     19.35286,
-    -32.89700999999999,
+    -32.89701,
     19.35286,
-    -32.89700999999999
+    -32.89701
 ],
-  "geometry": {"coordinates":[19.35286,-32.89700999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.35286,-32.89701],"type":"Point"}
 }

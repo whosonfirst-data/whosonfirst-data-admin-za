@@ -275,11 +275,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
+        1108730545,
         101925523,
-        1108730545
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -301,7 +301,23 @@
         }
     ],
     "wof:id":1126088159,
-    "wof:lastmodified":1566664285,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412379,
     "wof:name":"Claudius",
     "wof:parent_id":101925523,
     "wof:placetype":"neighbourhood",

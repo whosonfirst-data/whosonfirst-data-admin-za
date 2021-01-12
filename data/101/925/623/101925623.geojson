@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":321121.964942,
-    "geom:bbox":"27.9859714508,-25.9806003571,27.9911651611,-25.9694080353",
-    "geom:latitude":-25.974268,
+    "geom:area_square_m":321126.224386,
+    "geom:bbox":"27.985971,-25.9806,27.991165,-25.969408",
+    "geom:latitude":-25.974267,
     "geom:longitude":27.988871,
     "iso:country":"ZA",
     "lbl:latitude":-25.973507,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878304
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ee7483331401a3b2c2ebf1b26156ff1a",
+    "wof:geomhash":"5efc95fad2013116d2985af60ca7e20d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925623,
-    "wof:lastmodified":1566663946,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412238,
     "wof:name":"Zevenfontein",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.98597145080566,
-    -25.98060035705566,
-    27.99116516113281,
-    -25.96940803527832
+    27.985971,
+    -25.9806,
+    27.991165,
+    -25.969408
 ],
-  "geometry": {"coordinates":[[[27.98597145080566,-25.97247505187988],[27.99116516113281,-25.96940803527832],[27.99056625366211,-25.97536468505859],[27.98896789550781,-25.98060035705566],[27.98597145080566,-25.97247505187988]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.985971,-25.972475],[27.991165,-25.969408],[27.990566,-25.975365],[27.988968,-25.9806],[27.985971,-25.972475]]],"type":"Polygon"}
 }

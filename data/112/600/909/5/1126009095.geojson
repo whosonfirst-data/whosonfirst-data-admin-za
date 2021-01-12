@@ -223,8 +223,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,7 +246,23 @@
         }
     ],
     "wof:id":1126009095,
-    "wof:lastmodified":1566664296,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412383,
     "wof:name":"Umtata",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

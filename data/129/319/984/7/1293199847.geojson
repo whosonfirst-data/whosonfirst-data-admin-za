@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968661
     },
     "wof:country":"ZA",
-    "wof:geomhash":"38998c88d7913e0fad6189d2aa062797",
+    "wof:geomhash":"e253e6225fff8e58c9b8b74e6eb3f4c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293199847,
-    "wof:lastmodified":1566663154,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411922,
     "wof:name":"Nymanskraal",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.78333,
-    -31.36667000000001,
+    -31.36667,
     26.78333,
-    -31.36667000000001
+    -31.36667
 ],
-  "geometry": {"coordinates":[26.78333,-31.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78333,-31.36667],"type":"Point"}
 }

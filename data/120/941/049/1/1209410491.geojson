@@ -38,7 +38,7 @@
         "gn:id":1004821
     },
     "wof:country":"ZA",
-    "wof:geomhash":"51d2b0e9c53815fa7a4a199df1397023",
+    "wof:geomhash":"9591e8bccfdc40512f565022dd8cf29d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -46,7 +46,23 @@
         }
     ],
     "wof:id":1209410491,
-    "wof:lastmodified":1566663349,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412004,
     "wof:name":"Ewbank",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -57,9 +73,9 @@
 },
   "bbox": [
     23.34572,
-    -27.18884000000001,
+    -27.18884,
     23.34572,
-    -27.18884000000001
+    -27.18884
 ],
-  "geometry": {"coordinates":[23.34572,-27.18884000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.34572,-27.18884],"type":"Point"}
 }

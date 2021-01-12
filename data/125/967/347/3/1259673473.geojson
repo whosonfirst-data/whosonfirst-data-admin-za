@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":973622
     },
     "wof:country":"ZA",
-    "wof:geomhash":"505380346b0dd78680bbc839a4b9939b",
+    "wof:geomhash":"828c5fdc9bce9f4c163ecf334ed8d58c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259673473,
-    "wof:lastmodified":1566664557,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412490,
     "wof:name":"Motsetladi",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.91667,
-    -24.86667000000001,
+    -24.86667,
     29.91667,
-    -24.86667000000001
+    -24.86667
 ],
-  "geometry": {"coordinates":[29.91667,-24.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.91667,-24.86667],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1010054
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0a8b17cb37930a550e034291847a472a",
+    "wof:geomhash":"5810d63c2f5c2c869a57e1523eb9196f",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209198117,
-    "wof:lastmodified":1566663416,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412033,
     "wof:name":"Die Putte",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.05389000000001,
+    28.05389,
     -25.06444,
-    28.05389000000001,
+    28.05389,
     -25.06444
 ],
-  "geometry": {"coordinates":[28.05389000000001,-25.06444],"type":"Point"}
+  "geometry": {"coordinates":[28.05389,-25.06444],"type":"Point"}
 }

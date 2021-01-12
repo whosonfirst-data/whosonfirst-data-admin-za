@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996683
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c04afdc62fc24787ce525b8285de6a44",
+    "wof:geomhash":"a97f4720a3e28db5475fc66c3248cd60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259987317,
-    "wof:lastmodified":1566664496,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412464,
     "wof:name":"Heuningspruit",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.41857000000001,
+    27.41857,
     -27.44894,
-    27.41857000000001,
+    27.41857,
     -27.44894
 ],
-  "geometry": {"coordinates":[27.41857000000001,-27.44894],"type":"Point"}
+  "geometry": {"coordinates":[27.41857,-27.44894],"type":"Point"}
 }

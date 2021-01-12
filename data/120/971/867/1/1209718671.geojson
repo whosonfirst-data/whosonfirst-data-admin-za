@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1012546
     },
     "wof:country":"ZA",
-    "wof:geomhash":"139c926aec8da456af22d70562dd1f17",
+    "wof:geomhash":"5c3d164554649616aaf118c31ec4cd24",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209718671,
-    "wof:lastmodified":1566663362,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412010,
     "wof:name":"Cranswick",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.22029,
-    -30.34077000000001,
+    -30.34077,
     30.22029,
-    -30.34077000000001
+    -30.34077
 ],
-  "geometry": {"coordinates":[30.22029,-30.34077000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.22029,-30.34077],"type":"Point"}
 }

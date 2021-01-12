@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003171
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4f5b4e3a8bbfebf8dafcc479fbf8125d",
+    "wof:geomhash":"099c27527f9b9c7605e58eeda6b28b84",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209805153,
-    "wof:lastmodified":1566663413,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412031,
     "wof:name":"Ga-Mokwele",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.15387,
-    -23.33617000000001,
+    -23.33617,
     29.15387,
-    -23.33617000000001
+    -23.33617
 ],
-  "geometry": {"coordinates":[29.15387,-23.33617000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.15387,-23.33617],"type":"Point"}
 }

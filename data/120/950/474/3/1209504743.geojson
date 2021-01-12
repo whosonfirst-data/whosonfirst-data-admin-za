@@ -40,7 +40,7 @@
         "gn:id":963385
     },
     "wof:country":"ZA",
-    "wof:geomhash":"31c4efa740562810e881fd7a9bb6d23e",
+    "wof:geomhash":"8a14e95fe94429ab2a446940c1830449",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209504743,
-    "wof:lastmodified":1566663373,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412014,
     "wof:name":"Radingwane",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.86667000000001,
+    29.86667,
     -24.56667,
-    29.86667000000001,
+    29.86667,
     -24.56667
 ],
-  "geometry": {"coordinates":[29.86667000000001,-24.56667],"type":"Point"}
+  "geometry": {"coordinates":[29.86667,-24.56667],"type":"Point"}
 }

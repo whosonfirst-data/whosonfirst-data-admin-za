@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1014480
     },
     "wof:country":"ZA",
-    "wof:geomhash":"47abe08ecdfa95675a811f016135440f",
+    "wof:geomhash":"f9c3d893a5fb800b8af52974580eb7c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276656337,
-    "wof:lastmodified":1566663285,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411978,
     "wof:name":"Butulo",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.30168,
-    -31.60719000000001,
+    -31.60719,
     29.30168,
-    -31.60719000000001
+    -31.60719
 ],
-  "geometry": {"coordinates":[29.30168,-31.60719000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.30168,-31.60719],"type":"Point"}
 }

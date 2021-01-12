@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011315
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ae53d6cd82d59e00a0205cd23791cf4d",
+    "wof:geomhash":"598c713208d4ef2a9276cacfc732bfe5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310402597,
-    "wof:lastmodified":1566663671,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412126,
     "wof:name":"De Halt",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     20.38905,
-    -27.88469000000001,
+    -27.88469,
     20.38905,
-    -27.88469000000001
+    -27.88469
 ],
-  "geometry": {"coordinates":[20.38905,-27.88469000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.38905,-27.88469],"type":"Point"}
 }

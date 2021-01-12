@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005298
     },
     "wof:country":"ZA",
-    "wof:geomhash":"dcc6eaa0f8a608bdea555447b16524a2",
+    "wof:geomhash":"0398827e98c3634964668c55a23e9fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1277077345,
-    "wof:lastmodified":1566663179,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411932,
     "wof:name":"Entumeni Mission",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -70,9 +86,9 @@
 },
   "bbox": [
     31.32489,
-    -28.85597000000001,
+    -28.85597,
     31.32489,
-    -28.85597000000001
+    -28.85597
 ],
-  "geometry": {"coordinates":[31.32489,-28.85597000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.32489,-28.85597],"type":"Point"}
 }

@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":344890.742619,
-    "geom:bbox":"28.2308769226,-26.3479309082,28.2350978851,-26.3391113281",
+    "geom:area_square_m":344911.23643,
+    "geom:bbox":"28.230877,-26.347931,28.235098,-26.339111",
     "geom:latitude":-26.343808,
-    "geom:longitude":28.233124,
+    "geom:longitude":28.233125,
     "iso:country":"ZA",
     "lbl:latitude":-26.343806,
     "lbl:longitude":28.233153,
@@ -83,15 +83,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878938
     },
     "wof:country":"ZA",
-    "wof:geomhash":"505b2da3d3d192eb7b3327dc4939a4ba",
+    "wof:geomhash":"6d9e11294511872870852d1851fcb05d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +102,23 @@
         }
     ],
     "wof:id":101926109,
-    "wof:lastmodified":1566664074,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412288,
     "wof:name":"Mapleton",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -112,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.23087692260742,
-    -26.34793090820312,
-    28.23509788513184,
-    -26.339111328125
+    28.230877,
+    -26.347931,
+    28.235098,
+    -26.339111
 ],
-  "geometry": {"coordinates":[[[28.23181915283203,-26.339111328125],[28.23479270935059,-26.3393669128418],[28.23509788513184,-26.34783744812012],[28.23087692260742,-26.34793090820312],[28.23181915283203,-26.339111328125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.231819,-26.339111],[28.234793,-26.339367],[28.235098,-26.347837],[28.230877,-26.347931],[28.231819,-26.339111]]],"type":"Polygon"}
 }

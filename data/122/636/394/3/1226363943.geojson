@@ -424,15 +424,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013185
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5a79e0e34babaf346ac61e57d9952042",
+    "wof:geomhash":"d78433d44ab5632158a42faba1ae3da6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -443,7 +443,23 @@
         }
     ],
     "wof:id":1226363943,
-    "wof:lastmodified":1566664708,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412553,
     "wof:name":"Cobalt",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -454,9 +470,9 @@
 },
   "bbox": [
     29.48333,
-    -25.36667000000001,
+    -25.36667,
     29.48333,
-    -25.36667000000001
+    -25.36667
 ],
-  "geometry": {"coordinates":[29.48333,-25.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.48333,-25.36667],"type":"Point"}
 }

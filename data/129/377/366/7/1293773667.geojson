@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":982731
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e636cb3505faadc938f95c61cd61aa90",
+    "wof:geomhash":"dfefebfa7ed6084dfd5d68f8b6dbc1de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293773667,
-    "wof:lastmodified":1566663052,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411878,
     "wof:name":"Lincoln York",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.77063,
-    -23.04957000000001,
+    -23.04957,
     29.77063,
-    -23.04957000000001
+    -23.04957
 ],
-  "geometry": {"coordinates":[29.77063,-23.04957000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.77063,-23.04957],"type":"Point"}
 }

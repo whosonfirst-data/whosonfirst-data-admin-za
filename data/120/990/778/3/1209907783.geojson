@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":967398
     },
     "wof:country":"ZA",
-    "wof:geomhash":"809f88c6e2542549342b97f83240f6f1",
+    "wof:geomhash":"6e2e3933ee11e0b97b7ad976cf2b6f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1209907783,
-    "wof:lastmodified":1566663336,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411999,
     "wof:name":"Oshoek",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.19972000000001,
+    30.19972,
     -25.20199,
-    30.19972000000001,
+    30.19972,
     -25.20199
 ],
-  "geometry": {"coordinates":[30.19972000000001,-25.20199],"type":"Point"}
+  "geometry": {"coordinates":[30.19972,-25.20199],"type":"Point"}
 }

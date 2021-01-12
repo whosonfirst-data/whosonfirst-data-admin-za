@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996545
     },
     "wof:country":"ZA",
-    "wof:geomhash":"66252ce61e6476426691db22cb35edb1",
+    "wof:geomhash":"72326d54cc4f7c4e589d142c3eb3740e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310209951,
-    "wof:lastmodified":1566663706,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412140,
     "wof:name":"High View",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.63769000000001,
-    -30.75800000000001,
-    29.63769000000001,
-    -30.75800000000001
+    29.63769,
+    -30.758,
+    29.63769,
+    -30.758
 ],
-  "geometry": {"coordinates":[29.63769000000001,-30.75800000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.63769,-30.758],"type":"Point"}
 }

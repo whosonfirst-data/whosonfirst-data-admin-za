@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":974772
     },
     "wof:country":"ZA",
-    "wof:geomhash":"64123c038be01014015088f1f5517379",
+    "wof:geomhash":"2089cb992a2b0f11a8c71e56ea66235d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343842305,
-    "wof:lastmodified":1566662850,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411792,
     "wof:name":"Moletlane",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.32052,
-    -24.34997000000001,
+    -24.34997,
     29.32052,
-    -24.34997000000001
+    -24.34997
 ],
-  "geometry": {"coordinates":[29.32052,-24.34997000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.32052,-24.34997],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1003722
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d4e834f865bb1519e35ec1f8e3cf0a43",
+    "wof:geomhash":"dacf0892e7baa4ccbad7578f2f73739d",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209316549,
-    "wof:lastmodified":1566663310,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411988,
     "wof:name":"Franshoek",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.71812000000001,
+    25.71812,
     -29.08292,
-    25.71812000000001,
+    25.71812,
     -29.08292
 ],
-  "geometry": {"coordinates":[25.71812000000001,-29.08292],"type":"Point"}
+  "geometry": {"coordinates":[25.71812,-29.08292],"type":"Point"}
 }

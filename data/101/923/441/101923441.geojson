@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1089474.776306,
-    "geom:bbox":"29.7093257904,-23.8135604858,29.7248077393,-23.8024654388",
+    "geom:area_square_m":1089477.542927,
+    "geom:bbox":"29.709326,-23.81356,29.724808,-23.802465",
     "geom:latitude":-23.808044,
     "geom:longitude":29.717123,
     "iso:country":"ZA",
@@ -47,8 +47,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +57,7 @@
         "wd:id":"Q6727713"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"96826a39a3e27e29a9f4eda52066e7a4",
+    "wof:geomhash":"ee613aff0e1f22addde824cc1b5faa4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +68,23 @@
         }
     ],
     "wof:id":101923441,
-    "wof:lastmodified":1566663865,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412206,
     "wof:name":"Madiga",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -78,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.70932579040527,
-    -23.81356048583984,
-    29.72480773925781,
-    -23.80246543884277
+    29.709326,
+    -23.81356,
+    29.724808,
+    -23.802465
 ],
-  "geometry": {"coordinates":[[[29.71535301208496,-23.81356048583984],[29.70932579040527,-23.8052921295166],[29.71902084350586,-23.80246543884277],[29.72480773925781,-23.81097221374512],[29.71535301208496,-23.81356048583984]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.715353,-23.81356],[29.709326,-23.805292],[29.719021,-23.802465],[29.724808,-23.810972],[29.715353,-23.81356]]],"type":"Polygon"}
 }

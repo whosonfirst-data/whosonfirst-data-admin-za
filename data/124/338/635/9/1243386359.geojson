@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959511
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5101b93652e0332231886cd3e396bde4",
+    "wof:geomhash":"abbbc8ab8111c0d39d40aca568e992c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243386359,
-    "wof:lastmodified":1566664335,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412399,
     "wof:name":"Rooipoort",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.82766,
-    -31.16809000000001,
+    -31.16809,
     25.82766,
-    -31.16809000000001
+    -31.16809
 ],
-  "geometry": {"coordinates":[25.82766,-31.16809000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.82766,-31.16809],"type":"Point"}
 }

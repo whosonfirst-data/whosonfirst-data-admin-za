@@ -269,15 +269,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730587
+        1108730587,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1021312
     },
     "wof:country":"ZA",
-    "wof:geomhash":"66cf6a00ba7406d85552a7a1c486d637",
+    "wof:geomhash":"846bbda05e31f33a4fb73562968837ce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +288,23 @@
         }
     ],
     "wof:id":1225839525,
-    "wof:lastmodified":1566664717,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412557,
     "wof:name":"Bambi",
     "wof:parent_id":1108730587,
     "wof:placetype":"locality",
@@ -299,9 +315,9 @@
 },
   "bbox": [
     30.36344,
-    -25.50387000000001,
+    -25.50387,
     30.36344,
-    -25.50387000000001
+    -25.50387
 ],
-  "geometry": {"coordinates":[30.36344,-25.50387000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.36344,-25.50387],"type":"Point"}
 }

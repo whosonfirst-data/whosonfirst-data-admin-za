@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":990419
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6d5b82a2b70ac61ae37204ea6a1357a2",
+    "wof:geomhash":"5d18c260fd5eb89458bb54f555977870",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1344078147,
-    "wof:lastmodified":1566662841,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411788,
     "wof:name":"Kleinfontein",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     29.42084,
-    -26.54112000000001,
+    -26.54112,
     29.42084,
-    -26.54112000000001
+    -26.54112
 ],
-  "geometry": {"coordinates":[29.42084,-26.54112000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.42084,-26.54112],"type":"Point"}
 }

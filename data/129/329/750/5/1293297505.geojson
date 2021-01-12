@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":972844
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ce38b27a9fb2d6bd51feb311c1b630b5",
+    "wof:geomhash":"86b3f97ce1b4dfe07f952d3492f2893b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293297505,
-    "wof:lastmodified":1566663137,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411914,
     "wof:name":"Mtonjeni",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31534000000001,
+    27.31534,
     -31.85505,
-    27.31534000000001,
+    27.31534,
     -31.85505
 ],
-  "geometry": {"coordinates":[27.31534000000001,-31.85505],"type":"Point"}
+  "geometry": {"coordinates":[27.31534,-31.85505],"type":"Point"}
 }

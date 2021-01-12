@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730567
+        1108730567,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11428781
     },
     "wof:country":"ZA",
-    "wof:geomhash":"77843313df82850c374fbbd75aed6b44",
+    "wof:geomhash":"db7049eeb3231c5a597d8dc08d1fac21",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343665203,
-    "wof:lastmodified":1566662870,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411803,
     "wof:name":"Macambini",
     "wof:parent_id":1108730567,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.53512000000001,
+    31.53512,
     -29.11841,
-    31.53512000000001,
+    31.53512,
     -29.11841
 ],
-  "geometry": {"coordinates":[31.53512000000001,-29.11841],"type":"Point"}
+  "geometry": {"coordinates":[31.53512,-29.11841],"type":"Point"}
 }

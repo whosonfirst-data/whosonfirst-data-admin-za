@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949257
     },
     "wof:country":"ZA",
-    "wof:geomhash":"96800bd9a82e5f7f3803ec15f4b0722a",
+    "wof:geomhash":"a6f3ca85afbf2b9ac1146e726e31832c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1277086069,
-    "wof:lastmodified":1566663174,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411930,
     "wof:name":"The Willows",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     26.7694,
-    -30.60119000000001,
+    -30.60119,
     26.7694,
-    -30.60119000000001
+    -30.60119
 ],
-  "geometry": {"coordinates":[26.7694,-30.60119000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.7694,-30.60119],"type":"Point"}
 }

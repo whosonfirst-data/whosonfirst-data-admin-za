@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1022001
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9e1e16dc1e46be9e60e863b63355ecf3",
+    "wof:geomhash":"ed42af80e15f633dd2f891fa598312a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293401387,
-    "wof:lastmodified":1566663065,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411883,
     "wof:name":"Austin's Post",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.8,
-    -29.61667000000001,
+    -29.61667,
     25.8,
-    -29.61667000000001
+    -29.61667
 ],
-  "geometry": {"coordinates":[25.8,-29.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.8,-29.61667],"type":"Point"}
 }

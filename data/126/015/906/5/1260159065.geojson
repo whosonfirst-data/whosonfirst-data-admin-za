@@ -110,8 +110,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +129,23 @@
         }
     ],
     "wof:id":1260159065,
-    "wof:lastmodified":1566663486,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412062,
     "wof:name":"Newtown",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",

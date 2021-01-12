@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":1000541.717087,
-    "geom:bbox":"29.4458637238,-23.8672504425,29.4600086212,-23.8546581268",
-    "geom:latitude":-23.860691,
-    "geom:longitude":29.45331,
+    "geom:area_square_m":1000515.532259,
+    "geom:bbox":"29.445864,-23.86725,29.460009,-23.854658",
+    "geom:latitude":-23.86069,
+    "geom:longitude":29.453311,
     "gn:population":123749,
     "iso:country":"ZA",
     "lbl:latitude":-23.860645,
@@ -270,8 +270,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -282,7 +282,7 @@
         "wk:page":"Polokwane"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e9a5ba0f8eb7707302631f3a1109cc79",
+    "wof:geomhash":"b6d5fcd96043063416806fe567407b71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -293,7 +293,23 @@
         }
     ],
     "wof:id":101923475,
-    "wof:lastmodified":1566663889,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412215,
     "wof:name":"Pietersburg",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -305,10 +321,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.44586372375488,
-    -23.86725044250488,
-    29.46000862121582,
-    -23.85465812683105
+    29.445864,
+    -23.86725,
+    29.460009,
+    -23.854658
 ],
-  "geometry": {"coordinates":[[[29.44586372375488,-23.85914993286133],[29.45380020141602,-23.85465812683105],[29.46000862121582,-23.86154556274414],[29.45428466796875,-23.86725044250488],[29.44586372375488,-23.85914993286133]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.445864,-23.85915],[29.4538,-23.854658],[29.460009,-23.861546],[29.454285,-23.86725],[29.445864,-23.85915]]],"type":"Polygon"}
 }

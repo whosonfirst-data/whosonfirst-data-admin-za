@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003308
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fecf06cd108d01a32a5a1955d0d834f1",
+    "wof:geomhash":"dc2be71a9e8da9faef3589ad6ab3e661",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326519859,
-    "wof:lastmodified":1566662660,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411716,
     "wof:name":"Ga-Mampote",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.96667,
-    -23.11667000000001,
+    -23.11667,
     28.96667,
-    -23.11667000000001
+    -23.11667
 ],
-  "geometry": {"coordinates":[28.96667,-23.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.96667,-23.11667],"type":"Point"}
 }

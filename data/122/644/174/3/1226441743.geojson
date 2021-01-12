@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981328
     },
     "wof:country":"ZA",
-    "wof:geomhash":"21c34721fcf99c4d3e82f4235e6664f3",
+    "wof:geomhash":"018df319ec11edf3cfab9553b6786667",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1226441743,
-    "wof:lastmodified":1566664604,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412509,
     "wof:name":"Lupindo",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     28.66801,
-    -30.49889000000001,
+    -30.49889,
     28.66801,
-    -30.49889000000001
+    -30.49889
 ],
-  "geometry": {"coordinates":[28.66801,-30.49889000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.66801,-30.49889],"type":"Point"}
 }

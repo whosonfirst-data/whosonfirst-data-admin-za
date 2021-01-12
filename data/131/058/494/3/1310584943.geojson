@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":951212
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4e8c48c5d200c1caaeb6051972c232a6",
+    "wof:geomhash":"44c1f16cdbb2d13f1da4959af5b31eef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1310584943,
-    "wof:lastmodified":1566663749,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412158,
     "wof:name":"Suurman",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.22572000000001,
+    28.22572,
     -25.38097,
-    28.22572000000001,
+    28.22572,
     -25.38097
 ],
-  "geometry": {"coordinates":[28.22572000000001,-25.38097],"type":"Point"}
+  "geometry": {"coordinates":[28.22572,-25.38097],"type":"Point"}
 }

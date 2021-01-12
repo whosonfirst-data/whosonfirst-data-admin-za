@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":321081.911344,
-    "geom:bbox":"28.3388614655,-26.1249656677,28.3447341919,-26.1160545349",
-    "geom:latitude":-26.120624,
-    "geom:longitude":28.34137,
+    "geom:area_square_m":321077.60133,
+    "geom:bbox":"28.338861,-26.124966,28.344734,-26.116055",
+    "geom:latitude":-26.120625,
+    "geom:longitude":28.341369,
     "iso:country":"ZA",
     "lbl:latitude":-26.120767,
     "lbl:longitude":28.34108,
@@ -37,13 +37,13 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
-    "wof:geomhash":"0e6505c9fc897c1dba6d2d4bf80deb54",
+    "wof:geomhash":"124738da76e1ff3a02db81e7873244e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":101925749,
-    "wof:lastmodified":1566663931,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412232,
     "wof:name":"Slaterville Agricultural Holdings",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.3388614654541,
-    -26.12496566772461,
-    28.34473419189453,
-    -26.11605453491211
+    28.338861,
+    -26.124966,
+    28.344734,
+    -26.116055
 ],
-  "geometry": {"coordinates":[[[28.3389949798584,-26.12197685241699],[28.3388614654541,-26.11616325378418],[28.34026527404785,-26.11605453491211],[28.34473419189453,-26.12238693237305],[28.34387016296387,-26.12496566772461],[28.3389949798584,-26.12197685241699]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.338995,-26.121977],[28.338861,-26.116163],[28.340265,-26.116055],[28.344734,-26.122387],[28.34387,-26.124966],[28.338995,-26.121977]]],"type":"Polygon"}
 }

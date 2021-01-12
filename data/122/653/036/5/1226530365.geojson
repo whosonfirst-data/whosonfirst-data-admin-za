@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3368101
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3fdc59dbf2ad3878c262b96680192549",
+    "wof:geomhash":"d192ec948b3f22fe84754e523f6b3623",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226530365,
-    "wof:lastmodified":1566664698,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412549,
     "wof:name":"Elandsfontein",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     19.33076,
-    -33.17120999999999,
+    -33.17121,
     19.33076,
-    -33.17120999999999
+    -33.17121
 ],
-  "geometry": {"coordinates":[19.33076,-33.17120999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.33076,-33.17121],"type":"Point"}
 }

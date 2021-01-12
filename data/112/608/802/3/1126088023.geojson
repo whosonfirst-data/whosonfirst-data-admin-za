@@ -87,10 +87,10 @@
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688911,
         102191573,
         85633813,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +112,23 @@
         }
     ],
     "wof:id":1126088023,
-    "wof:lastmodified":1566664279,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412377,
     "wof:name":"Wentworth",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

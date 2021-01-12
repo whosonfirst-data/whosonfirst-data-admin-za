@@ -86,15 +86,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3370146
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1b4b73afe3d2d5fe6a7d2f2e9a26ba7f",
+    "wof:geomhash":"22c577fa9ff112c06829a6836d54e6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +105,23 @@
         }
     ],
     "wof:id":1259364121,
-    "wof:lastmodified":1566664490,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412462,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -116,9 +132,9 @@
 },
   "bbox": [
     19.31789,
-    -33.32944000000001,
+    -33.32944,
     19.31789,
-    -33.32944000000001
+    -33.32944
 ],
-  "geometry": {"coordinates":[19.31789,-33.32944000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.31789,-33.32944],"type":"Point"}
 }

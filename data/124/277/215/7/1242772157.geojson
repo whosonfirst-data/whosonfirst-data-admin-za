@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1020367
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a75800b05993eeb880cba21913156170",
+    "wof:geomhash":"9c4d47a77a2088e17da5483f076ee5e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242772157,
-    "wof:lastmodified":1566664433,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412439,
     "wof:name":"Bekkersrust",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.61667000000001,
+    29.61667,
     -26.53333,
-    29.61667000000001,
+    29.61667,
     -26.53333
 ],
-  "geometry": {"coordinates":[29.61667000000001,-26.53333],"type":"Point"}
+  "geometry": {"coordinates":[29.61667,-26.53333],"type":"Point"}
 }

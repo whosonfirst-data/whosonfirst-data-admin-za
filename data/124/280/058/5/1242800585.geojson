@@ -80,15 +80,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":995467
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3c16956877f8aa029ac9bcec820f393f",
+    "wof:geomhash":"08c2081c38b86bd52eae9cdb207f4117",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +99,23 @@
         }
     ],
     "wof:id":1242800585,
-    "wof:lastmodified":1566664368,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412412,
     "wof:name":"Hopewell",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -109,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.69737000000001,
+    26.69737,
     -31.97962,
-    26.69737000000001,
+    26.69737,
     -31.97962
 ],
-  "geometry": {"coordinates":[26.69737000000001,-31.97962],"type":"Point"}
+  "geometry": {"coordinates":[26.69737,-31.97962],"type":"Point"}
 }

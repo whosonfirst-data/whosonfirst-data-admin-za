@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005580
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2b2656ba38e0366319e29a9f3bc28e2a",
+    "wof:geomhash":"35147b3b2c3611d3bb9dbfc7eb7eab71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276447265,
-    "wof:lastmodified":1566663200,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411940,
     "wof:name":"Emmanuel",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.46042000000001,
-    -30.75819000000001,
-    26.46042000000001,
-    -30.75819000000001
+    26.46042,
+    -30.75819,
+    26.46042,
+    -30.75819
 ],
-  "geometry": {"coordinates":[26.46042000000001,-30.75819000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.46042,-30.75819],"type":"Point"}
 }

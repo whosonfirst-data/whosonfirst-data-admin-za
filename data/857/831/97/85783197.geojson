@@ -60,10 +60,10 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":16,
     "wof:belongsto":[
-        85688905,
         102191573,
         85633813,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +86,23 @@
         }
     ],
     "wof:id":85783197,
-    "wof:lastmodified":1603257585,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411842,
     "wof:name":"Groenvlei",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

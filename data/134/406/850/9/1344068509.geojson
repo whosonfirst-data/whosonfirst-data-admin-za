@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730535
+        1108730535,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984394
     },
     "wof:country":"ZA",
-    "wof:geomhash":"75c78bfeb042e48bb87066fd312659c3",
+    "wof:geomhash":"20d6022ea0229e474d469f28b41780bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1344068509,
-    "wof:lastmodified":1566662837,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411786,
     "wof:name":"Langrand",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.22504,
-    -29.06909000000001,
+    -29.06909,
     27.22504,
-    -29.06909000000001
+    -29.06909
 ],
-  "geometry": {"coordinates":[27.22504,-29.06909000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.22504,-29.06909],"type":"Point"}
 }

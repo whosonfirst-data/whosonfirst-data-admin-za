@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":413640.455251,
-    "geom:bbox":"25.4357032776,-29.7850894928,25.4446334839,-29.7786006927",
-    "geom:latitude":-29.782061,
+    "geom:area_square_m":413583.962403,
+    "geom:bbox":"25.435703,-29.785089,25.444633,-29.778601",
+    "geom:latitude":-29.782062,
     "geom:longitude":25.440112,
     "iso:country":"ZA",
     "lbl:latitude":-29.782011,
@@ -44,8 +44,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +53,7 @@
         "gp:id":1580333
     },
     "wof:country":"ZA",
-    "wof:geomhash":"19d0720f2d437143805100ba5c36d60f",
+    "wof:geomhash":"bafa7226b18abd8c2451d3bfcacbbe27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,23 @@
         }
     ],
     "wof:id":101927147,
-    "wof:lastmodified":1566664043,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412276,
     "wof:name":"Charlesville",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -74,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.43570327758789,
-    -29.78508949279785,
-    25.44463348388672,
-    -29.77860069274902
+    25.435703,
+    -29.785089,
+    25.444633,
+    -29.778601
 ],
-  "geometry": {"coordinates":[[[25.43570327758789,-29.78392601013184],[25.43729972839355,-29.77860069274902],[25.44463348388672,-29.7807445526123],[25.44331550598145,-29.78508949279785],[25.43570327758789,-29.78392601013184]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[25.435703,-29.783926],[25.4373,-29.778601],[25.444633,-29.780745],[25.443316,-29.785089],[25.435703,-29.783926]]],"type":"Polygon"}
 }

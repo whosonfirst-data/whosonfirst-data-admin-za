@@ -40,7 +40,7 @@
         "gn:id":977448
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d76db4fe5120d6c5e314d3b045f9b9c0",
+    "wof:geomhash":"f4d10808a5afab50cc5d985c5191f9b9",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209038451,
-    "wof:lastmodified":1566663383,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412019,
     "wof:name":"Mcotsho",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.61667000000001,
+    27.61667,
     -32.91667,
-    27.61667000000001,
+    27.61667,
     -32.91667
 ],
-  "geometry": {"coordinates":[27.61667000000001,-32.91667],"type":"Point"}
+  "geometry": {"coordinates":[27.61667,-32.91667],"type":"Point"}
 }

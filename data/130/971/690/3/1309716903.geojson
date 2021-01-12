@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":969545
     },
     "wof:country":"ZA",
-    "wof:geomhash":"97e4f8729172e997636717c2107e5430",
+    "wof:geomhash":"01843fbdbcd27a6f37c41522b13e8dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309716903,
-    "wof:lastmodified":1566664184,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412334,
     "wof:name":"Nqabane",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86667000000001,
+    28.86667,
     -32.18333,
-    28.86667000000001,
+    28.86667,
     -32.18333
 ],
-  "geometry": {"coordinates":[28.86667000000001,-32.18333],"type":"Point"}
+  "geometry": {"coordinates":[28.86667,-32.18333],"type":"Point"}
 }

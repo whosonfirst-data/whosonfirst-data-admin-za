@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730541
+        1108730541,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1021334
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4a58e2e54700f47ea307df1b6cd71b4d",
+    "wof:geomhash":"e0228133081bd5dbed050645b2f205b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +78,23 @@
         }
     ],
     "wof:id":1259872115,
-    "wof:lastmodified":1566664568,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412494,
     "wof:name":"Balmoral",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",
@@ -88,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.92467000000001,
+    27.92467,
     -26.50621,
-    27.92467000000001,
+    27.92467,
     -26.50621
 ],
-  "geometry": {"coordinates":[27.92467000000001,-26.50621],"type":"Point"}
+  "geometry": {"coordinates":[27.92467,-26.50621],"type":"Point"}
 }

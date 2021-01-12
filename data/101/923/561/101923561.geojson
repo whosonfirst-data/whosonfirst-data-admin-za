@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":926603.788869,
-    "geom:bbox":"28.9375038147,-24.0570316315,28.9503326416,-24.0444374084",
+    "geom:area_square_m":926663.977633,
+    "geom:bbox":"28.937504,-24.057032,28.950333,-24.044437",
     "geom:latitude":-24.050803,
     "geom:longitude":28.94392,
     "iso:country":"ZA",
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":56189669
     },
     "wof:country":"ZA",
-    "wof:geomhash":"806ace67bc7c260fa63b1c671d79ba83",
+    "wof:geomhash":"b7ccf6dad10e5ab202ecf1b3adef9655",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101923561,
-    "wof:lastmodified":1566663858,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412203,
     "wof:name":"Ga-Mokaba",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.93750381469727,
-    -24.05703163146973,
-    28.95033264160156,
-    -24.04443740844727
+    28.937504,
+    -24.057032,
+    28.950333,
+    -24.044437
 ],
-  "geometry": {"coordinates":[[[28.93750381469727,-24.0480899810791],[28.94414138793945,-24.04443740844727],[28.95033264160156,-24.05378341674805],[28.94369316101074,-24.05703163146973],[28.93750381469727,-24.0480899810791]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.937504,-24.04809],[28.944141,-24.044437],[28.950333,-24.053783],[28.943693,-24.057032],[28.937504,-24.04809]]],"type":"Polygon"}
 }

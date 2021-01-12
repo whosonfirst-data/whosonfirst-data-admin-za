@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968728
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2324588f57670cd7512683f4d9bc4f0a",
+    "wof:geomhash":"6e970bfd70049dafa6917bafadaefef9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226147747,
-    "wof:lastmodified":1566664656,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412531,
     "wof:name":"Nyangweni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.11667000000001,
+    29.11667,
     -31.88333,
-    29.11667000000001,
+    29.11667,
     -31.88333
 ],
-  "geometry": {"coordinates":[29.11667000000001,-31.88333],"type":"Point"}
+  "geometry": {"coordinates":[29.11667,-31.88333],"type":"Point"}
 }

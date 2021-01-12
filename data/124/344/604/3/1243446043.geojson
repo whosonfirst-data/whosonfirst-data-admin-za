@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730585
+        1108730585,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":943616
     },
     "wof:country":"ZA",
-    "wof:geomhash":"01214b9b7358fee899434ab0bf18a983",
+    "wof:geomhash":"0bdfae9e56bf21af60431a2959aeab46",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1243446043,
-    "wof:lastmodified":1566664487,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412460,
     "wof:name":"Vlakfontein",
     "wof:parent_id":1108730585,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     30.03342,
-    -26.38572000000001,
+    -26.38572,
     30.03342,
-    -26.38572000000001
+    -26.38572
 ],
-  "geometry": {"coordinates":[30.03342,-26.38572000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.03342,-26.38572],"type":"Point"}
 }

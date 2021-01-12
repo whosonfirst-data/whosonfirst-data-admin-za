@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985704
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cfc433e4e56af13721456b6cc762698e",
+    "wof:geomhash":"09b620ee7bf3d776ada6d84d47eeb38f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1310313787,
-    "wof:lastmodified":1566663685,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412131,
     "wof:name":"KwaMagwaza",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     31.33333,
-    -28.61667000000001,
+    -28.61667,
     31.33333,
-    -28.61667000000001
+    -28.61667
 ],
-  "geometry": {"coordinates":[31.33333,-28.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.33333,-28.61667],"type":"Point"}
 }

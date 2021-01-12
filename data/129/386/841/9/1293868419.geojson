@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963100
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5f3572fff5534193e23f8e39e2de1203",
+    "wof:geomhash":"72436cd5f674e9483a6c285c241b8fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1293868419,
-    "wof:lastmodified":1566663159,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411924,
     "wof:name":"Ratombo",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.16537000000001,
+    30.16537,
     -23.05928,
-    30.16537000000001,
+    30.16537,
     -23.05928
 ],
-  "geometry": {"coordinates":[30.16537000000001,-23.05928],"type":"Point"}
+  "geometry": {"coordinates":[30.16537,-23.05928],"type":"Point"}
 }

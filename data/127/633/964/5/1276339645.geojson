@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1002079
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f675686296e5c033a433ccbf4444f23f",
+    "wof:geomhash":"32b92903a258d1fc57499f420dfdc8ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276339645,
-    "wof:lastmodified":1566663220,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411949,
     "wof:name":"Gesini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.76295,
-    -31.86967000000001,
+    -31.86967,
     27.76295,
-    -31.86967000000001
+    -31.86967
 ],
-  "geometry": {"coordinates":[27.76295,-31.86967000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.76295,-31.86967],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.0306775,-33.596962,22.0306775,-33.596962",
+    "geom:bbox":"22.030677,-33.596962,22.030677,-33.596962",
     "geom:latitude":-33.596962,
     "geom:longitude":22.030677,
     "gn:country":null,
@@ -67,8 +67,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497302093,
-    "wof:geomhash":"e72d785c6bbb7429f80ac3600f8f4a46",
+    "wof:geomhash":"20f346c4ad8c89a5ea6a8d7f2069e17c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +89,23 @@
         }
     ],
     "wof:id":1126040153,
-    "wof:lastmodified":1566664222,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412353,
     "wof:name":"De Hoop",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -99,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.0306775,
+    22.030677,
     -33.596962,
-    22.0306775,
+    22.030677,
     -33.596962
 ],
-  "geometry": {"coordinates":[22.0306775,-33.596962],"type":"Point"}
+  "geometry": {"coordinates":[22.030677,-33.596962],"type":"Point"}
 }

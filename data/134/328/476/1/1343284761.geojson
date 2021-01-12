@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976593
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6d519e04cf8e8eebdb76df389a010de2",
+    "wof:geomhash":"b9bfdc665cf0c21d3fe6cf5b91d77c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343284761,
-    "wof:lastmodified":1566662910,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411823,
     "wof:name":"Mgwalana",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.81667,
-    -31.61667000000001,
+    -31.61667,
     27.81667,
-    -31.61667000000001
+    -31.61667
 ],
-  "geometry": {"coordinates":[27.81667,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.81667,-31.61667],"type":"Point"}
 }

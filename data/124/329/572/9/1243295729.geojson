@@ -83,15 +83,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":995409
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c419f1247985c08326ffd4bfa02a3f2b",
+    "wof:geomhash":"e873c00432b4c3e14d268f0c16d7f66a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +102,23 @@
         }
     ],
     "wof:id":1243295729,
-    "wof:lastmodified":1566664463,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412450,
     "wof:name":"Horton",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -113,9 +129,9 @@
 },
   "bbox": [
     27.0158,
-    -33.09820999999999,
+    -33.09821,
     27.0158,
-    -33.09820999999999
+    -33.09821
 ],
-  "geometry": {"coordinates":[27.0158,-33.09820999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.0158,-33.09821],"type":"Point"}
 }

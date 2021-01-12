@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955888
     },
     "wof:country":"ZA",
-    "wof:geomhash":"56afa7fdf3774577ff16d76ec769747c",
+    "wof:geomhash":"60d8dea988d2578e23596763c299104e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1259766983,
-    "wof:lastmodified":1566664541,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412483,
     "wof:name":"Shushulin",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.11667000000001,
+    23.11667,
     -27.06667,
-    23.11667000000001,
+    23.11667,
     -27.06667
 ],
-  "geometry": {"coordinates":[23.11667000000001,-27.06667],"type":"Point"}
+  "geometry": {"coordinates":[23.11667,-27.06667],"type":"Point"}
 }

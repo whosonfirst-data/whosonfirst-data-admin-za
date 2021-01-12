@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.0833023669,-27.5660835584,32.0833023669,-27.5660835584",
+    "geom:bbox":"32.083302,-27.566084,32.083302,-27.566084",
     "geom:latitude":-27.566084,
     "geom:longitude":32.083302,
     "iso:country":"ZA",
@@ -117,14 +117,14 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
     "wof:created":1499130690,
-    "wof:geomhash":"a195995e386a50e4fa5429a639c177f4",
+    "wof:geomhash":"eb171061ee9870ec56a73f57e3be7135",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +135,23 @@
         }
     ],
     "wof:id":1141907167,
-    "wof:lastmodified":1566664722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Ubomba",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -145,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.08330236687783,
-    -27.5660835583621,
-    32.08330236687783,
-    -27.5660835583621
+    32.083302,
+    -27.566084,
+    32.083302,
+    -27.566084
 ],
-  "geometry": {"coordinates":[32.08330236687783,-27.5660835583621],"type":"Point"}
+  "geometry": {"coordinates":[32.083302,-27.566084],"type":"Point"}
 }

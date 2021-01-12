@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.430036986,-26.2695735486,28.430036986,-26.2695735486",
+    "geom:bbox":"28.430037,-26.269574,28.430037,-26.269574",
     "geom:latitude":-26.269574,
     "geom:longitude":28.430037,
     "iso:country":"ZA",
@@ -210,8 +210,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -219,7 +219,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1499130689,
-    "wof:geomhash":"938bda8a9bb5b7f0715967362e1d102b",
+    "wof:geomhash":"d1a4f55ccb38168545f6a60fa15e5d40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -230,7 +230,23 @@
         }
     ],
     "wof:id":1141907161,
-    "wof:lastmodified":1566664722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412559,
     "wof:name":"Springs",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -240,10 +256,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.43003698600387,
-    -26.26957354859127,
-    28.43003698600387,
-    -26.26957354859127
+    28.430037,
+    -26.269574,
+    28.430037,
+    -26.269574
 ],
-  "geometry": {"coordinates":[28.43003698600387,-26.26957354859127],"type":"Point"}
+  "geometry": {"coordinates":[28.430037,-26.269574],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963393
     },
     "wof:country":"ZA",
-    "wof:geomhash":"663388e5ec877f80d77a6af85ed66a23",
+    "wof:geomhash":"4346932260102fe6bd8eedaa998f55ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1310094473,
-    "wof:lastmodified":1566663682,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412130,
     "wof:name":"Radia Congwa",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     23.52146,
-    -27.27264000000001,
+    -27.27264,
     23.52146,
-    -27.27264000000001
+    -27.27264
 ],
-  "geometry": {"coordinates":[23.52146,-27.27264000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52146,-27.27264],"type":"Point"}
 }

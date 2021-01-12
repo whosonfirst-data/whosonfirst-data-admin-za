@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":995602
     },
     "wof:country":"ZA",
-    "wof:geomhash":"beac3624416720e946647d26be69ef65",
+    "wof:geomhash":"075a0a808d12f86c3e4b1a868716ed49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242782707,
-    "wof:lastmodified":1566664438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412441,
     "wof:name":"Hoogstede (1)",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11667000000001,
+    26.11667,
     -31.85,
-    26.11667000000001,
+    26.11667,
     -31.85
 ],
-  "geometry": {"coordinates":[26.11667000000001,-31.85],"type":"Point"}
+  "geometry": {"coordinates":[26.11667,-31.85],"type":"Point"}
 }

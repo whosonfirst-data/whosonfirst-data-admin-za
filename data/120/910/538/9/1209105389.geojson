@@ -40,7 +40,7 @@
         "gn:id":942971
     },
     "wof:country":"ZA",
-    "wof:geomhash":"311039602216ec54680c7f3254f081d8",
+    "wof:geomhash":"478661ff986d3c018163ffca968c70f8",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209105389,
-    "wof:lastmodified":1566663425,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412037,
     "wof:name":"Vondeling",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.11667000000001,
+    23.11667,
     -33.0,
-    23.11667000000001,
+    23.11667,
     -33.0
 ],
-  "geometry": {"coordinates":[23.11667000000001,-33.0],"type":"Point"}
+  "geometry": {"coordinates":[23.11667,-33.0],"type":"Point"}
 }

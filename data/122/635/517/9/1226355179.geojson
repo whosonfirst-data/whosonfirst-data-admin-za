@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971691
     },
     "wof:country":"ZA",
-    "wof:geomhash":"502d9c67eb992d1a0c7e96e7e474ae3b",
+    "wof:geomhash":"c69e802b62503221b3871317377af930",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1226355179,
-    "wof:lastmodified":1566664640,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412525,
     "wof:name":"Ndundula",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.51522000000001,
+    31.51522,
     -28.68936,
-    31.51522000000001,
+    31.51522,
     -28.68936
 ],
-  "geometry": {"coordinates":[31.51522000000001,-28.68936],"type":"Point"}
+  "geometry": {"coordinates":[31.51522,-28.68936],"type":"Point"}
 }

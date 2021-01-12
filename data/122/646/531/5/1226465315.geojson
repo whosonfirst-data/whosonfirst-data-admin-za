@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963688
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8b51b0817208b6a33e889a1ae9f5eb26",
+    "wof:geomhash":"74fd56e9a63048fecddf77fcb0883fda",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1226465315,
-    "wof:lastmodified":1566664680,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412541,
     "wof:name":"Qiti",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     29.1655,
-    -31.58017000000001,
+    -31.58017,
     29.1655,
-    -31.58017000000001
+    -31.58017
 ],
-  "geometry": {"coordinates":[29.1655,-31.58017000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.1655,-31.58017],"type":"Point"}
 }

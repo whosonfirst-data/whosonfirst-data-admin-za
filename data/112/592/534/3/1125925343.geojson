@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.9572235,-26.2008935,27.9572235,-26.2008935",
+    "geom:bbox":"27.957224,-26.200893,27.957224,-26.200893",
     "geom:latitude":-26.200893,
     "geom:longitude":27.957224,
     "gn:country":null,
@@ -46,8 +46,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497296620,
-    "wof:geomhash":"aa22ff07318eb82ae3b7d7f6306f6efd",
+    "wof:geomhash":"59b584efffea8951b5df4d09ebb40264",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1125925343,
-    "wof:lastmodified":1566664209,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412348,
     "wof:name":"Newclare",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -77,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.9572235,
-    -26.2008935,
-    27.9572235,
-    -26.2008935
+    27.957224,
+    -26.200893,
+    27.957224,
+    -26.200893
 ],
-  "geometry": {"coordinates":[27.9572235,-26.2008935],"type":"Point"}
+  "geometry": {"coordinates":[27.957224,-26.200893],"type":"Point"}
 }

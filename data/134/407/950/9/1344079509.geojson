@@ -80,15 +80,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013834
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9fa6b319b931307eb317213694c3a823",
+    "wof:geomhash":"101e408b95857d850e6ffcc7df39c13b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +99,23 @@
         }
     ],
     "wof:id":1344079509,
-    "wof:lastmodified":1566662840,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411788,
     "wof:name":"Cedarville",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -110,9 +126,9 @@
 },
   "bbox": [
     29.1371,
-    -30.86789000000001,
+    -30.86789,
     29.1371,
-    -30.86789000000001
+    -30.86789
 ],
-  "geometry": {"coordinates":[29.1371,-30.86789000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.1371,-30.86789],"type":"Point"}
 }

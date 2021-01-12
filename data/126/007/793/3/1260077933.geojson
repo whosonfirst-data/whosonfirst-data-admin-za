@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730545
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1105770
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6aa459c4875660e69fddbb3e737de4ad",
+    "wof:geomhash":"2614fdf7022962189bf242c3e5d39e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260077933,
-    "wof:lastmodified":1566663491,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412064,
     "wof:name":"Swartspruit",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.01232000000001,
+    28.01232,
     -25.72071,
-    28.01232000000001,
+    28.01232,
     -25.72071
 ],
-  "geometry": {"coordinates":[28.01232000000001,-25.72071],"type":"Point"}
+  "geometry": {"coordinates":[28.01232,-25.72071],"type":"Point"}
 }

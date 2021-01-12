@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1004327
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6995bd7033d2de64c9eaaff67eba8e46",
+    "wof:geomhash":"0502d1db7cc2e66e038fac9fef7cb4dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1343765245,
-    "wof:lastmodified":1566662859,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411797,
     "wof:name":"Ferrby",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.11667000000001,
+    30.11667,
     -30.1,
-    30.11667000000001,
+    30.11667,
     -30.1
 ],
-  "geometry": {"coordinates":[30.11667000000001,-30.1],"type":"Point"}
+  "geometry": {"coordinates":[30.11667,-30.1],"type":"Point"}
 }

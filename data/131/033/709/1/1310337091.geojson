@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":947015
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f9bb984b89b3ebd812d1c28a62c5f180",
+    "wof:geomhash":"8085713a3223e369d640c68ac7a7cb96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310337091,
-    "wof:lastmodified":1566663739,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412154,
     "wof:name":"Tyira",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.7797,
-    -31.15027000000001,
+    -31.15027,
     28.7797,
-    -31.15027000000001
+    -31.15027
 ],
-  "geometry": {"coordinates":[28.7797,-31.15027000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.7797,-31.15027],"type":"Point"}
 }

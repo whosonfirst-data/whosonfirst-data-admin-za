@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":948011
     },
     "wof:country":"ZA",
-    "wof:geomhash":"44a3fe56242e9d3c97bada323c6c5616",
+    "wof:geomhash":"8c78501795f3c9a45df3de1b3325da02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343345969,
-    "wof:lastmodified":1566662890,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411812,
     "wof:name":"Tsende",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.40391,
-    -23.52902000000001,
+    -23.52902,
     31.40391,
-    -23.52902000000001
+    -23.52902
 ],
-  "geometry": {"coordinates":[31.40391,-23.52902000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.40391,-23.52902],"type":"Point"}
 }

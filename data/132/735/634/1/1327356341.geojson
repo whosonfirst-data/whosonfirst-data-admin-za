@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1005852
     },
     "wof:country":"ZA",
-    "wof:geomhash":"09d73d6b6ce2352543634e07a4ad2de0",
+    "wof:geomhash":"a651b617e1b138f6c79c3aa2b1fccd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +93,23 @@
         }
     ],
     "wof:id":1327356341,
-    "wof:lastmodified":1566662722,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411742,
     "wof:name":"Elim",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -103,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86667000000001,
+    25.86667,
     -31.56667,
-    25.86667000000001,
+    25.86667,
     -31.56667
 ],
-  "geometry": {"coordinates":[25.86667000000001,-31.56667],"type":"Point"}
+  "geometry": {"coordinates":[25.86667,-31.56667],"type":"Point"}
 }

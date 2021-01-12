@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":406557.574567,
-    "geom:bbox":"29.8422851562,-30.0311756134,29.8490886688,-30.0239219666",
+    "geom:area_square_m":406576.696936,
+    "geom:bbox":"29.842285,-30.031176,29.849089,-30.023922",
     "geom:latitude":-30.027698,
     "geom:longitude":29.845774,
     "iso:country":"ZA",
@@ -56,8 +56,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         "wd:id":"Q5183992"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"22e1b087c8077b9d82e28edd904d3af5",
+    "wof:geomhash":"a53aabf0d84356f0ec9f4031c2e0d738",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +77,23 @@
         }
     ],
     "wof:id":101928089,
-    "wof:lastmodified":1566664140,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412315,
     "wof:name":"Creighton",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -87,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.84228515625,
-    -30.03117561340332,
-    29.84908866882324,
-    -30.02392196655273
+    29.842285,
+    -30.031176,
+    29.849089,
+    -30.023922
 ],
-  "geometry": {"coordinates":[[[29.84365653991699,-30.02392196655273],[29.84908866882324,-30.02486991882324],[29.84823989868164,-30.03117561340332],[29.84228515625,-30.03067398071289],[29.84365653991699,-30.02392196655273]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.843657,-30.023922],[29.849089,-30.02487],[29.84824,-30.031176],[29.842285,-30.030674],[29.843657,-30.023922]]],"type":"Polygon"}
 }

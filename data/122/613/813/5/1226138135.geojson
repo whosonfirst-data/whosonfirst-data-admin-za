@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1003100
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e2925fe9d43dd9897175df4d1e64bd73",
+    "wof:geomhash":"5ea47a1f76128cc5892f26aa41c24c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1226138135,
-    "wof:lastmodified":1566664659,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412532,
     "wof:name":"Ganap",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     23.24908,
-    -26.69644000000001,
+    -26.69644,
     23.24908,
-    -26.69644000000001
+    -26.69644
 ],
-  "geometry": {"coordinates":[23.24908,-26.69644000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.24908,-26.69644],"type":"Point"}
 }

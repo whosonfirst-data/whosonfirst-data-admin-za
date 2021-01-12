@@ -113,15 +113,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1006503
     },
     "wof:country":"ZA",
-    "wof:geomhash":"05291704fa0df1aa55409d2f1dd45467",
+    "wof:geomhash":"ffb3b9d9553cad96dd51280798ab9037",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +132,23 @@
         }
     ],
     "wof:id":1226752309,
-    "wof:lastmodified":1566664599,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412507,
     "wof:name":"Eiffel",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -143,9 +159,9 @@
 },
   "bbox": [
     27.38333,
-    -31.61667000000001,
+    -31.61667,
     27.38333,
-    -31.61667000000001
+    -31.61667
 ],
-  "geometry": {"coordinates":[27.38333,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.38333,-31.61667],"type":"Point"}
 }

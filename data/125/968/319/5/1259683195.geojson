@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998518
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0f76dc319f6ab01d15a52ec12a26beb3",
+    "wof:geomhash":"581af27e2521240817d3567c7d545c13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259683195,
-    "wof:lastmodified":1566664552,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412488,
     "wof:name":"Guwini",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.43689,
-    -30.73557000000001,
+    -30.73557,
     29.43689,
-    -30.73557000000001
+    -30.73557
 ],
-  "geometry": {"coordinates":[29.43689,-30.73557000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.43689,-30.73557],"type":"Point"}
 }

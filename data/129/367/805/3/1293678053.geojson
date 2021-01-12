@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":945808
     },
     "wof:country":"ZA",
-    "wof:geomhash":"607df59336e3e53f8b51e8eb0d9a5ad2",
+    "wof:geomhash":"f43fe5de47b5043a27b9275877415346",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1293678053,
-    "wof:lastmodified":1566663104,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411900,
     "wof:name":"Utsili",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.36667000000001,
+    23.36667,
     -27.1,
-    23.36667000000001,
+    23.36667,
     -27.1
 ],
-  "geometry": {"coordinates":[23.36667000000001,-27.1],"type":"Point"}
+  "geometry": {"coordinates":[23.36667,-27.1],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":356407.096805,
-    "geom:bbox":"27.4221935272,-26.388879776,27.4296855927,-26.3808345795",
+    "geom:area_square_m":356394.403102,
+    "geom:bbox":"27.422194,-26.38888,27.429686,-26.380835",
     "geom:latitude":-26.385368,
     "geom:longitude":27.425823,
     "iso:country":"ZA",
@@ -37,13 +37,13 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ZA",
-    "wof:geomhash":"0c8a6a6e611b0b0b8076a99c85c4220c",
+    "wof:geomhash":"e1fd99efad814ef38bb1544999ee01c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":101926177,
-    "wof:lastmodified":1566664097,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412297,
     "wof:name":"Phomolong",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.42219352722168,
-    -26.38887977600098,
-    27.42968559265137,
-    -26.38083457946777
+    27.422194,
+    -26.38888,
+    27.429686,
+    -26.380835
 ],
-  "geometry": {"coordinates":[[[27.42219352722168,-26.38523483276367],[27.42639923095703,-26.38083457946777],[27.42968559265137,-26.38708305358887],[27.4241943359375,-26.38887977600098],[27.42219352722168,-26.38523483276367]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[27.422194,-26.385235],[27.426399,-26.380835],[27.429686,-26.387083],[27.424194,-26.38888],[27.422194,-26.385235]]],"type":"Polygon"}
 }

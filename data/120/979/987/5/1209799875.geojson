@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":955988
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fd049056db7043158dda3b05beb83a2c",
+    "wof:geomhash":"10ac0edc766d11d253c707ca0ff954f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1209799875,
-    "wof:lastmodified":1566663347,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412003,
     "wof:name":"Shingwidzi",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.78333,
-    -22.86667000000001,
+    -22.86667,
     30.78333,
-    -22.86667000000001
+    -22.86667
 ],
-  "geometry": {"coordinates":[30.78333,-22.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.78333,-22.86667],"type":"Point"}
 }

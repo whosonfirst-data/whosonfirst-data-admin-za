@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979908
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ccb34c1988dba6c3207b8ab20226a0eb",
+    "wof:geomhash":"1a0b27237e71e42031505f3e359f50cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326652933,
-    "wof:lastmodified":1566662756,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411759,
     "wof:name":"Makwatlane",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.35822000000001,
+    28.35822,
     -30.60696,
-    28.35822000000001,
+    28.35822,
     -30.60696
 ],
-  "geometry": {"coordinates":[28.35822000000001,-30.60696],"type":"Point"}
+  "geometry": {"coordinates":[28.35822,-30.60696],"type":"Point"}
 }

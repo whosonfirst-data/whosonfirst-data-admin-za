@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":941912
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cb91bb793d500fba7d0309404238eadb",
+    "wof:geomhash":"49e96ebf7e39b1d10ed405c92ac372aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +69,23 @@
         }
     ],
     "wof:id":1259884671,
-    "wof:lastmodified":1566664580,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412500,
     "wof:name":"Wasbank",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -80,9 +96,9 @@
 },
   "bbox": [
     26.05542,
-    -30.77902000000001,
+    -30.77902,
     26.05542,
-    -30.77902000000001
+    -30.77902
 ],
-  "geometry": {"coordinates":[26.05542,-30.77902000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.05542,-30.77902],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1013921
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bad62c629edb0c44ce8a4bd7578e35a7",
+    "wof:geomhash":"66b0fd7be6ccf290737f628a68bdd211",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209110817,
-    "wof:lastmodified":1566663400,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412026,
     "wof:name":"Cata",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11667000000001,
+    27.11667,
     -32.55,
-    27.11667000000001,
+    27.11667,
     -32.55
 ],
-  "geometry": {"coordinates":[27.11667000000001,-32.55],"type":"Point"}
+  "geometry": {"coordinates":[27.11667,-32.55],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730541
+        1108730541,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":946235
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a22dd6a2574571ff39b2dba4eb02d6eb",
+    "wof:geomhash":"d82c2ccd3312271ee3f0a3a166ebd990",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1226741649,
-    "wof:lastmodified":1566664613,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412513,
     "wof:name":"Umbila",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",
@@ -63,9 +79,9 @@
 },
   "bbox": [
     28.56417,
-    -26.25359000000001,
+    -26.25359,
     28.56417,
-    -26.25359000000001
+    -26.25359
 ],
-  "geometry": {"coordinates":[28.56417,-26.25359000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.56417,-26.25359],"type":"Point"}
 }

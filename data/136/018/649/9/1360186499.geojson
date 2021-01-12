@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981813
     },
     "wof:country":"ZA",
-    "wof:geomhash":"117dc69d07486f412330b5c582ea2e74",
+    "wof:geomhash":"86ff1388f313621f37a680b133e2f8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360186499,
-    "wof:lastmodified":1566663781,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412171,
     "wof:name":"Lourensa",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.39452,
-    -30.34312000000001,
+    -30.34312,
     26.39452,
-    -30.34312000000001
+    -30.34312
 ],
-  "geometry": {"coordinates":[26.39452,-30.34312000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.39452,-30.34312],"type":"Point"}
 }

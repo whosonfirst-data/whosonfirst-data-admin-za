@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":945208
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8cfa736c47f3944f6b3babc3bd90b4b3",
+    "wof:geomhash":"6958ab25d2e31db00ce7518c69383dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":1326926207,
-    "wof:lastmodified":1566662667,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411720,
     "wof:name":"Vaalputs",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.36667000000001,
+    21.36667,
     -29.3,
-    21.36667000000001,
+    21.36667,
     -29.3
 ],
-  "geometry": {"coordinates":[21.36667000000001,-29.3],"type":"Point"}
+  "geometry": {"coordinates":[21.36667,-29.3],"type":"Point"}
 }

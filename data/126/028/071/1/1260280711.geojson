@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981331
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2bfa319459bfc707c3903b85e830aaed",
+    "wof:geomhash":"15c7cdc83301522c67c360bb70678130",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260280711,
-    "wof:lastmodified":1566663521,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412078,
     "wof:name":"Luphisi",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.27893,
-    -25.40637000000001,
+    -25.40637,
     31.27893,
-    -25.40637000000001
+    -25.40637
 ],
-  "geometry": {"coordinates":[31.27893,-25.40637000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.27893,-25.40637],"type":"Point"}
 }

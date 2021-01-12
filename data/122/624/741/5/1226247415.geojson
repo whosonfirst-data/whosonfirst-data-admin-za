@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":979629
     },
     "wof:country":"ZA",
-    "wof:geomhash":"38c2642bc52f4dfdf13e3dca6ea75e0d",
+    "wof:geomhash":"dfb79cf14f78144412a5d717adbbb988",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226247415,
-    "wof:lastmodified":1566664672,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412538,
     "wof:name":"Mamfengwini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.27574000000001,
+    28.27574,
     -31.64277,
-    28.27574000000001,
+    28.27574,
     -31.64277
 ],
-  "geometry": {"coordinates":[28.27574000000001,-31.64277],"type":"Point"}
+  "geometry": {"coordinates":[28.27574,-31.64277],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959647
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7f5d1f0c72c3e3b9691a7452b6562e27",
+    "wof:geomhash":"ee61569e7fc397dbd8941fc85f7c81ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309883975,
-    "wof:lastmodified":1566664201,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412344,
     "wof:name":"Rooiloop",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     22.78571,
-    -33.47799000000001,
+    -33.47799,
     22.78571,
-    -33.47799000000001
+    -33.47799
 ],
-  "geometry": {"coordinates":[22.78571,-33.47799000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78571,-33.47799],"type":"Point"}
 }

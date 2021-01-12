@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730595
+        1108730595,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":960039
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2fa8b583a90a14da52d6f55d7a7ef441",
+    "wof:geomhash":"983287e0b884aaecb3e4e533aa5ba955",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243283835,
-    "wof:lastmodified":1566664471,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412454,
     "wof:name":"Rooidam",
     "wof:parent_id":1108730595,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     21.90644,
-    -30.37502000000001,
+    -30.37502,
     21.90644,
-    -30.37502000000001
+    -30.37502
 ],
-  "geometry": {"coordinates":[21.90644,-30.37502000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90644,-30.37502],"type":"Point"}
 }

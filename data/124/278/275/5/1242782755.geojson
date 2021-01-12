@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730515
+        1108730515,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949140
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a7ab39514c410936080f95b9d360a6eb",
+    "wof:geomhash":"407d2bd46202e478d2110648243dd74f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1242782755,
-    "wof:lastmodified":1566664436,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412440,
     "wof:name":"Thornham",
     "wof:parent_id":1108730515,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     23.9561,
-    -33.97535999999999,
+    -33.97536,
     23.9561,
-    -33.97535999999999
+    -33.97536
 ],
-  "geometry": {"coordinates":[23.9561,-33.97535999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.9561,-33.97536],"type":"Point"}
 }

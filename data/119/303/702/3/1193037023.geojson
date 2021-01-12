@@ -105,15 +105,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688895,
-        1108730589
+        1108730589,
+        85688895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":960853
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bdeeda2997fcc2e3b179fa2d149fe2da",
+    "wof:geomhash":"b347925f1610bf43f8a13a27387b96e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +124,23 @@
         }
     ],
     "wof:id":1193037023,
-    "wof:lastmodified":1566663472,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412057,
     "wof:name":"Rolle",
     "wof:parent_id":1108730589,
     "wof:placetype":"locality",
@@ -135,9 +151,9 @@
 },
   "bbox": [
     31.23986,
-    -24.71352000000001,
+    -24.71352,
     31.23986,
-    -24.71352000000001
+    -24.71352
 ],
-  "geometry": {"coordinates":[31.23986,-24.71352000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.23986,-24.71352],"type":"Point"}
 }

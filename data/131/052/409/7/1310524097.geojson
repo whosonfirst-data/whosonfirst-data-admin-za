@@ -42,7 +42,7 @@
         "gn:id":984134
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5cc5d23bfd7f52f6ea6add29b58e3af0",
+    "wof:geomhash":"cf93ceb22d9cf66c4e333da44cd400d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1310524097,
-    "wof:lastmodified":1566663687,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412132,
     "wof:name":"Leach Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.86667000000001,
+    27.86667,
     -33.06667,
-    27.86667000000001,
+    27.86667,
     -33.06667
 ],
-  "geometry": {"coordinates":[27.86667000000001,-33.06667],"type":"Point"}
+  "geometry": {"coordinates":[27.86667,-33.06667],"type":"Point"}
 }

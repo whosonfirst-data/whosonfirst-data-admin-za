@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730553
+        1108730553,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":967266
     },
     "wof:country":"ZA",
-    "wof:geomhash":"58bc95cfa740352cd81ff2a300e72e85",
+    "wof:geomhash":"c7e251e658fa172d62dce2c03074c50f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1209824131,
-    "wof:lastmodified":1566663366,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412012,
     "wof:name":"Otterburn",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",
@@ -76,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.61667000000001,
+    29.61667,
     -29.13333,
-    29.61667000000001,
+    29.61667,
     -29.13333
 ],
-  "geometry": {"coordinates":[29.61667000000001,-29.13333],"type":"Point"}
+  "geometry": {"coordinates":[29.61667,-29.13333],"type":"Point"}
 }

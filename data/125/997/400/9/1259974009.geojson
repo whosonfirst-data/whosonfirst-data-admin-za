@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":954278
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a376dda1f3c1d5140176f62e5e6bdfe6",
+    "wof:geomhash":"81085ef179a8c0cda2343908eaaa841e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1259974009,
-    "wof:lastmodified":1566664508,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412470,
     "wof:name":"Soetdorings",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -70,9 +86,9 @@
 },
   "bbox": [
     29.4,
-    -23.36667000000001,
+    -23.36667,
     29.4,
-    -23.36667000000001
+    -23.36667
 ],
-  "geometry": {"coordinates":[29.4,-23.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.4,-23.36667],"type":"Point"}
 }

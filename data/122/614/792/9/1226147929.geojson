@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011092
     },
     "wof:country":"ZA",
-    "wof:geomhash":"afd1dd48bb85d33fe7921f67bcac5767",
+    "wof:geomhash":"cef7f48c249a7a6575a501e03eef6e02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226147929,
-    "wof:lastmodified":1566664655,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412531,
     "wof:name":"De Kuien",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.72948,
-    -31.78624000000001,
+    -31.78624,
     25.72948,
-    -31.78624000000001
+    -31.78624
 ],
-  "geometry": {"coordinates":[25.72948,-31.78624000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.72948,-31.78624],"type":"Point"}
 }

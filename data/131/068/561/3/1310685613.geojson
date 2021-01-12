@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":992607
     },
     "wof:country":"ZA",
-    "wof:geomhash":"172e9ed3f1a04a794472dce34d112c76",
+    "wof:geomhash":"5ee1b25e2f8ec091cc051b347ee2aa2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310685613,
-    "wof:lastmodified":1566663737,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412153,
     "wof:name":"Ka-Mandlhakazi",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.36472,
-    -23.73707000000001,
+    -23.73707,
     30.36472,
-    -23.73707000000001
+    -23.73707
 ],
-  "geometry": {"coordinates":[30.36472,-23.73707000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.36472,-23.73707],"type":"Point"}
 }

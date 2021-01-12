@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":948403
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6d57797aa2565dd694df76d4f2563f79",
+    "wof:geomhash":"7016f891b88b9ebcdf4f686d2efa28b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310700775,
-    "wof:lastmodified":1566663657,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412120,
     "wof:name":"Toorkop",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.32453,
-    -31.86629000000001,
+    -31.86629,
     26.32453,
-    -31.86629000000001
+    -31.86629
 ],
-  "geometry": {"coordinates":[26.32453,-31.86629000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.32453,-31.86629],"type":"Point"}
 }

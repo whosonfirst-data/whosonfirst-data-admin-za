@@ -40,7 +40,7 @@
         "gn:id":950224
     },
     "wof:country":"ZA",
-    "wof:geomhash":"89e882a4c59e8cfe8c4f72e43371a5a8",
+    "wof:geomhash":"8b50584e6bdc9f866a21a787fcd9bf18",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209090923,
-    "wof:lastmodified":1566663305,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411986,
     "wof:name":"Takalani",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     30.58333,
-    -22.86667000000001,
+    -22.86667,
     30.58333,
-    -22.86667000000001
+    -22.86667
 ],
-  "geometry": {"coordinates":[30.58333,-22.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.58333,-22.86667],"type":"Point"}
 }

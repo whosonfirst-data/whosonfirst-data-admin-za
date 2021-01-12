@@ -69,15 +69,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730537
+        1108730537,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":940377
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a47af3d2a5a0c49aca80d5fd891319c7",
+    "wof:geomhash":"9a9223c160bd0162803b778da6ef1ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +88,23 @@
         }
     ],
     "wof:id":1343345127,
-    "wof:lastmodified":1566662891,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411812,
     "wof:name":"West End",
     "wof:parent_id":1108730537,
     "wof:placetype":"locality",
@@ -99,9 +115,9 @@
 },
   "bbox": [
     27.44523,
-    -26.90514000000001,
+    -26.90514,
     27.44523,
-    -26.90514000000001
+    -26.90514
 ],
-  "geometry": {"coordinates":[27.44523,-26.90514000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.44523,-26.90514],"type":"Point"}
 }

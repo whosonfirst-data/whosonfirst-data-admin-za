@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730595
+        1108730595,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":949955
     },
     "wof:country":"ZA",
-    "wof:geomhash":"087c74fbf371722716505d2a471750ad",
+    "wof:geomhash":"cc1c749a56627828bd21b00b7b9d090f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1260376357,
-    "wof:lastmodified":1566663503,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412069,
     "wof:name":"Teebus",
     "wof:parent_id":1108730595,
     "wof:placetype":"locality",
@@ -74,9 +90,9 @@
 },
   "bbox": [
     24.68333,
-    -31.36667000000001,
+    -31.36667,
     24.68333,
-    -31.36667000000001
+    -31.36667
 ],
-  "geometry": {"coordinates":[24.68333,-31.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.68333,-31.36667],"type":"Point"}
 }

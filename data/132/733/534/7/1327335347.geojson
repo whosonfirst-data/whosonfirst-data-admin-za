@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998835
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2605457465836e551a1569b817811e49",
+    "wof:geomhash":"39c643d3cd9f3ea9d0d38fce7b37f723",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1327335347,
-    "wof:lastmodified":1566662713,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411739,
     "wof:name":"Grootvlei",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -73,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.70789000000001,
+    26.70789,
     -30.33415,
-    26.70789000000001,
+    26.70789,
     -30.33415
 ],
-  "geometry": {"coordinates":[26.70789000000001,-30.33415],"type":"Point"}
+  "geometry": {"coordinates":[26.70789,-30.33415],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":543253.605007,
-    "geom:bbox":"28.3544597626,-26.1889457703,28.3655281067,-26.1799488068",
+    "geom:area_square_m":543247.253285,
+    "geom:bbox":"28.35446,-26.188946,28.365528,-26.179949",
     "geom:latitude":-26.184735,
     "geom:longitude":28.359757,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7870449
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fb3b5cf63bd6198ec61a529ecd8de4a7",
+    "wof:geomhash":"b0d29406dde33a6b591494283ab52aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925853,
-    "wof:lastmodified":1566663954,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412241,
     "wof:name":"New Modder",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.35445976257324,
-    -26.18894577026367,
-    28.36552810668945,
-    -26.1799488067627
+    28.35446,
+    -26.188946,
+    28.365528,
+    -26.179949
 ],
-  "geometry": {"coordinates":[[[28.35445976257324,-26.18584823608398],[28.35999870300293,-26.1799488067627],[28.36552810668945,-26.18495750427246],[28.35812950134277,-26.18894577026367],[28.35445976257324,-26.18584823608398]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.35446,-26.185848],[28.359999,-26.179949],[28.365528,-26.184958],[28.35813,-26.188946],[28.35446,-26.185848]]],"type":"Polygon"}
 }

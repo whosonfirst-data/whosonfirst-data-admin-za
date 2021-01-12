@@ -113,15 +113,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":999695
     },
     "wof:country":"ZA",
-    "wof:geomhash":"39bee68ae11cfdde218396607ce6246b",
+    "wof:geomhash":"46bfaa2646259fc4cf160f9d45a53964",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +132,23 @@
         }
     ],
     "wof:id":1259869349,
-    "wof:lastmodified":1566664583,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412500,
     "wof:name":"Groesbeek",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -143,9 +159,9 @@
 },
   "bbox": [
     28.43333,
-    -23.86667000000001,
+    -23.86667,
     28.43333,
-    -23.86667000000001
+    -23.86667
 ],
-  "geometry": {"coordinates":[28.43333,-23.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.43333,-23.86667],"type":"Point"}
 }

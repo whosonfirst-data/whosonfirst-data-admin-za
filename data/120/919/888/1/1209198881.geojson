@@ -40,7 +40,7 @@
         "gn:id":977253
     },
     "wof:country":"ZA",
-    "wof:geomhash":"982042407bac7dea905fc4ca3eb7af15",
+    "wof:geomhash":"8c00e6f13f492f9cdf3a68f895352397",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209198881,
-    "wof:lastmodified":1566663417,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412033,
     "wof:name":"Mekgobane",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.98229000000001,
+    28.98229,
     -23.74778,
-    28.98229000000001,
+    28.98229,
     -23.74778
 ],
-  "geometry": {"coordinates":[28.98229000000001,-23.74778],"type":"Point"}
+  "geometry": {"coordinates":[28.98229,-23.74778],"type":"Point"}
 }

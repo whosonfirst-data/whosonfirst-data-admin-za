@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":947905
     },
     "wof:country":"ZA",
-    "wof:geomhash":"30da1ac266213464aec3e16a60ab1501",
+    "wof:geomhash":"5eb95368e584384e0808f87256d3a538",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259984415,
-    "wof:lastmodified":1566664497,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412465,
     "wof:name":"Tshikitsha",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.5415,
-    -30.91800000000001,
+    -30.918,
     28.5415,
-    -30.91800000000001
+    -30.918
 ],
-  "geometry": {"coordinates":[28.5415,-30.91800000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.5415,-30.918],"type":"Point"}
 }

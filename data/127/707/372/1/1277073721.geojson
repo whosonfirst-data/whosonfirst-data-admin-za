@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":999823
     },
     "wof:country":"ZA",
-    "wof:geomhash":"f9044b86a487c7e170360ec5252b922e",
+    "wof:geomhash":"afe8482c10267f1bb43e8fc3a0d663dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,23 @@
         }
     ],
     "wof:id":1277073721,
-    "wof:lastmodified":1566663183,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411933,
     "wof:name":"Groenkloof",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -77,9 +93,9 @@
 },
   "bbox": [
     25.50906,
-    -31.78089000000001,
+    -31.78089,
     25.50906,
-    -31.78089000000001
+    -31.78089
 ],
-  "geometry": {"coordinates":[25.50906,-31.78089000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.50906,-31.78089],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":942962
     },
     "wof:country":"ZA",
-    "wof:geomhash":"97d7cd047eb60425d766b6a2980e51af",
+    "wof:geomhash":"35ff8b08148069287becb7ba93a888e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226146173,
-    "wof:lastmodified":1566664652,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412530,
     "wof:name":"Vongonzana",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.52826,
-    -30.24749000000001,
+    -30.24749,
     30.52826,
-    -30.24749000000001
+    -30.24749
 ],
-  "geometry": {"coordinates":[30.52826,-30.24749000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.52826,-30.24749],"type":"Point"}
 }

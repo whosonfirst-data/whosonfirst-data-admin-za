@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1012383
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5d6ddabf939eb3ce19bd3c25a321a12f",
+    "wof:geomhash":"393db75e1d5542584895bf472b617447",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243557911,
-    "wof:lastmodified":1566664360,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412409,
     "wof:name":"Cungewane",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.88776,
-    -28.50847000000001,
+    -28.50847,
     30.88776,
-    -28.50847000000001
+    -28.50847
 ],
-  "geometry": {"coordinates":[30.88776,-28.50847000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.88776,-28.50847],"type":"Point"}
 }

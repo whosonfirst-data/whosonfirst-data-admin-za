@@ -44,7 +44,7 @@
         "gn:id":976600
     },
     "wof:country":"ZA",
-    "wof:geomhash":"48e41487f3d3708c4c091702b087d186",
+    "wof:geomhash":"6ceab96fa52524e1e77f61c3c89d7f8c",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -52,7 +52,23 @@
         }
     ],
     "wof:id":1209313591,
-    "wof:lastmodified":1566663309,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411987,
     "wof:name":"Mgunga",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.05332000000001,
+    30.05332,
     -31.05715,
-    30.05332000000001,
+    30.05332,
     -31.05715
 ],
-  "geometry": {"coordinates":[30.05332000000001,-31.05715],"type":"Point"}
+  "geometry": {"coordinates":[30.05332,-31.05715],"type":"Point"}
 }

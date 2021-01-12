@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":968052
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6edd9b178756b168f91d7c3fe65f7a7f",
+    "wof:geomhash":"932c78c600d020921f36cf4e156db29d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276894095,
-    "wof:lastmodified":1566663210,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411944,
     "wof:name":"Onderste Doornknie",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.36667000000001,
+    20.36667,
     -29.41667,
-    20.36667000000001,
+    20.36667,
     -29.41667
 ],
-  "geometry": {"coordinates":[20.36667000000001,-29.41667],"type":"Point"}
+  "geometry": {"coordinates":[20.36667,-29.41667],"type":"Point"}
 }

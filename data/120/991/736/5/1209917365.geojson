@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730555
+        1108730555,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":942117
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b8957a3efbc40582948bd11c19a32aa8",
+    "wof:geomhash":"34f0b5aa1959e17be7cc70212c15ebff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +81,23 @@
         }
     ],
     "wof:id":1209917365,
-    "wof:lastmodified":1566663316,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411991,
     "wof:name":"Waldheim",
     "wof:parent_id":1108730555,
     "wof:placetype":"locality",
@@ -91,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.53409000000001,
+    30.53409,
     -28.47903,
-    30.53409000000001,
+    30.53409,
     -28.47903
 ],
-  "geometry": {"coordinates":[30.53409000000001,-28.47903],"type":"Point"}
+  "geometry": {"coordinates":[30.53409,-28.47903],"type":"Point"}
 }

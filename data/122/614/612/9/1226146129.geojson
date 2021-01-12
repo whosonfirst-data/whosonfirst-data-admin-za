@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730569
+        1108730569,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013670
     },
     "wof:country":"ZA",
-    "wof:geomhash":"15d3e5b0b5ce1b83caae3ca5126d6613",
+    "wof:geomhash":"69ec67379b3b6a0a9a8aea20c8c13f15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1226146129,
-    "wof:lastmodified":1566664655,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412531,
     "wof:name":"Chatwell",
     "wof:parent_id":1108730569,
     "wof:placetype":"locality",
@@ -69,9 +85,9 @@
 },
   "bbox": [
     30.18045,
-    -30.34509000000001,
+    -30.34509,
     30.18045,
-    -30.34509000000001
+    -30.34509
 ],
-  "geometry": {"coordinates":[30.18045,-30.34509000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.18045,-30.34509],"type":"Point"}
 }

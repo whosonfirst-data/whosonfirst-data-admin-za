@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.0400065,-33.835924,20.0400065,-33.835924",
+    "geom:bbox":"20.040007,-33.835924,20.040007,-33.835924",
     "geom:latitude":-33.835924,
     "geom:longitude":20.040007,
     "gn:country":null,
@@ -82,8 +82,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497290096,
-    "wof:geomhash":"ddb5e5063c041b76bbec3069775ff6b3",
+    "wof:geomhash":"9c3dc464fb943d6fabbe902a3219d159",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +104,23 @@
         }
     ],
     "wof:id":1125771929,
-    "wof:lastmodified":1566664326,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412395,
     "wof:name":"Ashton",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -114,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.0400065,
+    20.040007,
     -33.835924,
-    20.0400065,
+    20.040007,
     -33.835924
 ],
-  "geometry": {"coordinates":[20.0400065,-33.835924],"type":"Point"}
+  "geometry": {"coordinates":[20.040007,-33.835924],"type":"Point"}
 }

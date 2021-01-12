@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11427968
     },
     "wof:country":"ZA",
-    "wof:geomhash":"25ab104d3395e640520610459d37ed77",
+    "wof:geomhash":"f594edde9efe0710fdefa5ee53034965",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242572975,
-    "wof:lastmodified":1566664384,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412418,
     "wof:name":"Bathlaping Ba Ga Mothibi",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     24.59564,
-    -27.79657000000001,
+    -27.79657,
     24.59564,
-    -27.79657000000001
+    -27.79657
 ],
-  "geometry": {"coordinates":[24.59564,-27.79657000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.59564,-27.79657],"type":"Point"}
 }

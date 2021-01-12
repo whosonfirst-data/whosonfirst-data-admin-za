@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8555955
     },
     "wof:country":"ZA",
-    "wof:geomhash":"da45f960a253e8932874e84b14e03c11",
+    "wof:geomhash":"4b2841eb04ef1975dd04d187214a908d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,23 @@
         }
     ],
     "wof:id":1293368469,
-    "wof:lastmodified":1566663023,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411865,
     "wof:name":"Sir Lowry's Pass",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",
@@ -74,9 +90,9 @@
 },
   "bbox": [
     18.90996,
-    -34.12054000000001,
+    -34.12054,
     18.90996,
-    -34.12054000000001
+    -34.12054
 ],
-  "geometry": {"coordinates":[18.90996,-34.12054000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90996,-34.12054],"type":"Point"}
 }

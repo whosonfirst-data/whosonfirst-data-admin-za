@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":981004
     },
     "wof:country":"ZA",
-    "wof:geomhash":"59f21f6e90dfcf68e8a719068317ecbf",
+    "wof:geomhash":"0a5857dc6a083decf9a42142b65ac736",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243268731,
-    "wof:lastmodified":1566664481,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412458,
     "wof:name":"Mabbalane",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.33994,
-    -30.84499000000001,
+    -30.84499,
     28.33994,
-    -30.84499000000001
+    -30.84499
 ],
-  "geometry": {"coordinates":[28.33994,-30.84499000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.33994,-30.84499],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730535
+        1108730535,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1007793
     },
     "wof:country":"ZA",
-    "wof:geomhash":"39500a3f78561dd6c160bebbe68b9ed8",
+    "wof:geomhash":"73af51925a62edc88b382f77353b9f88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327340989,
-    "wof:lastmodified":1566662711,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411738,
     "wof:name":"Droogebult",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.17129000000001,
+    29.17129,
     -27.76143,
-    29.17129000000001,
+    29.17129,
     -27.76143
 ],
-  "geometry": {"coordinates":[29.17129000000001,-27.76143],"type":"Point"}
+  "geometry": {"coordinates":[29.17129,-27.76143],"type":"Point"}
 }

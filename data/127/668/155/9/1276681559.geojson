@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":942611
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3ec4584c4ec18ad44c92ec120856c4a6",
+    "wof:geomhash":"12ec30881178e1d2ae0b5a19b06d7088",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276681559,
-    "wof:lastmodified":1566663236,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411956,
     "wof:name":"Vreeniging",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.87615,
-    -31.53869000000001,
+    -31.53869,
     25.87615,
-    -31.53869000000001
+    -31.53869
 ],
-  "geometry": {"coordinates":[25.87615,-31.53869000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.87615,-31.53869],"type":"Point"}
 }

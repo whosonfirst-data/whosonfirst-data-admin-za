@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730605
+        1108730605,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":959296
     },
     "wof:country":"ZA",
-    "wof:geomhash":"6a1e9c0eea80c1134a3e72c95cd2a3c1",
+    "wof:geomhash":"252dead703054a7b76af242c2220d4b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293578351,
-    "wof:lastmodified":1566663091,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411895,
     "wof:name":"Roosendal",
     "wof:parent_id":1108730605,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.6,
-    -26.11667000000001,
+    -26.11667,
     25.6,
-    -26.11667000000001
+    -26.11667
 ],
-  "geometry": {"coordinates":[25.6,-26.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.6,-26.11667],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.8742935,-34.3553405,21.8742935,-34.3553405",
+    "geom:bbox":"21.874294,-34.35534,21.874294,-34.35534",
     "geom:latitude":-34.35534,
     "geom:longitude":21.874294,
     "gn:country":"ZA",
@@ -64,8 +64,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497292123,
-    "wof:geomhash":"59ef20f292d114fbd2d6b13b58390de6",
+    "wof:geomhash":"339742642e34d646cd03f9fcd0074ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +86,23 @@
         }
     ],
     "wof:id":1125822281,
-    "wof:lastmodified":1566664308,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412388,
     "wof:name":"Gouritsmond",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -96,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.8742935,
-    -34.3553405,
-    21.8742935,
-    -34.3553405
+    21.874294,
+    -34.35534,
+    21.874294,
+    -34.35534
 ],
-  "geometry": {"coordinates":[21.8742935,-34.3553405],"type":"Point"}
+  "geometry": {"coordinates":[21.874294,-34.35534],"type":"Point"}
 }

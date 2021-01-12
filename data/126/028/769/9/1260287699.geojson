@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971727
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8b3a2f613b64ab20f446f2b42d6ccb46",
+    "wof:geomhash":"cabb0a330b7a8e3e91ef978616fd2021",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1260287699,
-    "wof:lastmodified":1566663523,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412079,
     "wof:name":"Ndongeni",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.48804000000001,
+    32.48804,
     -27.53886,
-    32.48804000000001,
+    32.48804,
     -27.53886
 ],
-  "geometry": {"coordinates":[32.48804000000001,-27.53886],"type":"Point"}
+  "geometry": {"coordinates":[32.48804,-27.53886],"type":"Point"}
 }

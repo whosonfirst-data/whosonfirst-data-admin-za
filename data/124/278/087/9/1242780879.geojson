@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730567
+        1108730567,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":957608
     },
     "wof:country":"ZA",
-    "wof:geomhash":"94475b346e5ae70604d2b746de4424de",
+    "wof:geomhash":"dea5cb1cd66d95575a8db128d1bff6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242780879,
-    "wof:lastmodified":1566664439,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412441,
     "wof:name":"Sanikidge",
     "wof:parent_id":1108730567,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.13333,
-    -29.36667000000001,
+    -29.36667,
     31.13333,
-    -29.36667000000001
+    -29.36667
 ],
-  "geometry": {"coordinates":[31.13333,-29.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.13333,-29.36667],"type":"Point"}
 }

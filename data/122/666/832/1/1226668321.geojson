@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11352144
     },
     "wof:country":"ZA",
-    "wof:geomhash":"40a62b86e7637ece23d51e50837812c1",
+    "wof:geomhash":"4ffe53d29879a1203cd3e3b347493550",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226668321,
-    "wof:lastmodified":1566664644,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412526,
     "wof:name":"Brackenhurst",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.104,
-    -26.31900000000001,
+    -26.319,
     28.104,
-    -26.31900000000001
+    -26.319
 ],
-  "geometry": {"coordinates":[28.104,-26.31900000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.104,-26.319],"type":"Point"}
 }

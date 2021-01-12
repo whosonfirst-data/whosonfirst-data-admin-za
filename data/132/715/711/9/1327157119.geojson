@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":936965
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9225d0d7e74af9d16d49b1446e2ac32b",
+    "wof:geomhash":"2bfe79b491743ebcb603f59db4b852c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327157119,
-    "wof:lastmodified":1566662687,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411728,
     "wof:name":"Zithulele",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.05916,
-    -32.04790999999999,
+    -32.04791,
     29.05916,
-    -32.04790999999999
+    -32.04791
 ],
-  "geometry": {"coordinates":[29.05916,-32.04790999999999],"type":"Point"}
+  "geometry": {"coordinates":[29.05916,-32.04791],"type":"Point"}
 }

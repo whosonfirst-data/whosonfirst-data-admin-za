@@ -40,7 +40,7 @@
         "gn:id":985197
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7556d7978d632adb4f80631218756262",
+    "wof:geomhash":"eeeba45069fa4f165c515ac87978d67f",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209246511,
-    "wof:lastmodified":1566663357,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412008,
     "wof:name":"KwaVelelo",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     28.71987,
-    -32.01094000000001,
+    -32.01094,
     28.71987,
-    -32.01094000000001
+    -32.01094
 ],
-  "geometry": {"coordinates":[28.71987,-32.01094000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.71987,-32.01094],"type":"Point"}
 }

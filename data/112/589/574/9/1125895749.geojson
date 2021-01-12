@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.8763995,-33.920286,18.8763995,-33.920286",
+    "geom:bbox":"18.8764,-33.920286,18.8764,-33.920286",
     "geom:latitude":-33.920286,
     "geom:longitude":18.8764,
     "gn:country":null,
@@ -46,8 +46,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730615
+        1108730615,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +56,7 @@
     },
     "wof:country":"ZA",
     "wof:created":1497295551,
-    "wof:geomhash":"f228d2a22fbb58e5227cfa1a245fff7a",
+    "wof:geomhash":"5ba9c58e4fa160d2a65b35e7629478c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1125895749,
-    "wof:lastmodified":1566664246,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412364,
     "wof:name":"Idasvallei",
     "wof:parent_id":1108730615,
     "wof:placetype":"locality",
@@ -77,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.8763995,
+    18.8764,
     -33.920286,
-    18.8763995,
+    18.8764,
     -33.920286
 ],
-  "geometry": {"coordinates":[18.8763995,-33.920286],"type":"Point"}
+  "geometry": {"coordinates":[18.8764,-33.920286],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1801314.612763,
-    "geom:bbox":"29.2453422546,-23.2931594849,29.2609348297,-23.2748775482",
+    "geom:area_square_m":1801261.460413,
+    "geom:bbox":"29.245342,-23.293159,29.260935,-23.274878",
     "geom:latitude":-23.28418,
     "geom:longitude":29.253076,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1586550
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c4f6afb1f026f7ca1410d8994da635fd",
+    "wof:geomhash":"197a57beba2b7c0c0423df76bd9bca9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101923207,
-    "wof:lastmodified":1566663894,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412217,
     "wof:name":"Ha-Madikana",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.24534225463867,
-    -23.29315948486328,
-    29.26093482971191,
-    -23.27487754821777
+    29.245342,
+    -23.293159,
+    29.260935,
+    -23.274878
 ],
-  "geometry": {"coordinates":[[[29.25436592102051,-23.29315948486328],[29.24534225463867,-23.2905330657959],[29.2516918182373,-23.27487754821777],[29.26093482971191,-23.27852058410645],[29.25436592102051,-23.29315948486328]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.254366,-23.293159],[29.245342,-23.290533],[29.251692,-23.274878],[29.260935,-23.278521],[29.254366,-23.293159]]],"type":"Polygon"}
 }

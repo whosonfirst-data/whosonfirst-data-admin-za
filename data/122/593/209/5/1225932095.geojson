@@ -56,8 +56,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730617
+        1108730617,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,23 @@
         }
     ],
     "wof:id":1225932095,
-    "wof:lastmodified":1566664591,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412504,
     "wof:name":"Napier",
     "wof:parent_id":1108730617,
     "wof:placetype":"locality",

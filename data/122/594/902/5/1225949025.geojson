@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1019755
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a8a2c653a318ee2cc103f9ff10ee14ec",
+    "wof:geomhash":"8d165f8f71fffe075c823e3e6203d157",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1225949025,
-    "wof:lastmodified":1566664588,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412503,
     "wof:name":"Bethania",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     28.30391,
-    -30.63844000000001,
+    -30.63844,
     28.30391,
-    -30.63844000000001
+    -30.63844
 ],
-  "geometry": {"coordinates":[28.30391,-30.63844000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.30391,-30.63844],"type":"Point"}
 }

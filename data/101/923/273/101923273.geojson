@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1378525.001104,
-    "geom:bbox":"29.030500412,-23.4770240784,29.0494422913,-23.4695110321",
+    "geom:area_square_m":1378506.665338,
+    "geom:bbox":"29.0305,-23.477024,29.049442,-23.469511",
     "geom:latitude":-23.473155,
-    "geom:longitude":29.040154,
+    "geom:longitude":29.040153,
     "iso:country":"ZA",
     "lbl:latitude":-23.473122,
     "lbl:longitude":29.040153,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":1586550
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e4033e45c092873a8a92ff3cb6061c4a",
+    "wof:geomhash":"cde1d2c54140480f31d18f4e47a4ed1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101923273,
-    "wof:lastmodified":1566663863,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412205,
     "wof:name":"Ga-Mantlhodi",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.0305004119873,
-    -23.47702407836914,
-    29.04944229125977,
-    -23.46951103210449
+    29.0305,
+    -23.477024,
+    29.049442,
+    -23.469511
 ],
-  "geometry": {"coordinates":[[[29.03115844726562,-23.46951103210449],[29.04899978637695,-23.47011566162109],[29.04944229125977,-23.47702407836914],[29.0305004119873,-23.47580909729004],[29.03115844726562,-23.46951103210449]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.031158,-23.469511],[29.049,-23.470116],[29.049442,-23.477024],[29.0305,-23.475809],[29.031158,-23.469511]]],"type":"Polygon"}
 }

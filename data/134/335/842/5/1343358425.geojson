@@ -56,15 +56,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970181
     },
     "wof:country":"ZA",
-    "wof:geomhash":"54fa8e930a5af727531a89c4741f0ebb",
+    "wof:geomhash":"25ae63007da08218ababe945209c5b15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +75,23 @@
         }
     ],
     "wof:id":1343358425,
-    "wof:lastmodified":1566662875,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411805,
     "wof:name":"Nomadi",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -86,9 +102,9 @@
 },
   "bbox": [
     29.41667,
-    -31.61667000000001,
+    -31.61667,
     29.41667,
-    -31.61667000000001
+    -31.61667
 ],
-  "geometry": {"coordinates":[29.41667,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.41667,-31.61667],"type":"Point"}
 }

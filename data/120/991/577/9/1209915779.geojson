@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730539
+        1108730539,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013845
     },
     "wof:country":"ZA",
-    "wof:geomhash":"04f686ca50807e845e80ed48284874d1",
+    "wof:geomhash":"159a526ff648b81f18b0b9297dee6514",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +93,23 @@
         }
     ],
     "wof:id":1209915779,
-    "wof:lastmodified":1566663321,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411993,
     "wof:name":"Cecilia",
     "wof:parent_id":1108730539,
     "wof:placetype":"locality",
@@ -104,9 +120,9 @@
 },
   "bbox": [
     26.42373,
-    -29.36414000000001,
+    -29.36414,
     26.42373,
-    -29.36414000000001
+    -29.36414
 ],
-  "geometry": {"coordinates":[26.42373,-29.36414000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.42373,-29.36414],"type":"Point"}
 }

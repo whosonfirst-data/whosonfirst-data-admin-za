@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1014399
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1c4e9b75d09d8e82411fbe63753fe1e2",
+    "wof:geomhash":"126e1add844aee78ac0737cb9da51f57",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1243262887,
-    "wof:lastmodified":1566664481,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412458,
     "wof:name":"Caba",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.08313,
-    -31.99702000000001,
+    -31.99702,
     28.08313,
-    -31.99702000000001
+    -31.99702
 ],
-  "geometry": {"coordinates":[28.08313,-31.99702000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.08313,-31.99702],"type":"Point"}
 }

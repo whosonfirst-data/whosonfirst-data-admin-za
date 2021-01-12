@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730573
+        1108730573,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1009802
     },
     "wof:country":"ZA",
-    "wof:geomhash":"58debf564b1872cc73abf42ebdc75cf9",
+    "wof:geomhash":"8bf937e7b71e3e8e7dc0b8fb83470238",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327418337,
-    "wof:lastmodified":1566662703,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411734,
     "wof:name":"Diphuti",
     "wof:parent_id":1108730573,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.66667,
-    -24.36667000000001,
+    -24.36667,
     30.66667,
-    -24.36667000000001
+    -24.36667
 ],
-  "geometry": {"coordinates":[30.66667,-24.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.66667,-24.36667],"type":"Point"}
 }

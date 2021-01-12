@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730579
+        1108730579,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":975421
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ce9e3136d179f5d88df40967cacc0653",
+    "wof:geomhash":"ace3267e13c1ecf7271fda3fa2358fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309790343,
-    "wof:lastmodified":1566664180,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412332,
     "wof:name":"Mmakala",
     "wof:parent_id":1108730579,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.74204000000001,
+    28.74204,
     -23.46226,
-    28.74204000000001,
+    28.74204,
     -23.46226
 ],
-  "geometry": {"coordinates":[28.74204000000001,-23.46226],"type":"Point"}
+  "geometry": {"coordinates":[28.74204,-23.46226],"type":"Point"}
 }

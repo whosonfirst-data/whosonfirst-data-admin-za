@@ -40,7 +40,7 @@
         "gn:id":942442
     },
     "wof:country":"ZA",
-    "wof:geomhash":"89a005afff569fad22b20e329c7a92b7",
+    "wof:geomhash":"dbf4272c351f3e9d597aff4dc25fa24b",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209323419,
-    "wof:lastmodified":1566663381,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412018,
     "wof:name":"Vulamahlo",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.91594000000001,
-    -28.51842000000001,
-    31.91594000000001,
-    -28.51842000000001
+    31.91594,
+    -28.51842,
+    31.91594,
+    -28.51842
 ],
-  "geometry": {"coordinates":[31.91594000000001,-28.51842000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.91594,-28.51842],"type":"Point"}
 }

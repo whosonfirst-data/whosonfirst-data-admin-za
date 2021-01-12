@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985601
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4457b226e157dba11f75390d21cd09f0",
+    "wof:geomhash":"04f5c17b183be84d9a4c3bbd9e8402bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226441779,
-    "wof:lastmodified":1566664606,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412510,
     "wof:name":"KwaMcatuve",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.63333,
-    -31.86667000000001,
+    -31.86667,
     27.63333,
-    -31.86667000000001
+    -31.86667
 ],
-  "geometry": {"coordinates":[27.63333,-31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.63333,-31.86667],"type":"Point"}
 }

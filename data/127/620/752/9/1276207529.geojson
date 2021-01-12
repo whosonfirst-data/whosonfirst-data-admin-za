@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3370063
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9c4afdf3f157edac5806426a8c9b1794",
+    "wof:geomhash":"543a28af6694be01add2eb9b71b2df1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1276207529,
-    "wof:lastmodified":1566663218,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411948,
     "wof:name":"Biesiesfontein",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.88332999999999,
+    17.88333,
     -31.01667,
-    17.88332999999999,
+    17.88333,
     -31.01667
 ],
-  "geometry": {"coordinates":[17.88332999999999,-31.01667],"type":"Point"}
+  "geometry": {"coordinates":[17.88333,-31.01667],"type":"Point"}
 }

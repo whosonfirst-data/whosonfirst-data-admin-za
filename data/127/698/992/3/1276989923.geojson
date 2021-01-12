@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730559
+        1108730559,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985673
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ffb0e6f8af1deacf7415b8926cbb5bb4",
+    "wof:geomhash":"2c07ff7ae20928f52cdb10c383d295c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276989923,
-    "wof:lastmodified":1566663290,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411980,
     "wof:name":"KwaMandlakazi",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.71921,
-    -28.02414000000001,
+    -28.02414,
     31.71921,
-    -28.02414000000001
+    -28.02414
 ],
-  "geometry": {"coordinates":[31.71921,-28.02414000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.71921,-28.02414],"type":"Point"}
 }

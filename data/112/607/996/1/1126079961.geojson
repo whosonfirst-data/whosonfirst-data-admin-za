@@ -48,10 +48,10 @@
     "woe:name_adm1":"Free State",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688915,
         102191573,
         85633813,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,23 @@
         }
     ],
     "wof:id":1126079961,
-    "wof:lastmodified":1566664299,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412384,
     "wof:name":"Westdene",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

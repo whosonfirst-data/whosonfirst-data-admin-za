@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":977599
     },
     "wof:country":"ZA",
-    "wof:geomhash":"db23cadf0ef862a4adcbefe355b309bb",
+    "wof:geomhash":"58a706fe87f0f558a2ef0950fa4ab6ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1292999835,
-    "wof:lastmodified":1566663121,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411907,
     "wof:name":"Mbokotwana",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.42918,
-    -32.59934000000001,
+    -32.59934,
     28.42918,
-    -32.59934000000001
+    -32.59934
 ],
-  "geometry": {"coordinates":[28.42918,-32.59934000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.42918,-32.59934],"type":"Point"}
 }

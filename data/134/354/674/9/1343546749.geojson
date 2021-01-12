@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730593
+        1108730593,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3365515
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9d7675592d5533313cb7f38d8c98b99b",
+    "wof:geomhash":"e2ba03bf771e59d9e90003b4688aed96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343546749,
-    "wof:lastmodified":1566662815,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411775,
     "wof:name":"Kliphoogte",
     "wof:parent_id":1108730593,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.38332999999999,
+    17.38333,
     -28.98333,
-    17.38332999999999,
+    17.38333,
     -28.98333
 ],
-  "geometry": {"coordinates":[17.38332999999999,-28.98333],"type":"Point"}
+  "geometry": {"coordinates":[17.38333,-28.98333],"type":"Point"}
 }

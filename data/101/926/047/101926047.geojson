@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":610940.019531,
-    "geom:bbox":"28.2117176056,-26.2946796417,28.2190952301,-26.2809009552",
+    "geom:area_square_m":610856.281351,
+    "geom:bbox":"28.211718,-26.29468,28.219095,-26.280901",
     "geom:latitude":-26.287684,
     "geom:longitude":28.215507,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730507
+        1108730507,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55878938
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a85d20ace6de3c7fda7cc30f8cf9efe3",
+    "wof:geomhash":"66b1e5003bcec580433d13aa6821947a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101926047,
-    "wof:lastmodified":1566664058,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412282,
     "wof:name":"Klippoortje Agricultural Lots",
     "wof:parent_id":1108730507,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.21171760559082,
-    -26.29467964172363,
-    28.21909523010254,
-    -26.2809009552002
+    28.211718,
+    -26.29468,
+    28.219095,
+    -26.280901
 ],
-  "geometry": {"coordinates":[[[28.21171760559082,-26.28198051452637],[28.21604537963867,-26.2809009552002],[28.21909523010254,-26.29376029968262],[28.21531867980957,-26.29467964172363],[28.21171760559082,-26.28198051452637]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.211718,-26.281981],[28.216045,-26.280901],[28.219095,-26.29376],[28.215319,-26.29468],[28.211718,-26.281981]]],"type":"Polygon"}
 }

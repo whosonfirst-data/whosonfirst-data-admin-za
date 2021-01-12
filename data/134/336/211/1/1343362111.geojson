@@ -107,15 +107,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730561
+        1108730561,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963196
     },
     "wof:country":"ZA",
-    "wof:geomhash":"ed9f5721289d936a67f5e447c49e75e9",
+    "wof:geomhash":"e1420386f9b4f209019080e2670acbff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +126,23 @@
         }
     ],
     "wof:id":1343362111,
-    "wof:lastmodified":1566662807,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411771,
     "wof:name":"Ranger",
     "wof:parent_id":1108730561,
     "wof:placetype":"locality",
@@ -137,9 +153,9 @@
 },
   "bbox": [
     32.45,
-    -28.11667000000001,
+    -28.11667,
     32.45,
-    -28.11667000000001
+    -28.11667
 ],
-  "geometry": {"coordinates":[32.45,-28.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[32.45,-28.11667],"type":"Point"}
 }

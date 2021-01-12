@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.1733333333,-25.3336111111,27.1733333333,-25.3336111111",
+    "geom:bbox":"27.173333,-25.333611,27.173333,-25.333611",
     "geom:latitude":-25.333611,
     "geom:longitude":27.173333,
     "iso:country":"ZA",
@@ -61,7 +61,7 @@
         "wd:id":"Q2233125"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8403d59f00d40f11b63a57d0b4c82c49",
+    "wof:geomhash":"846053498308d61444f2801ca73e1b7d",
     "wof:hierarchy":[
         {
             "campus_id":102546701,
@@ -70,7 +70,23 @@
         }
     ],
     "wof:id":102546701,
-    "wof:lastmodified":1566662806,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411770,
     "wof:name":"Pilanesberg Airport",
     "wof:parent_id":85688931,
     "wof:placetype":"campus",
@@ -82,10 +98,10 @@
     ]
 },
   "bbox": [
-    27.173333333333,
-    -25.333611111111,
-    27.173333333333,
-    -25.333611111111
+    27.173333,
+    -25.333611,
+    27.173333,
+    -25.333611
 ],
-  "geometry": {"coordinates":[27.173333333333,-25.333611111111],"type":"Point"}
+  "geometry": {"coordinates":[27.173333,-25.333611],"type":"Point"}
 }

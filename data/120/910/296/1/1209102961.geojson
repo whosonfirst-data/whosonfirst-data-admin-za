@@ -73,7 +73,7 @@
         "gn:id":1001794
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4ba54730a99c64fe6075e66f42366800",
+    "wof:geomhash":"7580f5a07afedf66a2d1a2118dccad56",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -81,7 +81,23 @@
         }
     ],
     "wof:id":1209102961,
-    "wof:lastmodified":1566663426,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412037,
     "wof:name":"Glen Allen",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -92,9 +108,9 @@
 },
   "bbox": [
     22.56667,
-    -29.61667000000001,
+    -29.61667,
     22.56667,
-    -29.61667000000001
+    -29.61667
 ],
-  "geometry": {"coordinates":[22.56667,-29.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.56667,-29.61667],"type":"Point"}
 }

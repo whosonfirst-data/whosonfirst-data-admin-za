@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":963366
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e94bf07e34193d7985d8d4b4b506ae26",
+    "wof:geomhash":"22550635e2cf6e2635bbffc8b225a442",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1260195943,
-    "wof:lastmodified":1566663530,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412081,
     "wof:name":"Ragbubee",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     31.01667,
-    -29.61667000000001,
+    -29.61667,
     31.01667,
-    -29.61667000000001
+    -29.61667
 ],
-  "geometry": {"coordinates":[31.01667,-29.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.01667,-29.61667],"type":"Point"}
 }

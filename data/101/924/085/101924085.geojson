@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":1001035.678741,
-    "geom:bbox":"30.4798717499,-23.1804981232,30.4873428345,-23.1678295135",
+    "geom:area_square_m":1000959.788697,
+    "geom:bbox":"30.479872,-23.180498,30.487343,-23.16783",
     "geom:latitude":-23.173827,
     "geom:longitude":30.483554,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1588087
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d87f9e201a5374c67367d0c9cd7d5580",
+    "wof:geomhash":"b43c53a7ffc95f8a077fdd3ced8b5e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101924085,
-    "wof:lastmodified":1566663810,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412184,
     "wof:name":"Thandani",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.47987174987793,
-    -23.18049812316895,
-    30.48734283447266,
-    -23.1678295135498
+    30.479872,
+    -23.180498,
+    30.487343,
+    -23.16783
 ],
-  "geometry": {"coordinates":[[[30.48724746704102,-23.1791820526123],[30.48001289367676,-23.18049812316895],[30.47987174987793,-23.16790199279785],[30.48734283447266,-23.1678295135498],[30.48724746704102,-23.1791820526123]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.487247,-23.179182],[30.480013,-23.180498],[30.479872,-23.167902],[30.487343,-23.16783],[30.487247,-23.179182]]],"type":"Polygon"}
 }

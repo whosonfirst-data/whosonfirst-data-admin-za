@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":997716
     },
     "wof:country":"ZA",
-    "wof:geomhash":"970eeac60da2e5ede14bcf882fbd39bc",
+    "wof:geomhash":"f33288120027b8bd566cda9cb33803cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1243456153,
-    "wof:lastmodified":1566664470,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412453,
     "wof:name":"Hartbeesfontein",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     26.14397,
-    -30.14707000000001,
+    -30.14707,
     26.14397,
-    -30.14707000000001
+    -30.14707
 ],
-  "geometry": {"coordinates":[26.14397,-30.14707000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.14397,-30.14707],"type":"Point"}
 }

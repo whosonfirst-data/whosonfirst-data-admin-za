@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730543
+        1108730543,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1011949
     },
     "wof:country":"ZA",
-    "wof:geomhash":"80ed15b2800acd3a9bfc1d8ef11a4789",
+    "wof:geomhash":"fb40230cd63341702579357278651bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1327022393,
-    "wof:lastmodified":1566662710,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411738,
     "wof:name":"Dancornia",
     "wof:parent_id":1108730543,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.6,
-    -26.11667000000001,
+    -26.11667,
     27.6,
-    -26.11667000000001
+    -26.11667
 ],
-  "geometry": {"coordinates":[27.6,-26.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.6,-26.11667],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":998238
     },
     "wof:country":"ZA",
-    "wof:geomhash":"34310729e1afa9d10767d7c75090f494",
+    "wof:geomhash":"410a9b2c8e0693daf24f09010294d278",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226327025,
-    "wof:lastmodified":1566664642,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412526,
     "wof:name":"Ha-Lambani",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.8315,
-    -22.72027000000001,
+    -22.72027,
     30.8315,
-    -22.72027000000001
+    -22.72027
 ],
-  "geometry": {"coordinates":[30.8315,-22.72027000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.8315,-22.72027],"type":"Point"}
 }

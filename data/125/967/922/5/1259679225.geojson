@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":993027
     },
     "wof:country":"ZA",
-    "wof:geomhash":"7ac32955b85eba091dc4eb5fa20c4cef",
+    "wof:geomhash":"e601717f077505246afd215072cb19a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1259679225,
-    "wof:lastmodified":1566664557,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412490,
     "wof:name":"Kaimoepslaagte",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     20.06667,
-    -29.36667000000001,
+    -29.36667,
     20.06667,
-    -29.36667000000001
+    -29.36667
 ],
-  "geometry": {"coordinates":[20.06667,-29.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.06667,-29.36667],"type":"Point"}
 }

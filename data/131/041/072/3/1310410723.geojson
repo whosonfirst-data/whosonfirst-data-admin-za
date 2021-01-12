@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1010957
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2859bae62a6c10f34592c7688251b9ff",
+    "wof:geomhash":"4dc8be81d50030d3e00416ef2befca58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1310410723,
-    "wof:lastmodified":1566663653,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412118,
     "wof:name":"Denhaga",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.79619000000001,
+    26.79619,
     -31.25653,
-    26.79619000000001,
+    26.79619,
     -31.25653
 ],
-  "geometry": {"coordinates":[26.79619000000001,-31.25653],"type":"Point"}
+  "geometry": {"coordinates":[26.79619,-31.25653],"type":"Point"}
 }

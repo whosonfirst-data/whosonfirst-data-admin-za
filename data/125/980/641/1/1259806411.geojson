@@ -152,15 +152,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730513
+        1108730513,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1015250
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d838a38fe5e135a77237a5c26977759b",
+    "wof:geomhash":"f872917b588b413ba343f285738551c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +171,23 @@
         }
     ],
     "wof:id":1259806411,
-    "wof:lastmodified":1566664574,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412497,
     "wof:name":"Buffalo",
     "wof:parent_id":1108730513,
     "wof:placetype":"locality",
@@ -182,9 +198,9 @@
 },
   "bbox": [
     27.85075,
-    -33.01909000000001,
+    -33.01909,
     27.85075,
-    -33.01909000000001
+    -33.01909
 ],
-  "geometry": {"coordinates":[27.85075,-33.01909000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.85075,-33.01909],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":984779
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2ebd62d0ec101020835eb1aeb5e67ebe",
+    "wof:geomhash":"e39af48c6c1e1eb1415a5b74cb70343b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1193263871,
-    "wof:lastmodified":1566663485,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412062,
     "wof:name":"Langbaken",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     21.33724,
-    -29.90027000000001,
+    -29.90027,
     21.33724,
-    -29.90027000000001
+    -29.90027
 ],
-  "geometry": {"coordinates":[21.33724,-29.90027000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.33724,-29.90027],"type":"Point"}
 }

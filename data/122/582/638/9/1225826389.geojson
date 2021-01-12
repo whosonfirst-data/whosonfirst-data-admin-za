@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7290087
     },
     "wof:country":"ZA",
-    "wof:geomhash":"2cae8b040172067ffab203311cc340f8",
+    "wof:geomhash":"a6cc2926e18e3cda2bd91476d9458614",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1225826389,
-    "wof:lastmodified":1566664710,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412554,
     "wof:name":"Three Anchor Bay",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     18.40055,
-    -33.90535999999999,
+    -33.90536,
     18.40055,
-    -33.90535999999999
+    -33.90536
 ],
-  "geometry": {"coordinates":[18.40055,-33.90535999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.40055,-33.90536],"type":"Point"}
 }

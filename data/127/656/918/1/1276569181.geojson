@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1021895
     },
     "wof:country":"ZA",
-    "wof:geomhash":"5e7693e194c9e78945035261c1a3e311",
+    "wof:geomhash":"799c74d5a1ec0d0cd38b99d65669c4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276569181,
-    "wof:lastmodified":1566663227,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411952,
     "wof:name":"Avondster",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.18077000000001,
+    25.18077,
     -27.43898,
-    25.18077000000001,
+    25.18077,
     -27.43898
 ],
-  "geometry": {"coordinates":[25.18077000000001,-27.43898],"type":"Point"}
+  "geometry": {"coordinates":[25.18077,-27.43898],"type":"Point"}
 }

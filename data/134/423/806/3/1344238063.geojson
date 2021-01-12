@@ -705,8 +705,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730613
+        1108730613,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -724,7 +724,23 @@
         }
     ],
     "wof:id":1344238063,
-    "wof:lastmodified":1566662835,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411786,
     "wof:name":"South Africa",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",

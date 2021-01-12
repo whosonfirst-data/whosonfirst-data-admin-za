@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730597
+        1108730597,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":951513
     },
     "wof:country":"ZA",
-    "wof:geomhash":"418dbc83d86ab291e885e83ca909ae10",
+    "wof:geomhash":"d12b3c026de7064f4d5c894c7aba958c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326520853,
-    "wof:lastmodified":1566662743,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411752,
     "wof:name":"Suikersteek",
     "wof:parent_id":1108730597,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     20.16667,
-    -28.36667000000001,
+    -28.36667,
     20.16667,
-    -28.36667000000001
+    -28.36667
 ],
-  "geometry": {"coordinates":[20.16667,-28.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.16667,-28.36667],"type":"Point"}
 }

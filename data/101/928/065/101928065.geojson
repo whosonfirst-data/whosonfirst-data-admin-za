@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":2913958.371614,
-    "geom:bbox":"22.4450283051,-34.0235595703,22.4750785828,-34.0046043396",
+    "geom:area_square_m":2914112.689399,
+    "geom:bbox":"22.445028,-34.02356,22.475079,-34.004604",
     "geom:latitude":-34.015159,
     "geom:longitude":22.46113,
     "iso:country":"ZA",
@@ -62,8 +62,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730621
+        1108730621,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         "wk:page":"Pacaltsdorp"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9027630d7fdc5bbc181c2afb0848d43f",
+    "wof:geomhash":"dc772f45f21c0f13994498fceb5c43b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +84,23 @@
         }
     ],
     "wof:id":101928065,
-    "wof:lastmodified":1566664117,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412305,
     "wof:name":"Pacaltsdorp",
     "wof:parent_id":1108730621,
     "wof:placetype":"locality",
@@ -94,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.44502830505371,
-    -34.0235595703125,
-    22.47507858276367,
-    -34.00460433959961
+    22.445028,
+    -34.02356,
+    22.475079,
+    -34.004604
 ],
-  "geometry": {"coordinates":[[[22.4598331451416,-34.00460433959961],[22.47507858276367,-34.01738357543945],[22.47037887573242,-34.0235595703125],[22.44502830505371,-34.01728820800781],[22.4598331451416,-34.00460433959961]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[22.459833,-34.004604],[22.475079,-34.017384],[22.470379,-34.02356],[22.445028,-34.017288],[22.459833,-34.004604]]],"type":"Polygon"}
 }

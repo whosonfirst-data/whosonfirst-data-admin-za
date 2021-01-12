@@ -45,7 +45,7 @@
         "gn:id":989986
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8fea4da53d594b422af8a5b46c21c4c9",
+    "wof:geomhash":"4bc2cbf393f17be14bee63275d2ea484",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -53,7 +53,23 @@
         }
     ],
     "wof:id":1209612011,
-    "wof:lastmodified":1566663376,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412016,
     "wof:name":"Kleinvlei",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -63,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.61667000000001,
+    21.61667,
     -30.15,
-    21.61667000000001,
+    21.61667,
     -30.15
 ],
-  "geometry": {"coordinates":[21.61667000000001,-30.15],"type":"Point"}
+  "geometry": {"coordinates":[21.61667,-30.15],"type":"Point"}
 }

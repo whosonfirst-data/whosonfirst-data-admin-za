@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":969183
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a6ab9f1dccb3f08b871354dc4f039d00",
+    "wof:geomhash":"1640bb1a1b7b6069892a7d89d46c899e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293888389,
-    "wof:lastmodified":1566663167,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411927,
     "wof:name":"Ntlambashe",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.34785,
-    -31.05942000000001,
+    -31.05942,
     29.34785,
-    -31.05942000000001
+    -31.05942
 ],
-  "geometry": {"coordinates":[29.34785,-31.05942000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.34785,-31.05942],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":957134
     },
     "wof:country":"ZA",
-    "wof:geomhash":"a428d4b13b15394ad11f197c3aa59a87",
+    "wof:geomhash":"be6c61d6e7f8bd44990285b5359d327c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226365195,
-    "wof:lastmodified":1566664708,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412553,
     "wof:name":"Schoombee",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     25.48739,
-    -31.45479000000001,
+    -31.45479,
     25.48739,
-    -31.45479000000001
+    -31.45479
 ],
-  "geometry": {"coordinates":[25.48739,-31.45479000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.48739,-31.45479],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":1008173
     },
     "wof:country":"ZA",
-    "wof:geomhash":"be5c7efde3718c51d6156db452f2b741",
+    "wof:geomhash":"88d3f48f877dfa8eac5a78bb66d5ea4a",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209222173,
-    "wof:lastmodified":1566663370,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412013,
     "wof:name":"Driehoek",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     25.83276,
-    -29.24279000000001,
+    -29.24279,
     25.83276,
-    -29.24279000000001
+    -29.24279
 ],
-  "geometry": {"coordinates":[25.83276,-29.24279000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.83276,-29.24279],"type":"Point"}
 }

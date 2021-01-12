@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730551
+        1108730551,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":992608
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4840d64a0e3af85dad1aaf588ffeb89c",
+    "wof:geomhash":"4d3c01506281c11dba8ce8d147e39944",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293402811,
-    "wof:lastmodified":1566663065,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411883,
     "wof:name":"Ka-Mampungushe",
     "wof:parent_id":1108730551,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.57444000000001,
-    -30.10804000000001,
-    30.57444000000001,
-    -30.10804000000001
+    30.57444,
+    -30.10804,
+    30.57444,
+    -30.10804
 ],
-  "geometry": {"coordinates":[30.57444000000001,-30.10804000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.57444,-30.10804],"type":"Point"}
 }

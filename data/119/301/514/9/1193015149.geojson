@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":969217
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9a0b2dedeb54fe1c8edd006b89cddc37",
+    "wof:geomhash":"0231cf69f9d43a3fabefda0560995540",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1193015149,
-    "wof:lastmodified":1566663458,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412051,
     "wof:name":"Ntibane",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -70,9 +86,9 @@
 },
   "bbox": [
     28.2947,
-    -31.65759000000001,
+    -31.65759,
     28.2947,
-    -31.65759000000001
+    -31.65759
 ],
-  "geometry": {"coordinates":[28.2947,-31.65759000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.2947,-31.65759],"type":"Point"}
 }

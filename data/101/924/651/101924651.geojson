@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1535981.470344,
-    "geom:bbox":"23.720161438,-26.1003913879,23.7384643555,-26.0827064514",
+    "geom:area_square_m":1535973.841457,
+    "geom:bbox":"23.720161,-26.100391,23.738464,-26.082706",
     "geom:latitude":-26.091344,
-    "geom:longitude":23.729561,
+    "geom:longitude":23.72956,
     "iso:country":"ZA",
     "lbl:latitude":-26.09129,
     "lbl:longitude":23.72956,
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":1590692
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e8d717bd1cd5b114f6232ddc48186470",
+    "wof:geomhash":"1cfa4f59ffc1d1bf6660fe738bb82c41",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101924651,
-    "wof:lastmodified":1566663813,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412185,
     "wof:name":"Morokwaneng",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.72016143798828,
-    -26.10039138793945,
-    23.73846435546875,
-    -26.08270645141602
+    23.720161,
+    -26.100391,
+    23.738464,
+    -26.082706
 ],
-  "geometry": {"coordinates":[[[23.72536849975586,-26.08270645141602],[23.73846435546875,-26.09365463256836],[23.73429489135742,-26.10039138793945],[23.72016143798828,-26.08838272094727],[23.72536849975586,-26.08270645141602]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[23.725368,-26.082706],[23.738464,-26.093655],[23.734295,-26.100391],[23.720161,-26.088383],[23.725368,-26.082706]]],"type":"Polygon"}
 }

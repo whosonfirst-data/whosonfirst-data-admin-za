@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":650391.325986,
-    "geom:bbox":"30.4835186005,-30.6996974945,30.495382309,-30.6859855652",
+    "geom:area_square_m":650273.005237,
+    "geom:bbox":"30.483519,-30.699697,30.495382,-30.685986",
     "geom:latitude":-30.692218,
     "geom:longitude":30.487824,
     "iso:country":"ZA",
@@ -48,8 +48,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730549
+        1108730549,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9023bf64fcfe8e3507c284275db5da68",
+    "wof:geomhash":"2f534ffcf90e5f296ce34109c9282108",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +73,23 @@
         }
     ],
     "wof:id":101929315,
-    "wof:lastmodified":1582348506,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412250,
     "wof:name":"Sea Park",
     "wof:parent_id":1108730549,
     "wof:placetype":"locality",
@@ -83,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.48351860046387,
-    -30.69969749450684,
-    30.49538230895996,
-    -30.68598556518555
+    30.483519,
+    -30.699697,
+    30.495382,
+    -30.685986
 ],
-  "geometry": {"coordinates":[[[30.48766326904297,-30.69637107849121],[30.4842357635498,-30.69969749450684],[30.48351860046387,-30.69049453735352],[30.49538230895996,-30.68598556518555],[30.48766326904297,-30.69637107849121]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.487663,-30.696371],[30.484236,-30.699697],[30.483519,-30.690495],[30.495382,-30.685986],[30.487663,-30.696371]]],"type":"Polygon"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1001867
     },
     "wof:country":"ZA",
-    "wof:geomhash":"cc0aead439e01a0088d53d742e4effaa",
+    "wof:geomhash":"f21ccb5b3e7c84d311c651dae8eaf374",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1276799159,
-    "wof:lastmodified":1566663266,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411969,
     "wof:name":"Gingqi",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.15015,
-    -31.65289000000001,
+    -31.65289,
     28.15015,
-    -31.65289000000001
+    -31.65289
 ],
-  "geometry": {"coordinates":[28.15015,-31.65289000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.15015,-31.65289],"type":"Point"}
 }

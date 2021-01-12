@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":946606
     },
     "wof:country":"ZA",
-    "wof:geomhash":"25feaa7ddd73ee5fe5b408b854f5677c",
+    "wof:geomhash":"faa881d18f7936a4daf977ab3424498e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242991119,
-    "wof:lastmodified":1566664457,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412448,
     "wof:name":"Uitlanderskraal",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.73333,
-    -25.11667000000001,
+    -25.11667,
     26.73333,
-    -25.11667000000001
+    -25.11667
 ],
-  "geometry": {"coordinates":[26.73333,-25.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.73333,-25.11667],"type":"Point"}
 }

@@ -48,15 +48,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688899,
-        1108730591
+        1108730591,
+        85688899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":996803
     },
     "wof:country":"ZA",
-    "wof:geomhash":"490f5d168f403231bd5937b58924fbc5",
+    "wof:geomhash":"c92df6dc5fc3e349153bceec79034bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,23 @@
         }
     ],
     "wof:id":1276860539,
-    "wof:lastmodified":1566663187,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411935,
     "wof:name":"Hertzog",
     "wof:parent_id":1108730591,
     "wof:placetype":"locality",
@@ -78,9 +94,9 @@
 },
   "bbox": [
     23.28637,
-    -27.14032000000001,
+    -27.14032,
     23.28637,
-    -27.14032000000001
+    -27.14032
 ],
-  "geometry": {"coordinates":[23.28637,-27.14032000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.28637,-27.14032],"type":"Point"}
 }

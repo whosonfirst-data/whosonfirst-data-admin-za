@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976502
     },
     "wof:country":"ZA",
-    "wof:geomhash":"74c1dd83d9707f427ba7c36338f9523c",
+    "wof:geomhash":"6909bb1849462e11d3ae0a8ff5ae24e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1343766925,
-    "wof:lastmodified":1566662856,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411795,
     "wof:name":"Mhlangeni",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -71,9 +87,9 @@
 },
   "bbox": [
     29.00308,
-    -30.13412000000001,
+    -30.13412,
     29.00308,
-    -30.13412000000001
+    -30.13412
 ],
-  "geometry": {"coordinates":[29.00308,-30.13412000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.00308,-30.13412],"type":"Point"}
 }

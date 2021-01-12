@@ -38,7 +38,7 @@
         "gn:id":976865
     },
     "wof:country":"ZA",
-    "wof:geomhash":"27bba3fce062ffe552506c43dcca3e13",
+    "wof:geomhash":"6aea6b3cb3f6c857d89c1966cc2ce933",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -46,7 +46,23 @@
         }
     ],
     "wof:id":1209610455,
-    "wof:lastmodified":1566663375,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412015,
     "wof:name":"Metsemantsi (3)",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -57,9 +73,9 @@
 },
   "bbox": [
     23.16263,
-    -26.94494000000001,
+    -26.94494,
     23.16263,
-    -26.94494000000001
+    -26.94494
 ],
-  "geometry": {"coordinates":[23.16263,-26.94494000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.16263,-26.94494],"type":"Point"}
 }

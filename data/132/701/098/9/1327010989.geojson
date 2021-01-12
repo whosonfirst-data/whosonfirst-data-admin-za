@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688905,
-        1108730613
+        1108730613,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3365347
     },
     "wof:country":"ZA",
-    "wof:geomhash":"3514812fae06397a8f255f9abd6ab1ee",
+    "wof:geomhash":"dd5ad098b883323beaa7776fb51b4c33",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1327010989,
-    "wof:lastmodified":1566662639,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411708,
     "wof:name":"Koelfontein",
     "wof:parent_id":1108730613,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.86667000000001,
+    17.86667,
     -31.16667,
-    17.86667000000001,
+    17.86667,
     -31.16667
 ],
-  "geometry": {"coordinates":[17.86667000000001,-31.16667],"type":"Point"}
+  "geometry": {"coordinates":[17.86667,-31.16667],"type":"Point"}
 }

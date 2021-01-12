@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730563
+        1108730563,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11054655
     },
     "wof:country":"ZA",
-    "wof:geomhash":"9f751dd7795e30439dccb746b6b25931",
+    "wof:geomhash":"001efc006fbb2bab6385e5d294c7297a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -55,7 +55,23 @@
         }
     ],
     "wof:id":1242790819,
-    "wof:lastmodified":1566664435,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412440,
     "wof:name":"Shakaland",
     "wof:parent_id":1108730563,
     "wof:placetype":"locality",
@@ -66,9 +82,9 @@
 },
   "bbox": [
     31.48211,
-    -28.78052000000001,
+    -28.78052,
     31.48211,
-    -28.78052000000001
+    -28.78052
 ],
-  "geometry": {"coordinates":[31.48211,-28.78052000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.48211,-28.78052],"type":"Point"}
 }

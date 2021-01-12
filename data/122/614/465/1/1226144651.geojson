@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1006203
     },
     "wof:country":"ZA",
-    "wof:geomhash":"eb5953bd4e924bb1c752ef2daed168b3",
+    "wof:geomhash":"61a2c5e653eaaa276dbdef645191df2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1226144651,
-    "wof:lastmodified":1566664653,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412530,
     "wof:name":"Elandshoek",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.36906,
-    -30.00274000000001,
+    -30.00274,
     26.36906,
-    -30.00274000000001
+    -30.00274
 ],
-  "geometry": {"coordinates":[26.36906,-30.00274000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.36906,-30.00274],"type":"Point"}
 }

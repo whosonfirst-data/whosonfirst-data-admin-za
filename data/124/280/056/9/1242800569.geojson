@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013493
     },
     "wof:country":"ZA",
-    "wof:geomhash":"06cb0635e6b617c624f56b49a446eb5a",
+    "wof:geomhash":"a65afe3f2c44d48101162df2cba9598a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242800569,
-    "wof:lastmodified":1566664367,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412412,
     "wof:name":"Cibini",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     27.96667,
-    -31.86667000000001,
+    -31.86667,
     27.96667,
-    -31.86667000000001
+    -31.86667
 ],
-  "geometry": {"coordinates":[27.96667,-31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.96667,-31.86667],"type":"Point"}
 }

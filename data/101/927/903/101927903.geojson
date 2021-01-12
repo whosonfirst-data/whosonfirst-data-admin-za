@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
-    "geom:area_square_m":232078.589442,
-    "geom:bbox":"31.053445816,-29.7187423706,31.0598697662,-29.7125492096",
+    "geom:area_square_m":232076.355242,
+    "geom:bbox":"31.053446,-29.718742,31.05987,-29.712549",
     "geom:latitude":-29.715826,
     "geom:longitude":31.05634,
     "iso:country":"ZA",
@@ -62,8 +62,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688911,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
         "wk:page":"Mount Edgecombe"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"09f02af90654b92aa7d4b5bfad6bf394",
+    "wof:geomhash":"21d73ef7350bb3c8af87abf718c0c369",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +85,23 @@
         }
     ],
     "wof:id":101927903,
-    "wof:lastmodified":1566664019,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412266,
     "wof:name":"Mount Edgecombe",
     "wof:parent_id":1108730571,
     "wof:placetype":"locality",
@@ -95,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.05344581604004,
-    -29.71874237060547,
-    31.05986976623535,
-    -29.71254920959473
+    31.053446,
+    -29.718742,
+    31.05987,
+    -29.712549
 ],
-  "geometry": {"coordinates":[[[31.05646324157715,-29.71254920959473],[31.05986976623535,-29.7170295715332],[31.05499839782715,-29.71874237060547],[31.05344581604004,-29.71468353271484],[31.05646324157715,-29.71254920959473]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[31.056463,-29.712549],[31.05987,-29.71703],[31.054998,-29.718742],[31.053446,-29.714684],[31.056463,-29.712549]]],"type":"Polygon"}
 }

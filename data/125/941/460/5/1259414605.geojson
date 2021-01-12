@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1023564
     },
     "wof:country":"ZA",
-    "wof:geomhash":"10c985439fb86aaa20960ffe2f7ceca5",
+    "wof:geomhash":"4eff9a38783ea10d5af0719fe9eaed83",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +58,23 @@
         }
     ],
     "wof:id":1259414605,
-    "wof:lastmodified":1566664529,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412478,
     "wof:name":"Afzondering",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.95967000000001,
+    28.95967,
     -30.16389,
-    28.95967000000001,
+    28.95967,
     -30.16389
 ],
-  "geometry": {"coordinates":[28.95967000000001,-30.16389],"type":"Point"}
+  "geometry": {"coordinates":[28.95967,-30.16389],"type":"Point"}
 }

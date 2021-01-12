@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1013879
     },
     "wof:country":"ZA",
-    "wof:geomhash":"b5dc7c877a2628d5f5ab1b29e37a3e16",
+    "wof:geomhash":"8fd9310176d910e4083ab84122fcf078",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326929717,
-    "wof:lastmodified":1566662668,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411720,
     "wof:name":"Cat's Pass",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.41659000000001,
+    28.41659,
     -32.4311,
-    28.41659000000001,
+    28.41659,
     -32.4311
 ],
-  "geometry": {"coordinates":[28.41659000000001,-32.4311],"type":"Point"}
+  "geometry": {"coordinates":[28.41659,-32.4311],"type":"Point"}
 }

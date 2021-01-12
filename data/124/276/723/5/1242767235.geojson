@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730581
+        1108730581,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":964261
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bf67e925a9396585d950f8d073f1602b",
+    "wof:geomhash":"2cbebeada04ab6b2ab2bfb3976f2f178",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1242767235,
-    "wof:lastmodified":1566664442,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412442,
     "wof:name":"Poung",
     "wof:parent_id":1108730581,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     30.3,
-    -24.36667000000001,
+    -24.36667,
     30.3,
-    -24.36667000000001
+    -24.36667
 ],
-  "geometry": {"coordinates":[30.3,-24.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.3,-24.36667],"type":"Point"}
 }

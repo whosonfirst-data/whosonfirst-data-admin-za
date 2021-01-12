@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730517
+        1108730517,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985382
     },
     "wof:country":"ZA",
-    "wof:geomhash":"41c2bcebd5c6930e229ee30754f37c97",
+    "wof:geomhash":"7200cc57538bf0b89dfcbb6418fcb915",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +59,23 @@
         }
     ],
     "wof:id":1259488003,
-    "wof:lastmodified":1566664517,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412473,
     "wof:name":"KwaNontsinga",
     "wof:parent_id":1108730517,
     "wof:placetype":"locality",
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.36667000000001,
+    28.36667,
     -32.61667,
-    28.36667000000001,
+    28.36667,
     -32.61667
 ],
-  "geometry": {"coordinates":[28.36667000000001,-32.61667],"type":"Point"}
+  "geometry": {"coordinates":[28.36667,-32.61667],"type":"Point"}
 }

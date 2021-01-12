@@ -40,7 +40,7 @@
         "gn:id":991175
     },
     "wof:country":"ZA",
-    "wof:geomhash":"95f0179d1c65f6ebb241a96f18666588",
+    "wof:geomhash":"4f295cd89a7f66b28d039ab4cf58178f",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209399193,
-    "wof:lastmodified":1566663327,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411995,
     "wof:name":"Kgopung",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.60654000000001,
+    28.60654,
     -23.83085,
-    28.60654000000001,
+    28.60654,
     -23.83085
 ],
-  "geometry": {"coordinates":[28.60654000000001,-23.83085],"type":"Point"}
+  "geometry": {"coordinates":[28.60654,-23.83085],"type":"Point"}
 }

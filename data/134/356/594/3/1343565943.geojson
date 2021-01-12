@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":936988
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4a998cdc50245ef0d6ea41d2d27b45ca",
+    "wof:geomhash":"9a7cbc1f48898fbbea33b68b81736b78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1343565943,
-    "wof:lastmodified":1566662877,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411806,
     "wof:name":"Zintukwini",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.46968,
-    -31.58917000000001,
+    -31.58917,
     28.46968,
-    -31.58917000000001
+    -31.58917
 ],
-  "geometry": {"coordinates":[28.46968,-31.58917000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.46968,-31.58917],"type":"Point"}
 }

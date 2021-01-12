@@ -40,7 +40,7 @@
         "gn:id":1005706
     },
     "wof:country":"ZA",
-    "wof:geomhash":"c268937e4dcf3b1c790f19a2a0d81b19",
+    "wof:geomhash":"93d07d63e5cfa4d2115a3771f65b3b88",
     "wof:hierarchy":[
         {
             "country_id":85633813,
@@ -48,7 +48,23 @@
         }
     ],
     "wof:id":1209219445,
-    "wof:lastmodified":1566663422,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412035,
     "wof:name":"eLundi",
     "wof:parent_id":85633813,
     "wof:placetype":"locality",
@@ -59,9 +75,9 @@
 },
   "bbox": [
     28.68255,
-    -30.90852000000001,
+    -30.90852,
     28.68255,
-    -30.90852000000001
+    -30.90852
 ],
-  "geometry": {"coordinates":[28.68255,-30.90852000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.68255,-30.90852],"type":"Point"}
 }

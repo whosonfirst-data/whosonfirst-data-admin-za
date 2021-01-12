@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730523
+        1108730523,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":976686
     },
     "wof:country":"ZA",
-    "wof:geomhash":"73777f7512694976952b729b962feffd",
+    "wof:geomhash":"3ac8e78d61275a0fd4867b977e22a804",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293888397,
-    "wof:lastmodified":1566663168,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411928,
     "wof:name":"Mfundeni",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     29.31667,
-    -31.61667000000001,
+    -31.61667,
     29.31667,
-    -31.61667000000001
+    -31.61667
 ],
-  "geometry": {"coordinates":[29.31667,-31.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.31667,-31.61667],"type":"Point"}
 }

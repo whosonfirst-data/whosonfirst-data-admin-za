@@ -35,8 +35,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688923,
-        1108730509
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +44,7 @@
         "wk:page":"Trevallyn%2C_Gauteng"
     },
     "wof:country":"ZA",
-    "wof:geomhash":"bb93c9e86e88f2600152f00161a65d10",
+    "wof:geomhash":"47317a304b8cbf6f7417a7953169fa1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -55,7 +55,23 @@
         }
     ],
     "wof:id":1360177913,
-    "wof:lastmodified":1566663787,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412174,
     "wof:name":"Trevallyn",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.95169000000001,
+    27.95169,
     -26.0196,
-    27.95169000000001,
+    27.95169,
     -26.0196
 ],
-  "geometry": {"coordinates":[27.95169000000001,-26.0196],"type":"Point"}
+  "geometry": {"coordinates":[27.95169,-26.0196],"type":"Point"}
 }

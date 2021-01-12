@@ -98,15 +98,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730607
+        1108730607,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1014467
     },
     "wof:country":"ZA",
-    "wof:geomhash":"4801bfc3a8918b3bee62de486883754d",
+    "wof:geomhash":"582cb0d34ec33686420bb12e51925022",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +117,23 @@
         }
     ],
     "wof:id":1226738833,
-    "wof:lastmodified":1566664617,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412514,
     "wof:name":"Buxton",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",
@@ -128,9 +144,9 @@
 },
   "bbox": [
     24.63333,
-    -27.61667000000001,
+    -27.61667,
     24.63333,
-    -27.61667000000001
+    -27.61667
 ],
-  "geometry": {"coordinates":[24.63333,-27.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.63333,-27.61667],"type":"Point"}
 }

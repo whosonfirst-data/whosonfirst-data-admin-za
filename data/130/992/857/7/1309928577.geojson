@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":970839
     },
     "wof:country":"ZA",
-    "wof:geomhash":"38c4c9048069b38b00a07e72c012fbe2",
+    "wof:geomhash":"e8af2832b0466f9cc1b79531e4641605",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1309928577,
-    "wof:lastmodified":1566664188,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412336,
     "wof:name":"Ngxangxasi",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     28.14584,
-    -31.55792000000001,
+    -31.55792,
     28.14584,
-    -31.55792000000001
+    -31.55792
 ],
-  "geometry": {"coordinates":[28.14584,-31.55792000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.14584,-31.55792],"type":"Point"}
 }

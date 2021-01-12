@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730519
+        1108730519,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":971096
     },
     "wof:country":"ZA",
-    "wof:geomhash":"0a115728f61bda2af3492e0e3fa32e57",
+    "wof:geomhash":"cd694a66224ec7c3023238d8bfae5044",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1360308157,
-    "wof:lastmodified":1566663765,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412164,
     "wof:name":"Ngojn",
     "wof:parent_id":1108730519,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.91622000000001,
+    27.91622,
     -31.83072,
-    27.91622000000001,
+    27.91622,
     -31.83072
 ],
-  "geometry": {"coordinates":[27.91622000000001,-31.83072],"type":"Point"}
+  "geometry": {"coordinates":[27.91622,-31.83072],"type":"Point"}
 }

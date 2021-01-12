@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730521
+        1108730521,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":954510
     },
     "wof:country":"ZA",
-    "wof:geomhash":"070d8d961556f633322c75ead3623b9d",
+    "wof:geomhash":"753fd4f474191469cddd70f115ccc087",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1293882883,
-    "wof:lastmodified":1566663163,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411926,
     "wof:name":"Smiling Valley",
     "wof:parent_id":1108730521,
     "wof:placetype":"locality",
@@ -65,9 +81,9 @@
 },
   "bbox": [
     26.78448,
-    -31.01907000000001,
+    -31.01907,
     26.78448,
-    -31.01907000000001
+    -31.01907
 ],
-  "geometry": {"coordinates":[26.78448,-31.01907000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.78448,-31.01907],"type":"Point"}
 }

@@ -197,8 +197,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688915,
-        1108730531
+        1108730531,
+        85688915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -216,7 +216,23 @@
         }
     ],
     "wof:id":1193139295,
-    "wof:lastmodified":1566663467,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412054,
     "wof:name":"Waterford",
     "wof:parent_id":1108730531,
     "wof:placetype":"locality",

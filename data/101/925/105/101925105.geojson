@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1138937.100251,
-    "geom:bbox":"28.2410469055,-25.270570755,28.2562904358,-25.2580394745",
+    "geom:area_square_m":1138967.196293,
+    "geom:bbox":"28.241047,-25.270571,28.25629,-25.258039",
     "geom:latitude":-25.264122,
     "geom:longitude":28.248595,
     "iso:country":"ZA",
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +46,7 @@
         "gp:id":55880971
     },
     "wof:country":"ZA",
-    "wof:geomhash":"8b13d9ec7addacc9d4ea3a071fd668f3",
+    "wof:geomhash":"64d799501dce13ff6ad08441be9065b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +57,23 @@
         }
     ],
     "wof:id":101925105,
-    "wof:lastmodified":1566663909,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412224,
     "wof:name":"Maubane",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.24104690551758,
-    -25.27057075500488,
-    28.25629043579102,
-    -25.2580394744873
+    28.241047,
+    -25.270571,
+    28.25629,
+    -25.258039
 ],
-  "geometry": {"coordinates":[[[28.24104690551758,-25.25968170166016],[28.24930953979492,-25.2580394744873],[28.25629043579102,-25.26775932312012],[28.24773979187012,-25.27057075500488],[28.24104690551758,-25.25968170166016]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.241047,-25.259682],[28.24931,-25.258039],[28.25629,-25.267759],[28.24774,-25.270571],[28.241047,-25.259682]]],"type":"Polygon"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688927,
-        1108730525
+        1108730525,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":985999
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d5701839e8de083b816a531340e79d63",
+    "wof:geomhash":"b2682492fa931265feeb8cbb360b34c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +54,23 @@
         }
     ],
     "wof:id":1326962077,
-    "wof:lastmodified":1566662753,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411757,
     "wof:name":"KwaBipa",
     "wof:parent_id":1108730525,
     "wof:placetype":"locality",
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.67467000000001,
+    29.67467,
     -30.88939,
-    29.67467000000001,
+    29.67467,
     -30.88939
 ],
-  "geometry": {"coordinates":[29.67467000000001,-30.88939],"type":"Point"}
+  "geometry": {"coordinates":[29.67467,-30.88939],"type":"Point"}
 }

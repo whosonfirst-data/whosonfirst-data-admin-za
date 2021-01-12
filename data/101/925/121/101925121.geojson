@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1419610.256408,
-    "geom:bbox":"28.257434845,-25.2861461639,28.2736797333,-25.2710170746",
+    "geom:area_square_m":1419647.341998,
+    "geom:bbox":"28.257435,-25.286146,28.27368,-25.271017",
     "geom:latitude":-25.278727,
     "geom:longitude":28.265672,
     "iso:country":"ZA",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688931,
-        1108730603
+        1108730603,
+        85688931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55880972
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1f35531cd0ed86b16189b4e8be49926a",
+    "wof:geomhash":"18bf0e836ad1dd2f8e5bc9585bfd603d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101925121,
-    "wof:lastmodified":1566663933,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412233,
     "wof:name":"Dihibidung",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.2574348449707,
-    -25.28614616394043,
-    28.27367973327637,
-    -25.27101707458496
+    28.257435,
+    -25.286146,
+    28.27368,
+    -25.271017
 ],
-  "geometry": {"coordinates":[[[28.2574348449707,-25.27441596984863],[28.26628875732422,-25.27101707458496],[28.27367973327637,-25.28392219543457],[28.26543045043945,-25.28614616394043],[28.2574348449707,-25.27441596984863]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.257435,-25.274416],[28.266289,-25.271017],[28.27368,-25.283922],[28.26543,-25.286146],[28.257435,-25.274416]]],"type":"Polygon"}
 }

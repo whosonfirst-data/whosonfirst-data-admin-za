@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730577
+        1108730577,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":941463
     },
     "wof:country":"ZA",
-    "wof:geomhash":"1afa4ea44bfef2710f0ee979de674d78",
+    "wof:geomhash":"5168dbf982c96c13b8a3d4c6e759976f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +60,23 @@
         }
     ],
     "wof:id":1276317683,
-    "wof:lastmodified":1566663297,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610411983,
     "wof:name":"Waterval",
     "wof:parent_id":1108730577,
     "wof:placetype":"locality",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.30089000000001,
+    29.30089,
     -24.09729,
-    29.30089000000001,
+    29.30089,
     -24.09729
 ],
-  "geometry": {"coordinates":[29.30089000000001,-24.09729],"type":"Point"}
+  "geometry": {"coordinates":[29.30089,-24.09729],"type":"Point"}
 }

@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":972050
     },
     "wof:country":"ZA",
-    "wof:geomhash":"e05bcaa2aa38e07f15a567055bccde15",
+    "wof:geomhash":"dafb0acc0f65920edc790dc36a39f283",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,23 @@
         }
     ],
     "wof:id":1309890215,
-    "wof:lastmodified":1566664200,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412344,
     "wof:name":"Natalie",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -83,9 +99,9 @@
 },
   "bbox": [
     30.19025,
-    -22.77292000000001,
+    -22.77292,
     30.19025,
-    -22.77292000000001
+    -22.77292
 ],
-  "geometry": {"coordinates":[30.19025,-22.77292000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.19025,-22.77292],"type":"Point"}
 }

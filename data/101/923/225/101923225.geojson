@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":920236.672211,
-    "geom:bbox":"29.9307556152,-23.3698425293,29.9424953461,-23.3585910797",
-    "geom:latitude":-23.364249,
+    "geom:area_square_m":920215.026583,
+    "geom:bbox":"29.930756,-23.369843,29.942495,-23.358591",
+    "geom:latitude":-23.36425,
     "geom:longitude":29.936792,
     "iso:country":"ZA",
     "lbl:latitude":-23.364304,
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        85688935,
-        1108730575
+        1108730575,
+        85688935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1586550
     },
     "wof:country":"ZA",
-    "wof:geomhash":"80104836fc016e1af4f4274e1d3f2fed",
+    "wof:geomhash":"794696c7315b36833b9cb860185fbfdc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +56,23 @@
         }
     ],
     "wof:id":101923225,
-    "wof:lastmodified":1566663891,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1610412216,
     "wof:name":"Muumoni",
     "wof:parent_id":1108730575,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.93075561523438,
-    -23.36984252929688,
-    29.94249534606934,
-    -23.35859107971191
+    29.930756,
+    -23.369843,
+    29.942495,
+    -23.358591
 ],
-  "geometry": {"coordinates":[[[29.94249534606934,-23.36690902709961],[29.93398094177246,-23.36984252929688],[29.93075561523438,-23.36189651489258],[29.93997573852539,-23.35859107971191],[29.94249534606934,-23.36690902709961]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.942495,-23.366909],[29.933981,-23.369843],[29.930756,-23.361897],[29.939976,-23.358591],[29.942495,-23.366909]]],"type":"Polygon"}
 }
