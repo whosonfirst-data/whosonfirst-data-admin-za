@@ -19,8 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u0627\u062a\u064a\u0643\u0648\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09b2\u09be\u09a4\u09bf\u0995\u09c1\u09b2\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Hlatikulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bb\u03b1\u03c4\u03b9\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0627\u062a\u06cc\u06a9\u0648\u0644\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05dc\u05d8\u05d9\u05e7\u05d5\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0932\u093e\u091f\u093f\u0915\u0942\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:ind_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:kor_x_preferred":[
+        "\ud758\ub77c\ud2f0\ucfe8\ub8e8"
     ],
     "name:nld_x_preferred":[
         "Hlatikulu"
@@ -34,8 +61,20 @@
     "name:ron_x_preferred":[
         "Hlatikulu"
     ],
+    "name:spa_x_preferred":[
+        "Hlatikulu"
+    ],
     "name:swe_x_preferred":[
         "Hlatikulu"
+    ],
+    "name:tur_x_preferred":[
+        "Hlatikulu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043b\u0430\u0442\u0456\u043a\u0443\u043b\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0679\u06cc\u06a9\u0648\u0644\u0648"
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u62c9\u8482\u5eab\u76e7"
@@ -61,8 +100,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730553,
-        85688911
+        85688911,
+        1108730553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +135,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412258,
+    "wof:lastmodified":1636501684,
     "wof:name":"Hlatikulu",
     "wof:parent_id":1108730553,
     "wof:placetype":"locality",

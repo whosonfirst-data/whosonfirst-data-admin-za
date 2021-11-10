@@ -23,14 +23,38 @@
     "name:afr_x_preferred":[
         "Port St. Johns"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09a8\u09cd\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Port Saint John's"
     ],
     "name:deu_x_preferred":[
         "Port St. Johns"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u03a3\u03ad\u03b9\u03bd\u03c4 \u03a4\u03b6\u03bf\u03bd\u03c2"
+    ],
     "name:est_x_preferred":[
         "Port St. Johns"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0627\u0633\u062a\u06cc \u062c\u0627\u0646\u0632"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e1\u05e0\u05d8 \u05d2'\u05d5\u05e0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0938\u0947\u0902\u091f \u091c\u0949\u0928\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:ind_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8 \uc138\uc778\ud2b8 \uc874\uc2a4"
     ],
     "name:nso_x_preferred":[
         "Port St Johns"
@@ -38,8 +62,29 @@
     "name:ron_x_preferred":[
         "Port St. Johns"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:swe_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:tur_x_preferred":[
+        "Port St. Johns"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d\u0441"
+    ],
     "name:und_x_variant":[
         "Umzimvubu"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0633\u06cc\u0646\u0679 \u062c\u0648\u0646\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Port St. Johns"
     ],
     "name:xho_x_preferred":[
         "Port St Johns"
@@ -159,8 +204,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730523,
-        85688927
+        85688927,
+        1108730523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -196,7 +241,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412307,
+    "wof:lastmodified":1636501691,
     "wof:name":"Port St. Johns",
     "wof:parent_id":1108730523,
     "wof:placetype":"locality",

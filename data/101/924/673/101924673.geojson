@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u064a\u0628\u0648\u0631\u063a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cd\u09b0\u09bf\u09ac\u09be\u09b0\u09cd\u0997"
+    ],
     "name:ceb_x_preferred":[
         "Vryburg"
     ],
@@ -44,17 +47,35 @@
     "name:est_x_preferred":[
         "Vryburg"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u06cc\u0628\u0648\u0631\u06af"
+    ],
     "name:fra_x_preferred":[
+        "Vryburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d9\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u094d\u0930\u093e\u0907\u092c\u0930\u094d\u0917"
+    ],
+    "name:hun_x_preferred":[
         "Vryburg"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0580\u0565\u0575\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Vryburg"
     ],
     "name:ita_x_preferred":[
         "Vryburg"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30a4\u30d0\u30fc\u30b0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub9ac\ubd80\ub974\ud06c"
     ],
     "name:mlg_x_preferred":[
         "Vryburg"
@@ -82,6 +103,24 @@
     ],
     "name:rus_x_variant":[
         "\u0424\u0440\u0435\u0439\u0431\u0443\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Vryburg"
+    ],
+    "name:swe_x_preferred":[
+        "Vryburg"
+    ],
+    "name:tur_x_preferred":[
+        "Vryburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u0439\u0431\u0443\u0440\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0626\u06d2\u0628\u0631\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Vryburg"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u96f7\u5821"
@@ -202,8 +241,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730607,
-        85688931
+        85688931,
+        1108730607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,7 +282,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412183,
+    "wof:lastmodified":1636501678,
     "wof:name":"Vryburg",
     "wof:parent_id":1108730607,
     "wof:placetype":"locality",

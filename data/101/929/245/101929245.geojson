@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u062a\u064a\u0646\u0647\u0627\u063a"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u0987\u09a4\u09c7\u09a8\u09b9\u09cd\u09af\u09be\u0997"
+    ],
     "name:bul_x_preferred":[
         "\u042e\u0442\u044a\u043d\u0445\u0430\u0445"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Uitenhage"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c4\u03b5\u03bd\u03b3\u03ac\u03b3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Uitenhage"
@@ -59,11 +65,26 @@
     "name:gla_x_preferred":[
         "Uitenhage"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d8\u05e0\u05d7\u05d0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0942\u091f\u0947\u0928\u0939\u0947\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Uitenhage"
+    ],
+    "name:ind_x_preferred":[
+        "Uitenhage"
+    ],
     "name:ita_x_preferred":[
         "Uitenhage"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30a4\u30c6\u30f3\u30cf\u30fc\u30d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc704\ud150\ud558\uac8c"
     ],
     "name:mlg_x_preferred":[
         "Uitenhage"
@@ -98,11 +119,23 @@
     "name:swa_x_preferred":[
         "Uitenhage"
     ],
+    "name:swe_x_preferred":[
+        "Uitenhage"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e2d\u0e22\u0e40\u0e17\u0e19\u0e2e\u0e32\u0e40\u0e01"
     ],
+    "name:tur_x_preferred":[
+        "Uitenhage"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0439\u0442\u0435\u043d\u0445\u0430\u0445\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0626\u06cc\u0679\u0646\u06c1\u06cc\u06af\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Uitenhage"
     ],
     "name:zho_x_preferred":[
         "\u5c24\u4e39\u8d6b\u652f"
@@ -226,8 +259,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730527,
-        85688927
+        85688927,
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -269,7 +302,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412247,
+    "wof:lastmodified":1636501682,
     "wof:name":"Uitenhage",
     "wof:parent_id":1108730527,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0648\u0641\u0648\u0631\u062a \u0648\u064a\u0633\u062a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f \u0993\u09df\u09c7\u09b8\u09cd\u099f"
+    ],
     "name:ceb_x_preferred":[
         "Beaufort West"
     ],
@@ -40,6 +43,9 @@
     "name:deu_x_preferred":[
         "Beaufort West"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c6\u03cc\u03c1 \u0393\u03bf\u03c5\u03ad\u03c3\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Beaufort West"
     ],
@@ -49,17 +55,35 @@
     "name:est_x_preferred":[
         "Beaufort West"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0631\u062a \u0648\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Beaufort West"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d5\u05e4\u05d5\u05e8\u05d8 \u05d5\u05e1\u05d8"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u092f\u0942\u092b\u093c\u094b\u0930\u094d\u091f \u0935\u0947\u0938\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Beaufort West"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0586\u0578\u057f\u0580 \u0548\u0582\u0565\u057d\u057f"
     ],
+    "name:ind_x_preferred":[
+        "Beaufort West"
+    ],
     "name:ita_x_preferred":[
         "Beaufort West"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e5\u30fc\u30d5\u30a9\u30fc\u30c8\u30a6\u30a8\u30b9\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ud37c\ud2b8 \uc6e8\uc2a4\ud2b8"
     ],
     "name:mlg_x_preferred":[
         "Beaufort West"
@@ -97,11 +121,17 @@
     "name:tgl_x_preferred":[
         "Beaufort West"
     ],
+    "name:tur_x_preferred":[
+        "Beaufort West"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0442-\u0412\u0435\u0441\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u0641\u0648\u0631\u0679 \u063a\u0631\u0628\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Beaufort West"
     ],
     "name:zho_x_preferred":[
         "\u897f\u535a\u798f\u7279"
@@ -123,8 +153,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730623,
-        85688905
+        85688905,
+        1108730623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +191,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412390,
+    "wof:lastmodified":1636501700,
     "wof:name":"Beaufort West",
     "wof:parent_id":1108730623,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0646\u062f\u0641\u0648\u0631\u062a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09ab\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0434\u0444\u043e\u0440\u0442"
     ],
@@ -38,17 +41,41 @@
     "name:deu_x_preferred":[
         "Brandfort"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03bd\u03c4\u03c6\u03bf\u03c1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Brandfort"
     ],
     "name:est_x_preferred":[
         "Brandfort"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u062f\u0641\u0648\u0631\u062a"
+    ],
     "name:hak_x_preferred":[
+        "Brandfort"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e0\u05d3\u05e4\u05d5\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u093e\u0902\u0921\u092b\u093c\u094b\u0930\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Brandfort"
+    ],
+    "name:ind_x_preferred":[
+        "Brandfort"
+    ],
+    "name:ita_x_preferred":[
         "Brandfort"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30f3\u30c9\u30d5\u30a9\u30fc\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub79c\ub4dc\ud3ec\ud2b8"
     ],
     "name:nld_x_preferred":[
         "Brandfort"
@@ -63,6 +90,27 @@
         "Brandfort"
     ],
     "name:ron_x_preferred":[
+        "Brandfort"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0434\u0444\u043e\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Brandfort"
+    ],
+    "name:swe_x_preferred":[
+        "Brandfort"
+    ],
+    "name:tur_x_preferred":[
+        "Brandfort"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0434\u0444\u043e\u0440\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u0646\u0688\u0641\u0648\u0631\u0679"
+    ],
+    "name:vie_x_preferred":[
         "Brandfort"
     ],
     "name:zho_x_preferred":[
@@ -184,8 +232,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730533,
-        85688915
+        85688915,
+        1108730533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -226,7 +274,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412286,
+    "wof:lastmodified":1636501688,
     "wof:name":"Brandfort",
     "wof:parent_id":1108730533,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "Mackenzie"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041c\u0430\u043a\u043a\u0435\u0301\u043d\u0437\u0438"
+    ],
+    "name:rus_x_variant":[
         "\u041c\u0430\u043a\u043a\u0435\u043d\u0437\u0438"
     ],
     "name:slv_x_preferred":[
@@ -98,17 +101,35 @@
         "\u041c\u0430\u043a\u0435\u043d\u0437\u0438"
     ],
     "name:swe_x_preferred":[
+        "Mackenziefloden"
+    ],
+    "name:swe_x_variant":[
+        "Mackenzie"
+    ],
+    "name:tur_x_preferred":[
         "Mackenzie"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043a\u0435\u043d\u0437\u0456"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u06cc\u0646\u0632\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mackenzie"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9ea6\u80af\u9f50\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u80af\u5409\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730535,
-        85688915
+        85688915,
+        1108730535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +163,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412339,
+    "wof:lastmodified":1636501693,
     "wof:name":"Mackenzie",
     "wof:parent_id":1108730535,
     "wof:placetype":"locality",

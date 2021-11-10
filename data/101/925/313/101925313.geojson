@@ -22,11 +22,38 @@
     "name:afr_x_preferred":[
         "Bethanie"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062b\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a5\u09be\u09a8\u09bf\u0987"
+    ],
     "name:deu_x_preferred":[
         "Bethanie"
     ],
     "name:eng_x_preferred":[
         "Bethanie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u0627\u0646\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d8\u05e0\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0925\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Bethanie"
+    ],
+    "name:ind_x_preferred":[
+        "Bethanie"
+    ],
+    "name:ita_x_preferred":[
+        "Bethanien"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub2e4\ub2c8"
     ],
     "name:nld_x_preferred":[
         "Bethanie"
@@ -34,11 +61,32 @@
     "name:nso_x_preferred":[
         "Bethanie"
     ],
+    "name:por_x_preferred":[
+        "Bethanie"
+    ],
+    "name:swe_x_preferred":[
+        "Bethanie"
+    ],
+    "name:tur_x_preferred":[
+        "Bethanie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0442\u0430\u043d\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a\u06be\u0627\u0646\u06cc\u060c \u0634\u0645\u0627\u0644 \u0645\u063a\u0631\u0628\u06cc"
     ],
     "name:urd_x_variant":[
         "\u0628\u06cc\u062a\u06be\u0627\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bethanie"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u5854\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u5854\u5c3c"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -58,8 +106,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730603,
-        85688931
+        85688931,
+        1108730603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +143,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412233,
+    "wof:lastmodified":1636501681,
     "wof:name":"Bethanie",
     "wof:parent_id":1108730603,
     "wof:placetype":"locality",

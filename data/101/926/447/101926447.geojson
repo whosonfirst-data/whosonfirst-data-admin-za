@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u064a\u0641\u0633\u062a\u0631\u0648\u0645"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u099f\u099b\u09c7\u09b8\u09cd\u099f\u09cd\u09b0\u09c1\u09ae"
+    ],
     "name:cat_x_preferred":[
         "Potchefstroom"
     ],
@@ -38,6 +41,9 @@
     "name:deu_x_preferred":[
         "Potchefstroom"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03c4\u03c3\u03b5\u03c6\u03c3\u03c4\u03c1\u03cc\u03bf\u03c5\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Potchefstroom"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:est_x_preferred":[
         "Potchefstroom"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0686\u0641\u0633\u0631\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "Potchefstroom"
@@ -61,6 +70,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0579\u057f\u0565\u0586\u057d\u057f\u0580\u0578\u0582\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "Potchefstroom"
     ],
     "name:ita_x_preferred":[
         "Potchefstroom"
@@ -122,10 +134,16 @@
     "name:tur_x_preferred":[
         "Potchefstroom"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0447\u0435\u0444\u0441\u0442\u0440\u0443\u043c"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0679\u0634\u06cc\u0641\u0679\u0633\u0631\u0648\u0645"
     ],
     "name:ven_x_preferred":[
+        "Potchefstroom"
+    ],
+    "name:vie_x_preferred":[
         "Potchefstroom"
     ],
     "name:zho_x_preferred":[
@@ -248,8 +266,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730609,
-        85688931
+        85688931,
+        1108730609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,7 +311,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412279,
+    "wof:lastmodified":1636501687,
     "wof:name":"Potchefstroom",
     "wof:parent_id":1108730609,
     "wof:placetype":"locality",

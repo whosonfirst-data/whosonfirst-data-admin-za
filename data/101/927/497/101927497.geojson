@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u064a\u0647\u064a\u062f"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cd\u09b0\u09bf\u09b9\u09c7\u0987\u09a1"
+    ],
     "name:cat_x_preferred":[
         "Vryheid"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Vryheid"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03ac\u03b9\u03c7\u03b1\u03ca\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Vryheid"
@@ -44,10 +50,25 @@
     "name:est_x_preferred":[
         "Vryheid"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u06cc\u0647\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
         "Vryheid"
     ],
     "name:hak_x_preferred":[
+        "Vryheid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05e8\u05d4\u05d9\u05d9\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u094d\u0930\u093e\u0907\u0939\u0940\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Vryheid"
+    ],
+    "name:ind_x_preferred":[
         "Vryheid"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +76,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30ea\u30d8\u30a4\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub9ac\ud558\uc774\ub4dc"
     ],
     "name:mlg_x_preferred":[
         "Vryheid"
@@ -81,6 +105,21 @@
         "\u0424\u0440\u0435\u0439\u0445\u0435\u0439\u0434"
     ],
     "name:spa_x_preferred":[
+        "Vryheid"
+    ],
+    "name:swe_x_preferred":[
+        "Vryheid"
+    ],
+    "name:tur_x_preferred":[
+        "Vryheid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u0439\u0445\u0430\u0439\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0627\u0626\u06d2\u06c1\u06cc\u0688"
+    ],
+    "name:vie_x_preferred":[
         "Vryheid"
     ],
     "name:war_x_preferred":[
@@ -111,8 +150,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730559,
-        85688911
+        85688911,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +189,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412260,
+    "wof:lastmodified":1636501685,
     "wof:name":"Vryheid",
     "wof:parent_id":1108730559,
     "wof:placetype":"locality",

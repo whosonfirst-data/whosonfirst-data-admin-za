@@ -65,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab0\u0abf\u0aa8\u0abf\u0a9c\u0ac0\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e8\u05d9\u05e0\u05d9\u05d2\u05d9\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0947\u0930\u0940\u0928\u0940\u0917\u093f\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Vereeniging"
     ],
     "name:ind_x_preferred":[
         "Vereeniging"
@@ -290,8 +296,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730541,
-        85688923
+        85688923,
+        1108730541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -332,7 +338,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412295,
+    "wof:lastmodified":1636501689,
     "wof:name":"Vereeniging",
     "wof:parent_id":1108730541,
     "wof:placetype":"locality",
