@@ -1,0 +1,105 @@
+{
+  "id": 102546665,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2006-01-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "2006",
+    "edtf:inception": "1994",
+    "geom:area": 0.00004225806550000017,
+    "geom:area_square_m": 469171.78212,
+    "geom:bbox": "28.238297,-26.122576,28.247271,-26.113665",
+    "geom:latitude": -26.11852111129637,
+    "geom:longitude": 28.242705772774116,
+    "iso:country": "ZA",
+    "lbl:latitude": -26.138248,
+    "lbl:longitude": 28.233901,
+    "mps:latitude": -26.138248,
+    "mps:longitude": 28.233901,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "oa:elevation_ft": "5558",
+    "oa:type": "large_airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424942,
+      "county_id": 56189451,
+      "localadmin_id": 56189689,
+      "planet_id": 1,
+      "state_id": 2346981
+    },
+    "wof:belongsto": [
+      85783143,
+      102191573,
+      85633813,
+      101925731,
+      102089237,
+      85688923
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12517424,
+      "iata:code": "JNB",
+      "icao:code": "FAOR",
+      "oa:id": "2792",
+      "wd:id": "Q821750"
+    },
+    "wof:country": "ZA",
+    "wof:created": 1640225370,
+    "wof:geomhash": "96652d4c3423b202a93aa60fdfb597f3",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1746875291,
+        "continent_id": 102191573,
+        "country_id": 85633813,
+        "county_id": 102089237,
+        "locality_id": 101925731,
+        "neighbourhood_id": 85783143,
+        "region_id": 85688923
+      }
+    ],
+    "wof:id": 1746875291,
+    "wof:lang_x_official": [
+      "eng"
+    ],
+    "wof:lang_x_spoken": [
+      "eng",
+      "zul",
+      "xho",
+      "afr",
+      "nso",
+      "tsn",
+      "sot",
+      "tso",
+      "ssw",
+      "ven",
+      "nbl"
+    ],
+    "wof:lastmodified": 1640225521,
+    "wof:name": "Johannesburg International Airport",
+    "wof:parent_id": 85783143,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-za",
+    "wof:superseded_by": [
+      102546665
+    ],
+    "wof:supersedes": [
+      1746875293    		      
+    ],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    28.238297,
+    -26.122576,
+    28.247271,
+    -26.113665
+  ],
+  "geometry": {"coordinates":[[[28.238297,-26.11953],[28.239777,-26.113665],[28.245283,-26.117556],[28.245943,-26.117773],[28.247271,-26.118921],[28.246836,-26.122576],[28.238297,-26.11953]]],"type":"Polygon"}
+}
