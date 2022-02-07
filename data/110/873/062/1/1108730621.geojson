@@ -2,7 +2,7 @@
   "id": 1108730621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2018-05-01",
     "edtf:inception":"uuuu",
     "geom:area":2.272098,
     "geom:area_square_m":23340380232.080219,
@@ -32,7 +32,7 @@
     "mps:latitude":-33.884442,
     "mps:longitude":21.563968,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Eden-distriksmunisipaliteit"
@@ -150,7 +150,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412083,
+    "wof:lastmodified":1644273218,
     "wof:name":"Eden",
     "wof:parent_id":85688905,
     "wof:placetype":"county",
@@ -159,7 +159,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:shortcode":"ED",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1762966207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
