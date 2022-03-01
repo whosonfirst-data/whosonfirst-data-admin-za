@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000093,
+    "geom:area":0.0,
     "geom:area_square_m":953136.606196,
-    "geom:bbox":"18.435774,-33.680347,18.448225,-33.667065",
-    "geom:latitude":-33.673511,
-    "geom:longitude":18.442694,
+    "geom:bbox":"18.443308,-33.67396,18.443308,-33.67396",
+    "geom:latitude":-33.67396,
+    "geom:longitude":18.443308,
     "iso:country":"ZA",
     "lbl:latitude":-33.67396,
     "lbl:longitude":18.443308,
@@ -17,7 +17,7 @@
     "mps:latitude":-33.67396,
     "mps:longitude":18.443308,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730611,
-        85688905
+        85688905,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56189700
     },
     "wof:country":"ZA",
-    "wof:geomhash":"fa313a94e4de11e5bc957125a7f8146c",
+    "wof:geomhash":"024f3e322841506261f9dc287842d39e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +72,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412306,
+    "wof:lastmodified":1646164939,
     "wof:name":"Koeberg",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",
@@ -82,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.435774,
-    -33.680347,
-    18.448225,
-    -33.667065
+    18.443308,
+    -33.67396,
+    18.443308,
+    -33.67396
 ],
-  "geometry": {"coordinates":[[[18.442755,-33.680347],[18.435774,-33.669094],[18.441153,-33.667065],[18.448225,-33.673157],[18.447968,-33.678318],[18.442755,-33.680347]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.443308,-33.67396],"type":"Point"}
 }
