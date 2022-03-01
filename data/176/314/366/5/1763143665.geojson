@@ -27,13 +27,16 @@
     "wof:geomhash":"260f739a39acae8d2a7fb2d36108803d",
     "wof:hierarchy":[],
     "wof:id":1763143665,
-    "wof:lastmodified":1645655934,
+    "wof:lastmodified":1646093174,
     "wof:name":"Walter Sisulu",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125271549,
+        1125374195
+    ],
     "wof:tags":[],
     "za-mdb:cat2":"Local Municipality",
     "za-mdb:cat_b":"EC145",

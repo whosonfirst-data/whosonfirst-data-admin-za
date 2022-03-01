@@ -2,7 +2,7 @@
   "id": 1125374223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015?",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"ZA",
@@ -39,8 +39,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730519,
-        85688927
+        85688927,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +76,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412368,
+    "wof:lastmodified":1646093173,
     "wof:name":"Lukanji",
     "wof:parent_id":1108730519,
     "wof:placetype":"localadmin",
     "wof:population":208081,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763143663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

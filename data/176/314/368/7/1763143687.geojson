@@ -27,13 +27,16 @@
     "wof:geomhash":"5592d78506a764fb7072eaa05033d95f",
     "wof:hierarchy":[],
     "wof:id":1763143687,
-    "wof:lastmodified":1645655948,
+    "wof:lastmodified":1646093176,
     "wof:name":"Dawid Kruiper",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125271483,
+        1125421539
+    ],
     "wof:tags":[],
     "za-mdb:cat2":"Local Municipality",
     "za-mdb:cat_b":"NC087",

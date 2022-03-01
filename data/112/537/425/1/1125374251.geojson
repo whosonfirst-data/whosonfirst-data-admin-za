@@ -2,7 +2,7 @@
   "id": 1125374251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015?",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -81,8 +81,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730543,
-        85688923
+        85688923,
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,14 +118,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412368,
+    "wof:lastmodified":1646093172,
     "wof:name":"Westonaria",
     "wof:parent_id":1108730543,
     "wof:placetype":"localadmin",
     "wof:population":99218,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763143667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
