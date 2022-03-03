@@ -40,10 +40,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
-        1293776621,
         85633813,
-        85688923,
-        1108730509
+        1293776621,
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,6 +57,7 @@
             "country_id":85633813,
             "county_id":1108730509,
             "locality_id":1293776621,
+            "neighbourhood_id":1763193273,
             "region_id":85688923
         }
     ],
@@ -77,10 +78,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337605,
+    "wof:lastmodified":1646341271,
     "wof:name":"Saxonwold",
     "wof:parent_id":1108730509,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

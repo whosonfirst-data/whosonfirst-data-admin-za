@@ -34,10 +34,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
-        1226339639,
         85633813,
-        85688923,
-        1108730509
+        1226339639,
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +51,7 @@
             "country_id":85633813,
             "county_id":1108730509,
             "locality_id":1226339639,
+            "neighbourhood_id":1763193629,
             "region_id":85688923
         }
     ],
@@ -71,10 +72,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337597,
+    "wof:lastmodified":1646341279,
     "wof:name":"Strydompark",
     "wof:parent_id":1108730509,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

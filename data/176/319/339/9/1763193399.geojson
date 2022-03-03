@@ -49,10 +49,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
-        1360007929,
         85633813,
-        85688923,
-        1108730509
+        1360007929,
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,6 +66,7 @@
             "country_id":85633813,
             "county_id":1108730509,
             "locality_id":1360007929,
+            "neighbourhood_id":1763193399,
             "region_id":85688923
         }
     ],
@@ -86,10 +87,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337607,
+    "wof:lastmodified":1646341274,
     "wof:name":"Hurlingham",
     "wof:parent_id":1108730509,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

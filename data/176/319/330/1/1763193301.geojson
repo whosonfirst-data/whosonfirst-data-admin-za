@@ -55,10 +55,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
-        1293881371,
         85633813,
-        85688923,
-        1108730545
+        1293881371,
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +72,7 @@
             "country_id":85633813,
             "county_id":1108730545,
             "locality_id":1293881371,
+            "neighbourhood_id":1763193301,
             "region_id":85688923
         }
     ],
@@ -92,10 +93,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337597,
+    "wof:lastmodified":1646341272,
     "wof:name":"Newlands",
     "wof:parent_id":1108730545,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

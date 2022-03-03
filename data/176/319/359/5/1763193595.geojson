@@ -85,10 +85,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
-        1243160191,
         85633813,
-        85688905,
-        1108730611
+        1243160191,
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +103,7 @@
             "country_id":85633813,
             "county_id":1108730611,
             "locality_id":1243160191,
+            "neighbourhood_id":1763193595,
             "region_id":85688905
         }
     ],
@@ -123,10 +124,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337611,
+    "wof:lastmodified":1646341278,
     "wof:name":"Bo-Kaap",
     "wof:parent_id":1108730611,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

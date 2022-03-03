@@ -38,10 +38,10 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
-        101927973,
         85633813,
-        85688911,
-        1108730571
+        101927973,
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +60,7 @@
             "country_id":85633813,
             "county_id":1108730571,
             "locality_id":101927973,
+            "neighbourhood_id":1763193413,
             "region_id":85688911
         }
     ],
@@ -80,10 +81,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337598,
+    "wof:lastmodified":1646341274,
     "wof:name":"King's Rest",
     "wof:parent_id":1108730571,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -50,10 +50,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191573,
-        1125972187,
         85633813,
-        85688905,
-        1108730611
+        1125972187,
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +70,7 @@
             "country_id":85633813,
             "county_id":1108730611,
             "locality_id":1125972187,
+            "neighbourhood_id":1763193491,
             "region_id":85688905
         }
     ],
@@ -90,10 +91,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337602,
+    "wof:lastmodified":1646341276,
     "wof:name":"Durbanville Hills",
     "wof:parent_id":1108730611,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
     "wof:supersedes":[

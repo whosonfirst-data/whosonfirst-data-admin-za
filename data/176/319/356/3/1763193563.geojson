@@ -92,10 +92,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
-        1242590779,
         85633813,
-        85688911,
-        1108730571
+        1242590779,
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,6 +109,7 @@
             "country_id":85633813,
             "county_id":1108730571,
             "locality_id":1242590779,
+            "neighbourhood_id":1763193563,
             "region_id":85688911
         }
     ],
@@ -129,10 +130,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337609,
+    "wof:lastmodified":1646341278,
     "wof:name":"Berea",
     "wof:parent_id":1108730571,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:population":15000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-za",
