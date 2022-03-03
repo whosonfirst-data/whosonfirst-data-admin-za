@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cresta"
@@ -53,8 +54,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730509,
-        85688923
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,12 +89,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411958,
+    "wof:lastmodified":1646337613,
     "wof:name":"Cresta",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

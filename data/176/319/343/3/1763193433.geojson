@@ -1,0 +1,95 @@
+{
+  "id": 1763193433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03445,-26.13276,28.03445,-26.13276",
+    "geom:latitude":-26.13276,
+    "geom:longitude":28.03445,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Dunkeld West",
+    "gn:country_code":"ZA",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8126042,
+    "gn:latitude":-26.13276,
+    "gn:longitude":28.03445,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dunkeld West",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.01445,-26.15276,28.05445,-26.11276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Dunkeld-Wes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1309733907,
+        85633813,
+        85688923,
+        1108730509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8126042
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"75b880ba3a606ce199ab489c9c19c02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1309733907,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193433,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337607,
+    "wof:name":"Dunkeld West",
+    "wof:parent_id":1108730509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309733907
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03445,
+    -26.13276,
+    28.03445,
+    -26.13276
+],
+  "geometry": {"coordinates":[28.03445,-26.13276],"type":"Point"}
+}

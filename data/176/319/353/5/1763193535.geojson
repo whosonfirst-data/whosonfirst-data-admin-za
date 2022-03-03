@@ -1,0 +1,124 @@
+{
+  "id": 1763193535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49231,-33.85395,18.49231,-33.85395",
+    "geom:latitude":-33.85395,
+    "geom:longitude":18.49231,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":2000,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.47231,-33.87395,18.51231,-33.83395",
+    "lbl:latitude":-33.85395,
+    "lbl:longitude":18.49231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:deu_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:fra_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:ita_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:por_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u0435\u0442 \u0411\u0438\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Sunset Beach"
+    ],
+    "name:vol_x_preferred":[
+        "Sunset Beach"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6942529,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Sunset Beach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":852252,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1125773707,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942529,
+        "qs_pg:id":852252
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290165,
+    "wof:geomhash":"f167165492baef84f31f77cb122b6ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125773707,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193535,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337605,
+    "wof:name":"Sunset Beach",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125773707
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49231,
+    -33.85395,
+    18.49231,
+    -33.85395
+],
+  "geometry": {"coordinates":[18.49231,-33.85395],"type":"Point"}
+}

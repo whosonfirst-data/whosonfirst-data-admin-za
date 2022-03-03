@@ -1,0 +1,97 @@
+{
+  "id": 1763193349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5682,-33.84388,18.5682,-33.84388",
+    "geom:latitude":-33.84388,
+    "geom:longitude":18.5682,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"De Grendel",
+    "gn:country_code":"ZA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3368886,
+    "gn:latitude":-33.84388,
+    "gn:longitude":18.5682,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"De Grendel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.5482,-33.86388,18.5882,-33.82388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Die Grendel",
+        "De Grendle Farm",
+        "De Grendel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1193115385,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368886
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e0e06e5468de6ad1ad0cba18440ad0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1193115385,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193349,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337607,
+    "wof:name":"De Grendel",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193115385
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5682,
+    -33.84388,
+    18.5682,
+    -33.84388
+],
+  "geometry": {"coordinates":[18.5682,-33.84388],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1763193203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60818,-33.88392,18.60818,-33.88392",
+    "geom:latitude":-33.88392,
+    "geom:longitude":18.60818,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Loevenstein",
+    "gn:country_code":"ZA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303244,
+    "gn:latitude":-33.88392,
+    "gn:longitude":18.60818,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Loevenstein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.58818,-33.90392,18.62818,-33.86392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1327411893,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303244
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"5540fa13d4e0e00daf93dd5c0b1c496a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1327411893,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193203,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337612,
+    "wof:name":"Loevenstein",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327411893
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60818,
+    -33.88392,
+    18.60818,
+    -33.88392
+],
+  "geometry": {"coordinates":[18.60818,-33.88392],"type":"Point"}
+}

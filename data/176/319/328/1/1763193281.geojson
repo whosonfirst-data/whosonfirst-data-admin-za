@@ -1,0 +1,92 @@
+{
+  "id": 1763193281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61454,-34.02827,18.61454,-34.02827",
+    "geom:latitude":-34.02827,
+    "geom:longitude":18.61454,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Lentegeur",
+    "gn:country_code":"ZA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239667,
+    "gn:latitude":-34.02827,
+    "gn:longitude":18.61454,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Lentegeur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.59454,-34.04827,18.63454,-34.00827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1292982175,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239667
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"48695dc921605303467a20fd2f8aa936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1292982175,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193281,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337617,
+    "wof:name":"Lentegeur",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292982175
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61454,
+    -34.02827,
+    18.61454,
+    -34.02827
+],
+  "geometry": {"coordinates":[18.61454,-34.02827],"type":"Point"}
+}

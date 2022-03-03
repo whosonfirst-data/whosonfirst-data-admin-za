@@ -1,0 +1,101 @@
+{
+  "id": 1763193269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90996,-34.12054,18.90996,-34.12054",
+    "geom:latitude":-34.12054,
+    "geom:longitude":18.90996,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Sir Lowry's Pass",
+    "gn:country_code":"ZA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555955,
+    "gn:latitude":-34.12054,
+    "gn:longitude":18.90996,
+    "gn:modification_date":"2013-06-13",
+    "gn:name":"Sir Lowry's Pass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.88996,-34.14054,18.92996,-34.10054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Sir Lowryspas"
+    ],
+    "name:ceb_x_preferred":[
+        "Sir Lowry's Pass"
+    ],
+    "name:ron_x_preferred":[
+        "Sir Lowry's Pass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1293368469,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555955
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4b2841eb04ef1975dd04d187214a908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1293368469,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193269,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337601,
+    "wof:name":"Sir Lowry's Pass",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293368469
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90996,
+    -34.12054,
+    18.90996,
+    -34.12054
+],
+  "geometry": {"coordinates":[18.90996,-34.12054],"type":"Point"}
+}

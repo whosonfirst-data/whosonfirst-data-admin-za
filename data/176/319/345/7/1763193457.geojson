@@ -1,0 +1,105 @@
+{
+  "id": 1763193457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.355731,-34.086053,18.355731,-34.086053",
+    "geom:latitude":-34.086053,
+    "geom:longitude":18.355731,
+    "gn:country":null,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.335731,-34.1060535,18.375731,-34.0660535",
+    "lbl:latitude":-34.086053,
+    "lbl:longitude":18.355731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Chapmans Peak",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":436,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":436,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090131,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879041,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        1126044077,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879041,
+        "qs_pg:id":1090131
+    },
+    "wof:country":"ZA",
+    "wof:created":1497302326,
+    "wof:geomhash":"57509cbebdbfb5733f7fb44f1fb7019f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1126044077,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193457,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337606,
+    "wof:name":"Chapmans Peak",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126044077
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.355731,
+    -34.086053,
+    18.355731,
+    -34.086053
+],
+  "geometry": {"coordinates":[18.355731,-34.086053],"type":"Point"}
+}

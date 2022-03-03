@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":45444462.282307,
@@ -18,7 +19,7 @@
     "mps:latitude":-34.071596,
     "mps:longitude":18.852894,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gordonsbaai"
@@ -114,12 +115,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646164939,
+    "wof:lastmodified":1646337600,
     "wof:name":"Gordon's Bay",
     "wof:parent_id":1108730611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -1,0 +1,121 @@
+{
+  "id": 1763193515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.587493,-33.976677,18.587493,-33.976677",
+    "geom:latitude":-33.976677,
+    "geom:longitude":18.587493,
+    "gn:country":null,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.567493,-33.996677,18.607493,-33.956677",
+    "lbl:latitude":-33.976677,
+    "lbl:longitude":18.587493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Tygerberg"
+    ],
+    "name:deu_x_preferred":[
+        "Tygerberg"
+    ],
+    "name:eng_x_preferred":[
+        "Tygerberg"
+    ],
+    "name:nld_x_preferred":[
+        "Tygerberg"
+    ],
+    "name:nob_x_preferred":[
+        "Tygerberg"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tygerberg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":100,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":568,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080194,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879366,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        1125789913,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879366,
+        "qs_pg:id":1080194,
+        "wd:id":"Q1408118"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290828,
+    "wof:geomhash":"529018f51b1a8327800461dc91534b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125789913,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193515,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337602,
+    "wof:name":"Tygerberg",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125789913
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.587493,
+    -33.976677,
+    18.587493,
+    -33.976677
+],
+  "geometry": {"coordinates":[18.587493,-33.976677],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1763193407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55602,-33.78124,18.55602,-33.78124",
+    "geom:latitude":-33.78124,
+    "geom:longitude":18.55602,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Vissershok",
+    "gn:country_code":"ZA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3359926,
+    "gn:latitude":-33.78124,
+    "gn:longitude":18.55602,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vissershok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.53602,-33.80124,18.57602,-33.76124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Vissers Hoek",
+        "Vissershok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1360165993,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359926
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"18d02ea5a9363257dc3b5753e841152e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1360165993,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193407,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337610,
+    "wof:name":"Vissershok",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360165993
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55602,
+    -33.78124,
+    18.55602,
+    -33.78124
+],
+  "geometry": {"coordinates":[18.55602,-33.78124],"type":"Point"}
+}

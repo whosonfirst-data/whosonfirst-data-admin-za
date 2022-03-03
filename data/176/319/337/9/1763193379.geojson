@@ -1,0 +1,92 @@
+{
+  "id": 1763193379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66324,-33.84469,18.66324,-33.84469",
+    "geom:latitude":-33.84469,
+    "geom:longitude":18.66324,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Sonstraal",
+    "gn:country_code":"ZA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3361350,
+    "gn:latitude":-33.84469,
+    "gn:longitude":18.66324,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Sonstraal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.64324,-33.86469,18.68324,-33.82469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1310083781,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361350
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b3b64e06221b895e721326e35c97fb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1310083781,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193379,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337612,
+    "wof:name":"Sonstraal",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310083781
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66324,
+    -33.84469,
+    18.66324,
+    -33.84469
+],
+  "geometry": {"coordinates":[18.66324,-33.84469],"type":"Point"}
+}

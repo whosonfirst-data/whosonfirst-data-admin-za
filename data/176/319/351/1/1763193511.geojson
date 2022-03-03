@@ -1,0 +1,139 @@
+{
+  "id": 1763193511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76334,-34.06405,18.76334,-34.06405",
+    "geom:latitude":-34.06405,
+    "geom:longitude":18.76334,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.74334,-34.08405,18.78334,-34.04405",
+    "lbl:latitude":-34.06405,
+    "lbl:longitude":18.76334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Macassar"
+    ],
+    "name:deu_x_preferred":[
+        "Macassar"
+    ],
+    "name:eng_x_preferred":[
+        "Macassar"
+    ],
+    "name:fra_x_preferred":[
+        "Macassar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d0\u05e1\u05d0\u05e8"
+    ],
+    "name:ind_x_preferred":[
+        "Macassar"
+    ],
+    "name:nld_x_preferred":[
+        "Macassar"
+    ],
+    "name:nso_x_preferred":[
+        "Macassar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0441\u0441\u0430\u0440"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3364387,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Macassar",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":197,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":197,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189337,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1584153,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        1125769477,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364387,
+        "gp:id":1584153,
+        "qs_pg:id":189337,
+        "wd:id":"Q1590213"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497290010,
+    "wof:geomhash":"2ecc275fc088b598c21b5d9fa544f3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125769477,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193511,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337603,
+    "wof:name":"Macassar",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125769477
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76334,
+    -34.06405,
+    18.76334,
+    -34.06405
+],
+  "geometry": {"coordinates":[18.76334,-34.06405],"type":"Point"}
+}

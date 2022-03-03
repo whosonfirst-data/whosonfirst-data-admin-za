@@ -1,0 +1,89 @@
+{
+  "id": 1763193327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51025,-33.82672,18.51025,-33.82672",
+    "geom:latitude":-33.82672,
+    "geom:longitude":18.51025,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Blouberg",
+    "gn:country_code":"ZA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304326,
+    "gn:latitude":-33.82672,
+    "gn:longitude":18.51025,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Blouberg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.49025,-33.84672,18.53025,-33.80672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Blouberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209302491,
+        85633813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304326
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"7f713035044fb08fb495b3b7dc32c15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "locality_id":1209302491
+        }
+    ],
+    "wof:id":1763193327,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337607,
+    "wof:name":"Blouberg",
+    "wof:parent_id":85633813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209302491
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51025,
+    -33.82672,
+    18.51025,
+    -33.82672
+],
+  "geometry": {"coordinates":[18.51025,-33.82672],"type":"Point"}
+}

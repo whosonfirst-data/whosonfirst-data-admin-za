@@ -1,0 +1,120 @@
+{
+  "id": 1763193473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.441581,-34.195049,18.441581,-34.195049",
+    "geom:latitude":-34.195049,
+    "geom:longitude":18.441581,
+    "gn:country":null,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.421581,-34.215049,18.461581,-34.175049",
+    "lbl:latitude":-34.195049,
+    "lbl:longitude":18.441581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Seaforth"
+    ],
+    "name:deu_x_preferred":[
+        "Seaforth"
+    ],
+    "name:fra_x_preferred":[
+        "Seaforth"
+    ],
+    "name:pol_x_preferred":[
+        "Seaforth"
+    ],
+    "name:swe_x_preferred":[
+        "Seaforth"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Seaforth",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":168,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":168,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118925,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1587262,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        1125896617,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1587262,
+        "qs_pg:id":1118925
+    },
+    "wof:country":"ZA",
+    "wof:created":1497295599,
+    "wof:geomhash":"9100a356a38726707b96585acf704b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1125896617,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193473,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337606,
+    "wof:name":"Seaforth",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125896617
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.441581,
+    -34.195049,
+    18.441581,
+    -34.195049
+],
+  "geometry": {"coordinates":[18.441581,-34.195049],"type":"Point"}
+}

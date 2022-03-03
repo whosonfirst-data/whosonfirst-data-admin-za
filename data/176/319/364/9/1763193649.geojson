@@ -1,0 +1,92 @@
+{
+  "id": 1763193649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63775,-33.88049,18.63775,-33.88049",
+    "geom:latitude":-33.88049,
+    "geom:longitude":18.63775,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Bo Oakdale",
+    "gn:country_code":"ZA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398138,
+    "gn:latitude":-33.88049,
+    "gn:longitude":18.63775,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Bo Oakdale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.61775,-33.90049,18.65775,-33.86049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1226223399,
+        85633813,
+        85688905,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398138
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"633e3525fa71b99ba2e6e74f1662ee65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":1226223399,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193649,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337614,
+    "wof:name":"Bo Oakdale",
+    "wof:parent_id":1108730611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226223399
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63775,
+    -33.88049,
+    18.63775,
+    -33.88049
+],
+  "geometry": {"coordinates":[18.63775,-33.88049],"type":"Point"}
+}

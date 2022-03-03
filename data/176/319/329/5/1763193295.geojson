@@ -1,0 +1,99 @@
+{
+  "id": 1763193295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36667,-25.73333,28.36667,-25.73333",
+    "geom:latitude":-25.73333,
+    "geom:longitude":28.36667,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"TSH",
+    "gn:admin3_code":"TSH",
+    "gn:asciiname":"Hatherley",
+    "gn:cc2":"ZA",
+    "gn:country_code":"ZA",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":997342,
+    "gn:latitude":-25.73333,
+    "gn:longitude":28.36667,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Hatherley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.34667,-25.75333,28.38667,-25.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Hatherley"
+    ],
+    "name:und_x_variant":[
+        "Hatherly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        1293287677,
+        85633813,
+        85688923,
+        1108730545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":997342
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"6bdc1ddd4b3c960b47c25c1a366e7c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":1293287677,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646337603,
+    "wof:name":"Hatherley",
+    "wof:parent_id":1108730545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293287677
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36667,
+    -25.73333,
+    28.36667,
+    -25.73333
+],
+  "geometry": {"coordinates":[28.36667,-25.73333],"type":"Point"}
+}
