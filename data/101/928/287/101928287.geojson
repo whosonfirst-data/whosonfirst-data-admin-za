@@ -90,10 +90,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1287,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271415,
         85633813,
-        1108730569,
-        85688911
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +107,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730569,
+            "county_id":1762966205,
+            "localadmin_id":1125271415,
             "locality_id":101928287,
             "region_id":85688911
         }
@@ -128,9 +130,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412303,
+    "wof:lastmodified":1646701225,
     "wof:name":"Deepdale",
-    "wof:parent_id":1108730569,
+    "wof:parent_id":1125271415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

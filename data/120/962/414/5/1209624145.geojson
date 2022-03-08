@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1763143669,
+        85633813,
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +65,12 @@
     "wof:geomhash":"0e630cac21eef477da3c7f1f7c180f6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209624145
+            "county_id":1108730549,
+            "localadmin_id":1763143669,
+            "locality_id":1209624145,
+            "region_id":85688911
         }
     ],
     "wof:id":1209624145,
@@ -82,9 +90,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411993,
+    "wof:lastmodified":1646701850,
     "wof:name":"Uvongo Beach",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

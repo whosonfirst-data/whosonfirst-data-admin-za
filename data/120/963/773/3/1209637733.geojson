@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125271877,
+        85633813,
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"a66f6d98bab620688387092f6d690f51",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209637733
+            "county_id":1108730595,
+            "localadmin_id":1125271877,
+            "locality_id":1209637733,
+            "region_id":85688899
         }
     ],
     "wof:id":1209637733,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411998,
+    "wof:lastmodified":1646703879,
     "wof:name":"Vredelus",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

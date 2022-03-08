@@ -75,10 +75,12 @@
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1108730571,
-        85688911
+        101927971,
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +96,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
-            "locality_id":-1,
+            "localadmin_id":1125360055,
+            "locality_id":101927971,
             "neighbourhood_id":1126084069,
             "region_id":85688911
         }
@@ -116,9 +119,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412377,
+    "wof:lastmodified":1646702048,
     "wof:name":"Woodlands",
-    "wof:parent_id":-1,
+    "wof:parent_id":101927971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125382569,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"d64c034540372d3faa29801853dab9ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209619889
+            "county_id":1108730519,
+            "localadmin_id":1125382569,
+            "locality_id":1209619889,
+            "region_id":85688927
         }
     ],
     "wof:id":1209619889,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412016,
+    "wof:lastmodified":1646705279,
     "wof:name":"Goso",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

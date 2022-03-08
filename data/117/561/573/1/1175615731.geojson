@@ -172,10 +172,11 @@
     "wd:longitude":32.0375,
     "wd:wordcount":1941,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125421537,
         85633813,
-        1108730563,
-        85688911
+        1762966203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +192,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730563,
+            "county_id":1762966203,
+            "localadmin_id":1125421537,
             "locality_id":1175615731,
             "region_id":85688911
         }
@@ -213,9 +215,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412111,
+    "wof:lastmodified":1646701121,
     "wof:name":"Richards Bay",
-    "wof:parent_id":1108730563,
+    "wof:parent_id":1125421537,
     "wof:placetype":"locality",
     "wof:population":252968,
     "wof:population_rank":10,

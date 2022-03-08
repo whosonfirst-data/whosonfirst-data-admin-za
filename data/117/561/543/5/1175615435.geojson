@@ -140,9 +140,10 @@
     "wd:population":69453,
     "wd:wordcount":1184,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688935,
+        102191573,
+        1125271677,
+        85633813,
         1108730575
     ],
     "wof:breaches":[],
@@ -160,6 +161,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730575,
+            "localadmin_id":1125271677,
             "locality_id":1175615435,
             "region_id":85688935
         }
@@ -181,9 +183,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501674,
+    "wof:lastmodified":1646701366,
     "wof:name":"Thohoyandou",
-    "wof:parent_id":1108730575,
+    "wof:parent_id":1125271677,
     "wof:placetype":"locality",
     "wof:population":69453,
     "wof:population_rank":8,

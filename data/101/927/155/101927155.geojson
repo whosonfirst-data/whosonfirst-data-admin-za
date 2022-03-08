@@ -55,10 +55,11 @@
     "wd:longitude":29.766667,
     "wd:wordcount":97,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1763143679,
         85633813,
-        1108730569,
-        85688911
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +78,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730569,
+            "county_id":1762966205,
+            "localadmin_id":1763143679,
             "locality_id":101927155,
             "region_id":85688911
         }
@@ -99,9 +101,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412267,
+    "wof:lastmodified":1646701213,
     "wof:name":"Bulwer",
-    "wof:parent_id":1108730569,
+    "wof:parent_id":1763143679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

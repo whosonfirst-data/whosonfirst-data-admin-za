@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730579
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655946,
     "wof:geomhash":"bdfb3dcc6f32daa495c1482d9c9c3043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730579,
+            "localadmin_id":1763143683,
+            "region_id":85688935
+        }
+    ],
     "wof:id":1763143683,
-    "wof:lastmodified":1646344001,
+    "wof:lastmodified":1646701929,
     "wof:name":"Modimolle-Mookgophong",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730579,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

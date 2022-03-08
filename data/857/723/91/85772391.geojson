@@ -63,8 +63,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191573,
-        85633813
+        102191573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,8 @@
     "wof:hierarchy":[
         {
             "continent_id":102191573,
-            "country_id":85633813,
+            "country_id":-1,
+            "locality_id":-1,
             "neighbourhood_id":85772391,
             "region_id":-1
         }
@@ -103,7 +103,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646343936,
+    "wof:lastmodified":1646706192,
     "wof:name":"Neptune's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

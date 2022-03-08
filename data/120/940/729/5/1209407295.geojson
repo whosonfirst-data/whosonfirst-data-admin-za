@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        102191573,
+        85633813,
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"9f2526b5b0fba23dee34b7f63ce3f81f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209407295
+            "county_id":1108730509,
+            "locality_id":1209407295,
+            "region_id":85688923
         }
     ],
     "wof:id":1209407295,
@@ -68,9 +74,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412009,
+    "wof:lastmodified":1646702142,
     "wof:name":"Moroka",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1108730509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

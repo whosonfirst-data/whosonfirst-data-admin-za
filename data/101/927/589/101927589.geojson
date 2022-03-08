@@ -66,10 +66,11 @@
     "wd:longitude":30.7175,
     "wd:wordcount":21,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125358739,
         85633813,
-        1108730559,
-        85688911
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +90,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730559,
+            "localadmin_id":1125358739,
             "locality_id":101927589,
             "region_id":85688911
         }
@@ -110,9 +112,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412265,
+    "wof:lastmodified":1646704815,
     "wof:name":"eMondlo",
-    "wof:parent_id":1108730559,
+    "wof:parent_id":1125358739,
     "wof:placetype":"locality",
     "wof:population":44922,
     "wof:population_rank":7,

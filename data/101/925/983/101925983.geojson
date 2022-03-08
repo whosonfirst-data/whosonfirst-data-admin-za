@@ -257,9 +257,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688923,
+        102191573,
+        1125360031,
+        85633813,
         1108730507
     ],
     "wof:breaches":[],
@@ -280,6 +281,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
+            "localadmin_id":1125360031,
             "locality_id":101925983,
             "region_id":85688923
         }
@@ -301,9 +303,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501681,
+    "wof:lastmodified":1646704840,
     "wof:name":"Springs",
-    "wof:parent_id":1108730507,
+    "wof:parent_id":1125360031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

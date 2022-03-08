@@ -33,8 +33,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209596451,
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,13 @@
     "wof:geomhash":"00fad19b12f85ad7ed064161009104be",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209596451,
-            "neighbourhood_id":1763193333
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193333,
+            "region_id":85688905
         }
     ],
     "wof:id":1763193333,
@@ -66,9 +74,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341272,
+    "wof:lastmodified":1646706579,
     "wof:name":"High Riding",
-    "wof:parent_id":85633813,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

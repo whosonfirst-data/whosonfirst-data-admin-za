@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688895,
+        102191573,
+        1125320713,
+        85633813,
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"972e23efcc487a53f1e2734d555d049d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209409289
+            "county_id":1108730589,
+            "localadmin_id":1125320713,
+            "locality_id":1209409289,
+            "region_id":85688895
         }
     ],
     "wof:id":1209409289,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412009,
+    "wof:lastmodified":1646701417,
     "wof:name":"Die Winkler",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125320713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

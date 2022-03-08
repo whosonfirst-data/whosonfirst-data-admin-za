@@ -56,11 +56,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125388495,
         85633813,
-        1108730543,
-        101925717,
-        85688923
+        1175615599,
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
-            "locality_id":101925717,
+            "localadmin_id":1125388495,
+            "locality_id":1175615599,
             "neighbourhood_id":85783191,
             "region_id":85688923
         }
@@ -100,9 +102,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411842,
+    "wof:lastmodified":1646705489,
     "wof:name":"Luipaardsvlei",
-    "wof:parent_id":101925717,
+    "wof:parent_id":1175615599,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

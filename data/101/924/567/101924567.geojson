@@ -717,9 +717,10 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19140,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688895,
+        102191573,
+        1125382571,
+        85633813,
         1108730589
     ],
     "wof:breaches":[],
@@ -734,6 +735,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730589,
+            "localadmin_id":1125382571,
             "locality_id":101924567,
             "region_id":85688895
         }
@@ -755,9 +757,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501678,
+    "wof:lastmodified":1646705308,
     "wof:name":"London",
-    "wof:parent_id":1108730589,
+    "wof:parent_id":1125382571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

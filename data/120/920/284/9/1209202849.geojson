@@ -67,7 +67,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125271367,
+        85633813,
+        1108730617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,8 +82,12 @@
     "wof:geomhash":"bb8b2a2e629ea84d5018d9a3ea5626db",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209202849
+            "county_id":1108730617,
+            "localadmin_id":1125271367,
+            "locality_id":1209202849,
+            "region_id":85688905
         }
     ],
     "wof:id":1209202849,
@@ -99,9 +107,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412028,
+    "wof:lastmodified":1646703198,
     "wof:name":"Kleinmond",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

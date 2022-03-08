@@ -90,7 +90,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688915,
+        102191573,
+        1125356815,
+        85633813,
+        1108730533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,8 +104,12 @@
     "wof:geomhash":"27450773fe02dcf2d36beb2429863cc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209527071
+            "county_id":1108730533,
+            "localadmin_id":1125356815,
+            "locality_id":1209527071,
+            "region_id":85688915
         }
     ],
     "wof:id":1209527071,
@@ -121,9 +129,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411999,
+    "wof:lastmodified":1646704309,
     "wof:name":"Excelsior",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125356815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

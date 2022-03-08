@@ -57,11 +57,12 @@
     "woe:name_adm1":"North-West",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125271275,
         85633813,
-        1108730541,
         101926405,
-        85688923
+        1108730541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +78,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730541,
+            "localadmin_id":1125271275,
             "locality_id":101926405,
             "neighbourhood_id":1126080105,
             "region_id":85688923
@@ -99,7 +101,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412380,
+    "wof:lastmodified":1646702470,
     "wof:name":"Boipatong",
     "wof:parent_id":101926405,
     "wof:placetype":"neighbourhood",

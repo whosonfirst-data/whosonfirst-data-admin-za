@@ -35,10 +35,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688935,
         102191573,
+        1763143685,
         85633813,
-        1108730581,
-        85688935
+        1108730581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +53,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730581,
+            "localadmin_id":1763143685,
             "locality_id":101924437,
             "region_id":85688935
         }
@@ -73,9 +75,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412185,
+    "wof:lastmodified":1646701952,
     "wof:name":"Mabotsha",
-    "wof:parent_id":1108730581,
+    "wof:parent_id":1763143685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

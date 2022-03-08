@@ -102,10 +102,11 @@
     "wd:longitude":27.45,
     "wd:wordcount":1185,
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125421553,
         85633813,
-        1108730537,
-        85688915
+        1108730537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,6 +129,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730537,
+            "localadmin_id":1125421553,
             "locality_id":101926531,
             "region_id":85688915
         }
@@ -149,9 +151,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412289,
+    "wof:lastmodified":1646705894,
     "wof:name":"Parys",
-    "wof:parent_id":1108730537,
+    "wof:parent_id":1125421553,
     "wof:placetype":"locality",
     "wof:population":71319,
     "wof:population_rank":8,

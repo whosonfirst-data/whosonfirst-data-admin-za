@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125271905,
+        85633813,
+        1108730593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"e88f3f0a3fc2d4c710013a70e1896f67",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209500513
+            "county_id":1108730593,
+            "localadmin_id":1125271905,
+            "locality_id":1209500513,
+            "region_id":85688899
         }
     ],
     "wof:id":1209500513,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412014,
+    "wof:lastmodified":1646703902,
     "wof:name":"Exelsior",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

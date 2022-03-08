@@ -54,10 +54,7 @@
     "wd:longitude":18.483333,
     "wd:wordcount":191,
     "wof:belongsto":[
-        102191573,
-        85633813,
-        85688905,
-        1108730611
+        1763143691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,11 +68,10 @@
     "wof:geomhash":"c8dfddcb189e680e674d3565770bebd8",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "county_id":1108730611,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101928019,
-            "region_id":85688905
+            "region_id":-1
         }
     ],
     "wof:id":101928019,
@@ -95,9 +91,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646164940,
+    "wof:lastmodified":1646701306,
     "wof:name":"Table View",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[

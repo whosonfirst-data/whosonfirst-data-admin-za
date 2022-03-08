@@ -37,9 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
+        102191573,
+        1763143691,
+        85633813,
         1108730611
     ],
     "wof:breaches":[],
@@ -54,6 +55,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
+            "localadmin_id":1763143691,
             "locality_id":1225925089,
             "region_id":85688905
         }
@@ -75,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337607,
+    "wof:lastmodified":1646706320,
     "wof:name":"Rondebosch East",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[

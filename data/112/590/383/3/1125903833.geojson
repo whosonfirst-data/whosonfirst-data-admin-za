@@ -63,10 +63,11 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125271261,
         85633813,
-        1108730531,
-        85688915
+        1108730531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730531,
+            "localadmin_id":1125271261,
             "locality_id":1125903833,
             "region_id":85688915
         }
@@ -103,9 +105,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412370,
+    "wof:lastmodified":1646702407,
     "wof:name":"Koffiefontein",
-    "wof:parent_id":1108730531,
+    "wof:parent_id":1125271261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

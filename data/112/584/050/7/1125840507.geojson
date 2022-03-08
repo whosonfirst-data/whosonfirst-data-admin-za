@@ -73,10 +73,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125278475,
         85633813,
-        1108730519,
-        85688927
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +93,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730519,
+            "localadmin_id":1125278475,
             "locality_id":1125840507,
             "region_id":85688927
         }
@@ -113,9 +115,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412394,
+    "wof:lastmodified":1646703932,
     "wof:name":"Lady Frere",
-    "wof:parent_id":1108730519,
+    "wof:parent_id":1125278475,
     "wof:placetype":"locality",
     "wof:population":25041,
     "wof:population_rank":7,

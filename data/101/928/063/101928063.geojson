@@ -242,10 +242,11 @@
     "wd:longitude":22.45,
     "wd:wordcount":4654,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
-        1108730621
+        102191573,
+        1125327847,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,7 +265,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730621,
+            "county_id":1762966207,
+            "localadmin_id":1125327847,
             "locality_id":101928063,
             "region_id":85688905
         }
@@ -286,9 +288,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501691,
+    "wof:lastmodified":1646701267,
     "wof:name":"George",
-    "wof:parent_id":1108730621,
+    "wof:parent_id":1125327847,
     "wof:placetype":"locality",
     "wof:population":174582,
     "wof:population_rank":9,

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1125394939,
+        85633813,
+        1108730577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"be88d62c04fd2cebfc0af1661d2f9a1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209198845
+            "county_id":1108730577,
+            "localadmin_id":1125394939,
+            "locality_id":1209198845,
+            "region_id":85688935
         }
     ],
     "wof:id":1209198845,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412033,
+    "wof:lastmodified":1646701533,
     "wof:name":"Houtbosdorp",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125394939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

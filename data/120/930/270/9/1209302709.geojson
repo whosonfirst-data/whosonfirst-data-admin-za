@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125271383,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"31050eec314c97c4f376f0037b093feb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209302709
+            "county_id":1762966207,
+            "localadmin_id":1125271383,
+            "locality_id":1209302709,
+            "region_id":85688905
         }
     ],
     "wof:id":1209302709,
@@ -86,9 +94,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411996,
+    "wof:lastmodified":1646701252,
     "wof:name":"Still Bay",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

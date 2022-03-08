@@ -71,10 +71,11 @@
     "wd:longitude":29.3,
     "wd:wordcount":153,
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125423433,
         85633813,
-        1108730581,
-        85688935
+        1108730581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,6 +95,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730581,
+            "localadmin_id":1125423433,
             "locality_id":101923829,
             "region_id":85688935
         }
@@ -115,9 +117,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412205,
+    "wof:lastmodified":1646705978,
     "wof:name":"Marble Hall",
-    "wof:parent_id":1108730581,
+    "wof:parent_id":1125423433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

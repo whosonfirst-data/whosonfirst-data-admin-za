@@ -59,10 +59,11 @@
     "wd:longitude":31.116667,
     "wd:wordcount":68,
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125311421,
         85633813,
-        1108730573,
-        85688935
+        1108730573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730573,
+            "localadmin_id":1125311421,
             "locality_id":1175615643,
             "region_id":85688935
         }
@@ -97,9 +99,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412112,
+    "wof:lastmodified":1646704231,
     "wof:name":"Lulekani",
-    "wof:parent_id":1108730573,
+    "wof:parent_id":1125311421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

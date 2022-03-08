@@ -48,11 +48,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688923,
         102191573,
         85633813,
-        101925391,
-        1108730545
+        101925471,
+        1108730545,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730545,
-            "locality_id":101925391,
+            "locality_id":101925471,
             "neighbourhood_id":1126082905,
             "region_id":85688923
         }
@@ -90,9 +90,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646169488,
+    "wof:lastmodified":1646706751,
     "wof:name":"Doornpoort",
-    "wof:parent_id":101925391,
+    "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

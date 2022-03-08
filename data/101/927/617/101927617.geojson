@@ -87,10 +87,11 @@
     "wd:longitude":30.233611,
     "wd:wordcount":887,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125374249,
         85633813,
-        1108730555,
-        85688911
+        1108730555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,6 +114,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730555,
+            "localadmin_id":1125374249,
             "locality_id":101927617,
             "region_id":85688911
         }
@@ -134,9 +136,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412258,
+    "wof:lastmodified":1646705207,
     "wof:name":"Dundee",
-    "wof:parent_id":1108730555,
+    "wof:parent_id":1125374249,
     "wof:placetype":"locality",
     "wof:population":84413,
     "wof:population_rank":8,

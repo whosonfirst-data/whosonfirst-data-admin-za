@@ -123,9 +123,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":393,
     "wof:belongsto":[
-        102191573,
         85688905,
+        102191573,
+        1763143691,
         85633813,
+        101928027,
         1108730611
     ],
     "wof:breaches":[],
@@ -143,6 +145,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
             "neighbourhood_id":85782919,
             "region_id":85688905
         }
@@ -164,9 +168,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646343937,
+    "wof:lastmodified":1646706207,
     "wof:name":"West Coast",
-    "wof:parent_id":-1,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

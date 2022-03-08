@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125423557,
+        85633813,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +55,12 @@
     "wof:geomhash":"d2c57bfdbff12ae09c033778bd79190b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209317813
+            "county_id":1108730559,
+            "localadmin_id":1125423557,
+            "locality_id":1209317813,
+            "region_id":85688911
         }
     ],
     "wof:id":1209317813,
@@ -72,9 +80,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411988,
+    "wof:lastmodified":1646706043,
     "wof:name":"Nhlazatshe",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688923,
+        1108730543
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655936,
     "wof:geomhash":"7676c5b30530ae627d597156c31f6d46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730543,
+            "localadmin_id":1763143667,
+            "region_id":85688923
+        }
+    ],
     "wof:id":1763143667,
-    "wof:lastmodified":1646343998,
+    "wof:lastmodified":1646701835,
     "wof:name":"Rand West City",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730543,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -257,9 +257,10 @@
     "wd:longitude":25.4,
     "wd:wordcount":1121,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1125410851,
+        85633813,
         1108730527
     ],
     "wof:breaches":[],
@@ -281,6 +282,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730527,
+            "localadmin_id":1125410851,
             "locality_id":101929245,
             "region_id":85688927
         }
@@ -302,9 +304,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501682,
+    "wof:lastmodified":1646705733,
     "wof:name":"Uitenhage",
-    "wof:parent_id":1108730527,
+    "wof:parent_id":1125410851,
     "wof:placetype":"locality",
     "wof:population":228912,
     "wof:population_rank":10,

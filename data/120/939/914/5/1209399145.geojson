@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688895,
+        102191573,
+        1125382571,
+        85633813,
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"03d23c6baf03d5625e6aec51c3e9553b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209399145
+            "county_id":1108730589,
+            "localadmin_id":1125382571,
+            "locality_id":1209399145,
+            "region_id":85688895
         }
     ],
     "wof:id":1209399145,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411995,
+    "wof:lastmodified":1646705294,
     "wof:name":"Hluvukani",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

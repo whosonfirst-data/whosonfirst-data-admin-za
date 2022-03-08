@@ -164,10 +164,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2932,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125421531,
         85633813,
-        1108730549,
-        85688911
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,6 +186,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730549,
+            "localadmin_id":1125421531,
             "locality_id":101929303,
             "region_id":85688911
         }
@@ -206,9 +208,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412250,
+    "wof:lastmodified":1646701586,
     "wof:name":"Elysium",
-    "wof:parent_id":1108730549,
+    "wof:parent_id":1125421531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

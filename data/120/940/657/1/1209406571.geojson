@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688895,
+        102191573,
+        1125271851,
+        85633813,
+        1108730585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"6096b9848f6da1189ff357d81be8658f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209406571
+            "county_id":1108730585,
+            "localadmin_id":1125271851,
+            "locality_id":1209406571,
+            "region_id":85688895
         }
     ],
     "wof:id":1209406571,
@@ -86,9 +94,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412009,
+    "wof:lastmodified":1646703841,
     "wof:name":"Wilhelmina",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688931,
+        102191573,
+        1125271429,
+        85633813,
+        1108730603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +56,12 @@
     "wof:geomhash":"b0d395bacee3dd2c8034d793a50aed1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209604301
+            "county_id":1108730603,
+            "localadmin_id":1125271429,
+            "locality_id":1209604301,
+            "region_id":85688931
         }
     ],
     "wof:id":1209604301,
@@ -73,9 +81,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412020,
+    "wof:lastmodified":1646703283,
     "wof:name":"Mmakau",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

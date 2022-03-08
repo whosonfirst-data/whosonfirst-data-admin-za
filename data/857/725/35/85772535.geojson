@@ -66,11 +66,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125410851,
         85633813,
-        1108730527,
         101929259,
-        85688927
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,6 +90,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730527,
+            "localadmin_id":1125410851,
             "locality_id":101929259,
             "neighbourhood_id":85772535,
             "region_id":85688927
@@ -111,7 +113,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411837,
+    "wof:lastmodified":1646705736,
     "wof:name":"South End",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

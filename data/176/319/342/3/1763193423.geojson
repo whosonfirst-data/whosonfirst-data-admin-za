@@ -90,11 +90,12 @@
     "wd:longitude":18.483333,
     "wd:wordcount":444,
     "wof:belongsto":[
+        85688905,
         102191573,
+        1763143691,
         85633813,
-        101928001,
-        1108730611,
-        85688905
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +115,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
-            "locality_id":101928001,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
             "neighbourhood_id":1763193423,
             "region_id":85688905
         }
@@ -136,9 +138,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341274,
+    "wof:lastmodified":1646706628,
     "wof:name":"Atlantis",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:population":60266,
     "wof:population_rank":8,

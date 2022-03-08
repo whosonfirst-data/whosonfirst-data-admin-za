@@ -38,10 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125271373,
         85633813,
-        1108730597,
-        85688899
+        1108730597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +55,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730597,
+            "localadmin_id":1125271373,
             "locality_id":1243474277,
             "region_id":85688899
         }
@@ -75,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412430,
+    "wof:lastmodified":1646703224,
     "wof:name":"Bladgrond-Noord",
-    "wof:parent_id":1108730597,
+    "wof:parent_id":1125271373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

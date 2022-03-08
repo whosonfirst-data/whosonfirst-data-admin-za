@@ -93,10 +93,11 @@
     "wd:longitude":31.383333,
     "wd:wordcount":163,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271623,
         85633813,
-        1108730563,
-        85688911
+        1762966203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +113,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730563,
+            "county_id":1762966203,
+            "localadmin_id":1125271623,
             "locality_id":1175615515,
             "region_id":85688911
         }
@@ -134,9 +136,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412107,
+    "wof:lastmodified":1646701112,
     "wof:name":"Melmoth",
-    "wof:parent_id":1108730563,
+    "wof:parent_id":1125271623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

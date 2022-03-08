@@ -94,8 +94,12 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        1126111925,
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,9 +112,13 @@
     "wof:geomhash":"2c4a2646634a5e9fa44f9229995cadc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1126111925,
-            "neighbourhood_id":1763193451
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193451,
+            "region_id":85688905
         }
     ],
     "wof:id":1763193451,
@@ -130,9 +138,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341275,
+    "wof:lastmodified":1646706643,
     "wof:name":"Somerset West",
-    "wof:parent_id":-1,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:population":183493,
     "wof:population_rank":9,

@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1762966201
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655931,
     "wof:geomhash":"21870fe302160c716382c088a6420a95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1762966201,
+            "localadmin_id":1763143657,
+            "region_id":85688927
+        }
+    ],
     "wof:id":1763143657,
-    "wof:lastmodified":1646343997,
+    "wof:lastmodified":1646701600,
     "wof:name":"Dr Beyers Naude",
-    "wof:parent_id":-1,
+    "wof:parent_id":1762966201,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

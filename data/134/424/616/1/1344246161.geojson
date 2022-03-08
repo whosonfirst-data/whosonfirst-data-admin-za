@@ -55,10 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688931,
         102191573,
+        1125271211,
         85633813,
-        1108730609,
-        85688931
+        1108730609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +73,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730609,
+            "localadmin_id":1125271211,
             "locality_id":1344246161,
             "region_id":85688931
         }
@@ -93,9 +95,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411784,
+    "wof:lastmodified":1646702363,
     "wof:name":"Leeudoringstad",
-    "wof:parent_id":1108730609,
+    "wof:parent_id":1125271211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

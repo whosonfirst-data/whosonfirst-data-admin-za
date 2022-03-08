@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655938,
     "wof:geomhash":"f99180f6173bb3165eb49ab1eb98cab7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "localadmin_id":1763143671,
+            "region_id":85688911
+        }
+    ],
     "wof:id":1763143671,
-    "wof:lastmodified":1646343999,
+    "wof:lastmodified":1646701880,
     "wof:name":"Inkosi Langalibalele",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730553,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

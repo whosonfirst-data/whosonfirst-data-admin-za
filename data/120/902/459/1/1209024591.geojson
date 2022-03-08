@@ -103,7 +103,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125358577,
+        85633813,
+        1108730591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,8 +117,12 @@
     "wof:geomhash":"8f18050712f434e90b137efd4df0ade7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209024591
+            "county_id":1108730591,
+            "localadmin_id":1125358577,
+            "locality_id":1209024591,
+            "region_id":85688899
         }
     ],
     "wof:id":1209024591,
@@ -134,9 +142,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412024,
+    "wof:lastmodified":1646704486,
     "wof:name":"Tweed",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125358577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

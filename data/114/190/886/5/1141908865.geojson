@@ -229,9 +229,10 @@
     "reversegeo:longitude":25.610002,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688931,
+        102191573,
+        1125394933,
+        85633813,
         1108730605
     ],
     "wof:breaches":[],
@@ -248,6 +249,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730605,
+            "localadmin_id":1125394933,
             "locality_id":1141908865,
             "region_id":85688931
         }
@@ -269,9 +271,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501709,
+    "wof:lastmodified":1646705553,
     "wof:name":"Mmabatho",
-    "wof:parent_id":1108730605,
+    "wof:parent_id":1125394933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

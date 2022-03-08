@@ -293,9 +293,10 @@
     "wd:longitude":26.720833,
     "wd:wordcount":3818,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125358631,
+        85633813,
         1108730533
     ],
     "wof:breaches":[],
@@ -319,6 +320,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730533,
+            "localadmin_id":1125358631,
             "locality_id":101926749,
             "region_id":85688915
         }
@@ -340,9 +342,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501688,
+    "wof:lastmodified":1646704553,
     "wof:name":"Welkom",
-    "wof:parent_id":1108730533,
+    "wof:parent_id":1125358631,
     "wof:placetype":"locality",
     "wof:population":431944,
     "wof:population_rank":10,

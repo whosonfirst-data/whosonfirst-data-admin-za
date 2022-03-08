@@ -90,10 +90,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
-        1108730569
+        102191573,
+        1125271605,
+        85633813,
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +106,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730569,
+            "county_id":1762966205,
+            "localadmin_id":1125271605,
             "locality_id":1260089245,
             "region_id":85688911
         }
@@ -127,9 +129,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501671,
+    "wof:lastmodified":1646701194,
     "wof:name":"Oatlands",
-    "wof:parent_id":1108730569,
+    "wof:parent_id":1125271605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1125423435,
+        85633813,
+        1108730575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +59,12 @@
     "wof:geomhash":"594488404ce7c58d42d88600c8d6fe3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209090707
+            "county_id":1108730575,
+            "localadmin_id":1125423435,
+            "locality_id":1209090707,
+            "region_id":85688935
         }
     ],
     "wof:id":1209090707,
@@ -76,9 +84,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411985,
+    "wof:lastmodified":1646705982,
     "wof:name":"Masisi",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

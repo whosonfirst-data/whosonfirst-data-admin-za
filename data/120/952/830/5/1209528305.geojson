@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125360055,
+        85633813,
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"c9532826e26845162da345335a7e2592",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209528305
+            "county_id":1108730571,
+            "localadmin_id":1125360055,
+            "locality_id":1209528305,
+            "region_id":85688911
         }
     ],
     "wof:id":1209528305,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412001,
+    "wof:lastmodified":1646704868,
     "wof:name":"Herrwood Park",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

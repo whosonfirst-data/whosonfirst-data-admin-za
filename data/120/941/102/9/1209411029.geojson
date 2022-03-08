@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688895,
+        102191573,
+        1125382571,
+        85633813,
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +45,12 @@
     "wof:geomhash":"170c51ce4b1d0bfd548122873f36ba8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209411029
+            "county_id":1108730589,
+            "localadmin_id":1125382571,
+            "locality_id":1209411029,
+            "region_id":85688895
         }
     ],
     "wof:id":1209411029,
@@ -62,9 +70,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412004,
+    "wof:lastmodified":1646705291,
     "wof:name":"Sesete",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

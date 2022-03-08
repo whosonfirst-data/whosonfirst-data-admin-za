@@ -33,8 +33,12 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209202619,
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +48,13 @@
     "wof:geomhash":"2c0e85da5c66ccf143a68ebef750cb57",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209202619,
-            "neighbourhood_id":1763193345
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193345,
+            "region_id":85688905
         }
     ],
     "wof:id":1763193345,
@@ -66,9 +74,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341273,
+    "wof:lastmodified":1646706585,
     "wof:name":"Parowvallei",
-    "wof:parent_id":85633813,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

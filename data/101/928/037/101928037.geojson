@@ -80,10 +80,7 @@
     "wd:longitude":18.816667,
     "wd:wordcount":1218,
     "wof:belongsto":[
-        102191573,
-        85633813,
-        85688905,
-        1108730611
+        1763143691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,11 +97,10 @@
     "wof:geomhash":"3bdb89f0c7f2f6247e32aa92e8fa1382",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "county_id":1108730611,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101928037,
-            "region_id":85688905
+            "region_id":-1
         }
     ],
     "wof:id":101928037,
@@ -124,9 +120,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337600,
+    "wof:lastmodified":1646701318,
     "wof:name":"Strand",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[

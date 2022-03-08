@@ -248,9 +248,10 @@
     "wd:longitude":26.7,
     "wd:wordcount":534,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1763143665,
+        85633813,
         1108730521
     ],
     "wof:breaches":[],
@@ -271,6 +272,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730521,
+            "localadmin_id":1763143665,
             "locality_id":101928353,
             "region_id":85688927
         }
@@ -292,9 +294,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501690,
+    "wof:lastmodified":1646701815,
     "wof:name":"Aliwal North",
-    "wof:parent_id":1108730521,
+    "wof:parent_id":1763143665,
     "wof:placetype":"locality",
     "wof:population":44436,
     "wof:population_rank":7,

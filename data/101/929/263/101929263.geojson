@@ -53,10 +53,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125410851,
         85633813,
-        1108730527,
-        85688927
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730527,
+            "localadmin_id":1125410851,
             "locality_id":101929263,
             "region_id":85688927
         }
@@ -97,9 +99,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412253,
+    "wof:lastmodified":1646705733,
     "wof:name":"Skoenmakerskop",
-    "wof:parent_id":1108730527,
+    "wof:parent_id":1125410851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

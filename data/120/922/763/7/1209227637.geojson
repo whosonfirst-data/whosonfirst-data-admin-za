@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125356809,
+        85633813,
+        1108730555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"c858f0cd0c4654ab209e96687d72dbf3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209227637
+            "county_id":1108730555,
+            "localadmin_id":1125356809,
+            "locality_id":1209227637,
+            "region_id":85688911
         }
     ],
     "wof:id":1209227637,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412013,
+    "wof:lastmodified":1646704300,
     "wof:name":"Eensgevonden",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125356809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

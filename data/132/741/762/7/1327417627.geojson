@@ -46,10 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125358577,
         85633813,
-        1108730591,
-        85688899
+        1108730591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730591,
+            "localadmin_id":1125358577,
             "locality_id":1327417627,
             "region_id":85688899
         }
@@ -83,9 +85,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411734,
+    "wof:lastmodified":1646704502,
     "wof:name":"Longhirst",
-    "wof:parent_id":1108730591,
+    "wof:parent_id":1125358577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

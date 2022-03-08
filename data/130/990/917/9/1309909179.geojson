@@ -39,10 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125412503,
         85633813,
-        1108730563,
-        85688911
+        1762966203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730563,
+            "county_id":1762966203,
+            "localadmin_id":1125412503,
             "locality_id":1309909179,
             "region_id":85688911
         }
@@ -76,9 +78,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412328,
+    "wof:lastmodified":1646701115,
     "wof:name":"Sibhudeni",
-    "wof:parent_id":1108730563,
+    "wof:parent_id":1125412503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

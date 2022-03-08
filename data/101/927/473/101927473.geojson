@@ -610,10 +610,11 @@
     "wd:longitude":30.33,
     "wd:wordcount":773,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271765,
         85633813,
-        1108730557,
-        85688911
+        1108730557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -630,6 +631,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730557,
+            "localadmin_id":1125271765,
             "locality_id":101927473,
             "region_id":85688911
         }
@@ -651,9 +653,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412270,
+    "wof:lastmodified":1646701395,
     "wof:name":"Utrecht",
-    "wof:parent_id":1108730557,
+    "wof:parent_id":1125271765,
     "wof:placetype":"locality",
     "wof:population":3575,
     "wof:population_rank":4,

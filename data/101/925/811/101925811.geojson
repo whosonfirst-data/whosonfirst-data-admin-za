@@ -282,9 +282,10 @@
     "wd:longitude":28.320556,
     "wd:wordcount":3122,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688923,
+        102191573,
+        1125360031,
+        85633813,
         1108730507
     ],
     "wof:breaches":[],
@@ -306,6 +307,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
+            "localadmin_id":1125360031,
             "locality_id":101925811,
             "region_id":85688923
         }
@@ -327,10 +329,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501680,
+    "wof:lastmodified":1646704836,
     "wof:megacity":1,
     "wof:name":"Benoni",
-    "wof:parent_id":1108730507,
+    "wof:parent_id":1125360031,
     "wof:placetype":"locality",
     "wof:population":605344,
     "wof:population_rank":11,

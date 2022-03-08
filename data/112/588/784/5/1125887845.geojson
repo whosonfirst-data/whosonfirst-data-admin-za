@@ -78,10 +78,11 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125271455,
         85633813,
-        1108730525,
-        85688927
+        1108730525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,6 +98,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730525,
+            "localadmin_id":1125271455,
             "locality_id":1125887845,
             "region_id":85688927
         }
@@ -118,9 +120,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412357,
+    "wof:lastmodified":1646703379,
     "wof:name":"Mount Frere",
-    "wof:parent_id":1108730525,
+    "wof:parent_id":1125271455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

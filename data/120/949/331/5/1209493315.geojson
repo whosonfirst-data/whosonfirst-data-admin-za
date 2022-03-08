@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125271393,
+        85633813,
+        1108730623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"c5dfa229a7bb8a11afe23c88e23595cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209493315
+            "county_id":1108730623,
+            "localadmin_id":1125271393,
+            "locality_id":1209493315,
+            "region_id":85688905
         }
     ],
     "wof:id":1209493315,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412011,
+    "wof:lastmodified":1646703240,
     "wof:name":"Genasfontein",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

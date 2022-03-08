@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125356809,
+        85633813,
+        1108730555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"938d6be9d2b9fed52d44570749fcf922",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209217675
+            "county_id":1108730555,
+            "localadmin_id":1125356809,
+            "locality_id":1209217675,
+            "region_id":85688911
         }
     ],
     "wof:id":1209217675,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412034,
+    "wof:lastmodified":1646704301,
     "wof:name":"Onvergenoeg",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125356809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

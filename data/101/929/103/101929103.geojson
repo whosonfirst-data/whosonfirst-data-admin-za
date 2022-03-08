@@ -53,10 +53,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":632,
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125271267,
         85633813,
-        1108730513,
-        85688927
+        1108730513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +75,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730513,
+            "localadmin_id":1125271267,
             "locality_id":101929103,
             "region_id":85688927
         }
@@ -95,9 +97,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412246,
+    "wof:lastmodified":1646702433,
     "wof:name":"Bulembu",
-    "wof:parent_id":1108730513,
+    "wof:parent_id":1125271267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

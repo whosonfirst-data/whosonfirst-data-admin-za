@@ -60,10 +60,11 @@
     "wd:longitude":31.116667,
     "wd:wordcount":366,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +85,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
+            "localadmin_id":1125360055,
             "locality_id":101927885,
             "region_id":85688911
         }
@@ -105,9 +107,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412270,
+    "wof:lastmodified":1646704886,
     "wof:name":"Umdloti",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

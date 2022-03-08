@@ -319,10 +319,11 @@
     "reversegeo:longitude":27.870019,
     "src:geom":"naturalearth",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125271267,
         85633813,
-        1108730513,
-        85688927
+        1108730513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -336,6 +337,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730513,
+            "localadmin_id":1125271267,
             "locality_id":1141909197,
             "region_id":85688927
         }
@@ -357,9 +359,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412559,
+    "wof:lastmodified":1646702422,
     "wof:name":"East London",
-    "wof:parent_id":1108730513,
+    "wof:parent_id":1125271267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

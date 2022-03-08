@@ -126,7 +126,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125421535,
+        85633813,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,8 +140,12 @@
     "wof:geomhash":"5b5d0dcaef42d8582d2843cdb1af21cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209417987
+            "county_id":1108730559,
+            "localadmin_id":1125421535,
+            "locality_id":1209417987,
+            "region_id":85688911
         }
     ],
     "wof:id":1209417987,
@@ -157,9 +165,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501668,
+    "wof:lastmodified":1646705859,
     "wof:name":"Bethel",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125421535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

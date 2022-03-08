@@ -233,9 +233,10 @@
     "wd:longitude":25.59,
     "wd:wordcount":160,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688931,
+        102191573,
+        1125374187,
+        85633813,
         1108730607
     ],
     "wof:breaches":[],
@@ -256,6 +257,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730607,
+            "localadmin_id":1125374187,
             "locality_id":101926641,
             "region_id":85688931
         }
@@ -277,9 +279,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501689,
+    "wof:lastmodified":1646705153,
     "wof:name":"Bloemhof",
-    "wof:parent_id":1108730607,
+    "wof:parent_id":1125374187,
     "wof:placetype":"locality",
     "wof:population":17122,
     "wof:population_rank":6,

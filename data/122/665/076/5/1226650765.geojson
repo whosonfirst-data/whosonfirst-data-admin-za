@@ -67,10 +67,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271415,
         85633813,
-        1108730569,
-        85688911
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +83,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730569,
+            "county_id":1762966205,
+            "localadmin_id":1125271415,
             "locality_id":1226650765,
             "region_id":85688911
         }
@@ -104,9 +106,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412547,
+    "wof:lastmodified":1646701203,
     "wof:name":"Mountain Home",
-    "wof:parent_id":1108730569,
+    "wof:parent_id":1125271415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

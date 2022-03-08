@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1125356829,
+        85633813,
+        1108730573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"83c14571d5b0d80a609ace885733aaa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209025303
+            "county_id":1108730573,
+            "localadmin_id":1125356829,
+            "locality_id":1209025303,
+            "region_id":85688935
         }
     ],
     "wof:id":1209025303,
@@ -70,9 +78,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412024,
+    "wof:lastmodified":1646704323,
     "wof:name":"Meadowbank",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125356829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

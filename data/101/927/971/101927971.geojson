@@ -472,9 +472,10 @@
     "wd:longitude":31.016667,
     "wd:wordcount":7045,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1125360055,
+        85633813,
         1108730571
     ],
     "wof:breaches":[],
@@ -500,6 +501,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
+            "localadmin_id":1125360055,
             "locality_id":101927971,
             "region_id":85688911
         }
@@ -521,10 +523,10 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646343937,
+    "wof:lastmodified":1646702049,
     "wof:megacity":1,
     "wof:name":"Durban",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:population":3120282,
     "wof:population_rank":12,

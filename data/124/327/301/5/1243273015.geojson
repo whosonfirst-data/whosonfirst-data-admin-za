@@ -63,10 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271839,
         85633813,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730551,
+            "localadmin_id":1125271839,
             "locality_id":1243273015,
             "region_id":85688911
         }
@@ -100,9 +102,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412449,
+    "wof:lastmodified":1646703834,
     "wof:name":"Hilltop",
-    "wof:parent_id":1108730551,
+    "wof:parent_id":1125271839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

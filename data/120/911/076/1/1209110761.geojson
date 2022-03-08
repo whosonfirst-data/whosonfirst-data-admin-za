@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1763143661,
+        85633813,
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"310541d5300b89beac0500b51e04b355",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209110761
+            "county_id":1108730517,
+            "localadmin_id":1763143661,
+            "locality_id":1209110761,
+            "region_id":85688927
         }
     ],
     "wof:id":1209110761,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412026,
+    "wof:lastmodified":1646701603,
     "wof:name":"Xengxe",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

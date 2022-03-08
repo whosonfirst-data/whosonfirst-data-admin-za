@@ -63,7 +63,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125423437,
+        85633813,
+        1108730523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +78,12 @@
     "wof:geomhash":"9963a611c83e7dfab117516f5b83ebde",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209319229
+            "county_id":1108730523,
+            "localadmin_id":1125423437,
+            "locality_id":1209319229,
+            "region_id":85688927
         }
     ],
     "wof:id":1209319229,
@@ -95,9 +103,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411987,
+    "wof:lastmodified":1646706009,
     "wof:name":"Flagstaff",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

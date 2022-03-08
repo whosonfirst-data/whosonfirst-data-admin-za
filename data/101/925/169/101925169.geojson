@@ -50,10 +50,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688931,
         102191573,
+        1125271429,
         85633813,
-        1108730603,
-        85688931
+        1108730603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730603,
+            "localadmin_id":1125271429,
             "locality_id":101925169,
             "region_id":85688931
         }
@@ -89,9 +91,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412225,
+    "wof:lastmodified":1646703287,
     "wof:name":"Jericho",
-    "wof:parent_id":1108730603,
+    "wof:parent_id":1125271429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

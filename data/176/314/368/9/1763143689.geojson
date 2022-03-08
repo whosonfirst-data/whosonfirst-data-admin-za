@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688931,
+        1108730609
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655950,
     "wof:geomhash":"14e0ea68283de476139c958b74c63a46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730609,
+            "localadmin_id":1763143689,
+            "region_id":85688931
+        }
+    ],
     "wof:id":1763143689,
-    "wof:lastmodified":1646344002,
+    "wof:lastmodified":1646701991,
     "wof:name":"JB Marks",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730609,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730549
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655937,
     "wof:geomhash":"6e2cf9c0a0f2d7b7ab436d207408a087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730549,
+            "localadmin_id":1763143669,
+            "region_id":85688911
+        }
+    ],
     "wof:id":1763143669,
-    "wof:lastmodified":1646343998,
+    "wof:lastmodified":1646701866,
     "wof:name":"Ray Nkonyeni",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730549,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

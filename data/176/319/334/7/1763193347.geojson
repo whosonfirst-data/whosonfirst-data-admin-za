@@ -36,8 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209103813,
-        85633813
+        102191573,
+        85633813,
+        1763193153,
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,12 @@
     "wof:geomhash":"b86ca74fdea712252f07dcb155d5820d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209103813,
-            "neighbourhood_id":1763193347
+            "county_id":1108730509,
+            "locality_id":1763193153,
+            "neighbourhood_id":1763193347,
+            "region_id":85688923
         }
     ],
     "wof:id":1763193347,
@@ -70,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341273,
+    "wof:lastmodified":1646706587,
     "wof:name":"Atholl Gardens",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763193153,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

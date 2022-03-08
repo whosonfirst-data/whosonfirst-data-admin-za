@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125404615,
+        85633813,
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"acfa70127b67751e17cb7271d98c48c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209110979
+            "county_id":1108730517,
+            "localadmin_id":1125404615,
+            "locality_id":1209110979,
+            "region_id":85688927
         }
     ],
     "wof:id":1209110979,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412026,
+    "wof:lastmodified":1646705626,
     "wof:name":"Mangweni",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125404615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

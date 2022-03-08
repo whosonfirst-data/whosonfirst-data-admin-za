@@ -72,10 +72,7 @@
     "wd:longitude":18.866667,
     "wd:wordcount":563,
     "wof:belongsto":[
-        102191573,
-        85633813,
-        85688905,
-        1108730611
+        1763143691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +88,10 @@
     "wof:geomhash":"18ca90e74008264eb332f4c873995f39",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "county_id":1108730611,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101928041,
-            "region_id":85688905
+            "region_id":-1
         }
     ],
     "wof:id":101928041,
@@ -115,9 +111,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646337600,
+    "wof:lastmodified":1646701323,
     "wof:name":"Gordon's Bay",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125271653,
+        85633813,
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"0338de52a242c90c55cba4d26977988d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209210647
+            "county_id":1108730595,
+            "localadmin_id":1125271653,
+            "locality_id":1209210647,
+            "region_id":85688899
         }
     ],
     "wof:id":1209210647,
@@ -69,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412034,
+    "wof:lastmodified":1646703620,
     "wof:name":"Matsap",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

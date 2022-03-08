@@ -59,11 +59,12 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1763143691,
         85633813,
-        1108730611,
         101928027,
-        85688905
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
+            "localadmin_id":1763143691,
             "locality_id":101928027,
             "neighbourhood_id":1126084629,
             "region_id":85688905
@@ -101,7 +103,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412377,
+    "wof:lastmodified":1646706123,
     "wof:name":"Grassy Park",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

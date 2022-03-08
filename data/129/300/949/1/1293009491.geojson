@@ -126,10 +126,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125356825,
         85633813,
-        1108730557,
-        85688911
+        1108730557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,6 +143,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730557,
+            "localadmin_id":1125356825,
             "locality_id":1293009491,
             "region_id":85688911
         }
@@ -163,9 +165,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411864,
+    "wof:lastmodified":1646704314,
     "wof:name":"Ramsgate",
-    "wof:parent_id":1108730557,
+    "wof:parent_id":1125356825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

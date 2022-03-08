@@ -240,9 +240,10 @@
     "wd:longitude":28.3,
     "wd:wordcount":943,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125271445,
+        85633813,
         1108730535
     ],
     "wof:breaches":[],
@@ -266,6 +267,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730535,
+            "localadmin_id":1125271445,
             "locality_id":101926801,
             "region_id":85688915
         }
@@ -287,9 +289,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501689,
+    "wof:lastmodified":1646703362,
     "wof:name":"Bethlehem",
-    "wof:parent_id":1108730535,
+    "wof:parent_id":1125271445,
     "wof:placetype":"locality",
     "wof:population":83654,
     "wof:population_rank":8,

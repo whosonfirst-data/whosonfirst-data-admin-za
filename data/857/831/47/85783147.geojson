@@ -64,11 +64,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":230,
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125360031,
         85633813,
-        1108730507,
         101925731,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +88,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
+            "localadmin_id":1125360031,
             "locality_id":101925731,
             "neighbourhood_id":85783147,
             "region_id":85688923
@@ -109,7 +111,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411842,
+    "wof:lastmodified":1646704843,
     "wof:name":"Aston Manor",
     "wof:parent_id":101925731,
     "wof:placetype":"neighbourhood",

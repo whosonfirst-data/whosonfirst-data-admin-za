@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1763143663,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +74,12 @@
     "wof:geomhash":"e32a95eb3877788747c4f772ca9a3f9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209128875
+            "county_id":1108730519,
+            "localadmin_id":1763143663,
+            "locality_id":1209128875,
+            "region_id":85688927
         }
     ],
     "wof:id":1209128875,
@@ -91,9 +99,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412006,
+    "wof:lastmodified":1646701649,
     "wof:name":"Mamre",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

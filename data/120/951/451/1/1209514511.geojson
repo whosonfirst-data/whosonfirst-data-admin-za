@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125374861,
+        85633813,
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"bf4b7c0f9ba273c1361a95efa569906f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209514511
+            "county_id":1762966201,
+            "localadmin_id":1125374861,
+            "locality_id":1209514511,
+            "region_id":85688927
         }
     ],
     "wof:id":1209514511,
@@ -86,9 +94,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412023,
+    "wof:lastmodified":1646701059,
     "wof:name":"Riebeek-Oos",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125374861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

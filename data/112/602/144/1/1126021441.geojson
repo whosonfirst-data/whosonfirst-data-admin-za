@@ -76,10 +76,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125271815,
         85633813,
-        1108730599,
-        85688899
+        1108730599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730599,
+            "localadmin_id":1125271815,
             "locality_id":1126021441,
             "region_id":85688899
         }
@@ -116,9 +118,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412353,
+    "wof:lastmodified":1646703783,
     "wof:name":"Warrenton",
-    "wof:parent_id":1108730599,
+    "wof:parent_id":1125271815,
     "wof:placetype":"locality",
     "wof:population":17946,
     "wof:population_rank":6,

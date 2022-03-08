@@ -54,11 +54,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1327434685,
-        1108730571,
-        85688911
+        101927971,
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +72,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
-            "locality_id":1327434685,
+            "localadmin_id":1125360055,
+            "locality_id":101927971,
             "neighbourhood_id":1763193209,
             "region_id":85688911
         }
@@ -93,9 +95,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341270,
+    "wof:lastmodified":1646706513,
     "wof:name":"Chesterville",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":101927971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

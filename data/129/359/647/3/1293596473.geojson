@@ -231,10 +231,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125356791,
         85633813,
-        1108730535,
-        85688915
+        1108730535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -247,6 +248,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730535,
+            "localadmin_id":1125356791,
             "locality_id":1293596473,
             "region_id":85688915
         }
@@ -268,9 +270,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411891,
+    "wof:lastmodified":1646704282,
     "wof:name":"Flora",
-    "wof:parent_id":1108730535,
+    "wof:parent_id":1125356791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -96,9 +96,10 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1125271249,
+        85633813,
         1108730551
     ],
     "wof:breaches":[],
@@ -110,6 +111,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730551,
+            "localadmin_id":1125271249,
             "locality_id":101927839,
             "region_id":85688911
         }
@@ -131,9 +133,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501686,
+    "wof:lastmodified":1646702397,
     "wof:name":"Town Hill",
-    "wof:parent_id":1108730551,
+    "wof:parent_id":1125271249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

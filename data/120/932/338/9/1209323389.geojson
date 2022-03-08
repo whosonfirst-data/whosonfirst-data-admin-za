@@ -117,7 +117,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125358597,
+        85633813,
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,8 +131,12 @@
     "wof:geomhash":"f9264ca8c1c504dc6dfb42e797410aff",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209323389
+            "county_id":1762966205,
+            "localadmin_id":1125358597,
+            "locality_id":1209323389,
+            "region_id":85688911
         }
     ],
     "wof:id":1209323389,
@@ -148,9 +156,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501669,
+    "wof:lastmodified":1646701182,
     "wof:name":"Islington",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125358597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

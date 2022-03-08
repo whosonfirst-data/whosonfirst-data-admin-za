@@ -64,10 +64,11 @@
     "woe:name_adm1":"Kwazulu Natal",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1763143669,
         85633813,
-        1108730549,
-        85688911
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +85,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730549,
+            "localadmin_id":1763143669,
             "locality_id":1125799207,
             "region_id":85688911
         }
@@ -105,9 +107,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412394,
+    "wof:lastmodified":1646701839,
     "wof:name":"Southbroom",
-    "wof:parent_id":1108730549,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

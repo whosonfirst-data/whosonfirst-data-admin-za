@@ -272,9 +272,10 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":122,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1763143673,
+        85633813,
         1108730553
     ],
     "wof:breaches":[],
@@ -298,6 +299,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730553,
+            "localadmin_id":1763143673,
             "locality_id":101926887,
             "region_id":85688911
         }
@@ -319,9 +321,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501687,
+    "wof:lastmodified":1646701888,
     "wof:name":"Ladysmith",
-    "wof:parent_id":1108730553,
+    "wof:parent_id":1763143673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

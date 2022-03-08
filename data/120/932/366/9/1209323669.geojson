@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1763143669,
+        85633813,
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"ef6364e23fa46245b01eb659b11c5149",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209323669
+            "county_id":1108730549,
+            "localadmin_id":1763143669,
+            "locality_id":1209323669,
+            "region_id":85688911
         }
     ],
     "wof:id":1209323669,
@@ -69,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412018,
+    "wof:lastmodified":1646701839,
     "wof:name":"Izotsha",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

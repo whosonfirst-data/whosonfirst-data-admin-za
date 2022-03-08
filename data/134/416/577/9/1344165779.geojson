@@ -129,9 +129,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1125360055,
+        85633813,
         1108730571
     ],
     "wof:breaches":[],
@@ -145,6 +146,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
+            "localadmin_id":1125360055,
             "locality_id":1344165779,
             "region_id":85688911
         }
@@ -166,9 +168,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501656,
+    "wof:lastmodified":1646704880,
     "wof:name":"Fraser",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

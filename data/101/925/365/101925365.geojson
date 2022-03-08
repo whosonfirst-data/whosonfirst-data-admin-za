@@ -224,9 +224,10 @@
     "wd:longitude":27.766667,
     "wd:wordcount":760,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688931,
+        102191573,
+        1125271429,
+        85633813,
         1108730603
     ],
     "wof:breaches":[],
@@ -247,6 +248,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730603,
+            "localadmin_id":1125271429,
             "locality_id":101925365,
             "region_id":85688931
         }
@@ -268,9 +270,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501680,
+    "wof:lastmodified":1646703291,
     "wof:name":"Brits",
-    "wof:parent_id":1108730603,
+    "wof:parent_id":1125271429,
     "wof:placetype":"locality",
     "wof:population":122497,
     "wof:population_rank":9,

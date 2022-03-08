@@ -64,10 +64,11 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125395899,
         85633813,
-        1108730621,
-        85688905
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +84,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730621,
+            "county_id":1762966207,
+            "localadmin_id":1125395899,
             "locality_id":1126013379,
             "region_id":85688905
         }
@@ -105,9 +107,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412382,
+    "wof:lastmodified":1646701265,
     "wof:name":"Hartenbos",
-    "wof:parent_id":1108730621,
+    "wof:parent_id":1125395899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

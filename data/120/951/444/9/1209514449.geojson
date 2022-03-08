@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125362667,
+        85633813,
+        1108730521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"f9225c4a86b683ad3242ef4d1508ba6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209514449
+            "county_id":1108730521,
+            "localadmin_id":1125362667,
+            "locality_id":1209514449,
+            "region_id":85688927
         }
     ],
     "wof:id":1209514449,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412023,
+    "wof:lastmodified":1646704953,
     "wof:name":"Frankstead",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125362667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -37,8 +37,11 @@
         "state_id":2346987
     },
     "wof:belongsto":[
+        85688905,
+        102191573,
+        1125423561,
         85633813,
-        85688905
+        1108730613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +55,12 @@
     "wof:hierarchy":[
         {
             "campus_id":102546697,
+            "continent_id":102191573,
             "country_id":85633813,
+            "county_id":1108730613,
+            "localadmin_id":1125423561,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85688905
         }
     ],
@@ -73,9 +81,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1631750718,
+    "wof:lastmodified":1646706065,
     "wof:name":"Saldanha Vredenburg Airport",
-    "wof:parent_id":85688905,
+    "wof:parent_id":1125423561,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688931,
+        102191573,
+        1125358719,
+        85633813,
+        1108730607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"a325f9bf8685028bdd2d0933fbe5f4b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209101363
+            "county_id":1108730607,
+            "localadmin_id":1125358719,
+            "locality_id":1209101363,
+            "region_id":85688931
         }
     ],
     "wof:id":1209101363,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412036,
+    "wof:lastmodified":1646704646,
     "wof:name":"Mabone",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125358719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1762966205
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655942,
     "wof:geomhash":"63b3ba9302f379869272ff2a1120a33c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1762966205,
+            "localadmin_id":1763143679,
+            "region_id":85688911
+        }
+    ],
     "wof:id":1763143679,
-    "wof:lastmodified":1646344000,
+    "wof:lastmodified":1646701916,
     "wof:name":"Dr Nkosazana Dlamini Zuma",
-    "wof:parent_id":-1,
+    "wof:parent_id":1762966205,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

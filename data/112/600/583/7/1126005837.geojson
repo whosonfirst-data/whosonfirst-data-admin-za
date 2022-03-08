@@ -122,9 +122,10 @@
     "woe:name_adm1":"Eastern Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1763143661,
+        85633813,
         1108730517
     ],
     "wof:breaches":[],
@@ -142,6 +143,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730517,
+            "localadmin_id":1763143661,
             "locality_id":1126005837,
             "region_id":85688927
         }
@@ -163,9 +165,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501699,
+    "wof:lastmodified":1646701614,
     "wof:name":"Alice",
-    "wof:parent_id":1108730517,
+    "wof:parent_id":1763143661,
     "wof:placetype":"locality",
     "wof:population":9788,
     "wof:population_rank":5,

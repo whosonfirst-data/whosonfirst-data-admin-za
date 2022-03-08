@@ -90,9 +90,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688935,
+        102191573,
+        1125423435,
+        85633813,
         1108730575
     ],
     "wof:breaches":[],
@@ -107,6 +108,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730575,
+            "localadmin_id":1125423435,
             "locality_id":1292985497,
             "region_id":85688935
         }
@@ -128,9 +130,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501663,
+    "wof:lastmodified":1646705983,
     "wof:name":"Musina",
-    "wof:parent_id":1108730575,
+    "wof:parent_id":1125423435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -39,8 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209336797,
-        85633813
+        102191573,
+        85633813,
+        101925703,
+        1108730509,
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,12 @@
     "wof:geomhash":"df2c9c02c1117dfcac2d7b5e8992faf8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209336797,
-            "neighbourhood_id":1763193343
+            "county_id":1108730509,
+            "locality_id":101925703,
+            "neighbourhood_id":1763193343,
+            "region_id":85688923
         }
     ],
     "wof:id":1763193343,
@@ -73,9 +79,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341273,
+    "wof:lastmodified":1646706584,
     "wof:name":"Fontainebleau",
-    "wof:parent_id":85633813,
+    "wof:parent_id":101925703,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

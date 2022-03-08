@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125271857,
+        85633813,
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"5c1176d0729d5b92bcbe3f7937938823",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209017359
+            "county_id":1108730549,
+            "localadmin_id":1125271857,
+            "locality_id":1209017359,
+            "region_id":85688911
         }
     ],
     "wof:id":1209017359,
@@ -70,9 +78,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411995,
+    "wof:lastmodified":1646703850,
     "wof:name":"Kuze",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

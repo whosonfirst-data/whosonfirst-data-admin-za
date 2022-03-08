@@ -107,11 +107,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1108730571,
-        101927987,
-        85688911
+        1175615693,
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +133,8 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
-            "locality_id":101927987,
+            "localadmin_id":1125360055,
+            "locality_id":1175615693,
             "neighbourhood_id":85772605,
             "region_id":85688911
         }
@@ -154,9 +156,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411844,
+    "wof:lastmodified":1646704893,
     "wof:name":"Umlazi",
-    "wof:parent_id":101927987,
+    "wof:parent_id":1175615693,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125412483,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"d2bc21e6226962a1303fc1d849dd3cb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209219379
+            "county_id":1108730519,
+            "localadmin_id":1125412483,
+            "locality_id":1209219379,
+            "region_id":85688927
         }
     ],
     "wof:id":1209219379,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412034,
+    "wof:lastmodified":1646705771,
     "wof:name":"Mawusheni",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125412483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

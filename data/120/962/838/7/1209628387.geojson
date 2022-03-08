@@ -102,7 +102,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1763143679,
+        85633813,
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,8 +116,12 @@
     "wof:geomhash":"245e7cb2f41ca792dfc6fd1a378b9154",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209628387
+            "county_id":1762966205,
+            "localadmin_id":1763143679,
+            "locality_id":1209628387,
+            "region_id":85688911
         }
     ],
     "wof:id":1209628387,
@@ -133,9 +141,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411994,
+    "wof:lastmodified":1646701205,
     "wof:name":"Fairview",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

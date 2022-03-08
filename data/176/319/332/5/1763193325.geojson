@@ -51,8 +51,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209396031,
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +66,13 @@
     "wof:geomhash":"e88e73f2cfb660387d5742b04c739b19",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209396031,
-            "neighbourhood_id":1763193325
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193325,
+            "region_id":85688905
         }
     ],
     "wof:id":1763193325,
@@ -84,9 +92,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646341272,
+    "wof:lastmodified":1646706574,
     "wof:name":"Rocklands",
-    "wof:parent_id":85633813,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -91,10 +91,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125271715,
         85633813,
-        1108730593,
-        85688899
+        1108730593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,6 +115,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730593,
+            "localadmin_id":1125271715,
             "locality_id":1125872081,
             "region_id":85688899
         }
@@ -135,9 +137,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412367,
+    "wof:lastmodified":1646703678,
     "wof:name":"Calvinia",
-    "wof:parent_id":1108730593,
+    "wof:parent_id":1125271715,
     "wof:placetype":"locality",
     "wof:population":8146,
     "wof:population_rank":5,

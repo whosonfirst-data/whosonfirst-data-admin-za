@@ -35,10 +35,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125330195,
         85633813,
-        1108730617,
-        85688905
+        1108730617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +52,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730617,
+            "localadmin_id":1125330195,
             "locality_id":1277155223,
             "region_id":85688905
         }
@@ -72,9 +74,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411957,
+    "wof:lastmodified":1646704270,
     "wof:name":"Hardys Memories of Africa",
-    "wof:parent_id":1108730617,
+    "wof:parent_id":1125330195,
     "wof:placetype":"locality",
     "wof:population":7500,
     "wof:population_rank":5,

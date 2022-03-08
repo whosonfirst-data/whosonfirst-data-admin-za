@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1763143663,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"c2804f414f5e1bb573eb78c41bfc9fc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209246671
+            "county_id":1108730519,
+            "localadmin_id":1763143663,
+            "locality_id":1209246671,
+            "region_id":85688927
         }
     ],
     "wof:id":1209246671,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412008,
+    "wof:lastmodified":1646701649,
     "wof:name":"Hartebeesnek (2)",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

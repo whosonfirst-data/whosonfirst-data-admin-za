@@ -66,10 +66,11 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125374101,
         85633813,
-        1108730593,
-        85688899
+        1108730593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,6 +86,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730593,
+            "localadmin_id":1125374101,
             "locality_id":1125781431,
             "region_id":85688899
         }
@@ -106,9 +108,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412391,
+    "wof:lastmodified":1646705131,
     "wof:name":"Garies",
-    "wof:parent_id":1108730593,
+    "wof:parent_id":1125374101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

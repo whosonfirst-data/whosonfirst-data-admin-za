@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125361573,
+        85633813,
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +66,12 @@
     "wof:geomhash":"549e077e0e3d480515a843de6ce8dc5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209694117
+            "county_id":1108730615,
+            "localadmin_id":1125361573,
+            "locality_id":1209694117,
+            "region_id":85688905
         }
     ],
     "wof:id":1209694117,
@@ -83,9 +91,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412022,
+    "wof:lastmodified":1646704910,
     "wof:name":"Pniel",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125361573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

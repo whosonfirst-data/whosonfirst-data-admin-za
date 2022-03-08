@@ -57,11 +57,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125361573,
         85633813,
-        1108730615,
         101928023,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730615,
+            "localadmin_id":1125361573,
             "locality_id":101928023,
             "neighbourhood_id":85783273,
             "region_id":85688905
@@ -101,7 +103,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411833,
+    "wof:lastmodified":1646704913,
     "wof:name":"Simonswyk",
     "wof:parent_id":101928023,
     "wof:placetype":"neighbourhood",

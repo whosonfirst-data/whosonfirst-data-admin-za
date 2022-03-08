@@ -126,9 +126,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125271445,
+        85633813,
         1108730535
     ],
     "wof:breaches":[],
@@ -142,6 +143,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730535,
+            "localadmin_id":1125271445,
             "locality_id":1309805355,
             "region_id":85688915
         }
@@ -163,9 +165,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501693,
+    "wof:lastmodified":1646703359,
     "wof:name":"Mackenzie",
-    "wof:parent_id":1108730535,
+    "wof:parent_id":1125271445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

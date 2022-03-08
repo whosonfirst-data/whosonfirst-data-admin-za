@@ -276,7 +276,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1763143665,
+        85633813,
+        1108730521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -286,8 +290,12 @@
     "wof:geomhash":"378dcd5ab5779b71f70de83744f0c33d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209520367
+            "county_id":1108730521,
+            "localadmin_id":1763143665,
+            "locality_id":1209520367,
+            "region_id":85688927
         }
     ],
     "wof:id":1209520367,
@@ -307,9 +315,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412000,
+    "wof:lastmodified":1646701794,
     "wof:name":"Haarlem",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

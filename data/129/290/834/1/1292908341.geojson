@@ -180,9 +180,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1125382569,
+        85633813,
         1108730519
     ],
     "wof:breaches":[],
@@ -196,6 +197,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730519,
+            "localadmin_id":1125382569,
             "locality_id":1292908341,
             "region_id":85688927
         }
@@ -217,9 +219,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501663,
+    "wof:lastmodified":1646705261,
     "wof:name":"Roma",
-    "wof:parent_id":1108730519,
+    "wof:parent_id":1125382569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

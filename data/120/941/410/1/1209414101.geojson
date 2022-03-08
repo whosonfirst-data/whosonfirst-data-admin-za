@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125382609,
+        85633813,
+        1108730523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"108f4589cbc726881cf499a4c6a8253b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209414101
+            "county_id":1108730523,
+            "localadmin_id":1125382609,
+            "locality_id":1209414101,
+            "region_id":85688927
         }
     ],
     "wof:id":1209414101,
@@ -69,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412005,
+    "wof:lastmodified":1646705427,
     "wof:name":"Isinuka",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

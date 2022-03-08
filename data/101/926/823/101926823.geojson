@@ -80,10 +80,11 @@
     "wd:longitude":27.95,
     "wd:wordcount":378,
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125271445,
         85633813,
-        1108730535,
-        85688915
+        1108730535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +100,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730535,
+            "localadmin_id":1125271445,
             "locality_id":101926823,
             "region_id":85688915
         }
@@ -120,9 +122,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412291,
+    "wof:lastmodified":1646703361,
     "wof:name":"Paul Roux",
-    "wof:parent_id":1108730535,
+    "wof:parent_id":1125271445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

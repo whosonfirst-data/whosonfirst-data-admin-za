@@ -79,10 +79,11 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125423561,
         85633813,
-        1108730613,
-        85688905
+        1108730613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,6 +100,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730613,
+            "localadmin_id":1125423561,
             "locality_id":1126014735,
             "region_id":85688905
         }
@@ -120,9 +122,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412383,
+    "wof:lastmodified":1646706061,
     "wof:name":"Paternoster",
-    "wof:parent_id":1108730613,
+    "wof:parent_id":1125423561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

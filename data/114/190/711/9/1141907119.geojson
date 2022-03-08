@@ -166,9 +166,10 @@
     "reversegeo:longitude":19.383354,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688899,
+        102191573,
+        1125412493,
+        85633813,
         1108730593
     ],
     "wof:breaches":[],
@@ -181,6 +182,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730593,
+            "localadmin_id":1125412493,
             "locality_id":1141907119,
             "region_id":85688899
         }
@@ -202,9 +204,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501710,
+    "wof:lastmodified":1646705833,
     "wof:name":"Poffader",
-    "wof:parent_id":1108730593,
+    "wof:parent_id":1125412493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

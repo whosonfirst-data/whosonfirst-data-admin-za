@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125382593,
+        85633813,
+        1108730525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"1d3094b9329c1f8a4cb6068ac765d0b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209313747
+            "county_id":1108730525,
+            "localadmin_id":1125382593,
+            "locality_id":1209313747,
+            "region_id":85688927
         }
     ],
     "wof:id":1209313747,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411988,
+    "wof:lastmodified":1646705365,
     "wof:name":"KwaMagadla",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

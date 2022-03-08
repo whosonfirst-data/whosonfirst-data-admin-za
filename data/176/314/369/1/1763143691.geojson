@@ -20,7 +20,12 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730611
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101928027
@@ -28,11 +33,19 @@
     "wof:country":"ZA",
     "wof:created":1645655951,
     "wof:geomhash":"683abbd07eb54e12fbc3eff21e5f7899",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "region_id":85688905
+        }
+    ],
     "wof:id":1763143691,
-    "wof:lastmodified":1646343938,
+    "wof:lastmodified":1646706175,
     "wof:name":"City of Cape Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730611,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

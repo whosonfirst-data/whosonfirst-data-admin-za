@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1125285693,
+        85633813,
+        1108730577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +62,12 @@
     "wof:geomhash":"c109709c9fb74a420708372b1656038e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209025187
+            "county_id":1108730577,
+            "localadmin_id":1125285693,
+            "locality_id":1209025187,
+            "region_id":85688935
         }
     ],
     "wof:id":1209025187,
@@ -79,9 +87,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501669,
+    "wof:lastmodified":1646704179,
     "wof:name":"Lebu",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125285693,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

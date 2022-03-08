@@ -233,9 +233,10 @@
     "wd:longitude":30.454722,
     "wd:wordcount":331,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1763143669,
+        85633813,
         1108730549
     ],
     "wof:breaches":[],
@@ -259,6 +260,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730549,
+            "localadmin_id":1763143669,
             "locality_id":101929321,
             "region_id":85688911
         }
@@ -280,9 +282,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501683,
+    "wof:lastmodified":1646701861,
     "wof:name":"Port Shepstone",
-    "wof:parent_id":1108730549,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:population":52793,
     "wof:population_rank":8,

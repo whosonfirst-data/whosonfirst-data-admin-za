@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125358657,
+        85633813,
+        1108730523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"93d07d63e5cfa4d2115a3771f65b3b88",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209219445
+            "county_id":1108730523,
+            "localadmin_id":1125358657,
+            "locality_id":1209219445,
+            "region_id":85688927
         }
     ],
     "wof:id":1209219445,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412035,
+    "wof:lastmodified":1646704593,
     "wof:name":"eLundi",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125358657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

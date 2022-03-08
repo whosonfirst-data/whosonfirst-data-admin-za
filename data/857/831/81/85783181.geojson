@@ -60,11 +60,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125360031,
         85633813,
-        1108730507,
         101925733,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +83,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
+            "localadmin_id":1125360031,
             "locality_id":101925733,
             "neighbourhood_id":85783181,
             "region_id":85688923
@@ -104,7 +106,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411842,
+    "wof:lastmodified":1646704844,
     "wof:name":"Isandovale",
     "wof:parent_id":101925733,
     "wof:placetype":"neighbourhood",

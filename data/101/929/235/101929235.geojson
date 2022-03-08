@@ -239,10 +239,11 @@
     "wd:longitude":26.883333,
     "wd:wordcount":408,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
-        1108730515
+        102191573,
+        1125374233,
+        85633813,
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,7 +265,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730515,
+            "county_id":1762966201,
+            "localadmin_id":1125374233,
             "locality_id":101929235,
             "region_id":85688927
         }
@@ -286,9 +288,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501682,
+    "wof:lastmodified":1646701077,
     "wof:name":"Port Alfred",
-    "wof:parent_id":1108730515,
+    "wof:parent_id":1125374233,
     "wof:placetype":"locality",
     "wof:population":17959,
     "wof:population_rank":6,

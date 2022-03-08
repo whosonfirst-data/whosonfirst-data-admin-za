@@ -48,11 +48,12 @@
     "woe:name_adm1":"North-West",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688931,
         102191573,
+        1125394937,
         85633813,
-        1108730603,
         101925429,
-        85688931
+        1108730603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730603,
+            "localadmin_id":1125394937,
             "locality_id":101925429,
             "neighbourhood_id":1126066011,
             "region_id":85688931
@@ -90,7 +92,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412382,
+    "wof:lastmodified":1646705583,
     "wof:name":"Rustenburg North",
     "wof:parent_id":101925429,
     "wof:placetype":"neighbourhood",

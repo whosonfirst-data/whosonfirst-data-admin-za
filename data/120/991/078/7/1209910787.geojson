@@ -184,10 +184,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125358729,
         85633813,
-        1108730585,
-        85688895
+        1108730585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -200,6 +201,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730585,
+            "localadmin_id":1125358729,
             "locality_id":1209910787,
             "region_id":85688895
         }
@@ -221,9 +223,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411991,
+    "wof:lastmodified":1646704795,
     "wof:name":"Evergreen",
-    "wof:parent_id":1108730585,
+    "wof:parent_id":1125358729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

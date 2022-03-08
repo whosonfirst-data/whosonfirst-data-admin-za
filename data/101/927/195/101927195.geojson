@@ -62,10 +62,11 @@
     "wd:longitude":3.392973,
     "wd:wordcount":518,
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125320713,
         85633813,
-        1108730589,
-        85688895
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +81,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730589,
+            "localadmin_id":1125320713,
             "locality_id":101927195,
             "region_id":85688895
         }
@@ -101,9 +103,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412255,
+    "wof:lastmodified":1646701430,
     "wof:name":"Makoko",
-    "wof:parent_id":1108730589,
+    "wof:parent_id":1125320713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

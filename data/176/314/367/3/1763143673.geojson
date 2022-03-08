@@ -20,16 +20,29 @@
     ],
     "src:geom":"za-mdb",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730553
+    ],
     "wof:breaches":[],
     "wof:country":"ZA",
     "wof:created":1645655939,
     "wof:geomhash":"27d63590bb43615ac3f8ef2c839b383e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730553,
+            "localadmin_id":1763143673,
+            "region_id":85688911
+        }
+    ],
     "wof:id":1763143673,
-    "wof:lastmodified":1646343999,
+    "wof:lastmodified":1646701892,
     "wof:name":"Alfred Duma",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108730553,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -83,9 +83,12 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688905,
         102191573,
-        101928035,
-        85633813
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,9 +108,11 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":101928035,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
             "neighbourhood_id":85772291,
-            "region_id":-1
+            "region_id":85688905
         }
     ],
     "wof:id":85772291,
@@ -127,9 +132,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646343936,
+    "wof:lastmodified":1646706186,
     "wof:name":"Llandudno",
-    "wof:parent_id":101928035,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

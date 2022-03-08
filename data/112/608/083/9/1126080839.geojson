@@ -107,6 +107,7 @@
     "wof:belongsto":[
         102191573,
         85633813,
+        101925471,
         1108730545,
         85688923
     ],
@@ -124,7 +125,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730545,
-            "locality_id":-1,
+            "locality_id":101925471,
             "neighbourhood_id":1126080839,
             "region_id":85688923
         }
@@ -146,9 +147,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412376,
+    "wof:lastmodified":1646702015,
     "wof:name":"Eastwood",
-    "wof:parent_id":-1,
+    "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

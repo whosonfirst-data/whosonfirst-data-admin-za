@@ -175,9 +175,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125358549,
+        85633813,
         1108730537
     ],
     "wof:breaches":[],
@@ -191,6 +192,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730537,
+            "localadmin_id":1125358549,
             "locality_id":1310427679,
             "region_id":85688915
         }
@@ -212,9 +214,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501676,
+    "wof:lastmodified":1646704367,
     "wof:name":"Richmond",
-    "wof:parent_id":1108730537,
+    "wof:parent_id":1125358549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
