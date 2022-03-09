@@ -126,19 +126,19 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1579625,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":775,
     "wof:belongsto":[
-        85688905,
         102191573,
         1763143691,
         85633813,
         101928027,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,7 +179,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646706179,
+    "wof:lastmodified":1646853936,
     "wof:name":"Bantry Bay",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
