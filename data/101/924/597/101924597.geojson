@@ -129,10 +129,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":904,
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125382571,
         85633813,
-        1108730589,
-        85688895
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,6 +148,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730589,
+            "localadmin_id":1125382571,
             "locality_id":101924597,
             "region_id":85688895
         }
@@ -168,9 +170,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412191,
+    "wof:lastmodified":1646705311,
     "wof:name":"Justicia",
-    "wof:parent_id":1108730589,
+    "wof:parent_id":1125382571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -64,10 +64,11 @@
     "wd:longitude":32.0833,
     "wd:wordcount":76,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271335,
         85633813,
-        1108730563,
-        85688911
+        1762966203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730563,
+            "county_id":1762966203,
+            "localadmin_id":1125271335,
             "locality_id":101927687,
             "region_id":85688911
         }
@@ -107,9 +109,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412259,
+    "wof:lastmodified":1646701127,
     "wof:name":"KwaMbonambi",
-    "wof:parent_id":1108730563,
+    "wof:parent_id":1125271335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

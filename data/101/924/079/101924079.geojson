@@ -81,10 +81,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125271833,
         85633813,
-        1108730575,
-        85688935
+        1108730575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +99,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730575,
+            "localadmin_id":1125271833,
             "locality_id":101924079,
             "region_id":85688935
         }
@@ -119,9 +121,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412182,
+    "wof:lastmodified":1646703812,
     "wof:name":"Elim",
-    "wof:parent_id":1108730575,
+    "wof:parent_id":1125271833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

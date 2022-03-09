@@ -233,10 +233,11 @@
     "wd:longitude":24.540556,
     "wd:wordcount":5256,
     "wof:belongsto":[
+        85688927,
         102191573,
+        1763143657,
         85633813,
-        1108730515,
-        85688927
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +259,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730515,
+            "county_id":1762966201,
+            "localadmin_id":1763143657,
             "locality_id":101928047,
             "region_id":85688927
         }
@@ -280,9 +282,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412305,
+    "wof:lastmodified":1646701050,
     "wof:name":"Graaff-Reinet",
-    "wof:parent_id":1108730515,
+    "wof:parent_id":1763143657,
     "wof:placetype":"locality",
     "wof:population":62896,
     "wof:population_rank":8,

@@ -68,10 +68,11 @@
     "wd:longitude":27.033333,
     "wd:wordcount":454,
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125382591,
         85633813,
-        1108730539,
-        85688915
+        1108730539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +88,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730539,
+            "localadmin_id":1125382591,
             "locality_id":101927127,
             "region_id":85688915
         }
@@ -108,9 +110,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412264,
+    "wof:lastmodified":1646701504,
     "wof:name":"Wepener",
-    "wof:parent_id":1108730539,
+    "wof:parent_id":1125382591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

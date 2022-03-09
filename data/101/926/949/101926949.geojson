@@ -230,9 +230,10 @@
     "wd:longitude":26.466667,
     "wd:wordcount":136,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125271203,
+        85633813,
         1108730533
     ],
     "wof:breaches":[],
@@ -253,6 +254,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730533,
+            "localadmin_id":1125271203,
             "locality_id":101926949,
             "region_id":85688915
         }
@@ -274,9 +276,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501688,
+    "wof:lastmodified":1646702358,
     "wof:name":"Brandfort",
-    "wof:parent_id":1108730533,
+    "wof:parent_id":1125271203,
     "wof:placetype":"locality",
     "wof:population":12091,
     "wof:population_rank":6,

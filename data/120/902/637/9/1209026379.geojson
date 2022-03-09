@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125271653,
+        85633813,
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +71,12 @@
     "wof:geomhash":"9e683fe4cdbba7f0eed804248cc06472",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209026379
+            "county_id":1108730595,
+            "localadmin_id":1125271653,
+            "locality_id":1209026379,
+            "region_id":85688899
         }
     ],
     "wof:id":1209026379,
@@ -88,9 +96,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412024,
+    "wof:lastmodified":1646703614,
     "wof:name":"Pelindaba",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

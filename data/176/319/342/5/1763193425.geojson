@@ -1,0 +1,135 @@
+{
+  "id": 1763193425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4735378.441064,
+    "geom:bbox":"18.44682,-33.694381,18.44682,-33.694381",
+    "geom:latitude":-33.694381,
+    "geom:longitude":18.44682,
+    "iso:country":"ZA",
+    "lbl:latitude":-33.694381,
+    "lbl:longitude":18.44682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":-33.694381,
+    "mps:longitude":18.44682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:eng_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:fra_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30eb\u30af\u30dc\u30b9\u30b9\u30c8\u30e9\u30f3\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:nso_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:ron_x_preferred":[
+        "Melkbosstrand"
+    ],
+    "name:und_x_variant":[
+        "Melkboschstrand"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u723e\u514b\u535a\u65af\u7279\u862d"
+    ],
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Melkbosstrand",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "wd:latitude":-33.733333,
+    "wd:longitude":18.433333,
+    "wd:wordcount":1293,
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3364208,
+        "gp:id":1584872,
+        "qs_pg:id":1287512,
+        "wd:id":"Q3642280"
+    },
+    "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"f5ac0882420dfbbca30ee903cf604c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193425,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193425,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706629,
+    "wof:name":"Melkbosstrand",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101928011
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44682,
+    -33.694381,
+    18.44682,
+    -33.694381
+],
+  "geometry": {"coordinates":[18.44682,-33.694381],"type":"Point"}
+}

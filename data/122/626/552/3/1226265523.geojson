@@ -45,10 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125358543,
         85633813,
-        1108730517,
-        85688927
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730517,
+            "localadmin_id":1125358543,
             "locality_id":1226265523,
             "region_id":85688927
         }
@@ -83,9 +85,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412511,
+    "wof:lastmodified":1646704356,
     "wof:name":"Kei Mouth",
-    "wof:parent_id":1108730517,
+    "wof:parent_id":1125358543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

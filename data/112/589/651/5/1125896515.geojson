@@ -83,9 +83,10 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
+        102191573,
+        1125271393,
+        85633813,
         1108730623
     ],
     "wof:breaches":[],
@@ -102,6 +103,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730623,
+            "localadmin_id":1125271393,
             "locality_id":1125896515,
             "region_id":85688905
         }
@@ -123,9 +125,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501695,
+    "wof:lastmodified":1646703241,
     "wof:name":"Prince Albert",
-    "wof:parent_id":1108730623,
+    "wof:parent_id":1125271393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -60,10 +60,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
+        85688923,
         102191573,
+        1763143667,
         85633813,
-        1108730543,
-        85688923
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
+            "localadmin_id":1763143667,
             "locality_id":101926041,
             "region_id":85688923
         }
@@ -100,9 +102,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412280,
+    "wof:lastmodified":1646701829,
     "wof:name":"Bekkersdal",
-    "wof:parent_id":1108730543,
+    "wof:parent_id":1763143667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

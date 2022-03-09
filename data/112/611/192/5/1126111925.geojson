@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"2017-05-19",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -94,7 +95,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,8 +112,12 @@
     "wof:geomhash":"2c4a2646634a5e9fa44f9229995cadc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1126111925
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":1126111925,
+            "region_id":85688905
         }
     ],
     "wof:id":1126111925,
@@ -128,14 +137,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412353,
+    "wof:lastmodified":1646706297,
     "wof:name":"Somerset West",
-    "wof:parent_id":-1,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:population":183493,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

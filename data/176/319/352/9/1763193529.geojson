@@ -1,0 +1,121 @@
+{
+  "id": 1763193529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56119,-34.0731,18.56119,-34.0731",
+    "geom:latitude":-34.0731,
+    "geom:longitude":18.56119,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.54119,-34.0931,18.58119,-34.0531",
+    "lbl:latitude":-34.0731,
+    "lbl:longitude":18.56119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Strandfontein"
+    ],
+    "name:eng_x_preferred":[
+        "Strandfontein"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3360925,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Strandfontein",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905662,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1591356,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3360925,
+        "gp:id":1591356,
+        "qs_pg:id":905662,
+        "wd:id":"Q15962431"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497293126,
+    "wof:geomhash":"dcad1d4790575fbd856574cbf0ba8bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193529,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193529,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706686,
+    "wof:name":"Strandfontein",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125845259
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56119,
+    -34.0731,
+    18.56119,
+    -34.0731
+],
+  "geometry": {"coordinates":[18.56119,-34.0731],"type":"Point"}
+}

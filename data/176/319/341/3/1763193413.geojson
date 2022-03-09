@@ -1,0 +1,104 @@
+{
+  "id": 1763193413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":358360.172803,
+    "geom:bbox":"31.012802,-29.896606,31.012802,-29.896606",
+    "geom:latitude":-29.896606,
+    "geom:longitude":31.012802,
+    "iso:country":"ZA",
+    "lbl:latitude":-29.895802,
+    "lbl:longitude":31.013115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":-29.895802,
+    "mps:longitude":31.013115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "qs:a0":"South Africa",
+    "qs:a0_lc":"ZAF",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"South Africa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"King's Rest",
+    "qs:pop":0,
+    "qs:source":"FGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85688911,
+        102191573,
+        1125360055,
+        85633813,
+        101927971,
+        1108730571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":990868,
+        "gp:id":1582812,
+        "qs_pg:id":1300349
+    },
+    "wof:country":"ZA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e7113e18c452618ca6078475dcf87df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730571,
+            "localadmin_id":1125360055,
+            "locality_id":101927971,
+            "neighbourhood_id":1763193413,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":1763193413,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706622,
+    "wof:name":"King's Rest",
+    "wof:parent_id":101927971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101927973
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.012802,
+    -29.896606,
+    31.012802,
+    -29.896606
+],
+  "geometry": {"coordinates":[31.012802,-29.896606],"type":"Point"}
+}

@@ -124,10 +124,11 @@
     "wd:longitude":31.289444,
     "wd:wordcount":589,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125382587,
         85633813,
-        1108730567,
-        85688911
+        1108730567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,6 +144,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730567,
+            "localadmin_id":1125382587,
             "locality_id":101927777,
             "region_id":85688911
         }
@@ -164,9 +166,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412265,
+    "wof:lastmodified":1646705331,
     "wof:name":"KwaDukuza",
-    "wof:parent_id":1108730567,
+    "wof:parent_id":1125382587,
     "wof:placetype":"locality",
     "wof:population":59899,
     "wof:population_rank":8,

@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
-    "geom:area":0.00046,
+    "geom:area":0.0,
     "geom:area_square_m":4735378.441064,
-    "geom:bbox":"18.440245,-33.736786,18.462021,-33.679531",
-    "geom:latitude":-33.705995,
-    "geom:longitude":18.449707,
+    "geom:bbox":"18.44682,-33.694381,18.44682,-33.694381",
+    "geom:latitude":-33.694381,
+    "geom:longitude":18.44682,
     "iso:country":"ZA",
     "lbl:latitude":-33.694381,
     "lbl:longitude":18.44682,
@@ -17,7 +18,7 @@
     "mps:latitude":-33.694381,
     "mps:longitude":18.44682,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Melkbosstrand"
@@ -67,10 +68,7 @@
     "wd:longitude":18.433333,
     "wd:wordcount":1293,
     "wof:belongsto":[
-        102191573,
-        85633813,
-        1108730611,
-        85688905
+        1763143691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +81,13 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc9776ff9692d6337468f87474d247d7",
+    "wof:geomhash":"f5ac0882420dfbbca30ee903cf604c21",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "county_id":1108730611,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101928011,
-            "region_id":85688905
+            "region_id":-1
         }
     ],
     "wof:id":101928011,
@@ -110,20 +107,22 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412317,
+    "wof:lastmodified":1646701303,
     "wof:name":"Melkbosstrand",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    18.440245,
-    -33.736786,
-    18.462021,
-    -33.679531
+    18.44682,
+    -33.694381,
+    18.44682,
+    -33.694381
 ],
-  "geometry": {"coordinates":[[[18.462021,-33.679531],[18.461868,-33.688366],[18.450863,-33.697067],[18.452976,-33.72739],[18.447145,-33.736786],[18.442701,-33.735149],[18.442621,-33.733635],[18.442625,-33.73201],[18.442793,-33.730392],[18.44326,-33.728687],[18.443941,-33.72702],[18.444645,-33.725357],[18.445177,-33.72366],[18.445539,-33.72187],[18.445803,-33.72007],[18.445919,-33.718262],[18.445911,-33.71677],[18.445858,-33.715282],[18.445782,-33.713795],[18.4457,-33.712307],[18.445578,-33.710606],[18.445389,-33.708912],[18.445141,-33.707218],[18.444849,-33.705536],[18.444532,-33.704041],[18.444147,-33.702557],[18.443701,-33.701084],[18.443199,-33.699627],[18.442652,-33.698174],[18.442064,-33.696732],[18.441442,-33.695297],[18.441004,-33.694328],[18.440245,-33.692692],[18.462021,-33.679531]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.44682,-33.694381],"type":"Point"}
 }

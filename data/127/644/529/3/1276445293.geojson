@@ -99,10 +99,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271765,
         85633813,
-        1108730557,
-        85688911
+        1108730557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,6 +116,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730557,
+            "localadmin_id":1125271765,
             "locality_id":1276445293,
             "region_id":85688911
         }
@@ -136,9 +138,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411940,
+    "wof:lastmodified":1646701394,
     "wof:name":"Kingsley",
-    "wof:parent_id":1108730557,
+    "wof:parent_id":1125271765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

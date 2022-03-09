@@ -1,0 +1,95 @@
+{
+  "id": 1763193191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65118,-33.84602,18.65118,-33.84602",
+    "geom:latitude":-33.84602,
+    "geom:longitude":18.65118,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Vygeboom",
+    "gn:country_code":"ZA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8014928,
+    "gn:latitude":-33.84602,
+    "gn:longitude":18.65118,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Vygeboom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.63118,-33.86602,18.67118,-33.82602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014928
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"a68d3c6e1ccffb8af1cdf250090fdfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193191,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193191,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706503,
+    "wof:name":"Vygeboom",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326611273
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65118,
+    -33.84602,
+    18.65118,
+    -33.84602
+],
+  "geometry": {"coordinates":[18.65118,-33.84602],"type":"Point"}
+}

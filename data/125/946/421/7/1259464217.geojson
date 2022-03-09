@@ -60,10 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125271867,
         85633813,
-        1108730615,
-        85688905
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730615,
+            "localadmin_id":1125271867,
             "locality_id":1259464217,
             "region_id":85688905
         }
@@ -97,9 +99,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412477,
+    "wof:lastmodified":1646703865,
     "wof:name":"Nuy",
-    "wof:parent_id":1108730615,
+    "wof:parent_id":1125271867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

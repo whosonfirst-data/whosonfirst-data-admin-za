@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688931,
+        102191573,
+        1125271429,
+        85633813,
+        1108730603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"eb50a066e93a35bbcf195886ca392ddb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209610319
+            "county_id":1108730603,
+            "localadmin_id":1125271429,
+            "locality_id":1209610319,
+            "region_id":85688931
         }
     ],
     "wof:id":1209610319,
@@ -70,9 +78,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412015,
+    "wof:lastmodified":1646703282,
     "wof:name":"Buffelspruit",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

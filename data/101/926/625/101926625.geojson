@@ -103,10 +103,11 @@
     "wd:longitude":29.16,
     "wd:wordcount":199,
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125412485,
         85633813,
-        1108730535,
-        85688915
+        1108730535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,6 +127,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730535,
+            "localadmin_id":1125412485,
             "locality_id":101926625,
             "region_id":85688915
         }
@@ -147,9 +149,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412290,
+    "wof:lastmodified":1646705815,
     "wof:name":"Vrede",
-    "wof:parent_id":1108730535,
+    "wof:parent_id":1125412485,
     "wof:placetype":"locality",
     "wof:population":14622,
     "wof:population_rank":6,

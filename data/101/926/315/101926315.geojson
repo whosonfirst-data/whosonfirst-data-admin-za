@@ -75,10 +75,11 @@
     "wd:longitude":27.495,
     "wd:wordcount":409,
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125358637,
         85633813,
-        1108730543,
-        85688923
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +99,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
+            "localadmin_id":1125358637,
             "locality_id":101926315,
             "region_id":85688923
         }
@@ -119,9 +121,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412286,
+    "wof:lastmodified":1646704562,
     "wof:name":"Fochville",
-    "wof:parent_id":1108730543,
+    "wof:parent_id":1125358637,
     "wof:placetype":"locality",
     "wof:population":62416,
     "wof:population_rank":8,

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688923,
+        102191573,
+        1125388495,
+        85633813,
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +54,12 @@
     "wof:geomhash":"64c3bb6262a8497e3001f2bed597f1bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209312057
+            "county_id":1108730543,
+            "localadmin_id":1125388495,
+            "locality_id":1209312057,
+            "region_id":85688923
         }
     ],
     "wof:id":1209312057,
@@ -71,9 +79,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411987,
+    "wof:lastmodified":1646705482,
     "wof:name":"Gladysvale",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125388495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -113,10 +113,11 @@
     "woe:name_adm1":"Limpopo",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125320709,
         85633813,
-        1108730579,
-        85688935
+        1108730579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,6 +134,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730579,
+            "localadmin_id":1125320709,
             "locality_id":1125872597,
             "region_id":85688935
         }
@@ -154,9 +156,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412367,
+    "wof:lastmodified":1646704234,
     "wof:name":"Warm Baths",
-    "wof:parent_id":1108730579,
+    "wof:parent_id":1125320709,
     "wof:placetype":"locality",
     "wof:population":90210,
     "wof:population_rank":8,

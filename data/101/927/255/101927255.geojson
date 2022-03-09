@@ -77,10 +77,11 @@
     "wd:longitude":30.25,
     "wd:wordcount":676,
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125374225,
         85633813,
-        1108730587,
-        85688895
+        1108730587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +101,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730587,
+            "localadmin_id":1125374225,
             "locality_id":101927255,
             "region_id":85688895
         }
@@ -121,9 +123,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412273,
+    "wof:lastmodified":1646705172,
     "wof:name":"Machadodorp",
-    "wof:parent_id":1108730587,
+    "wof:parent_id":1125374225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

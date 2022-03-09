@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1763143683,
+        85633813,
+        1108730579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"b589c8c06426b5e519095e928e3b1e47",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209304247
+            "county_id":1108730579,
+            "localadmin_id":1763143683,
+            "locality_id":1209304247,
+            "region_id":85688935
         }
     ],
     "wof:id":1209304247,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411996,
+    "wof:lastmodified":1646701921,
     "wof:name":"Hartebeespoort",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

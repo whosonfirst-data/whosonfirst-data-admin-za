@@ -35,10 +35,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125358631,
         85633813,
-        1108730533,
-        85688915
+        1108730533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +53,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730533,
+            "localadmin_id":1125358631,
             "locality_id":101926741,
             "region_id":85688915
         }
@@ -73,9 +75,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412287,
+    "wof:lastmodified":1646704552,
     "wof:name":"Dagbreek",
-    "wof:parent_id":1108730533,
+    "wof:parent_id":1125358631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

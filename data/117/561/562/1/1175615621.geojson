@@ -130,9 +130,10 @@
     "wd:longitude":29.565,
     "wd:wordcount":309,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688935,
+        102191573,
+        1125271405,
+        85633813,
         1108730577
     ],
     "wof:breaches":[],
@@ -150,6 +151,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730577,
+            "localadmin_id":1125271405,
             "locality_id":1175615621,
             "region_id":85688935
         }
@@ -171,9 +173,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501675,
+    "wof:lastmodified":1646703258,
     "wof:name":"Lebowakgomo",
-    "wof:parent_id":1108730577,
+    "wof:parent_id":1125271405,
     "wof:placetype":"locality",
     "wof:population":33308,
     "wof:population_rank":7,

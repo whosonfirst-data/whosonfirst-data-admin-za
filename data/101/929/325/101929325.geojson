@@ -84,10 +84,11 @@
     "wd:longitude":30.380556,
     "wd:wordcount":244,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1763143669,
         85633813,
-        1108730549,
-        85688911
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +108,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730549,
+            "localadmin_id":1763143669,
             "locality_id":101929325,
             "region_id":85688911
         }
@@ -128,9 +130,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412250,
+    "wof:lastmodified":1646701860,
     "wof:name":"Margate",
-    "wof:parent_id":1108730549,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:population":34407,
     "wof:population_rank":7,

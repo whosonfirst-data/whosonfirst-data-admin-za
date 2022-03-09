@@ -123,9 +123,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
+        102191573,
+        1125412475,
+        85633813,
         1108730615
     ],
     "wof:breaches":[],
@@ -139,6 +140,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730615,
+            "localadmin_id":1125412475,
             "locality_id":1259364121,
             "region_id":85688905
         }
@@ -160,9 +162,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501704,
+    "wof:lastmodified":1646705744,
     "wof:name":"Bella Vista",
-    "wof:parent_id":1108730615,
+    "wof:parent_id":1125412475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

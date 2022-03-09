@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688899,
+        102191573,
+        1125271645,
+        85633813,
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"cbef88ff78a8e9970b47462c6b09b288",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209600899
+            "county_id":1108730595,
+            "localadmin_id":1125271645,
+            "locality_id":1209600899,
+            "region_id":85688899
         }
     ],
     "wof:id":1209600899,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412020,
+    "wof:lastmodified":1646703604,
     "wof:name":"Merwelaagte",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

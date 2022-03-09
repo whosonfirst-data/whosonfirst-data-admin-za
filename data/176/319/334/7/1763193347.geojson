@@ -1,0 +1,97 @@
+{
+  "id": 1763193347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.07278,-26.10722,28.07278,-26.10722",
+    "geom:latitude":-26.10722,
+    "geom:longitude":28.07278,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Atholl Gardens",
+    "gn:country_code":"ZA",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287474,
+    "gn:latitude":-26.10722,
+    "gn:longitude":28.07278,
+    "gn:modification_date":"2017-02-16",
+    "gn:name":"Atholl Gardens",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.05278,-26.12722,28.09278,-26.08722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Atholl Gardens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1763193153,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287474,
+        "wk:page":"Atholl_Gardens"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"b86ca74fdea712252f07dcb155d5820d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1763193153,
+            "neighbourhood_id":1763193347,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193347,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706587,
+    "wof:name":"Atholl Gardens",
+    "wof:parent_id":1763193153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209103813
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07278,
+    -26.10722,
+    28.07278,
+    -26.10722
+],
+  "geometry": {"coordinates":[28.07278,-26.10722],"type":"Point"}
+}

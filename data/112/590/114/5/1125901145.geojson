@@ -125,10 +125,11 @@
     "woe:name_adm1":"Northern Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125412499,
         85633813,
-        1108730595,
-        85688899
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,6 +146,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730595,
+            "localadmin_id":1125412499,
             "locality_id":1125901145,
             "region_id":85688899
         }
@@ -166,9 +168,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412371,
+    "wof:lastmodified":1646705844,
     "wof:name":"Orania",
-    "wof:parent_id":1108730595,
+    "wof:parent_id":1125412499,
     "wof:placetype":"locality",
     "wof:population":1200,
     "wof:population_rank":3,

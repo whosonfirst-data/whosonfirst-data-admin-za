@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
     "geom:area_square_m":4050585.751382,
@@ -17,7 +18,7 @@
     "mps:latitude":-25.700039,
     "mps:longitude":28.159757,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mountain View"
@@ -101,8 +102,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730545,
-        85688923
+        85688923,
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,7 +137,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412229,
+    "wof:lastmodified":1646702006,
     "wof:name":"Mountain View",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

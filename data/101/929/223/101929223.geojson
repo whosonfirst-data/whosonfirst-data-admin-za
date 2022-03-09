@@ -318,10 +318,11 @@
     "wd:longitude":26.533333,
     "wd:wordcount":2820,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
-        1108730515
+        102191573,
+        1125374861,
+        85633813,
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -343,7 +344,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730515,
+            "county_id":1762966201,
+            "localadmin_id":1125374861,
             "locality_id":101929223,
             "region_id":85688927
         }
@@ -365,9 +367,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501683,
+    "wof:lastmodified":1646701073,
     "wof:name":"Grahamstown",
-    "wof:parent_id":1108730515,
+    "wof:parent_id":1125374861,
     "wof:placetype":"locality",
     "wof:population":91548,
     "wof:population_rank":8,

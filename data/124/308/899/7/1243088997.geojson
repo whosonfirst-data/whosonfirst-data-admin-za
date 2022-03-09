@@ -270,10 +270,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125412487,
         85633813,
-        1108730585,
-        85688895
+        1108730585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -286,6 +287,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730585,
+            "localadmin_id":1125412487,
             "locality_id":1243088997,
             "region_id":85688895
         }
@@ -307,9 +309,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412407,
+    "wof:lastmodified":1646705825,
     "wof:name":"Alpha",
-    "wof:parent_id":1108730585,
+    "wof:parent_id":1125412487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

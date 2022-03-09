@@ -84,10 +84,11 @@
     "wd:longitude":23.366667,
     "wd:wordcount":1349,
     "wof:belongsto":[
+        85688905,
         102191573,
+        1125412495,
         85633813,
-        1108730621,
-        85688905
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +107,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730621,
+            "county_id":1762966207,
+            "localadmin_id":1125412495,
             "locality_id":101928073,
             "region_id":85688905
         }
@@ -128,9 +130,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412316,
+    "wof:lastmodified":1646701270,
     "wof:name":"Plettenberg Bay",
-    "wof:parent_id":1108730621,
+    "wof:parent_id":1125412495,
     "wof:placetype":"locality",
     "wof:population":19445,
     "wof:population_rank":6,

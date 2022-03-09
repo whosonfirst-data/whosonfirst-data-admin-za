@@ -87,10 +87,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125271645,
         85633813,
-        1108730595,
-        85688899
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +104,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730595,
+            "localadmin_id":1125271645,
             "locality_id":1276749103,
             "region_id":85688899
         }
@@ -124,9 +126,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411946,
+    "wof:lastmodified":1646703607,
     "wof:name":"Happy Valley",
-    "wof:parent_id":1108730595,
+    "wof:parent_id":1125271645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

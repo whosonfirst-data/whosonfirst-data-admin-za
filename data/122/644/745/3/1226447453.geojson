@@ -129,9 +129,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1763143663,
+        85633813,
         1108730519
     ],
     "wof:breaches":[],
@@ -145,6 +146,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730519,
+            "localadmin_id":1763143663,
             "locality_id":1226447453,
             "region_id":85688927
         }
@@ -166,9 +168,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501706,
+    "wof:lastmodified":1646701706,
     "wof:name":"Vryheid",
-    "wof:parent_id":1108730519,
+    "wof:parent_id":1763143663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

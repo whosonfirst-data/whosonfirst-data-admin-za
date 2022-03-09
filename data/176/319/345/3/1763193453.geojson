@@ -1,0 +1,108 @@
+{
+  "id": 1763193453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.505439,-33.823543,18.505439,-33.823543",
+    "geom:latitude":-33.823543,
+    "geom:longitude":18.505439,
+    "gn:country":null,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.485439,-33.843543,18.525439,-33.803543",
+    "lbl:latitude":-33.823543,
+    "lbl:longitude":18.505439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Blaauwberg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":507,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":507,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55878470,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55878470,
+        "qs_pg:id":474259
+    },
+    "wof:country":"ZA",
+    "wof:created":1497300903,
+    "wof:geomhash":"52357475785a5961ab263e7edaa88980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193453,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193453,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706644,
+    "wof:name":"Blaauwberg",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126022251
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.505439,
+    -33.823543,
+    18.505439,
+    -33.823543
+],
+  "geometry": {"coordinates":[18.505439,-33.823543],"type":"Point"}
+}

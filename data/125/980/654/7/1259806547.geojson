@@ -48,10 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125327853,
         85633813,
-        1108730517,
-        85688927
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,6 +65,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730517,
+            "localadmin_id":1125327853,
             "locality_id":1259806547,
             "region_id":85688927
         }
@@ -85,9 +87,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412497,
+    "wof:lastmodified":1646704259,
     "wof:name":"Wolf River",
-    "wof:parent_id":1108730517,
+    "wof:parent_id":1125327853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

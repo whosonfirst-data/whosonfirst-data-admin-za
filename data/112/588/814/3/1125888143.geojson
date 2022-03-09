@@ -149,9 +149,10 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
+        102191573,
+        1125423561,
+        85633813,
         1108730613
     ],
     "wof:breaches":[],
@@ -169,6 +170,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730613,
+            "localadmin_id":1125423561,
             "locality_id":1125888143,
             "region_id":85688905
         }
@@ -190,9 +192,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501694,
+    "wof:lastmodified":1646706059,
     "wof:name":"Saldanha",
-    "wof:parent_id":1108730613,
+    "wof:parent_id":1125423561,
     "wof:placetype":"locality",
     "wof:population":68284,
     "wof:population_rank":8,

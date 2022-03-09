@@ -102,7 +102,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688915,
+        102191573,
+        1125423429,
+        85633813,
+        1108730531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,8 +116,12 @@
     "wof:geomhash":"bd450c5a1786fdb0cdc2a83e6d952db7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209422469
+            "county_id":1108730531,
+            "localadmin_id":1125423429,
+            "locality_id":1209422469,
+            "region_id":85688915
         }
     ],
     "wof:id":1209422469,
@@ -133,9 +141,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412032,
+    "wof:lastmodified":1646705921,
     "wof:name":"Werda",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -58,10 +58,11 @@
     "wd:longitude":30.5333,
     "wd:wordcount":89,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125421541,
         85633813,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +82,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730551,
+            "localadmin_id":1125421541,
             "locality_id":101927915,
             "region_id":85688911
         }
@@ -102,9 +104,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412263,
+    "wof:lastmodified":1646705871,
     "wof:name":"Camperdown",
-    "wof:parent_id":1108730551,
+    "wof:parent_id":1125421541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

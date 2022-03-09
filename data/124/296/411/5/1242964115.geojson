@@ -55,10 +55,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688899,
         102191573,
+        1125271877,
         85633813,
-        1108730595,
-        85688899
+        1108730595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +73,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730595,
+            "localadmin_id":1125271877,
             "locality_id":1242964115,
             "region_id":85688899
         }
@@ -93,9 +95,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412445,
+    "wof:lastmodified":1646703877,
     "wof:name":"Van Wyksvlei",
-    "wof:parent_id":1108730595,
+    "wof:parent_id":1125271877,
     "wof:placetype":"locality",
     "wof:population":1721,
     "wof:population_rank":3,

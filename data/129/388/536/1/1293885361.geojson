@@ -217,9 +217,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125271541,
+        85633813,
         1108730531
     ],
     "wof:breaches":[],
@@ -233,6 +234,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730531,
+            "localadmin_id":1125271541,
             "locality_id":1293885361,
             "region_id":85688915
         }
@@ -254,9 +256,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501664,
+    "wof:lastmodified":1646703549,
     "wof:name":"Hamilton",
-    "wof:parent_id":1108730531,
+    "wof:parent_id":1125271541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

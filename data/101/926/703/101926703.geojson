@@ -69,10 +69,11 @@
     "wd:longitude":26.366667,
     "wd:wordcount":388,
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125271241,
         85633813,
-        1108730533,
-        85688915
+        1108730533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,6 +93,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730533,
+            "localadmin_id":1125271241,
             "locality_id":101926703,
             "region_id":85688915
         }
@@ -113,9 +115,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412289,
+    "wof:lastmodified":1646702388,
     "wof:name":"Wesselsbron",
-    "wof:parent_id":1108730533,
+    "wof:parent_id":1125271241,
     "wof:placetype":"locality",
     "wof:population":42552,
     "wof:population_rank":7,

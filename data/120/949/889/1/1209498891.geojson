@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688931,
+        102191573,
+        1125394933,
+        85633813,
+        1108730605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,12 @@
     "wof:geomhash":"848b2c56b4d43f1d314a32fc92058234",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209498891
+            "county_id":1108730605,
+            "localadmin_id":1125394933,
+            "locality_id":1209498891,
+            "region_id":85688931
         }
     ],
     "wof:id":1209498891,
@@ -69,9 +77,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412011,
+    "wof:lastmodified":1646705554,
     "wof:name":"Modimola",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125394933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

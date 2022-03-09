@@ -78,7 +78,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125271663,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +92,12 @@
     "wof:geomhash":"30b1c4dd9916965a05a814e12ab34c01",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209638301
+            "county_id":1108730519,
+            "localadmin_id":1125271663,
+            "locality_id":1209638301,
+            "region_id":85688927
         }
     ],
     "wof:id":1209638301,
@@ -109,9 +117,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411998,
+    "wof:lastmodified":1646703643,
     "wof:name":"Fama",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

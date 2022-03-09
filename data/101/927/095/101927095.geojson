@@ -59,10 +59,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271613,
         85633813,
-        1108730551,
-        85688911
+        1108730551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730551,
+            "localadmin_id":1125271613,
             "locality_id":101927095,
             "region_id":85688911
         }
@@ -97,9 +99,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412272,
+    "wof:lastmodified":1646703582,
     "wof:name":"Rosetta",
-    "wof:parent_id":1108730551,
+    "wof:parent_id":1125271613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

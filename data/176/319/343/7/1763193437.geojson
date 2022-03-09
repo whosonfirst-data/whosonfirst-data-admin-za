@@ -1,0 +1,95 @@
+{
+  "id": 1763193437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58541,-33.93073,18.58541,-33.93073",
+    "geom:latitude":-33.93073,
+    "geom:longitude":18.58541,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Elsiesrivier",
+    "gn:country_code":"ZA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3368039,
+    "gn:latitude":-33.93073,
+    "gn:longitude":18.58541,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Elsiesrivier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.56541,-33.95073,18.60541,-33.91073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3368039
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"81a4b66c56581156babd98e669eb6aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193437,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193437,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706635,
+    "wof:name":"Elsiesrivier",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309893659
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58541,
+    -33.93073,
+    18.58541,
+    -33.93073
+],
+  "geometry": {"coordinates":[18.58541,-33.93073],"type":"Point"}
+}

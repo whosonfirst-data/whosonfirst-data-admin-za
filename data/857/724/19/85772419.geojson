@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000107,
+    "geom:area":0.000043,
     "geom:area_square_m":1099591.32823,
-    "geom:bbox":"18.457031,-33.916013,18.468018,-33.903734",
-    "geom:latitude":-33.91084,
-    "geom:longitude":18.461787,
+    "geom:bbox":"18.457031,-33.916013,18.468018,-33.911201",
+    "geom:latitude":-33.91404,
+    "geom:longitude":18.462697,
     "gn:country":"ZA",
     "gn:fcode":"PPLX",
     "gn:latitude":-33.91638,
@@ -18,10 +18,10 @@
     "lbl:latitude":-33.913692,
     "lbl:longitude":18.471279,
     "lbl:max_zoom":18.0,
-    "mps:latitude":-33.91106,
-    "mps:longitude":18.461682,
+    "mps:latitude":-33.913692,
+    "mps:longitude":18.471279,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -81,14 +81,18 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424942,
     "qs_pg:woe_id":1586385,
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mz",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
-        85688905,
+        1763143691,
         85633813,
-        1108730611
+        101928027,
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,12 +101,17 @@
         "qs_pg:id":189345
     },
     "wof:country":"ZA",
-    "wof:geomhash":"80e472b7c0a2b7651f63fcd7bffef397",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9aeab779c2a7e57a6d60b92a57f6db22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
             "neighbourhood_id":85772419,
             "region_id":85688905
         }
@@ -124,9 +133,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617129878,
+    "wof:lastmodified":1646853936,
     "wof:name":"Paardeneiland",
-    "wof:parent_id":-1,
+    "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
@@ -139,7 +148,7 @@
     18.457031,
     -33.916013,
     18.468018,
-    -33.903734
+    -33.911201
 ],
-  "geometry": {"coordinates":[[[18.459778,-33.903734],[18.460841,-33.903838],[18.460841,-33.903837],[18.462524,-33.905865],[18.464234,-33.906895],[18.468018,-33.911454],[18.468018,-33.916013],[18.462524,-33.916013],[18.457031,-33.916013],[18.457031,-33.911454],[18.457031,-33.904835],[18.457122,-33.904616],[18.458028,-33.903889],[18.458018,-33.903907],[18.459778,-33.903734]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[18.467808,-33.911201],[18.468018,-33.911454],[18.468018,-33.916013],[18.457031,-33.916013],[18.457031,-33.912336],[18.45933,-33.91228],[18.4596,-33.91206],[18.45987,-33.91195],[18.46008,-33.91201],[18.46009,-33.91213],[18.45983,-33.91215],[18.45966,-33.91231],[18.4631,-33.91214],[18.46522,-33.9121],[18.46594,-33.91201],[18.46668,-33.91177],[18.467808,-33.911201]]],"type":"Polygon"}
 }

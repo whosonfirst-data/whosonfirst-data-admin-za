@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.003085,
     "geom:area_square_m":34258908.618593,
@@ -18,7 +19,7 @@
     "mps:latitude":-26.085493,
     "mps:longitude":27.990478,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sandton"
@@ -123,8 +124,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730509,
-        85688923
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,14 +165,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412226,
+    "wof:lastmodified":1646702032,
     "wof:name":"Sandton",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
     "wof:population":222415,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

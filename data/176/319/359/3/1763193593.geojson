@@ -1,0 +1,96 @@
+{
+  "id": 1763193593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1383,-25.67263,28.1383,-25.67263",
+    "geom:latitude":-25.67263,
+    "geom:longitude":28.1383,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"TSH",
+    "gn:admin3_code":"TSH",
+    "gn:asciiname":"Theresapark",
+    "gn:country_code":"ZA",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7535491,
+    "gn:latitude":-25.67263,
+    "gn:longitude":28.1383,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Theresapark",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.1183,-25.69263,28.1583,-25.65263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Theresapark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925471,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7535491
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"10ad726449becf6e4a4c1d4790890e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925471,
+            "neighbourhood_id":1763193593,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193593,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706720,
+    "wof:name":"Theresapark",
+    "wof:parent_id":101925471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242968569
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1383,
+    -25.67263,
+    28.1383,
+    -25.67263
+],
+  "geometry": {"coordinates":[28.1383,-25.67263],"type":"Point"}
+}

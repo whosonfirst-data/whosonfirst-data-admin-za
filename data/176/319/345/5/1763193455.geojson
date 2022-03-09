@@ -1,0 +1,119 @@
+{
+  "id": 1763193455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.028526,-26.201037,28.028526,-26.201037",
+    "geom:latitude":-26.201037,
+    "geom:longitude":28.028526,
+    "gn:country":null,
+    "iso:country":"ZA",
+    "lbl:bbox":"28.008526,-26.221037,28.048526,-26.181037",
+    "lbl:latitude":-26.201037,
+    "lbl:longitude":28.028526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Fordsburg"
+    ],
+    "name:eng_x_preferred":[
+        "Fordsburg"
+    ],
+    "name:nld_x_preferred":[
+        "Fordsburg"
+    ],
+    "name:nso_x_preferred":[
+        "Fordsburg"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fordsburg",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":959665,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55881585,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1763179367,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881585,
+        "qs_pg:id":959665,
+        "wd:id":"Q619523"
+    },
+    "wof:country":"ZA",
+    "wof:created":1497301354,
+    "wof:geomhash":"65030400576361cc33047d16dac52628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1763179367,
+            "neighbourhood_id":1763193455,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193455,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706645,
+    "wof:name":"Fordsburg",
+    "wof:parent_id":1763179367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126029269
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.028526,
+    -26.201037,
+    28.028526,
+    -26.201037
+],
+  "geometry": {"coordinates":[28.028526,-26.201037],"type":"Point"}
+}

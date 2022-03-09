@@ -358,11 +358,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191573,
-        85633813,
-        1108730539,
         85688915,
-        102089059
+        102191573,
+        1125382591,
+        85633813,
+        1108730539
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -376,6 +376,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730539,
+            "localadmin_id":1125382591,
             "locality_id":101927069,
             "region_id":85688915
         }
@@ -397,9 +398,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412273,
+    "wof:lastmodified":1646701482,
     "wof:name":"Bloemfontein",
-    "wof:parent_id":102089059,
+    "wof:parent_id":1125382591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

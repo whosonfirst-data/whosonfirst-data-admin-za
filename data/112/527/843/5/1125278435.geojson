@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-02-23",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -162,7 +163,7 @@
         102191573,
         85633813,
         85688905,
-        1108730621
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,7 +178,7 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730621,
+            "county_id":1762966207,
             "localadmin_id":1125278435,
             "region_id":85688905
         }
@@ -199,14 +200,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501694,
+    "wof:lastmodified":1646706217,
     "wof:name":"Mossel Bay",
-    "wof:parent_id":1108730621,
+    "wof:parent_id":1762966207,
     "wof:placetype":"localadmin",
     "wof:population":59031,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125395899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

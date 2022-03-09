@@ -48,11 +48,12 @@
     "woe:name_adm1":"Free State",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125382591,
         85633813,
-        1108730539,
         101927069,
-        85688915
+        1108730539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,6 +69,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730539,
+            "localadmin_id":1125382591,
             "locality_id":101927069,
             "neighbourhood_id":1126105273,
             "region_id":85688915
@@ -90,7 +92,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412352,
+    "wof:lastmodified":1646701527,
     "wof:name":"Bochebela",
     "wof:parent_id":101927069,
     "wof:placetype":"neighbourhood",

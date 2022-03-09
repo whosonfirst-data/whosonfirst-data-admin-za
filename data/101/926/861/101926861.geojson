@@ -53,10 +53,11 @@
     "wd:longitude":29.35,
     "wd:wordcount":38,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125271825,
         85633813,
-        1108730553,
-        85688911
+        1108730553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,6 +73,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730553,
+            "localadmin_id":1125271825,
             "locality_id":101926861,
             "region_id":85688911
         }
@@ -93,9 +95,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412282,
+    "wof:lastmodified":1646703794,
     "wof:name":"Geluksburg",
-    "wof:parent_id":1108730553,
+    "wof:parent_id":1125271825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

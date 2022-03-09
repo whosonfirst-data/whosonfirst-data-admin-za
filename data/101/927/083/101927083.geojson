@@ -98,9 +98,10 @@
     "wd:longitude":31.316667,
     "wd:wordcount":33,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1763143671,
+        85633813,
         1108730553
     ],
     "wof:breaches":[],
@@ -114,6 +115,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730553,
+            "localadmin_id":1763143671,
             "locality_id":101927083,
             "region_id":85688911
         }
@@ -135,9 +137,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501684,
+    "wof:lastmodified":1646701873,
     "wof:name":"Hlatikulu",
-    "wof:parent_id":1108730553,
+    "wof:parent_id":1763143671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

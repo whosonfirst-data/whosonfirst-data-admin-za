@@ -96,7 +96,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125421535,
+        85633813,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,8 +110,12 @@
     "wof:geomhash":"901e1700d992ece45d0516beb917aec7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209323635
+            "county_id":1108730559,
+            "localadmin_id":1125421535,
+            "locality_id":1209323635,
+            "region_id":85688911
         }
     ],
     "wof:id":1209323635,
@@ -127,9 +135,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412018,
+    "wof:lastmodified":1646705856,
     "wof:name":"Altona",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125421535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

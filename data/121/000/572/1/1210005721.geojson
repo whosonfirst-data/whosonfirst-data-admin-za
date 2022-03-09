@@ -90,10 +90,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688931,
         102191573,
+        1125363831,
         85633813,
-        1108730607,
-        85688931
+        1108730607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,6 +107,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730607,
+            "localadmin_id":1125363831,
             "locality_id":1210005721,
             "region_id":85688931
         }
@@ -127,9 +129,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412041,
+    "wof:lastmodified":1646704992,
     "wof:name":"Stella",
-    "wof:parent_id":1108730607,
+    "wof:parent_id":1125363831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

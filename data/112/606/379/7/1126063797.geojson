@@ -75,11 +75,12 @@
     "woe:name_adm1":"Eastern Cape",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125410851,
         85633813,
-        1108730527,
         101929259,
-        85688927
+        1108730527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730527,
+            "localadmin_id":1125410851,
             "locality_id":101929259,
             "neighbourhood_id":1126063797,
             "region_id":85688927
@@ -117,7 +119,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412382,
+    "wof:lastmodified":1646705740,
     "wof:name":"Walmer",
     "wof:parent_id":101929259,
     "wof:placetype":"neighbourhood",

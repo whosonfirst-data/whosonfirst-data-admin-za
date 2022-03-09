@@ -1,0 +1,93 @@
+{
+  "id": 1763193205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.12361,-26.20211,28.12361,-26.20211",
+    "geom:latitude":-26.20211,
+    "geom:longitude":28.12361,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"EKU",
+    "gn:admin3_code":"EKU",
+    "gn:asciiname":"Wychwood",
+    "gn:country_code":"ZA",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204100,
+    "gn:latitude":-26.20211,
+    "gn:longitude":28.12361,
+    "gn:modification_date":"2016-07-13",
+    "gn:name":"Wychwood",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.10361,-26.22211,28.14361,-26.18211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1763179367,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204100
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"192b7b60b1d29f645bd967ff4f2dea84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1763179367,
+            "neighbourhood_id":1763193205,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193205,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706510,
+    "wof:name":"Wychwood",
+    "wof:parent_id":1763179367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326522665
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12361,
+    -26.20211,
+    28.12361,
+    -26.20211
+],
+  "geometry": {"coordinates":[28.12361,-26.20211],"type":"Point"}
+}

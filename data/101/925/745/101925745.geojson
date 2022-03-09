@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.008758,
     "geom:area_square_m":97253418.009356,
@@ -17,7 +18,7 @@
     "mps:latitude":-26.093878,
     "mps:longitude":28.055888,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alexandra"
@@ -94,8 +95,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730509,
-        85688923
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,12 +132,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412245,
+    "wof:lastmodified":1646702041,
     "wof:name":"Alexandra",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763192985,
+        1763193153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

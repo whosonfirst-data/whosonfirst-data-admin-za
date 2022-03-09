@@ -625,10 +625,11 @@
     "woe:name_adm1":"Eastern Cape",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125271671,
         85633813,
-        1108730515,
-        85688927
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -644,7 +645,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730515,
+            "county_id":1762966201,
+            "localadmin_id":1125271671,
             "locality_id":1125952663,
             "region_id":85688927
         }
@@ -666,9 +668,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412349,
+    "wof:lastmodified":1646701048,
     "wof:name":"Stormsrivier",
-    "wof:parent_id":1108730515,
+    "wof:parent_id":1125271671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

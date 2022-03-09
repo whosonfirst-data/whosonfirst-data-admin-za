@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Nuweland"
@@ -58,7 +59,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        1108730611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +74,12 @@
     "wof:geomhash":"2d5e7b4db4c81f35d83a7ceecdf2d275",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209402903
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":1209402903,
+            "region_id":85688905
         }
     ],
     "wof:id":1209402903,
@@ -90,14 +99,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412009,
+    "wof:lastmodified":1646706308,
     "wof:name":"Newlands",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:population":5343,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

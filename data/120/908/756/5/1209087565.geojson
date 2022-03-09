@@ -52,7 +52,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125271561,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +67,12 @@
     "wof:geomhash":"7487c9d6fa2613ed664a479daa8f81e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209087565
+            "county_id":1762966207,
+            "localadmin_id":1125271561,
+            "locality_id":1209087565,
+            "region_id":85688905
         }
     ],
     "wof:id":1209087565,
@@ -84,9 +92,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411997,
+    "wof:lastmodified":1646701280,
     "wof:name":"Zoar",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271561,
     "wof:placetype":"locality",
     "wof:population":4659,
     "wof:population_rank":4,

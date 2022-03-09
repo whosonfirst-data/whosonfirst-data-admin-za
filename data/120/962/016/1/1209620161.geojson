@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1763143663,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +62,12 @@
     "wof:geomhash":"fdf1f4a0e4804fd107d6a174217a98b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209620161
+            "county_id":1108730519,
+            "localadmin_id":1763143663,
+            "locality_id":1209620161,
+            "region_id":85688927
         }
     ],
     "wof:id":1209620161,
@@ -79,9 +87,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411994,
+    "wof:lastmodified":1646701696,
     "wof:name":"Heathfield",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1763143663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

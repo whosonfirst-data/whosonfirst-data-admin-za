@@ -136,9 +136,10 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688931,
+        102191573,
+        1125394933,
+        85633813,
         1108730605
     ],
     "wof:breaches":[],
@@ -155,6 +156,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730605,
+            "localadmin_id":1125394933,
             "locality_id":1125780241,
             "region_id":85688931
         }
@@ -176,9 +178,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501700,
+    "wof:lastmodified":1646705549,
     "wof:name":"Mmabatho",
-    "wof:parent_id":1108730605,
+    "wof:parent_id":1125394933,
     "wof:placetype":"locality",
     "wof:population":76754,
     "wof:population_rank":8,

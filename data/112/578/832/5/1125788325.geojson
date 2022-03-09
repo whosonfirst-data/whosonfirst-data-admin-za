@@ -85,10 +85,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125374205,
         85633813,
-        1108730515,
-        85688927
+        1762966201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +104,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730515,
+            "county_id":1762966201,
+            "localadmin_id":1125374205,
             "locality_id":1125788325,
             "region_id":85688927
         }
@@ -125,9 +127,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412391,
+    "wof:lastmodified":1646701048,
     "wof:name":"Somerset East",
-    "wof:parent_id":1108730515,
+    "wof:parent_id":1125374205,
     "wof:placetype":"locality",
     "wof:population":16155,
     "wof:population_rank":6,

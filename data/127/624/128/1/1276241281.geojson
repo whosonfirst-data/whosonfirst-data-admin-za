@@ -78,10 +78,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125358597,
         85633813,
-        1108730569,
-        85688911
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +94,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730569,
+            "county_id":1762966205,
+            "localadmin_id":1125358597,
             "locality_id":1276241281,
             "region_id":85688911
         }
@@ -115,9 +117,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411966,
+    "wof:lastmodified":1646701181,
     "wof:name":"Crystal Waters",
-    "wof:parent_id":1108730569,
+    "wof:parent_id":1125358597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125421535,
+        85633813,
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"14e6e848091c53c85dafcb3826ddd89e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209628175
+            "county_id":1108730559,
+            "localadmin_id":1125421535,
+            "locality_id":1209628175,
+            "region_id":85688911
         }
     ],
     "wof:id":1209628175,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411993,
+    "wof:lastmodified":1646705858,
     "wof:name":"Bennezar",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125421535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

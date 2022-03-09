@@ -93,9 +93,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688899,
+        102191573,
+        1125271587,
+        85633813,
         1108730599
     ],
     "wof:breaches":[],
@@ -109,6 +110,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730599,
+            "localadmin_id":1125271587,
             "locality_id":1209701251,
             "region_id":85688899
         }
@@ -130,9 +132,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501668,
+    "wof:lastmodified":1646703562,
     "wof:name":"Riverton",
-    "wof:parent_id":1108730599,
+    "wof:parent_id":1125271587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

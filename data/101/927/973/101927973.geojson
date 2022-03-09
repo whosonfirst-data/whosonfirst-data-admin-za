@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-03",
     "edtf:inception":"uuuu",
-    "geom:area":0.000033,
+    "geom:area":0.0,
     "geom:area_square_m":358360.172803,
-    "geom:bbox":"31.009541,-29.902182,31.015987,-29.891504",
+    "geom:bbox":"31.012802,-29.896606,31.012802,-29.896606",
     "geom:latitude":-29.896606,
     "geom:longitude":31.012802,
     "iso:country":"ZA",
@@ -17,7 +18,8 @@
     "mps:latitude":-29.895802,
     "mps:longitude":31.013115,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -32,13 +34,16 @@
     "qs:source":"FGlobalMap",
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +52,16 @@
         "qs_pg:id":1300349
     },
     "wof:country":"ZA",
-    "wof:geomhash":"d483c2c2051868fc075927cc67d369ec",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e7113e18c452618ca6078475dcf87df6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
+            "localadmin_id":1125360055,
             "locality_id":101927973,
             "region_id":85688911
         }
@@ -74,20 +83,22 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412274,
+    "wof:lastmodified":1646701350,
     "wof:name":"King's Rest",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763193413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    31.009541,
-    -29.902182,
-    31.015987,
-    -29.891504
+    31.012802,
+    -29.896606,
+    31.012802,
+    -29.896606
 ],
-  "geometry": {"coordinates":[[[31.011074,-29.89665],[31.010059,-29.894661],[31.009541,-29.891504],[31.011761,-29.893051],[31.011858,-29.893154],[31.012014,-29.893227],[31.012129,-29.893309],[31.012419,-29.893419],[31.01325,-29.893625],[31.013933,-29.89366],[31.014002,-29.893663],[31.01462,-29.893551],[31.014717,-29.893534],[31.014782,-29.893496],[31.015987,-29.894428],[31.014977,-29.897367],[31.0142,-29.900749],[31.013483,-29.901264],[31.012205,-29.902182],[31.010708,-29.900015],[31.010799,-29.90003],[31.010836,-29.900074],[31.010866,-29.900042],[31.011145,-29.900091],[31.011459,-29.899965],[31.011833,-29.899641],[31.012062,-29.899271],[31.012089,-29.899225],[31.012152,-29.898811],[31.012117,-29.898731],[31.012129,-29.89872],[31.01203,-29.898523],[31.011717,-29.897791],[31.011074,-29.89665]]],"type":"Polygon"}
+  "geometry": {"coordinates":[31.012802,-29.896606],"type":"Point"}
 }

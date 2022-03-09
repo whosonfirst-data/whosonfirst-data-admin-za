@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125285683,
+        85633813,
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"62c07c1bdb3d4a06b61de8c508a43b2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209538625
+            "county_id":1108730517,
+            "localadmin_id":1125285683,
+            "locality_id":1209538625,
+            "region_id":85688927
         }
     ],
     "wof:id":1209538625,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411990,
+    "wof:lastmodified":1646704130,
     "wof:name":"Ngxutyana",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125285683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

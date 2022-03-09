@@ -1,0 +1,95 @@
+{
+  "id": 1763193265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5672,-33.59156,18.5672,-33.59156",
+    "geom:latitude":-33.59156,
+    "geom:longitude":18.5672,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Camphill Village",
+    "gn:country_code":"ZA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3369171,
+    "gn:latitude":-33.59156,
+    "gn:longitude":18.5672,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Camphill Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.5472,-33.61156,18.5872,-33.57156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369171
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1037befa00fb32e4ff86870286a7db81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193265,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193265,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706543,
+    "wof:name":"Camphill Village",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293079205
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5672,
+    -33.59156,
+    18.5672,
+    -33.59156
+],
+  "geometry": {"coordinates":[18.5672,-33.59156],"type":"Point"}
+}

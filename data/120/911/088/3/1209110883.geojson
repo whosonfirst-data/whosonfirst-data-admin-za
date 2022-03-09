@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125382569,
+        85633813,
+        1108730519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"c1c47c1ee717f9dd0c8d9430833997c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209110883
+            "county_id":1108730519,
+            "localadmin_id":1125382569,
+            "locality_id":1209110883,
+            "region_id":85688927
         }
     ],
     "wof:id":1209110883,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412026,
+    "wof:lastmodified":1646705251,
     "wof:name":"Ku-Manzimdaka",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

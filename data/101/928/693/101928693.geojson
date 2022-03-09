@@ -202,9 +202,10 @@
     "src:population":"geonames",
     "wd:wordcount":643,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688927,
+        102191573,
+        1125382609,
+        85633813,
         1108730523
     ],
     "wof:breaches":[],
@@ -220,6 +221,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730523,
+            "localadmin_id":1125382609,
             "locality_id":101928693,
             "region_id":85688927
         }
@@ -241,9 +243,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501691,
+    "wof:lastmodified":1646705445,
     "wof:name":"Port St. Johns",
-    "wof:parent_id":1108730523,
+    "wof:parent_id":1125382609,
     "wof:placetype":"locality",
     "wof:population":5939,
     "wof:population_rank":5,

@@ -1,0 +1,117 @@
+{
+  "id": 1763193463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42854,-34.13564,18.42854,-34.13564",
+    "geom:latitude":-34.13564,
+    "geom:longitude":18.42854,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"ZA",
+    "lbl:bbox":"18.40854,-34.15564,18.44854,-34.11564",
+    "lbl:latitude":-34.13564,
+    "lbl:longitude":18.42854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Fishhoek"
+    ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3359933,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vishoek",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":339,
+    "qs_pg:photos_1k":69,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":339,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1312250,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1588637,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3359933,
+        "gp:id":1588637,
+        "qs_pg:id":1312250
+    },
+    "wof:country":"ZA",
+    "wof:created":1497294141,
+    "wof:geomhash":"e3b2d32c5b354b3dbb0b5f803f87f3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193463,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193463,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706650,
+    "wof:name":"Vishoek",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125867959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42854,
+    -34.13564,
+    18.42854,
+    -34.13564
+],
+  "geometry": {"coordinates":[18.42854,-34.13564],"type":"Point"}
+}

@@ -44,10 +44,11 @@
     "woe:name_adm1":"Mpumalanga",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125410849,
         85633813,
-        1108730589,
-        85688895
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730589,
+            "localadmin_id":1125410849,
             "locality_id":1125836329,
             "region_id":85688895
         }
@@ -83,9 +85,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412396,
+    "wof:lastmodified":1646705708,
     "wof:name":"Marloth",
-    "wof:parent_id":1108730589,
+    "wof:parent_id":1125410849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -114,10 +114,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125382605,
         85633813,
-        1108730579,
-        85688935
+        1108730579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,6 +131,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730579,
+            "localadmin_id":1125382605,
             "locality_id":1243258403,
             "region_id":85688935
         }
@@ -151,9 +153,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412431,
+    "wof:lastmodified":1646705413,
     "wof:name":"Marnitz",
-    "wof:parent_id":1108730579,
+    "wof:parent_id":1125382605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

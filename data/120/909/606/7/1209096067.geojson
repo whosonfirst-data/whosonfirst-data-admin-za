@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688935,
+        102191573,
+        1125382605,
+        85633813,
+        1108730579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"2eb7c5d409ea1129be596e36b36c10ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209096067
+            "county_id":1108730579,
+            "localadmin_id":1125382605,
+            "locality_id":1209096067,
+            "region_id":85688935
         }
     ],
     "wof:id":1209096067,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411986,
+    "wof:lastmodified":1646705406,
     "wof:name":"Hardekraaltjie",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

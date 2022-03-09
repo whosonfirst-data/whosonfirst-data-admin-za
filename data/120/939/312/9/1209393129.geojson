@@ -93,7 +93,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125327847,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,8 +107,12 @@
     "wof:geomhash":"3ea40a74ed63302e4e42624013a9a254",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209393129
+            "county_id":1762966207,
+            "localadmin_id":1125327847,
+            "locality_id":1209393129,
+            "region_id":85688905
         }
     ],
     "wof:id":1209393129,
@@ -124,9 +132,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501667,
+    "wof:lastmodified":1646701255,
     "wof:name":"Hot Springs",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125327847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

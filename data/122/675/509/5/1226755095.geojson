@@ -90,9 +90,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125382591,
+        85633813,
         1108730539
     ],
     "wof:breaches":[],
@@ -106,6 +107,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730539,
+            "localadmin_id":1125382591,
             "locality_id":1226755095,
             "region_id":85688915
         }
@@ -127,9 +129,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501706,
+    "wof:lastmodified":1646701511,
     "wof:name":"Moroto",
-    "wof:parent_id":1108730539,
+    "wof:parent_id":1125382591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

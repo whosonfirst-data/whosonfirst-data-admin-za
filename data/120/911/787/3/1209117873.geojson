@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688915,
+        102191573,
+        1125421553,
+        85633813,
+        1108730537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +62,12 @@
     "wof:geomhash":"904f0eac345c8488ba4c9df86bd9369a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209117873
+            "county_id":1108730537,
+            "localadmin_id":1125421553,
+            "locality_id":1209117873,
+            "region_id":85688915
         }
     ],
     "wof:id":1209117873,
@@ -79,9 +87,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412027,
+    "wof:lastmodified":1646705892,
     "wof:name":"Rietfontein",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125421553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

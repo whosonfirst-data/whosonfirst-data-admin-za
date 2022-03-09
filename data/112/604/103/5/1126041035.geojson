@@ -80,10 +80,11 @@
     "woe:name_adm1":"Mpumalanga",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125320713,
         85633813,
-        1108730589,
-        85688895
+        1108730589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,6 +101,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730589,
+            "localadmin_id":1125320713,
             "locality_id":1126041035,
             "region_id":85688895
         }
@@ -121,9 +123,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412353,
+    "wof:lastmodified":1646701419,
     "wof:name":"White River",
-    "wof:parent_id":1108730589,
+    "wof:parent_id":1125320713,
     "wof:placetype":"locality",
     "wof:population":15954,
     "wof:population_rank":6,

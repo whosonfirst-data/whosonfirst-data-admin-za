@@ -92,9 +92,10 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688923,
+        102191573,
+        1125388495,
+        85633813,
         1108730543
     ],
     "wof:breaches":[],
@@ -108,6 +109,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
+            "localadmin_id":1125388495,
             "locality_id":101925759,
             "region_id":85688923
         }
@@ -129,9 +131,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501682,
+    "wof:lastmodified":1646705487,
     "wof:name":"Lewisham",
-    "wof:parent_id":1108730543,
+    "wof:parent_id":1125388495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

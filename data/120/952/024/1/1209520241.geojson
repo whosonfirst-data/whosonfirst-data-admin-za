@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125285683,
+        85633813,
+        1108730517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"dbcd08b198040accd07f5504c1d10722",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209520241
+            "county_id":1108730517,
+            "localadmin_id":1125285683,
+            "locality_id":1209520241,
+            "region_id":85688927
         }
     ],
     "wof:id":1209520241,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411999,
+    "wof:lastmodified":1646704154,
     "wof:name":"Ntlahlana",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125285683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

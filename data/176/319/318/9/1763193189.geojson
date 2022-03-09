@@ -1,0 +1,95 @@
+{
+  "id": 1763193189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.87726,-34.15102,18.87726,-34.15102",
+    "geom:latitude":-34.15102,
+    "geom:longitude":18.87726,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Gordons Bay",
+    "gn:country_code":"ZA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692437,
+    "gn:latitude":-34.15102,
+    "gn:longitude":18.87726,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Gordons Bay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.85726,-34.17102,18.89726,-34.13102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692437
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"3612fa333339865d5d0146f3665b5bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193189,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193189,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706502,
+    "wof:name":"Gordons Bay",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326518161
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87726,
+    -34.15102,
+    18.87726,
+    -34.15102
+],
+  "geometry": {"coordinates":[18.87726,-34.15102],"type":"Point"}
+}

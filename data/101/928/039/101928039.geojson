@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.00077,
     "geom:area_square_m":7881654.940737,
@@ -17,7 +18,7 @@
     "mps:latitude":-34.129855,
     "mps:longitude":18.419628,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vishoek"
@@ -74,10 +75,7 @@
     "wd:longitude":18.43,
     "wd:wordcount":1372,
     "wof:belongsto":[
-        102191573,
-        85633813,
-        1108730611,
-        85688905
+        1763143691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,11 +89,10 @@
     "wof:geomhash":"3a621bc85ffc83fa4f9a990173ff90ad",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "county_id":1108730611,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":101928039,
-            "region_id":85688905
+            "region_id":-1
         }
     ],
     "wof:id":101928039,
@@ -115,12 +112,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412309,
+    "wof:lastmodified":1646701321,
     "wof:name":"Fish Hoek",
-    "wof:parent_id":1108730611,
+    "wof:parent_id":1763143691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85783007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

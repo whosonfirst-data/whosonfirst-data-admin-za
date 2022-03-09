@@ -125,9 +125,10 @@
     "wd:longitude":29.478333,
     "wd:wordcount":893,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688895,
+        102191573,
+        1125271789,
+        85633813,
         1108730587
     ],
     "wof:breaches":[],
@@ -144,6 +145,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730587,
+            "localadmin_id":1125271789,
             "locality_id":101925517,
             "region_id":85688895
         }
@@ -165,9 +167,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501681,
+    "wof:lastmodified":1646703757,
     "wof:name":"Middelburg",
-    "wof:parent_id":1108730587,
+    "wof:parent_id":1125271789,
     "wof:placetype":"locality",
     "wof:population":154706,
     "wof:population_rank":9,

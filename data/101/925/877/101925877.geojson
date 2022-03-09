@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":102540.987652,
@@ -17,7 +18,7 @@
     "mps:latitude":-26.205421,
     "mps:longitude":28.0045,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Grosvenor"
@@ -53,8 +54,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730509,
-        85688923
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -86,12 +87,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412238,
+    "wof:lastmodified":1646701345,
     "wof:name":"Grosvenor",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1763179367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

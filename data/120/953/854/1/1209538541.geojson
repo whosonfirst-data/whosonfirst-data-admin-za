@@ -90,7 +90,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125382613,
+        85633813,
+        1108730525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,8 +104,12 @@
     "wof:geomhash":"f42f2a957f6b985918b6d02bad66de3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209538541
+            "county_id":1108730525,
+            "localadmin_id":1125382613,
+            "locality_id":1209538541,
+            "region_id":85688927
         }
     ],
     "wof:id":1209538541,
@@ -121,9 +129,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411990,
+    "wof:lastmodified":1646705464,
     "wof:name":"KwaZulu",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125382613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

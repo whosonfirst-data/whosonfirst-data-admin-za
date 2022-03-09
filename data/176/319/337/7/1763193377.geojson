@@ -1,0 +1,96 @@
+{
+  "id": 1763193377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31667,-25.78472,28.31667,-25.78472",
+    "geom:latitude":-25.78472,
+    "geom:longitude":28.31667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"TSH",
+    "gn:admin3_code":"TSH",
+    "gn:asciiname":"Faerie Glen",
+    "gn:country_code":"ZA",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253674,
+    "gn:latitude":-25.78472,
+    "gn:longitude":28.31667,
+    "gn:modification_date":"2014-07-23",
+    "gn:name":"Faerie Glen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.29667,-25.80472,28.33667,-25.76472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Faerie Glen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101925471,
+        1108730545,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253674
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"913249182195e582ee0384ac76529869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730545,
+            "locality_id":101925471,
+            "neighbourhood_id":1763193377,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193377,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706602,
+    "wof:name":"Faerie Glen",
+    "wof:parent_id":101925471,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310098045
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31667,
+    -25.78472,
+    28.31667,
+    -25.78472
+],
+  "geometry": {"coordinates":[28.31667,-25.78472],"type":"Point"}
+}

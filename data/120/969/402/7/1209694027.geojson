@@ -111,7 +111,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125271361,
+        85633813,
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,8 +125,12 @@
     "wof:geomhash":"53af8572184ec91f6095d897a538eae5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209694027
+            "county_id":1108730615,
+            "localadmin_id":1125271361,
+            "locality_id":1209694027,
+            "region_id":85688905
         }
     ],
     "wof:id":1209694027,
@@ -142,9 +150,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412022,
+    "wof:lastmodified":1646702566,
     "wof:name":"Test",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

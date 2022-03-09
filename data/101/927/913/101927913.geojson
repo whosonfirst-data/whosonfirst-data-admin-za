@@ -78,10 +78,11 @@
     "wd:longitude":31.085833,
     "wd:wordcount":959,
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125360055,
         85633813,
-        1108730571,
-        85688911
+        1108730571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,6 +96,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730571,
+            "localadmin_id":1125360055,
             "locality_id":101927913,
             "region_id":85688911
         }
@@ -116,9 +118,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412265,
+    "wof:lastmodified":1646704885,
     "wof:name":"Umhlanga Rocks",
-    "wof:parent_id":1108730571,
+    "wof:parent_id":1125360055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

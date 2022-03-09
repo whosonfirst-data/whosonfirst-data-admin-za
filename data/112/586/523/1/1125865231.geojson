@@ -76,10 +76,11 @@
     "woe:name_adm1":"Mpumalanga",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688895,
         102191573,
+        1125271751,
         85633813,
-        1108730585,
-        85688895
+        1108730585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,6 +97,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730585,
+            "localadmin_id":1125271751,
             "locality_id":1125865231,
             "region_id":85688895
         }
@@ -117,9 +119,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412356,
+    "wof:lastmodified":1646703709,
     "wof:name":"Breyten",
-    "wof:parent_id":1108730585,
+    "wof:parent_id":1125271751,
     "wof:placetype":"locality",
     "wof:population":12550,
     "wof:population_rank":6,

@@ -240,10 +240,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125285719,
         85633813,
-        1108730559,
-        85688911
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -256,6 +257,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730559,
+            "localadmin_id":1125285719,
             "locality_id":1327444259,
             "region_id":85688911
         }
@@ -277,9 +279,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411762,
+    "wof:lastmodified":1646704221,
     "wof:name":"Hildesheim",
-    "wof:parent_id":1108730559,
+    "wof:parent_id":1125285719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

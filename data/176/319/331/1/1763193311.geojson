@@ -1,0 +1,95 @@
+{
+  "id": 1763193311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67422,-33.97975,18.67422,-33.97975",
+    "geom:latitude":-33.97975,
+    "geom:longitude":18.67422,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Silver Sands",
+    "gn:country_code":"ZA",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3361641,
+    "gn:latitude":-33.97975,
+    "gn:longitude":18.67422,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Silver Sands",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.65422,-33.99975,18.69422,-33.95975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361641
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"51521edbf0282ed85e59a37447701c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193311,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193311,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706567,
+    "wof:name":"Silver Sands",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276956775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67422,
+    -33.97975,
+    18.67422,
+    -33.97975
+],
+  "geometry": {"coordinates":[18.67422,-33.97975],"type":"Point"}
+}

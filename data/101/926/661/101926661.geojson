@@ -261,9 +261,10 @@
     "wd:longitude":27.231667,
     "wd:wordcount":1009,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688915,
+        102191573,
+        1125356789,
+        85633813,
         1108730537
     ],
     "wof:breaches":[],
@@ -279,6 +280,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730537,
+            "localadmin_id":1125356789,
             "locality_id":101926661,
             "region_id":85688915
         }
@@ -300,9 +302,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501687,
+    "wof:lastmodified":1646704277,
     "wof:name":"Kroonstad",
-    "wof:parent_id":1108730537,
+    "wof:parent_id":1125356789,
     "wof:placetype":"locality",
     "wof:population":103992,
     "wof:population_rank":9,

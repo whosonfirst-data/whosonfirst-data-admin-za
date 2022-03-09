@@ -1,0 +1,95 @@
+{
+  "id": 1763193259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43497,-34.0027,18.43497,-34.0027",
+    "geom:latitude":-34.0027,
+    "geom:longitude":18.43497,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Constantia Heights",
+    "gn:country_code":"ZA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181806,
+    "gn:latitude":-34.0027,
+    "gn:longitude":18.43497,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Constantia Heights",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"18.41497,-34.0227,18.45497,-33.9827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        1763143691,
+        85633813,
+        101928027,
+        1108730611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181806
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"1fb200b9200620e3e5ed54be7ca576d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "localadmin_id":1763143691,
+            "locality_id":101928027,
+            "neighbourhood_id":1763193259,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1763193259,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706539,
+    "wof:name":"Constantia Heights",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343349737
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43497,
+    -34.0027,
+    18.43497,
+    -34.0027
+],
+  "geometry": {"coordinates":[18.43497,-34.0027],"type":"Point"}
+}

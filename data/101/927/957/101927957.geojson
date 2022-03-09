@@ -117,9 +117,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688911,
+        102191573,
+        1125382577,
+        85633813,
         1108730551
     ],
     "wof:breaches":[],
@@ -142,6 +143,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730551,
+            "localadmin_id":1125382577,
             "locality_id":101927957,
             "region_id":85688911
         }
@@ -163,9 +165,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501685,
+    "wof:lastmodified":1646705321,
     "wof:name":"Richmond",
-    "wof:parent_id":1108730551,
+    "wof:parent_id":1125382577,
     "wof:placetype":"locality",
     "wof:population":32445,
     "wof:population_rank":7,

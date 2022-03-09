@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688911,
+        102191573,
+        1125271415,
+        85633813,
+        1762966205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +69,12 @@
     "wof:geomhash":"b16c28a5905c67232b8aa818b859a3fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209538489
+            "county_id":1762966205,
+            "localadmin_id":1125271415,
+            "locality_id":1209538489,
+            "region_id":85688911
         }
     ],
     "wof:id":1209538489,
@@ -86,9 +94,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411990,
+    "wof:lastmodified":1646701212,
     "wof:name":"Glengarry",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125271415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

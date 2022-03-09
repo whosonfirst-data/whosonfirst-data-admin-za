@@ -35,10 +35,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1125358739,
         85633813,
-        1108730559,
-        85688911
+        1108730559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +52,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730559,
+            "localadmin_id":1125358739,
             "locality_id":101927603,
             "region_id":85688911
         }
@@ -72,9 +74,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412261,
+    "wof:lastmodified":1646704814,
     "wof:name":"Ngali",
-    "wof:parent_id":1108730559,
+    "wof:parent_id":1125358739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

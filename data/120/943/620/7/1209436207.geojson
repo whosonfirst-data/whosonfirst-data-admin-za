@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688895,
+        102191573,
+        1125285711,
+        85633813,
+        1108730585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +56,12 @@
     "wof:geomhash":"ff1b4341d8ae653355bfe4b367d8c7cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209436207
+            "county_id":1108730585,
+            "localadmin_id":1125285711,
+            "locality_id":1209436207,
+            "region_id":85688895
         }
     ],
     "wof:id":1209436207,
@@ -73,9 +81,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412037,
+    "wof:lastmodified":1646704208,
     "wof:name":"Goedehoop",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125285711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

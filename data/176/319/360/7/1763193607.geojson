@@ -1,0 +1,106 @@
+{
+  "id": 1763193607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05573,-26.04226,28.05573,-26.04226",
+    "geom:latitude":-26.04226,
+    "geom:longitude":28.05573,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Rivonia",
+    "gn:country_code":"ZA",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961065,
+    "gn:latitude":-26.04226,
+    "gn:longitude":28.05573,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rivonia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
+    "iso:country":"ZA",
+    "lbl:bbox":"28.03573,-26.06226,28.07573,-26.02226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Rivonia"
+    ],
+    "name:deu_x_preferred":[
+        "Rivonia"
+    ],
+    "name:fin_x_preferred":[
+        "Rivonia"
+    ],
+    "name:por_x_preferred":[
+        "Rivonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1763193153,
+        1108730509,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961065,
+        "wk:page":"Rivonia"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"50313a818b18fcf1e794a3826bbaa13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730509,
+            "locality_id":1763193153,
+            "neighbourhood_id":1763193607,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":1763193607,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1646706729,
+    "wof:name":"Rivonia",
+    "wof:parent_id":1763193153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259877325
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05573,
+    -26.04226,
+    28.05573,
+    -26.04226
+],
+  "geometry": {"coordinates":[28.05573,-26.04226],"type":"Point"}
+}

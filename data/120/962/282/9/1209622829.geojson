@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688915,
+        102191573,
+        1125423429,
+        85633813,
+        1108730531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"70b80db591cf675a67d79bcf0fa7afe7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209622829
+            "county_id":1108730531,
+            "localadmin_id":1125423429,
+            "locality_id":1209622829,
+            "region_id":85688915
         }
     ],
     "wof:id":1209622829,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411994,
+    "wof:lastmodified":1646705915,
     "wof:name":"Baakfontein",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

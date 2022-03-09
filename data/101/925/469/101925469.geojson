@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.00152,
     "geom:area_square_m":16928925.122335,
@@ -18,7 +19,7 @@
     "mps:latitude":-25.756386,
     "mps:longitude":28.161809,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730545,
-        85688923
+        85688923,
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -71,12 +72,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412240,
+    "wof:lastmodified":1646702013,
     "wof:name":"Pretoria West",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85772437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

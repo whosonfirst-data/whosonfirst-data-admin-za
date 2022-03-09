@@ -267,10 +267,11 @@
     "wd:longitude":22.133333,
     "wd:wordcount":4285,
     "wof:belongsto":[
-        102191573,
-        85633813,
         85688905,
-        1108730621
+        102191573,
+        1125395899,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,7 +294,8 @@
         {
             "continent_id":102191573,
             "country_id":85633813,
-            "county_id":1108730621,
+            "county_id":1762966207,
+            "localadmin_id":1125395899,
             "locality_id":101928083,
             "region_id":85688905
         }
@@ -315,9 +317,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1636501690,
+    "wof:lastmodified":1646701273,
     "wof:name":"Mossel Bay",
-    "wof:parent_id":1108730621,
+    "wof:parent_id":1125395899,
     "wof:placetype":"locality",
     "wof:population":150000,
     "wof:population_rank":9,

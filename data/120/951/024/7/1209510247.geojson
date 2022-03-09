@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688931,
+        102191573,
+        1125421545,
+        85633813,
+        1108730605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"7fe9bcbf8f8cde660219b8cda2af71bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209510247
+            "county_id":1108730605,
+            "localadmin_id":1125421545,
+            "locality_id":1209510247,
+            "region_id":85688931
         }
     ],
     "wof:id":1209510247,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412022,
+    "wof:lastmodified":1646705884,
     "wof:name":"Witpan",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125421545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

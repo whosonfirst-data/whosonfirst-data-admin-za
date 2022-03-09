@@ -61,10 +61,11 @@
     "wd:longitude":30.226,
     "wd:wordcount":22,
     "wof:belongsto":[
+        85688935,
         102191573,
+        1125271771,
         85633813,
-        1108730573,
-        85688935
+        1108730573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +85,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730573,
+            "localadmin_id":1125271771,
             "locality_id":101924279,
             "region_id":85688935
         }
@@ -105,9 +107,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412194,
+    "wof:lastmodified":1646703732,
     "wof:name":"GaKgapane",
-    "wof:parent_id":1108730573,
+    "wof:parent_id":1125271771,
     "wof:placetype":"locality",
     "wof:population":13000,
     "wof:population_rank":6,

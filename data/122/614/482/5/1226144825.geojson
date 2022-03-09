@@ -69,10 +69,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85688915,
         102191573,
+        1125421553,
         85633813,
-        1108730537,
-        85688915
+        1108730537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,6 +86,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730537,
+            "localadmin_id":1125421553,
             "locality_id":1226144825,
             "region_id":85688915
         }
@@ -106,9 +108,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412530,
+    "wof:lastmodified":1646705891,
     "wof:name":"Sandersville",
-    "wof:parent_id":1108730537,
+    "wof:parent_id":1125421553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

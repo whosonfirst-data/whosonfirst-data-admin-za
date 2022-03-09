@@ -90,11 +90,12 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125360031,
         85633813,
-        1108730507,
         101925869,
-        85688923
+        1108730507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,6 +111,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730507,
+            "localadmin_id":1125360031,
             "locality_id":101925869,
             "neighbourhood_id":1126079963,
             "region_id":85688923
@@ -132,7 +134,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412384,
+    "wof:lastmodified":1646704846,
     "wof:name":"Webber",
     "wof:parent_id":101925869,
     "wof:placetype":"neighbourhood",

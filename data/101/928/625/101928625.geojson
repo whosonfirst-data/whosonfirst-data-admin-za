@@ -41,10 +41,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688927,
         102191573,
+        1125358567,
         85633813,
-        1108730523,
-        85688927
+        1108730523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,6 +58,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730523,
+            "localadmin_id":1125358567,
             "locality_id":101928625,
             "region_id":85688927
         }
@@ -78,9 +80,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412316,
+    "wof:lastmodified":1646704427,
     "wof:name":"Thaleni",
-    "wof:parent_id":1108730523,
+    "wof:parent_id":1125358567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

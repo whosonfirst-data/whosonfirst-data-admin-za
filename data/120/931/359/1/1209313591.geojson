@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688927,
+        102191573,
+        1125388501,
+        85633813,
+        1108730525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"6ceab96fa52524e1e77f61c3c89d7f8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209313591
+            "county_id":1108730525,
+            "localadmin_id":1125388501,
+            "locality_id":1209313591,
+            "region_id":85688927
         }
     ],
     "wof:id":1209313591,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610411987,
+    "wof:lastmodified":1646705501,
     "wof:name":"Mgunga",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125388501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

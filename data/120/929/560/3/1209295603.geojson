@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125423559,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,12 @@
     "wof:geomhash":"c61c4a2dd174a07e87eb49050b72ce4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209295603
+            "county_id":1762966207,
+            "localadmin_id":1125423559,
+            "locality_id":1209295603,
+            "region_id":85688905
         }
     ],
     "wof:id":1209295603,
@@ -68,9 +76,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412027,
+    "wof:lastmodified":1646701250,
     "wof:name":"Phantom Acres",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

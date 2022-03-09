@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125423559,
+        85633813,
+        1762966207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,12 @@
     "wof:geomhash":"a2411aaeff01775faba809fc66e87fb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209493407
+            "county_id":1762966207,
+            "localadmin_id":1125423559,
+            "locality_id":1209493407,
+            "region_id":85688905
         }
     ],
     "wof:id":1209493407,
@@ -64,9 +72,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412011,
+    "wof:lastmodified":1646701261,
     "wof:name":"Leeuwbosch",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125423559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

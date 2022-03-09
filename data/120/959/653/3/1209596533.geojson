@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633813
+        85688905,
+        102191573,
+        1125361573,
+        85633813,
+        1108730615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,12 @@
     "wof:geomhash":"1a896753510741d8eedfd4a80ab61707",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85633813,
-            "locality_id":1209596533
+            "county_id":1108730615,
+            "localadmin_id":1125361573,
+            "locality_id":1209596533,
+            "region_id":85688905
         }
     ],
     "wof:id":1209596533,
@@ -70,9 +78,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412018,
+    "wof:lastmodified":1646704909,
     "wof:name":"Helderberg",
-    "wof:parent_id":85633813,
+    "wof:parent_id":1125361573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -55,10 +55,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688911,
         102191573,
+        1763143669,
         85633813,
-        1108730549,
-        85688911
+        1108730549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +78,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730549,
+            "localadmin_id":1763143669,
             "locality_id":101929333,
             "region_id":85688911
         }
@@ -98,9 +100,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412251,
+    "wof:lastmodified":1646701861,
     "wof:name":"Munster",
-    "wof:parent_id":1108730549,
+    "wof:parent_id":1763143669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],

@@ -44,10 +44,11 @@
     "woe:name_adm1":"Gauteng",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85688923,
         102191573,
+        1125388495,
         85633813,
-        1108730543,
-        85688923
+        1108730543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730543,
+            "localadmin_id":1125388495,
             "locality_id":1125896357,
             "region_id":85688923
         }
@@ -83,9 +85,9 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412363,
+    "wof:lastmodified":1646705484,
     "wof:name":"Noordheuwel",
-    "wof:parent_id":1108730543,
+    "wof:parent_id":1125388495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
