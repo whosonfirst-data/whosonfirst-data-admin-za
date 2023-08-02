@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a \u0648\u064a\u0644\u064a\u0627\u0645\u0632 \u062a\u0627\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0646\u062c \u0648\u064a\u0644\u064a\u0627\u0645\u0632 \u062a\u0627\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Qonce"
+    ],
+    "name:cat_x_preferred":[
+        "Qonce"
+    ],
     "name:ceb_x_preferred":[
         "King William's Town"
     ],
@@ -37,8 +46,14 @@
     "name:deu_x_preferred":[
         "King William\u2019s Town"
     ],
+    "name:deu_x_variant":[
+        "Qonce"
+    ],
     "name:eng_x_preferred":[
         "King William's Town"
+    ],
+    "name:eng_x_variant":[
+        "Qonce"
     ],
     "name:est_x_preferred":[
         "King William\u2019s Town"
@@ -48,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "King William's Town"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e0\u05d2 \u05d5\u05d9\u05dc\u05d9\u05d0\u05de\u05d6 \u05d8\u05d0\u05d5\u05df"
     ],
     "name:hye_x_preferred":[
         "\u0554\u056b\u0576\u0563 \u0548\u0582\u056b\u056c\u0575\u0561\u0574\u057d \u0539\u0561\u0578\u0582\u0576"
@@ -96,6 +114,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5a01\u5ec9\u738b\u57ce"
+    ],
+    "name:zul_x_preferred":[
+        "King William's Town"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -165,7 +186,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702436,
+    "wof:lastmodified":1690928103,
     "wof:name":"King William's Town",
     "wof:parent_id":1125271267,
     "wof:placetype":"locality",

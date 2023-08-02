@@ -26,6 +26,12 @@
     "name:afr_x_variant":[
         "Stellenbosch"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u064a\u0644\u064a\u0646\u0628\u0648\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Stellenbosch"
+    ],
     "name:cat_x_preferred":[
         "Stellenbosch"
     ],
@@ -80,6 +86,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0569\u0565\u056c\u056c\u0565\u0576\u0562\u0578\u057d"
     ],
+    "name:hye_x_variant":[
+        "\u054d\u0569\u0565\u056c\u0565\u0576\u0562\u0578\u057d"
+    ],
     "name:ind_x_preferred":[
         "Stellenbosch"
     ],
@@ -93,6 +102,12 @@
         "\uc2a4\ud154\ub80c\ubcf4\uc2a4"
     ],
     "name:lat_x_preferred":[
+        "Stellenbosch"
+    ],
+    "name:lit_x_preferred":[
+        "Stelenbosas"
+    ],
+    "name:ltz_x_preferred":[
         "Stellenbosch"
     ],
     "name:mkd_x_preferred":[
@@ -146,11 +161,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043b\u043b\u0435\u043d\u0431\u043e\u0448"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0679\u06cc\u0644\u0646 \u0628\u0648\u0634"
+    ],
     "name:ven_x_preferred":[
         "Stellenbosch"
     ],
     "name:zho_x_preferred":[
         "\u65af\u6cf0\u502b\u535a\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "IStellenbosch"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -224,7 +245,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704907,
+    "wof:lastmodified":1690928251,
     "wof:name":"Stellenbosch",
     "wof:parent_id":1125361573,
     "wof:placetype":"locality",

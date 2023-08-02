@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0643\u0633\u0631\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0644\u0643\u0633\u0631\u0633\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Volksrust"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u0995\u09cd\u09b8\u09b0\u09be\u09b8\u09cd\u099f"
     ],
@@ -113,6 +119,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043a\u0441\u0440\u0443\u0441\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u043b\u043a\u0441\u0440\u0443\u0442"
+    ],
     "name:und_x_variant":[
         "Volkrust"
     ],
@@ -122,8 +131,14 @@
     "name:vie_x_preferred":[
         "Volksrust"
     ],
+    "name:xho_x_preferred":[
+        "Volksrust"
+    ],
     "name:zho_x_preferred":[
         "\u798f\u723e\u514b\u65af\u52d2\u65af\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Volksrust"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -289,7 +304,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703844,
+    "wof:lastmodified":1690928224,
     "wof:name":"Volksrust",
     "wof:parent_id":1125271851,
     "wof:placetype":"locality",

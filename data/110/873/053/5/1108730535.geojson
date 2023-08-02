@@ -56,11 +56,20 @@
     "name:fra_x_preferred":[
         "Thabo Mofutsanyane"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0570\u0561\u0562\u0578 \u0544\u0578\u0586\u0578\u0582\u057f\u057d\u0561\u0576\u0575\u0561\u0576\u0561"
+    ],
     "name:ind_x_preferred":[
         "Distrik Thabo Mofutsanyana"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Thabo Mofutsanyane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30dc\u30fb\u30e2\u30d5\u30c4\u30e4\u30cb\u30e3\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Thabo Mofutsanyana Khu-he\u030dk Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Thabo Mofutsanyane"
@@ -77,8 +86,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0445\u0430\u0431\u043e \u041c\u043e\u0444\u0443\u0442\u0441\u0430\u043d\u044c\u044f\u043d\u0435"
     ],
+    "name:ven_x_preferred":[
+        "Thabo Mofutsanyana District Municipality"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u535a\u00b7\u83ab\u5bcc\u5bdf\u6069\u4e9e\u7d0d\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Thabo Mofutsanyana District Municipality"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -132,7 +147,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617130346,
+    "wof:lastmodified":1690927928,
     "wof:name":"Thabo Mofutsanyane",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

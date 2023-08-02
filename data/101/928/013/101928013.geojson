@@ -23,11 +23,23 @@
     "name:afr_x_preferred":[
         "Paarl"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Paarl"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09cd\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Paarl"
     ],
     "name:ceb_x_preferred":[
         "Paarl"
@@ -47,6 +59,9 @@
     "name:deu_x_preferred":[
         "Paarl"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Paarl"
     ],
@@ -56,10 +71,16 @@
     "name:est_x_preferred":[
         "Paarl"
     ],
+    "name:eus_x_preferred":[
+        "Paarl"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Paarl"
+    ],
+    "name:gle_x_preferred":[
         "Paarl"
     ],
     "name:hak_x_preferred":[
@@ -67,6 +88,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05e8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0930\u094d\u0932"
     ],
     "name:hun_x_preferred":[
         "Paarl"
@@ -98,6 +122,9 @@
     "name:nso_x_preferred":[
         "Paarl"
     ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0627\u0631\u0644"
+    ],
     "name:pol_x_preferred":[
         "Paarl"
     ],
@@ -128,11 +155,20 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0644"
     ],
+    "name:vec_x_preferred":[
+        "Paarl"
+    ],
     "name:vie_x_preferred":[
+        "Paarl"
+    ],
+    "name:xho_x_preferred":[
         "Paarl"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u963f\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "IPaarl"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -302,7 +338,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702563,
+    "wof:lastmodified":1690928254,
     "wof:name":"Paarl",
     "wof:parent_id":1125271361,
     "wof:placetype":"locality",

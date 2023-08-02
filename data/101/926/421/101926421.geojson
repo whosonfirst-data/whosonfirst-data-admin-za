@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062f\u0631\u0628\u064a\u062c\u0644\u0628\u0627\u0631\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0646\u062f\u0631\u0628\u064a\u062c\u0644\u0628\u0627\u0631\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Vanderbijlpark"
+    ],
     "name:cat_x_preferred":[
         "Vanderbijlpark"
     ],
@@ -54,8 +60,14 @@
     "name:ita_x_preferred":[
         "Vanderbijlpark"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30f3\u30c7\u30eb\u30d3\u30b8\u30eb\u30d1\u30fc\u30af"
+    ],
     "name:lit_x_preferred":[
         "Vanderbeilparkas"
+    ],
+    "name:ltz_x_preferred":[
+        "Vanderbijlpark"
     ],
     "name:mar_x_preferred":[
         "\u092b\u093e\u0902\u0921\u0930\u092c\u0940\u0932\u092a\u093e\u0930\u094d\u0915"
@@ -90,8 +102,14 @@
     "name:rus_x_variant":[
         "\u0424\u0430\u043d\u0434\u0435\u0440\u0431\u0435\u0439\u043b\u043f\u0430\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Vanderbijlpark"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0430\u043d\u0434\u0435\u0440\u0431\u0430\u0458\u043f\u0430\u0440\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Vanderbijlpark"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e27\u0e19\u0e40\u0e14\u0e2d\u0e44\u0e1a\u0e25\u0e4c\u0e1e\u0e32\u0e23\u0e4c\u0e01"
@@ -99,14 +117,23 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0434\u0435\u0440\u0431\u0435\u0439\u043b\u043f\u0430\u0440\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u0424\u0430\u043d\u0434\u0435\u0440\u0431\u0435\u0439\u043b\u043f\u0430\u0440\u043a"
+    ],
     "name:ven_x_preferred":[
         "Vanderbijlpark"
     ],
     "name:vie_x_preferred":[
         "Vanderbijlpark"
     ],
+    "name:xho_x_preferred":[
+        "Vanderbijlpark"
+    ],
     "name:zho_x_preferred":[
         "\u8303\u5fb7\u62dc\u723e\u5e15\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Vanderbijlpark"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -199,7 +226,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702468,
+    "wof:lastmodified":1690928224,
     "wof:name":"Vanderbijlpark",
     "wof:parent_id":1125271275,
     "wof:placetype":"locality",

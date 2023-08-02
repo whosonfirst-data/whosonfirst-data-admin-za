@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u064a\u0633\u064a\u0648\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u0456\u0437\u0456\u0439"
+    ],
+    "name:bos_x_preferred":[
+        "Elizijske poljane"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043b\u0438\u0441\u0435\u0439\u0441\u043a\u0438 \u043f\u043e\u043b\u0435\u0442\u0430"
     ],
@@ -61,8 +67,14 @@
     "name:fra_x_preferred":[
         "Champs \u00c9lys\u00e9es"
     ],
+    "name:fry_x_preferred":[
+        "Elysium"
+    ],
     "name:grc_x_preferred":[
         "\u1f28\u03bb\u03cd\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:grc_x_variant":[
+        "\u1f28\u03bb\u03cd\u03c3\u03b9\u03bf\u03bd "
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05d5\u05ea \u05d0\u05dc\u05d9\u05e1\u05d9\u05d5\u05dd"
@@ -94,8 +106,14 @@
     "name:lit_x_preferred":[
         "Eliziejaus laukai"
     ],
+    "name:msa_x_preferred":[
+        "Elysion"
+    ],
     "name:nld_x_preferred":[
         "Elysese velden"
+    ],
+    "name:nld_x_variant":[
+        "Elysion"
     ],
     "name:nno_x_preferred":[
         "Elysium"
@@ -208,7 +226,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701586,
+    "wof:lastmodified":1690928102,
     "wof:name":"Elysium",
     "wof:parent_id":1125421531,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Mopani"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057a\u0561\u0576\u056b"
+    ],
     "name:ind_x_preferred":[
         "Distrik Mopani"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9ed8\u5e15\u5c3c\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u83ab\u5e15\u5c3c\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -138,7 +144,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617129932,
+    "wof:lastmodified":1690927949,
     "wof:name":"Mopani",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

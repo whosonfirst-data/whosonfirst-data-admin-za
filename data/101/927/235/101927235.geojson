@@ -29,8 +29,17 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0644\u0633\u0628\u0631\u0648\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0644\u0633\u0628\u0631\u0648\u064a\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Mbombela"
+    ],
     "name:aze_x_preferred":[
         "Nelspreyt"
+    ],
+    "name:aze_x_variant":[
+        "Mbombela"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0431\u043e\u043c\u0431\u0435\u043b\u0430"
@@ -44,8 +53,14 @@
     "name:cat_x_preferred":[
         "Nelspruit"
     ],
+    "name:cat_x_variant":[
+        "Mbombela"
+    ],
     "name:ceb_x_preferred":[
         "Nelspruit"
+    ],
+    "name:ceb_x_variant":[
+        "Mbombela"
     ],
     "name:ces_x_preferred":[
         "Mbombela"
@@ -53,11 +68,17 @@
     "name:dan_x_preferred":[
         "Nelspruit"
     ],
+    "name:dan_x_variant":[
+        "Mbombela"
+    ],
     "name:deu_x_preferred":[
         "Mbombela"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03bb\u03c3\u03c0\u03c1\u03bf\u03c5\u03b9\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03b5\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nelspruit"
@@ -72,8 +93,14 @@
     "name:est_x_preferred":[
         "Nelspruit"
     ],
+    "name:est_x_variant":[
+        "Mbombela"
+    ],
     "name:eus_x_preferred":[
         "Nelspruit"
+    ],
+    "name:eus_x_variant":[
+        "Mbombela"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0644\u0633\u067e\u0631\u0648\u06cc\u062a"
@@ -81,11 +108,23 @@
     "name:fin_x_preferred":[
         "Nelspruit"
     ],
+    "name:fin_x_variant":[
+        "Mbombela"
+    ],
     "name:fra_x_preferred":[
         "Nelspruit"
     ],
+    "name:fra_x_variant":[
+        "Mbombela"
+    ],
+    "name:frr_x_preferred":[
+        "Mbombela"
+    ],
     "name:gle_x_preferred":[
         "Nelspruit"
+    ],
+    "name:gle_x_variant":[
+        "Mbombela"
     ],
     "name:glg_x_preferred":[
         "Mbombela"
@@ -108,14 +147,29 @@
     "name:hrv_x_preferred":[
         "Nelspruit"
     ],
+    "name:hrv_x_variant":[
+        "Mbombela"
+    ],
     "name:hun_x_preferred":[
         "Nelspruit"
+    ],
+    "name:hun_x_variant":[
+        "Mbombela"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0562\u0578\u0574\u0562\u0565\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Nelspruit"
     ],
+    "name:ind_x_variant":[
+        "Mbombela"
+    ],
     "name:ita_x_preferred":[
         "Nelspruit"
+    ],
+    "name:ita_x_variant":[
+        "Mbombela"
     ],
     "name:jpn_x_preferred":[
         "\u30cd\u30eb\u30b9\u30d7\u30ed\u30a4\u30c8"
@@ -143,6 +197,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u043b\u0441\u043f\u0440\u0443\u0438\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Nelspruit"
     ],
     "name:msa_x_preferred":[
         "Mbombela"
@@ -189,6 +246,9 @@
     "name:spa_x_preferred":[
         "Nelspruit"
     ],
+    "name:spa_x_variant":[
+        "Mbombela"
+    ],
     "name:sqi_x_preferred":[
         "Nelspruit"
     ],
@@ -212,6 +272,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e19\u0e25\u0e2a\u0e44\u0e1b\u0e23\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e36\u0e21\u0e1a\u0e2d\u0e21\u0e40\u0e1a\u0e25\u0e32"
     ],
     "name:tsn_x_preferred":[
         "Nelspruit"
@@ -237,6 +300,12 @@
     "name:war_x_preferred":[
         "Nelspruit"
     ],
+    "name:wuu_x_preferred":[
+        "\u59c6\u90a6\u8d1d\u62c9"
+    ],
+    "name:xho_x_preferred":[
+        "Mbombela"
+    ],
     "name:yor_x_preferred":[
         "Mbombela"
     ],
@@ -245,6 +314,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5185\u5c14\u65af\u666e\u96f7\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Mbombela"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -407,7 +479,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701431,
+    "wof:lastmodified":1690928128,
     "wof:name":"Nelspruit",
     "wof:parent_id":1125320713,
     "wof:placetype":"locality",

@@ -34,11 +34,20 @@
     "name:bul_x_preferred":[
         "\u0418\u0434\u044a\u043d (\u043e\u043a\u0440\u044a\u0433)"
     ],
+    "name:bul_x_variant":[
+        "\u0418\u0434\u044a\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Garden Route District Municipality"
     ],
+    "name:ceb_x_variant":[
+        "Eden District Municipality"
+    ],
     "name:deu_x_preferred":[
         "Garden Route (Distrikt)"
+    ],
+    "name:deu_x_variant":[
+        "Garden Route"
     ],
     "name:eng_x_preferred":[
         "Garden Route District Municipality"
@@ -46,8 +55,17 @@
     "name:est_x_preferred":[
         "Garden Route'i ringkond"
     ],
+    "name:est_x_variant":[
+        "Edeni ringkond"
+    ],
     "name:fra_x_preferred":[
         "District municipal de la route des jardins"
+    ],
+    "name:fra_x_variant":[
+        "Eden"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0564\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "Distrik Garden Route"
@@ -55,8 +73,17 @@
     "name:ita_x_preferred":[
         "Municipalit\u00e0 distrettuale di Eden"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c7\u30f3\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Garden Route Khu-he\u030dk Ch\u016b-t\u012b-th\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Tuinroute (district)"
+    ],
+    "name:nld_x_variant":[
+        "Tuinroute-district"
     ],
     "name:nov_x_preferred":[
         "Eden"
@@ -64,17 +91,32 @@
     "name:nso_x_preferred":[
         "Mmasepala Setereke t\u0161a Garden Route"
     ],
+    "name:nso_x_variant":[
+        "Mmasepala Setereke t\u0161a Eden"
+    ],
     "name:pol_x_preferred":[
         "Eden (Po\u0142udniowa Afryka)"
     ],
+    "name:pol_x_variant":[
+        "Eden"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0435\u043d (\u0440\u0430\u0439\u043e\u043d)"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0434\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Distrito Municipal de Eden"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0435\u043d (\u0440\u0430\u0439\u043e\u043d)"
+    ],
+    "name:ukr_x_variant":[
+        "\u0415\u0434\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u5712\u5927\u9053\u5340\u81ea\u6cbb\u5e02"
     ],
     "name:zul_x_preferred":[
         "Garden Route District Municipality"
@@ -120,7 +162,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701296,
+    "wof:lastmodified":1690928374,
     "wof:name":"Garden Route",
     "wof:parent_id":85688905,
     "wof:placetype":"county",

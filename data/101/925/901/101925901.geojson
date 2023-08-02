@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Hillbrow"
     ],
+    "name:ast_x_preferred":[
+        "Hillbrow"
+    ],
     "name:deu_x_preferred":[
         "Hillbrow"
     ],
@@ -29,6 +32,9 @@
         "Hillbrow"
     ],
     "name:fra_x_preferred":[
+        "Hillbrow"
+    ],
+    "name:gle_x_preferred":[
         "Hillbrow"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +58,9 @@
     "name:zho_x_preferred":[
         "\u5e0c\u723e\u5e03\u7f85\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u5e0c\u723e\u5e03\u7f85"
+    ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -73,8 +82,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730509,
-        85688923
+        85688923,
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +119,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412224,
+    "wof:lastmodified":1690928040,
     "wof:name":"Hillbrow",
     "wof:parent_id":1108730509,
     "wof:placetype":"locality",

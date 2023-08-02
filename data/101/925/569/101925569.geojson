@@ -23,6 +23,9 @@
     "name:afr_x_preferred":[
         "Centurion"
     ],
+    "name:ast_x_preferred":[
+        "Centurion"
+    ],
     "name:ceb_x_preferred":[
         "Centurion"
     ],
@@ -44,6 +47,12 @@
     "name:fra_x_preferred":[
         "Centurion"
     ],
+    "name:gle_x_preferred":[
+        "Centurion"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091a\u0941\u0930\u093f\u092f\u0928"
+    ],
     "name:ita_x_preferred":[
         "Centurion"
     ],
@@ -59,8 +68,17 @@
     "name:nld_x_preferred":[
         "Centurion"
     ],
+    "name:nob_x_preferred":[
+        "Centurion"
+    ],
     "name:nso_x_preferred":[
         "Centurion"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a70\u0a1a\u0a30\u0a40\u0a06\u0a28"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0646\u0686\u0631\u06cc\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Centurion"
@@ -74,6 +92,12 @@
     "name:spa_x_preferred":[
         "Centurion"
     ],
+    "name:swa_x_preferred":[
+        "Centurion"
+    ],
+    "name:tsn_x_preferred":[
+        "Centurion"
+    ],
     "name:und_x_variant":[
         "Verwoerdburg"
     ],
@@ -83,8 +107,17 @@
     "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0686\u0648\u0631\u06cc\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Centurion"
+    ],
+    "name:xho_x_preferred":[
+        "Centurion"
+    ],
     "name:zho_x_preferred":[
         "\u6749\u7403\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Centurion"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -113,8 +146,8 @@
     "wof:belongsto":[
         102191573,
         85633813,
-        1108730545,
-        85688923
+        85688923,
+        1108730545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +188,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412222,
+    "wof:lastmodified":1690928037,
     "wof:name":"Centurion",
     "wof:parent_id":1108730545,
     "wof:placetype":"locality",

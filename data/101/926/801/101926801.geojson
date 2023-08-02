@@ -29,8 +29,17 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u062a \u0644\u062d\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u062d\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Bethlehem"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a5\u09b2\u09c7\u09b9\u09c7\u09ae"
+    ],
+    "name:cat_x_preferred":[
+        "Bethlehem"
     ],
     "name:ceb_x_preferred":[
         "Bethlehem"
@@ -56,6 +65,9 @@
     "name:est_x_preferred":[
         "Bethlehem"
     ],
+    "name:eus_x_preferred":[
+        "Bethlehem"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a \u0644\u062d\u0645"
     ],
@@ -64,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05dc\u05d7\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05ea'\u05dc\u05d4\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0925\u0932\u0939\u092e"
@@ -84,6 +99,9 @@
         "\ubca0\ub4e4\ub808\ud5f4"
     ],
     "name:nld_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:nob_x_preferred":[
         "Bethlehem"
     ],
     "name:nso_x_preferred":[
@@ -107,6 +125,9 @@
     "name:spa_x_preferred":[
         "Bethlehem"
     ],
+    "name:swa_x_preferred":[
+        "Bethlehem"
+    ],
     "name:swe_x_preferred":[
         "Bethlehem"
     ],
@@ -124,6 +145,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f2f\u5229\u6046"
+    ],
+    "name:zul_x_preferred":[
+        "IBethlehem"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -289,7 +313,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703362,
+    "wof:lastmodified":1690928237,
     "wof:name":"Bethlehem",
     "wof:parent_id":1125271445,
     "wof:placetype":"locality",

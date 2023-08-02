@@ -227,7 +227,6 @@
     "name:spa_x_preferred":[
         "Butterworth"
     ],
-    "name:spa_x_variant":[],
     "name:srd_x_preferred":[
         "Butterworth"
     ],
@@ -264,11 +263,17 @@
     "name:wol_x_preferred":[
         "Butterworth"
     ],
+    "name:xho_x_preferred":[
+        "eGcuwa"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u7279\u6c83\u65af"
     ],
     "name:zul_x_preferred":[
         "Gcuwa"
+    ],
+    "name:zul_x_variant":[
+        "No label"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -338,7 +343,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703303,
+    "wof:lastmodified":1690928105,
     "wof:name":"Butterworth",
     "wof:parent_id":1125271439,
     "wof:placetype":"locality",

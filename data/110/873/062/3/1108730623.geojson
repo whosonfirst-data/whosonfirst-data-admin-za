@@ -67,6 +67,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30e9\u30eb\u30ab\u30eb\u30fc\u90e1"
     ],
+    "name:nan_x_preferred":[
+        "Central Karoo Khu-he\u030dk Ch\u016b-t\u012b-th\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Sentraal-Karoo"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u5361\u9b6f\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Central Karoo District Municipality"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -143,7 +149,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617130334,
+    "wof:lastmodified":1690927921,
     "wof:name":"Central Karoo",
     "wof:parent_id":85688905,
     "wof:placetype":"county",

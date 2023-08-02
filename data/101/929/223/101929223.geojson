@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0647\u0627\u0645\u0633\u062a\u0627\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u0647\u0627\u0645\u0633\u062a\u0627\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Makhanda"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09b9\u09be\u09ae\u09b8\u099f\u09be\u0989\u09a8"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:dan_x_preferred":[
         "Grahamstown"
+    ],
+    "name:dan_x_variant":[
+        "Makhanda"
     ],
     "name:deu_x_preferred":[
         "Grahamstown"
@@ -92,8 +101,14 @@
     "name:ita_x_preferred":[
         "Grahamstown"
     ],
+    "name:ita_x_variant":[
+        "Makhanda"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30cf\u30e0\u30ba\u30bf\u30a6\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30de\u30ab\u30f3\u30c0"
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb0\u0cbe\u0cb9\u0c82\u0cb8\u0ccd \u0c9f\u0cca\u0cb5\u0ccd\u0ca8\u0ccd"
@@ -155,6 +170,9 @@
     "name:srp_x_preferred":[
         "\u0413\u0440\u0435\u0458\u0430\u043c\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:ssw_x_preferred":[
+        "EMakhanda,"
+    ],
     "name:swa_x_preferred":[
         "Grahamstown"
     ],
@@ -202,6 +220,9 @@
     ],
     "name:zho_x_variant":[
         "\u683c\u62c9\u7f55\u9547"
+    ],
+    "name:zul_x_preferred":[
+        "Makhanda"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -367,7 +388,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701073,
+    "wof:lastmodified":1690928106,
     "wof:name":"Grahamstown",
     "wof:parent_id":1125374861,
     "wof:placetype":"locality",

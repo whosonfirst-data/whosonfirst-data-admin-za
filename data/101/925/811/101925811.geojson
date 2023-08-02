@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0648\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0646\u0648\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Benoni"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u044d\u043d\u043e\u043d\u0456"
     ],
@@ -68,11 +74,18 @@
     "name:fra_x_preferred":[
         "Benoni"
     ],
+    "name:gle_x_preferred":[
+        "Benoni"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05bc\u05d0\u05e0\u05d5\u05e0\u05d9"
     ],
     "name:heb_x_variant":[
-        "\u05d1\u05bc\u05e0\u05d5\u05e0\u05d9"
+        "\u05d1\u05bc\u05e0\u05d5\u05e0\u05d9",
+        "\u05d1\u05d0\u05e0\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u094b\u0928\u0940"
     ],
     "name:hun_x_preferred":[
         "Benoni"
@@ -100,6 +113,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u094b\u0928\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Benoni"
     ],
     "name:nld_x_preferred":[
         "Benoni"
@@ -143,6 +159,9 @@
     "name:tgl_x_preferred":[
         "Benoni"
     ],
+    "name:tsn_x_preferred":[
+        "Benoni"
+    ],
     "name:tur_x_preferred":[
         "Benoni"
     ],
@@ -158,10 +177,16 @@
     "name:uzb_x_preferred":[
         "Benoni"
     ],
+    "name:vec_x_preferred":[
+        "Benoni"
+    ],
     "name:vie_x_preferred":[
         "Benoni"
     ],
     "name:war_x_preferred":[
+        "Benoni"
+    ],
+    "name:xho_x_preferred":[
         "Benoni"
     ],
     "name:zho_x_preferred":[
@@ -329,7 +354,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704836,
+    "wof:lastmodified":1690928045,
     "wof:megacity":1,
     "wof:name":"Benoni",
     "wof:parent_id":1125360031,

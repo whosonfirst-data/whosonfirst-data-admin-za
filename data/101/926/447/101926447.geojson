@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u064a\u0641\u0633\u062a\u0631\u0648\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0634\u064a\u0641\u0633\u062a\u0631\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Potchefstroom"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u099f\u099b\u09c7\u09b8\u09cd\u099f\u09cd\u09b0\u09c1\u09ae"
     ],
@@ -33,6 +39,9 @@
         "Potchefstroom"
     ],
     "name:ceb_x_preferred":[
+        "Potchefstroom"
+    ],
+    "name:ces_x_preferred":[
         "Potchefstroom"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +71,14 @@
     "name:fra_x_preferred":[
         "Potchefstroom"
     ],
+    "name:gle_x_preferred":[
+        "Potchefstroom"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e6'\u05e4\u05e1\u05d8\u05e8\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u091a\u0947\u092b\u0938\u094d\u091f\u094d\u0930\u0942\u092e"
     ],
     "name:hun_x_preferred":[
         "Potchefstroom"
@@ -119,10 +134,16 @@
     "name:rus_x_variant":[
         "\u041f\u043e\u0442\u0447\u0435\u0444\u0441\u0442\u0440\u0443\u043c"
     ],
+    "name:slk_x_preferred":[
+        "Potchefstroom"
+    ],
     "name:slv_x_preferred":[
         "Potchefstroom"
     ],
     "name:spa_x_preferred":[
+        "Potchefstroom"
+    ],
+    "name:swa_x_preferred":[
         "Potchefstroom"
     ],
     "name:swe_x_preferred":[
@@ -140,6 +161,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u0679\u0634\u06cc\u0641\u0679\u0633\u0631\u0648\u0645"
     ],
+    "name:vec_x_preferred":[
+        "Potchefstroom"
+    ],
     "name:ven_x_preferred":[
         "Potchefstroom"
     ],
@@ -148,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u5207\u592b\u65af\u7279\u9b6f\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "IPotchefstroom"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -313,7 +340,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701990,
+    "wof:lastmodified":1690928188,
     "wof:name":"Potchefstroom",
     "wof:parent_id":1763143689,
     "wof:placetype":"locality",

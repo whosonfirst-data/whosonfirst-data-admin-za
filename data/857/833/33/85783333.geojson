@@ -37,11 +37,29 @@
     "name:arg_x_preferred":[
         "alba"
     ],
+    "name:ary_x_preferred":[
+        "\u0641\u062c\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "\u015f\u0259f\u0259q vaxt\u0131"
+    ],
+    "name:bcl_x_preferred":[
+        "Kaagahon"
+    ],
+    "name:bel_x_preferred":[
+        "\u0441\u0432\u0456\u0442\u0430\u043d\u043d\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cb\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u0417\u043e\u0440\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0437\u043e\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "alba"
     ],
     "name:ces_x_preferred":[
         "\u00fasvit"
@@ -49,17 +67,36 @@
     "name:che_x_preferred":[
         "\u0440\u0430\u0441\u0441\u0432\u0435\u0442"
     ],
+    "name:chv_x_preferred":[
+        "\u0448\u0443\u00e7\u0103\u043c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u0631\u06d5\u0628\u06d5\u06cc\u0627\u0646"
+    ],
+    "name:csb_x_preferred":[
+        "szerm\u00ebc\u00f4"
+    ],
     "name:dan_x_preferred":[
         "Morgenr\u00f8de"
     ],
     "name:dan_x_variant":[
-        "morgenr\u00f8de"
+        "morgenr\u00f8de",
+        "daggry"
     ],
     "name:deu_x_preferred":[
         "Morgend\u00e4mmerung"
     ],
+    "name:diq_x_preferred":[
+        "\u015fefaq"
+    ],
+    "name:dsb_x_preferred":[
+        "switanje"
+    ],
     "name:eml_x_preferred":[
         "\u00calba"
+    ],
+    "name:eml_x_variant":[
+        "\u00ealba"
     ],
     "name:eng_x_preferred":[
         "Dawn"
@@ -112,11 +149,17 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d7\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u092d\u094b\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Zora"
     ],
     "name:hrv_x_variant":[
         "zora"
+    ],
+    "name:hun_x_preferred":[
+        "pirkadat"
     ],
     "name:ind_x_preferred":[
         "Fajar"
@@ -132,6 +175,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u660e\u3051\u65b9"
+    ],
+    "name:kab_x_preferred":[
+        "tafrara"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb0\u0cbe\u0ca4\u0c83\u0c95\u0cbe\u0cb2"
@@ -153,6 +199,9 @@
     ],
     "name:lmo_x_preferred":[
         "alba"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d2d\u0d3e\u0d24\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0939\u093e\u091f"
@@ -184,14 +233,23 @@
     "name:nor_x_preferred":[
         "Demring"
     ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u067e\u06be\u0679\u0627\u076a\u0627"
+    ],
     "name:pol_x_preferred":[
         "\u015awit"
+    ],
+    "name:pol_x_variant":[
+        "\u015bwit"
     ],
     "name:por_x_preferred":[
         "Madrugada"
     ],
     "name:por_x_variant":[
         "alvorada"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0647\u0627\u0631(\u0633\u067e\u064a\u062f\u0647 \u062f\u0627\u063a)"
     ],
     "name:ron_x_preferred":[
         "Auror\u0103"
@@ -216,6 +274,12 @@
     ],
     "name:sgs_x_preferred":[
         "au\u0161ra"
+    ],
+    "name:slk_x_preferred":[
+        "svitanie"
+    ],
+    "name:slv_x_preferred":[
+        "zora"
     ],
     "name:snd_x_preferred":[
         "\u0628\u0627\u06a9"
@@ -253,6 +317,12 @@
     "name:swe_x_variant":[
         "gryning"
     ],
+    "name:szl_x_preferred":[
+        "rozwidni\u014fk"
+    ],
+    "name:szy_x_preferred":[
+        "kanikalan"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bc8\u0b95\u0bb1\u0bc8"
     ],
@@ -268,6 +338,9 @@
     "name:tur_x_preferred":[
         "\u015eafak"
     ],
+    "name:tur_x_variant":[
+        "\u015fafak"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0456\u0442\u0430\u043d\u043e\u043a"
     ],
@@ -276,6 +349,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0635\u0628\u062d \u0635\u0627\u062f\u0642"
+    ],
+    "name:vec_x_preferred":[
+        "alba"
     ],
     "name:vie_x_preferred":[
         "B\u00ecnh minh"
@@ -334,12 +410,12 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1230,
     "wof:belongsto":[
-        85688927,
         102191573,
         1125271267,
         85633813,
         101929165,
-        1108730513
+        1108730513,
+        85688927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -381,7 +457,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702455,
+    "wof:lastmodified":1690927858,
     "wof:name":"Dawn",
     "wof:parent_id":101929165,
     "wof:placetype":"neighbourhood",
