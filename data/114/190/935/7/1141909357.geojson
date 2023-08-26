@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:abk_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0438\u043d"
+    ],
     "name:afr_x_preferred":[
         "Bloemfontein"
     ],
@@ -28,6 +31,12 @@
         "\u1265\u1209\u121d\u134e\u1295\u1274\u12ed\u1295"
     ],
     "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u064a\u0646"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u0637\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u064a\u0646"
     ],
     "name:ast_x_preferred":[
@@ -38,6 +47,9 @@
     ],
     "name:aze_x_preferred":[
         "Blumfonteyn"
+    ],
+    "name:ban_x_preferred":[
+        "Bloemfontein"
     ],
     "name:bel_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u0430\u043d\u0442\u044d\u0439\u043d"
@@ -99,10 +111,16 @@
     "name:eus_x_preferred":[
         "Bloemfontein"
     ],
+    "name:fao_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u0646"
     ],
     "name:fin_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:fit_x_preferred":[
         "Bloemfontein"
     ],
     "name:fra_x_preferred":[
@@ -126,10 +144,16 @@
     "name:glg_x_preferred":[
         "Bloemfontein"
     ],
+    "name:grn_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0acb\u0aae\u0aab\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0aa8"
     ],
     "name:hak_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:hau_x_preferred":[
         "Bloemfontein"
     ],
     "name:heb_x_preferred":[
@@ -146,6 +170,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u056c\u0578\u0582\u0574\u0586\u0578\u0576\u0569\u0565\u0575\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u056c\u0578\u0582\u0574\u0586\u0578\u0576\u057f\u0565\u0575\u0576"
     ],
     "name:ile_x_preferred":[
         "Bloemfontein"
@@ -207,14 +234,23 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0932\u0942\u092e\u092b\u093e\u0901\u091f\u0947\u0928"
     ],
+    "name:mhr_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0458\u043d"
     ],
     "name:mlg_x_preferred":[
         "Bloemfontein"
     ],
+    "name:mri_x_preferred":[
+        "P\u016brumiwh\u014dniniti"
+    ],
     "name:msa_x_preferred":[
         "Bloemfontein"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u0646"
     ],
     "name:nah_x_preferred":[
         "Bloemfontein"
@@ -249,6 +285,9 @@
     "name:oci_x_preferred":[
         "Bloemfontein"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a32\u0a42\u0a2e\u0a2b\u0a4b\u0a02\u0a1f\u0a48\u0a28"
     ],
@@ -279,10 +318,34 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u0dbd\u0ddc\u0db8\u0dca\u0dc6\u0ddc\u0db1\u0dca\u0da7\u0dd3\u0db1\u0dca"
     ],
+    "name:sjd_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
+    "name:sje_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sju_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:slk_x_preferred":[
         "Bloemfontein"
     ],
     "name:slv_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sma_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sme_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:smj_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:smn_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sms_x_preferred":[
         "Bloemfontein"
     ],
     "name:sna_x_preferred":[
@@ -300,6 +363,9 @@
     "name:sqi_x_preferred":[
         "Bloemfontein"
     ],
+    "name:srd_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0458\u043d"
     ],
@@ -314,6 +380,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c32\u0c3e\u0c2e\u0c4d \u0c2b\u0c3e\u0c02\u0c1f\u0c47\u0c2f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
     ],
     "name:tgl_x_preferred":[
         "Bloemfontein"
@@ -332,6 +401,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u0679\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Bloemfontein"
     ],
     "name:ven_x_preferred":[
         "Bloemfontein"
@@ -520,7 +592,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701505,
+    "wof:lastmodified":1690928371,
     "wof:name":"Bloemfontein",
     "wof:parent_id":1125382591,
     "wof:placetype":"locality",

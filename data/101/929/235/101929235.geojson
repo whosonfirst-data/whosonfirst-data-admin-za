@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0628\u0648\u0631\u062a \u0623\u0644\u0641\u0631\u064a\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0628\u0648\u0631\u062a \u0627\u0644\u0641\u0631\u064a\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Port Alfred"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f \u0986\u09b2\u09ab\u09cd\u09b0\u09c7\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0410\u043b\u0444\u0440\u0435\u0434"
     ],
     "name:cat_x_preferred":[
         "Port Alfred"
@@ -56,11 +65,17 @@
     "name:fra_x_preferred":[
         "Port Alfred"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05d0\u05dc\u05e4\u05e8\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0905\u0932\u095e\u094d\u0930\u0947\u0921"
     ],
     "name:hun_x_preferred":[
         "Port Alfred"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u0531\u056c\u0586\u0580\u0565\u0564"
     ],
     "name:ind_x_preferred":[
         "Port Alfred"
@@ -73,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8 \uc54c\ud504\ub808\ub4dc"
+    ],
+    "name:mlg_x_preferred":[
+        "Port Alfred"
     ],
     "name:nld_x_preferred":[
         "Port Alfred"
@@ -124,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u5c14\u5f17\u96f7\u5fb7\u6e2f"
+    ],
+    "name:zul_x_preferred":[
+        "Port Alfred"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -288,7 +309,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701077,
+    "wof:lastmodified":1690928096,
     "wof:name":"Port Alfred",
     "wof:parent_id":1125374233,
     "wof:placetype":"locality",

@@ -304,6 +304,9 @@
     "name:jbo_x_preferred":[
         "Maitland"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30c8\u30e9\u30f3\u30c9"
+    ],
     "name:jut_x_preferred":[
         "Maitland"
     ],
@@ -589,7 +592,6 @@
     "name:spa_x_preferred":[
         "Maitland"
     ],
-    "name:spa_x_variant":[],
     "name:sqi_x_preferred":[
         "Maitland"
     ],
@@ -689,6 +691,9 @@
     "name:zea_x_preferred":[
         "Maitland"
     ],
+    "name:zho_x_preferred":[
+        "\u6885\u7279\u5170"
+    ],
     "name:zul_x_preferred":[
         "Maitland"
     ],
@@ -723,12 +728,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":604,
     "wof:belongsto":[
-        85688905,
         102191573,
         1763143691,
         85633813,
         101928027,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -771,7 +776,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646706166,
+    "wof:lastmodified":1690927982,
     "wof:name":"Maitland",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

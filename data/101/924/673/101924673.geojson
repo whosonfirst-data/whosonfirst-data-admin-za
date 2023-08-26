@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u064a\u0628\u0648\u0631\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u0627\u064a\u0628\u0648\u0631\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Vryburg"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09b0\u09bf\u09ac\u09be\u09b0\u09cd\u0997"
+    ],
+    "name:cat_x_preferred":[
+        "Vryburg"
     ],
     "name:ceb_x_preferred":[
         "Vryburg"
@@ -55,6 +64,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d9\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:heb_x_variant":[
+        "\u05d5\u05e8\u05d9\u05d9\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0935\u094d\u0930\u093e\u0907\u092c\u0930\u094d\u0917"
@@ -124,6 +136,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f17\u96f7\u5821"
+    ],
+    "name:zul_x_preferred":[
+        "IVryburg"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Africa",
@@ -284,7 +299,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704994,
+    "wof:lastmodified":1690927991,
     "wof:name":"Vryburg",
     "wof:parent_id":1125363831,
     "wof:placetype":"locality",

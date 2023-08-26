@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Fezile Dabi"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0565\u0566\u056b\u056c\u0565 \u0534\u0561\u0562\u056b"
+    ],
     "name:ind_x_preferred":[
         "Distrik Fezile Dabi"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u5317\u30d5\u30ea\u30fc\u30b9\u30c6\u30a4\u30c8\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Fezile Dabi Khu-he\u030dk Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Fezile Dabi"
@@ -85,8 +91,14 @@
     "name:spa_x_preferred":[
         "Distrito Municipal de Fezile Dabi"
     ],
+    "name:ven_x_preferred":[
+        "Fezile Dabi District Municipality"
+    ],
     "name:zho_x_preferred":[
         "\u8cbb\u9f4a\u840a\u9054\u6bd4\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Fezile Dabi District Municipality"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -140,7 +152,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617130346,
+    "wof:lastmodified":1690927926,
     "wof:name":"Fezile Dabi",
     "wof:parent_id":85688915,
     "wof:placetype":"county",

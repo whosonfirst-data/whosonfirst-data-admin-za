@@ -22,11 +22,17 @@
     "name:afr_x_preferred":[
         "Bochum"
     ],
+    "name:ast_x_preferred":[
+        "Senwabarwana"
+    ],
     "name:deu_x_preferred":[
         "Bochum"
     ],
     "name:eng_x_preferred":[
         "Bochum"
+    ],
+    "name:eng_x_variant":[
+        "Senwabarwana"
     ],
     "name:est_x_preferred":[
         "Senwabarwana"
@@ -34,20 +40,35 @@
     "name:fra_x_preferred":[
         "Bochum"
     ],
+    "name:fra_x_variant":[
+        "Senwabarwana"
+    ],
     "name:ita_x_preferred":[
+        "Bochum"
+    ],
+    "name:mlg_x_preferred":[
         "Bochum"
     ],
     "name:nld_x_preferred":[
         "Bochum"
     ],
+    "name:nld_x_variant":[
+        "Senwabarwana"
+    ],
     "name:nso_x_preferred":[
         "Bochum"
+    ],
+    "name:sot_x_preferred":[
+        "Senwabarwana"
     ],
     "name:und_x_variant":[
         "Bochem"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u9d3b"
+    ],
+    "name:zul_x_preferred":[
+        "ISenwabarwana"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -112,7 +133,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704194,
+    "wof:lastmodified":1690928023,
     "wof:name":"Bochum",
     "wof:parent_id":1125285693,
     "wof:placetype":"locality",

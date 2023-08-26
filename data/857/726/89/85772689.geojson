@@ -31,8 +31,14 @@
     "name:afr_x_preferred":[
         "Yeoville"
     ],
+    "name:ast_x_preferred":[
+        "Yeoville"
+    ],
     "name:eng_x_preferred":[
         "Yeoville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30fc\u30f4\u30a3\u30eb"
     ],
     "name:nld_x_preferred":[
         "Yeoville"
@@ -75,11 +81,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         1763179367,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +128,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701337,
+    "wof:lastmodified":1690927885,
     "wof:name":"Yeoville",
     "wof:parent_id":1763179367,
     "wof:placetype":"neighbourhood",

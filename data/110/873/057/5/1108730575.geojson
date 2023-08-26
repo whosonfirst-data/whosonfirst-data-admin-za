@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Vhembe"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0570\u0565\u0574\u0562\u0565"
+    ],
     "name:ind_x_preferred":[
         "Distrik Vhembe"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u5e0c\u59c6\u8c9d\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6587\u8c9d\u5340\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -135,7 +141,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617130338,
+    "wof:lastmodified":1690927950,
     "wof:name":"Vhembe",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

@@ -31,6 +31,9 @@
     "name:afr_x_preferred":[
         "Langa"
     ],
+    "name:cat_x_preferred":[
+        "Langa"
+    ],
     "name:deu_x_preferred":[
         "Langa"
     ],
@@ -43,11 +46,20 @@
     "name:nld_x_preferred":[
         "Langa"
     ],
+    "name:nso_x_preferred":[
+        "Langa"
+    ],
+    "name:ssw_x_preferred":[
+        "ILanga"
+    ],
     "name:und_x_variant":[
         "Langa Native Location"
     ],
     "name:zho_x_preferred":[
         "\u862d\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Langa"
     ],
     "qs:gn_adm0_cc":"ZA",
     "qs:gn_fcode":"PPLX",
@@ -81,12 +93,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688905,
         102191573,
         1763143691,
         85633813,
         101928027,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,7 +145,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646706160,
+    "wof:lastmodified":1690927881,
     "wof:name":"Langa",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",

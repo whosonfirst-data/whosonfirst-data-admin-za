@@ -51,6 +51,9 @@
     "name:ita_x_preferred":[
         "Umlazi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30de\u30e9\u30b8"
+    ],
     "name:nso_x_preferred":[
         "Umlazi"
     ],
@@ -64,6 +67,9 @@
         "\u0423\u043c\u043b\u0430\u0437\u0438"
     ],
     "name:spa_x_preferred":[
+        "Umlazi"
+    ],
+    "name:ssw_x_preferred":[
         "Umlazi"
     ],
     "name:war_x_preferred":[
@@ -107,12 +113,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688911,
         102191573,
         1125360055,
         85633813,
         1175615693,
-        1108730571
+        1108730571,
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,7 +162,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704893,
+    "wof:lastmodified":1690927884,
     "wof:name":"Umlazi",
     "wof:parent_id":1175615693,
     "wof:placetype":"neighbourhood",

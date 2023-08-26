@@ -40,6 +40,9 @@
     "name:afr_x_preferred":[
         "Stad Johannesburg Metropolitaanse Munisipaliteit"
     ],
+    "name:aze_x_preferred":[
+        "Yohannesburq"
+    ],
     "name:bel_x_preferred":[
         "\u042f\u0433\u0430\u043d\u044d\u0441\u0431\u0443\u0440\u0433"
     ],
@@ -60,10 +63,17 @@
         "Municipalit\u00e9 de Johannesburg"
     ],
     "name:fra_x_variant":[
-        "Johannesburg"
+        "Johannesburg",
+        "Johannesbourg"
     ],
     "name:hye_x_preferred":[
         "\u0545\u0578\u0570\u0561\u0576\u0565\u057d\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0545\u0578\u0570\u0561\u0576\u0576\u0565\u057d\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0578\u0570\u0561\u0576\u0576\u0567\u057d\u057a\u0578\u0582\u0580\u056f"
     ],
     "name:ita_x_preferred":[
         "municipalit\u00e0 metropolitana di Johannesburg"
@@ -138,7 +148,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702155,
+    "wof:lastmodified":1690927946,
     "wof:name":"Johannesburg",
     "wof:parent_id":85688923,
     "wof:placetype":"county",

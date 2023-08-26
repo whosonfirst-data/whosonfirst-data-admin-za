@@ -110,8 +110,14 @@
     "name:fra_x_preferred":[
         "Cap du Nord"
     ],
+    "name:fra_x_variant":[
+        "Cap-Nord"
+    ],
     "name:frr_x_preferred":[
         "Nuurdkap"
+    ],
+    "name:gle_x_preferred":[
+        "Rinn Thuaidh"
     ],
     "name:glg_x_preferred":[
         "Cabo Setentrional"
@@ -139,6 +145,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0554\u0565\u0575\u0583"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u053f\u0561\u057a"
     ],
     "name:ind_x_preferred":[
         "Northern Cape"
@@ -175,6 +184,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Kapas"
+    ],
+    "name:lit_x_variant":[
+        "\u0160iaur\u0117s Ky\u0161ulys"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0926\u0930\u094d\u0928 \u0915\u0947\u092a"
@@ -214,6 +226,9 @@
     ],
     "name:oci_x_preferred":[
         "Cap Septentrional"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u00e6\u0433\u0430\u0442 \u041a\u0435\u0439\u043f"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u06a9\u06cc\u067e"
@@ -304,6 +319,9 @@
     ],
     "name:vol_x_preferred":[
         "Nol\u00fcdakepi\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Amihanan Cape"
     ],
     "name:wuu_x_preferred":[
         "\u5317\u5f00\u666e\u7701"
@@ -469,7 +487,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617131258,
+    "wof:lastmodified":1690927916,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0646\u0648"
     ],
+    "name:ast_x_preferred":[
+        "oveya merina"
+    ],
     "name:aze_x_preferred":[
         "Merinos qoyunu"
     ],
@@ -46,17 +49,29 @@
     "name:epo_x_preferred":[
         "Merino"
     ],
+    "name:eus_x_preferred":[
+        "ardi merino"
+    ],
     "name:fin_x_preferred":[
         "Merinolammas"
     ],
     "name:fra_x_preferred":[
         "M\u00e9rinos"
     ],
+    "name:fra_x_variant":[
+        "m\u00e9rinos"
+    ],
     "name:gle_x_preferred":[
         "Meir\u00edon\u00f3"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05e0\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Merin\u00f3 juh"
+    ],
+    "name:hun_x_variant":[
+        "merin\u00f3 juh"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0580\u056b\u0576\u0578\u057d\u0576\u0565\u0580"
@@ -64,11 +79,17 @@
     "name:hye_x_variant":[
         "\u0544\u0565\u0580\u056b\u0576\u0578\u057d"
     ],
+    "name:ind_x_preferred":[
+        "Merino"
+    ],
     "name:isl_x_preferred":[
         "Merin\u00f3f\u00e9"
     ],
     "name:ita_x_preferred":[
         "Merino"
+    ],
+    "name:ita_x_variant":[
+        "merino"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ea\u30ce\u7a2e"
@@ -97,6 +118,9 @@
     "name:nor_x_preferred":[
         "Merinosau"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u0431\u044b\u0440\u0434\u0436\u0430\u043d"
+    ],
     "name:pol_x_preferred":[
         "Merynosy"
     ],
@@ -117,6 +141,9 @@
     ],
     "name:spa_x_preferred":[
         "Oveja merina"
+    ],
+    "name:spa_x_variant":[
+        "oveja merina"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0440\u0438\u043d\u043e"
@@ -200,7 +227,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701458,
+    "wof:lastmodified":1690928162,
     "wof:name":"Merino",
     "wof:parent_id":1125382591,
     "wof:placetype":"locality",

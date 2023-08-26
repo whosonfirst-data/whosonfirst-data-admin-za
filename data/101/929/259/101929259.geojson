@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0625\u0644\u064a\u0632\u0627\u0628\u064a\u062b"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0627\u0644\u064a\u0632\u0627\u0628\u064a\u062b"
+    ],
+    "name:ast_x_preferred":[
+        "Port Elizabeth"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0648\u0631\u062a \u0627\u0644\u06cc\u0632\u0627\u0628\u062a"
     ],
@@ -38,14 +44,23 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u042d\u043b\u0456\u0437\u0430\u0431\u0435\u0442"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u043e\u0440\u0442-\u042d\u043b\u0456\u0437\u0430\u0431\u0435\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f \u098f\u09b2\u09bf\u099c\u09be\u09ac\u09c7\u09a5"
+    ],
+    "name:bre_x_preferred":[
+        "Port Elizabeth"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u0415\u043b\u0438\u0437\u0430\u0431\u0435\u0442"
     ],
     "name:cat_x_preferred":[
         "Port Elisabeth"
+    ],
+    "name:cat_x_variant":[
+        "Port Elizabeth"
     ],
     "name:ceb_x_preferred":[
         "Port Elizabeth"
@@ -62,8 +77,14 @@
     "name:deu_x_preferred":[
         "Port Elizabeth"
     ],
+    "name:deu_x_variant":[
+        "Gqeberha"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c1\u03c4 \u0395\u03bb\u03af\u03b6\u03b1\u03bc\u03c0\u03b5\u03b8"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03b5\u03bc\u03c0\u03ad\u03c7\u03b1"
     ],
     "name:eng_x_historical":[
         "Port Elizabeth"
@@ -93,6 +114,9 @@
     ],
     "name:fin_x_preferred":[
         "Port Elizabeth"
+    ],
+    "name:fin_x_variant":[
+        "Gqeberha"
     ],
     "name:fra_x_preferred":[
         "Port Elizabeth"
@@ -130,10 +154,19 @@
     "name:hun_x_preferred":[
         "Port Elizabeth"
     ],
+    "name:hun_x_variant":[
+        "Gqeberha"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0580\u057f \u0537\u056c\u056b\u0566\u0561\u0562\u0565\u0569"
     ],
+    "name:ina_x_preferred":[
+        "Port Elizabeth"
+    ],
     "name:ind_x_preferred":[
+        "Port Elizabeth"
+    ],
+    "name:isl_x_preferred":[
         "Port Elizabeth"
     ],
     "name:ita_x_preferred":[
@@ -153,6 +186,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\uc5d8\ub9ac\uc790\ubca0\uc2a4"
+    ],
+    "name:kor_x_variant":[
+        "\uac8c\ubca0\ud558"
     ],
     "name:lat_x_preferred":[
         "Portus Elisabethae"
@@ -214,6 +250,9 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0435\u0431\u0435\u0445\u0430"
+    ],
     "name:sco_x_preferred":[
         "Port Elizabeth"
     ],
@@ -265,6 +304,12 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679 \u0627\u0644\u0632\u0628\u062a\u06be"
     ],
+    "name:uzb_x_preferred":[
+        "Port-elizabet"
+    ],
+    "name:vec_x_preferred":[
+        "Port Elizabeth"
+    ],
     "name:ven_x_preferred":[
         "Port Elizabeth"
     ],
@@ -279,6 +324,9 @@
     ],
     "name:war_x_preferred":[
         "Port Elizabeth"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u4e3d\u838e\u767d\u6e2f"
     ],
     "name:xho_x_preferred":[
         "IBhayi"
@@ -459,7 +507,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705732,
+    "wof:lastmodified":1690928095,
     "wof:megacity":1,
     "wof:name":"Gqeberha",
     "wof:parent_id":1125410851,

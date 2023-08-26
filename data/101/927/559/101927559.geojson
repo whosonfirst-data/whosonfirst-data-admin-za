@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "vuursteen"
+    ],
+    "name:anp_x_preferred":[
+        "\u091a\u0915\u092e\u0915"
+    ],
     "name:ara_x_preferred":[
         "\u0635\u0648\u0627\u0646"
     ],
@@ -30,6 +36,12 @@
     ],
     "name:azb_x_preferred":[
         "\u0686\u0627\u062e\u0645\u0627\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7axmaqda\u015f\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u04a1\u043c\u0430\u0442\u0430\u0448"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u044d\u043c\u0435\u043d\u044c"
@@ -49,6 +61,9 @@
     "name:chr_x_preferred":[
         "\u13d3\u13eb\u13cd\u13a6\u13b3"
     ],
+    "name:chv_x_preferred":[
+        "\u0412\u0443\u0442\u0447\u0443\u043b\u044c"
+    ],
     "name:ckb_x_preferred":[
         "\u0628\u06d5\u0631\u062f\u06d5\u0633\u062a\u06ce"
     ],
@@ -60,6 +75,9 @@
     ],
     "name:cym_x_preferred":[
         "Callestr"
+    ],
+    "name:dag_x_preferred":[
+        "Ch\u025bribo"
     ],
     "name:dan_x_preferred":[
         "flint"
@@ -76,8 +94,14 @@
     "name:epo_x_preferred":[
         "Siliko"
     ],
+    "name:epo_x_variant":[
+        "siliko"
+    ],
     "name:est_x_preferred":[
         "R\u00e4nikivi"
+    ],
+    "name:est_x_variant":[
+        "r\u00e4nikivi"
     ],
     "name:eus_x_preferred":[
         "Sukarri"
@@ -87,6 +111,9 @@
     ],
     "name:fin_x_preferred":[
         "Piikivi"
+    ],
+    "name:fin_x_variant":[
+        "piikivi"
     ],
     "name:fra_x_preferred":[
         "silex"
@@ -103,6 +130,12 @@
     "name:glg_x_preferred":[
         "S\u00edlex"
     ],
+    "name:glg_x_variant":[
+        "s\u00edlex"
+    ],
+    "name:glv_x_preferred":[
+        "clagh aile"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05e8"
     ],
@@ -111,6 +144,9 @@
     ],
     "name:hun_x_preferred":[
         "Kovak\u0151"
+    ],
+    "name:hun_x_variant":[
+        "kovak\u0151"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0575\u056e\u0584\u0561\u0580\u0561\u0575\u056b\u0576 \u0561\u057a\u0561\u0580\u0576\u0565\u0580"
@@ -129,6 +165,15 @@
     ],
     "name:jpn_x_preferred":[
         "\u71e7\u77f3"
+    ],
+    "name:kab_x_preferred":[
+        "Tanicca"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0c95\u0cae\u0c95\u0cbf \u0c95\u0cb2\u0ccd\u0cb2\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10df\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0430\u049b\u043f\u0430\u049b\u0442\u0430\u0441"
@@ -163,11 +208,20 @@
     "name:mwl_x_preferred":[
         "S\u00edlex"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u102e\u1038\u1001\u1010\u103a\u1000\u103b\u1031\u102c\u1000\u103a"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0443\u0440\u044c\u0433\u0438\u043d\u0435 \u043a\u0435\u0432"
+    ],
     "name:nah_x_preferred":[
         "Tecpatl"
     ],
     "name:nan_x_preferred":[
         "Ho\u00e9-chio\u030dh"
+    ],
+    "name:nds_x_preferred":[
+        "F\u00fc\u00fcrsteen"
     ],
     "name:nep_x_preferred":[
         "\u0905\u0917\u094d\u0928\u093f\u0938\u094d\u0925\u093e\u092a\u0928\u093e"
@@ -190,17 +244,35 @@
     "name:oss_x_preferred":[
         "\u00c6\u0445\u0441\u043e\u043d"
     ],
+    "name:pcd_x_preferred":[
+        "Caillo cornu"
+    ],
     "name:pol_x_preferred":[
         "Krzemie\u0144"
+    ],
+    "name:pol_x_variant":[
+        "krzemie\u0144"
     ],
     "name:por_x_preferred":[
         "s\u00edlex"
     ],
+    "name:que_x_preferred":[
+        "Q'awchi rumi"
+    ],
     "name:ron_x_preferred":[
         "Silex"
     ],
+    "name:ron_x_variant":[
+        "silex"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u043a\u0440\u0435\u043c\u0435\u043d\u044c"
+    ],
+    "name:sah_x_preferred":[
+        "\u0427\u043e\u043a\u0443\u0443\u0440"
     ],
     "name:san_x_preferred":[
         "\u0905\u0917\u094d\u0928\u093f\u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0930\u0903"
@@ -216,6 +288,18 @@
     ],
     "name:slv_x_preferred":[
         "Kremen"
+    ],
+    "name:slv_x_variant":[
+        "kremen"
+    ],
+    "name:sme_x_preferred":[
+        "didnu"
+    ],
+    "name:smn_x_preferred":[
+        "tinno"
+    ],
+    "name:sms_x_preferred":[
+        "tenn"
     ],
     "name:spa_x_preferred":[
         "s\u00edlex"
@@ -244,11 +328,20 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0456\u043d\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u043a\u0440\u0435\u043c\u0456\u043d\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Kremen"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00e1 l\u1eeda"
     ],
     "name:vro_x_preferred":[
         "R\u00e4nikivi"
+    ],
+    "name:vro_x_variant":[
+        "r\u00e4nikivi"
     ],
     "name:yue_x_preferred":[
         "\u706b\u77f3"
@@ -313,7 +406,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704319,
+    "wof:lastmodified":1690928115,
     "wof:name":"Flint",
     "wof:parent_id":1125356825,
     "wof:placetype":"locality",

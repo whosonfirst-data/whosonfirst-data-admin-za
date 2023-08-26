@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "T\u0259\u015fbeh"
     ],
+    "name:ban_x_preferred":[
+        "Sasenggakan"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430\u045e\u043d\u0430\u043d\u043d\u0435"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ces_x_preferred":[
         "P\u0159irovn\u00e1n\u00ed"
+    ],
+    "name:ces_x_variant":[
+        "p\u0159irovn\u00e1n\u00ed"
     ],
     "name:cym_x_preferred":[
         "Cymhariaeth"
@@ -121,8 +127,14 @@
     "name:kor_x_preferred":[
         "\uc9c1\uc720"
     ],
+    "name:krj_x_preferred":[
+        "paanggidan"
+    ],
     "name:lat_x_preferred":[
         "Similitudo"
+    ],
+    "name:lav_x_preferred":[
+        "sal\u012bdzin\u0101jums"
     ],
     "name:lit_x_preferred":[
         "Palyginimas"
@@ -147,6 +159,9 @@
     ],
     "name:nor_x_preferred":[
         "Simile"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0634\u0628\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
         "Por\u00f3wnanie"
@@ -178,6 +193,12 @@
     "name:slk_x_preferred":[
         "Prirovnanie"
     ],
+    "name:slv_x_preferred":[
+        "primerjava"
+    ],
+    "name:snd_x_preferred":[
+        "\u062a\u0634\u0628\u064a\u06be"
+    ],
     "name:spa_x_preferred":[
         "S\u00edmil"
     ],
@@ -199,14 +220,23 @@
     "name:tat_x_preferred":[
         "\u0427\u0430\u0433\u044b\u0448\u0442\u044b\u0440\u0443"
     ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c2a\u0c2e\u0c3e\u0c32\u0c02\u0c15\u0c3e\u0c30\u0c02"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e38\u0e1b\u0e21\u0e32"
     ],
     "name:tsn_x_preferred":[
         "Dipapiso"
     ],
+    "name:tur_x_preferred":[
+        "Benzetme"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0456\u0432\u043d\u044f\u043d\u043d\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u043f\u043e\u0440\u0456\u0432\u043d\u044f\u043d\u043d\u044f"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0634\u0628\u06cc\u06c1"
@@ -283,7 +313,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705702,
+    "wof:lastmodified":1690928174,
     "wof:name":"Simile",
     "wof:parent_id":1125410847,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Sekhukhune"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u056f\u0570\u0578\u0582\u056f\u0570\u0578\u0582\u0576\u0565"
+    ],
     "name:ind_x_preferred":[
         "Distrik Sekhukhune"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u745f\u514b\u80e1\u514b\u80e1\u5c3c\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u585e\u5e93\u5e93\u5185\u533a\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -135,7 +141,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1617129979,
+    "wof:lastmodified":1690927957,
     "wof:name":"Sekhukhune",
     "wof:parent_id":85688935,
     "wof:placetype":"county",

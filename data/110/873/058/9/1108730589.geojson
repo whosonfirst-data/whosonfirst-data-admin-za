@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Ehlanzeni"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u0570\u056c\u0561\u0576\u0566\u0565\u0576\u056b"
+    ],
     "name:ind_x_preferred":[
         "Distrik Ehlanzeni"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u8d6b\u6fa4\u5c3c\u5340\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u5170\u6cfd\u5c3c\u533a\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -141,7 +147,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1610412104,
+    "wof:lastmodified":1690927956,
     "wof:name":"Ehlanzeni",
     "wof:parent_id":85688895,
     "wof:placetype":"county",
