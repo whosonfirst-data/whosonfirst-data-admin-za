@@ -12,8 +12,8 @@
     "gn:latitude":-34.04765,
     "gn:longitude":18.46808,
     "iso:country":"ZA",
-    "lbl:latitude":-34.05124,
-    "lbl:longitude":18.467159,
+    "lbl:latitude":-34.044027,
+    "lbl:longitude":18.470096,
     "lbl:max_zoom":18.0,
     "mps:latitude":-34.044027,
     "mps:longitude":18.470096,
@@ -74,15 +74,15 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
-        85688905,
         102191573,
         1763143691,
         85633813,
         101928027,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +123,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646706110,
+    "wof:lastmodified":1694320601,
     "wof:name":"Heathfield",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
