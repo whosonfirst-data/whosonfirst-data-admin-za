@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.494678,
-    "geom:area_square_m":129536175974.101624,
+    "geom:area_square_m":129536175974.105469,
     "geom:bbox":"17.75735,-34.83417,24.22241,-30.43026",
     "geom:latitude":-33.014548,
     "geom:longitude":20.616038,
@@ -456,15 +456,17 @@
         "gn:id":1085599,
         "gp:id":2346987,
         "hasc:id":"ZA.WC",
+        "iso:code":"ZA-WC",
         "iso:id":"ZA-WC",
         "unlc:id":"ZA-WC",
         "wd:id":"Q127167"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02e79e38f96578059cd795f5410b524c",
+    "wof:geomhash":"7dc7db9faeb31478de3eae994a4f809a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -489,7 +491,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927904,
+    "wof:lastmodified":1695884600,
     "wof:name":"Western Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

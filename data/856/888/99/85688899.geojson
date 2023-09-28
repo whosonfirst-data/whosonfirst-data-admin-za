@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":34.691554,
-    "geom:area_square_m":373377770583.423889,
+    "geom:area_square_m":373377770583.407776,
     "geom:bbox":"16.45189,-32.944995,25.54933,-24.76586",
     "geom:latitude":-29.453405,
     "geom:longitude":21.402809,
@@ -454,15 +454,17 @@
         "gn:id":1085596,
         "gp:id":2346985,
         "hasc:id":"ZA.NC",
+        "iso:code":"ZA-NC",
         "iso:id":"ZA-NC",
         "unlc:id":"ZA-NC",
         "wd:id":"Q132418"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90e58b5c2e696a4b3019fb30789d298f",
+    "wof:geomhash":"81fcb11d531dcb3324ba6b8fe70f0c80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -487,7 +489,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927916,
+    "wof:lastmodified":1695884641,
     "wof:name":"Northern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

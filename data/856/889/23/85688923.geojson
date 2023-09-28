@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.640382,
-    "geom:area_square_m":18213880184.357513,
+    "geom:area_square_m":18213880184.357483,
     "geom:bbox":"27.15634,-26.92383,29.09842,-25.109612",
     "geom:latitude":-26.106147,
     "geom:longitude":28.125779,
@@ -460,15 +460,17 @@
         "gn:id":1085594,
         "gp:id":2346981,
         "hasc:id":"ZA.GT",
+        "iso:code":"ZA-GT",
         "iso:id":"ZA-GT",
         "unlc:id":"ZA-GT",
         "wd:id":"Q133083"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e873e72cff97cab31cbf4fc0b5a8adb3",
+    "wof:geomhash":"63e3f717c71cada6d2b4357a0a468963",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -493,7 +495,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927914,
+    "wof:lastmodified":1695884902,
     "wof:name":"Gauteng",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
