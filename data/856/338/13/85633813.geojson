@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":113.103209,
-    "geom:area_square_m":1221549844512.443848,
+    "geom:area_square_m":1221549844512.449463,
     "geom:bbox":"16.47055,-46.965814,37.978281,-22.126452",
     "geom:latitude":-29.001052,
     "geom:longitude":25.087733,
@@ -13,6 +13,9 @@
     "iso:country":"ZA",
     "itu:country_code":[
         "27"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "ZA"
@@ -1390,7 +1393,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"27",
     "statoids:ds":"ZA",
     "statoids:fifa":"RSA",
@@ -1431,6 +1435,7 @@
         "hasc:id":"ZA",
         "icao:code":"ZS",
         "ioc:id":"RSA",
+        "iso:code":"ZA",
         "itu:id":"AFS",
         "loc:id":"n79023005",
         "m49:code":"710",
@@ -1445,6 +1450,7 @@
         "wk:page":"South Africa",
         "wmo:id":"ZA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:country_alpha3":"ZAF",
     "wof:geom_alt":[
@@ -1453,7 +1459,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"25e0d1cf45d167b88e1ac9f2bdf7f834",
+    "wof:geomhash":"725c36e80bee086990e05216aa5526c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1477,12 +1483,12 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927901,
+    "wof:lastmodified":1695881198,
     "wof:name":"South Africa",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":54002000,
-    "wof:population_rank":16,
+    "wof:population":58558270,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:shortcode":"ZA",
     "wof:superseded_by":[],

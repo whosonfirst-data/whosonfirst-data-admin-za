@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.71538,
-    "geom:area_square_m":94498786981.974533,
+    "geom:area_square_m":94498786981.976013,
     "geom:bbox":"28.87348,-31.08263,32.944985,-26.80442",
     "geom:latitude":-28.716585,
     "geom:longitude":30.748559,
@@ -460,15 +460,17 @@
         "gn:id":972062,
         "gp:id":2346982,
         "hasc:id":"ZA.FS",
+        "iso:code":"ZA-FS",
         "iso:id":"ZA-FS",
         "unlc:id":"ZA-NL",
         "wd:id":"Q81725"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dbf30eb8a280548f04692921cce0d643",
+    "wof:geomhash":"2c3026fd0dafa90b9535ee13314e5492",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -493,7 +495,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927910,
+    "wof:lastmodified":1695884613,
     "wof:name":"Kwazulu-Natal",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

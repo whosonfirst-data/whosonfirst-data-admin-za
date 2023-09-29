@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.154668,
-    "geom:area_square_m":169093435637.630737,
+    "geom:area_square_m":169093435637.635193,
     "geom:bbox":"22.73574,-34.21386,30.19472,-30.0018",
     "geom:latitude":-32.154027,
     "geom:longitude":26.446361,
@@ -447,15 +447,17 @@
         "gn:id":1085593,
         "gp:id":2346979,
         "hasc:id":"ZA.EC",
+        "iso:code":"ZA-EC",
         "iso:id":"ZA-EC",
         "unlc:id":"ZA-EC",
         "wd:id":"Q130840"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01fb05090a7dedb221db7cac2b65b302",
+    "wof:geomhash":"5b73d4373535119a13a198c086d71d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -480,7 +482,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927908,
+    "wof:lastmodified":1695884579,
     "wof:name":"Eastern Cape",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

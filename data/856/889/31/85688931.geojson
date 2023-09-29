@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.477824,
-    "geom:area_square_m":105083741032.655075,
+    "geom:area_square_m":105083741032.654114,
     "geom:bbox":"22.62903,-28.113209,28.29835,-24.63663",
     "geom:latitude":-26.268135,
     "geom:longitude":25.519648,
@@ -422,15 +422,17 @@
         "gn:id":1085598,
         "gp:id":2346984,
         "hasc:id":"ZA.NW",
+        "iso:code":"ZA-NW",
         "iso:id":"ZA-NW",
         "unlc:id":"ZA-NW",
         "wd:id":"Q165956"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec487c872112e396ce4d784d20b72926",
+    "wof:geomhash":"d726e198d459946cfe4800dc342b4cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -455,7 +457,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927913,
+    "wof:lastmodified":1695884900,
     "wof:name":"North West",
     "wof:parent_id":85633813,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.141412,
-    "geom:area_square_m":126052857771.614029,
+    "geom:area_square_m":126052857771.61554,
     "geom:bbox":"26.40754,-25.42279,31.883835,-22.12503",
     "geom:latitude":-23.785335,
     "geom:longitude":29.289763,
@@ -467,14 +467,16 @@
         "gn:id":1085597,
         "gp:id":2346986,
         "hasc:id":"ZA.NP",
+        "iso:code":"ZA-LP",
         "iso:id":"ZA-LP",
         "wd:id":"Q134907"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5cf6130cc1ae14b8912c14795c0a8c5d",
+    "wof:geomhash":"0bdd778080e644e9643d86a616e3129f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -499,7 +501,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927902,
+    "wof:lastmodified":1695884899,
     "wof:name":"Limpopo",
     "wof:parent_id":85633813,
     "wof:placetype":"region",
