@@ -9,8 +9,24 @@
     "geom:bbox":"28.934444,-25.34976,28.972027,-25.280512",
     "geom:latitude":-25.306526,
     "geom:longitude":28.951561,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP315",
+    "gn:asciiname":"Kwaggafontein",
+    "gn:country_code":"ZA",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985885,
     "gn:id":"985886,985885",
+    "gn:latitude":-25.32729,
+    "gn:longitude":28.94224,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kwaggafontein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.92224,-25.34729,28.96224,-25.30729",
     "lbl:latitude":-25.296158,
     "lbl:longitude":28.945587,
     "lbl:max_zoom":18.0,
@@ -71,6 +87,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":985885,
         "gp:id":1590090,
         "wd:id":"Q15240957"
     },
@@ -103,13 +120,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928068,
+    "wof:lastmodified":1706241142,
     "wof:name":"Kwaggafontein",
     "wof:parent_id":1125358727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293197527
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -24,6 +24,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:bar_x_preferred":[
         "North End"
@@ -67,12 +68,31 @@
     "qs:woe_lau":56189577,
     "qs:woe_local":1586646,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"North End",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":961099,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880576,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":230,
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191573,
         1125271393,
@@ -84,6 +104,14 @@
     "wof:concordances":{
         "gp:id":55880576,
         "qs_pg:id":961099
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55880576
+        ],
+        "qs_pg:id":[
+            961099
+        ]
     },
     "wof:country":"ZA",
     "wof:geom_alt":[
@@ -118,13 +146,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703242,
+    "wof:lastmodified":1706241140,
     "wof:name":"North End",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064621
+    ],
     "wof:tags":[]
 },
   "bbox": [

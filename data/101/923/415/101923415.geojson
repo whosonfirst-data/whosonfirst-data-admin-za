@@ -9,8 +9,24 @@
     "geom:bbox":"29.746096,-23.762716,29.80467,-23.714329",
     "geom:latitude":-23.741558,
     "geom:longitude":29.778541,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Dikgale",
+    "gn:country_code":"ZA",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009905,
     "gn:id":"1009905,1009906",
+    "gn:latitude":-23.74787,
+    "gn:longitude":29.78331,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dikgale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.76331,-23.76787,29.80331,-23.72787",
     "lbl:latitude":-23.746678,
     "lbl:longitude":29.781426,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1009905,
         "gp:id":1589484
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701560,
+    "wof:lastmodified":1706241140,
     "wof:name":"Dikgale",
     "wof:parent_id":1125394939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243444121
+    ],
     "wof:tags":[]
 },
   "bbox": [

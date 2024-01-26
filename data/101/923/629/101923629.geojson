@@ -9,8 +9,24 @@
     "geom:bbox":"29.257523,-24.385757,29.344044,-24.329327",
     "geom:latitude":-24.351051,
     "geom:longitude":29.307191,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM355",
+    "gn:asciiname":"Mogoto",
+    "gn:country_code":"ZA",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974937,
     "gn:id":"974937,974938",
+    "gn:latitude":-24.34499,
+    "gn:longitude":29.29898,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mogoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.27898,-24.36499,29.31898,-24.32499",
     "lbl:latitude":-24.342303,
     "lbl:longitude":29.307846,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":974937,
         "gp:id":1591680
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703262,
+    "wof:lastmodified":1706241141,
     "wof:name":"Mogoto",
     "wof:parent_id":1125271405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209805255
+    ],
     "wof:tags":[]
 },
   "bbox": [

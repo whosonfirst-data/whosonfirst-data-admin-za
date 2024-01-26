@@ -9,12 +9,27 @@
     "geom:bbox":"18.406723,-33.926178,18.424942,-33.913734",
     "geom:latitude":-33.920353,
     "geom:longitude":18.415921,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"Bo-Kaap",
+    "gn:country_code":"ZA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030057,
     "gn:latitude":-33.92344,
     "gn:longitude":18.41358,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Bo-Kaap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"18.39508,-33.94106,18.43508,-33.90106",
     "lbl:latitude":-33.92095,
     "lbl:longitude":18.414777,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.920239,
     "mps:longitude":18.416831,
     "mz:hierarchy_label":1,
@@ -131,7 +146,13 @@
         "gn:id":3364360,
         "gp:id":1584382,
         "qs_pg:id":189338,
-        "wd:id":"Q2418250"
+        "wd:id":"Q2418250",
+        "wk:page":"Bo-Kaap"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8030057
+        ]
     },
     "wof:country":"ZA",
     "wof:geomhash":"c439da819875d25dbe0f836aea2d91f6",
@@ -163,13 +184,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927876,
+    "wof:lastmodified":1706241139,
     "wof:name":"Bo-Kaap",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1763193595
+    ],
     "wof:tags":[]
 },
   "bbox": [

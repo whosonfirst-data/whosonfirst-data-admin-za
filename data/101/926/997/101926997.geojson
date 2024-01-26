@@ -9,8 +9,24 @@
     "geom:bbox":"26.842073,-29.017168,26.857323,-29.007849",
     "geom:latitude":-29.012729,
     "geom:longitude":26.849699,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"MAN",
+    "gn:admin3_code":"MAN",
+    "gn:asciiname":"Morago",
+    "gn:country_code":"ZA",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974044,
     "gn:id":"974045,974044",
+    "gn:latitude":-29.01368,
+    "gn:longitude":26.84978,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Morago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"26.82978,-29.03368,26.86978,-28.99368",
     "lbl:latitude":-29.01265,
     "lbl:longitude":26.849699,
     "lbl:max_zoom":18.0,
@@ -28,6 +44,10 @@
     ],
     "name:swe_x_preferred":[
         "Morago"
+    ],
+    "name:und_x_variant":[
+        "Morakgo",
+        "Morago (2)"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -56,6 +76,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":974044,
         "gp:id":1588012
     },
     "wof:country":"ZA",
@@ -87,13 +108,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701522,
+    "wof:lastmodified":1706241143,
     "wof:name":"Morago",
     "wof:parent_id":1125382591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310107823
+    ],
     "wof:tags":[]
 },
   "bbox": [

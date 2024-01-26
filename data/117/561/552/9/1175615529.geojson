@@ -9,8 +9,24 @@
     "geom:bbox":"28.777351,-25.029297,28.821926,-24.996708",
     "geom:latitude":-25.014041,
     "geom:longitude":28.799384,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP316",
+    "gn:asciiname":"Marapjane",
+    "gn:country_code":"ZA",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":978958,
     "gn:id":"978958,978959",
+    "gn:latitude":-25.01747,
+    "gn:longitude":28.79767,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Marapjane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.77767,-25.03747,28.81767,-24.99747",
     "lbl:latitude":-24.998358,
     "lbl:longitude":28.789972,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":978958,
         "gp:id":56189541
     },
     "wof:country":"ZA",
@@ -75,7 +92,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704041,
+    "wof:lastmodified":1706241144,
     "wof:name":"Marapjane",
     "wof:parent_id":1125278511,
     "wof:placetype":"locality",
@@ -83,7 +100,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101924819,
-        101923859
+        101923859,
+        1276540649
     ],
     "wof:tags":[]
 },

@@ -10,6 +10,7 @@
     "geom:latitude":-28.551265,
     "geom:longitude":29.771367,
     "iso:country":"ZA",
+    "lbl:bbox":"29.7600321032,-28.5694860649,29.8000321032,-28.5294860649",
     "lbl:latitude":-28.558088,
     "lbl:longitude":29.770992,
     "lbl:max_zoom":18.0,
@@ -273,6 +274,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -285,6 +287,8 @@
     "qs:pop":0,
     "qs:source":"FGlobalMap",
     "qs:type":"Built-Up Area",
+    "reversegeo:latitude":-28.549486,
+    "reversegeo:longitude":29.780032,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -307,7 +311,12 @@
         "wd:id":"Q874262"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1118767
+        "qs_pg:id":[
+            1118767
+        ],
+        "wd:id":[
+            "Q874262"
+        ]
     },
     "wof:country":"ZA",
     "wof:geom_alt":[
@@ -342,13 +351,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928192,
+    "wof:lastmodified":1706241142,
     "wof:name":"Ladysmith",
     "wof:parent_id":1763143673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907165
+    ],
     "wof:tags":[]
 },
   "bbox": [

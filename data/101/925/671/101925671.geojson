@@ -9,9 +9,24 @@
     "geom:bbox":"28.169779,-26.057177,28.251406,-25.975767",
     "geom:latitude":-26.012466,
     "geom:longitude":28.208929,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"EKU",
+    "gn:admin3_code":"EKU",
+    "gn:asciiname":"Tembisa",
+    "gn:country_code":"ZA",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":949879,
     "gn:id":"949879,949880",
+    "gn:latitude":-26.00979,
+    "gn:longitude":28.22762,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Tembisa",
     "gn:population":511655,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.20762,-26.02979,28.24762,-25.98979",
     "lbl:latitude":-26.008881,
     "lbl:longitude":28.21233,
     "lbl:max_zoom":13.0,
@@ -129,7 +144,13 @@
     "wof:concordances":{
         "gn:id":949880,
         "qs_pg:id":1029472,
-        "wd:id":"Q1580709"
+        "wd:id":"Q1580709",
+        "wk:page":"Tembisa"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            949879
+        ]
     },
     "wof:country":"ZA",
     "wof:geom_alt":[
@@ -163,7 +184,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928074,
+    "wof:lastmodified":1706241142,
     "wof:name":"Tembisa",
     "wof:parent_id":1125360031,
     "wof:placetype":"locality",
@@ -171,7 +192,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242599869
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":980006
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            980005
+        ]
+    },
     "wof:country":"ZA",
     "wof:geomhash":"45684f7da68a78c1da20bd90be1d5671",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701182,
+    "wof:lastmodified":1706241144,
     "wof:name":"Makhuzeni",
     "wof:parent_id":1763143679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310114523
+    ],
     "wof:tags":[]
 },
   "bbox": [

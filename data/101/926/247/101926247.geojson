@@ -9,8 +9,24 @@
     "geom:bbox":"25.517759,-26.429382,25.537395,-26.408346",
     "geom:latitude":-26.422017,
     "geom:longitude":25.528882,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW382",
+    "gn:asciiname":"Kopela",
+    "gn:country_code":"ZA",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":987995,
     "gn:id":"987995,987996",
+    "gn:latitude":-26.42866,
+    "gn:longitude":25.52397,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kopela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.50397,-26.44866,25.54397,-26.40866",
     "lbl:latitude":-26.426493,
     "lbl:longitude":25.524643,
     "lbl:max_zoom":18.0,
@@ -51,6 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":987995,
         "gp:id":1585116
     },
     "wof:country":"ZA",
@@ -82,13 +99,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705887,
+    "wof:lastmodified":1706241142,
     "wof:name":"Kopela",
     "wof:parent_id":1125421545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209610295
+    ],
     "wof:tags":[]
 },
   "bbox": [

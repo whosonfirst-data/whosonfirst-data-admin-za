@@ -9,8 +9,24 @@
     "geom:bbox":"28.866911,-30.668894,28.900272,-30.659279",
     "geom:latitude":-30.663559,
     "geom:longitude":28.883603,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC44",
+    "gn:admin3_code":"EC441",
+    "gn:asciiname":"KwaKesa",
+    "gn:country_code":"ZA",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":985763,
     "gn:id":"985764,985763",
+    "gn:latitude":-30.66596,
+    "gn:longitude":28.89622,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"KwaKesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.87622,-30.68596,28.91622,-30.64596",
     "lbl:latitude":-30.663041,
     "lbl:longitude":28.888925,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":985763,
         "gp:id":1585423
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705380,
+    "wof:lastmodified":1706241143,
     "wof:name":"KwaKesa",
     "wof:parent_id":1125382593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226241845
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -24,6 +24,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Amandelboom"
@@ -49,11 +50,30 @@
     "qs:woe_lau":56189550,
     "qs:woe_local":1588909,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Amandelboom",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Northern Cape",
+    "qs_pg:photos":58,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":58,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1339835,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55880791,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Northern Cape",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191573,
         1125271905,
@@ -65,6 +85,14 @@
     "wof:concordances":{
         "gp:id":55880791,
         "qs_pg:id":1339835
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55880791
+        ],
+        "qs_pg:id":[
+            1339835
+        ]
     },
     "wof:country":"ZA",
     "wof:geom_alt":[
@@ -99,13 +127,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703904,
+    "wof:lastmodified":1706241140,
     "wof:name":"Amandelboom",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126080447
+    ],
     "wof:tags":[]
 },
   "bbox": [

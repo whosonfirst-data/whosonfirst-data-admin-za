@@ -9,7 +9,11 @@
     "geom:bbox":"26.148855,-29.207565,26.286932,-29.070475",
     "geom:latitude":-29.129944,
     "geom:longitude":26.217024,
+    "gn:country":"ZA",
+    "gn:fcode":"PPLA",
+    "gn:population":463064,
     "iso:country":"ZA",
+    "lbl:bbox":"26.2099128812,-29.1399938774,26.2499128812,-29.0999938774",
     "lbl:latitude":-29.115158,
     "lbl:longitude":26.204475,
     "lbl:max_zoom":18.0,
@@ -19,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:abk_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0438\u043d"
+    ],
     "name:afr_x_preferred":[
         "Bloemfontein"
     ],
@@ -26,6 +33,12 @@
         "\u1265\u1209\u121d\u134e\u1295\u1274\u12ed\u1295"
     ],
     "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u064a\u0646"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u0637\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u064a\u0646"
     ],
     "name:ast_x_preferred":[
@@ -37,10 +50,16 @@
     "name:aze_x_preferred":[
         "Blumfonteyn"
     ],
+    "name:ban_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u0430\u043d\u0442\u044d\u0439\u043d"
     ],
     "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b2\u09c1\u09ae\u09ab\u09a8\u09cd\u099f\u09c7\u0987\u09a8"
+    ],
+    "name:ben_x_variant":[
         "\u09ac\u09cd\u09b2\u09c1\u09ae\u09ab\u09a8\u09cd\u099f\u09c7\u0987\u09a8"
     ],
     "name:bos_x_preferred":[
@@ -99,10 +118,16 @@
     "name:eus_x_preferred":[
         "Bloemfontein"
     ],
+    "name:fao_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u0646"
     ],
     "name:fin_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:fit_x_preferred":[
         "Bloemfontein"
     ],
     "name:fra_x_preferred":[
@@ -126,7 +151,16 @@
     "name:glg_x_preferred":[
         "Bloemfontein"
     ],
+    "name:grn_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab2\u0acb\u0aae\u0aab\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0aa8"
+    ],
     "name:hak_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:hau_x_preferred":[
         "Bloemfontein"
     ],
     "name:heb_x_preferred":[
@@ -144,7 +178,13 @@
     "name:hye_x_preferred":[
         "\u0532\u056c\u0578\u0582\u0574\u0586\u0578\u0576\u0569\u0565\u0575\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u0532\u056c\u0578\u0582\u0574\u0586\u0578\u0576\u057f\u0565\u0575\u0576"
+    ],
     "name:ile_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:ina_x_preferred":[
         "Bloemfontein"
     ],
     "name:ind_x_preferred":[
@@ -164,6 +204,9 @@
     ],
     "name:kab_x_preferred":[
         "Bloemfontein"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb2\u0cbe\u0c8e\u0c82\u0cab\u0cbe\u0c82\u0c9f\u0cc6\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10da\u10e3\u10db\u10e4\u10dd\u10dc\u10e2\u10d4\u10d8\u10dc\u10d8"
@@ -198,13 +241,28 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0932\u0942\u092e\u092b\u093e\u0901\u091f\u0947\u0928"
     ],
+    "name:mhr_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0458\u043d"
     ],
     "name:mlg_x_preferred":[
         "Bloemfontein"
     ],
+    "name:mri_x_preferred":[
+        "P\u016brumiwh\u014dniniti"
+    ],
     "name:msa_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u062a\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:nan_x_preferred":[
         "Bloemfontein"
     ],
     "name:nap_x_preferred":[
@@ -214,6 +272,9 @@
         "Bloemfontein"
     ],
     "name:nno_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:nob_x_preferred":[
         "Bloemfontein"
     ],
     "name:nor_x_preferred":[
@@ -230,6 +291,9 @@
     ],
     "name:oci_x_preferred":[
         "Bloemfontein"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a32\u0a42\u0a2e\u0a2b\u0a4b\u0a02\u0a1f\u0a48\u0a28"
@@ -258,10 +322,37 @@
     "name:sco_x_preferred":[
         "Bloemfontein"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbd\u0ddc\u0db8\u0dca\u0dc6\u0ddc\u0db1\u0dca\u0da7\u0dd3\u0db1\u0dca"
+    ],
+    "name:sjd_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
+    ],
+    "name:sje_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sju_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:slk_x_preferred":[
         "Bloemfontein"
     ],
     "name:slv_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sma_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sme_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:smj_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:smn_x_preferred":[
+        "Bloemfontein"
+    ],
+    "name:sms_x_preferred":[
         "Bloemfontein"
     ],
     "name:sna_x_preferred":[
@@ -279,6 +370,9 @@
     "name:sqi_x_preferred":[
         "Bloemfontein"
     ],
+    "name:srd_x_preferred":[
+        "Bloemfontein"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0458\u043d"
     ],
@@ -290,6 +384,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb3\u0bc1\u0bae\u0bcd\u0baa\u0bca\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c32\u0c3e\u0c2e\u0c4d \u0c2b\u0c3e\u0c02\u0c1f\u0c47\u0c2f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043b\u0443\u043c\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
     ],
     "name:tgl_x_preferred":[
         "Bloemfontein"
@@ -308,6 +408,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u0648\u0645\u0641\u0648\u0646\u0679\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Bloemfontein"
     ],
     "name:ven_x_preferred":[
         "Bloemfontein"
@@ -333,6 +436,9 @@
     "name:yor_x_preferred":[
         "Bloemfontein"
     ],
+    "name:yue_x_preferred":[
+        "\u5e03\u9686\u65b9\u4e39"
+    ],
     "name:zea_x_preferred":[
         "Bloemfontein"
     ],
@@ -342,6 +448,93 @@
     "name:zul_x_preferred":[
         "IBloemfontein"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"South Africa",
+    "ne:ADM0_A3":"ZAF",
+    "ne:ADM1NAME":"Orange Free State",
+    "ne:ADMIN1_COD":3,
+    "ne:CAPALT":0,
+    "ne:CAPIN":"Judicial capita",
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":1018725,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Bloemfontein",
+    "ne:GN_POP":463064,
+    "ne:GTOPO30":1398.0,
+    "ne:ISO_A2":"ZA",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-29.119994,
+    "ne:LONGITUDE":26.229913,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bloemfontein",
+    "ne:MAX_AREAKM":105.0,
+    "ne:MAX_AREAMI":40.0,
+    "ne:MAX_BBXMAX":26.3,
+    "ne:MAX_BBXMIN":26.166667,
+    "ne:MAX_BBYMAX":-29.058333,
+    "ne:MAX_BBYMIN":-29.2,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":78.0,
+    "ne:MAX_PERMI":48.0,
+    "ne:MAX_POP10":456669,
+    "ne:MAX_POP20":456669,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":456669,
+    "ne:MEAN_BBXC":26.225714,
+    "ne:MEAN_BBYC":-29.128155,
+    "ne:MEGACITY":0,
+    "ne:MIN_AREAKM":105.0,
+    "ne:MIN_AREAMI":40.0,
+    "ne:MIN_BBXMAX":26.3,
+    "ne:MIN_BBXMIN":26.166667,
+    "ne:MIN_BBYMAX":-29.058333,
+    "ne:MIN_BBYMIN":-29.2,
+    "ne:MIN_PERKM":78.0,
+    "ne:MIN_PERMI":48.0,
+    "ne:NAME":"Bloemfontein",
+    "ne:NAMEASCII":"Bloemfontein",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":110,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":463064,
+    "ne:POP_MIN":456669,
+    "ne:POP_OTHER":456513,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"South Africa",
+    "ne:SOV_A3":"ZAF",
+    "ne:TIMEZONE":"Africa/Johannesburg",
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -354,9 +547,23 @@
     "qs:pop":0,
     "qs:source":"FGlobalMap",
     "qs:type":"Built-Up Area",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1018725,
+    "qs_pg:gn_pop":463064,
+    "qs_pg:name":"Bloemfontein",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":130284,
+    "qs_pg:qs_pg_placetype":"locality",
+    "reversegeo:latitude":-29.119994,
+    "reversegeo:longitude":26.229913,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85688915,
         102191573,
@@ -368,7 +575,11 @@
     "wof:capital_of":[
         85633813
     ],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":1018725,
+        "qs_pg:id":130284,
+        "wd:id":"Q37701"
+    },
     "wof:country":"ZA",
     "wof:geomhash":"28d4df8bbe070ed3080189a4c9a0caf1",
     "wof:hierarchy":[
@@ -398,13 +609,17 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701482,
+    "wof:lastmodified":1706241143,
     "wof:name":"Bloemfontein",
     "wof:parent_id":1125382591,
     "wof:placetype":"locality",
+    "wof:population":463064,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909357
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,24 @@
     "geom:bbox":"28.633488,-23.602016,28.648045,-23.591412",
     "geom:latitude":-23.596573,
     "geom:longitude":28.640154,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Segole",
+    "gn:country_code":"ZA",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":956649,
     "gn:id":"956649,956650",
+    "gn:latitude":-23.59765,
+    "gn:longitude":28.63984,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Segole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.61984,-23.61765,28.65984,-23.57765",
     "lbl:latitude":-23.597442,
     "lbl:longitude":28.63856,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":956649,
         "gp:id":1581378
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704012,
+    "wof:lastmodified":1706241140,
     "wof:name":"Segole",
     "wof:parent_id":1125278491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226029277
+    ],
     "wof:tags":[]
 },
   "bbox": [

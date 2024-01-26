@@ -9,8 +9,24 @@
     "geom:bbox":"28.199051,-28.622877,28.218142,-28.609564",
     "geom:latitude":-28.617142,
     "geom:longitude":28.208852,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"DC19",
+    "gn:admin3_code":"FS192",
+    "gn:asciiname":"Fouriesburg",
+    "gn:country_code":"ZA",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003843,
     "gn:id":"1003843,1003844",
+    "gn:latitude":-28.61961,
+    "gn:longitude":28.20966,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Fouriesburg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.18966,-28.63961,28.22966,-28.59961",
     "lbl:latitude":-28.617595,
     "lbl:longitude":28.208852,
     "lbl:max_zoom":18.0,
@@ -83,8 +99,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1003843,
         "gp:id":1589617,
-        "wd:id":"Q3643680"
+        "wd:id":"Q3643680",
+        "wk:page":"Fouriesburg"
     },
     "wof:country":"ZA",
     "wof:geomhash":"7e35dbf4437cba10a7de08183206c65c",
@@ -115,13 +133,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928239,
+    "wof:lastmodified":1706241143,
     "wof:name":"Fouriesburg",
     "wof:parent_id":1125271445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276130075
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,24 @@
     "geom:bbox":"28.60281,-23.834324,28.618668,-23.810347",
     "geom:latitude":-23.82253,
     "geom:longitude":28.610948,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Kgopung",
+    "gn:country_code":"ZA",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":991175,
     "gn:id":"991175,991176",
+    "gn:latitude":-23.83085,
+    "gn:longitude":28.60654,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kgopung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.58654,-23.85085,28.62654,-23.81085",
     "lbl:latitude":-23.829535,
     "lbl:longitude":28.608185,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":991175,
         "gp:id":1586629
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704017,
+    "wof:lastmodified":1706241141,
     "wof:name":"Kgopung",
     "wof:parent_id":1125278491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209399193
+    ],
     "wof:tags":[]
 },
   "bbox": [

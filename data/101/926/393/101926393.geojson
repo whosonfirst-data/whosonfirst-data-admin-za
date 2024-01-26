@@ -9,8 +9,24 @@
     "geom:bbox":"27.246019,-26.65453,27.261324,-26.638132",
     "geom:latitude":-26.644042,
     "geom:longitude":27.254793,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC40",
+    "gn:admin3_code":"NW402",
+    "gn:asciiname":"Klipdrif",
+    "gn:country_code":"ZA",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":989787,
     "gn:id":"989788,989787",
+    "gn:latitude":-26.64725,
+    "gn:longitude":27.24843,
+    "gn:modification_date":"2012-07-11",
+    "gn:name":"Klipdrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.22843,-26.66725,27.26843,-26.62725",
     "lbl:latitude":-26.642603,
     "lbl:longitude":27.256185,
     "lbl:max_zoom":18.0,
@@ -22,6 +38,10 @@
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klipdrif Dam"
+    ],
+    "name:und_x_variant":[
+        "Klipdrif Settlement",
+        "Klipdrif"
     ],
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
@@ -48,6 +68,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":989787,
         "gp:id":1586625,
         "wd:id":"Q6421105"
     },
@@ -80,13 +101,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701989,
+    "wof:lastmodified":1706241142,
     "wof:name":"Klipdrif",
     "wof:parent_id":1763143689,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344152587
+    ],
     "wof:tags":[]
 },
   "bbox": [

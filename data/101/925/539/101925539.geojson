@@ -9,8 +9,24 @@
     "geom:bbox":"25.234446,-25.824694,25.332872,-25.780323",
     "geom:latitude":-25.80093,
     "geom:longitude":25.284651,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC38",
+    "gn:admin3_code":"NW381",
+    "gn:asciiname":"Disaneng",
+    "gn:country_code":"ZA",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1009766,
     "gn:id":"1009768,1009766,1009767",
+    "gn:latitude":-25.81113,
+    "gn:longitude":25.28789,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Disaneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"25.26789,-25.83113,25.30789,-25.79113",
     "lbl:latitude":-25.80145,
     "lbl:longitude":25.289498,
     "lbl:max_zoom":18.0,
@@ -48,6 +64,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1009766,
         "gp:id":1584211,
         "wd:id":"Q5281237"
     },
@@ -80,13 +97,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646702344,
+    "wof:lastmodified":1706241142,
     "wof:name":"Disaneng",
     "wof:parent_id":1125271185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209208971
+    ],
     "wof:tags":[]
 },
   "bbox": [

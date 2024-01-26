@@ -9,8 +9,22 @@
     "geom:bbox":"31.2668,-24.717438,31.278332,-24.702772",
     "geom:latitude":-24.710264,
     "geom:longitude":31.272623,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Allandale",
+    "gn:country_code":"ZA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1023291,
     "gn:id":"1023291,1023292",
+    "gn:latitude":-24.71019,
+    "gn:longitude":31.27612,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Allandale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"31.25612,-24.73019,31.29612,-24.69019",
     "lbl:latitude":-24.710865,
     "lbl:longitude":31.272733,
     "lbl:max_zoom":18.0,
@@ -48,6 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1023291,
         "gp:id":1591153
     },
     "wof:country":"ZA",
@@ -79,13 +94,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705307,
+    "wof:lastmodified":1706241141,
     "wof:name":"Allandale",
     "wof:parent_id":1125382571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310001761
+    ],
     "wof:tags":[]
 },
   "bbox": [

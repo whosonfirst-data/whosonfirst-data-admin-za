@@ -9,8 +9,22 @@
     "geom:bbox":"23.500317,-26.904739,23.52002,-26.887438",
     "geom:latitude":-26.896312,
     "geom:longitude":23.509973,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Deorham",
+    "gn:country_code":"ZA",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1010914,
     "gn:id":"1010913,1010914,1010915,1010916",
+    "gn:latitude":-26.89516,
+    "gn:longitude":23.50763,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Deorham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"23.48763,-26.91516,23.52763,-26.87516",
     "lbl:latitude":-26.896348,
     "lbl:longitude":23.509973,
     "lbl:max_zoom":18.0,
@@ -44,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1010914,
         "gp:id":1581648
     },
     "wof:country":"ZA",
@@ -75,13 +90,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704503,
+    "wof:lastmodified":1706241141,
     "wof:name":"Deorham",
     "wof:parent_id":1125358577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243358643
+    ],
     "wof:tags":[]
 },
   "bbox": [

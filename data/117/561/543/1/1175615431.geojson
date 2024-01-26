@@ -9,8 +9,24 @@
     "geom:bbox":"26.861383,-25.008923,26.877789,-24.997881",
     "geom:latitude":-25.0031,
     "geom:longitude":26.869187,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC37",
+    "gn:admin3_code":"NW375",
+    "gn:asciiname":"Mogoditshane",
+    "gn:country_code":"ZA",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":974960,
     "gn:id":"974960,974961",
+    "gn:latitude":-24.9993,
+    "gn:longitude":26.88044,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mogoditshane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"26.86044,-25.0193,26.90044,-24.9793",
     "lbl:latitude":-25.003829,
     "lbl:longitude":26.868503,
     "lbl:max_zoom":18.0,
@@ -66,6 +82,9 @@
         "Mogoditshane"
     ],
     "name:nob_x_preferred":[
+        "Mogoditshane"
+    ],
+    "name:nor_x_preferred":[
         "Mogoditshane"
     ],
     "name:pol_x_preferred":[
@@ -135,6 +154,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":974960,
         "gp:id":1591195,
         "wd:id":"Q170717"
     },
@@ -167,7 +187,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927972,
+    "wof:lastmodified":1706241144,
     "wof:name":"Mogoditshane",
     "wof:parent_id":1125374239,
     "wof:placetype":"locality",
@@ -175,7 +195,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101923847,
-        101924807
+        101924807,
+        1292994433
     ],
     "wof:tags":[]
 },

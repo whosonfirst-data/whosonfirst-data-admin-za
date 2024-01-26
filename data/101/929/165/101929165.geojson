@@ -11,6 +11,7 @@
     "geom:longitude":27.889323,
     "gn:population":478676,
     "iso:country":"ZA",
+    "lbl:bbox":"27.8500194893,-32.9900431124,27.8900194893,-32.9500431124",
     "lbl:latitude":-32.995213,
     "lbl:longitude":27.888413,
     "lbl:max_zoom":13.0,
@@ -328,6 +329,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a0":"South Africa",
     "qs:a0_lc":"ZAF",
     "qs:a1":"*",
@@ -340,6 +342,8 @@
     "qs:pop":0,
     "qs:source":"FGlobalMap",
     "qs:type":"Built-Up Area",
+    "reversegeo:latitude":-32.970043,
+    "reversegeo:longitude":27.870019,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -364,6 +368,11 @@
         "qs_pg:id":130252,
         "wd:id":"Q209537",
         "wk:page":"East London, Eastern Cape"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q209537"
+        ]
     },
     "wof:country":"ZA",
     "wof:geom_alt":[
@@ -398,7 +407,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928102,
+    "wof:lastmodified":1706241144,
     "wof:name":"East London",
     "wof:parent_id":1125271267,
     "wof:placetype":"locality",
@@ -406,7 +415,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909197
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,23 @@
     "geom:bbox":"22.181473,-33.609024,22.249096,-33.568424",
     "geom:latitude":-33.589455,
     "geom:longitude":22.208834,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"DC4",
+    "gn:admin3_code":"WC045",
+    "gn:asciiname":"Bongolethu",
+    "gn:country_code":"ZA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467813,
+    "gn:latitude":-33.59923,
+    "gn:longitude":22.2432,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Bongolethu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"22.2232,-33.61923,22.2632,-33.57923",
     "lbl:latitude":-33.589734,
     "lbl:longitude":22.206528,
     "lbl:max_zoom":18.0,
@@ -46,6 +62,11 @@
         "gn:id":1017656,
         "gp:id":1588830
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11467813
+        ]
+    },
     "wof:country":"ZA",
     "wof:geomhash":"e643840b8782ec733464614a1e950bb6",
     "wof:hierarchy":[
@@ -75,13 +96,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701265,
+    "wof:lastmodified":1706241143,
     "wof:name":"Bongolethu",
     "wof:parent_id":1125394949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277054293
+    ],
     "wof:tags":[]
 },
   "bbox": [

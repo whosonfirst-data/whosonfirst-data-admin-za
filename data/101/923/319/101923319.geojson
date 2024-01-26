@@ -9,8 +9,24 @@
     "geom:bbox":"28.915243,-23.580421,28.929792,-23.571486",
     "geom:latitude":-23.575461,
     "geom:longitude":28.922532,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC36",
+    "gn:admin3_code":"LIM367",
+    "gn:asciiname":"Lekhureng",
+    "gn:country_code":"ZA",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":983369,
     "gn:id":"983369,983370",
+    "gn:latitude":-23.57648,
+    "gn:longitude":28.91957,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Lekhureng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"28.89957,-23.59648,28.93957,-23.55648",
     "lbl:latitude":-23.575526,
     "lbl:longitude":28.922532,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":983369,
         "gp:id":1586629
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704011,
+    "wof:lastmodified":1706241140,
     "wof:name":"Lekhureng",
     "wof:parent_id":1125278491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243359377
+    ],
     "wof:tags":[]
 },
   "bbox": [

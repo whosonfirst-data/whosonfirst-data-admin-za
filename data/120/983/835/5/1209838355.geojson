@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":970515
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            970516
+        ]
+    },
     "wof:country":"ZA",
     "wof:geomhash":"0ea3a1d8c52d96141e78c975a7e31c24",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703327,
+    "wof:lastmodified":1706241144,
     "wof:name":"Njingini",
     "wof:parent_id":1125271439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344256161
+    ],
     "wof:tags":[]
 },
   "bbox": [
