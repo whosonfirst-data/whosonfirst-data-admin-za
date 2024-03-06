@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"2017-05-19",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.85,-34.08333,18.85,-34.08333",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -94,12 +96,12 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85688905,
         102191573,
         1763143691,
         85633813,
         101928027,
-        1108730611
+        1108730611,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,14 +140,16 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646706643,
+    "wof:lastmodified":1706241127,
     "wof:name":"Somerset West",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:population":183493,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420781485
+    ],
     "wof:supersedes":[
         1126111925
     ],

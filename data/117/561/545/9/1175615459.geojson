@@ -9,8 +9,24 @@
     "geom:bbox":"23.480482,-26.292746,23.502172,-26.262794",
     "geom:latitude":-26.278246,
     "geom:longitude":23.49157,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC39",
+    "gn:admin3_code":"NW397",
+    "gn:asciiname":"Kagiso",
+    "gn:country_code":"ZA",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":993044,
     "gn:id":"993044,993045",
+    "gn:latitude":-26.29038,
+    "gn:longitude":23.48191,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Kagiso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"23.46191,-26.31038,23.50191,-26.27038",
     "lbl:latitude":-26.289577,
     "lbl:longitude":23.484628,
     "lbl:max_zoom":18.0,
@@ -54,6 +70,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":993044,
         "gp:id":1586600
     },
     "wof:country":"ZA",
@@ -85,7 +102,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704667,
+    "wof:lastmodified":1706241144,
     "wof:name":"Kagiso",
     "wof:parent_id":1125358719,
     "wof:placetype":"locality",
@@ -93,7 +110,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101924655,
-        101924657
+        101924657,
+        1243155871
     ],
     "wof:tags":[]
 },

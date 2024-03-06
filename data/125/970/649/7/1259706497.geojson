@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":996385
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            996384
+        ]
+    },
     "wof:country":"ZA",
     "wof:geomhash":"5387e6ad010cfac013e5b25ffc09f080",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704713,
+    "wof:lastmodified":1706241144,
     "wof:name":"Hlabatshane",
     "wof:parent_id":1125358723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276584233
+    ],
     "wof:tags":[]
 },
   "bbox": [

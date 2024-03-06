@@ -9,7 +9,23 @@
     "geom:bbox":"29.362669,-26.039381,29.372005,-26.023836",
     "geom:latitude":-26.03182,
     "geom:longitude":29.367184,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC31",
+    "gn:admin3_code":"MP313",
+    "gn:asciiname":"Douglas",
+    "gn:country_code":"ZA",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1008613,
+    "gn:latitude":-26.02817,
+    "gn:longitude":29.36818,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Douglas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.34818,-26.04817,29.38818,-26.00817",
     "lbl:latitude":-26.031709,
     "lbl:longitude":29.366335,
     "lbl:max_zoom":18.0,
@@ -169,6 +185,11 @@
         "gp:id":1588543,
         "qs_pg:id":130254
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1008613
+        ]
+    },
     "wof:country":"ZA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -201,13 +222,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703758,
+    "wof:lastmodified":1706241142,
     "wof:name":"Douglas",
     "wof:parent_id":1125363847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226771077
+    ],
     "wof:tags":[]
 },
   "bbox": [

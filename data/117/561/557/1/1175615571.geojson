@@ -9,8 +9,24 @@
     "geom:bbox":"31.907808,-25.938223,31.954414,-25.901878",
     "geom:latitude":-25.922802,
     "geom:longitude":31.923771,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP324",
+    "gn:asciiname":"Mbuzini",
+    "gn:country_code":"ZA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":977515,
     "gn:id":"977515,977516",
+    "gn:latitude":-25.93318,
+    "gn:longitude":31.95254,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mbuzini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"31.93254,-25.95318,31.97254,-25.91318",
     "lbl:latitude":-25.916201,
     "lbl:longitude":31.91265,
     "lbl:max_zoom":18.0,
@@ -101,8 +117,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":977515,
         "gp:id":1582968,
-        "wd:id":"Q6799832"
+        "wd:id":"Q6799832",
+        "wk:page":"Mbuzini"
     },
     "wof:country":"ZA",
     "wof:geomhash":"ea10d0e1c6b8038b65fd0542b0e32cb5",
@@ -133,7 +151,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690927968,
+    "wof:lastmodified":1706241144,
     "wof:name":"Mbuzini",
     "wof:parent_id":1125410849,
     "wof:placetype":"locality",
@@ -141,7 +159,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101927323,
-        101927325
+        101927325,
+        1209707529
     ],
     "wof:tags":[]
 },

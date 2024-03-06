@@ -9,8 +9,24 @@
     "geom:bbox":"31.887131,-25.76461,31.907749,-25.654083",
     "geom:latitude":-25.724367,
     "geom:longitude":31.894841,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"DC32",
+    "gn:admin3_code":"MP324",
+    "gn:asciiname":"Ngwenyeni",
+    "gn:country_code":"ZA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":970856,
     "gn:id":"970856,970857",
+    "gn:latitude":-25.73661,
+    "gn:longitude":31.89436,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ngwenyeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"31.87436,-25.75661,31.91436,-25.71661",
     "lbl:latitude":-25.663012,
     "lbl:longitude":31.905295,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":970856,
         "gp:id":1582968
     },
     "wof:country":"ZA",
@@ -75,7 +92,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705706,
+    "wof:lastmodified":1706241144,
     "wof:name":"Ngwenyeni",
     "wof:parent_id":1125410849,
     "wof:placetype":"locality",
@@ -83,7 +100,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101927287,
-        101927253
+        101927253,
+        1225839389
     ],
     "wof:tags":[]
 },

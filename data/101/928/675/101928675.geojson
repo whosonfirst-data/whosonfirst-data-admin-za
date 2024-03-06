@@ -9,8 +9,24 @@
     "geom:bbox":"27.078186,-31.608946,27.112202,-31.584604",
     "geom:latitude":-31.596368,
     "geom:longitude":27.095411,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"DC13",
+    "gn:admin3_code":"EC136",
+    "gn:asciiname":"Mkapusi",
+    "gn:country_code":"ZA",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975589,
     "gn:id":"975589,975590",
+    "gn:latitude":-31.59629,
+    "gn:longitude":27.09093,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Mkapusi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.07093,-31.61629,27.11093,-31.57629",
     "lbl:latitude":-31.594196,
     "lbl:longitude":27.095154,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":975589,
         "gp:id":1580102
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703968,
+    "wof:lastmodified":1706241143,
     "wof:name":"Mkapusi",
     "wof:parent_id":1125278475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292908421
+    ],
     "wof:tags":[]
 },
   "bbox": [

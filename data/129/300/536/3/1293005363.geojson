@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1009704
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1009703
+        ]
+    },
     "wof:country":"ZA",
     "wof:geomhash":"40a55ab77164288057ec47f901873f7d",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703301,
+    "wof:lastmodified":1706241145,
     "wof:name":"Dlepu",
     "wof:parent_id":1125271439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327133447
+    ],
     "wof:tags":[]
 },
   "bbox": [

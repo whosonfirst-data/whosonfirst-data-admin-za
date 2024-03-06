@@ -9,8 +9,24 @@
     "geom:bbox":"30.098572,-24.368786,30.122845,-24.356676",
     "geom:latitude":-24.362974,
     "geom:longitude":30.111323,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC47",
+    "gn:admin3_code":"LIM475",
+    "gn:asciiname":"Malokele",
+    "gn:country_code":"ZA",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":979748,
     "gn:id":"979747,979748,979749",
+    "gn:latitude":-24.36667,
+    "gn:longitude":30.11667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Malokele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"30.09667,-24.38667,30.13667,-24.34667",
     "lbl:latitude":-24.363943,
     "lbl:longitude":30.111139,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":979748,
         "gp:id":1586550
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701952,
+    "wof:lastmodified":1706241141,
     "wof:name":"Malokele",
     "wof:parent_id":1763143685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243156643
+    ],
     "wof:tags":[]
 },
   "bbox": [

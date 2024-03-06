@@ -9,8 +9,12 @@
     "geom:bbox":"27.876768,-25.627592,28.026758,-25.562683",
     "geom:latitude":-25.603207,
     "geom:longitude":27.955736,
+    "gn:country":"ZA",
+    "gn:fcode":"PPL",
     "gn:id":"1002851,1105754",
+    "gn:population":68767,
     "iso:country":"ZA",
+    "lbl:bbox":"27.97471,-25.63692,28.01471,-25.59692",
     "lbl:latitude":-25.610814,
     "lbl:longitude":27.956873,
     "lbl:max_zoom":18.0,
@@ -20,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Ga-Rankuwa"
     ],
@@ -77,10 +82,31 @@
     "qs:pop":0,
     "qs:source":"FGlobalMap",
     "qs:type":"Built-Up Area",
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1002851,
+    "qs_pg:gn_pop":68767,
+    "qs_pg:name":"Ga-Rankuwa",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Gauteng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":193849,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":1581578,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":1590,
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Gauteng",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85688931,
         102191573,
@@ -90,8 +116,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1002851,
         "gp:id":1584528,
+        "qs_pg:id":193849,
         "wd:id":"Q2468130"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1581578
+        ],
+        "wd:id":[
+            "Q2468130"
+        ]
     },
     "wof:country":"ZA",
     "wof:geomhash":"ef2d65fb0223078f8bacc1dc6fa6fffa",
@@ -122,13 +158,17 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928063,
+    "wof:lastmodified":1706241142,
     "wof:name":"Ga-Rankuwa",
     "wof:parent_id":1125271429,
     "wof:placetype":"locality",
+    "wof:population":68767,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125823983
+    ],
     "wof:tags":[]
 },
   "bbox": [

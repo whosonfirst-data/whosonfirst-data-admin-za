@@ -9,8 +9,22 @@
     "geom:bbox":"29.226988,-25.322254,29.270216,-25.292597",
     "geom:latitude":-25.309683,
     "geom:longitude":29.248364,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ntwane",
+    "gn:country_code":"ZA",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":968998,
     "gn:id":"968998,968999",
+    "gn:latitude":-25.31054,
+    "gn:longitude":29.24431,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ntwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.22431,-25.33054,29.26431,-25.29054",
     "lbl:latitude":-25.31225,
     "lbl:longitude":29.248364,
     "lbl:max_zoom":18.0,
@@ -44,6 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":968998,
         "gp:id":55881032
     },
     "wof:country":"ZA",
@@ -75,13 +90,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646703702,
+    "wof:lastmodified":1706241141,
     "wof:name":"Ntwane",
     "wof:parent_id":1125271735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343783321
+    ],
     "wof:tags":[]
 },
   "bbox": [

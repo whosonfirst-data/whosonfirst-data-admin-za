@@ -9,8 +9,24 @@
     "geom:bbox":"29.326914,-23.827232,29.390093,-23.780493",
     "geom:latitude":-23.804696,
     "geom:longitude":29.362062,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"DC35",
+    "gn:admin3_code":"LIM354",
+    "gn:asciiname":"Ga-Mabotsa",
+    "gn:country_code":"ZA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1003391,
     "gn:id":"1003392,1003393,1003391",
+    "gn:latitude":-23.80592,
+    "gn:longitude":29.35123,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Ga-Mabotsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"29.33123,-23.82592,29.37123,-23.78592",
     "lbl:latitude":-23.797895,
     "lbl:longitude":29.36254,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1003391,
         "gp:id":1586550
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646701530,
+    "wof:lastmodified":1706241140,
     "wof:name":"Ga-Mabotsa",
     "wof:parent_id":1125394939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310095195
+    ],
     "wof:tags":[]
 },
   "bbox": [

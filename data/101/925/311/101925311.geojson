@@ -9,8 +9,24 @@
     "geom:bbox":"27.517555,-25.560675,27.539995,-25.508554",
     "geom:latitude":-25.531815,
     "geom:longitude":27.527902,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"DC37",
+    "gn:admin3_code":"NW373",
+    "gn:asciiname":"Modikwe",
+    "gn:country_code":"ZA",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":975068,
     "gn:id":"975068,975069",
+    "gn:latitude":-25.5223,
+    "gn:longitude":27.53228,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Modikwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"ZA",
+    "lbl:bbox":"27.51228,-25.5423,27.55228,-25.5023",
     "lbl:latitude":-25.522478,
     "lbl:longitude":27.529602,
     "lbl:max_zoom":18.0,
@@ -44,6 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":975068,
         "gp:id":1591195
     },
     "wof:country":"ZA",
@@ -75,13 +92,15 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646705579,
+    "wof:lastmodified":1706241142,
     "wof:name":"Modikwe",
     "wof:parent_id":1125394937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343954093
+    ],
     "wof:tags":[]
 },
   "bbox": [

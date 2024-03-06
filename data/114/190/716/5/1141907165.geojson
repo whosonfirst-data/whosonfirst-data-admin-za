@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"29.780032,-28.549486,29.780032,-28.549486",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ladysmith"
@@ -314,12 +316,14 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1690928373,
+    "wof:lastmodified":1706241142,
     "wof:name":"Ladysmith",
     "wof:parent_id":1763143673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-za",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101926887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
