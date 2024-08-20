@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-08-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -30,16 +31,17 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688905,
         102191573,
-        1125330195,
         85633813,
-        1108730617
+        1108730617,
+        1125330195,
+        85688905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,7 @@
         "ven",
         "nbl"
     ],
-    "wof:lastmodified":1646704270,
+    "wof:lastmodified":1724102626,
     "wof:name":"Hardys Memories of Africa",
     "wof:parent_id":1125330195,
     "wof:placetype":"locality",
