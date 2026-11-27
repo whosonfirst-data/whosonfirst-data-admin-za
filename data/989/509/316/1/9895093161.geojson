@@ -1,0 +1,77 @@
+{
+  "id": 9895093161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10328,-33.89058,19.10328,-33.89058",
+    "geom:latitude":-33.89058,
+    "geom:longitude":19.10328,
+    "gn:population":17432,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718868: name \"Le Roux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718868"
+        },
+        {
+            "citation":"GeoNames populated place 12718868: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718868"
+        },
+        {
+            "citation":"GeoNames populated place 12718868: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718868"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125361573 (Stellenbosch), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688905,
+        102191573,
+        1108730615,
+        1125361573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718868
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"64209cf42a6be62d4a6a1e53f9dc6f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "localadmin_id":1125361573,
+            "locality_id":9895093161,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":9895093161,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Le Roux",
+    "wof:parent_id":1125361573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10328,
+    -33.89058,
+    19.10328,
+    -33.89058
+],
+  "geometry": {"coordinates":[19.10328,-33.89058],"type":"Point"}
+}

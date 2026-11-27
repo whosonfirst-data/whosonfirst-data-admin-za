@@ -1,0 +1,77 @@
+{
+  "id": 9895093155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31684,-24.58398,30.31684,-24.58398",
+    "geom:latitude":-24.58398,
+    "geom:longitude":30.31684,
+    "gn:population":26675,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718812: name \"Praktiseer\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718812"
+        },
+        {
+            "citation":"GeoNames populated place 12718812: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718812"
+        },
+        {
+            "citation":"GeoNames populated place 12718812: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718812"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1763143685 (Fetakgomo Tubatse), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688935,
+        102191573,
+        1108730581,
+        1763143685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718812
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fc1828b7b48815daee7f3887f1a9e632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730581,
+            "localadmin_id":1763143685,
+            "locality_id":9895093155,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":9895093155,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Praktiseer",
+    "wof:parent_id":1763143685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31684,
+    -24.58398,
+    30.31684,
+    -24.58398
+],
+  "geometry": {"coordinates":[30.31684,-24.58398],"type":"Point"}
+}

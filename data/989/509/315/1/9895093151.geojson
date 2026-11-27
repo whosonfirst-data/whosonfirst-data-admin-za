@@ -1,0 +1,77 @@
+{
+  "id": 9895093151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5061,-30.69268,28.5061,-30.69268",
+    "geom:latitude":-30.69268,
+    "geom:longitude":28.5061,
+    "gn:population":15884,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 973527: name \"Tlokoeng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/973527"
+        },
+        {
+            "citation":"GeoNames populated place 973527: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/973527"
+        },
+        {
+            "citation":"GeoNames populated place 973527: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/973527"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125362667 (Elundini), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688927,
+        102191573,
+        1108730521,
+        1125362667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":973527
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"e96b1442db6c3a2bd7a78060fe6399a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730521,
+            "localadmin_id":1125362667,
+            "locality_id":9895093151,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":9895093151,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Tlokoeng",
+    "wof:parent_id":1125362667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5061,
+    -30.69268,
+    28.5061,
+    -30.69268
+],
+  "geometry": {"coordinates":[28.5061,-30.69268],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895093154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49358,-22.88416,30.49358,-22.88416",
+    "geom:latitude":-22.88416,
+    "geom:longitude":30.49358,
+    "gn:population":19092,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718811: name \"Tshitereke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718811"
+        },
+        {
+            "citation":"GeoNames populated place 12718811: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718811"
+        },
+        {
+            "citation":"GeoNames populated place 12718811: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718811"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125271677 (Thulamela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688935,
+        102191573,
+        1108730575,
+        1125271677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718811
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"beb8c27e9578491f27eb38cdd5e3deb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730575,
+            "localadmin_id":1125271677,
+            "locality_id":9895093154,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":9895093154,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Tshitereke",
+    "wof:parent_id":1125271677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49358,
+    -22.88416,
+    30.49358,
+    -22.88416
+],
+  "geometry": {"coordinates":[30.49358,-22.88416],"type":"Point"}
+}
