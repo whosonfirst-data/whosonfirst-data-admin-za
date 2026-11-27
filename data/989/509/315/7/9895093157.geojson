@@ -1,0 +1,77 @@
+{
+  "id": 9895093157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29164,-26.21551,29.29164,-26.21551",
+    "geom:latitude":-26.21551,
+    "geom:longitude":29.29164,
+    "gn:population":15876,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718834: name \"Thubelihle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718834"
+        },
+        {
+            "citation":"GeoNames populated place 12718834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718834"
+        },
+        {
+            "citation":"GeoNames populated place 12718834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718834"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125363847 (Emalahleni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688895,
+        102191573,
+        1108730587,
+        1125363847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718834
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"22d748caa112553416bc43592a53a675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730587,
+            "localadmin_id":1125363847,
+            "locality_id":9895093157,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":9895093157,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Thubelihle",
+    "wof:parent_id":1125363847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29164,
+    -26.21551,
+    29.29164,
+    -26.21551
+],
+  "geometry": {"coordinates":[29.29164,-26.21551],"type":"Point"}
+}

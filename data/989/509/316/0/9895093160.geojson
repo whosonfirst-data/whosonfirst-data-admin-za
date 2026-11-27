@@ -1,0 +1,77 @@
+{
+  "id": 9895093160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83925,-25.48238,27.83925,-25.48238",
+    "geom:latitude":-25.48238,
+    "geom:longitude":27.83925,
+    "gn:population":49718,
+    "iso:country":"ZA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718846: name \"Letlhabile\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718846"
+        },
+        {
+            "citation":"GeoNames populated place 12718846: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718846"
+        },
+        {
+            "citation":"GeoNames populated place 12718846: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718846"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125271429 (Local Municipality of Madibeng), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633813,
+        85688931,
+        102191573,
+        1108730603,
+        1125271429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718846
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"4dec3d7e6ec2e0017ab8e52f8898be34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730603,
+            "localadmin_id":1125271429,
+            "locality_id":9895093160,
+            "region_id":85688931
+        }
+    ],
+    "wof:id":9895093160,
+    "wof:lastmodified":1795747156,
+    "wof:name":"Letlhabile",
+    "wof:parent_id":1125271429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83925,
+    -25.48238,
+    27.83925,
+    -25.48238
+],
+  "geometry": {"coordinates":[27.83925,-25.48238],"type":"Point"}
+}
